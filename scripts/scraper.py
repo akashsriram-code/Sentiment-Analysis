@@ -500,6 +500,14 @@ def main():
     print(f"   Date range: {daily_stats[0]['date'] if daily_stats else 'N/A'} to {daily_stats[-1]['date'] if daily_stats else 'N/A'}")
     print(f"   Unique sources: {len(source_stats)}")
 
+    # 5. Send Newsletter
+    print("\n5. Sending Newsletter...")
+    try:
+        from newsletter import send_newsletter
+        send_newsletter(output)
+    except Exception as e:
+        print(f"   Warning: Could not send newsletter: {e}")
+
 
 if __name__ == "__main__":
     main()

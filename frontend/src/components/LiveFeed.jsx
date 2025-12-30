@@ -59,6 +59,17 @@ export function LiveFeed({ articles, limit = 12 }) {
 
     return (
         <div className="space-y-4">
+
+            {/* Subscribe CTA */}
+            <a
+                href="https://forms.gle/QVTR5x1RZ7Aejd3H7"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block text-center p-3 mb-6 rounded-xl border border-dashed border-[var(--color-accent)] text-[var(--color-accent)] hover:bg-[var(--color-accent)] hover:text-white transition-all duration-300 font-medium"
+            >
+                📬 Get Daily AI Updates in Your Inbox
+            </a>
+
             {/* Headlines */}
             <div className="space-y-3">
                 {displayArticles.map((article, index) => {
