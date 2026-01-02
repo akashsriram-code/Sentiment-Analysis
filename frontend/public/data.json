@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-01T18:20:32.515356",
-  "total_articles": 40,
-  "overall_sentiment": -0.165,
+  "last_updated": "2026-01-02T01:03:33.087491",
+  "total_articles": 45,
+  "overall_sentiment": -0.115,
   "overall_label": "Neutral",
   "daily_stats": [
     {
@@ -77,13 +77,22 @@
       "moving_avg": -0.176
     },
     {
+      "date": "2025-12-17",
+      "avg_sentiment": -0.001,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.205
+    },
+    {
       "date": "2025-12-18",
       "avg_sentiment": -0.052,
       "article_count": 2,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.212
+      "moving_avg": -0.223
     },
     {
       "date": "2025-12-19",
@@ -92,7 +101,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.194
+      "moving_avg": -0.149
     },
     {
       "date": "2025-12-22",
@@ -101,7 +110,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.088
+      "moving_avg": -0.026
     },
     {
       "date": "2025-12-23",
@@ -110,7 +119,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.149
+      "moving_avg": -0.064
     },
     {
       "date": "2025-12-24",
@@ -119,7 +128,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.193
+      "moving_avg": -0.148
     },
     {
       "date": "2025-12-27",
@@ -128,7 +137,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.168
+      "moving_avg": -0.191
     },
     {
       "date": "2025-12-28",
@@ -140,22 +149,31 @@
       "moving_avg": -0.187
     },
     {
+      "date": "2025-12-29",
+      "avg_sentiment": 0.089,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.167
+    },
+    {
       "date": "2025-12-30",
-      "avg_sentiment": 0.045,
-      "article_count": 4,
+      "avg_sentiment": 0.047,
+      "article_count": 3,
       "positive_count": 1,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.173
+      "neutral_count": 1,
+      "moving_avg": -0.189
     },
     {
       "date": "2025-12-31",
-      "avg_sentiment": -0.125,
-      "article_count": 7,
-      "positive_count": 1,
+      "avg_sentiment": 0.039,
+      "article_count": 10,
+      "positive_count": 3,
       "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.22
+      "neutral_count": 4,
+      "moving_avg": -0.244
     },
     {
       "date": "2026-01-01",
@@ -164,14 +182,35 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.298
+      "moving_avg": -0.138
+    },
+    {
+      "date": "2026-01-02",
+      "avg_sentiment": 0.122,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.009
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.191,
-      "article_count": 28,
+      "avg_sentiment": -0.173,
+      "article_count": 29,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.602,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.134,
+      "article_count": 3,
       "sentiment_label": "Neutral"
     },
     {
@@ -181,19 +220,22 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.245,
+      "source": "The Guardian",
+      "avg_sentiment": -0.179,
       "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.44,
-      "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "DeepSeek Touts New Training Method as China Pushes AI Efficiency",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXJxVXdSQm1GU25HOEJBSWFfamNZdDJKMmd1TGJ1d29WQ3dyN2RuUGE3dmZ1UHNJUjJPVllqTXgxSUNyQWtIU2F5ZTE5T21EUXR4ZkFEc01lQl9pUkJoYVhrSk1YSUVQUDdZMkxaV1VGcFlDUFJKa09jMTQ4RUlhSDFBYy13cjMzWkV5bTVuc25LSkxYeF9XWV9fZlpfblhOOXYxOG5hZmdvcGNHbm1NMVlVdndLQQ?oc=5",
+      "published": "2026-01-02T00:38:00",
+      "sentiment_score": 0.122,
+      "sentiment_label": "Neutral",
+      "confidence": 0.85
+    },
     {
       "headline": "AI Labor Is Boring. AI Lust Is Big Business",
       "source": "wired.com",
@@ -222,13 +264,22 @@
       "confidence": 0.761
     },
     {
-      "headline": "Will the A.I. Boom Continue to Drive Up Stocks in 2026?",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWFITUZ2UTFrYXBwQTVJX1BkTG1OcFdGcXVVODJ1T2FtcFducU44aFpfSDU3bkhmSFhaWk5sdzFlcjEtcUZVenFQZ0o3SkxyYXdYV0FHNFFtSVQ2M2NwelZCaktUeVVrSmtrempNUVF3WWRzN1lTb1J0N3ZvcGw4c3RwNEdCT1FfOGY4REVwZV9kYkFOV1ZhOTlRelBlZw?oc=5",
-      "published": "2025-12-31T21:27:59",
-      "sentiment_score": -0.058,
+      "headline": "Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html",
+      "published": "2025-12-31T21:06:31Z",
+      "sentiment_score": 0.925,
+      "sentiment_label": "Positive",
+      "confidence": 0.947
+    },
+    {
+      "headline": "Trump media firm to issue new cryptocurrency to shareholders",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cx2ky3mn7j5o",
+      "published": "2025-12-31T20:31:26Z",
+      "sentiment_score": 0.335,
       "sentiment_label": "Neutral",
-      "confidence": 0.705
+      "confidence": 0.635
     },
     {
       "headline": "The dumbest things that happened in tech this year | TechCrunch",
@@ -249,6 +300,15 @@
       "confidence": 0.9
     },
     {
+      "headline": "Tell us: have you trained your AI job replacement?",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWVQRmZsMzJ5OTdQRUltOGo3Q25nbTVYb0dxczhaNVVEYjh3ekhUaU9KY1Vvb1NaTVR0MkR6eGFBcDNJaGV5S2NlYmYzWl81THhMekFEUlY0Mnl5OV9pNVM5a1NZRHE4RE5GaXVWMnk1Um5rOVJQWUFUbU5mc0pUdkFacnplcjlGd3ZZR3BXd0prSGdTNmF2ejRsSklGTkcw?oc=5",
+      "published": "2025-12-31T13:04:00",
+      "sentiment_score": 0.002,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
+    {
       "headline": "Space and defense boom lifted these satellite stocks by more than 200% in 2025",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2025/12/31/space-and-defense-boom-lifted-these-satellite-stocks-by-200percent-in-2025.html",
@@ -265,6 +325,15 @@
       "sentiment_score": -0.813,
       "sentiment_label": "Negative",
       "confidence": 0.829
+    },
+    {
+      "headline": "Will the A.I. Boom Continue to Drive Up Stocks in 2026?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWFITUZ2UTFrYXBwQTVJX1BkTG1OcFdGcXVVODJ1T2FtcFducU44aFpfSDU3bkhmSFhaWk5sdzFlcjEtcUZVenFQZ0o3SkxyYXdYV0FHNFFtSVQ2M2NwelZCaktUeVVrSmtrempNUVF3WWRzN1lTb1J0N3ZvcGw4c3RwNEdCT1FfOGY4REVwZV9kYkFOV1ZhOTlRelBlZw?oc=5",
+      "published": "2025-12-31T10:02:25",
+      "sentiment_score": -0.058,
+      "sentiment_label": "Neutral",
+      "confidence": 0.705
     },
     {
       "headline": "A wave paralysed me but AI could help me walk again",
@@ -294,15 +363,6 @@
       "confidence": 0.836
     },
     {
-      "headline": "Artificial intelligence: China plans rules to protect children and tackle suicide risks",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95QlZPcUlqRk9LdjdtajFLOUVfdVozZ296YmFnb18wTGhnTDZZMGp0MlEySEVEaFJRSmpBX0lNVTNuZXpfZFdEQTgwczhsejJRNEE4ZFUxSE5IUdIBX0FVX3lxTE5aUDVpOHN3SjVnSEhoakhFTEJTS3BzeEt6bkVZbHZRdlBGMnV5OHdSTnZHSUVsYV9YT3BvYzIySEpTeXRka3I3R3JucjdFd0pINUFOWTBFM3gwdGYxcmw4?oc=5",
-      "published": "2025-12-30T02:32:33",
-      "sentiment_score": 0.039,
-      "sentiment_label": "Neutral",
-      "confidence": 0.917
-    },
-    {
       "headline": "China to crack down on AI firms to protect kids",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
@@ -319,6 +379,15 @@
       "sentiment_score": -0.36,
       "sentiment_label": "Neutral",
       "confidence": 0.547
+    },
+    {
+      "headline": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc2hsejl1dFdaWFZ3TGRWOF9GTjV4d3dEczczSGowX2V1V3JqaUNDa3Z2aFRwSE1JZXliNnNaOGFteTRVbFpSVV9Ka2hFZ3ptRWJYbW1zejRVczY0SlpCN0d1eWJxZGZISk9ReHphSnRtSDBYdXNINGF3el9ZRldxWHhBOThRVGVOQ3FMaVhBRGk4Wjk4OHhjYU1lQS1MeHo2TDkwMHJSU2ZMS2t4NXhBcFJGV0V2VFdadkZsQnl3?oc=5",
+      "published": "2025-12-29T15:51:40",
+      "sentiment_score": 0.089,
+      "sentiment_label": "Neutral",
+      "confidence": 0.89
     },
     {
       "headline": "OpenAI is looking for a new Head of Preparedness",
@@ -400,6 +469,15 @@
       "sentiment_score": 0.01,
       "sentiment_label": "Neutral",
       "confidence": 0.937
+    },
+    {
+      "headline": "The ChatGPT app store is here",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzJ3N1hjQnRWd3pIN184ZnB3YU54bEh5eTRNd0EzSk9DWFF0cEk5dm4zZFlFQTY4YVFsX3lmUWdjM1ozblY5Q295QTMteHJmczBDQmhhODVrRDJHcUhGdFBwNmlTVXkteWlBQU5qaWgwOFBGY2pkTGMyYURLTEFpcA?oc=5",
+      "published": "2025-12-17T08:00:00",
+      "sentiment_score": -0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.939
     },
     {
       "headline": "Downing Street insists negotiations over US-UK tech deal still live",
