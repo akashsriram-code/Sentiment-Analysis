@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-06T12:28:41.202930",
-  "total_articles": 42,
-  "overall_sentiment": -0.063,
+  "last_updated": "2026-01-06T18:21:50.147517",
+  "total_articles": 46,
+  "overall_sentiment": -0.088,
   "overall_label": "Neutral",
   "daily_stats": [
     {
@@ -122,93 +122,123 @@
       "moving_avg": -0.098
     },
     {
-      "date": "2025-12-31",
-      "avg_sentiment": -0.422,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.195
-    },
-    {
-      "date": "2026-01-01",
-      "avg_sentiment": -0.174,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.213
-    },
-    {
       "date": "2026-01-02",
       "avg_sentiment": -0.138,
       "article_count": 3,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.261
-    },
-    {
-      "date": "2026-01-04",
-      "avg_sentiment": 0.195,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.294
+      "moving_avg": -0.155
     },
     {
       "date": "2026-01-05",
-      "avg_sentiment": 0.017,
-      "article_count": 12,
-      "positive_count": 3,
-      "negative_count": 2,
+      "avg_sentiment": -0.054,
+      "article_count": 15,
+      "positive_count": 4,
+      "negative_count": 4,
       "neutral_count": 7,
-      "moving_avg": -0.168
+      "moving_avg": -0.155
     },
     {
       "date": "2026-01-06",
-      "avg_sentiment": 0.046,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.032
+      "avg_sentiment": -0.049,
+      "article_count": 9,
+      "positive_count": 2,
+      "negative_count": 3,
+      "neutral_count": 4,
+      "moving_avg": -0.191
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.123,
-      "article_count": 28,
+      "avg_sentiment": -0.136,
+      "article_count": 27,
       "sentiment_label": "Neutral"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.462,
+      "avg_sentiment": -0.222,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.391,
       "article_count": 3,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.016,
+      "avg_sentiment": 0.409,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "avg_sentiment": 0.05,
       "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.392,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.478,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.264,
+      "avg_sentiment": 0.217,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "AI startup LMArena triples its valuation to $1.7 billion in latest fundraise",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVNJME5ORG1YOFU0VmNoaVFVME9iMXh6akd5RVI4SEgzdG9wdmNLNFo2c1hCeFY3VXZVamQ0aWhtVWNDWWdfeWs2b0ZUUTRZVTVIMXBheWE1Y2dkUkNqUGlyejl0MGZnc3ZIZlhLN1d6SW9Dd1prTTlCYjhENEpqUDBieEh5ZmVHWjB6T0NkUlVscFhfZ0dwdE40STU0R1IwLXlfSEdkbGh3OTRuekkwZXM1c1ZqQQ?oc=5",
+      "published": "2026-01-06T18:03:21",
+      "sentiment_score": 0.728,
+      "sentiment_label": "Positive",
+      "confidence": 0.768
+    },
+    {
+      "headline": "AI consciousness is a red herring in the safety debate | Letters",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3JiWEZyeWQza2xBTlNGZXFhdzRWOE45WXRmMUNlR1JRM0cxNUlmVHRxQzZGSFVDR0QtaHFXSGJ2cGI0S2VYLTR3UGJDcGQ4bDVNS2dzcmdoc0s1c2laSU9PbDlhcmlObkJKY2ptMW80S3NfY1NPbW5IM194VnZ2MWNNdzZLWXo4cDhvSWszQXFxVGNQRmVTMlRxRDMya2JNUDNoalJXaXQ?oc=5",
+      "published": "2026-01-06T17:36:00",
+      "sentiment_score": -0.556,
+      "sentiment_label": "Negative",
+      "confidence": 0.579
+    },
+    {
+      "headline": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-06T17:01:46",
+      "sentiment_score": -0.812,
+      "sentiment_label": "Negative",
+      "confidence": 0.825
+    },
+    {
+      "headline": "Variant Bio launches AI-powered platform for drug discovery using genetic data",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWVIMXkxcFA2M0ZqOUY0TWVTNzFhYWx1QzdJQ1lybkpyRGJOS3BIcTNRUTZuaFlST0ZMdzlGU3p2Q0ZvM29ZNG80akJWa0FBdFJJYjZYa0EwQnJieUx3aDNpRUVJdVY2dWZrTUdBdVRFeWJfSGV0RXdXMGhqSGtSeTd0SV9rcm13UlE2bC1ZeWVndWpHbXBpU2lzeE5vUVR0RVRtcUtoLW1jS2lqT1NDcUZ3UGdaX0lsVjg0S0s1d0VFbHRyV3QtMS1Id0hyakFWVkZSZFlqR2U2SlIxbURB?oc=5",
+      "published": "2026-01-06T16:27:34",
+      "sentiment_score": 0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.884
+    },
+    {
+      "headline": "\u2018I felt violated\u2019: Elon Musk\u2019s AI chatbot crosses a line",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUhJVTJWNU5HOFM4V010VWlXZDUxc3p1R3l6OTEzazhOOFJHLWdrWnBkcEZGeGJ1UUV2V0FxQmVVS2dDbDd1Y24xOEZhb1FTZFZfY3BjM2w5M09EQlpHQjN5YWFyTHlqeTRtaDA2TmlVRHE2OEZPaV9kc1g1V3I1Qjln?oc=5",
+      "published": "2026-01-06T14:37:00",
+      "sentiment_score": -0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.747
+    },
     {
       "headline": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
       "source": "BBC News",
@@ -219,13 +249,13 @@
       "confidence": 0.496
     },
     {
-      "headline": "Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DZkd2VVltWHBULWQtQkM5d0Vtb0pxUDNXYzFMVUdxWkE0TTE1THVuNXNxb21hbmh4WF91RGlycVVmMUkyUDlQR1NKOXJOUjU1WlNCWTFTZmxhRUpsazJDUkRhanFYNE9rNDE1YTdRWmxSRU9vTzJuSEJ4WnU?oc=5",
-      "published": "2026-01-06T07:47:00",
-      "sentiment_score": 0.072,
+      "headline": "Hospitals Are a Proving Ground for What AI Can Do, and What It Can\u2019t",
+      "source": "The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQaDJrQzR5UnZzSFhnUV8xd3dveWY5VVhIRm5DQm1GUTl2NTN3M3ZOVFk3Y21DdnJYMjBMSlB6R3NJSFJTbWdlNHRSVW1Ddi1Ycy1kakRvZ2g4R3NiQ21TcXdoZU9SWklReHg2TkNWQXN0T05QbUZ4bFNMNGtHZjRiWmtLU2I5bWl5eGdiazhBdk92Smwyci03V0piTWZmaFU5MXFxa3lnQ2lBZkhOQ2JyeVdYczVRYWhxdXZ3UEF0YThKTjNwNW5CaWMycVd6bG5NbUdHLUcxX21FNGZuR1g2OXI5QVRnSldnT0JRV1JsUHg5SDJpMmgtX3R2bHlULUtST0JzRFhVQ3ZQMTlGc05xQXNZWTMtcUhPTktneFpTYmYwQmV3cC1oMnQ0THItS2Y0Ti1rdU9saFVVMExtYUlPMmZSWkRHNGc1eFVaUkJDeENnM3dYelVmWWJHMllFTTFVRzBQUmdHX3haRVB3SWloTmtra2w5Mkk1UnF5QVJQaDJKWHI5Rld5TGlHamRZUzRhLThhaWRocnNZRVREUnZlWmpfZlBVN1cyT0g4?oc=5",
+      "published": "2026-01-06T07:00:25",
+      "sentiment_score": 0.086,
       "sentiment_label": "Neutral",
-      "confidence": 0.903
+      "confidence": 0.881
     },
     {
       "headline": "Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)",
@@ -255,6 +285,15 @@
       "confidence": 0.896
     },
     {
+      "headline": "Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DZkd2VVltWHBULWQtQkM5d0Vtb0pxUDNXYzFMVUdxWkE0TTE1THVuNXNxb21hbmh4WF91RGlycVVmMUkyUDlQR1NKOXJOUjU1WlNCWTFTZmxhRUpsazJDUkRhanFYNE9rNDE1YTdRWmxSRU9vTzJuSEJ4WnU?oc=5",
+      "published": "2026-01-05T23:09:36",
+      "sentiment_score": 0.072,
+      "sentiment_label": "Neutral",
+      "confidence": 0.903
+    },
+    {
       "headline": "Opinion | Action-taking AI is speeding ahead. Let\u2019s get some guardrails up.",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXE5SWNkYm1RaU4wTU9QV0xucTFGRUhrZ1RJdzcxeWNTMHoyamM4aHBoUXZXSm14OVJSeGFmeFhrMVVjckEtZE8wVnBlN05aUmkyN3RsRGpwUUM4MUZMY2tMY1dTM1U4blpIbXhuS0h3ZU5LN1NfaE9JS0JjeVpFNGtpc25zRXFYd0JMOHl5eDYwcjEybVE?oc=5",
@@ -273,22 +312,58 @@
       "confidence": 0.752
     },
     {
-      "headline": "AI boom is in early bubble phase, Bridgewater founder Ray Dalio says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNEdhejBQLTRwWlVMV0tWelZfZ3R3MFpFVGpSNUVLeUIzT0oyNTBhelhJbjFFUVJEV1RnZmFVOVRKaVdWZlRaX3IweF9sdFRTamcwdk04Ukd0YmJJMXhITFVOck9OZ25nc3VLQ0ZoaW9EcnYxNnE2bDg4UDhBcW5sM3BIek9jRklRNllQcnBRMkN2QXVOOUdvYnBIdWZaQU1jT25wYjFyVkFhbjlIS0E?oc=5",
-      "published": "2026-01-05T16:24:30",
-      "sentiment_score": -0.004,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
+      "headline": "The 2026 BMW iX3 voice assistant will be powered by Alexa+",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/",
+      "published": "2026-01-05T17:04:46Z",
+      "sentiment_score": 0.521,
+      "sentiment_label": "Positive",
+      "confidence": 0.53
     },
     {
-      "headline": "Navigating the evolving world of e-discovery, information governance and artificial intelligence",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUm1VMVk5YW1DUm50V19UZGNQdlNtcUdFbkhjX2NKTS1pZmRaTFJjYVo0SFdLVjE5cFZwTFVCT0Myb1V4c2gta2tyWXVHNnpReVdxTGN2NVJ6bm5KamdfNEI3WFlEaWpaYnNfbFM5LVRtbUl5VUc0S1hFVVJncXIyWlZaOE9OdVo3Ulg3bko1MDdsNXQ5cW41ZXh6RDVXQXpWODZObU16T0JiVG40UjE2VVBfYkRMNWNocldIdEEyWW44eTByT3hHZEVYOUVFenVN?oc=5",
-      "published": "2026-01-05T15:16:09",
-      "sentiment_score": 0.035,
+      "headline": "Razer\u2019s AI wearable is a headset with built-in cameras",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko",
+      "published": "2026-01-05T16:10:32Z",
+      "sentiment_score": 0.104,
       "sentiment_label": "Neutral",
-      "confidence": 0.929
+      "confidence": 0.874
+    },
+    {
+      "headline": "AI godfather says Meta\u2019s new 29-year-old AI boss is \u2018inexperienced\u2019 and warns of staff exodus",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html",
+      "published": "2026-01-05T16:00:01Z",
+      "sentiment_score": -0.954,
+      "sentiment_label": "Negative",
+      "confidence": 0.962
+    },
+    {
+      "headline": "Amazon lets some users chat with Alexa+ on the web in bid to take on ChatGPT",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/05/amazon-alexa-web-chatgpt.html",
+      "published": "2026-01-05T15:15:36Z",
+      "sentiment_score": 0.049,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
+    },
+    {
+      "headline": "Amazon's AI assistant comes to the web with Alexa.com | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
+      "published": "2026-01-05T15:01:42Z",
+      "sentiment_score": 0.435,
+      "sentiment_label": "Neutral",
+      "confidence": 0.546
+    },
+    {
+      "headline": "Fed's\u00a0Kashkari says AI is causing a hiring slowdown in big companies",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/05/fed-kashkari-ai-hiring-jobs.html",
+      "published": "2026-01-05T14:21:36Z",
+      "sentiment_score": -0.906,
+      "sentiment_label": "Negative",
+      "confidence": 0.936
     },
     {
       "headline": "AI Deepfakes Are Impersonating Pastors to Try to Scam Their Congregations",
@@ -318,24 +393,6 @@
       "confidence": 0.926
     },
     {
-      "headline": "At CES 2026, Everything Is AI. What Matters Is How You Use It",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/ces-2026-what-to-expect/",
-      "published": "2026-01-05T11:00:00Z",
-      "sentiment_score": 0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
-    },
-    {
-      "headline": "CNBC Daily Open: A banner year for markets in 2025",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/05/cnbc-daily-open-a-banner-year-for-markets-in-2025.html",
-      "published": "2026-01-05T01:19:23Z",
-      "sentiment_score": 0.272,
-      "sentiment_label": "Positive",
-      "confidence": 0.623
-    },
-    {
       "headline": "Bosch\u2019s fancy coffee machine is getting Alexa Plus",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/853818/bosch-smart-coffee-machine-alexa-plus-upgrade",
@@ -354,24 +411,6 @@
       "confidence": 0.861
     },
     {
-      "headline": "SwitchBot says its humanoid household robot can do your laundry",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026",
-      "published": "2026-01-04T16:49:02Z",
-      "sentiment_score": 0.197,
-      "sentiment_label": "Neutral",
-      "confidence": 0.785
-    },
-    {
-      "headline": "Top Wall Street analysts suggest these 3 stocks for their growth prospects",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/04/top-wall-street-analysts-suggest-these-3-stocks-for-their-growth-prospects.html",
-      "published": "2026-01-04T12:20:47Z",
-      "sentiment_score": 0.193,
-      "sentiment_label": "Neutral",
-      "confidence": 0.778
-    },
-    {
       "headline": "AI teachers and cybernetics - what could the world look like in 2050?",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss",
@@ -383,7 +422,7 @@
     {
       "headline": "OpenAI Is Taking On Apple\u2019s App Store. It\u2019s Got a Long Way to Go.",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSTJSblE5OXNpRnBpaUZpLWxkcTgxVTJrV3MycldneXlXN2szbENRUklQTmVkSW1aTTBmR1hBNU5Db050dkx6RmY1MFRhUDZmcXFoNGJnT1dWa0lybVU3ZG5MV0JHNFltUUJoQ0c3XzlrYVFfYTRnTDdGSG1pSkV6Sm9kWWktQWdqZDRXdnpnOVRBWF9FZGJlbW4xUjRsemRFRVA1OE1Jall4UXc2U29LSVpkWjRVbXdIdGR4a055ZjJHZjNJT2oyMVQ4REZhcHVDX2NIN1pGU1dROHNpeDNXOGs1ZHlFd0FmT2cwQXZNcVZfNTNfbEJmT3lIVmVWbEl6alFoc0dtekRwdUZUQTRDeFNFSC15ajRZbWYtVnVzV0xYT0VmQTdUcnZFM3RpV25yQ1F5V24yTHF6ZWczQU9LeWRLNUE3akpnNEhwWlFoR190TWJ3S0U5czYtMTVZSGZocHpvS0k2SVl0YU1hVEk1cFl5UG0yX0g4SDBCX3A2NA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTExpdUxjV01vZWRVa2V6c2Zvcmt2Ry1sQnZZLVBaM2N0S1hsRHEyQWhpbUctZ1NMMm5aRE5PcXo2TEc0bWItUzlIOVZpMHhqdlpsMExlTll5NzhzMjVROUd3cmgwTlpLM1d6Yjl0QVFVaGF3bng5T2lmeEV2czBuaHdCNi1NN1laTDJ3enhTckNyLUZ1d1N2RUpUYWNRSTBoREFwdm9ERDBOY2ZLVEJ3d0hIZ2E4X1lsN2lGcFFBLWlTd0JxcTZkZUFQSlU4eE9HU1dFZ2pqbS1GdTEyUEx3Vmlrb20xUUVkd1hFQWx5VVg1eEVPaG1QNVVCWWZoVi1ZNGhiWVdjdmRoM3JSZlFZNWZremd5X2dmZGdTaHl0Q0k2TlNiMzJSNVRiT3lJME9NQzlaeEliYmo4RU9YTkpHdDk0V0wtYnNVdGZ6SGlXM2xkclpEVmowQ2JFNXc0RzJzNWFXREkzTjZPZlJGWlZXdWZOaTM2WnRwam1UTDFSOA?oc=5",
       "published": "2026-01-02T19:50:00",
       "sentiment_score": 0.015,
       "sentiment_label": "Neutral",
@@ -397,24 +436,6 @@
       "sentiment_score": -0.558,
       "sentiment_label": "Negative",
       "confidence": 0.578
-    },
-    {
-      "headline": "Crypto users forced to share account details with tax officials",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-01-01T09:52:20",
-      "sentiment_score": -0.174,
-      "sentiment_label": "Neutral",
-      "confidence": 0.761
-    },
-    {
-      "headline": "A wave paralysed me but AI could help me walk again",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss",
-      "published": "2025-12-31T05:59:35",
-      "sentiment_score": -0.422,
-      "sentiment_label": "Neutral",
-      "confidence": 0.493
     },
     {
       "headline": "Meta buys Chinese-founded AI start-up Manus",
