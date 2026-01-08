@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-08T01:03:28.762749",
-  "total_articles": 49,
-  "overall_sentiment": -0.082,
+  "last_updated": "2026-01-08T06:23:04.114005",
+  "total_articles": 48,
+  "overall_sentiment": -0.108,
   "overall_label": "Neutral",
   "daily_stats": [
     {
@@ -141,21 +141,21 @@
     },
     {
       "date": "2026-01-06",
-      "avg_sentiment": 0.011,
-      "article_count": 19,
-      "positive_count": 4,
-      "negative_count": 5,
-      "neutral_count": 10,
-      "moving_avg": -0.219
+      "avg_sentiment": -0.043,
+      "article_count": 13,
+      "positive_count": 3,
+      "negative_count": 4,
+      "neutral_count": 6,
+      "moving_avg": -0.227
     },
     {
       "date": "2026-01-07",
-      "avg_sentiment": -0.137,
-      "article_count": 5,
-      "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.299
+      "avg_sentiment": -0.108,
+      "article_count": 10,
+      "positive_count": 3,
+      "negative_count": 3,
+      "neutral_count": 4,
+      "moving_avg": -0.303
     },
     {
       "date": "2026-01-08",
@@ -164,7 +164,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.174
+      "moving_avg": -0.177
     }
   ],
   "source_stats": [
@@ -176,20 +176,26 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.043,
+      "avg_sentiment": -0.049,
       "article_count": 7,
       "sentiment_label": "Neutral"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.067,
-      "article_count": 6,
+      "avg_sentiment": -0.464,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.138,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.011,
-      "article_count": 3,
+      "avg_sentiment": 0.012,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
@@ -204,6 +210,15 @@
       "confidence": 0.931
     },
     {
+      "headline": "Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGEwN1U5UDlEbXNZVVNoUENJNTNCYmJzc3FVcVRsWjZ4dHZVZVJncFdZa3lJazhYdGZhNF9SOG5JcUxLMDFkNm40emswMGdQdGZ1YnMwMjZ0bERZbGxWQWRTdlRfSlhjOE5MNUw4N0NybGxaM2dpamRZbWFTelQtTEUzV1dCY3RpZUhpMUdIU3JRWDJHc3ZlaGx1dGktU00tVExXVmFPRmN4WFVxYTJ6X3RyZkJyNjRBdk1nSXpLNA?oc=5",
+      "published": "2026-01-07T23:36:00",
+      "sentiment_score": 0.204,
+      "sentiment_label": "Neutral",
+      "confidence": 0.776
+    },
+    {
       "headline": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
@@ -211,15 +226,6 @@
       "sentiment_score": -0.295,
       "sentiment_label": "Neutral",
       "confidence": 0.652
-    },
-    {
-      "headline": "How Google Got Its Groove Back and Edged Ahead of OpenAI - WSJ",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOOU9Vb1g4aktobHRRRUt4Tk1KZDJ3RnY3ZnBONFdSY3pyRGVqb05UakF2V21XZWVoMDdBTTU1UWFBYkd1NlVzeW94bTJLdjNJWjJ0SzljSHA2M0NnZ1JVbGhaa1JaTF8xSUtNZzRTRnRmNGc0MHJ6MG1qM0FGMlhmWk54dktaRUtuaEtFb0ktVEVfMU9XbnQ1YmFSc1RmNUZIWnI5MXg5TlJNYUIyRVJuVkNSZzZSWFBtU0VnWC1BS3M3eUxueWVLZU5kR25SWk1ibE1laTN2a19ZZldpc1JLOVQ0dG9yaUtxd1RCRk1xekpXd2toVExKXzQzRFZvX19XWFBqZUdaRnBoT1ZkdWg4Yk1EUVdBY193U0FfUnhsN3d6VDhodkd2cUFXVWo0NGRYRklHYllsMTFFYmNEdVpwckFGZ3F3UmVvMldrU1k5SHYtLXlnSmhDdVlLUlpoX3AzM3c2SjZJdmpiX3BCVDRHS3plZ2JDZXZ0TkcxWQ?oc=5",
-      "published": "2026-01-07T22:30:39",
-      "sentiment_score": 0.312,
-      "sentiment_label": "Neutral",
-      "confidence": 0.629
     },
     {
       "headline": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
@@ -231,13 +237,58 @@
       "confidence": 0.924
     },
     {
-      "headline": "Anthropic Said to Be in Talks to Raise Funding at a $350 Billion Valuation",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPejgwczl1UGZBd3ZmODAyaEZkXzFzZ05lYms5ckwzaFgwS2s0WHlLX18wekVyNnZweG5FRGNkM1RMTTVHRGpZYnl4Nzd1YWFGWXV1bDFVZDVrNzlPRVZfMFd0MW9CWU9PbEhVQldRX3R0TnNPSHRMMEpWQWpXSGphRVBzSUw?oc=5",
-      "published": "2026-01-07T21:02:05",
-      "sentiment_score": 0.174,
+      "headline": "OpenAI launches ChatGPT Health to connect medical records, wellness apps",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRDZiQkU2bkUyaDN6RmVfckRQd3hCdTZFdlBzMzlacE84MW5DQzJ4RXNkemNDaXhSQXBuZURIV3hzcXU0ZmdwbVpnZng4d0VtU2RlNUtHeWxWQmpHc1VQcENqYTRRTjZCaDN1QWZMN2ZJREJrU1BDcGk4Ykc1aWJ6Z01LNEpOWHF5emduVlFaUmduRy1pcVphYUd5cGJzRGsycVRyUzR5clJWLVpTaW84ZUo3c2JGMHUydktzWGVPTDQwSFNGc3AzemY3aU1FYjJFV1JqVEhrQQ?oc=5",
+      "published": "2026-01-07T20:26:54",
+      "sentiment_score": 0.073,
       "sentiment_label": "Neutral",
-      "confidence": 0.807
+      "confidence": 0.902
+    },
+    {
+      "headline": "AI-powered cars at CES show a vision of the future with personalized driving experiences",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/ces-ai-auto-travel-mobility-las-vegas-de4ab551c3102c119a01b7a81fe3e8af",
+      "published": "2026-01-07T06:06:43Z",
+      "sentiment_score": 0.18,
+      "sentiment_label": "Neutral",
+      "confidence": 0.798
+    },
+    {
+      "headline": "McKinsey and General Catalyst execs say the era of 'learn once, work forever' is over | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
+      "published": "2026-01-07T03:10:50Z",
+      "sentiment_score": 0.007,
+      "sentiment_label": "Neutral",
+      "confidence": 0.861
+    },
+    {
+      "headline": "China reviews Meta's purchase of AI startup Manus, FT reports",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/07/china-reviews-metas-purchase-of-ai-startup-manus-ft-reports.html",
+      "published": "2026-01-07T02:39:59Z",
+      "sentiment_score": -0.91,
+      "sentiment_label": "Negative",
+      "confidence": 0.924
+    },
+    {
+      "headline": "How Google Got Its Groove Back and Edged Ahead of OpenAI - WSJ",
+      "source": "The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOQXZ5VWFHdi1OMXJBOXB6b2hoa241OGwyZ1hFVW43S3NFNzFpdU5DekREN1dncHpEUkEzQWx4QnprTlpkQko2S0xEY3JlcV9RMUVRSDRacWFMVUFudVVYcl9MekdYQXNIVUhSY2NLQWpDSEw5Sm8xWUMtQXg1a21nSXd0LW14ZHBRcnZnNHFiMmhQNTBqbGdna0k2ZWM4VHZESElwd0ZFRzR5Y096VlZMazZxdjJrYkZ5ZWhiQ1ZtdnJkZE12Zk5BbnM0R2Y2bjVaczJnd1dPbElOcjRZS2RrazQzckpodkk0d3hpUHFXMk5KQThUSG1pZlkxVV94VHFmSWFWQ2RUejhkQUJSQkk2N1B1czM2R1h5N3JNbkY2MXFkNE43cWdlLS1kaEdyVmhOVExPUVZQbUZacWJHLTVTMWdCbndwWTZ3UVZDdTdXZ1lyM3Z5bEY3cFlOa2JyNjNKOFo3SjNnWXozUFB1OF9YeVFEM2JkVnp6VFFOZw?oc=5",
+      "published": "2026-01-07T02:00:00",
+      "sentiment_score": 0.312,
+      "sentiment_label": "Neutral",
+      "confidence": 0.629
+    },
+    {
+      "headline": "Lenovo is building an AI assistant that \u2018can act on your behalf\u2019",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
+      "published": "2026-01-07T01:44:50Z",
+      "sentiment_score": 0.224,
+      "sentiment_label": "Neutral",
+      "confidence": 0.756
     },
     {
       "headline": "CNBC Daily Open: After Venezuela, rumblings of Greenland takeover from the White House",
@@ -247,15 +298,6 @@
       "sentiment_score": -0.899,
       "sentiment_label": "Negative",
       "confidence": 0.918
-    },
-    {
-      "headline": "Cramer warns the January rally is driven by emotion and not all stocks will hold up",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/06/jim-cramer-january-rally-emotional-momentum-stocks-2026.html",
-      "published": "2026-01-06T23:58:32Z",
-      "sentiment_score": -0.293,
-      "sentiment_label": "Neutral",
-      "confidence": 0.492
     },
     {
       "headline": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities\u00a0 | TechCrunch",
@@ -276,15 +318,6 @@
       "confidence": 0.629
     },
     {
-      "headline": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump",
-      "published": "2026-01-06T22:24:06Z",
-      "sentiment_score": -0.006,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
-    },
-    {
       "headline": "Grok Is Pushing AI \u2018Undressing\u2019 Mainstream",
       "source": "Wired",
       "link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
@@ -301,24 +334,6 @@
       "sentiment_score": -0.86,
       "sentiment_label": "Negative",
       "confidence": 0.876
-    },
-    {
-      "headline": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/",
-      "published": "2026-01-06T21:13:34Z",
-      "sentiment_score": 0.053,
-      "sentiment_label": "Neutral",
-      "confidence": 0.912
-    },
-    {
-      "headline": "Huang says Nvidia seeing \u2018very high\u2019 Chinese customer demand for H200 AI chips",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html",
-      "published": "2026-01-06T21:01:38Z",
-      "sentiment_score": 0.905,
-      "sentiment_label": "Positive",
-      "confidence": 0.924
     },
     {
       "headline": "Elon Musk's xAI raises $20 billion from investors including Nvidia, Cisco, Fidelity",
@@ -375,15 +390,6 @@
       "confidence": 0.825
     },
     {
-      "headline": "AMD's Lisa Su says AI isn't replacing people, but is changing who they hire",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/06/amd-lisa-su-ai-jobs-hiring.html",
-      "published": "2026-01-06T16:56:26Z",
-      "sentiment_score": -0.067,
-      "sentiment_label": "Neutral",
-      "confidence": 0.477
-    },
-    {
       "headline": "Commonwealth Fusion Systems installs reactor magnet, lands deal with Nvidia | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/",
@@ -391,15 +397,6 @@
       "sentiment_score": 0.159,
       "sentiment_label": "Neutral",
       "confidence": 0.824
-    },
-    {
-      "headline": "Anker\u2019s display-equipped Nano Charger is on sale following its CES debut",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/855701/anker-45w-nano-charger-nothing-ear-open-earbuds-deal-sale",
-      "published": "2026-01-06T15:42:05Z",
-      "sentiment_score": 0.174,
-      "sentiment_label": "Neutral",
-      "confidence": 0.808
     },
     {
       "headline": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
