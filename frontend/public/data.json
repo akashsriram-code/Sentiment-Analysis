@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-07T18:22:34.250506",
-  "total_articles": 38,
-  "overall_sentiment": -0.056,
+  "last_updated": "2026-01-08T01:03:28.762749",
+  "total_articles": 49,
+  "overall_sentiment": -0.082,
   "overall_label": "Neutral",
   "daily_stats": [
     {
@@ -141,73 +141,220 @@
     },
     {
       "date": "2026-01-06",
-      "avg_sentiment": 0.049,
-      "article_count": 12,
-      "positive_count": 3,
-      "negative_count": 2,
-      "neutral_count": 7,
-      "moving_avg": -0.213
+      "avg_sentiment": 0.011,
+      "article_count": 19,
+      "positive_count": 4,
+      "negative_count": 5,
+      "neutral_count": 10,
+      "moving_avg": -0.219
     },
     {
       "date": "2026-01-07",
-      "avg_sentiment": 0.414,
-      "article_count": 2,
+      "avg_sentiment": -0.137,
+      "article_count": 5,
       "positive_count": 1,
+      "negative_count": 2,
+      "neutral_count": 2,
+      "moving_avg": -0.299
+    },
+    {
+      "date": "2026-01-08",
+      "avg_sentiment": 0.016,
+      "article_count": 1,
+      "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.215
+      "moving_avg": -0.174
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
       "avg_sentiment": -0.141,
-      "article_count": 26,
+      "article_count": 28,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.043,
+      "article_count": 7,
       "sentiment_label": "Neutral"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.243,
+      "avg_sentiment": -0.067,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.011,
       "article_count": 3,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
-      "headline": "AI (artificial intelligence)",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckVEb212dy16TExyVy01bmR1YklIa1lTektYdFBkOU9zcXRNeF9UTzhfdlI0bmlPcXNJb1hHbTNVWXQ2d0FjRzYzYUxseGtnUzVZa0ZzVmQxdmVWX3FkdTdzekZDSXRHX05FeWwtaUhDd2F4cDY0STlKVVpHY3dDaXRMN0J5UQ?oc=5",
-      "published": "2026-01-07T15:57:45",
-      "sentiment_score": -0.011,
+      "headline": "Inside the sub-zero lair of the world's most powerful computer",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-08T00:04:43",
+      "sentiment_score": 0.016,
       "sentiment_label": "Neutral",
-      "confidence": 0.944
+      "confidence": 0.931
     },
     {
-      "headline": "AI will free households from chores and boost hidden productivity, says OpenAI",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85MlgtZFlQWmF1aG9wZEppZWxXS3VNamJFQU5UUFhWTS0wY0J3TkRzeElURjFCSHl3WXZIVlNvMDdtWndJRHhCRHptamt5UDhyeTBMYnFlNERDRFZNOGxVSDN5d0FuOTFaVTNRbE96cnY?oc=5",
-      "published": "2026-01-07T11:00:09",
-      "sentiment_score": 0.839,
-      "sentiment_label": "Positive",
-      "confidence": 0.853
-    },
-    {
-      "headline": "Elon Musk\u2019s xAI Raises $20 Billion",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yVVA2bklQbmZzTnJCdGtWZE1MYi1DZ0habzdvYUxIemdsSkI4TlN4WWFkTlVfMDNDTDA5WXhOTjQ0RnozeHYwM0hZcUxBcEFHLWZPOUtCRXM3c1VNV0FqeUxYUEtFNzlQdkRGSG9WeFZ5TkNGSHRPdU1sWXE?oc=5",
-      "published": "2026-01-06T21:43:54",
-      "sentiment_score": 0.125,
+      "headline": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-07T23:01:52",
+      "sentiment_score": -0.295,
       "sentiment_label": "Neutral",
-      "confidence": 0.835
+      "confidence": 0.652
     },
     {
-      "headline": "How Google Got Its Groove Back and Edged Ahead of OpenAI",
+      "headline": "How Google Got Its Groove Back and Edged Ahead of OpenAI - WSJ",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQYW1pNkE4alBsb0JxUGpwUFR0bHJVOUxoQVRBanM4TXowWTlyRXdtT1dpdE5HT3BNRUZhb0xSMlJscE9RcmEtaDNsSlpaVXdmWUJqWmxJNzJqT1A2T3A0bkVSX2RZYkg2clpLazVnYVBDWnZzcWhxTFMwUDN2NlZrNUZEVkM2dG9TS2RQU3RhNmExRnNET010dkc1WThlaVNoSi1WRm9KU3JhRnl6b3hCSWlrTk4yN0x0RzZ6Y1RPbW1KQktXU1EzM1ctMV8wMkVLU3NJTktQQkJmOGxIZFc0VUxYU2lTZW1MM3pMd3pLVUVBbXFQSnhPQU1xWXFHMmEzUzFNTnFQUWRhLTVnbWQ1U00xMFF0LU9NSExKNjhnYnVQZzlMSWxZSHl6cWN5aU9RY3kzR3NsMkJGZWUwdTNNWHVlLTU3SldkUENoSFdrSjZ6NW5hbTJ2YjdsV3BTeTJHSEhuanhmX2RKb3RDVTl6SVJFaVFjZEsxNWJxQg?oc=5",
-      "published": "2026-01-06T19:18:54",
-      "sentiment_score": 0.285,
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOOU9Vb1g4aktobHRRRUt4Tk1KZDJ3RnY3ZnBONFdSY3pyRGVqb05UakF2V21XZWVoMDdBTTU1UWFBYkd1NlVzeW94bTJLdjNJWjJ0SzljSHA2M0NnZ1JVbGhaa1JaTF8xSUtNZzRTRnRmNGc0MHJ6MG1qM0FGMlhmWk54dktaRUtuaEtFb0ktVEVfMU9XbnQ1YmFSc1RmNUZIWnI5MXg5TlJNYUIyRVJuVkNSZzZSWFBtU0VnWC1BS3M3eUxueWVLZU5kR25SWk1ibE1laTN2a19ZZldpc1JLOVQ0dG9yaUtxd1RCRk1xekpXd2toVExKXzQzRFZvX19XWFBqZUdaRnBoT1ZkdWg4Yk1EUVdBY193U0FfUnhsN3d6VDhodkd2cUFXVWo0NGRYRklHYllsMTFFYmNEdVpwckFGZ3F3UmVvMldrU1k5SHYtLXlnSmhDdVlLUlpoX3AzM3c2SjZJdmpiX3BCVDRHS3plZ2JDZXZ0TkcxWQ?oc=5",
+      "published": "2026-01-07T22:30:39",
+      "sentiment_score": 0.312,
       "sentiment_label": "Neutral",
-      "confidence": 0.664
+      "confidence": 0.629
+    },
+    {
+      "headline": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFpVME1TNzhFUmFfM2hMYllkNjB1a1pqcDUxWU1LZkJUQ0tOeDU5S0xGUFc0enBrMEJpbENWdEl1bUhBT09iYVhfRkhyNTYtS05TX2FTZ0JBSlMyTDJVQzFQZE5Rb0VJQ3I2MVVkYnZOYUVtbUNvRlB6b0JDS0gwSzNEOGxGOTBMRkd4X2xLTzl2OEx4YVZWYS0wcWtmSG8zU3d1S2lzUnpTMlE3azloLUQxeVA?oc=5",
+      "published": "2026-01-07T21:08:23",
+      "sentiment_score": 0.023,
+      "sentiment_label": "Neutral",
+      "confidence": 0.924
+    },
+    {
+      "headline": "Anthropic Said to Be in Talks to Raise Funding at a $350 Billion Valuation",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPejgwczl1UGZBd3ZmODAyaEZkXzFzZ05lYms5ckwzaFgwS2s0WHlLX18wekVyNnZweG5FRGNkM1RMTTVHRGpZYnl4Nzd1YWFGWXV1bDFVZDVrNzlPRVZfMFd0MW9CWU9PbEhVQldRX3R0TnNPSHRMMEpWQWpXSGphRVBzSUw?oc=5",
+      "published": "2026-01-07T21:02:05",
+      "sentiment_score": 0.174,
+      "sentiment_label": "Neutral",
+      "confidence": 0.807
+    },
+    {
+      "headline": "CNBC Daily Open: After Venezuela, rumblings of Greenland takeover from the White House",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/07/cnbc-daily-open-after-venezuela-rumblings-of-greenland-takeover-from-the-white-house.html",
+      "published": "2026-01-07T01:01:51Z",
+      "sentiment_score": -0.899,
+      "sentiment_label": "Negative",
+      "confidence": 0.918
+    },
+    {
+      "headline": "Cramer warns the January rally is driven by emotion and not all stocks will hold up",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/06/jim-cramer-january-rally-emotional-momentum-stocks-2026.html",
+      "published": "2026-01-06T23:58:32Z",
+      "sentiment_score": -0.293,
+      "sentiment_label": "Neutral",
+      "confidence": 0.492
+    },
+    {
+      "headline": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities\u00a0 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "published": "2026-01-06T22:49:04Z",
+      "sentiment_score": 0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.912
+    },
+    {
+      "headline": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
+      "published": "2026-01-06T22:24:11Z",
+      "sentiment_score": -0.601,
+      "sentiment_label": "Negative",
+      "confidence": 0.629
+    },
+    {
+      "headline": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump",
+      "published": "2026-01-06T22:24:06Z",
+      "sentiment_score": -0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.896
+    },
+    {
+      "headline": "Grok Is Pushing AI \u2018Undressing\u2019 Mainstream",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
+      "published": "2026-01-06T22:20:08Z",
+      "sentiment_score": 0.057,
+      "sentiment_label": "Neutral",
+      "confidence": 0.901
+    },
+    {
+      "headline": "Amazon's AI shopping tool sparks backlash from online retailers that didn't want websites scraped",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/06/amazons-ai-shopping-tool-sparks-backlash-from-some-online-retailers.html",
+      "published": "2026-01-06T22:16:57Z",
+      "sentiment_score": -0.86,
+      "sentiment_label": "Negative",
+      "confidence": 0.876
+    },
+    {
+      "headline": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/",
+      "published": "2026-01-06T21:13:34Z",
+      "sentiment_score": 0.053,
+      "sentiment_label": "Neutral",
+      "confidence": 0.912
+    },
+    {
+      "headline": "Huang says Nvidia seeing \u2018very high\u2019 Chinese customer demand for H200 AI chips",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html",
+      "published": "2026-01-06T21:01:38Z",
+      "sentiment_score": 0.905,
+      "sentiment_label": "Positive",
+      "confidence": 0.924
+    },
+    {
+      "headline": "Elon Musk's xAI raises $20 billion from investors including Nvidia, Cisco, Fidelity",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/06/elon-musk-xai-raises-20-billion-from-nvidia-cisco-investors.html",
+      "published": "2026-01-06T20:28:30Z",
+      "sentiment_score": 0.812,
+      "sentiment_label": "Positive",
+      "confidence": 0.82
+    },
+    {
+      "headline": "California lawmaker proposes a four-year ban on AI chatbots in kid's toys | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
+      "published": "2026-01-06T20:24:09Z",
+      "sentiment_score": -0.365,
+      "sentiment_label": "Neutral",
+      "confidence": 0.577
+    },
+    {
+      "headline": "Grok is undressing children \u2014 can the law stop it?",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk",
+      "published": "2026-01-06T20:08:18Z",
+      "sentiment_score": -0.2,
+      "sentiment_label": "Neutral",
+      "confidence": 0.746
+    },
+    {
+      "headline": "LMArena lands $1.7B valuation four months after launching its product | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/",
+      "published": "2026-01-06T19:38:59Z",
+      "sentiment_score": 0.384,
+      "sentiment_label": "Neutral",
+      "confidence": 0.597
     },
     {
       "headline": "News orgs win fight to access 20M ChatGPT logs. Now they want more.",
@@ -217,15 +364,6 @@
       "sentiment_score": 0.18,
       "sentiment_label": "Neutral",
       "confidence": 0.786
-    },
-    {
-      "headline": "Musk's AI chatbot faces global backlash over sexualized images of women and children",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/grok-x-musk-ai-nudification-abuse-2021bbdb508d080d46e3ae7b8f297d36",
-      "published": "2026-01-06T17:59:27Z",
-      "sentiment_score": -0.893,
-      "sentiment_label": "Negative",
-      "confidence": 0.906
     },
     {
       "headline": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
@@ -262,24 +400,6 @@
       "sentiment_score": 0.174,
       "sentiment_label": "Neutral",
       "confidence": 0.808
-    },
-    {
-      "headline": "Vista Equity Partners says its 'agentic factory' is reinventing the way companies use AI",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/06/vista-equity-reinventing-companies-use-ai.html",
-      "published": "2026-01-06T15:00:01Z",
-      "sentiment_score": 0.635,
-      "sentiment_label": "Positive",
-      "confidence": 0.646
-    },
-    {
-      "headline": "CNBC Disruptor 50 2026: Nominate a company to be included on the list of the most innovative startups",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/06/cnbc-disruptor-50-list-2026-application-startups.html",
-      "published": "2026-01-06T11:40:01Z",
-      "sentiment_score": 0.161,
-      "sentiment_label": "Neutral",
-      "confidence": 0.818
     },
     {
       "headline": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
