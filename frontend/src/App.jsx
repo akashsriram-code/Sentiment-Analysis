@@ -38,8 +38,8 @@ function App() {
 
   // Get sentiment color class
   const getSentimentColorClass = (score) => {
-    if (score > 0.2) return 'text-[#22c55e]';
-    if (score < -0.2) return 'text-[#ef4444]';
+    if (score > 0.05) return 'text-[#22c55e]';
+    if (score < -0.05) return 'text-[#ef4444]';
     return 'text-[#eab308]';
   };
 
@@ -125,12 +125,12 @@ function App() {
                 <div className="text-sm text-[var(--color-text-muted)] mt-2 uppercase tracking-widest">
                   Sentiment Score
                 </div>
-                <div className={`inline-flex mt-4 px-4 py-2 rounded-full text-sm font-semibold ${data.overall_sentiment > 0.2 ? 'sentiment-positive' :
-                  data.overall_sentiment < -0.2 ? 'sentiment-negative' :
+                <div className={`inline-flex mt-4 px-4 py-2 rounded-full text-sm font-semibold ${data.overall_sentiment > 0.05 ? 'sentiment-positive' :
+                  data.overall_sentiment < -0.05 ? 'sentiment-negative' :
                     'sentiment-neutral'
                   }`}>
-                  {data.overall_sentiment > 0.2 ? '↗ Optimistic' :
-                    data.overall_sentiment < -0.2 ? '↘ Pessimistic' :
+                  {data.overall_sentiment > 0.05 ? '↗ Optimistic' :
+                    data.overall_sentiment < -0.05 ? '↘ Pessimistic' :
                       '→ Balanced'}
                 </div>
               </div>
@@ -159,8 +159,8 @@ function App() {
                 value={data.overall_label}
                 label="Sentiment"
                 icon={
-                  data.overall_sentiment > 0.2 ? <IconSmile className="w-6 h-6 text-[var(--color-positive)]" /> :
-                    data.overall_sentiment < -0.2 ? <IconFrown className="w-6 h-6 text-[var(--color-negative)]" /> :
+                  data.overall_sentiment > 0.05 ? <IconSmile className="w-6 h-6 text-[var(--color-positive)]" /> :
+                    data.overall_sentiment < -0.05 ? <IconFrown className="w-6 h-6 text-[var(--color-negative)]" /> :
                       <IconMeh className="w-6 h-6 text-[var(--color-neutral)]" />
                 }
               />
@@ -225,8 +225,8 @@ function App() {
                     {/* Mini progress bar */}
                     <div className="progress-bar mt-3">
                       <div
-                        className={`progress-fill ${day.avg_sentiment > 0.2 ? 'progress-positive' :
-                          day.avg_sentiment < -0.2 ? 'progress-negative' :
+                        className={`progress-fill ${day.avg_sentiment > 0.05 ? 'progress-positive' :
+                          day.avg_sentiment < -0.05 ? 'progress-negative' :
                             'progress-neutral'
                           }`}
                         style={{ width: `${scoreToPercentage(day.avg_sentiment)}%` }}
@@ -287,8 +287,8 @@ function App() {
                       <div className="hidden sm:block w-32">
                         <div className="progress-bar">
                           <div
-                            className={`progress-fill ${source.avg_sentiment > 0.2 ? 'progress-positive' :
-                              source.avg_sentiment < -0.2 ? 'progress-negative' :
+                            className={`progress-fill ${source.avg_sentiment > 0.05 ? 'progress-positive' :
+                              source.avg_sentiment < -0.05 ? 'progress-negative' :
                                 'progress-neutral'
                               }`}
                             style={{ width: `${scoreToPercentage(source.avg_sentiment)}%` }}

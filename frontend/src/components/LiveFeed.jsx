@@ -34,14 +34,14 @@ export function LiveFeed({ articles, limit = 12 }) {
     };
 
     const getSentimentInfo = (score) => {
-        if (score > 0.2) return {
+        if (score > 0.05) return {
             color: '#22c55e',
             bg: 'rgba(34, 197, 94, 0.1)',
             glow: 'rgba(34, 197, 94, 0.2)',
             label: 'Positive',
             icon: '↗'
         };
-        if (score < -0.2) return {
+        if (score < -0.05) return {
             color: '#ef4444',
             bg: 'rgba(239, 68, 68, 0.1)',
             glow: 'rgba(239, 68, 68, 0.2)',

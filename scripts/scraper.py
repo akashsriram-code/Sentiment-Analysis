@@ -378,9 +378,9 @@ def calculate_daily_stats(articles):
             "date": date,
             "avg_sentiment": round(sum(scores) / len(scores), 3),
             "article_count": len(scores),
-            "positive_count": sum(1 for s in scores if s > 0.2),
-            "negative_count": sum(1 for s in scores if s < -0.2),
-            "neutral_count": sum(1 for s in scores if -0.2 <= s <= 0.2)
+            "positive_count": sum(1 for s in scores if s > 0.05),
+            "negative_count": sum(1 for s in scores if s < -0.05),
+            "neutral_count": sum(1 for s in scores if -0.05 <= s <= 0.05)
         })
     
     return daily_stats
@@ -414,7 +414,7 @@ def calculate_source_stats(articles):
                 "source": source,
                 "avg_sentiment": round(avg_score, 3),
                 "article_count": len(scores),
-                "sentiment_label": "Positive" if avg_score > 0.2 else ("Negative" if avg_score < -0.2 else "Neutral")
+                "sentiment_label": "Positive" if avg_score > 0.05 else ("Negative" if avg_score < -0.05 else "Neutral")
             })
     
     # Sort by article count descending
@@ -478,7 +478,7 @@ def main():
         "last_updated": datetime.now().isoformat(),
         "total_articles": len(articles),
         "overall_sentiment": round(overall_sentiment, 3),
-        "overall_label": "Positive" if overall_sentiment > 0.2 else ("Negative" if overall_sentiment < -0.2 else "Neutral"),
+        "overall_label": "Positive" if overall_sentiment > 0.05 else ("Negative" if overall_sentiment < -0.05 else "Neutral"),
         "daily_stats": daily_stats,
         "source_stats": source_stats,
         "articles": sorted(articles, key=lambda x: x["published"], reverse=True)[:100]  # Latest 100
