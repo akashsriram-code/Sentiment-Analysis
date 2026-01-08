@@ -156,7 +156,11 @@ function App() {
                 icon={<IconCalendar className="w-6 h-6 text-[var(--color-positive)]" />}
               />
               <StatCard
-                value={data.overall_label}
+                value={
+                  data.overall_sentiment > 0.05 ? 'Positive' :
+                    data.overall_sentiment < -0.05 ? 'Negative' :
+                      'Neutral'
+                }
                 label="Sentiment"
                 icon={
                   data.overall_sentiment > 0.05 ? <IconSmile className="w-6 h-6 text-[var(--color-positive)]" /> :
