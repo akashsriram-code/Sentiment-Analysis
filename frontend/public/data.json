@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-09T12:28:22.581537",
-  "total_articles": 47,
-  "overall_sentiment": -0.155,
+  "last_updated": "2026-01-09T18:22:04.533191",
+  "total_articles": 54,
+  "overall_sentiment": -0.113,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -123,12 +123,12 @@
     },
     {
       "date": "2026-01-05",
-      "avg_sentiment": -0.234,
-      "article_count": 3,
+      "avg_sentiment": -0.328,
+      "article_count": 2,
       "positive_count": 1,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.192
+      "neutral_count": 0,
+      "moving_avg": -0.205
     },
     {
       "date": "2026-01-06",
@@ -137,54 +137,72 @@
       "positive_count": 3,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.22
+      "moving_avg": -0.234
     },
     {
       "date": "2026-01-07",
-      "avg_sentiment": -0.082,
-      "article_count": 7,
-      "positive_count": 4,
-      "negative_count": 2,
+      "avg_sentiment": 0.136,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.293
+      "moving_avg": -0.275
     },
     {
       "date": "2026-01-08",
-      "avg_sentiment": -0.252,
-      "article_count": 13,
-      "positive_count": 2,
-      "negative_count": 6,
-      "neutral_count": 5,
-      "moving_avg": -0.205
+      "avg_sentiment": -0.118,
+      "article_count": 21,
+      "positive_count": 8,
+      "negative_count": 10,
+      "neutral_count": 3,
+      "moving_avg": -0.169
     },
     {
       "date": "2026-01-09",
-      "avg_sentiment": 0.007,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": -0.112,
+      "article_count": 6,
+      "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.075
+      "neutral_count": 3,
+      "moving_avg": -0.055
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.188,
-      "article_count": 29,
+      "avg_sentiment": -0.209,
+      "article_count": 30,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.146,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.126,
+      "article_count": 6,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.056,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.034,
-      "article_count": 2,
+      "source": "CNBC",
+      "avg_sentiment": 0.026,
+      "article_count": 4,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.072,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Bloomberg.com",
+      "avg_sentiment": 0.156,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     },
     {
       "source": "The Wall Street Journal",
@@ -193,36 +211,66 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNN",
-      "avg_sentiment": -0.735,
+      "source": "Wired",
+      "avg_sentiment": -0.321,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.07,
-      "article_count": 2,
-      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "Elon Musk's Grok AI image editing limited to paid X users after deepfakes",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-01-09T10:46:15",
-      "sentiment_score": -0.06,
+      "headline": "Baldur\u2019s Gate 3 studio says it won\u2019t use AI for concept art or writing",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM29mX0NFMnZFaEtVMGkxOFhrdEZ5aXB4WXFNZ2g0MWRHN2lnMFFVelFwVlBoSDRIRm9BX1l2cXBpWGo4alNuVlhVdXNsNDNINDFucTFPZkUxZE12V3hsRG84NkRQeGI3eHREVEstV1JRSi15cmtqUXgzaU9lWGdmaXgtbGdyWlNQTnhqWmU5c05LWExMeWxXbG9jTGNkdw?oc=5",
+      "published": "2026-01-09T17:20:15",
+      "sentiment_score": 0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.848
+      "confidence": 0.935
     },
     {
-      "headline": "Trump Sees A.I.\u2019s Economic Promise, While Dismissing Potential Threats",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONk9Sb28zdzkwY3hDZ3A2eDV1eUhiNkJZQTVlWG9GWE5HVjI1VnhhU2pteVZWZ3pFODBTRlR0MmZiTkdhaFlIbnBVRG9fNk1Oc1plaWlGUUNmSVhiU0NFcVVmVEdHSUttbG05anVVTnR4cDFOU3lJUlRfZnJqYmxsYnZIWkZNNi1V?oc=5",
-      "published": "2026-01-09T00:00:02",
-      "sentiment_score": 0.075,
+      "headline": "Watch: Backlash against Musk's Grok AI explained",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/videos/c8x94zr8yxvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-09T17:19:37",
+      "sentiment_score": -0.902,
+      "sentiment_label": "Negative",
+      "confidence": 0.914
+    },
+    {
+      "headline": "Decide on X ban within days, government tells regulator",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-09T17:05:16",
+      "sentiment_score": 0.029,
       "sentiment_label": "Neutral",
-      "confidence": 0.844
+      "confidence": 0.876
+    },
+    {
+      "headline": "Germany plans measures to combat harmful AI image manipulation",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGJoeHFOOE1uaTRFMExpdE5OT0M0bTRHMENkNWhvX0EtV2lTemRaanRoUjBHRmpzUTQwOWhxMDhoV3dINzg2dmpaNUtOMXpFOVdxaWFGQnhuU2dzQ2l1Sll6blY4V1A0TjlZNUd1ZnVWUXZORDZ4cTgtaktjb0hWcGlEbDljaEJQMmFUdjJILWpJZVIxOVYyYS1tOGdVdEVtR1lqaHN3LTRZWVBZdnNhdUdB?oc=5",
+      "published": "2026-01-09T13:47:45",
+      "sentiment_score": 0.072,
+      "sentiment_label": "Neutral",
+      "confidence": 0.879
+    },
+    {
+      "headline": "Humanoid robots take over CES in Las Vegas as tech industry touts future of AI",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ29heDhjcF9TTGY4SmRtSmhhQjRRRFJsLUFUd1NHb2NZMWZLUTFUOG9MTlJiN3I5SGRWamFZVzltQWY5WWtxMkxfV1R6Ul83YndxYVlLdEQ2bDFIamY4NmRLcFJCZ1J3bU9rTzhZdlVKSjdSR0xJa0RTOFFkUXNyVWVTci0ya3F1cjU5bUNWbkdwQnJKSDZlaW9OS3FFb1dlX25jYkh30gGrAUFVX3lxTE9JUnpCX0JRWE5CM1ZHM0VvZlVDOGstbHNIUVdubXVfV0pPXzBkNHlPdXZyNVg0VFhDWXhTbWtYWnlQa1V2VnhfMTNKS2QxVk9YeXdMcEFIZDFxVEk2QklUYXdfNW40c1VEbFFvOGJEV183ZXltUXVBSXlscEQ4ai1xdTk4aWQzeXl6d1FrdXM4VDgwQ3N5Zm9IU0lLbEJ4VV9ka2Frb3VxNWJWNA?oc=5",
+      "published": "2026-01-09T13:00:01",
+      "sentiment_score": 0.007,
+      "sentiment_label": "Neutral",
+      "confidence": 0.924
+    },
+    {
+      "headline": "AI Firm MiniMax Set for Hong Kong Debut After $619 million IPO",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0tUeVRuQ0xHSndJcENJYkhmZm1mY1Y1V2ZqcGp3VElYNmJmd3N1VFRjYVlNSWtiVWZNa0VYU1JzVDQ3ak8wQTZ0T3lPV2ctY0ZoLWg1T193QW84YUFwZkpPTHJtY3lteThWeHJxS1pYVlVmcG4xb2t1NjQyRFVsOWxNbFpucm9YVkR1Q2RITURLZEIxWmRZWUotZGl3eVc2WFA0elV3WTdlLXlTM2tDZVNB?oc=5",
+      "published": "2026-01-09T09:06:34",
+      "sentiment_score": 0.101,
+      "sentiment_label": "Neutral",
+      "confidence": 0.872
     },
     {
       "headline": "OpenAI, Anthropic See Health Care as Next Big Market for AI",
@@ -234,22 +282,85 @@
       "confidence": 0.768
     },
     {
+      "headline": "Most dubious uses of AI at CES 2026",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026",
+      "published": "2026-01-08T18:14:34Z",
+      "sentiment_score": -0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
+    },
+    {
+      "headline": "Retail traders had one of their best years ever in 2025. Here's what they're buying now",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/08/retail-traders-buying-energy-oil.html",
+      "published": "2026-01-08T18:14:03Z",
+      "sentiment_score": 0.226,
+      "sentiment_label": "Neutral",
+      "confidence": 0.703
+    },
+    {
+      "headline": "OpenAI to acquire the team behind executive coaching AI tool Convogo | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
+      "published": "2026-01-08T18:13:15Z",
+      "sentiment_score": 0.604,
+      "sentiment_label": "Positive",
+      "confidence": 0.615
+    },
+    {
+      "headline": "The MAGA-approved video of an ICE killing",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media",
+      "published": "2026-01-08T17:59:38Z",
+      "sentiment_score": -0.151,
+      "sentiment_label": "Neutral",
+      "confidence": 0.81
+    },
+    {
       "headline": "OpenAI launches ChatGPT Health to review your medical records",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-01-08T17:14:32",
+      "link": "https://www.bbc.com/news/articles/cpqy29d0yjgo",
+      "published": "2026-01-08T17:14:32Z",
       "sentiment_score": 0.027,
       "sentiment_label": "Neutral",
       "confidence": 0.932
     },
     {
+      "headline": "Microsoft will put buy buttons directly in Copilot",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products",
+      "published": "2026-01-08T17:04:19Z",
+      "sentiment_score": 0.063,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
       "headline": "How Generative AI Video Could Disrupt Social Media Companies",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNlNvQ2VrbHE3ZHVrcnlVa1hZZ2xIWXI1MDFramFsQ3VIOFdRZkpHU0pEcndnbHo2U2J2OGR5Sks2eUQ5ZlV2Qk02R1BpNm9jYVQ4aDlUZi1PdzQzM19FM082cDhqRnpscGtva09ISks2VDRsLVdRZkpzemRIZHFLX292VktYVXQ5UjhDbmtueU5ETi1pX2F4ckR6SkhMa2ZmMmVsMnM1MXVqOVduWjRWZkdZbUNZa0NveUVLdzFBR2dWbzhzS016bWt0dmw5Nk1Ec1doTWhpSXlKd2pSVGxBSTd1MXQ4YWwtQTlzRU9WT1h5MzlwaDdEcVRVdV83NlJhSXVPRW8yZWk0bV9hMkYxb1BrbVJDY21PbjFKYTU1U1g0cGJtMmhtTTV6c2hnWk9ramNySkVtUmc0ekl5aDBfNExwVkNaWldpYTZsMm41LUxwVWpHckRaYjJWTjlHSXZIaURKbXRRY1l2dHB2UFdOVjE5S3BLUE45UmxncmNPSmowM0FIMkw5UE1KaTZCcVd6dVZEN09WZ3ZWRkdQdFNXSkZEUjI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOSjFmcWk2Q1MtZDFGY1BPQ014djlwTXJ4VGVvU2hRN0dnWmQ1V291S2JWU0s2UkVuaEFfTUNNTUpFY0FYdEM3YUdwQXRHd21yZ3pmSzZBV2hndVFnZU84ekRQX2JWR2ZUWXhDejV3b2MxLXdzdUhmVi04VV81b2JpdU5ack0zczBmblhyaXhoOGRQMU4tOUVQTUFibEd4aDltN2dZRm43M0NjYlpPY0hBM3ByWHZlWTB2YzlBTnV0RWdBcVcxQ0YzTEswVVBRM25FeHhPeUs4ODdfaWpZSzFfLThJT0FuZ3NLVlpjdF9HTi12TFFWTVdHcTVHc09MWHNNSUd5UENWOTdvdTJCb1hoN2pVU1hLbEZqeHRLUHFaSTdSZUxLQnZvVWNIekdLbTRabDdFd0p5UnNLajNXTWFsUEs0WXd1VjlTY0ZPTE0xTVhhM0dzY1JERUZLSHVIa2k3bzdsVzdIZXF3Mk4waG1fbG5RYVRKWUU1eTVKTnNJRW9iOVlnN081QjJ4Y0lnZmJLYnJvVl9FcGJvdDE4UFpvZDVmVlY?oc=5",
       "published": "2026-01-08T17:00:00",
       "sentiment_score": -0.738,
       "sentiment_label": "Negative",
       "confidence": 0.753
+    },
+    {
+      "headline": "TV makers are taking AI too far",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/column/858463/tv-too-much-ai",
+      "published": "2026-01-08T16:35:41Z",
+      "sentiment_score": -0.209,
+      "sentiment_label": "Neutral",
+      "confidence": 0.727
+    },
+    {
+      "headline": "People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/",
+      "published": "2026-01-08T16:33:56Z",
+      "sentiment_score": -0.824,
+      "sentiment_label": "Negative",
+      "confidence": 0.839
     },
     {
       "headline": "Government accused of dragging its heels on deepfake law over Grok AI",
@@ -261,13 +372,67 @@
       "confidence": 0.884
     },
     {
-      "headline": "CNBC's Becky Quick details daughter's rare disease journey",
+      "headline": "Musk, OpenAI lawyers trade barbs as lawsuit heads to trial",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/08/cnbcs-becky-quick-details-daughters-rare-disease-journey.html",
-      "published": "2026-01-08T11:32:36Z",
-      "sentiment_score": 0.025,
+      "link": "https://www.cnbc.com/2026/01/08/musk-openai-altman-lawsuit-trial.html",
+      "published": "2026-01-08T16:20:29Z",
+      "sentiment_score": -0.675,
+      "sentiment_label": "Negative",
+      "confidence": 0.705
+    },
+    {
+      "headline": "Elon Musk's lawsuit against OpenAI will face a jury in March | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/",
+      "published": "2026-01-08T16:18:10Z",
+      "sentiment_score": -0.056,
       "sentiment_label": "Neutral",
-      "confidence": 0.925
+      "confidence": 0.748
+    },
+    {
+      "headline": "Why this VC thinks 2026 will be \u2018the year of the consumer\u2019 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/08/why-this-vc-thinks-2026-will-be-the-year-of-the-consumer/",
+      "published": "2026-01-08T14:49:09Z",
+      "sentiment_score": -0.798,
+      "sentiment_label": "Negative",
+      "confidence": 0.815
+    },
+    {
+      "headline": "Gmail debuts a personalized AI Inbox, AI Overviews in search, and more | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/08/gmail-debuts-a-personalized-ai-inbox-ai-overviews-in-search-and-more/",
+      "published": "2026-01-08T14:14:22Z",
+      "sentiment_score": 0.114,
+      "sentiment_label": "Neutral",
+      "confidence": 0.868
+    },
+    {
+      "headline": "Former Bolt CEO Maju Kuruvilla's startup triples to $100M valuation | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/",
+      "published": "2026-01-08T13:02:55Z",
+      "sentiment_score": 0.867,
+      "sentiment_label": "Positive",
+      "confidence": 0.874
+    },
+    {
+      "headline": "Google adds Gemini features like message thread summaries to Gmail",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html",
+      "published": "2026-01-08T13:00:02Z",
+      "sentiment_score": 0.547,
+      "sentiment_label": "Positive",
+      "confidence": 0.557
+    },
+    {
+      "headline": "Google Is Adding an \u2018AI Inbox\u2019 to Gmail That Summarizes Emails",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/google-ai-inbox-gmail/",
+      "published": "2026-01-08T13:00:00Z",
+      "sentiment_score": 0.183,
+      "sentiment_label": "Neutral",
+      "confidence": 0.799
     },
     {
       "headline": "Is social media dead?",
@@ -279,15 +444,6 @@
       "confidence": 0.744
     },
     {
-      "headline": "The Tech That Will Invade Our Lives in 2026",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWVXUlhPaEd2dlFQSlNFTUlrMzhKY2xnVXhRMTVCeXdCbmhsWVlaWU9MZ3JycmJYZGhQVTJ5a0Zfd1JBZkJxOTQtVnYzTWVQeGQ5T21yVEt4Q3pCelB1b1R0T2VibUpITkowd09aeURnTWc0TWozMEw5Y1M1VHNNV0J2bzNKZ0U?oc=5",
-      "published": "2026-01-08T10:03:51",
-      "sentiment_score": -0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.931
-    },
-    {
       "headline": "Elon Musk's Grok AI appears to have made child sexual imagery, says charity",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
@@ -295,15 +451,6 @@
       "sentiment_score": -0.288,
       "sentiment_label": "Neutral",
       "confidence": 0.666
-    },
-    {
-      "headline": "Elon Musk\u2019s AI chatbot Grok under fire for failing to rein in \u2018digital undressing\u2019",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/01/08/tech/elon-musk-xai-digital-undressing",
-      "published": "2026-01-08T09:32:20Z",
-      "sentiment_score": -0.935,
-      "sentiment_label": "Negative",
-      "confidence": 0.944
     },
     {
       "headline": "Inside the sub-zero lair of the world's most powerful computer",
@@ -315,51 +462,6 @@
       "confidence": 0.931
     },
     {
-      "headline": "Vacations can be stressful\u2014here are 3 ways to fully unwind, according to a psychologist",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/08/here-are-3-ways-to-fully-unwind-on-a-trip-according-to-a-psychologist.html",
-      "published": "2026-01-08T05:15:12Z",
-      "sentiment_score": -0.0,
-      "sentiment_label": "Neutral",
-      "confidence": 0.911
-    },
-    {
-      "headline": "China\u2019s first 'AI tiger' goes public as Zhipu climbs in Hong Kong debut",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/08/china-ai-tiger-goes-ipo-zhipu-hong-kong-debut-openai-knowledge-atlas-hsi-hang-seng-listing.html",
-      "published": "2026-01-08T04:30:57Z",
-      "sentiment_score": 0.904,
-      "sentiment_label": "Positive",
-      "confidence": 0.929
-    },
-    {
-      "headline": "Microsoft revealed as company behind controversial data center proposal in Michigan township",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/07/microsoft-behind-controversial-data-center-in-michigan-township.html",
-      "published": "2026-01-08T02:05:37Z",
-      "sentiment_score": -0.906,
-      "sentiment_label": "Negative",
-      "confidence": 0.922
-    },
-    {
-      "headline": "Character.AI and Google agree to settle lawsuits over teen mental health harms and suicides | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/01/07/business/character-ai-google-settle-teen-suicide-lawsuit",
-      "published": "2026-01-07T23:29:59Z",
-      "sentiment_score": -0.534,
-      "sentiment_label": "Negative",
-      "confidence": 0.735
-    },
-    {
-      "headline": "Google, Character.AI to settle suits involving minor suicides and AI chatbots",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html",
-      "published": "2026-01-07T21:09:50Z",
-      "sentiment_score": -0.755,
-      "sentiment_label": "Negative",
-      "confidence": 0.796
-    },
-    {
       "headline": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFpVME1TNzhFUmFfM2hMYllkNjB1a1pqcDUxWU1LZkJUQ0tOeDU5S0xGUFc0enBrMEJpbENWdEl1bUhBT09iYVhfRkhyNTYtS05TX2FTZ0JBSlMyTDJVQzFQZE5Rb0VJQ3I2MVVkYnZOYUVtbUNvRlB6b0JDS0gwSzNEOGxGOTBMRkd4X2xLTzl2OEx4YVZWYS0wcWtmSG8zU3d1S2lzUnpTMlE3azloLUQxeVA?oc=5",
@@ -367,15 +469,6 @@
       "sentiment_score": 0.023,
       "sentiment_label": "Neutral",
       "confidence": 0.924
-    },
-    {
-      "headline": "Ford\u2019s AI voice assistant is coming later this year, L3 driving in 2028",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026",
-      "published": "2026-01-07T21:01:41Z",
-      "sentiment_score": 0.187,
-      "sentiment_label": "Neutral",
-      "confidence": 0.794
     },
     {
       "headline": "OpenAI launches ChatGPT Health to connect medical records, wellness apps",
@@ -387,18 +480,9 @@
       "confidence": 0.902
     },
     {
-      "headline": "Google Classroom's new tool uses Gemini to transform lessons into podcast episodes | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
-      "published": "2026-01-07T17:56:50Z",
-      "sentiment_score": 0.118,
-      "sentiment_label": "Neutral",
-      "confidence": 0.863
-    },
-    {
       "headline": "How Google Got Its Groove Back and Edged Ahead of OpenAI - WSJ",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNNm03QmU5MjNqNGlWbFM5ZXpTTS1yX1FudTkyOVhnQUNvNkdsU18yREJ0b3AwbTA2U21LVFdKUnF4SjVrUUZydFFROVFMaU5VWlZvNnRzbnhyX3hiaGV1MFRuZmk4UDdCdmh1eHloX1J5aFUxaXR3ODVQUHIxT0tYNWRzUF90TUhObjVMek8yQi1uelJoMnVNVWFSMkc2QUdGcjlIaWI4ak5yRVE3dFRvRm1xWm1rWDFUVjVDblp3Z1g3Rk1jb3l5Vnc1dEFCSDVVa0d4RjdpUWtHQjMycjlfSHExcUpLYXhuekxfR1hRVjBwR3lkOGM0c3FkS1ZYYUdiN3dhd0RfMmVFZFBKRmhRcjBYYjJzTjNpTjJxNGpIRDNnTERfSWNKREwzRlVSc2JZZ2VrbmhhYzlHalhUc0dhaUlTUVhEelpPN2JROWNwcFk1UEFjSjZrc1Y2aHJ2MjNXcUhHSnZiYklQM3VxaEcwdjFqRTdvN1RuWmZvNQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPcEtZeWlKNmZFX1RXOHAyeENFd04tRFVDYmhIT1o0Mnl5RF9ZTlpJenFib005Q0t6OGJxTmdmSVJCOFhhT0NyT04tdmw3Y054Sld6X0MzdTliYThRbUV6MF9pRFFneURxVW9UWWE1VVlQZ1p2REVCYV9DNVRtM3RvOWM5bm1qUTV4Q0lVNy1Sd0xwU28xdEpmeHJlMEJmZVpuZUVGVkVqYlFfaGNta1NINTV3VjFGRFZTSXJTRW11M2M1OUUxRlVEa0k3THFsa1M3cWl2bFYyZm9yZ2NmZ0dKYjktZ2gwa0w4Y2llWWg1U2tqRjA1bzhOTXNPWFBSMVkzdzdURDQzZzN1ZjRHbHZ3cDI3ajVZUTFXdW9VX0lNNGczRzRtZ3I0TG83Z3oxV01DRVJydGZSMExobDRLekhyZ0h0YWNGTFFIX01ydkxQOTc3cGlWS3Z3Q0Nvc3dlTXNDd0RNUzhpRVhFRVZPNVFuaHhwcEdrRGMwOTZ6dA?oc=5",
       "published": "2026-01-07T02:00:00",
       "sentiment_score": 0.312,
       "sentiment_label": "Neutral",
@@ -439,15 +523,6 @@
       "sentiment_score": 0.151,
       "sentiment_label": "Neutral",
       "confidence": 0.827
-    },
-    {
-      "headline": "OpenAI Must Turn Over 20 Million ChatGPT Logs, Judge Affirms",
-      "source": "Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlpkejh1Vkw5ekI4ZFBLVFdfM3FmV3VxWktzM1BhRm42MDNrX3E4NkJ2TmRmMzRabk9feDNpQlY1YzVqX0xfMllsSU16VlhOQ0lxZ1diWXpMRlJ4YU13bG9mWUtZQ1hKSW02alZZdUdSNTdRTzBZQUNOVzhEZWVPMjRsX2xUTU5YVVR3X3FlSDh5ZHVTSGlqbmhVcmY?oc=5",
-      "published": "2026-01-05T23:40:00",
-      "sentiment_score": -0.045,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
     },
     {
       "headline": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
