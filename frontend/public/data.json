@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-12T01:06:34.789485",
-  "total_articles": 53,
-  "overall_sentiment": -0.122,
+  "last_updated": "2026-01-12T06:25:52.295920",
+  "total_articles": 55,
+  "overall_sentiment": -0.078,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -150,64 +150,91 @@
     },
     {
       "date": "2026-01-08",
-      "avg_sentiment": -0.273,
-      "article_count": 6,
+      "avg_sentiment": -0.232,
+      "article_count": 7,
       "positive_count": 1,
       "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.2
+      "neutral_count": 3,
+      "moving_avg": -0.194
     },
     {
       "date": "2026-01-09",
-      "avg_sentiment": -0.283,
-      "article_count": 6,
+      "avg_sentiment": -0.406,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.111
+      "negative_count": 3,
+      "neutral_count": 0,
+      "moving_avg": -0.123
     },
     {
       "date": "2026-01-10",
-      "avg_sentiment": 0.16,
-      "article_count": 10,
-      "positive_count": 6,
-      "negative_count": 2,
+      "avg_sentiment": 0.339,
+      "article_count": 7,
+      "positive_count": 5,
+      "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.124
+      "moving_avg": -0.11
     },
     {
       "date": "2026-01-11",
-      "avg_sentiment": -0.606,
-      "article_count": 3,
-      "positive_count": 0,
-      "negative_count": 2,
+      "avg_sentiment": -0.424,
+      "article_count": 5,
+      "positive_count": 1,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.18
+      "moving_avg": -0.14
+    },
+    {
+      "date": "2026-01-12",
+      "avg_sentiment": 0.409,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "moving_avg": -0.035
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.23,
-      "article_count": 29,
+      "avg_sentiment": -0.254,
+      "article_count": 30,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.052,
-      "article_count": 9,
+      "avg_sentiment": 0.27,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.042,
+      "source": "Reuters",
+      "avg_sentiment": 0.586,
       "article_count": 3,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.038,
+      "avg_sentiment": 0.084,
       "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.004,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.464,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.038,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
@@ -219,6 +246,42 @@
   ],
   "articles": [
     {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2VxaC1QMFFDV1NudGRDeHphRUdlNlE3eU5SRU5IZ0o0VkVHcUxRREZHY28yNzkxbngxU1RJM3lVeV96dWVoUUlRSmcyVUoxYl9ROFR5S2h0d3N3WnBjNVNGU3lHUTZyNHZMbU00clE3anBTQWZLNThua2VDR0V1UTdGMDYwdw?oc=5",
+      "published": "2026-01-12T06:16:12",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "Demand for AI, tech experts pushes UK financial sector vacancies up 12%, recruiter says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWQyZXR5OF8wLVRIT1lxUzdlOXZRLWV1LWYxZDNqeUllRmZMTkpEZ29BUDBvaVBFTWFYbU9RNGxSSlB5bzVFMnFQZHBIcFduTmpXRG5HQXJGZWtyZUgwNnloTi1QUWt2LUE0NWNlaTg0VkZTZzNOTVdiLUNQLTlpQ3pSYldmZnlPamZIbUdPTURleFNMbXVnWHR4eUszdnBxVkI5M29WRUk1YndsTUpmdG13S1pTNnVxTW1xV2FPa3RFTm9oZXdWY19KcmtEZWtiOF9hSHpQTEpSNEdLWnA2OVpmaUVYdkUwVTF1Tw?oc=5",
+      "published": "2026-01-12T06:03:00",
+      "sentiment_score": 0.894,
+      "sentiment_label": "Positive",
+      "confidence": 0.933
+    },
+    {
+      "headline": "TSMC Q4 profit poised to soar 27% as AI demand drives growth",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVk1dzV6U1R2d3FfaEhDOGpXd2doVnhodW5qd2VYYnJtMy1qWmRpYTdoOFF0cFU4c2VsTFo3bXc1ZEFBbmdBTHV1QzZyVFFNcjV2akZfbGk3TnJfcXU3UDMzbWViMWdaWWVnVDNSZnREYUJuMjNUQkZheC1FdzlpUXJHQjY5LTN2RGxYT1prV2ZEN3d1TjFHTDMxR1BCRjFkMXdF?oc=5",
+      "published": "2026-01-12T04:43:00",
+      "sentiment_score": 0.792,
+      "sentiment_label": "Positive",
+      "confidence": 0.831
+    },
+    {
+      "headline": "China Is Investigating Meta\u2019s Latest A.I. Acquisition",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96M2Q4QkpnWjBVV0RRVndGalBJY1d5SjdIbDBxbUNQU011RFRyLVlSaGdKajZTbnpjV09FRTJ4MVF5T05SamhLX3F5OE5SVnV4QUhSR0xndGZQVUZBR05RZ1ZnaFhfSE1NVUxmU1Zhdk0xZDlzbzhR?oc=5",
+      "published": "2026-01-12T03:34:00",
+      "sentiment_score": -0.041,
+      "sentiment_label": "Neutral",
+      "confidence": 0.903
+    },
+    {
       "headline": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFFvQWFycXFtWEJxVEM1NWktMWlNTTVMZm1wT01xVU5tdTlqQnFGVkNZY29tblJmZWdFV1dYMjJfc0tpaHcxQVM4eXY4X0Q0VnREY1pUSF8xUFo1N1RYNTdEVGZRT3FCN2x2UV9hbzMya1EyLVllMW5odVNwdXJKeUwwVHc?oc=5",
@@ -228,6 +291,15 @@
       "confidence": 0.897
     },
     {
+      "headline": "Walmart teams up with Google's Gemini to make it easier for shoppers to find and buy products",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOandyM25DSWhjRTRFOG5PYm5WV094WGlqX2lWOVRmT0hUc1pBUzF5MEZBeUpyZWJhTDRfMVRmSFRCamVCcWlSdElPeHEzM1lPNUNuSGE2Vy1sN2xkQkNMSC03RXhFVVQ5eng2MEZyV2hoVFZHMGF4bVBXYlRsNU8wMEJTWnNVX2w3WWZfZ3dQMWlURUnSAZgBQVVfeXFMTlV4VlN6d05pZkNYM0NkUlV4OWVFc2N5SlVlQmRhaHg4QkhDekF0bXZYQnhNaXVDekRiNlFDN2Zscnl0N05vdWhQOWNxSW1mMXlfcFV3TktaSnlrSkpGMUJXMWJaekowY0tFSE5lY0NocnhjNzBtT25WX3BkTnV0N3c0ZkRUVVltbHVXX2xGaEV0eUs5cEttRXQ?oc=5",
+      "published": "2026-01-11T15:00:01",
+      "sentiment_score": 0.647,
+      "sentiment_label": "Positive",
+      "confidence": 0.659
+    },
+    {
       "headline": "\u2018Add blood, forced smile\u2019: how Grok\u2019s nudification tool went viral",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTM5R0pGZEY2OW1WbWZISXZySkR6RmlHVGdnWDBsVHJ2WmRTSFBMVzN4d0t0U0ZlSjJYOW1pNm1CU19wX3NDUGszMHVwY1ZuZ0FqcVpjVFRiMnZRaVR2UFhkZUNnVmp5cVlRczFQOEFvSlQzaXhYRGk0X0dLUWtBZWJ3SjVELUlmbmtuVjVleEdCb1ZrTkpWNkI0dW9FblpmU3JyYnJnU3NpdUhMSGc?oc=5",
@@ -235,6 +307,15 @@
       "sentiment_score": 0.002,
       "sentiment_label": "Neutral",
       "confidence": 0.905
+    },
+    {
+      "headline": "'I had no electricity for six months': American families struggle with soaring energy prices",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo",
+      "published": "2026-01-11T01:58:29Z",
+      "sentiment_score": -0.948,
+      "sentiment_label": "Negative",
+      "confidence": 0.96
     },
     {
       "headline": "Google employee made redundant after reporting manager who showed nude of wife, court hears",
@@ -264,15 +345,6 @@
       "confidence": 0.537
     },
     {
-      "headline": "The AI question every job candidate on interview should be prepared to answer",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/10/jobs-careers-ai.html",
-      "published": "2026-01-10T15:46:56Z",
-      "sentiment_score": -0.68,
-      "sentiment_label": "Negative",
-      "confidence": 0.703
-    },
-    {
       "headline": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/01/10/blackrock-investing-bull-market-portfolio-stocks.html",
@@ -280,24 +352,6 @@
       "sentiment_score": 0.443,
       "sentiment_label": "Neutral",
       "confidence": 0.495
-    },
-    {
-      "headline": "We're in a 'hiring recession,' economist says \u2014 how job seekers can stand out",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/10/hiring-recession.html",
-      "published": "2026-01-10T14:40:01Z",
-      "sentiment_score": -0.93,
-      "sentiment_label": "Negative",
-      "confidence": 0.951
-    },
-    {
-      "headline": "Bill Gates is still optimistic about the world's future\u2014depending on these 3 questions",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/10/bill-gates-the-trajectory-of-progress-hinges-on-these-3-questions.html",
-      "published": "2026-01-10T14:05:01Z",
-      "sentiment_score": 0.833,
-      "sentiment_label": "Positive",
-      "confidence": 0.846
     },
     {
       "headline": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
@@ -345,15 +399,6 @@
       "confidence": 0.901
     },
     {
-      "headline": "CES 2026: Everything revealed, from Nvidia\u2019s debuts to AMD\u2019s new chips to Razer\u2019s AI oddities\u00a0 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "published": "2026-01-09T22:44:21Z",
-      "sentiment_score": 0.05,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
-    },
-    {
       "headline": "Oracle announces departure of two oldest directors, narrowing board to 12",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/01/09/oracle-announces-board-departures-george-conrades-and-naomi-seligman-.html",
@@ -372,15 +417,6 @@
       "confidence": 0.638
     },
     {
-      "headline": "Baldur\u2019s Gate 3 studio says it won\u2019t use AI for concept art or writing",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama",
-      "published": "2026-01-09T17:22:17Z",
-      "sentiment_score": -0.122,
-      "sentiment_label": "Neutral",
-      "confidence": 0.776
-    },
-    {
       "headline": "Watch: Backlash against Musk's Grok AI explained",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/videos/c8x94zr8yxvo?at_medium=RSS&at_campaign=rss",
@@ -388,6 +424,15 @@
       "sentiment_score": -0.902,
       "sentiment_label": "Negative",
       "confidence": 0.914
+    },
+    {
+      "headline": "HIPAA-compliant ChatGPT.",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GZ0R0ck1ZLXI0YU5rYm9xS0h1eWJpa3hPRHRDLTg4SUlXM2QtQWdOaC1nR2VwQmJJMFlMSURSMkNPWGg2N2Y0dGc4MlNkOFBzY3ctbDd2dUhVdWRSOVVDUkd4emFaUXVVV2phbw?oc=5",
+      "published": "2026-01-08T21:39:44",
+      "sentiment_score": 0.015,
+      "sentiment_label": "Neutral",
+      "confidence": 0.94
     },
     {
       "headline": "OpenAI, Anthropic See Health Care as Next Big Market for AI",
@@ -410,7 +455,7 @@
     {
       "headline": "How Generative AI Video Could Disrupt Social Media Companies",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOaU5LNGw2MkJGUnhMdlZRWW1MNXJKWkx0MGc3OWtIVkpIeWpFZ010MVJwVkx6UlZoVVRGbFlpczUzdVJSU1Q0UzhXaWNQS0RSTEtBUzBaaUlRMzBNYnlLd2ViTWFDanhqeUdPRHZZbnNLWjBNQzJjOGtTbWZDVFR0TWhMcmhGb1JQMTZxOTIxNEdmdTVJc2FITVpzM0Rodk5KRE9uaFVNb1VmdkJTbS1uYVNDMEJmWGpWckthRGxrbUlicVpnSkRDbTRoS0c5MFp5WG9oRWJqcnhlam16QldRU3g4Vzk2cW9URkk2c0VMQURwejlTeTN0Sy1OakQyclpDeU5QYWpkUklpZE5tRnBCbEVqUkJWXzk2dE1MTE8zNkZScUhqOEltQ0wzUXF0Ykt4anRORFFqWmFmOV9YM1dtSG93UU9zSjZVTVBYQ21icmJhNXR0MGw2ZHFaZE82aXZCbEUtaVVIRms2UWxkaTl2T0JMUjQxeUhwd3JPcXQ0RDFTYW5TUk5tYzZhWGNLNEFHZ2M3Z2hkajdCX3B6M1dkNVZIX2w?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNLVhQZmxCT2xsTVpPQkV2YmxpdFBYQ3pjeFpjdVk0ckhEN1ROZ21Ed0FGTTN3ajdxdjNMWW1kMXotM3VyQkJqQ1dZemQwUHp5elFaNFUxYzFxcEJRYXJnWUtFbllUaGgzZ0tmSVUzdEtUbDVLVHZnVWJIMXNNY2RGYS1oU1lnLU56RXFab0dlRlJoYktYd201ZHhIU0pVRFl3Sk9GSE4yUmpRZEI3N1p6VDRjWlEzeWpzN2hMQ1JnYkpxS3VFN01RUkFDRGNEUXZXUGJZTXFKWHROMTRISGxJbENvOXlQMDlFc3EzZ2JhN3d5emFqX2h0N0dtQkVmN3I3TFVreWplcVc5aDJFSGZyRUs2QjY1OHVuUUZCZzJlcm1VNkhOWEV0dGQ4bzRtY2RPYnQ2WWFqNmtVcFc3c00wLVkxZXpDM3JmRVlqTDc5aVVLNzd3NmhGbnJyUEdENVE1NG5KX1c4NEVpM1FBbk9QRm9TSUdUNmRIS21zNUJfdjZhSzJjQlNyUkNRYVlwVUgxX05DbTN6cWxPMC00ZHJOOWctZVU?oc=5",
       "published": "2026-01-08T17:00:00",
       "sentiment_score": -0.738,
       "sentiment_label": "Negative",
@@ -482,7 +527,7 @@
     {
       "headline": "How Google Got Its Groove Back and Edged Ahead of OpenAI - WSJ",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNTUt5ZDdZbmgtU19OMkkwWmttc3JRY1dEQzZhMzY5LXBCMFRqVWtRTE84b3lYaUtPd3pKM0c2cFduU3ZGNU53VDNITS1QWkRZRWpXMy1SZHFYaDExNmdmRFZwVHhNb0s2QXp4ZEROMFdBVUQ4VHlCNkcyLUtldnNvY3J2YjRNQTNfWklncy02dF82N05MemczVnVvS2piMW11b3gwcEVaRTJxRmdxZnlTcXNLcmsxeTNUamd5aUhMeDdvQU5RRXc3eXMxRHdlZElkUi1nQzBJQnYyM0hWeWlZN0J2Y2Jhal9helk5MmJ6dzF6Qml0eGthT3NjRjA0M1N5MjE4N3VVQ1U1X2xtckFoVGFmbkhPNjAxQzlrUjdjYmJval95WnUzREVuSGN1ZHZmT0pQOEdyaks3eVdFUXFuQk5WR0pHQkZwOF9mc1MwMGNBZUV1c2x2eFBXRXgyNGpCa3R5SEhBVTJQTnNnNXdIX3RsMWt2dzJmZVFGSA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQMGNGQURLWDEtN19TcjQ2UzlFQlpHV0Rrb0dvd2VMaHNPd2IyOFJZSWg5b01YMjFJZXl0c0FZcUJIMkNaeTZCSVVkaXNiZXY4c0tXOUd2MGxabGhMZkVHcjNGcnFxWkR6bzJkRnVOYW9XQkZaSnFZSzZlemxWbXVOUjhpY09tS3dSbXFsdDVyTmdxRE56emJDeFZPMVpNWlo5c2gtaXp2bDMxb2pWVG0wOGRnd0xBSFg2Smg2QWg2TVBHVzJSektRZFdfTFAyOGVuanJyNThDUk1SR3Fqd3oyZjltb1gyX0lZRURWckU4c0lFeEdMTWhuOXdVVU55YzNUWFVYYUJqcXFVdDZ6N2lWZWpoYVpkTEtVUTRXUlhoUE1MSC1SN2NDWmNkdllmSnJ1MWd3ZkpIVW9fYXd5czI2cHBOTVN0ZU9ydXJFeDNCZTg2SHhxR1N6U0RIY3ZFbEtzaDNqUWdVZGw5cEw1d3NqV25JbGVBNno0cDNiQg?oc=5",
       "published": "2026-01-07T02:00:00",
       "sentiment_score": 0.312,
       "sentiment_label": "Neutral",
