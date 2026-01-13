@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-01-13T00:59:47.113165",
-  "total_articles": 51,
-  "overall_sentiment": -0.045,
-  "overall_label": "Neutral",
+  "last_updated": "2026-01-13T06:23:22.466541",
+  "total_articles": 56,
+  "overall_sentiment": -0.104,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2025-10-31",
@@ -123,12 +123,12 @@
     },
     {
       "date": "2026-01-07",
-      "avg_sentiment": 0.119,
-      "article_count": 2,
+      "avg_sentiment": 0.087,
+      "article_count": 3,
       "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.277
+      "neutral_count": 1,
+      "moving_avg": -0.282
     },
     {
       "date": "2026-01-08",
@@ -137,7 +137,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.202
+      "moving_avg": -0.207
     },
     {
       "date": "2026-01-09",
@@ -146,16 +146,16 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.147
+      "moving_avg": -0.151
     },
     {
       "date": "2026-01-10",
-      "avg_sentiment": 0.43,
+      "avg_sentiment": 0.266,
       "article_count": 3,
-      "positive_count": 3,
+      "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.121
+      "neutral_count": 1,
+      "moving_avg": -0.149
     },
     {
       "date": "2026-01-11",
@@ -164,54 +164,72 @@
       "positive_count": 6,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.059
+      "moving_avg": -0.087
     },
     {
       "date": "2026-01-12",
-      "avg_sentiment": -0.051,
-      "article_count": 12,
+      "avg_sentiment": -0.238,
+      "article_count": 14,
       "positive_count": 4,
-      "negative_count": 4,
+      "negative_count": 6,
       "neutral_count": 4,
-      "moving_avg": -0.02
+      "moving_avg": -0.074
     },
     {
       "date": "2026-01-13",
-      "avg_sentiment": 0.13,
-      "article_count": 1,
+      "avg_sentiment": -0.063,
+      "article_count": 3,
       "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.007
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.075
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.271,
-      "article_count": 29,
+      "avg_sentiment": -0.307,
+      "article_count": 31,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.339,
-      "article_count": 8,
+      "avg_sentiment": 0.073,
+      "article_count": 11,
       "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.115,
-      "article_count": 6,
+      "avg_sentiment": 0.091,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
       "source": "BBC",
-      "avg_sentiment": -0.037,
-      "article_count": 3,
+      "avg_sentiment": 0.009,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "The rebellious instincts that turned Synthesia's Victor Riparbelli into a generative\u2011AI trailblazer",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3lDT3JUckVCNmVWZ1A0MUVpYXMwRFA2UE5fRHlNd0pKenZxVUhhUXotb3V5Ykl6ckpJOWpDdlpxZUJFbkZqcDloLUV0RTl3R3ZSeEp5OG9na05CdVZQWjgxaEd3dnVNZzJybTlmM19aemdkcEtuRXJUeE9WZ01aQmcya2xzOGZxcXc4ekE3S29fZ2xWVUhvN0h6Zzc2bHgxa3NjeXBnVnlXOVVFWkxPY193UjM?oc=5",
+      "published": "2026-01-13T05:00:01",
+      "sentiment_score": 0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.877
+    },
+    {
+      "headline": "X could 'lose right to self regulate', says Starmer",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-13T03:34:43",
+      "sentiment_score": -0.34,
+      "sentiment_label": "Neutral",
+      "confidence": 0.616
+    },
     {
       "headline": "OpenAI buys tiny health records startup Torch for, reportedly, $100M",
       "source": "TechCrunch",
@@ -258,15 +276,6 @@
       "confidence": 0.9
     },
     {
-      "headline": "UK to bring into force law to tackle Grok AI deepfakes this week",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-01-12T19:31:26",
-      "sentiment_score": -0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.869
-    },
-    {
       "headline": "Apple chooses Google\u2019s Gemini over OpenAI\u2019s ChatGPT to power next-gen Siri",
       "source": "Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOay1VNDRnTEFkNnByVF9Cb2NLVjI1aU9rVTlOZW82NGwtclBURnlNTF9URDZIazlZcFkzemdjT0ZmZlJiM1pZT0F1ZHg4NUdqajhwQ2YyWWpjelRkeHk1b3Myb3hKREdqQm51UElrUmplWTlyLVdzVDd1M1dTeXhiYlNLazREQjlHdzY1cGdvWlBXQWNnMmxHWFFwY3NUak05UEpCSkpSS2tVSmMwd1N1QlJ3NA?oc=5",
@@ -286,12 +295,12 @@
     },
     {
       "headline": "Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnekpuVG1kbTVVMDhVVE1LbHktMWpySk1RUWljZFU3YTRTRzktZFdzN0JRMGR5S09qVHJ6NEtLSVliTEM1cjVDVThkUkVsaTl0amFKN0p1b0Jvdw?oc=5",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cwy875j28k0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-01-12T14:27:52",
-      "sentiment_score": -0.13,
-      "sentiment_label": "Neutral",
-      "confidence": 0.799
+      "sentiment_score": -0.589,
+      "sentiment_label": "Negative",
+      "confidence": 0.612
     },
     {
       "headline": "AI can now 'see' optical illusions. What does it tell us about our own brains?",
@@ -310,6 +319,33 @@
       "sentiment_score": 0.894,
       "sentiment_label": "Positive",
       "confidence": 0.933
+    },
+    {
+      "headline": "China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html",
+      "published": "2026-01-12T05:33:07Z",
+      "sentiment_score": -0.588,
+      "sentiment_label": "Negative",
+      "confidence": 0.667
+    },
+    {
+      "headline": "Malaysia and Indonesia block Elon Musk's Grok due to obscene, non-consensual content",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/12/malaysia-indonesia-block-elon-musks-grok-obscene-non-consensual-content.html",
+      "published": "2026-01-12T04:21:35Z",
+      "sentiment_score": -0.926,
+      "sentiment_label": "Negative",
+      "confidence": 0.935
+    },
+    {
+      "headline": "Malaysia and Indonesia block Musk's Grok over sexually explicit deepfakes",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cg7y10xm4x2o",
+      "published": "2026-01-12T02:36:49Z",
+      "sentiment_score": -0.809,
+      "sentiment_label": "Negative",
+      "confidence": 0.823
     },
     {
       "headline": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service | TechCrunch",
@@ -402,13 +438,13 @@
       "confidence": 0.947
     },
     {
-      "headline": "OpenAI is reportedly asking contractors to upload real work from past jobs | TechCrunch",
+      "headline": "OpenAI is reportedly asking contractors to upload real work from past jobs",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
-      "published": "2026-01-10T21:19:42Z",
-      "sentiment_score": 0.054,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTR3YWd0M0FBVDYyWFFVS3hfNWJpOEtidkFvcGFpakxWemZjUndrUmI0M3U1RVVGVTN5NUt6UGtUNlpKU2hHR2owQTlyOXQ2ZkRMZlMyME1vaVJ2VDRSNGlQNURELTZ2T3hOVFZNZ05NS2pFRHB1YTJYWUc5YVZFREdoQy12UzA0dklFRlB3UkJ0Z2M1dU1lWjBMa1U2R19GNl80YlY0aFlMQldBbGc?oc=5",
+      "published": "2026-01-10T21:18:29",
+      "sentiment_score": -0.023,
       "sentiment_label": "Neutral",
-      "confidence": 0.808
+      "confidence": 0.847
     },
     {
       "headline": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
@@ -422,11 +458,11 @@
     {
       "headline": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/10/anthropic-amodei-siblings-generative-ai.html",
-      "published": "2026-01-10T13:00:01Z",
-      "sentiment_score": 0.792,
-      "sentiment_label": "Positive",
-      "confidence": 0.801
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdDI1a2FQZWJkSW1TR3BsUUY0SGVMR0s3V0xaVkd1RnBVVldlQnJUSmRtOVZMdWpjOTNBRnRITzQzZnhSUXRMenk4TlAtQ2JfeGlXRVo0Q3F0cENoS0lPX1VRbUc3RnhCOHNXcHA0Y0luQldGUzIxbHVtaHlSRzEzYmJn0gGHAUFVX3lxTE5YYXFUZi1QQlJxdmdWVVdFdmpGZGxYTHVpbjJ0V3FKQ3RyYWNncXpQU3lubzd4dGxjTlVjSGlKZUZpbktHRFlQMkRrNkRBaS10Ykd2cHRuaFotaEtydzZMVk96NGtvVnNhMWUtRTloSlBrQ3d0WmxCQXZpemEzUjlVdE04UHpqQQ?oc=5",
+      "published": "2026-01-10T13:00:01",
+      "sentiment_score": 0.379,
+      "sentiment_label": "Neutral",
+      "confidence": 0.601
     },
     {
       "headline": "X could face UK ban over deepfakes, minister says",
@@ -481,6 +517,15 @@
       "sentiment_score": 0.016,
       "sentiment_label": "Neutral",
       "confidence": 0.931
+    },
+    {
+      "headline": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFpVME1TNzhFUmFfM2hMYllkNjB1a1pqcDUxWU1LZkJUQ0tOeDU5S0xGUFc0enBrMEJpbENWdEl1bUhBT09iYVhfRkhyNTYtS05TX2FTZ0JBSlMyTDJVQzFQZE5Rb0VJQ3I2MVVkYnZOYUVtbUNvRlB6b0JDS0gwSzNEOGxGOTBMRkd4X2xLTzl2OEx4YVZWYS0wcWtmSG8zU3d1S2lzUnpTMlE3azloLUQxeVA?oc=5",
+      "published": "2026-01-07T21:08:23",
+      "sentiment_score": 0.023,
+      "sentiment_label": "Neutral",
+      "confidence": 0.924
     },
     {
       "headline": "OpenAI launches ChatGPT Health to connect user medical records, wellness apps",
