@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-13T06:23:22.466541",
-  "total_articles": 56,
-  "overall_sentiment": -0.104,
+  "last_updated": "2026-01-13T12:29:34.179482",
+  "total_articles": 51,
+  "overall_sentiment": -0.15,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -150,59 +150,65 @@
     },
     {
       "date": "2026-01-10",
-      "avg_sentiment": 0.266,
-      "article_count": 3,
-      "positive_count": 2,
+      "avg_sentiment": 0.379,
+      "article_count": 1,
+      "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.149
+      "neutral_count": 0,
+      "moving_avg": -0.133
     },
     {
       "date": "2026-01-11",
-      "avg_sentiment": 0.221,
-      "article_count": 8,
-      "positive_count": 6,
+      "avg_sentiment": 0.224,
+      "article_count": 6,
+      "positive_count": 4,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.087
+      "moving_avg": -0.071
     },
     {
       "date": "2026-01-12",
-      "avg_sentiment": -0.238,
-      "article_count": 14,
-      "positive_count": 4,
+      "avg_sentiment": -0.356,
+      "article_count": 12,
+      "positive_count": 2,
       "negative_count": 6,
       "neutral_count": 4,
-      "moving_avg": -0.074
+      "moving_avg": -0.075
     },
     {
       "date": "2026-01-13",
-      "avg_sentiment": -0.063,
-      "article_count": 3,
+      "avg_sentiment": -0.06,
+      "article_count": 4,
       "positive_count": 1,
       "negative_count": 1,
-      "neutral_count": 1,
+      "neutral_count": 2,
       "moving_avg": -0.075
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.307,
-      "article_count": 31,
+      "avg_sentiment": -0.291,
+      "article_count": 30,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.073,
-      "article_count": 11,
+      "avg_sentiment": 0.235,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.091,
-      "article_count": 7,
+      "avg_sentiment": 0.11,
+      "article_count": 6,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": -0.343,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "BBC",
@@ -213,13 +219,22 @@
   ],
   "articles": [
     {
-      "headline": "The rebellious instincts that turned Synthesia's Victor Riparbelli into a generative\u2011AI trailblazer",
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWFDYnUzS0NwMXpNQ2M2Z2hrLWZEWE5FUXVnNGdXU0Z2NzR4T0g3VG1uekc0cEg4ZnpxbmVmcnhtdmFJal9RTVZRamZhMkNDWk9QclRxMGYxaWY0R3VwTkw3c0x4azIwWTZMNS1ZOEswbUhEeG5aN3RDUnpuLTdDYUgzelpWUQ?oc=5",
+      "published": "2026-01-13T07:16:31",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "The 'rebellious' instincts that turned Synthesia CEO Victor Riparbelli into a generative\u2011AI trailblazer",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3lDT3JUckVCNmVWZ1A0MUVpYXMwRFA2UE5fRHlNd0pKenZxVUhhUXotb3V5Ykl6ckpJOWpDdlpxZUJFbkZqcDloLUV0RTl3R3ZSeEp5OG9na05CdVZQWjgxaEd3dnVNZzJybTlmM19aemdkcEtuRXJUeE9WZ01aQmcya2xzOGZxcXc4ekE3S29fZ2xWVUhvN0h6Zzc2bHgxa3NjeXBnVnlXOVVFWkxPY193UjM?oc=5",
-      "published": "2026-01-13T05:00:01",
-      "sentiment_score": 0.02,
+      "published": "2026-01-13T05:00:00",
+      "sentiment_score": -0.02,
       "sentiment_label": "Neutral",
-      "confidence": 0.877
+      "confidence": 0.828
     },
     {
       "headline": "X could 'lose right to self regulate', says Starmer",
@@ -247,15 +262,6 @@
       "sentiment_score": 0.068,
       "sentiment_label": "Neutral",
       "confidence": 0.905
-    },
-    {
-      "headline": "Apple Teams Up With Google for A.I. in Its Products",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVd4Ukp6MHlfUGd1T3JIVXRBMkNoYnU3MWdlUHBvWjAtVWZ4SkZUQ3lvR1VLbTk3OFMxVF9kSXNXcUNQZEFxOVBfVFZzdWhqREJJREpNdFZhaVFwTXNkMERUS3ZaOHVHVFI2SEg0NmpMaGkzUGtnZllPbmFkVzhydU9Halg?oc=5",
-      "published": "2026-01-12T21:23:30",
-      "sentiment_score": 0.178,
-      "sentiment_label": "Neutral",
-      "confidence": 0.8
     },
     {
       "headline": "Anthropic announces Claude for Healthcare following OpenAI\u2019s ChatGPT Health reveal",
@@ -303,6 +309,24 @@
       "confidence": 0.612
     },
     {
+      "headline": "Trump administration\u2019s vision of US tech dominance is colliding with Europe | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/01/12/tech/us-eu-tech-regulation-fight-explained",
+      "published": "2026-01-12T11:32:00Z",
+      "sentiment_score": -0.305,
+      "sentiment_label": "Neutral",
+      "confidence": 0.492
+    },
+    {
+      "headline": "Nurses go on strike at several major New York City hospitals",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/nursing-strike-new-york-5647ac366a8d067785b9cb4005204878",
+      "published": "2026-01-12T11:12:23Z",
+      "sentiment_score": -0.956,
+      "sentiment_label": "Negative",
+      "confidence": 0.963
+    },
+    {
       "headline": "AI can now 'see' optical illusions. What does it tell us about our own brains?",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2VsTnNjWmhVVUp1cXU3U1NocUQ4MUM4Z2gxQjRnNWN1VTRwMVd0SFBtQWR4QlFKcGIwNS0ycnZrOUJXOW9xREFTLS15QWtVS2hRM0Jnc3Zqa0cyMHR0YjhHQl9NSnhpMnY4TnhYamZ5UVRyTTBxUTJmQ3F1VmthSE9pZHVTSEFGSmNoMjhxWkhIZ3NBS0JxVQ?oc=5",
@@ -312,40 +336,13 @@
       "confidence": 0.937
     },
     {
-      "headline": "Demand for AI, tech experts pushes UK financial sector vacancies up 12%, recruiter says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWQyZXR5OF8wLVRIT1lxUzdlOXZRLWV1LWYxZDNqeUllRmZMTkpEZ29BUDBvaVBFTWFYbU9RNGxSSlB5bzVFMnFQZHBIcFduTmpXRG5HQXJGZWtyZUgwNnloTi1QUWt2LUE0NWNlaTg0VkZTZzNOTVdiLUNQLTlpQ3pSYldmZnlPamZIbUdPTURleFNMbXVnWHR4eUszdnBxVkI5M29WRUk1YndsTUpmdG13S1pTNnVxTW1xV2FPa3RFTm9oZXdWY19KcmtEZWtiOF9hSHpQTEpSNEdLWnA2OVpmaUVYdkUwVTF1Tw?oc=5",
-      "published": "2026-01-12T07:40:00",
-      "sentiment_score": 0.894,
-      "sentiment_label": "Positive",
-      "confidence": 0.933
-    },
-    {
-      "headline": "China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html",
-      "published": "2026-01-12T05:33:07Z",
-      "sentiment_score": -0.588,
+      "headline": "Malaysia and Indonesia block Musk's Grok over AI deepfakes",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225",
+      "published": "2026-01-12T06:34:37Z",
+      "sentiment_score": -0.929,
       "sentiment_label": "Negative",
-      "confidence": 0.667
-    },
-    {
-      "headline": "Malaysia and Indonesia block Elon Musk's Grok due to obscene, non-consensual content",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/12/malaysia-indonesia-block-elon-musks-grok-obscene-non-consensual-content.html",
-      "published": "2026-01-12T04:21:35Z",
-      "sentiment_score": -0.926,
-      "sentiment_label": "Negative",
-      "confidence": 0.935
-    },
-    {
-      "headline": "Malaysia and Indonesia block Musk's Grok over sexually explicit deepfakes",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cg7y10xm4x2o",
-      "published": "2026-01-12T02:36:49Z",
-      "sentiment_score": -0.809,
-      "sentiment_label": "Negative",
-      "confidence": 0.823
+      "confidence": 0.94
     },
     {
       "headline": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service | TechCrunch",
@@ -393,15 +390,6 @@
       "confidence": 0.739
     },
     {
-      "headline": "Walmart teams up with Google's Gemini to make it easier for shoppers to find and buy products",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/11/walmart-partners-with-google-gemini-on-shopping-tool.html",
-      "published": "2026-01-11T15:00:01Z",
-      "sentiment_score": 0.348,
-      "sentiment_label": "Neutral",
-      "confidence": 0.634
-    },
-    {
       "headline": "Google bolsters bet on AI-powered commerce with new platform for shopping agents",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/01/11/google-launches-universal-commerce-protocol-bets-on-ai-powered-retail.html",
@@ -409,15 +397,6 @@
       "sentiment_score": 0.888,
       "sentiment_label": "Positive",
       "confidence": 0.896
-    },
-    {
-      "headline": "How the AI data center bubble story is playing out inside one booming energy stock",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/11/bloom-energy-ai-data-center-power-stock-bubble.html",
-      "published": "2026-01-11T14:19:35Z",
-      "sentiment_score": 0.077,
-      "sentiment_label": "Neutral",
-      "confidence": 0.89
     },
     {
       "headline": "Top Wall Street analysts recommend these dividend stocks for consistent income",
@@ -436,24 +415,6 @@
       "sentiment_score": -0.935,
       "sentiment_label": "Negative",
       "confidence": 0.947
-    },
-    {
-      "headline": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTR3YWd0M0FBVDYyWFFVS3hfNWJpOEtidkFvcGFpakxWemZjUndrUmI0M3U1RVVGVTN5NUt6UGtUNlpKU2hHR2owQTlyOXQ2ZkRMZlMyME1vaVJ2VDRSNGlQNURELTZ2T3hOVFZNZ05NS2pFRHB1YTJYWUc5YVZFREdoQy12UzA0dklFRlB3UkJ0Z2M1dU1lWjBMa1U2R19GNl80YlY0aFlMQldBbGc?oc=5",
-      "published": "2026-01-10T21:18:29",
-      "sentiment_score": -0.023,
-      "sentiment_label": "Neutral",
-      "confidence": 0.847
-    },
-    {
-      "headline": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/10/blackrock-investing-bull-market-portfolio-stocks.html",
-      "published": "2026-01-10T15:07:23Z",
-      "sentiment_score": 0.443,
-      "sentiment_label": "Neutral",
-      "confidence": 0.495
     },
     {
       "headline": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
