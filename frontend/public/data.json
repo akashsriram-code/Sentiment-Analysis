@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-13T18:23:33.928908",
-  "total_articles": 53,
-  "overall_sentiment": -0.08,
+  "last_updated": "2026-01-14T01:05:22.086755",
+  "total_articles": 54,
+  "overall_sentiment": -0.077,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -114,12 +114,12 @@
     },
     {
       "date": "2026-01-10",
-      "avg_sentiment": -0.023,
+      "avg_sentiment": 0.379,
       "article_count": 1,
-      "positive_count": 0,
+      "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.19
+      "neutral_count": 0,
+      "moving_avg": -0.133
     },
     {
       "date": "2026-01-11",
@@ -128,80 +128,98 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.293
+      "moving_avg": -0.236
     },
     {
       "date": "2026-01-12",
-      "avg_sentiment": 0.062,
-      "article_count": 19,
-      "positive_count": 9,
-      "negative_count": 4,
-      "neutral_count": 6,
-      "moving_avg": -0.238
+      "avg_sentiment": 0.041,
+      "article_count": 14,
+      "positive_count": 7,
+      "negative_count": 3,
+      "neutral_count": 4,
+      "moving_avg": -0.183
     },
     {
       "date": "2026-01-13",
-      "avg_sentiment": -0.071,
-      "article_count": 9,
-      "positive_count": 3,
-      "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.239
+      "avg_sentiment": -0.021,
+      "article_count": 14,
+      "positive_count": 5,
+      "negative_count": 6,
+      "neutral_count": 3,
+      "moving_avg": -0.178
+    },
+    {
+      "date": "2026-01-14",
+      "avg_sentiment": -0.017,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.193
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.295,
-      "article_count": 28,
+      "avg_sentiment": -0.285,
+      "article_count": 29,
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.268,
+      "article_count": 7,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "CNBC",
-      "avg_sentiment": 0.31,
+      "avg_sentiment": 0.16,
       "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.181,
-      "article_count": 5,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.435,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": 0.059,
+      "source": "Reuters",
+      "avg_sentiment": 0.161,
       "article_count": 2,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.06,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": -0.456,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "It\u2019s the governance of AI that matters, not its \u2018personhood\u2019",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjlIOXB3Vk9hZ3ZrQ2Fwclc1dWExM2lBangwMjFyOVk0ME1iTXdLci1lR1FUSXMtVlhuNXVDcHNQRXBDQ241YW5XZkx1eUVJUy1fU2xWU0VqV0w3N2RRUHdUdFBkTGtfZ1h1LTJxMW9SYVc1LTRoMm9saGx6WEpGWXd1aXdsM3B4MWFJaXpPYzk0b3FBUXRaampleHBCbGpQVVBXYVN4RkR4T1U?oc=5",
-      "published": "2026-01-13T17:55:00",
-      "sentiment_score": -0.007,
+      "headline": "Honey, I shrunk the data centres: Is small the new big?",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-14T00:07:50",
+      "sentiment_score": -0.017,
       "sentiment_label": "Neutral",
-      "confidence": 0.947
+      "confidence": 0.805
+    },
+    {
+      "headline": "Spain moves to curb AI deepfakes, tighten consent rules on images",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjFhSGM0bmwtWFhLSWZzZl9BQV9pTnpjaUhRUjQ1UEtpc05xcF9mcVhUdFoxY3ZUQUZnQ2U4YTRfVDlOMWdWbjBMeDdKN01oVXZkanFNTHdBSHNhcWRsOGoyM0hPTnFjeFdyOXNOSkJRd3U1b0dJU0RFTFJpb3VUNVBRMFFHLWhWbzF0SEVWSlRNeUthdFowMHVqMVZid2E1a3hUM2FyTldLRTBlWE5JMS1wRWNoNUtE?oc=5",
+      "published": "2026-01-13T22:19:46",
+      "sentiment_score": 0.107,
+      "sentiment_label": "Neutral",
+      "confidence": 0.782
+    },
+    {
+      "headline": "College paper fights to stop AI slop website from stealing its identity",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0xfU0NZX0RlSGp3TElja2U5bFpZZzlQcjBuWW93RFd3VEhrTl9OUmNONzFoY2dqZEthYS1OYlpPQldmeWUtOG05aVN0VHpsZ1BGVHoxQ0lITVlmYk0wd2Rnd3R4NmFDSnFIVEstV0gzRzdVZ04wYTBWdTdtQm42dk16V01yYnc2bEpiOWpPYUV1RzE3WE5PUDlMVXlHZ2g5UlE?oc=5",
+      "published": "2026-01-13T19:00:05",
+      "sentiment_score": -0.25,
+      "sentiment_label": "Neutral",
+      "confidence": 0.69
+    },
+    {
+      "headline": "Shaping the future of artificial intelligence - UC Santa Cruz",
+      "source": "News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1dwaENxN2ZZanFLcXMxV0VQT3laVTdLNGRDTXdQeTUzbUJjRElROWY4Y1ZCVWt0VUQ1c3pvLUZiNXdZTTZYb2gtXzl2T25kRzR3cnhKQWxjWHZZWmVVWXYxdllyU0xZTm9wa0xQN2FuN1F5TV81OEQ3cDA4OUZfQS13?oc=5",
+      "published": "2026-01-13T18:40:26",
+      "sentiment_score": 0.038,
+      "sentiment_label": "Neutral",
+      "confidence": 0.929
     },
     {
       "headline": "Monzo bank says issue affecting its mobile app resolved",
@@ -222,13 +240,13 @@
       "confidence": 0.859
     },
     {
-      "headline": "Spain moves to curb AI deepfakes, tighten consent rules on images",
+      "headline": "Voice AI startup Deepgram raises $130 million at $1.3 billion valuation",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjFhSGM0bmwtWFhLSWZzZl9BQV9pTnpjaUhRUjQ1UEtpc05xcF9mcVhUdFoxY3ZUQUZnQ2U4YTRfVDlOMWdWbjBMeDdKN01oVXZkanFNTHdBSHNhcWRsOGoyM0hPTnFjeFdyOXNOSkJRd3U1b0dJU0RFTFJpb3VUNVBRMFFHLWhWbzF0SEVWSlRNeUthdFowMHVqMVZid2E1a3hUM2FyTldLRTBlWE5JMS1wRWNoNUtE?oc=5",
-      "published": "2026-01-13T13:53:44",
-      "sentiment_score": 0.107,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkhwc2dTOUx4YjNTUVV3UG9pVmhzaTh1b3NsWHJBbHNFTXQ1MHNETEV5MXoyZGpfeFlERE9FVGQ3c0tZdm5pUllfY3RiQWxXTnhMcTF3QkRnMTZSTlAwVzBScUtqUmpBU3VJMWF2bUVrazhLVHhmMC1ZWDV5YTdzTi1WbzNwdjFlTl9UYTBDbExFaVdzbXBxMWZ6V1dzNlNfRzdjbzJmRFlZaHprdmFhS2tB?oc=5",
+      "published": "2026-01-13T15:16:19",
+      "sentiment_score": 0.214,
       "sentiment_label": "Neutral",
-      "confidence": 0.782
+      "confidence": 0.755
     },
     {
       "headline": "Apple turns to Google to power AI upgrade for Siri",
@@ -249,6 +267,15 @@
       "confidence": 0.827
     },
     {
+      "headline": "Microsoft warns that China is winning AI race outside the west",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RGJwNG5USTJ0LUsybER0ODZ2RzItakNheTFZa0NWd285RElORnZHbHRvcXdGa3JKMWJXbl9kd1pyRGhXNlFZQi1md0pMNi1XU2VuUWxLOEhMdkFIU2RHTi1ZYzVVendRN0xkTy1mTDQ?oc=5",
+      "published": "2026-01-13T05:00:43",
+      "sentiment_score": -0.079,
+      "sentiment_label": "Neutral",
+      "confidence": 0.609
+    },
+    {
       "headline": "The 'rebellious' instincts that turned Synthesia CEO Victor Riparbelli into a generative\u2011AI trailblazer",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3lDT3JUckVCNmVWZ1A0MUVpYXMwRFA2UE5fRHlNd0pKenZxVUhhUXotb3V5Ykl6ckpJOWpDdlpxZUJFbkZqcDloLUV0RTl3R3ZSeEp5OG9na05CdVZQWjgxaEd3dnVNZzJybTlmM19aemdkcEtuRXJUeE9WZ01aQmcya2xzOGZxcXc4ekE3S29fZ2xWVUhvN0h6Zzc2bHgxa3NjeXBnVnlXOVVFWkxPY193UjM?oc=5",
@@ -267,49 +294,67 @@
       "confidence": 0.616
     },
     {
-      "headline": "OpenAI buys tiny health records startup Torch for, reportedly, $100M",
+      "headline": "More than 100 new tech unicorns were minted in 2025 \u2014 here they are | TechCrunch",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXk0WE55TUR1WV91TDUwd3JzUU9aYjhTXzd4dkNVQkhfenEwVmw1REJFMWlrN2JMZHcwUkpnY0IyRUtNU2R1SW1kcXgtMWMzNExJampJbVl2Z2JLdmdocjRlOUJXYWdsaHpvRUNWVEJPVTFvN3R2LURva2hpT2V3VHRoMm42TU9WU3RLVFAtVGJDMG8zVkR4WXl1ZFZ3SG9tUGc?oc=5",
-      "published": "2026-01-13T00:04:19",
-      "sentiment_score": 0.13,
+      "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+      "published": "2026-01-13T01:03:44Z",
+      "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
-      "confidence": 0.842
+      "confidence": 0.918
+    },
+    {
+      "headline": "Trump says Microsoft will make changes to ensure consumers don't pay for power used in AI buildout",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/12/trump-microsoft-changes-ensure-ensure-consumers-dont-pay-for-power-ai.html",
+      "published": "2026-01-13T00:41:24Z",
+      "sentiment_score": 0.406,
+      "sentiment_label": "Neutral",
+      "confidence": 0.547
+    },
+    {
+      "headline": "OpenAI buys tiny health records startup Torch for, reportedly, $100M | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/",
+      "published": "2026-01-13T00:07:35Z",
+      "sentiment_score": 0.111,
+      "sentiment_label": "Neutral",
+      "confidence": 0.874
     },
     {
       "headline": "Exclusive | OpenAI Set to Run Another Super Bowl Ad as Chatbot Competition Heats Up",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQS0FKUlhDNWVVWU1WV2JGdUJvRnVES05sWHR6T3lQbVctN1JDMnRMVE5oTTVPNkRCeWEyalJ0Q0p4WUFlel9Cb0ozLW1IYWFvR25wUGVXdm14ZThBQTZ5bzZpbEt0X1FENmNKTGZObnY3UUlHZFMyOUE4UnhpNkg3TUdCa1VsVXlYY1hOdENUY3FLZXNXdDVuTkpHTTlzMUFxaWR2SzVpcjEyNG9LR3dpX1VtaWRBQklXQnp1RjVxRl9rUExSUnI1SXNOekw2ckhNbWI1WGFxdzFSalgydzhlbmxkbURLUjFMTy1mODZvbkhuQmRYWV9fbEVJRGFlMkxOZ01yZVJjS0FYOXNTYWFCWFpqQU90R1M1LXFpRlc0d1pFTllkeHNSZUJuUEpPcVlNTC1IYmwtUk80ejVUdUdXWFkwMHpPYnZrajhhZ0oxTE5DdVNiWUlsaDQ5UEhlRFQ3dnhiS21BQTd5X282TU9kZkVqakZzZXh2aEFYaA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPSjYzR2pMSmtvR0dkRkd5M0VtLUJLN2Qyb2RiMmRqRWhBaWxfSmVJalpKTVBmV3VZTVVOQnpUcWQ2dkF0ZlNaV1FMVFpYNXdZY3hBQVZtSFNIMm0wU29KYW5wSW1mZEc5R0hNT1VFMmlrelAzMVFqcllWTGRRQ0lRMkotX3pVaElfM3k1ZEtjNVpUN2Vna0Y2Y2VfTUgzaDBkQ1k0ODJVUlp2SFg0MkUwSHZhaHl3d09wZ3Z6Nm1tMjlfWnZuUDlTSWkyaFZISWh4cnhNTUdWQndzR2VnM3VGTXM3aWIxYXk1M0g5RmNlSG90QkN0YVZ4MXA3SEJLMjFydnF2RHdyQ1ptNkFCcEJrQTRoM3JSVVlaTzFFSVd1aFk0SnRaTTRnZHdiNEk5SXJWSVNWbTFKSzJaSmtXakdTYlFUR1N4XzJzdU5OVXZpVU5TUWdkU0p2YlpncTZhVW5RLUdIRGZSNEVkR3BBMHJNdWt4YlpQUUtjWGZvTQ?oc=5",
       "published": "2026-01-12T23:16:00",
       "sentiment_score": 0.014,
       "sentiment_label": "Neutral",
       "confidence": 0.922
     },
     {
-      "headline": "OpenAI acquires health-care technology startup Torch for $60 million, source says",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tV3N4eUhoRW9JVnBsckoxa19WNzZNRDd1dzEwXzhTWlo5TW1XOEFrSTEyellaZ0d3OHNTdHM1N1F6UUF5WkJ6cmJ6R2d6OHNMREpWVVVoUHFHVkRCc2dSX3JsazRBZWl3c3N3T1NkTWJOY3FwUjFkMHdmdFNJZ9IBgwFBVV95cUxPU1NTVW8xclFqWmd3aFEyS2ttYnVudlZla0daUGNUMy1fSGFMZ0M1WXdUbUNPUWhrYmpUZ0dHV3VWTnk4dXZJVE1OOVdtWG1pU3REZ2dSWjJyN2FPREFZYXRMMkVINzJsZ3g4a2I1QlhZZl9EZU5KV1JmQzVQWHB3TUgwRQ?oc=5",
-      "published": "2026-01-12T21:35:11",
-      "sentiment_score": 0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.905
-    },
-    {
-      "headline": "Anthropic announces Claude for Healthcare following OpenAI\u2019s ChatGPT Health reveal",
+      "headline": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative | TechCrunch",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ29QdEhBOFBDa3J5TzJJZVFyUVZyaHV2MTZHX3E4c0FqM24xd0ZjM3ViVmxYQUNYQU85S1RJRXJYVjJmRDNPNml2TEpVT1ZQSmQxd2l3ZkRwV3ZHLUFxLUtjd3V2NzhObS1tSmNadl9aS09ROXBsOGxOaWVKNDQ4YlRzQWhqLUVxRFNEYW5GNkVRUEdUVFJxZDVVZThOZm5tNnRkMWZOTDhBQ0ozeVF6dHg0aUozZms?oc=5",
-      "published": "2026-01-12T20:48:21",
-      "sentiment_score": -0.027,
+      "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+      "published": "2026-01-12T21:45:38Z",
+      "sentiment_score": 0.066,
       "sentiment_label": "Neutral",
-      "confidence": 0.878
+      "confidence": 0.909
     },
     {
-      "headline": "Apple Teams Up With Google for A.I. in Its Products",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVd4Ukp6MHlfUGd1T3JIVXRBMkNoYnU3MWdlUHBvWjAtVWZ4SkZUQ3lvR1VLbTk3OFMxVF9kSXNXcUNQZEFxOVBfVFZzdWhqREJJREpNdFZhaVFwTXNkMERUS3ZaOHVHVFI2SEg0NmpMaGkzUGtnZllPbmFkVzhydU9Halg?oc=5",
-      "published": "2026-01-12T20:09:59",
-      "sentiment_score": 0.178,
+      "headline": "OpenAI acquires health-care technology startup Torch",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/12/open-ai-torch-health-care-technology.html",
+      "published": "2026-01-12T21:37:45Z",
+      "sentiment_score": 0.05,
       "sentiment_label": "Neutral",
-      "confidence": 0.8
+      "confidence": 0.923
+    },
+    {
+      "headline": "Anthropic announces Claude for Healthcare following OpenAI's ChatGPT Health reveal | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+      "published": "2026-01-12T20:49:25Z",
+      "sentiment_score": -0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
     },
     {
       "headline": "What a new law and an investigation could mean for Grok AI deepfakes",
@@ -319,6 +364,24 @@
       "sentiment_score": -0.89,
       "sentiment_label": "Negative",
       "confidence": 0.9
+    },
+    {
+      "headline": "Amazon says 97% of its devices can support Alexa+ | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
+      "published": "2026-01-12T19:21:35Z",
+      "sentiment_score": 0.892,
+      "sentiment_label": "Positive",
+      "confidence": 0.899
+    },
+    {
+      "headline": "Apple asks Google to help bring more AI features to the iPhone",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/apple-google-artificial-intelligence-partnership-865dfa575279c292bc729a2dfa4e1583",
+      "published": "2026-01-12T19:11:59Z",
+      "sentiment_score": 0.521,
+      "sentiment_label": "Positive",
+      "confidence": 0.539
     },
     {
       "headline": "Apple chooses Google\u2019s Gemini over OpenAI\u2019s ChatGPT to power next-gen Siri",
@@ -348,15 +411,6 @@
       "confidence": 0.808
     },
     {
-      "headline": "Meta names former Trump adviser Dina Powell McCormick as president and vice chairman",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/meta-dina-powell-mccormick-trump-adviser-bce6b207f1754284f9b922b0ea8ec7bf",
-      "published": "2026-01-12T17:08:09Z",
-      "sentiment_score": 0.017,
-      "sentiment_label": "Neutral",
-      "confidence": 0.944
-    },
-    {
       "headline": "Instagram denies breach after many receive emails asking to reset password",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cdexdr08p05o?at_medium=RSS&at_campaign=rss",
@@ -366,31 +420,13 @@
       "confidence": 0.854
     },
     {
-      "headline": "Apple picks Google\u2019s Gemini AI for its big Siri upgrade",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization",
-      "published": "2026-01-12T15:38:19Z",
-      "sentiment_score": 0.752,
-      "sentiment_label": "Positive",
-      "confidence": 0.76
-    },
-    {
-      "headline": "Alphabet hits $4 trillion market capitalization",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/12/alphabet-4-trillion-market-cap.html",
-      "published": "2026-01-12T15:33:15Z",
-      "sentiment_score": 0.907,
-      "sentiment_label": "Positive",
-      "confidence": 0.919
-    },
-    {
       "headline": "Apple picks Google's Gemini to run AI-powered Siri coming this year",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-      "published": "2026-01-12T15:24:47Z",
-      "sentiment_score": 0.87,
-      "sentiment_label": "Positive",
-      "confidence": 0.881
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMUoyZFNyN1NsQjdsS3J6MkhCR253STY0djkwb2JveGJUalJCemM2YTdzWE9ZUXE4Sk02T0gtVFVOZk9uZktMekJrc29VUHBqQWk2VXNyQkpLZEVqRmh0SjdfYm9XM2U0NG1BME9ub05Vd9IBd0FVX3lxTE9tNkU5M3B4dFIwSzY3cExYdXpzbFc0SXRSNUs2b2dHT2g0ODhGNTFVcmxLWFQ5MmhnelM3X3JoME12SjVXNUQ1Vy1QcW95a2MtbjlnVjlEZmZBdGlPMnVIMmRyWWlnZC01OGpzV0F6Y09iZW15M3BJ?oc=5",
+      "published": "2026-01-12T15:19:25",
+      "sentiment_score": 0.079,
+      "sentiment_label": "Neutral",
+      "confidence": 0.893
     },
     {
       "headline": "Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes",
@@ -400,42 +436,6 @@
       "sentiment_score": -0.589,
       "sentiment_label": "Negative",
       "confidence": 0.612
-    },
-    {
-      "headline": "Google brings buy buttons to Gemini and AI search",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini",
-      "published": "2026-01-12T12:44:24Z",
-      "sentiment_score": 0.384,
-      "sentiment_label": "Neutral",
-      "confidence": 0.585
-    },
-    {
-      "headline": "Powell's criminal investigation, Google's AI shopping push, Boeing deliveries and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/12/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-01-12T12:40:56Z",
-      "sentiment_score": -0.036,
-      "sentiment_label": "Neutral",
-      "confidence": 0.905
-    },
-    {
-      "headline": "AI can now 'see' optical illusions. What does it tell us about our own brains?",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2VsTnNjWmhVVUp1cXU3U1NocUQ4MUM4Z2gxQjRnNWN1VTRwMVd0SFBtQWR4QlFKcGIwNS0ycnZrOUJXOW9xREFTLS15QWtVS2hRM0Jnc3Zqa0cyMHR0YjhHQl9NSnhpMnY4TnhYamZ5UVRyTTBxUTJmQ3F1VmthSE9pZHVTSEFGSmNoMjhxWkhIZ3NBS0JxVQ?oc=5",
-      "published": "2026-01-12T10:00:00",
-      "sentiment_score": -0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.937
-    },
-    {
-      "headline": "Malaysia and Indonesia block Musk's Grok over AI deepfakes",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225",
-      "published": "2026-01-12T06:34:37Z",
-      "sentiment_score": -0.929,
-      "sentiment_label": "Negative",
-      "confidence": 0.94
     },
     {
       "headline": "Eggie, Neo, Isaac and Memo are domestic robots. But would you let them load your dishwasher?",
@@ -456,13 +456,13 @@
       "confidence": 0.947
     },
     {
-      "headline": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTR3YWd0M0FBVDYyWFFVS3hfNWJpOEtidkFvcGFpakxWemZjUndrUmI0M3U1RVVGVTN5NUt6UGtUNlpKU2hHR2owQTlyOXQ2ZkRMZlMyME1vaVJ2VDRSNGlQNURELTZ2T3hOVFZNZ05NS2pFRHB1YTJYWUc5YVZFREdoQy12UzA0dklFRlB3UkJ0Z2M1dU1lWjBMa1U2R19GNl80YlY0aFlMQldBbGc?oc=5",
-      "published": "2026-01-10T21:18:29",
-      "sentiment_score": -0.023,
+      "headline": "Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdDI1a2FQZWJkSW1TR3BsUUY0SGVMR0s3V0xaVkd1RnBVVldlQnJUSmRtOVZMdWpjOTNBRnRITzQzZnhSUXRMenk4TlAtQ2JfeGlXRVo0Q3F0cENoS0lPX1VRbUc3RnhCOHNXcHA0Y0luQldGUzIxbHVtaHlSRzEzYmJn0gGHAUFVX3lxTE5YYXFUZi1QQlJxdmdWVVdFdmpGZGxYTHVpbjJ0V3FKQ3RyYWNncXpQU3lubzd4dGxjTlVjSGlKZUZpbktHRFlQMkRrNkRBaS10Ykd2cHRuaFotaEtydzZMVk96NGtvVnNhMWUtRTloSlBrQ3d0WmxCQXZpemEzUjlVdE04UHpqQQ?oc=5",
+      "published": "2026-01-10T13:00:01",
+      "sentiment_score": 0.379,
       "sentiment_label": "Neutral",
-      "confidence": 0.847
+      "confidence": 0.601
     },
     {
       "headline": "X could face UK ban over deepfakes, minister says",
