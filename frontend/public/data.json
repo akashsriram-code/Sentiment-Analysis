@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-15T18:27:21.831501",
-  "total_articles": 58,
-  "overall_sentiment": -0.138,
+  "last_updated": "2026-01-16T01:04:28.497919",
+  "total_articles": 61,
+  "overall_sentiment": -0.17,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -141,35 +141,38 @@
     },
     {
       "date": "2026-01-14",
-      "avg_sentiment": -0.023,
-      "article_count": 17,
+      "avg_sentiment": -0.038,
+      "article_count": 19,
       "positive_count": 7,
-      "negative_count": 6,
+      "negative_count": 8,
       "neutral_count": 4,
-      "moving_avg": -0.336
+      "moving_avg": -0.338
     },
     {
       "date": "2026-01-15",
-      "avg_sentiment": 0.043,
+      "avg_sentiment": -0.171,
       "article_count": 10,
-      "positive_count": 3,
-      "negative_count": 2,
-      "neutral_count": 5,
-      "moving_avg": -0.34
+      "positive_count": 2,
+      "negative_count": 4,
+      "neutral_count": 4,
+      "moving_avg": -0.372
+    },
+    {
+      "date": "2026-01-16",
+      "avg_sentiment": 0.114,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.317
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.297,
-      "article_count": 32,
+      "avg_sentiment": -0.311,
+      "article_count": 33,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.028,
-      "article_count": 7,
-      "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
@@ -178,31 +181,70 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.096,
-      "article_count": 3,
+      "source": "CNBC",
+      "avg_sentiment": 0.35,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
-      "source": "Bloomberg.com",
-      "avg_sentiment": 0.152,
-      "article_count": 2,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.108,
+      "article_count": 4,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.64,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.608,
+      "avg_sentiment": -0.386,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "wsj.com",
+      "avg_sentiment": 0.369,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Wall Street Journal",
-      "avg_sentiment": 0.369,
+      "source": "The New York Times",
+      "avg_sentiment": 0.15,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "'They are essential':  How smoke detectors are evolving",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cwynxdnj927o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-16T00:04:26",
+      "sentiment_score": 0.114,
+      "sentiment_label": "Neutral",
+      "confidence": 0.865
+    },
+    {
+      "headline": "AI hyperscalers will drive higher US corporate bond supply in 2026, analysts say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSVhsZEFscWE1eDBWUTFMQVpROTVsaGVVc19NbzAzd1A2ZkJ2WUtUeWFCN2hQblNpelRfV0lSd2M0Z1VGUE4tcHF6MElaRXNxeVNFTS15dUtrNXVIOHc4eXlqZXZUUldtcmRxZWotVjg1WER6WU9YZlpHenRpSUg4VlBzNFJLTDBPZFA2Qll0alVncmxKalBlRVFuOVFSZFBIbHlpLTF3WUdjaGlqM3ZNSU9uRHlhSm52TVQ5d3BFRlNYN1R2d25oQg?oc=5",
+      "published": "2026-01-15T22:54:20",
+      "sentiment_score": -0.286,
+      "sentiment_label": "Negative",
+      "confidence": 0.531
+    },
+    {
+      "headline": "Lawyers doubtful about US judiciary's draft rule for AI-generated evidence",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1ZQQTZLME1aWmQzdTdfeUd2SWhCR2xMamV5TzJaVmpkcEozYTgyai1jNDlNME40N3RBRGdMbEEySmg0LU9uYVdHdGJVSUdyMU5VaWJPcEw4elVhZU9aY1BkVUZTTV92R2x2a3BPTktaenlxblhoME5PMU9jNXEzT2gtX2NMbzF3bWV6QlJpaUF0QThWN3Q3TEh1ZDdFd0hwY2dlbFkzWXdURlhDRko4ZDJIRWxRdnpXWmtmRlJFOA?oc=5",
+      "published": "2026-01-15T18:37:54",
+      "sentiment_score": -0.487,
+      "sentiment_label": "Negative",
+      "confidence": 0.517
+    },
     {
       "headline": "Raspberry Pi\u2019s new add-on board has 8GB of RAM for running gen AI models",
       "source": "The Verge",
@@ -211,6 +253,15 @@
       "sentiment_score": 0.042,
       "sentiment_label": "Neutral",
       "confidence": 0.926
+    },
+    {
+      "headline": "AI Search Overviews May Signal Transformative Shift",
+      "source": "The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOelkwRjFWYmJid0pGQlE5VXVZZmVvb1o5R1hodWIxVEFqWmVjN0lVcml5T1RpM1ZVUFhnQWVFLU5laU9lbUFjV3d5MG1OVkhZbi1ja01lYnpNcGphRll1ZFNnS1M1Sy1Ga08tem9CUTZvdmtaYmV3X2M3QUp0dWh0Y1FhMTBvRXRpZnh4SmNWanA5UWJ1eDNBVkZjYWhqbEFHblQyc2FGMUtLUVBraHNRakx4cWNBNTZPRzFyYkdrdXEzS1pBZkZ4TDRJakNrSWVsME9hYzRtdloxM0VGYlVadk5Rbm9kamtidEpIVnR6bTNjVnpGREQ3UlRORHowR09nZmt5NTlRaTdsdFB2alN4ZDRSZ2NVbURDSGhwN21CZzVveEJUX0VLWkNoYy0xR3BDaEYwNzVlaGE1LVd2R2dVVFN6OTZGaWR6RTZqTVVSMURzcmZ0cE9CakpneWhpdkdMXzMwNFBWSU9ZbG9DTk9yWkQzYi1tc015SUptcGhuRUF0emRGNXVDc3BwanVvVzhzWHRxbjI3TXI?oc=5",
+      "published": "2026-01-15T17:00:00",
+      "sentiment_score": 0.097,
+      "sentiment_label": "Neutral",
+      "confidence": 0.812
     },
     {
       "headline": "OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push",
@@ -231,36 +282,9 @@
       "confidence": 0.596
     },
     {
-      "headline": "Grok scandal highlights how AI industry is \u2018too unconstrained\u2019, tech pioneer says",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVlnbkd4enJ6S0V2MXdXd1dicHdYVk9mckdsT0Jadl82dkZwbjFEMk1wZm5aNXR3anlWU0xpckE5bmthQ1JrUjJMM1kzcHcxblJiQnA5a3lQSHVyWlpVZTFTRW04RXZTaFVwTVBBLTBHTE8yZlYxb3hueE12cmI4Rno1c2xrc2VucGVGVU9XSFYtTXRDREdrWnNEeGZERDVYNEQ1ZjctdnN4cERfRXJmbUJFd1VCQ1FU?oc=5",
-      "published": "2026-01-15T15:46:00",
-      "sentiment_score": -0.649,
-      "sentiment_label": "Negative",
-      "confidence": 0.682
-    },
-    {
-      "headline": "AI video startup Higgsfield hits $1.3 billion valuation with latest funding",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWQxcm9xb0QzNDdWeUNTOUQwSGFjRkl4VGVSR2VEREVtMG5sVHFVTDU3N0NZNGszcHItTHZSbV92UWgzR0NpYURzUi1oaDh1VFhOdnpjQ1JCbUxaMzRGVkF1SFYtUG5ubDNpOHRhc1o4QlVCWV82TzZ2UFFmN1ZFTlVadnc1RGJGa0ExeWJDVW9lTTVOSXo5d0h6WFFLTm9OeWhHVjFaNFpObnl0RlpuX2drclJlOW9OTUJ3TXd0bmlmV21GZGtjREx2WG8?oc=5",
-      "published": "2026-01-15T14:57:00",
-      "sentiment_score": 0.758,
-      "sentiment_label": "Positive",
-      "confidence": 0.773
-    },
-    {
-      "headline": "Elon Musk\u2019s X Restricts Ability to Create Explicit Images With Grok",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Z0t0Tko5U2VGR09paENjeXg1TG9RRWpiQlJKaGxsQjZKRURJMEl2S3B4bmRjbldWcTBBd0J6N0NmMHpNNUh5c2VaQW5FSmlsYlVBUG0xUzNjcTBwWlUwUzRrYURZRlVjWDFjbzNzbWVLaFk?oc=5",
-      "published": "2026-01-15T14:42:04",
-      "sentiment_score": -0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.928
-    },
-    {
       "headline": "Thomas Sowell: My Experience With Artificial Intelligence",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQZTh2Z25kYlkydmF4Z1VLWFNVU0lnczQ3cW9XZ1VlYVgwYmkwVndNMXBRZ3AwSmVFelZWWEUwcDlEQXZmTDllS2F2Q1dhRWRlYnpUT29rUlpGQVVRNWx5VTdWaXk2LUZ0M0Z5UHNsZHFBNGRpMmlTXzNVRzRXOS1rYkV5c2s0VHliMUNBektSakhCN1dqN0w5U3o2NEItOGtSalVOODBBQXN3amtLYjEyWWF6R3Z5LU5VZXZUV09aT1FKMkFKOWJOSFRNWGhDWEUwcDdZWnRvdXNtZG9XWDBYdEJrcjJ6ZldyczdZb054TDhxamVueXc3OTZTWE5RbWVlVkFJbHhvaHFiMnl0NmdOOG5mZ2I5QndqZ25fdHA0QVA2QTNkY2JpLXk2RTBEbXpzdXlud1BMX2NNYXl1Z3B6OHBmbm0xUE5LNTA3Q1hqZDdNeWpzQzVzVDJfWUZUMFpDNkV1SkwzdXZDdWhxNU5KdVJqUWdtZkFQMDNOMnVqdTI2bm1iR2pSS0RtdEpwbDRsb0w3SUFFWmdSUmd4MzkzSy1FdFdLWHFrN2s3c05acVBDMFU?oc=5",
+      "source": "wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPcnpVemZNMkVkdDBDZk5HeGg5RjZDRXo1UXYyakN5SzhhS3YwSUZqZFptRkpqTk1JSm5UMENZQ1M5cFBRTFo5bUh2ODhqNzNTeVZkc2U5VnY4VnlsQ3BpUTZWNEZHeGN6d3FLV1lQZFR5SS1TSUdzTEhGRGdxdG5MdXR1TkEzRzlYbG5WSG9GSF9mVE9DejdndmdpTmRiNnd0ak13bDBqMWRydlBIcXRWdEdNUTNLc1k2czFhN0hCMmtYVUQ2ODdMRzloaHBRSlJhVHR6ckJzUlhRUUtjQXV2V3hsVmEzWDdFaW9nT216XzRLOHczenNQVVRCaFBGSVBkZXdzSzlYNTJhYkxyZENXZ2pyV2h3LWgzTE40bHp4N2lZUURpMkJvdVdISENGRWxmazVtOVhHZW1mbERLNXE0MEFIX2FQcm9ha1NGdUhoQWN5Nzl2eHdpc3BjSDNqbFYyN0FfWFh1SklxMTdiZFFpUWRhb0JDWjZwQVRKdHFqOGdIMHlUNWNzYnZmWEI0QVNjWDkwYWNiWDhoN1p3LXBkVzdDd0ZWVmIwZjdHQVNZWDd2akE?oc=5",
       "published": "2026-01-15T11:47:00",
       "sentiment_score": 0.018,
       "sentiment_label": "Neutral",
@@ -285,13 +309,31 @@
       "confidence": 0.939
     },
     {
-      "headline": "OpenAI signs $10 billion computing deal with Nvidia challenger Cerebras",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0RNMHRLMmozT2xWUWtqNFB4Vkp2UExIcS1tNDZkdThEbkRVdzZYWU1zN0dId0hUZnhRRFpQWUJjd0J2SnpnbHYyeW5lc2dxSGFXY1E4eWQwcmxJeWxKemgwZkljcGJIRHpleGNKUDRfcFRWTUIyN0VTSzd6NHNDV1UwWUVvYkV4Wm5EcEk5cWF6WVRqRnU4NnZMOElPZEVaMW1pZHlCNkJtalBnZHN6ZmlEcVFpR0plZXdnazh3?oc=5",
-      "published": "2026-01-15T02:34:00",
-      "sentiment_score": 0.458,
-      "sentiment_label": "Neutral",
-      "confidence": 0.515
+      "headline": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/",
+      "published": "2026-01-15T00:40:28Z",
+      "sentiment_score": -0.907,
+      "sentiment_label": "Negative",
+      "confidence": 0.921
+    },
+    {
+      "headline": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
+      "published": "2026-01-14T22:48:32Z",
+      "sentiment_score": -0.864,
+      "sentiment_label": "Negative",
+      "confidence": 0.885
+    },
+    {
+      "headline": "OpenAI signs deal, worth $10 billion, for compute from Cerebras | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+      "published": "2026-01-14T22:26:38Z",
+      "sentiment_score": 0.899,
+      "sentiment_label": "Positive",
+      "confidence": 0.907
     },
     {
       "headline": "OpenAI Teams Up With Cerebras in Chip Maker Deal",
@@ -303,31 +345,76 @@
       "confidence": 0.681
     },
     {
-      "headline": "OpenAI Signs $10 Billion Deal With Cerebras for AI Computing",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGpkcFphWXNHQUxxYXFPTjZNOUdRT0Z3MFpmNlZuQTBTRnQ2WDlIRWgzbkJuOWlZMDUtNGJpcmpfazBpLWxLLWNlNk5zLUgxd2Z5Mmk3WTRwbXJERXJsTDhPN0o2NkZhQVpkMXVPWEJycDNCOGozdHdxQkVrYWJxVm0zWnZHcl9yZ1JMYW1oWGpHWVBaR3puLWplanBhaHRQSVpzTDdsV1BpZE5VdlhCcw?oc=5",
-      "published": "2026-01-14T21:54:53",
-      "sentiment_score": 0.159,
+      "headline": "Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/14/trump-nvidia-h200-china-ai-chips.html",
+      "published": "2026-01-14T21:47:45Z",
+      "sentiment_score": -0.092,
+      "sentiment_label": "Negative",
+      "confidence": 0.521
+    },
+    {
+      "headline": "Here comes the advertising in AI chatbots",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2026/01/13/advertising-google-ai-mode-chatgpt/",
+      "published": "2026-01-14T21:09:08Z",
+      "sentiment_score": 0.047,
       "sentiment_label": "Neutral",
-      "confidence": 0.817
+      "confidence": 0.925
+    },
+    {
+      "headline": "Cerebras scores OpenAI deal worth over $10 billion ahead of AI chipmaker's IPO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/14/cerebras-scores-openai-deal-worth-over-10-billion.html",
+      "published": "2026-01-14T20:19:31Z",
+      "sentiment_score": 0.919,
+      "sentiment_label": "Positive",
+      "confidence": 0.931
+    },
+    {
+      "headline": "California investigates Grok over AI deepfakes",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cpwnqlpw7gxo",
+      "published": "2026-01-14T20:19:22Z",
+      "sentiment_score": -0.859,
+      "sentiment_label": "Negative",
+      "confidence": 0.883
     },
     {
       "headline": "Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNdnY3RF8wMngxaW54TlpWaGJDRGpnODRrY2JjSkdkM2ZENFVfOHlJVHNWMUNUSFJmdmhxYnMxak1hMXZUSVFwVjFpcDNCazlBbUtTclBzZXVlUDhKMzF5R0RwbWJNVnRHa0M1RkJQRTBvbG1uaFUzdkNsWk1acEhscDdVV1d4cVlzb1Qzb1ZuY2FOZ0VmN08wQnotR2RpLVhJc1loOFBoUHl3b3hvSTZUUVhCRW11czJsZkYzb0lVQkR3X0VvWjYyakExdUNmekp5aXcyLVBEUFlQc0NqLWpWQWxJbnhvX0tvaC1vV1cwT1N5elpqR1JCSmgzZDlDOHZ0LVJnSGh2bjhsYnY5U1VGdkkwZ0FKUThHcWJyMnFHNXhFYmV4OGRMcEVYRnZhQURlZy1WdFYzT3gwazBSQlZjT2FSWWJzQm1RUmo2czhNdFZVWGNteXJ3R1N3cWhfYU40VUNvRWpIWEVWc0pvOU9sTXl4WTNxTWFwMjItRmV4cjEybFpkd25FQV9sNExvWnU0LVo2YkhrcE04WC1LU21VTnRaUHFXSXVkT3hYai10Zw?oc=5",
+      "source": "wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPc3Q4c3J0R3JNWFlydkN0RnBCVnYzUE05SmtIeW9heGJ5T2dsVWt0ODI4eHhFM3Q2RHRGTWhzdTF4X2MtX01HOFNUM21MWF9Zb1ZzTHM4MEt1Q2NpdW1FSTAtRElxSlBQZERlT0Z5cWxMcUxZd21YNFBsNmxpQVhQVHNxTmFKd3dEMmUzRDF6MEloRGptZUp1bTRLdHpaSHJrV1JpcEFDaEdqNkhvLW1KZlZYY0VlbnlZdGhPdk01bFItdVc2M2RNTjViaG1USmd4TmZsbEpLYnlxYTREVWFQQTBUWmFSY0QzdExHMUZFT2FGQWZRQ0ZqQ3F1andUUWxzNURIemExSHhWTnlON1FNZVpNSTV6WERxVU1aODlDcmhySlNDaHJrRWpZNVNKbnZiWDNyRUxlMEZqSXIwNFYyb0dMczJBNEtZd1I4Mm5EVFRGNjBaeWhJZ0dobjh4NHl1RmZzS3lDZnJ4VjZ4UHpKN0tkd1VRRDN6ZFIxeE9jR0lDenY2QmxWbm5zYWc4aFQwbFdVMk1lcVpfdEh3VUFqbDVLV2o0TVJBdDFhLTh5MA?oc=5",
       "published": "2026-01-14T19:59:00",
       "sentiment_score": 0.72,
       "sentiment_label": "Positive",
       "confidence": 0.729
     },
     {
-      "headline": "Elon Musk's xAI probed by California DOJ over Grok's deepfake explicit images",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/14/elon-musk-xai-california-grok-investigation.html",
-      "published": "2026-01-14T18:25:22Z",
-      "sentiment_score": -0.925,
+      "headline": "YouTube will let parents stop their teens from endlessly scrolling short videos | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/01/14/tech/youtube-parental-controls-shorts",
+      "published": "2026-01-14T19:28:15Z",
+      "sentiment_score": -0.038,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
+      "headline": "AI models are starting to crack high-level math problems\u00a0 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
+      "published": "2026-01-14T19:10:55Z",
+      "sentiment_score": -0.499,
       "sentiment_label": "Negative",
-      "confidence": 0.936
+      "confidence": 0.541
+    },
+    {
+      "headline": "Digg launches its new Reddit rival to the public | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/14/digg-launches-its-new-reddit-rival-to-the-public/",
+      "published": "2026-01-14T19:00:51Z",
+      "sentiment_score": 0.061,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
     },
     {
       "headline": "Gemini is winning",
@@ -357,15 +444,6 @@
       "confidence": 0.765
     },
     {
-      "headline": "Julian Barnes on his last novel: 'I hope it's a good one to go out on'",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c99kn9xyekeo",
-      "published": "2026-01-14T17:00:31Z",
-      "sentiment_score": 0.017,
-      "sentiment_label": "Neutral",
-      "confidence": 0.907
-    },
-    {
       "headline": "Bandcamp becomes the first major music platform to ban AI content",
       "source": "The Verge",
       "link": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music",
@@ -384,15 +462,6 @@
       "confidence": 0.898
     },
     {
-      "headline": "Global music streams hit 5 trillion in 2025",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/music-listening-habits-2025-christian-rock-latin-a5e06a001705cd7e5d3854d8fab901b8",
-      "published": "2026-01-14T14:00:08Z",
-      "sentiment_score": 0.858,
-      "sentiment_label": "Positive",
-      "confidence": 0.873
-    },
-    {
       "headline": "Airbnb poaches former Meta GenAI leader to be new technology chief",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/01/14/airbnb-tech-chief-meta-ai.html",
@@ -409,33 +478,6 @@
       "sentiment_score": -0.15,
       "sentiment_label": "Neutral",
       "confidence": 0.762
-    },
-    {
-      "headline": "Tariffs and AI's downside pose top global risks for business, World Economic Forum says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/14/world-economic-forum-2026-global-risks-report.html",
-      "published": "2026-01-14T09:15:01Z",
-      "sentiment_score": 0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.64
-    },
-    {
-      "headline": "Big Tech is poaching energy talent to fuel its AI ambitions",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/14/big-tech-google-microsoft-energy-hiring-ai.html",
-      "published": "2026-01-14T06:10:40Z",
-      "sentiment_score": 0.736,
-      "sentiment_label": "Positive",
-      "confidence": 0.767
-    },
-    {
-      "headline": "Meta's VR layoffs, studio closures underscore Zuckerberg's massive pivot to AI",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html",
-      "published": "2026-01-14T01:21:22Z",
-      "sentiment_score": -0.959,
-      "sentiment_label": "Negative",
-      "confidence": 0.966
     },
     {
       "headline": "Honey, I shrunk the data centres: Is small the new big?",
@@ -594,7 +636,7 @@
       "headline": "OpenAI launches ChatGPT Health to connect user medical records, wellness apps",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdGdiaEd3OGlTWmI0UktteGsxcnk5ZkIwS1hlV21nbEdiRk9jTlZ5b21HQ29hSFFFZ2V4cHJoTmVaQnQyNmtOc1BxUmt1ejMwd2wtZHNXdkpSem9iU2E5cExDMzBiaXdUNTBabnVmZS1kdHQ2X0F3TTVMVlBQaEnSAYQBQVVfeXFMTTVaWmpvUl9SQjhXbzhia0QxMnJDN2FCbDJvQTM3WTJESEJEenl6UWZQLVpPbW8xRjY5eVdwdUVUTHJJekQ0RFdIUGt3RVRsa3RMRjg1b1J0RU5sMnM0VndMY0p1YWNCMTNiMjk5cTJtT2hiQ2xrSnVBN0xRQUl3NURxbk1z?oc=5",
-      "published": "2026-01-07T20:33:19",
+      "published": "2026-01-07T08:00:00",
       "sentiment_score": 0.068,
       "sentiment_label": "Neutral",
       "confidence": 0.907
