@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-21T12:31:29.231963",
-  "total_articles": 56,
-  "overall_sentiment": -0.15,
+  "last_updated": "2026-01-21T18:33:54.778885",
+  "total_articles": 59,
+  "overall_sentiment": -0.185,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -141,21 +141,21 @@
     },
     {
       "date": "2026-01-15",
-      "avg_sentiment": -0.17,
-      "article_count": 2,
+      "avg_sentiment": -0.359,
+      "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.516
+      "neutral_count": 0,
+      "moving_avg": -0.543
     },
     {
       "date": "2026-01-16",
-      "avg_sentiment": 0.038,
+      "avg_sentiment": 0.039,
       "article_count": 7,
       "positive_count": 6,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.471
+      "moving_avg": -0.498
     },
     {
       "date": "2026-01-17",
@@ -164,43 +164,25 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.465
-    },
-    {
-      "date": "2026-01-18",
-      "avg_sentiment": 0.095,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.318
-    },
-    {
-      "date": "2026-01-19",
-      "avg_sentiment": 0.347,
-      "article_count": 2,
-      "positive_count": 2,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.186
+      "moving_avg": -0.492
     },
     {
       "date": "2026-01-20",
-      "avg_sentiment": 0.017,
-      "article_count": 11,
-      "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 5,
-      "moving_avg": -0.14
+      "avg_sentiment": -0.016,
+      "article_count": 15,
+      "positive_count": 6,
+      "negative_count": 7,
+      "neutral_count": 2,
+      "moving_avg": -0.36
     },
     {
       "date": "2026-01-21",
-      "avg_sentiment": 0.187,
-      "article_count": 3,
+      "avg_sentiment": -0.12,
+      "article_count": 6,
       "positive_count": 2,
-      "negative_count": 1,
+      "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.049
+      "moving_avg": -0.295
     }
   ],
   "source_stats": [
@@ -211,37 +193,73 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.128,
-      "article_count": 4,
-      "sentiment_label": "Negative"
+      "source": "CNBC",
+      "avg_sentiment": -0.042,
+      "article_count": 7,
+      "sentiment_label": "Neutral"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.337,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.345,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.292,
-      "article_count": 2,
-      "sentiment_label": "Positive"
+      "source": "Wired",
+      "avg_sentiment": -0.182,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.546,
+      "source": "Reuters",
+      "avg_sentiment": -0.059,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.105,
+      "avg_sentiment": 0.076,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "AI company Eightfold sued for helping companies secretly score job seekers",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUktLUERrX1F0NHNUNkZtRHV0dkFiZGxtSU9XcmxjQ1p5cGxMVV9oc2R4V3VnemlHMWlVS3U2M3NNN0p3WUt6Q0FDbVB3RGIxdWtvclVVQTl6TmxFLXhXbDNMaVVEQWpQc0x5Rm5UZWptMmdRamRZQjRvSktLODJaWGNEbzlOVVdiMG5idURQREduLXRaZGxURmt5RXcyUTM1M2g3S0ZyU2ZHdHc5NEJQWXhmYll6aG53cUZWMWY1U1FSckhHQXMwOGplYjBYYm9qOEZFMHQxaTcyQU5LYzhZ?oc=5",
+      "published": "2026-01-21T18:18:48",
+      "sentiment_score": -0.869,
+      "sentiment_label": "Negative",
+      "confidence": 0.889
+    },
+    {
+      "headline": "Rollout of AI may need to be slowed to \u2018save society\u2019, says boss of JP Morgan",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNk9XR1JHOFp0Q2lNYmF4OFlDS1Q5cDlqajgzR0E3WjZicUtuMlpDWG9LeUNIMGFfa1hWMVhwN3lYVm9ya2xDZmxnSWQxcUNyRG9yaWlJZGFVa3lWTWdINFVQYVB0dTVHRUg2c3I5SWdVT0lnZU9QLTNja2pSdVI5N1VhUGFBOGtldDFtQkJYbnV2cGVaaW45VlRFN2R6NzZvMzMxTzB4WUE2SkJuc0EtdzRuMF9fT3c?oc=5",
+      "published": "2026-01-21T18:18:00",
+      "sentiment_score": -0.164,
+      "sentiment_label": "Neutral",
+      "confidence": 0.722
+    },
+    {
+      "headline": "OpenAI CFO Defends Ads in ChatGPT as \u2018Strong Business Model\u2019",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRERDMHd5VkEwdkJlNjRCTk8xM2VEN3BkS2dHcWNVTGxkeDdJSEkwVU1qbHp1azhSeWx3VWFvczk0bGNVOXNPcFdzajhERDN1Q2RXRFVpb01rdVlCaTdVaU9HMktnSWR5a0E0aWFHclV3WXBKT2hmQ0NlWU1LT0xybElOYUxGdkdfUW9sbU5Pb3RRakdHd2JVVGFYZ3loSVRWYXQwNFg1T1BsLUNwV0E?oc=5",
+      "published": "2026-01-21T16:22:20",
+      "sentiment_score": -0.064,
+      "sentiment_label": "Neutral",
+      "confidence": 0.564
+    },
+    {
+      "headline": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGlWaHhib2FzMHNmMmtqUlNGRlBubzNVRFlDMUF0ZVlwdTQzRm9LVGw1cU85UDRBNENhMzE5OGFCRFJGNWtaR0loLXBfWlU0d3J1VTFDWkVvNkpVVk5RRTd1MWlTZTNtNXRuUkVyN2hpcmh3VjRqRGFwM0ZBanJOSVVhb0dTWW5sWVZQMHE0UllaS2Q2NkdueEtVZDlEWWxkLWZyZUZB?oc=5",
+      "published": "2026-01-21T15:20:23",
+      "sentiment_score": 0.07,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
+    },
     {
       "headline": "Saudi's Humain secures up to $1.2 bln to expand AI infrastructure",
       "source": "Reuters",
@@ -250,15 +268,6 @@
       "sentiment_score": 0.75,
       "sentiment_label": "Positive",
       "confidence": 0.761
-    },
-    {
-      "headline": "Exclusive: Meta's new AI team has delivered first key models internally this month, CTO says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdU1NVGtGaXd3bm1BT1QzRTBoTHB0VG1zWGE5c2ljWmpQQW01cWVnOUNxN1RmS2M1bjR0QklXVkxJT1o5ZUg4OXFzQ1pKVGlkcnlGblhtWjhFenNQNUZsV1hjcklUbmdSaDl0NThaM0FraXB4VDl5eVg3bkRwZlRGQkJMUXFOOGgzcjNBSVY4ejlFbno4MkozaDY1UFVCWDZCTUVnaGx3UjNJWHR5ZmN6aTZHWFpRY0J6ZnhRNnlKVDVBNTNS?oc=5",
-      "published": "2026-01-21T09:43:04",
-      "sentiment_score": 0.254,
-      "sentiment_label": "Neutral",
-      "confidence": 0.725
     },
     {
       "headline": "Snap settles social media addiction lawsuit ahead of trial",
@@ -270,22 +279,67 @@
       "confidence": 0.495
     },
     {
-      "headline": "In an effort to protect young users, ChatGPT will now predict how old you are",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2ZvbXgxbEFkdGNFelBHUFZKTEstWE93U3lRbXVQbllSTEczLTNSYzRxZUJ6RE56dE1vcmFRSERhQjFUZ3FwQUZsQlhRdm11OVhYdFpSSVdFZFFpb0tHYVJaUllnNUlPNmtMVDJYTGNCaUtVVDdXOHB4SU0xWDN3S05hVkRHTFZyMnFDMThNcFlVYk9fbnFIV3lvVjI3bVE5aWxyZHJHLVp1alNUOGZmYw?oc=5",
-      "published": "2026-01-20T23:29:56",
-      "sentiment_score": 0.026,
+      "headline": "OpenAI is rolling out age prediction for ChatGPT consumer plans",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUVNHc1JudTlhcy00OVdNZ3J1Zncxbk0yVHZ5YU5ERmFZMXNLeVU1NEJmdlJNLTBUZVJsTDdwcndUcU1pUm4zX0tTNVdXOUlmSnQ1X2VpdzY5ZkRZNnJMakN1Nk9KclBKOUtUR2VvNFdMRjd6MGfSAXtBVV95cUxQclJ5QnJhY0tWanBUM1NfMjc1Ql9zMC1uQ2RhN1VxTlpQZC1DUVV4VWZQcnZlSUpWQjdUcFprbmFVMm1JS241QXZKbHdCam9SejdKU0laTXh5VE5MZWJMWDdXSzllWWRiU0RDMS1oSWd4NWI2emdUNUhfRE0?oc=5",
+      "published": "2026-01-20T21:04:47",
+      "sentiment_score": 0.103,
       "sentiment_label": "Neutral",
-      "confidence": 0.924
+      "confidence": 0.864
     },
     {
-      "headline": "OpenAI rolls out age prediction on ChatGPT",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2x3eUZFLXRWSDRlNFRYWHo3UEp6M3RlRDk1QTBoVTJkS1RKRU03djhkZXdHb2NUQlFQYnotdkY5MHRHdzhwRTZTVVU4VjREdVdUNnJhTkpYRlRwSGd0WWF6dFZ3VUxNclVFZ1VpQURteVhvZWFjZ2JBUFpiQzZtak9IenZkOFFWNDhvZjNXMA?oc=5",
-      "published": "2026-01-20T20:05:00",
-      "sentiment_score": 0.006,
+      "headline": "How my Coinbase account was almost stolen",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/20/how-my-coinbase-account-was-almost-stolen.html",
+      "published": "2026-01-20T18:29:01Z",
+      "sentiment_score": -0.221,
       "sentiment_label": "Neutral",
-      "confidence": 0.921
+      "confidence": 0.699
+    },
+    {
+      "headline": "Salesforce's Benioff calls for AI regulation, says models have become 'suicide coaches'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/20/salesforce-benioff-ai-regulation-suicide-coaches.html",
+      "published": "2026-01-20T17:14:42Z",
+      "sentiment_score": -0.591,
+      "sentiment_label": "Negative",
+      "confidence": 0.611
+    },
+    {
+      "headline": "Anthropic appoints Mariano-Florentino Cu\u00e9llar to its independent trust, two members conclude terms",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/20/anthropic-mariano-florentino-cullar-independent-trust.html",
+      "published": "2026-01-20T16:59:16Z",
+      "sentiment_score": 0.024,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "ServiceNow inks deal with OpenAI to boost its AI software stack",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/20/servicenow-openai-ai-software-saas.html",
+      "published": "2026-01-20T16:46:29Z",
+      "sentiment_score": 0.927,
+      "sentiment_label": "Positive",
+      "confidence": 0.939
+    },
+    {
+      "headline": "Grubhub parent acquires restaurant rewards startup Claim | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/20/grubhub-parent-acquires-restaurant-rewards-startup-claim/",
+      "published": "2026-01-20T16:23:48Z",
+      "sentiment_score": 0.355,
+      "sentiment_label": "Neutral",
+      "confidence": 0.63
+    },
+    {
+      "headline": "Humans&, a 'human-centric' AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
+      "published": "2026-01-20T16:03:19Z",
+      "sentiment_score": 0.61,
+      "sentiment_label": "Positive",
+      "confidence": 0.62
     },
     {
       "headline": "UK consulting on bringing in social media ban for under 16s",
@@ -297,6 +351,15 @@
       "confidence": 0.72
     },
     {
+      "headline": "AI impacting labor market \u2018like a tsunami\u2019 as layoff fears mount",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/20/ai-impacting-labor-market-like-a-tsunami-as-layoff-fears-mount.html",
+      "published": "2026-01-20T13:21:55Z",
+      "sentiment_score": -0.722,
+      "sentiment_label": "Negative",
+      "confidence": 0.765
+    },
+    {
       "headline": "How would a social media ban for under-16s work?",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/videos/cx2yep7l2j2o?at_medium=RSS&at_campaign=rss",
@@ -306,31 +369,13 @@
       "confidence": 0.762
     },
     {
-      "headline": "Anthropic CEO Says AI Chip Sales to China Like Selling Nukes to North Korea",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZk5BOTEwbHM2ZHd2RzVYWG1uN2J3eWYxYnNnU012RHF3MFJzLW8tV2JORG0zbUs2UXpQWHlkdW4tR251QUV4UmJMN3o2eWEteWFGR3VpUGx2U0ZLcVdTU05WSVJxTm9GOWxDWmU0OUxZWkhjOF81WE5WaEtUaWJCbGxYdGh1dWZPV3drdThPS0UwY2tyODIwSVJ0RFNodWZLVWZLX01uUnpQcVY3SDhzREhVYw?oc=5",
-      "published": "2026-01-20T12:20:17",
-      "sentiment_score": 0.005,
+      "headline": "How BYD beat Tesla",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast",
+      "published": "2026-01-20T13:02:30Z",
+      "sentiment_score": 0.079,
       "sentiment_label": "Neutral",
-      "confidence": 0.922
-    },
-    {
-      "headline": "Most of Instagram's ads ran on Reels in 2025, data shows",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/20/most-of-instagrams-ads-ran-on-reels-in-2025-data-shows.html",
-      "published": "2026-01-20T12:00:01Z",
-      "sentiment_score": 0.92,
-      "sentiment_label": "Positive",
-      "confidence": 0.94
-    },
-    {
-      "headline": "For Future Reference",
-      "source": "Wired",
-      "link": "https://www.wired.com/video/watch/for-future-reference/",
-      "published": "2026-01-20T12:00:00Z",
-      "sentiment_score": 0.033,
-      "sentiment_label": "Neutral",
-      "confidence": 0.934
+      "confidence": 0.895
     },
     {
       "headline": "Jimmy Wales Will Never Edit Donald Trump\u2019s Wikipedia Page: He \u2018Makes Me Insane\u2019",
@@ -362,38 +407,11 @@
     {
       "headline": "Are 'tech dense' farms the future of farming?",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c78e4l3rm22o",
-      "published": "2026-01-20T00:00:11Z",
+      "link": "https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-20T00:00:11",
       "sentiment_score": 0.624,
       "sentiment_label": "Positive",
       "confidence": 0.637
-    },
-    {
-      "headline": "OpenAI\u2019s 2026 \u2018focus\u2019 is \u2018practical adoption\u2019",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
-      "published": "2026-01-19T21:05:30Z",
-      "sentiment_score": 0.136,
-      "sentiment_label": "Neutral",
-      "confidence": 0.844
-    },
-    {
-      "headline": "Here are the\u00a055\u00a0US AI startups that have raised $100M or more in 2025 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
-      "published": "2026-01-19T18:07:35Z",
-      "sentiment_score": 0.557,
-      "sentiment_label": "Positive",
-      "confidence": 0.571
-    },
-    {
-      "headline": "AI companies will fail. We can salvage something from the wreckage | Cory Doctorow",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVZMZmk0TFducnFyeGFReGcxUU5oU1Q4X0poeGFGblVDeEZ4SWpDbjFCVGxubm5Xb29DQXZVbmQ3SExXMzhjTjJmc0pyY3pOdFV5eGxoVGFrN2VMNHByVUR2N3JwRnY1N1dWdHZVV2g3blQxNmtVckRUd3dxc2RSbkhDazFhaFQwblZ0Z1ZBTjl3bjEtY3B3TTdId2YtTFdn?oc=5",
-      "published": "2026-01-18T14:00:00",
-      "sentiment_score": 0.095,
-      "sentiment_label": "Neutral",
-      "confidence": 0.844
     },
     {
       "headline": "Google appeals landmark antitrust verdict over search monopoly",
@@ -427,9 +445,9 @@
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01LW96UEZIRTRnN2FyOEliVlYxcy0wWUp5cGJ5OFA4MUhOMHJGbEotRU5kZjUwbUFQd01WeGNpYk9qOUNBdWluSTI1eGdnTEsyNnJwNWZDLUFzYUZnQzZoWGJMSlhWUGM0YkI40gFwQVVfeXFMTXVSR3gzTm9XTkJyTFA4dlJRc1NoalE2NUZ3MVl0OHhNT2VobkFhUlQwLXZzeVhmNlI0M0YzRFNLU3V2TFR0b2lsN0VralNSLWw4Y2hZM0dWUGV2UEZFallOc09KRmJIY0ZSNm10c2Z2Rw?oc=5",
       "published": "2026-01-16T18:00:02",
-      "sentiment_score": 0.172,
+      "sentiment_score": 0.183,
       "sentiment_label": "Neutral",
-      "confidence": 0.809
+      "confidence": 0.796
     },
     {
       "headline": "OpenAI releases a cheaper ChatGPT subscription",
@@ -475,15 +493,6 @@
       "sentiment_score": -0.359,
       "sentiment_label": "Neutral",
       "confidence": 0.596
-    },
-    {
-      "headline": "Thomas Sowell: My Experience With Artificial Intelligence",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQZE9CNk9Ya29BYU1EZWlrOGtrN0pzaTNVdmgtV05IeUlORjlpS2FfWDFpZzVrYnV1UzYtd3BLMjZDekRlVEtpcmZJS3UtYmRXQTVrbXYwVGU1MDdkTThOa2trbXlCODJQTDF6YjdZTWVYQkdidXY0ckk4bWY2ZllxcmsyNWgzWGVvYVBEaHI0UWVNSjY5akFuTFp6MDhRbHRMZ3FlNVBIaDVkMnFHZ205M0pSQ1pON2dKMGk5UDRnWk5jcDlMQjctZjFiVkhVdk10RmxBRUFMM2FPZTM5VE5ZUk9MR0oxWnlEZ2JhNTctVm9lU0ViTGhtSjVjd1lCdHhKb19jQ3JsUnVIUkQtWUVDVGszOXB4anN3eHVEZTI0Y1FxNkFvVjdMSjczamU2cUo3emFuZFJaaVJZdlBRTUNwa1RFUVF4OFpSWF9TeVFPRWZLTkNNcmI4RlZyVzhwZFFpa2lRU2xLR2FoSWg4ZWZpWnJUWFVVVFFZdm5zbUtaV0tpZzdMdWYtdEZaR0V5eDJrZndUMTRfS2VaRThwTWxHTXdmZ1lqSFlIQ2QtWk1KMnF3eWM?oc=5",
-      "published": "2026-01-15T11:47:00",
-      "sentiment_score": 0.018,
-      "sentiment_label": "Neutral",
-      "confidence": 0.934
     },
     {
       "headline": "No 10 welcomes reports X is addressing Grok deepfakes",
