@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-23T01:05:19.764218",
-  "total_articles": 63,
-  "overall_sentiment": -0.143,
+  "last_updated": "2026-01-23T06:23:36.509443",
+  "total_articles": 65,
+  "overall_sentiment": -0.162,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -141,12 +141,12 @@
     },
     {
       "date": "2026-01-16",
-      "avg_sentiment": 0.026,
+      "avg_sentiment": 0.039,
       "article_count": 7,
-      "positive_count": 5,
+      "positive_count": 6,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.5
+      "neutral_count": 0,
+      "moving_avg": -0.498
     },
     {
       "date": "2026-01-17",
@@ -155,7 +155,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.494
+      "moving_avg": -0.492
     },
     {
       "date": "2026-01-20",
@@ -164,25 +164,25 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.364
+      "moving_avg": -0.362
     },
     {
       "date": "2026-01-21",
-      "avg_sentiment": 0.123,
-      "article_count": 12,
-      "positive_count": 6,
+      "avg_sentiment": 0.049,
+      "article_count": 11,
+      "positive_count": 5,
       "negative_count": 2,
       "neutral_count": 4,
-      "moving_avg": -0.264
+      "moving_avg": -0.273
     },
     {
       "date": "2026-01-22",
-      "avg_sentiment": -0.095,
-      "article_count": 9,
-      "positive_count": 5,
-      "negative_count": 3,
+      "avg_sentiment": -0.126,
+      "article_count": 12,
+      "positive_count": 7,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.234
+      "moving_avg": -0.247
     },
     {
       "date": "2026-01-23",
@@ -191,7 +191,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.154
+      "moving_avg": -0.167
     }
   ],
   "source_stats": [
@@ -203,14 +203,20 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.271,
-      "article_count": 9,
+      "avg_sentiment": 0.188,
+      "article_count": 8,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.108,
-      "article_count": 6,
+      "avg_sentiment": -0.075,
+      "article_count": 7,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.128,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
@@ -220,10 +226,10 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.137,
+      "source": "The New York Times",
+      "avg_sentiment": 0.046,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
@@ -285,7 +291,7 @@
       "headline": "Children need protecting from social media \u2013 and generative AI | Letters",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWFNbmNodEpkMVlXaXVHV000VGllVTNkWFpCWEJqaE5JVXZOaFdPeEFTZXNaeUEtaHQ3Uy1FNjJnaXB3Z2hpenVwaGN4YWg0RHh5UXR3RE5FdFR0blJZR3piSHJZQk9SOGZhcFR4VEYxUllOT0NuYnNwM0JMTVI1TmVnbFFyVDh4cGlEejd1YmhNaGJ6VTlzN3JTckFKS2p6V0VJZFNHRGhISkJL?oc=5",
-      "published": "2026-01-22T18:55:00",
+      "published": "2026-01-22T17:56:00",
       "sentiment_score": -0.066,
       "sentiment_label": "Neutral",
       "confidence": 0.863
@@ -307,6 +313,33 @@
       "sentiment_score": -0.003,
       "sentiment_label": "Neutral",
       "confidence": 0.882
+    },
+    {
+      "headline": "Adobe is developing \u2018IP-safe\u2019 gen AI models for the entertainment industry",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVZIMXQyb2FjOEN1NnAwcnhyTHRkeWNmTU95bjc4VXk0dmllZGFvWXVlbG9FZDV3Tk0wTXMxS2F3MllRV05LNUtXMDFadGRUVzBwc3hka2UxRV9tTlQ3UHprVW81Y28zdDJmWXRvSWphWEFOR0xqSEVMUHVQRzlBSEJ5NkRWTmgyTFROTDlibExXUjA3N1JWY2tjY1NUUFVkZi00?oc=5",
+      "published": "2026-01-22T14:00:00",
+      "sentiment_score": 0.122,
+      "sentiment_label": "Neutral",
+      "confidence": 0.856
+    },
+    {
+      "headline": "Fossil fuels are a 'crutch': How AI's unlikely winner could be renewable energy",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/22/ai-energy-transition-fossil-fuels.html",
+      "published": "2026-01-22T06:16:04Z",
+      "sentiment_score": -0.957,
+      "sentiment_label": "Negative",
+      "confidence": 0.969
+    },
+    {
+      "headline": "OpenAI seeking investments from Middle East sovereign wealth funds for multibillion-dollar round",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/21/openai-seek-investments-from-middle-east-for-multibillion-dollar-round.html",
+      "published": "2026-01-22T03:50:10Z",
+      "sentiment_score": 0.171,
+      "sentiment_label": "Neutral",
+      "confidence": 0.81
     },
     {
       "headline": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
@@ -399,15 +432,6 @@
       "confidence": 0.898
     },
     {
-      "headline": "OpenEvidence hits $12B valuation, with new round led by Thrive, DST\u00a0\u00a0 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/",
-      "published": "2026-01-21T18:04:01Z",
-      "sentiment_score": 0.937,
-      "sentiment_label": "Positive",
-      "confidence": 0.955
-    },
-    {
       "headline": "Hundreds of creatives warn against an AI slop future",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
@@ -480,6 +504,15 @@
       "confidence": 0.885
     },
     {
+      "headline": "OpenAI Starts Testing Ads in ChatGPT",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JcXozY3l2M29lSEJJNWpXRE5YTUxRS1BTbXg5RFFCc0ZobENvTlo1ZXFTQk4xWXdCV1NqbjRiUC1pTHdoMWJzSlcyaUNpTGc4WDRlUmctYUdmaE1uLUMzVnFENmVaeGRfeWZ4Uy02eWJ1VWdlUDBFdQ?oc=5",
+      "published": "2026-01-16T20:09:14",
+      "sentiment_score": 0.096,
+      "sentiment_label": "Neutral",
+      "confidence": 0.875
+    },
+    {
       "headline": "ChatGPT to carry adverts for some users",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss",
@@ -496,15 +529,6 @@
       "sentiment_score": 0.172,
       "sentiment_label": "Neutral",
       "confidence": 0.809
-    },
-    {
-      "headline": "Ads Are Coming to ChatGPT. Here\u2019s How They\u2019ll Work",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MbEdiOGt6ZDRSRV9Zc24zQTdxY0ZJUHM0Zng5cExTdkQ3U3JsSG5YR0E4QzZ2cnFRTWJOU3N4TVVsWWFDS21LdmEwdnl1MTRrYnBEMXJUYnNHNzE1XzNR?oc=5",
-      "published": "2026-01-16T18:00:00",
-      "sentiment_score": 0.0,
-      "sentiment_label": "Neutral",
-      "confidence": 0.942
     },
     {
       "headline": "OpenAI releases a cheaper ChatGPT subscription",
