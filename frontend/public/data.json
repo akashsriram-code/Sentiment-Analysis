@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-24T01:01:50.534242",
-  "total_articles": 65,
-  "overall_sentiment": -0.175,
+  "last_updated": "2026-01-24T06:22:17.504164",
+  "total_articles": 58,
+  "overall_sentiment": -0.187,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -141,12 +141,12 @@
     },
     {
       "date": "2026-01-16",
-      "avg_sentiment": 0.034,
-      "article_count": 6,
-      "positive_count": 5,
+      "avg_sentiment": 0.021,
+      "article_count": 5,
+      "positive_count": 4,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.498
+      "moving_avg": -0.5
     },
     {
       "date": "2026-01-17",
@@ -155,7 +155,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.492
+      "moving_avg": -0.494
     },
     {
       "date": "2026-01-20",
@@ -164,7 +164,7 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.363
+      "moving_avg": -0.365
     },
     {
       "date": "2026-01-21",
@@ -173,25 +173,34 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.309
+      "moving_avg": -0.311
     },
     {
       "date": "2026-01-22",
-      "avg_sentiment": -0.083,
-      "article_count": 20,
-      "positive_count": 9,
-      "negative_count": 7,
-      "neutral_count": 4,
-      "moving_avg": -0.278
+      "avg_sentiment": -0.041,
+      "article_count": 14,
+      "positive_count": 7,
+      "negative_count": 5,
+      "neutral_count": 2,
+      "moving_avg": -0.274
     },
     {
       "date": "2026-01-23",
-      "avg_sentiment": 0.055,
-      "article_count": 6,
+      "avg_sentiment": -0.019,
+      "article_count": 5,
       "positive_count": 3,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.213
+    },
+    {
+      "date": "2026-01-24",
+      "avg_sentiment": -0.02,
+      "article_count": 1,
+      "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 3,
-      "moving_avg": -0.206
+      "neutral_count": 1,
+      "moving_avg": -0.164
     }
   ],
   "source_stats": [
@@ -203,36 +212,39 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.184,
-      "article_count": 9,
+      "avg_sentiment": 0.204,
+      "article_count": 8,
       "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.427,
-      "article_count": 6,
+      "avg_sentiment": -0.272,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.035,
-      "article_count": 6,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.253,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Wired",
-      "avg_sentiment": -0.004,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.038,
+      "avg_sentiment": -0.006,
       "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "Five Ways People Are Using Claude Code",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MWFItUGI2WXRFQ3BxZE55ZExrb2tPTFlsaDYzeWJhQkJKUm9MSXdaSmhtVUsxNlJTNGhzU2xwSzhMN3BWT3JiWnBSbGpfTl93T20tcDNLalVmeDZnLUYtUGRtMFdockZkOVlCZ2RJYw?oc=5",
+      "published": "2026-01-24T00:40:42",
+      "sentiment_score": -0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
+    },
     {
       "headline": "Is China quietly winning the AI race?",
       "source": "BBC News",
@@ -252,22 +264,13 @@
       "confidence": 0.867
     },
     {
-      "headline": "Google Photos\u2019 latest feature lets you meme yourself",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVdzNWRNMFE2dG1yQXZfM3hIbnpWSmExNHBlamVzaXowTV8xNU9jRFlZWkhIZ2xEZlhOWXdkdG5QRlQxX3I0X0xiaWVUZkNYVk9xamdNeU1WSTgwNnZ4ZkJNU3lOU09iSmZqNzN5Y0Q5Sl9aa3JvZFdUaUxOT1BIUGJPV1U0Q3RrS1hGSUtTMA?oc=5",
-      "published": "2026-01-23T17:02:22",
-      "sentiment_score": 0.019,
+      "headline": "Nvidia\u2019s Huang to visit China as AI chip sales stall",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/23/nvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html",
+      "published": "2026-01-23T05:58:37Z",
+      "sentiment_score": -0.426,
       "sentiment_label": "Neutral",
-      "confidence": 0.937
-    },
-    {
-      "headline": "Five Ways People Are Using Claude Code",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MWFItUGI2WXRFQ3BxZE55ZExrb2tPTFlsaDYzeWJhQkJKUm9MSXdaSmhtVUsxNlJTNGhzU2xwSzhMN3BWT3JiWnBSbGpfTl93T20tcDNLalVmeDZnLUYtUGRtMFdockZkOVlCZ2RJYw?oc=5",
-      "published": "2026-01-23T14:12:04",
-      "sentiment_score": -0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
+      "confidence": 0.483
     },
     {
       "headline": "OpenAI\u00a0is coming for those sweet enterprise dollars in 2026 | TechCrunch",
@@ -306,15 +309,6 @@
       "confidence": 0.796
     },
     {
-      "headline": "Intel stock falls after company offers soft first-quarter guidance",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/22/intel-intc-earnings-report-q4-2025-.html",
-      "published": "2026-01-22T21:08:05Z",
-      "sentiment_score": -0.95,
-      "sentiment_label": "Negative",
-      "confidence": 0.965
-    },
-    {
       "headline": "Elon Musk Sure Made Lots of Predictions at Davos",
       "source": "Wired",
       "link": "https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/",
@@ -351,15 +345,6 @@
       "confidence": 0.811
     },
     {
-      "headline": "AI-Powered Disinformation Swarms Are Coming for Democracy",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
-      "published": "2026-01-22T19:00:00Z",
-      "sentiment_score": 0.002,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
-    },
-    {
       "headline": "How Claude Code Is Reshaping Software\u2014and Anthropic",
       "source": "Wired",
       "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
@@ -367,6 +352,15 @@
       "sentiment_score": 0.096,
       "sentiment_label": "Neutral",
       "confidence": 0.875
+    },
+    {
+      "headline": "Children need protecting from social media \u2013 and generative AI | Letters",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWFNbmNodEpkMVlXaXVHV000VGllVTNkWFpCWEJqaE5JVXZOaFdPeEFTZXNaeUEtaHQ3Uy1FNjJnaXB3Z2hpenVwaGN4YWg0RHh5UXR3RE5FdFR0blJZR3piSHJZQk9SOGZhcFR4VEYxUllOT0NuYnNwM0JMTVI1TmVnbFFyVDh4cGlEejd1YmhNaGJ6VTlzN3JTckFKS2p6V0VJZFNHRGhISkJL?oc=5",
+      "published": "2026-01-22T18:55:00",
+      "sentiment_score": -0.066,
+      "sentiment_label": "Neutral",
+      "confidence": 0.863
     },
     {
       "headline": "Google now offers free SAT practice exams, powered by Gemini | TechCrunch",
@@ -385,15 +379,6 @@
       "sentiment_score": -0.178,
       "sentiment_label": "Neutral",
       "confidence": 0.751
-    },
-    {
-      "headline": "Children need protecting from social media \u2013 and generative AI | Letters",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWFNbmNodEpkMVlXaXVHV000VGllVTNkWFpCWEJqaE5JVXZOaFdPeEFTZXNaeUEtaHQ3Uy1FNjJnaXB3Z2hpenVwaGN4YWg0RHh5UXR3RE5FdFR0blJZR3piSHJZQk9SOGZhcFR4VEYxUllOT0NuYnNwM0JMTVI1TmVnbFFyVDh4cGlEejd1YmhNaGJ6VTlzN3JTckFKS2p6V0VJZFNHRGhISkJL?oc=5",
-      "published": "2026-01-22T17:56:00",
-      "sentiment_score": -0.066,
-      "sentiment_label": "Neutral",
-      "confidence": 0.863
     },
     {
       "headline": "Why nobody\u2019s stopping Grok",
@@ -430,42 +415,6 @@
       "sentiment_score": 0.235,
       "sentiment_label": "Neutral",
       "confidence": 0.736
-    },
-    {
-      "headline": "Workday CEO calls narrative that AI is killing software 'overblown'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/22/workday-ceo-ai-software-selloff.html",
-      "published": "2026-01-22T15:06:25Z",
-      "sentiment_score": -0.959,
-      "sentiment_label": "Negative",
-      "confidence": 0.97
-    },
-    {
-      "headline": "This plugin uses Wikipedia\u2019s AI-spotting guide to make AI writing sound more human",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill",
-      "published": "2026-01-22T14:48:15Z",
-      "sentiment_score": 0.146,
-      "sentiment_label": "Neutral",
-      "confidence": 0.835
-    },
-    {
-      "headline": "OpenAI chair Bret Taylor says AI is 'probably' a bubble, expects correction in coming years",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/22/openai-chair-bret-taylor-ai-bubble-correction.html",
-      "published": "2026-01-22T14:05:48Z",
-      "sentiment_score": 0.004,
-      "sentiment_label": "Neutral",
-      "confidence": 0.899
-    },
-    {
-      "headline": "Adobe is developing \u201cIP-safe\u201d gen AI models for the entertainment industry",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models",
-      "published": "2026-01-22T14:01:06Z",
-      "sentiment_score": 0.658,
-      "sentiment_label": "Positive",
-      "confidence": 0.666
     },
     {
       "headline": "OpenAI\u2019s ChatGPT Atlas browser adds tab groups.",
@@ -538,15 +487,6 @@
       "sentiment_score": -0.86,
       "sentiment_label": "Negative",
       "confidence": 0.885
-    },
-    {
-      "headline": "OpenAI Starts Testing Ads in ChatGPT",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JcXozY3l2M29lSEJJNWpXRE5YTUxRS1BTbXg5RFFCc0ZobENvTlo1ZXFTQk4xWXdCV1NqbjRiUC1pTHdoMWJzSlcyaUNpTGc4WDRlUmctYUdmaE1uLUMzVnFENmVaeGRfeWZ4Uy02eWJ1VWdlUDBFdQ?oc=5",
-      "published": "2026-01-16T20:09:14",
-      "sentiment_score": 0.096,
-      "sentiment_label": "Neutral",
-      "confidence": 0.875
     },
     {
       "headline": "ChatGPT to carry adverts for some users",
