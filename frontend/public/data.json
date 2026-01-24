@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-24T06:22:17.504164",
-  "total_articles": 58,
-  "overall_sentiment": -0.187,
+  "last_updated": "2026-01-24T12:25:12.625987",
+  "total_articles": 57,
+  "overall_sentiment": -0.179,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -177,30 +177,21 @@
     },
     {
       "date": "2026-01-22",
-      "avg_sentiment": -0.041,
-      "article_count": 14,
-      "positive_count": 7,
-      "negative_count": 5,
-      "neutral_count": 2,
-      "moving_avg": -0.274
+      "avg_sentiment": 0.106,
+      "article_count": 9,
+      "positive_count": 5,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.253
     },
     {
       "date": "2026-01-23",
-      "avg_sentiment": -0.019,
-      "article_count": 5,
-      "positive_count": 3,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.213
-    },
-    {
-      "date": "2026-01-24",
-      "avg_sentiment": -0.02,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.164
+      "avg_sentiment": -0.102,
+      "article_count": 10,
+      "positive_count": 4,
+      "negative_count": 3,
+      "neutral_count": 3,
+      "moving_avg": -0.204
     }
   ],
   "source_stats": [
@@ -212,39 +203,42 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.204,
-      "article_count": 8,
+      "avg_sentiment": 0.224,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
+      "avg_sentiment": 0.338,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.145,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNN",
       "avg_sentiment": -0.272,
-      "article_count": 4,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.459,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.253,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.006,
+      "avg_sentiment": -0.07,
       "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
-    {
-      "headline": "Five Ways People Are Using Claude Code",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MWFItUGI2WXRFQ3BxZE55ZExrb2tPTFlsaDYzeWJhQkJKUm9MSXdaSmhtVUsxNlJTNGhzU2xwSzhMN3BWT3JiWnBSbGpfTl93T20tcDNLalVmeDZnLUYtUGRtMFdockZkOVlCZ2RJYw?oc=5",
-      "published": "2026-01-24T00:40:42",
-      "sentiment_score": -0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
-    },
     {
       "headline": "Is China quietly winning the AI race?",
       "source": "BBC News",
@@ -264,13 +258,58 @@
       "confidence": 0.867
     },
     {
-      "headline": "Nvidia\u2019s Huang to visit China as AI chip sales stall",
+      "headline": "Young will suffer most when AI \u2018tsunami\u2019 hits jobs, says head of IMF",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclFqVEVVSUR3QVRLNExYV0ZCZDB4SXcxQXd4RXo1VEMwaTlfR2IzU2FraE9PTkFmdUNnZkdHYjNXU3ZWNWVqYmJ4SzRnbDBjeWRkVGNEb2M3NXF4MTZXUVFzamNpWGF3R1R1bzJ1VVE2QW5uRWR0dWJnSjU4b3NBV1g4UlZXX2tYYXAwUjdrN2NCUlJPYTA1empoTmpNRWtfTHVxRlVXYUZWeGlYZ2NfdV9rMmRTdw?oc=5",
+      "published": "2026-01-23T13:35:00",
+      "sentiment_score": -0.851,
+      "sentiment_label": "Negative",
+      "confidence": 0.874
+    },
+    {
+      "headline": "TikTok was thriving in the U.S., even before a joint venture saved it from a potential ban",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/23/nvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html",
-      "published": "2026-01-23T05:58:37Z",
-      "sentiment_score": -0.426,
-      "sentiment_label": "Neutral",
+      "link": "https://www.cnbc.com/2026/01/23/tiktok-other-china-linked-apps-thrived-in-the-us-in-2025-.html",
+      "published": "2026-01-23T12:14:16Z",
+      "sentiment_score": 0.74,
+      "sentiment_label": "Positive",
+      "confidence": 0.759
+    },
+    {
+      "headline": "No, the Freecash App Won\u2019t Pay You to Scroll TikTok",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/no-the-freecash-app-wont-pay-you-to-scroll-tiktok/",
+      "published": "2026-01-23T12:00:00Z",
+      "sentiment_score": -0.421,
+      "sentiment_label": "Negative",
       "confidence": 0.483
+    },
+    {
+      "headline": "Meet the translation professionals losing their jobs to AI",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl",
+      "published": "2026-01-23T11:31:06Z",
+      "sentiment_score": 0.027,
+      "sentiment_label": "Neutral",
+      "confidence": 0.418
+    },
+    {
+      "headline": "Democratic senators sound the alarm on Pentagon backing firms linked to Donald Trump Jr. | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/01/23/business/donald-trump-jr-conflicts-of-interest-defense-1789",
+      "published": "2026-01-23T11:09:47Z",
+      "sentiment_score": -0.8,
+      "sentiment_label": "Negative",
+      "confidence": 0.831
+    },
+    {
+      "headline": "Trump\u2019s \u2018run it hot\u2019 economic strategy could work \u2014 but it\u2019ll cost Americans dearly | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/01/23/business/economy-hot-americans-ai-trump",
+      "published": "2026-01-23T10:31:06Z",
+      "sentiment_score": -0.042,
+      "sentiment_label": "Neutral",
+      "confidence": 0.772
     },
     {
       "headline": "OpenAI\u00a0is coming for those sweet enterprise dollars in 2026 | TechCrunch",
@@ -363,15 +402,6 @@
       "confidence": 0.863
     },
     {
-      "headline": "Google now offers free SAT practice exams, powered by Gemini | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
-      "published": "2026-01-22T18:28:48Z",
-      "sentiment_score": 0.054,
-      "sentiment_label": "Neutral",
-      "confidence": 0.922
-    },
-    {
       "headline": "Sen. Markey questions OpenAI about \u2018deceptive advertising\u2019 in ChatGPT",
       "source": "The Verge",
       "link": "https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising",
@@ -379,42 +409,6 @@
       "sentiment_score": -0.178,
       "sentiment_label": "Neutral",
       "confidence": 0.751
-    },
-    {
-      "headline": "Why nobody\u2019s stopping Grok",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/865275/grok-deepfake-undressing-elon-musk-content-moderation",
-      "published": "2026-01-22T16:49:31Z",
-      "sentiment_score": -0.885,
-      "sentiment_label": "Negative",
-      "confidence": 0.898
-    },
-    {
-      "headline": "Claude Code is suddenly everywhere inside Microsoft",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "published": "2026-01-22T16:24:34Z",
-      "sentiment_score": 0.012,
-      "sentiment_label": "Neutral",
-      "confidence": 0.738
-    },
-    {
-      "headline": "Software selloff sparked by AI sets stage for potential big year of M&A, investors say",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/22/selloff-in-software-from-ai-sets-stage-for-potential-big-year-of-ma.html",
-      "published": "2026-01-22T16:09:30Z",
-      "sentiment_score": -0.935,
-      "sentiment_label": "Negative",
-      "confidence": 0.951
-    },
-    {
-      "headline": "Google reportedly snags up team behind AI voice startup Hume AI | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
-      "published": "2026-01-22T15:12:51Z",
-      "sentiment_score": 0.235,
-      "sentiment_label": "Neutral",
-      "confidence": 0.736
     },
     {
       "headline": "OpenAI\u2019s ChatGPT Atlas browser adds tab groups.",
