@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-25T01:10:24.258279",
-  "total_articles": 69,
-  "overall_sentiment": -0.176,
+  "last_updated": "2026-01-25T06:21:59.904433",
+  "total_articles": 72,
+  "overall_sentiment": -0.178,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -186,43 +186,52 @@
     },
     {
       "date": "2026-01-22",
-      "avg_sentiment": 0.044,
-      "article_count": 2,
+      "avg_sentiment": -0.27,
+      "article_count": 3,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.259
+      "moving_avg": -0.304
     },
     {
       "date": "2026-01-23",
-      "avg_sentiment": -0.046,
-      "article_count": 22,
+      "avg_sentiment": -0.047,
+      "article_count": 21,
       "positive_count": 8,
       "negative_count": 5,
-      "neutral_count": 9,
-      "moving_avg": -0.202
+      "neutral_count": 8,
+      "moving_avg": -0.247
     },
     {
       "date": "2026-01-24",
-      "avg_sentiment": -0.326,
-      "article_count": 4,
-      "positive_count": 1,
+      "avg_sentiment": -0.181,
+      "article_count": 6,
+      "positive_count": 3,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.197
+      "moving_avg": -0.222
+    },
+    {
+      "date": "2026-01-25",
+      "avg_sentiment": -0.011,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.229
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.278,
-      "article_count": 37,
+      "avg_sentiment": -0.267,
+      "article_count": 38,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.13,
-      "article_count": 10,
+      "avg_sentiment": -0.141,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
@@ -233,8 +242,14 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.026,
-      "article_count": 5,
+      "avg_sentiment": 0.033,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.022,
+      "article_count": 3,
       "sentiment_label": "Neutral"
     },
     {
@@ -244,19 +259,28 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.027,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
       "source": "Wired",
       "avg_sentiment": -0.34,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.446,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEVjTWJaRDk5cE9Yb2xXNlBValZpWkJhQXh6UEhwd1Fxd2hCenlWWXhudldEMUMwVm9zTGNNZlh5ckVoWWtHcldnSGlFNXFtbloxMGV2SGNXZFRNTzhDWGxFX2Z5RE4zUjRJWjY3ZGNCUmRQV2tHN0dNRnNNSndMZmJMLTNrdw?oc=5",
+      "published": "2026-01-25T06:09:30",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
     {
       "headline": "Latest ChatGPT model uses Elon Musk\u2019s Grokipedia as source, tests reveal",
       "source": "The Guardian",
@@ -283,6 +307,24 @@
       "sentiment_score": -0.877,
       "sentiment_label": "Negative",
       "confidence": 0.891
+    },
+    {
+      "headline": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+      "published": "2026-01-24T05:29:18Z",
+      "sentiment_score": 0.071,
+      "sentiment_label": "Neutral",
+      "confidence": 0.869
+    },
+    {
+      "headline": "TikTok US venture to collect precise user location data",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o",
+      "published": "2026-01-24T01:50:48Z",
+      "sentiment_score": 0.146,
+      "sentiment_label": "Neutral",
+      "confidence": 0.838
     },
     {
       "headline": "Who's behind AMI Labs, Yann LeCun's \u2018world model\u2019 startup | TechCrunch",
@@ -447,15 +489,6 @@
       "confidence": 0.92
     },
     {
-      "headline": "Advisors to the ultra rich say AI isn't a gamechanger for landing new clients",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/23/wealth-client-prospecting-ria-ai.html",
-      "published": "2026-01-23T12:37:26Z",
-      "sentiment_score": -0.034,
-      "sentiment_label": "Neutral",
-      "confidence": 0.9
-    },
-    {
       "headline": "What does a new US TikTok deal mean for users?",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cq5yynydvgzo",
@@ -490,6 +523,15 @@
       "sentiment_score": 0.115,
       "sentiment_label": "Neutral",
       "confidence": 0.853
+    },
+    {
+      "headline": "South Korea launches landmark laws to regulate AI, startups warn of compliance burdens",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWpCQl9kMUtNMFhoVnFiY1ZvVVdST2NERUVzQktpTlJVbFc5Z3EteDhkWUdQWTMxVEpGZ0p3c1NIZG9WcVFERDg3ejFybGpQalZLM1dQSXFVSFFQcGZEY0VUWTB3Tjl6WGlla3l2NWxhRjRnUmNVOTN1cUM3MDFVRjJpRmdCXzZKRWE0a3pwaGFzdEh2cjRWcEZxbFVqcC0xcHRQUE9mNUFiaTFEYkJycDVQeUNNR1ZaWkZ2dFpxZ0QyaHJCY3Z5Q0hQR0xic0U?oc=5",
+      "published": "2026-01-22T22:26:15",
+      "sentiment_score": -0.898,
+      "sentiment_label": "Negative",
+      "confidence": 0.921
     },
     {
       "headline": "Google DeepMind CEO is \u2018surprised\u2019 OpenAI is rushing forward with ads in ChatGPT",
