@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-26T12:31:02.827184",
-  "total_articles": 62,
-  "overall_sentiment": -0.153,
+  "last_updated": "2026-01-26T18:24:45.595569",
+  "total_articles": 59,
+  "overall_sentiment": -0.139,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -177,48 +177,48 @@
     },
     {
       "date": "2026-01-22",
-      "avg_sentiment": -0.254,
-      "article_count": 3,
+      "avg_sentiment": -0.348,
+      "article_count": 2,
       "positive_count": 1,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.311
+      "moving_avg": -0.324
     },
     {
       "date": "2026-01-23",
-      "avg_sentiment": 0.037,
-      "article_count": 6,
+      "avg_sentiment": 0.055,
+      "article_count": 4,
       "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 4,
-      "moving_avg": -0.242
+      "neutral_count": 2,
+      "moving_avg": -0.253
     },
     {
       "date": "2026-01-24",
-      "avg_sentiment": 0.052,
-      "article_count": 7,
-      "positive_count": 3,
+      "avg_sentiment": 0.058,
+      "article_count": 5,
+      "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 4,
-      "moving_avg": -0.183
+      "neutral_count": 3,
+      "moving_avg": -0.193
     },
     {
       "date": "2026-01-25",
-      "avg_sentiment": -0.012,
-      "article_count": 2,
-      "positive_count": 0,
+      "avg_sentiment": 0.328,
+      "article_count": 3,
+      "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.189
+      "neutral_count": 1,
+      "moving_avg": -0.151
     },
     {
       "date": "2026-01-26",
-      "avg_sentiment": -0.033,
-      "article_count": 8,
-      "positive_count": 3,
+      "avg_sentiment": 0.0,
+      "article_count": 9,
+      "positive_count": 4,
       "negative_count": 3,
       "neutral_count": 2,
-      "moving_avg": -0.071
+      "moving_avg": -0.028
     }
   ],
   "source_stats": [
@@ -230,41 +230,83 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.044,
-      "article_count": 7,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.086,
+      "article_count": 5,
+      "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.241,
+      "source": "The Verge",
+      "avg_sentiment": -0.182,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.067,
+      "avg_sentiment": 0.155,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.187,
-      "article_count": 4,
+      "source": "Reuters",
+      "avg_sentiment": -0.355,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
+      "source": "The New York Times",
+      "avg_sentiment": 0.163,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "The Guardian",
-      "avg_sentiment": -0.003,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.277,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Social media users turn to AI in attempt to 'enhance' US shooting images",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44dEM2dU13NFJSakt3bFprM0I3eHlPcHhnYWxlblpZdGRjdi1PWTVfRDl2TXpvaEtrS3NyN3NzT2s0di1CLXljWmNnaFpzSjJ0SktqaQ?oc=5",
+      "published": "2026-01-26T17:37:30",
+      "sentiment_score": 0.003,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
+      "headline": "OpenAI is working out how much to charge for ChatGPT ads",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nT0pIVkdkMzdqaUpWWjN1OEh3Y1RSWDFqdGhpQU9aOXV5RUg1cFlncUpwUVNuUTlDVE9QVVF5SENMLWVtdGhQVnRQLVZ4ejVVWHd0cURJYlRkQlh1X0ZTQVlBcE5sVEhQaHVYWHBmbw?oc=5",
+      "published": "2026-01-26T16:33:11",
+      "sentiment_score": 0.01,
+      "sentiment_label": "Neutral",
+      "confidence": 0.94
+    },
+    {
+      "headline": "AI spending frenzy could reshape the economy, Bridgewater CIOs say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXQ2WDhfTDJNaWhLS2hDbkNMeUp3MDA5S2s1d1EzcnhCQUtKbHYxRXVHMmxPclF5QWJJa2lOS0w4bWdnRUs1dUR4VFZoV1E0VFpOS2RMWTdYd2hXdmQzRy1hdjVGdjZsODQ4UFk2emhmUEd4bkpaRmwwNHF4d1BfV3hiMHdGVDlqZlc1RkF5TWMwMXB0TDUtdnBlWmFUQkpjR2ZrTFJLNkFPdw?oc=5",
+      "published": "2026-01-26T16:25:21",
+      "sentiment_score": -0.767,
+      "sentiment_label": "Negative",
+      "confidence": 0.799
+    },
+    {
+      "headline": "Microsoft reveals second generation of its AI chip in effort to bolster cloud business",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWl0aWlEamdqOUhjaGFDN1NSYXZzSXVzeXU1bmFFdVZiM0JEN1B5VEEtbW96enU1V2Jqam9QMlQxMjhHaFBtSG05eWxUVzdSanVpQ21uVFg2V2V3N3BlblZodG81andiSkNvZDgxbWZ5S0NXd2pMdnZQNkVTSVZXQnIydGV1SkpHc2VRSDRNMjJDUS1GQ0hJ0gGcAUFVX3lxTE02dXQwZk9nci1OdERtV1VCQVJVcDE5ZUYtZXBtUUI4N1dTdnRuamZkb0wydFc0dkVqaUJLUkNiclpENncwZHFCSWlSYzltYnIwa3I3cGlJLUJ6M1kweGZlamF6ZF9tWkxuRkdobkhyNTh3M0lJQzJWdVdSVTZzWFFzR21EZnF3SmNnZlphRTFCSUQxbU9NWDZhVmlEWA?oc=5",
+      "published": "2026-01-26T16:00:01",
+      "sentiment_score": 0.353,
+      "sentiment_label": "Neutral",
+      "confidence": 0.624
+    },
+    {
       "headline": "Drugmakers turn to AI to speed trials, regulatory submissions",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWtFa1F2a1lyZU1ES0stMFlyVTRiRFplWVRaYWhaZVZ1alFFXzdVVUNzUkZIVndmU05mRlpHR1R0OTdwZDlVRnRSa184eGVfNGVLMFJZZTdsbkFhVXQxZlVDNnpvMjlaUVNiZExTOTNLU3BMVWVGUUs1OHZWellEWkcxLWVlc19sODVjSVktLUg2Q1hpVE9EM0hhTTkyWjl3d2hLVHNzSnJrTzQ?oc=5",
-      "published": "2026-01-26T11:37:08",
+      "published": "2026-01-26T15:09:22",
       "sentiment_score": 0.057,
       "sentiment_label": "Neutral",
       "confidence": 0.909
@@ -273,19 +315,10 @@
       "headline": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-01-26T11:34:02",
+      "published": "2026-01-26T13:34:31",
       "sentiment_score": -0.311,
       "sentiment_label": "Neutral",
       "confidence": 0.631
-    },
-    {
-      "headline": "Elon Musk\u2019s X Faces European Inquiry Over Sexualized A.I. Images",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ21ZMk84M3lKSUJsQnJHdzlCOGpXTlJiTVdOdGVFQjZKRGd2cVN0enJ5M19iUnN6T01WVG40eGpuallGcU10cmVSTHp1NXVCc3VZOGpMY3Y2bWJZLXZsUmw4N1V1Vm5ZOTNzMTd1bG96WlRQbkRmN0FJYzFjQ0Ita0h5N2htNUZEYTFodkhB?oc=5",
-      "published": "2026-01-26T11:04:28",
-      "sentiment_score": -0.405,
-      "sentiment_label": "Neutral",
-      "confidence": 0.522
     },
     {
       "headline": "Silicon Valley Wants to Build A.I. That Can Improve A.I. on Its Own",
@@ -297,22 +330,13 @@
       "confidence": 0.682
     },
     {
-      "headline": "Yann LeCun, an A.I. Pioneer, Warns the Tech \u2018Herd\u2019 Could Hit a Dead End",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHp5VlpLQTBMMm9Tam80SU1PZjVWY3JscVpLemZrOUhyWXMwdTlWRXFvVFJoN21wY3I1bXY4amtBWmdjelE0dnFqUFdPVWx0YW9zaWNIUWtxaDF6Y2R4NE1yMHUwY1FXRGV3UzMzTllvTkYwcVEtaW9EQVdXSlZYbWpWTFcwWlRkcHd5NXRld0J4WGF1T3h1LUhIQTk1RHZzS2NKWmIyclByT01hMTRVeDV3?oc=5",
-      "published": "2026-01-26T10:00:59",
-      "sentiment_score": -0.884,
-      "sentiment_label": "Negative",
-      "confidence": 0.902
-    },
-    {
-      "headline": "AI systems could use Met Office and National Archives data under UK plans",
+      "headline": "AI is hitting UK harder than other big economies, study finds",
       "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnVEdzZRY3E0VERLcUQyTW03RmNnalBWU2pZTFk5RVVYV3RncXl5d0h4X3dDZ3NiQmY3QXBmeU1iQUhNbFlfTzdaa1BWQ0liTWxFZ0MwSmlBWDAzRmtmVWYwajRkaW1IN25jZi1sTHE5bXVjLUVSRGoxWUg1WEdJZlpVakNqNTdIWnBGa0R1VzFRbTVnMktOOGZ1WG44cEZWR0NVTW93YlY4Mzhsb1dHbU1ZbnYtUQ?oc=5",
-      "published": "2026-01-26T08:54:00",
-      "sentiment_score": 0.036,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2k4c3lJT2g3UXdPcnBhdzNud3pQMUJyelRkeHNrWHM2MHRTcUxELXlrazV1c3FtRFB2emtILVVwV0RqRnN0RDQ3aGxlUjBZMzN1aVdDbnRVUHUyMDltY0N3bThaVXRIWllQaHFZVmJkRHhjOHRyaG9JaFFhSWgycE5IaktDZTU0R0hpM094cHBBdw?oc=5",
+      "published": "2026-01-26T08:43:00",
+      "sentiment_score": -0.576,
+      "sentiment_label": "Negative",
+      "confidence": 0.624
     },
     {
       "headline": "Caribbean cannabis growers eye budding domestic sales and exports",
@@ -324,22 +348,22 @@
       "confidence": 0.954
     },
     {
-      "headline": "The quant shop \u2014 AI lab convergence",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMakwyWm9EQkJTQzVvZjhwalc3Y0dGNkNOenNwV0xaZmJXc0RpQTJ4Q2VIU0sxVXV3WVoxMjZ1dGpFOXJ2NUxJZUZlMVBaZ1RxR3ZvSGRQTE1pSGh4ODZ1MHN3elRyNmhfRlhBcGdpOWY?oc=5",
-      "published": "2026-01-26T06:00:11",
-      "sentiment_score": 0.01,
+      "headline": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+      "published": "2026-01-25T16:56:31Z",
+      "sentiment_score": 0.155,
       "sentiment_label": "Neutral",
-      "confidence": 0.919
+      "confidence": 0.823
     },
     {
-      "headline": "Science fiction writers, Comic-Con say goodbye to AI",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVVWMXRkbUt3T0xFQnRyM00tR1A3VHBiUzFxSktDenhid1BPUzNCWWtmeWc0S2VsNlZ2ZG5IZjBSOGNNaGVyamZiS1JEUkhmTHowREpxRU1NUHdDV3lGQzdtQVJ0cFRfRmNKMWRyODZubkQ4LUxIaF9Ha3VHbWs5cW5DdFVBMUpqSVVCd19PQQ?oc=5",
-      "published": "2026-01-25T21:53:42",
-      "sentiment_score": -0.05,
-      "sentiment_label": "Neutral",
-      "confidence": 0.897
+      "headline": "AI use at work has increased, Gallup poll finds",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/ai-workplace-gemini-chatgpt-poll-4934bc61d039508db32bc49f85d63d99",
+      "published": "2026-01-25T13:08:34Z",
+      "sentiment_score": 0.803,
+      "sentiment_label": "Positive",
+      "confidence": 0.836
     },
     {
       "headline": "From Bill Gates to Emmanuel Macron: How the world\u2019s most powerful people communicate and influence",
@@ -378,24 +402,6 @@
       "confidence": 0.915
     },
     {
-      "headline": "I spent the week with tech CEOs. Here's what they're talking about",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/24/tech-davos-ai-agentic-robotics.html",
-      "published": "2026-01-24T06:27:01Z",
-      "sentiment_score": -0.0,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
-    },
-    {
-      "headline": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
-      "published": "2026-01-24T05:29:18Z",
-      "sentiment_score": 0.071,
-      "sentiment_label": "Neutral",
-      "confidence": 0.869
-    },
-    {
       "headline": "TikTok US venture to collect precise user location data",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
@@ -432,24 +438,6 @@
       "confidence": 0.867
     },
     {
-      "headline": "Get ready for the AI ad-pocalypse",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity",
-      "published": "2026-01-23T17:26:32Z",
-      "sentiment_score": -0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
-    },
-    {
-      "headline": "Google Photos' latest feature lets you meme yourself | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
-      "published": "2026-01-23T17:04:02Z",
-      "sentiment_score": 0.009,
-      "sentiment_label": "Neutral",
-      "confidence": 0.951
-    },
-    {
       "headline": "Will ChatGPT Ads Change OpenAI? + Amanda Askell Explains Claude\u2019s New Constitution",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkE3enNKOVk1ZXE0TGVFNV81bnpXdXc4cmdibUQzQzg3WVdZaDFSS0wtbXlwaXpOd3FjQUhzYncyeGFtRi1NNHE1bTVYN0lqeGktMmt1YTFtNGxXcFZBdUN2WndyMERBTlhBczNXYjVjY2ZqVkd2SWdqVG01bVRfeXVYVWlQQURPLW1NMzMzYXBORjg?oc=5",
@@ -484,15 +472,6 @@
       "sentiment_score": 0.154,
       "sentiment_label": "Neutral",
       "confidence": 0.811
-    },
-    {
-      "headline": "Children need protecting from social media \u2013 and generative AI | Letters",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWFNbmNodEpkMVlXaXVHV000VGllVTNkWFpCWEJqaE5JVXZOaFdPeEFTZXNaeUEtaHQ3Uy1FNjJnaXB3Z2hpenVwaGN4YWg0RHh5UXR3RE5FdFR0blJZR3piSHJZQk9SOGZhcFR4VEYxUllOT0NuYnNwM0JMTVI1TmVnbFFyVDh4cGlEejd1YmhNaGJ6VTlzN3JTckFKS2p6V0VJZFNHRGhISkJL?oc=5",
-      "published": "2026-01-22T18:55:00",
-      "sentiment_score": -0.066,
-      "sentiment_label": "Neutral",
-      "confidence": 0.863
     },
     {
       "headline": "OpenAI\u2019s ChatGPT Atlas browser adds tab groups.",
