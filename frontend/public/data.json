@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-27T01:08:14.690044",
-  "total_articles": 60,
-  "overall_sentiment": -0.146,
+  "last_updated": "2026-01-27T06:24:32.699760",
+  "total_articles": 63,
+  "overall_sentiment": -0.161,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -195,28 +195,28 @@
     },
     {
       "date": "2026-01-26",
-      "avg_sentiment": -0.1,
-      "article_count": 12,
-      "positive_count": 4,
-      "negative_count": 4,
+      "avg_sentiment": -0.191,
+      "article_count": 14,
+      "positive_count": 3,
+      "negative_count": 7,
       "neutral_count": 4,
-      "moving_avg": -0.105
+      "moving_avg": -0.118
     },
     {
       "date": "2026-01-27",
-      "avg_sentiment": -0.734,
-      "article_count": 1,
-      "positive_count": 0,
+      "avg_sentiment": -0.315,
+      "article_count": 2,
+      "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.197
+      "moving_avg": -0.15
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.225,
-      "article_count": 36,
+      "avg_sentiment": -0.216,
+      "article_count": 37,
       "sentiment_label": "Negative"
     },
     {
@@ -245,12 +245,27 @@
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.047,
+      "avg_sentiment": -0.365,
       "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": 0.338,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-01-27T05:37:52",
+      "sentiment_score": 0.105,
+      "sentiment_label": "Neutral",
+      "confidence": 0.879
+    },
     {
       "headline": "Tech giants face landmark trial over social media addiction claims",
       "source": "BBC News",
@@ -315,13 +330,13 @@
       "confidence": 0.94
     },
     {
-      "headline": "Drugmakers turn to AI to speed trials, regulatory submissions",
+      "headline": "AI spending frenzy could reshape the economy, Bridgewater CIOs say",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWtFa1F2a1lyZU1ES0stMFlyVTRiRFplWVRaYWhaZVZ1alFFXzdVVUNzUkZIVndmU05mRlpHR1R0OTdwZDlVRnRSa184eGVfNGVLMFJZZTdsbkFhVXQxZlVDNnpvMjlaUVNiZExTOTNLU3BMVWVGUUs1OHZWellEWkcxLWVlc19sODVjSVktLUg2Q1hpVE9EM0hhTTkyWjl3d2hLVHNzSnJrTzQ?oc=5",
-      "published": "2026-01-26T15:09:22",
-      "sentiment_score": 0.057,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXQ2WDhfTDJNaWhLS2hDbkNMeUp3MDA5S2s1d1EzcnhCQUtKbHYxRXVHMmxPclF5QWJJa2lOS0w4bWdnRUs1dUR4VFZoV1E0VFpOS2RMWTdYd2hXdmQzRy1hdjVGdjZsODQ4UFk2emhmUEd4bkpaRmwwNHF4d1BfV3hiMHdGVDlqZlc1RkF5TWMwMXB0TDUtdnBlWmFUQkpjR2ZrTFJLNkFPdw?oc=5",
+      "published": "2026-01-26T16:25:21",
+      "sentiment_score": -0.767,
+      "sentiment_label": "Negative",
+      "confidence": 0.799
     },
     {
       "headline": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
@@ -358,6 +373,24 @@
       "sentiment_score": 0.937,
       "sentiment_label": "Positive",
       "confidence": 0.954
+    },
+    {
+      "headline": "Asian shares slip and the yen surges against the dollar",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/stock-markets-trump-gold-tariffs-cfcf7fb103655bb78ead3f0078ac457f",
+      "published": "2026-01-26T05:43:38Z",
+      "sentiment_score": -0.128,
+      "sentiment_label": "Negative",
+      "confidence": 0.549
+    },
+    {
+      "headline": "POPE WARNS OF AFFECTIONATE BOTS...",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/01/24/europe/pope-leo-ai-chatbots-warning-intl",
+      "published": "2026-01-26T03:00:12Z",
+      "sentiment_score": -0.525,
+      "sentiment_label": "Negative",
+      "confidence": 0.551
     },
     {
       "headline": "CNBC Daily Open: Canada is drawing Trump's ire \u2014 and faces a 100% tariff",
