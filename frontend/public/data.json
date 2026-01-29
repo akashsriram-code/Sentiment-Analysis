@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-29T01:13:49.600923",
+  "last_updated": "2026-01-29T06:37:16.699561",
   "total_articles": 64,
-  "overall_sentiment": -0.053,
+  "overall_sentiment": -0.074,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -177,49 +177,55 @@
     },
     {
       "date": "2026-01-27",
-      "avg_sentiment": 0.238,
-      "article_count": 17,
-      "positive_count": 11,
-      "negative_count": 5,
+      "avg_sentiment": 0.19,
+      "article_count": 10,
+      "positive_count": 7,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.138
+      "moving_avg": -0.145
     },
     {
       "date": "2026-01-28",
-      "avg_sentiment": -0.205,
-      "article_count": 11,
-      "positive_count": 4,
-      "negative_count": 5,
-      "neutral_count": 2,
-      "moving_avg": -0.045
+      "avg_sentiment": -0.058,
+      "article_count": 16,
+      "positive_count": 6,
+      "negative_count": 7,
+      "neutral_count": 3,
+      "moving_avg": -0.031
     },
     {
       "date": "2026-01-29",
-      "avg_sentiment": -0.248,
-      "article_count": 2,
+      "avg_sentiment": -0.252,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.068
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.054
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.236,
+      "avg_sentiment": -0.235,
       "article_count": 37,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.387,
-      "article_count": 7,
+      "source": "CNBC",
+      "avg_sentiment": 0.52,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.488,
-      "article_count": 6,
+      "source": "The Verge",
+      "avg_sentiment": -0.21,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.306,
+      "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
@@ -229,39 +235,60 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.032,
-      "article_count": 3,
+      "source": "Reuters",
+      "avg_sentiment": 0.023,
+      "article_count": 2,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.227,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": 0.497,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "Meta's Mark Zuckerberg gets green light from Wall Street to keep pouring money into AI",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVBvcGVVSlVoa2w4ZWdMUzRFcWVoRHZoeWhTOWhteXdjcHI3UWdDcGp4d2gwdVpnbWY4M3RfX1l1ZFVvWUNHeENWcjZxcnctTXJBV0FKdkR0MXRVblBmdVItNzNVaXZZX21NSy1ITjJUMFdnNXpyZkR5aVdnbEdUT184RVYtdUtUaGQ0bk03R2VVQU91T1pPTHhwRWdOajcxRlVUd2Vn0gGrAUFVX3lxTE5YTThURkxYUXFtX3ZQZXQxSkhCdEg1aDRqdEFpbk5FMXRpNlI0U2VkbEhnWTlDblRWUXNIbGdhclU5cjIyMnMxbFpyZ1lIME9HdlNQamFoNE4yVU8tNG0yZHY3S2xGZG5oTU5ySGpVQ1ZZZ1Q3cUJjcEJWQlR6QkJFTF9ka2J6dHlRS1M3WEwxeGV6amg3UG9LVWpJTkMwS3ZEVElxX0JUY3RHZw?oc=5",
-      "published": "2026-01-29T00:43:00",
-      "sentiment_score": 0.447,
+      "headline": "Morning Bid: Building AI sure does cost a lot, hope it's worth it",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PNGZ0T1BLWldpQXNEVTNBckYtM1BON1p4ak84RE80NlUxR3pGeENVc1ljY2s1V3luNUl1UndkcVBNUHFmN0ZEa2xSTTZWNzFsRnE2Z3VXb2RGTmE4YlNwNVJlRUx0cVJzRkNpT2RpYllKUWl4RTFIZ0VJa1BqNkE?oc=5",
+      "published": "2026-01-29T05:31:36",
+      "sentiment_score": 0.12,
       "sentiment_label": "Neutral",
-      "confidence": 0.528
+      "confidence": 0.844
     },
     {
-      "headline": "Meta to 'dramatically change' with AI, Zuckerberg says",
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcDR6Njk2TUg3Q05tV1RhTnhJTFBfWXpBQTk2czFUS2s2Y2RXTlFWeENSVVAzeEs3SGhzdmVfY3h1NmZiNWU2SzZkcUVkYklSNEdfOUtRWUdneFl2dzBra0loU0ExMDVjeGtWMTF2X3l5OU4xYXlNd2cwWTRLekkxMGU0eUl4QQ?oc=5",
+      "published": "2026-01-29T05:13:45",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "Tesla cuts car models in shift to robots and AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMFdIUU1aRzA0bVlsQ2hpQUhralNORFB4S1FfcVUwUEFaQ1o2bDV1VVA4UHhSakpIU2tmRlNjU3lWOFI1UGNkWWdYdTZJUDIxXzRYcUxXZ0tMQQ?oc=5",
+      "published": "2026-01-29T02:35:07",
+      "sentiment_score": -0.217,
+      "sentiment_label": "Neutral",
+      "confidence": 0.606
+    },
+    {
+      "headline": "Facebook-owner Meta to nearly double AI spending",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
       "published": "2026-01-29T00:16:17",
-      "sentiment_score": -0.943,
+      "sentiment_score": -0.898,
       "sentiment_label": "Negative",
-      "confidence": 0.955
-    },
-    {
-      "headline": "Meta Forecasts Spending of at Least $115 Billion This Year",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2JCOWlVel90QW5kQzQ0UFRscDU5MVcwWWx6aGFvamtSMUVzeVpMUm5pQTJLbEdvYm1uVUE3ZkFYRXZoY3EwbjBlWWJkSDk0bFRBOS13WDNrRXZ5T1NOQXR5S09ydXNPNWI4YnpZcm1KUHNhdEllUXozeUVhUG5QZjlR?oc=5",
-      "published": "2026-01-28T23:24:22",
-      "sentiment_score": 0.044,
-      "sentiment_label": "Neutral",
-      "confidence": 0.911
+      "confidence": 0.922
     },
     {
       "headline": "Driverless taxis set to launch in UK as soon as September",
@@ -273,13 +300,22 @@
       "confidence": 0.746
     },
     {
-      "headline": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
+      "headline": "Breakingviews - Big Tech sets stage for AI-budget murder mystery",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGFmcmlMelFXWVJES2pGZUh5Mm1taE94ODdiODlLTnUwTlN3LUVuYW5nenFlTGZWVTFJaDJ5M2dKajBzSWNKV3dLczA0bzBhSFByeXFVdjJhT2NkUzQxc24xdVVoalBaQzlqUXluNVlBbFNyVldOZVFlbGxBZEFQS29QODM5amxvaEpqQXRmU29DSkZOWDdTamJkbWFfOVItcHpscW02WFM?oc=5",
+      "published": "2026-01-28T23:10:00",
+      "sentiment_score": -0.074,
+      "sentiment_label": "Neutral",
+      "confidence": 0.856
+    },
+    {
+      "headline": "Meta Forecasts Spending of at Least $115 Billion This Year",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc08wRVgwT2xxUXBZVTNMNGttaFhxci1yT0ZJZG1fcDJCVmVzNHhadlM1aW1CbWlBRElHd18zb1ZtaGtOY3N0a2RxcnJ0V2hKTmJ6bGNRQ0lVdmlFdjI4NUVrYzVpcWl0ZVZ5a053U0lYRG1adk9UMU9KdmhTVzMzbg?oc=5",
-      "published": "2026-01-28T19:00:40",
-      "sentiment_score": -0.954,
-      "sentiment_label": "Negative",
-      "confidence": 0.963
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2JCOWlVel90QW5kQzQ0UFRscDU5MVcwWWx6aGFvamtSMUVzeVpMUm5pQTJLbEdvYm1uVUE3ZkFYRXZoY3EwbjBlWWJkSDk0bFRBOS13WDNrRXZ5T1NOQXR5S09ydXNPNWI4YnpZcm1KUHNhdEllUXozeUVhUG5QZjlR?oc=5",
+      "published": "2026-01-28T21:26:23",
+      "sentiment_score": 0.044,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
     },
     {
       "headline": "Artificial intelligence will cost jobs, admits Liz Kendall",
@@ -318,13 +354,31 @@
       "confidence": 0.906
     },
     {
-      "headline": "OpenAI Launches Free AI Tool 'ChatGPT Prism' for Research & Writing to Change Scientific Collaboration",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmlrWVRJbHR0Z3E3Tmt6MzlUVVhvTzd2YXhvZG9SNzh6LWlISFFrOWRXTV9DQko1VzFNdk9BNVNBa1dfWVptUGlpWWRaNC03LURwb2o5MEhKRGxPUlNUaGpiZmtDM25qRFQ0cnMwUGcxWXlYMklsb2xtUzFHallLRXdTTDZXWFNnVmtKdG9QVUY5V0NXNmV3OElwemt0WU9INGlRb1VoVVYwZDBHaVhlSUVNLUdaVkpiSnp6QXE3Tk9DS3J2NVk4OTZxVHJ0c2JiRVZKLVVEbDBnRjltZG9qUw?oc=5",
-      "published": "2026-01-28T07:41:19",
-      "sentiment_score": 0.152,
-      "sentiment_label": "Neutral",
-      "confidence": 0.824
+      "headline": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc08wRVgwT2xxUXBZVTNMNGttaFhxci1yT0ZJZG1fcDJCVmVzNHhadlM1aW1CbWlBRElHd18zb1ZtaGtOY3N0a2RxcnJ0V2hKTmJ6bGNRQ0lVdmlFdjI4NUVrYzVpcWl0ZVZ5a053U0lYRG1adk9UMU9KdmhTVzMzbg?oc=5",
+      "published": "2026-01-28T10:41:09",
+      "sentiment_score": -0.954,
+      "sentiment_label": "Negative",
+      "confidence": 0.963
+    },
+    {
+      "headline": "Grok is the most antisemitic chatbot according to the ADL",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+      "published": "2026-01-28T05:13:10Z",
+      "sentiment_score": -0.934,
+      "sentiment_label": "Negative",
+      "confidence": 0.949
+    },
+    {
+      "headline": "China gives green light to importing first batch of Nvidia's H200 AI chips: Reuters",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/28/china-gives-green-light-importing-first-batch-nvidias-h200-ai-chips-sources-say.html",
+      "published": "2026-01-28T04:34:42Z",
+      "sentiment_score": 0.757,
+      "sentiment_label": "Positive",
+      "confidence": 0.767
     },
     {
       "headline": "SoftBank Is in Talks to Invest $30 Billion More in OpenAI",
@@ -334,6 +388,33 @@
       "sentiment_score": 0.101,
       "sentiment_label": "Neutral",
       "confidence": 0.878
+    },
+    {
+      "headline": "India could order more homegrown reactors as nuclear push grows",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-01-28/india-could-order-more-homegrown-reactors-as-nuclear-push-grows",
+      "published": "2026-01-28T03:53:29Z",
+      "sentiment_score": 0.893,
+      "sentiment_label": "Positive",
+      "confidence": 0.902
+    },
+    {
+      "headline": "What you should know about the owners of US TikTok | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/",
+      "published": "2026-01-28T03:27:06Z",
+      "sentiment_score": 0.05,
+      "sentiment_label": "Neutral",
+      "confidence": 0.929
+    },
+    {
+      "headline": "One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/01/28/chinese-tech-companies-accelerate-ai-model-rollouts-us-rivals-deepseek-moonshot-kimi.html",
+      "published": "2026-01-28T02:49:19Z",
+      "sentiment_score": 0.786,
+      "sentiment_label": "Positive",
+      "confidence": 0.797
     },
     {
       "headline": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot) | TechCrunch",
@@ -363,15 +444,6 @@
       "confidence": 0.929
     },
     {
-      "headline": "Stock market today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/27/stock-market-today-live-updates.html",
-      "published": "2026-01-27T23:08:23Z",
-      "sentiment_score": 0.904,
-      "sentiment_label": "Positive",
-      "confidence": 0.925
-    },
-    {
       "headline": "Anthropic reportedly upped its latest raise to $20B | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
@@ -399,15 +471,6 @@
       "confidence": 0.95
     },
     {
-      "headline": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
-      "published": "2026-01-27T18:22:07Z",
-      "sentiment_score": -0.799,
-      "sentiment_label": "Negative",
-      "confidence": 0.832
-    },
-    {
       "headline": "OpenAI launches Prism, a new AI workspace for scientists | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
@@ -424,15 +487,6 @@
       "sentiment_score": 0.437,
       "sentiment_label": "Neutral",
       "confidence": 0.546
-    },
-    {
-      "headline": "Google DeepMind Staffers Ask Leaders to Keep Them \u2018Physically Safe\u2019 From ICE",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
-      "published": "2026-01-27T17:00:00Z",
-      "sentiment_score": -0.127,
-      "sentiment_label": "Neutral",
-      "confidence": 0.792
     },
     {
       "headline": "Agerpoint Partners with Databricks to Scale Enterprise Data Intelligence for Agriculture and Nature Systems",
@@ -453,33 +507,6 @@
       "confidence": 0.813
     },
     {
-      "headline": "Risotto raises $10M seed to use AI to make ticketing systems easier to use | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
-      "published": "2026-01-27T15:28:08Z",
-      "sentiment_score": 0.681,
-      "sentiment_label": "Positive",
-      "confidence": 0.69
-    },
-    {
-      "headline": "Phoebe Gates and Sophia Kianni\u2019s Phia raises $35M to \u2018make shopping fun again\u2019 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/",
-      "published": "2026-01-27T15:02:27Z",
-      "sentiment_score": 0.779,
-      "sentiment_label": "Positive",
-      "confidence": 0.79
-    },
-    {
-      "headline": "Node-based design tool Flora raises $42M from Redpoint Ventures | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/",
-      "published": "2026-01-27T14:01:52Z",
-      "sentiment_score": 0.869,
-      "sentiment_label": "Positive",
-      "confidence": 0.886
-    },
-    {
       "headline": "Legal action over 'unfair' Steam game store prices given go ahead",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
@@ -487,15 +514,6 @@
       "sentiment_score": -0.859,
       "sentiment_label": "Negative",
       "confidence": 0.891
-    },
-    {
-      "headline": "'AI mirrors' are changing the way blind people see themselves",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGpHS2hScnkxeTh3U0ZkalprMm83M2JNeExUN0lfREx4NkpodlVPWXZuYTM4WEN1Nk5sX05GcEFkLVNUU0haaEpkTXQ3cV9JZkx2X2U3cERTQ1VPOXZydHFYaXEzWWlIY28ya1RQUjJucU1mVFpiX0RZNU9fc2NycGJuY2hMbURHNlpoQWIybUxpSVdDVEJZREtNb3dla2o2LTR2NG13?oc=5",
-      "published": "2026-01-27T10:00:00",
-      "sentiment_score": -0.171,
-      "sentiment_label": "Neutral",
-      "confidence": 0.771
     },
     {
       "headline": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
