@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-06T06:43:48.068471",
-  "total_articles": 64,
-  "overall_sentiment": -0.169,
+  "last_updated": "2026-02-06T12:39:41.368272",
+  "total_articles": 63,
+  "overall_sentiment": -0.243,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -177,21 +177,30 @@
     },
     {
       "date": "2026-02-04",
-      "avg_sentiment": 0.127,
-      "article_count": 15,
-      "positive_count": 9,
+      "avg_sentiment": -0.085,
+      "article_count": 9,
+      "positive_count": 4,
       "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.228
+      "neutral_count": 1,
+      "moving_avg": -0.259
     },
     {
       "date": "2026-02-05",
-      "avg_sentiment": -0.21,
-      "article_count": 15,
-      "positive_count": 6,
-      "negative_count": 8,
+      "avg_sentiment": -0.233,
+      "article_count": 16,
+      "positive_count": 7,
+      "negative_count": 9,
+      "neutral_count": 0,
+      "moving_avg": -0.254
+    },
+    {
+      "date": "2026-02-06",
+      "avg_sentiment": -0.31,
+      "article_count": 4,
+      "positive_count": 1,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.22
+      "moving_avg": -0.167
     }
   ],
   "source_stats": [
@@ -203,24 +212,78 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.037,
-      "article_count": 12,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.158,
+      "article_count": 9,
+      "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.089,
-      "article_count": 7,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.062,
+      "article_count": 5,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.572,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.059,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.34,
+      "avg_sentiment": -0.353,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.087,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Google and Microsoft offer lucrative deals to promote AI, but even $500,000 won't sway some creators",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3NJeXVTZVNkWXhLWTdNUm5jcTVZeGhYT0JIcE5ZQW5iS3k2RjU5dmsxdEttdzNsTU9jR01HZ09LVXB3SkxreUVqQWNaY2ZLSFByTlhpeGNTektlWi1BaTJPOWxNc3l6ZnVUYzlDTm56b0V5UC14NGJMaU5XS0dINHhjMk1ScHBfNWNESnlzMkltLVdteTZOSTRWZ1nSAaIBQVVfeXFMUG5mRV9kQW1WRzh0a0FPU0JHNXlNbndnWjJsU0V3T0NIendMYWtjZ3FJaUFMaWRUT3N3a3NLQ2VRME4tZ1FINUdQd2dYeEZlY29nUWd5aEtfa1o2bkRZTm5VWXZ1UGJ2cWRNMnY3SWRZNy1JQm5qb1pKQzBOLVNfUXdJNVdhN2dtYW45RmFDWTZvMFpEdnNzb1BtRW5HYTNvU0l3?oc=5",
+      "published": "2026-02-06T12:00:01",
+      "sentiment_score": 0.097,
+      "sentiment_label": "Neutral",
+      "confidence": 0.854
+    },
+    {
+      "headline": "Global software, data firms slide as AI disruption fears compound jitters over $600 billion capex plans",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3F1NFp6bUI4ZGVGazluZFM3VUt3clM2Y013NUtIU19jbDFiamxLemJoUlJGM01KZ1otWUY0YWkwTXRrT2YyLWhFMWZHUjZHZ18xSGpLRnZyUlF6WVpQODNUTk1qbWdsV053cnVqMHFSYmI4NkdsTWp3X1pINFpVWjVqdldUVmxWaWZLS0tvUmxzNlA1Zy1kSWVobXRhOUNtRmx4M3ZiUjZVUnNIRG1mOHBmb0Y4Rkg0SktQbmNWYXk?oc=5",
+      "published": "2026-02-06T10:49:48",
+      "sentiment_score": -0.952,
+      "sentiment_label": "Negative",
+      "confidence": 0.96
+    },
+    {
+      "headline": "AI Patent Eligibility Has Shifted With One Machine-Learning Case",
+      "source": "Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUWwtVE5nMmlCN3ltdmxvdjBzbC00ek90Mk9yendiXzNreDgyOXdMTWZyUTFRLUFUbkQ3VXBMN3otcUl6Zzk5bkNZN05fRm5oWkZRUy13bDdJUjVTSXliN01TZTQwdEEtZUZ6TkQ4a0tDLXIycnRIUExOYUZ1X3lIZ2xhYXhXdjNXeUluZzFGUVdQZm85NFFDY3Z6VlhRM0k2RkZqN0Fad3FRUHF1QnlrNzZfN0d2UQ?oc=5",
+      "published": "2026-02-06T09:30:00",
+      "sentiment_score": -0.376,
+      "sentiment_label": "Neutral",
+      "confidence": 0.503
+    },
+    {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZW50ekR0QnRhN2xGLWE3bUJvTHo2NmF0cHNBOTVsMUdTNDdfcHRoSnljNmJLc1dxR2pMRjNGbXAwM1JCWkh0SVR4SFd1X0JfU3JTbHBVWWtyeUdhZDEtTVJJNy1sVmk5ZmJZa3hNd3hzb0xGemE1ZVQ1dkxJWnRKME1obHRSZw?oc=5",
+      "published": "2026-02-06T08:04:37",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
     {
       "headline": "Amazon\u2019s $200 Billion Spending Plan Raises Stakes in A.I. Race",
       "source": "The New York Times",
@@ -231,22 +294,13 @@
       "confidence": 0.845
     },
     {
-      "headline": "Anthropic, OpenAI rivalry spills into new Super Bowl ads as both fight to win over AI users",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXprWUtDWjkxMkp1YjcxYnRqYXBVOFJQaDFrQ1hsUWxjM0RhSHhjZnNCbW8zd2tNYTVsUHNMYWZ1bnhmbVhMZDVYcnNtb2l1OG5OY0VzQmVWYm9TeUloOW9JdTNaUVZFQnBwMy1uZUt2YlVSVlBxamQzZmMzQWtEMTNEcDJzUHA4QmRPSXRoY1pYM3BHUWV1MWFHaFpsX3Fh?oc=5",
-      "published": "2026-02-05T18:23:00",
-      "sentiment_score": 0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.895
-    },
-    {
       "headline": "Altman lashes out at 'clearly dishonest' Anthropic ads as AI spat heats up",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkpJYUIyQlAzU0lBNHMzR1NGT1N6aWJGMlFyd3RkVG8yeUZEMHJmNDJJVTVFS19IOXUwT3hNLTd6ckE1bzgzei04MmE1Z3RGR2xJMm1QM2pQcmJFeTJ1UmNTTjlCX1REQWlqVWx1NVA2YlJjQlNCTnhld2o2ZXhjVkU5WmjSAYoBQVVfeXFMTU1XWlBuU1JwOGpvcWpWWC1UdUpwMHFzaE1ucV81SHJwY3VhdUJRNXMzdmxVZ3loZ1YxYUE3UDhFajBheF9ZbGh3XzdnUndhR1FxRnRBRmhHTEMyeUNhZE1EbHZ1OGcxZm5hUGdrTUxaY21CbldOQlhJQkhWX0pKbTZ2VE1wNzBIOTFB?oc=5",
       "published": "2026-02-05T14:50:37",
-      "sentiment_score": -0.866,
+      "sentiment_score": -0.864,
       "sentiment_label": "Negative",
-      "confidence": 0.883
+      "confidence": 0.882
     },
     {
       "headline": "OpenAI launches new enterprise platform in bid to win more business customers",
@@ -260,8 +314,8 @@
     {
       "headline": "ChatGPT boss ridiculed for online 'tantrum' over rival's Super Bowl ad",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/ce3edyx74jko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-02-05T12:36:32",
+      "link": "https://www.bbc.com/news/articles/ce3edyx74jko",
+      "published": "2026-02-05T12:36:32Z",
       "sentiment_score": -0.939,
       "sentiment_label": "Negative",
       "confidence": 0.953
@@ -276,6 +330,24 @@
       "confidence": 0.94
     },
     {
+      "headline": "OpenAI Frontier is a single platform to control your AI agents",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management",
+      "published": "2026-02-05T12:14:04Z",
+      "sentiment_score": 0.066,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
+    {
+      "headline": "TSMC to make advanced AI computer chips in Japan",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "published": "2026-02-05T12:03:08Z",
+      "sentiment_score": 0.616,
+      "sentiment_label": "Positive",
+      "confidence": 0.632
+    },
+    {
       "headline": "UK's \u00a38bn research fund faces 'hard decisions' as it pauses new grants",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&at_campaign=rss",
@@ -283,6 +355,33 @@
       "sentiment_score": -0.913,
       "sentiment_label": "Negative",
       "confidence": 0.928
+    },
+    {
+      "headline": "How iPhones Made a Surprising Comeback in China",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/how-iphones-made-a-surprising-comeback-in-china/",
+      "published": "2026-02-05T11:00:00Z",
+      "sentiment_score": 0.775,
+      "sentiment_label": "Positive",
+      "confidence": 0.787
+    },
+    {
+      "headline": "Hollywood Is Losing Audiences to AI Fatigue",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/",
+      "published": "2026-02-05T10:30:00Z",
+      "sentiment_score": -0.949,
+      "sentiment_label": "Negative",
+      "confidence": 0.958
+    },
+    {
+      "headline": "CNBC's Inside India newsletter: The facts \u2014 and frictions \u2014 of the U.S.-India trade deal",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/05/cnbcs-inside-india-newsletter-the-facts-and-frictions-of-the-us-india-trade-deal.html",
+      "published": "2026-02-05T09:15:37Z",
+      "sentiment_score": -0.467,
+      "sentiment_label": "Negative",
+      "confidence": 0.593
     },
     {
       "headline": "China's Hong Kong-listed tech stocks enter bear market as tax ands AI fears take hold",
@@ -301,33 +400,6 @@
       "sentiment_score": 0.403,
       "sentiment_label": "Neutral",
       "confidence": 0.57
-    },
-    {
-      "headline": "Shares of Arm plunge 8% after licensing revenue misses estimates, Qualcomm outlook adds pressure",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/05/arm-shares-fall-licensing-revenue-miss-ai-demand.html",
-      "published": "2026-02-05T03:01:35Z",
-      "sentiment_score": -0.966,
-      "sentiment_label": "Negative",
-      "confidence": 0.974
-    },
-    {
-      "headline": "CNBC Daily Open: Alphabet capex plans spook investors, while AMD has a brutal day in markets",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/05/cnbc-daily-open-alphabet-capex-plans-spook-investors-while-amd-has-a-brutal-day-in-markets.html",
-      "published": "2026-02-05T01:13:15Z",
-      "sentiment_score": 0.658,
-      "sentiment_label": "Positive",
-      "confidence": 0.804
-    },
-    {
-      "headline": "Alphabet resets the bar for AI infrastructure spending",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/alphabet-resets-the-bar-for-ai-infrastructure-spending.html",
-      "published": "2026-02-05T00:49:59Z",
-      "sentiment_score": 0.92,
-      "sentiment_label": "Positive",
-      "confidence": 0.936
     },
     {
       "headline": "Sam Altman got exceptionally testy over Claude Super Bowl ads | TechCrunch",
@@ -355,15 +427,6 @@
       "sentiment_score": 0.921,
       "sentiment_label": "Positive",
       "confidence": 0.932
-    },
-    {
-      "headline": "Stripe alumni raise \u20ac30M Series A for Duna, backed by Stripe and Adyen execs | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
-      "published": "2026-02-04T23:53:13Z",
-      "sentiment_score": 0.82,
-      "sentiment_label": "Positive",
-      "confidence": 0.826
     },
     {
       "headline": "Alphabet won\u2019t talk about the Google-Apple AI deal, even to investors",
@@ -402,58 +465,22 @@
       "confidence": 0.802
     },
     {
-      "headline": "A16z just raised $1.7B for AI infrastructure. Here's where it's going. | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
-      "published": "2026-02-04T20:27:07Z",
-      "sentiment_score": 0.112,
-      "sentiment_label": "Neutral",
-      "confidence": 0.867
-    },
-    {
       "headline": "OpenAI models could help power Alexa as part of Amazon investment deal",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/open-ai-alexa-amazon-investment.html",
-      "published": "2026-02-04T19:52:07Z",
-      "sentiment_score": 0.335,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ySkRUZDI4R0ZtaXZ3NERwdVVGUmlsNERzM1pvSFZmeVczZlpDQXc0S0dzY0xLcUxKT0VycnBobnlXSmhSUG5zQmpPemVYSGExMkFlWTlvT1RBTVlCZW83U1hPRjFDdjByMjVmMFlkOTBGN09MMk5j0gF8QVVfeXFMT2c1ek0yRnhqUU16blVJbGRHZ3Y1NVNUOFg1N040VnNIS19jVVIzbUdpS3h4ZlRydWh3OGlrbFowUER0WXlSOVItMVFNNERvSk15bmQzczVVdElnSTRlQWdQQjlRSk1iaXZpNk9GYktJYnFMZlA5eVVMUExKdA?oc=5",
+      "published": "2026-02-04T19:46:57",
+      "sentiment_score": 0.235,
       "sentiment_label": "Neutral",
-      "confidence": 0.647
+      "confidence": 0.746
     },
     {
-      "headline": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
-      "published": "2026-02-04T19:00:00Z",
-      "sentiment_score": 0.921,
-      "sentiment_label": "Positive",
-      "confidence": 0.935
-    },
-    {
-      "headline": "Microsoft brings back executive Hayete Gallot to run cybersecurity, as Charlie Bell takes new role",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/microsoft-brings-back-hayete-gallot-to-run-security-new-role-for-bell.html",
-      "published": "2026-02-04T17:14:45Z",
-      "sentiment_score": 0.697,
-      "sentiment_label": "Positive",
-      "confidence": 0.718
-    },
-    {
-      "headline": "As 2026 Milan Cortina Olympics near, USA Hockey's CFO is playing the long game with AI",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/milan-cortina-winter-olympics-usa-hockey.html",
-      "published": "2026-02-04T16:50:22Z",
-      "sentiment_score": 0.094,
+      "headline": "The FTC enters new chapter in its approach to artificial intelligence and enforcement",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRThFbUd1Y0FvWURDWlRIQlhyelhYVVlSaHQyOEdfM1lqNjd2a2wwelNPWndkVHhGSFZYdlc3OEZGMG55cjFJTGRHc1pHNU9WNWdSeWp4RFJDRmZSZlZGMFVUMFdKMGFsV3paeWRFVFVSZlhxX2EyeHl1YTFFU2QzdUxNcW5DSXZ4anJhaGNod2RtU3M0Zlhhek1aZXJZV2pLNTh1MGdlZXpHOC00WXZzcmN4WlJkNXBRZkItREdRVHdUUWFKTnk4M3pTZGswUXBj?oc=5",
+      "published": "2026-02-04T19:45:35",
+      "sentiment_score": 0.16,
       "sentiment_label": "Neutral",
-      "confidence": 0.878
-    },
-    {
-      "headline": "Roblox calls its take on AI world models \u2018real-time dreaming\u2019",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/873777/roblox-ai-world-models-real-time-dreaming-4d-creation-tools",
-      "published": "2026-02-04T16:02:02Z",
-      "sentiment_score": 0.093,
-      "sentiment_label": "Neutral",
-      "confidence": 0.883
+      "confidence": 0.81
     },
     {
       "headline": "Anthropic takes aim at OpenAI\u2019s ad push in Super Bowl commercial",
@@ -463,15 +490,6 @@
       "sentiment_score": 0.012,
       "sentiment_label": "Neutral",
       "confidence": 0.909
-    },
-    {
-      "headline": "Exclusive | Anthropic Takes Aim at OpenAI\u2019s ChatGPT in Super Bowl Ad Debut",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOaF8tWjhseWlhcDBlMXFnRGU3aC1CRkgzbFl4T3dxc3JLY2FMUldidUdCX2EtZEdmR0xqc1B5Um9WVk5sWWEzRkZJVGpKVzZ0emtWNW10eXl2S0dYMllNTzFocUw4STUyd3Myd3ZkY1Y1eXBhZnZxc3prSWhickdSOWU5ajdFN3lJeXU3VTFxSGsza2hDbWRHMkwtaTNDdWs0dXY4anctbWhxTFJXa0hOZGhrTjFSRS1HRHRCWGVhdWNrRUZTY3JHYWNQQ19zMFc5ZTE4Nm5fX2NSVjYzZUZxTlRCaWgtTWgyYWJkZU1UbVJlZ3R1UkY3eDNZbF9jZEJ6M2xlNkw3dXdEbnUxRnlQVGJSemZrZ19BNHBVVGlNaW1pNzdNb3hUUU56WE1RUTlpQ0c4QXAtSW5vOTRrX21LRHJPQUIwWk1OLWgtYWl4cFFVZHROVGllbnpSd1hNS1dFR2tYNENUc2xPaXJ1MTVHd2pHb29qY2M1OU5KYW9CWlpBWGZfODVYYWpUcDJYY2piV1QxTlBDc1VFa29IUHByZDU0UzNEcC0wZVcwSm53?oc=5",
-      "published": "2026-02-04T12:00:00",
-      "sentiment_score": -0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.918
     },
     {
       "headline": "AI 'slop' is transforming social media - and a backlash is brewing",
