@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-06T01:12:51.857805",
-  "total_articles": 69,
-  "overall_sentiment": -0.135,
+  "last_updated": "2026-02-06T06:43:48.068471",
+  "total_articles": 64,
+  "overall_sentiment": -0.169,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -177,21 +177,21 @@
     },
     {
       "date": "2026-02-04",
-      "avg_sentiment": 0.055,
-      "article_count": 24,
-      "positive_count": 13,
-      "negative_count": 6,
-      "neutral_count": 5,
-      "moving_avg": -0.239
+      "avg_sentiment": 0.127,
+      "article_count": 15,
+      "positive_count": 9,
+      "negative_count": 4,
+      "neutral_count": 2,
+      "moving_avg": -0.228
     },
     {
       "date": "2026-02-05",
-      "avg_sentiment": -0.095,
-      "article_count": 11,
-      "positive_count": 5,
-      "negative_count": 5,
+      "avg_sentiment": -0.21,
+      "article_count": 15,
+      "positive_count": 6,
+      "negative_count": 8,
       "neutral_count": 1,
-      "moving_avg": -0.214
+      "moving_avg": -0.22
     }
   ],
   "source_stats": [
@@ -203,30 +203,33 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.118,
-      "article_count": 13,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.087,
-      "article_count": 8,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.011,
-      "article_count": 3,
+      "avg_sentiment": 0.037,
+      "article_count": 12,
       "sentiment_label": "Neutral"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.089,
+      "article_count": 7,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "The Verge",
-      "avg_sentiment": -0.163,
-      "article_count": 3,
+      "avg_sentiment": -0.34,
+      "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Amazon\u2019s $200 Billion Spending Plan Raises Stakes in A.I. Race",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jY1hUY2UxUW9TLWc5Z3VpRGdkaWVIdTRWVXpfNktQcjdJbmY1WnVGanZGd3hNaTFibVVOSXkwb3p4Qmw5OWR4SVpObnhDWDdNQUx1bkVQTHI5MFp1U1hpdTdfLThtTklqa1lVQmIwUjRjaE4wUnJGcXJvaFk?oc=5",
+      "published": "2026-02-05T23:51:01",
+      "sentiment_score": 0.824,
+      "sentiment_label": "Positive",
+      "confidence": 0.845
+    },
     {
       "headline": "Anthropic, OpenAI rivalry spills into new Super Bowl ads as both fight to win over AI users",
       "source": "AP News",
@@ -235,6 +238,15 @@
       "sentiment_score": 0.008,
       "sentiment_label": "Neutral",
       "confidence": 0.895
+    },
+    {
+      "headline": "Altman lashes out at 'clearly dishonest' Anthropic ads as AI spat heats up",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkpJYUIyQlAzU0lBNHMzR1NGT1N6aWJGMlFyd3RkVG8yeUZEMHJmNDJJVTVFS19IOXUwT3hNLTd6ckE1bzgzei04MmE1Z3RGR2xJMm1QM2pQcmJFeTJ1UmNTTjlCX1REQWlqVWx1NVA2YlJjQlNCTnhld2o2ZXhjVkU5WmjSAYoBQVVfeXFMTU1XWlBuU1JwOGpvcWpWWC1UdUpwMHFzaE1ucV81SHJwY3VhdUJRNXMzdmxVZ3loZ1YxYUE3UDhFajBheF9ZbGh3XzdnUndhR1FxRnRBRmhHTEMyeUNhZE1EbHZ1OGcxZm5hUGdrTUxaY21CbldOQlhJQkhWX0pKbTZ2VE1wNzBIOTFB?oc=5",
+      "published": "2026-02-05T14:50:37",
+      "sentiment_score": -0.866,
+      "sentiment_label": "Negative",
+      "confidence": 0.883
     },
     {
       "headline": "OpenAI launches new enterprise platform in bid to win more business customers",
@@ -273,13 +285,13 @@
       "confidence": 0.928
     },
     {
-      "headline": "Google goes from laggard to leader as it pulls ahead of OpenAI with stellar AI growth",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjNyZ05RbVhwMzd6aFFKNnVmTDBrRi1mYzdLSFVjSHdZSVdjdk1WUjU2U0hnTFM0Y1pQMDVjOVVpN3hiamdEMzBJUms1LUhiT1RwVUk0dVBfa2pxaDc3c2JQNWt6VW1lZmdQNHdYa01vamxnNnM0YW1EMnItX2EteDYwcUhEOGN3emhTWnh4bE03ZEg5U0dUTUI3Y01DbVZBVUJRUXA3am1XS2l6MHFDcU5lUmlQaFE?oc=5",
-      "published": "2026-02-05T04:23:00",
-      "sentiment_score": 0.798,
-      "sentiment_label": "Positive",
-      "confidence": 0.846
+      "headline": "China's Hong Kong-listed tech stocks enter bear market as tax ands AI fears take hold",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/05/china-tech-hsi-enters-bear-market-as-tax-ai-fears-take-hold.html",
+      "published": "2026-02-05T04:03:35Z",
+      "sentiment_score": -0.954,
+      "sentiment_label": "Negative",
+      "confidence": 0.971
     },
     {
       "headline": "US launches plan to tackle China's critical minerals dominance",
@@ -289,6 +301,24 @@
       "sentiment_score": 0.403,
       "sentiment_label": "Neutral",
       "confidence": 0.57
+    },
+    {
+      "headline": "Shares of Arm plunge 8% after licensing revenue misses estimates, Qualcomm outlook adds pressure",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/05/arm-shares-fall-licensing-revenue-miss-ai-demand.html",
+      "published": "2026-02-05T03:01:35Z",
+      "sentiment_score": -0.966,
+      "sentiment_label": "Negative",
+      "confidence": 0.974
+    },
+    {
+      "headline": "CNBC Daily Open: Alphabet capex plans spook investors, while AMD has a brutal day in markets",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/05/cnbc-daily-open-alphabet-capex-plans-spook-investors-while-amd-has-a-brutal-day-in-markets.html",
+      "published": "2026-02-05T01:13:15Z",
+      "sentiment_score": 0.658,
+      "sentiment_label": "Positive",
+      "confidence": 0.804
     },
     {
       "headline": "Alphabet resets the bar for AI infrastructure spending",
@@ -345,24 +375,6 @@
       "confidence": 0.691
     },
     {
-      "headline": "Jim Cramer says the tech sell-off proves why this old investing rule still matters",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/jim-cramer-tech-sell-off-proves-why-old-investing-rule-still-matters.html",
-      "published": "2026-02-04T23:27:33Z",
-      "sentiment_score": 0.031,
-      "sentiment_label": "Neutral",
-      "confidence": 0.874
-    },
-    {
-      "headline": "Stock market today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/stock-market-today-live-updates.html",
-      "published": "2026-02-04T23:08:08Z",
-      "sentiment_score": -0.933,
-      "sentiment_label": "Negative",
-      "confidence": 0.951
-    },
-    {
       "headline": "Google\u2019s Gemini app has surpassed 750M monthly active users | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
@@ -370,15 +382,6 @@
       "sentiment_score": 0.92,
       "sentiment_label": "Positive",
       "confidence": 0.932
-    },
-    {
-      "headline": "Broadcom, Nvidia shares rise on surging Google capital expenditures for AI",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/broadcom-google-tpu-ai-nvidia.html",
-      "published": "2026-02-04T21:59:40Z",
-      "sentiment_score": 0.539,
-      "sentiment_label": "Positive",
-      "confidence": 0.653
     },
     {
       "headline": "Amazon to begin testing AI tools for film and TV production next month | TechCrunch",
@@ -417,15 +420,6 @@
       "confidence": 0.647
     },
     {
-      "headline": "The FTC enters new chapter in its approach to artificial intelligence and enforcement",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRThFbUd1Y0FvWURDWlRIQlhyelhYVVlSaHQyOEdfM1lqNjd2a2wwelNPWndkVHhGSFZYdlc3OEZGMG55cjFJTGRHc1pHNU9WNWdSeWp4RFJDRmZSZlZGMFVUMFdKMGFsV3paeWRFVFVSZlhxX2EyeHl1YTFFU2QzdUxNcW5DSXZ4anJhaGNod2RtU3M0Zlhhek1aZXJZV2pLNTh1MGdlZXpHOC00WXZzcmN4WlJkNXBRZkItREdRVHdUUWFKTnk4M3pTZGswUXBj?oc=5",
-      "published": "2026-02-04T19:45:35",
-      "sentiment_score": 0.16,
-      "sentiment_label": "Neutral",
-      "confidence": 0.81
-    },
-    {
       "headline": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
       "source": "Wired",
       "link": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
@@ -462,15 +456,6 @@
       "confidence": 0.883
     },
     {
-      "headline": "Anthropic says no to ads on Claude chatbot, weeks after OpenAI made move to test them",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/anthropic-no-ads-claude-chatbot-openai-chatgpt.html",
-      "published": "2026-02-04T14:45:12Z",
-      "sentiment_score": -0.721,
-      "sentiment_label": "Negative",
-      "confidence": 0.74
-    },
-    {
       "headline": "Anthropic takes aim at OpenAI\u2019s ad push in Super Bowl commercial",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkN6WXVOMFM4UjMzRW43cnJoS1dtMmRuTVUyalRsNGxyMkJiUzRvNDFOS1AzWlJkVzNhWE1Damk3Qm5rUWhOYS1lRFRTTXpBRXB4YWUxWlEzejJfbG1MYk4tUmtUZ1NOcGdJbTc4UDkyZmdueDJaNTZzZWl4aGxINFotalprTmQtQTRj0gGQAUFVX3lxTFBRRDd2Q0VYMkdJcmktU2dyb1VmY2lqZmhVNkpPSlpsOFN1T2Jzc3BWcFFXaHVJbTYtSDBUSkEwOHNOR3Ryem9zNnl2SVg1RTc1X3N2X1VRblRPLUUxQnFMakFZOVViSFJGbHNnVWJfOEp4Z1Q5NlZYejFtVGVvbm9fZHBxTDB3MTAxR2NyVE9odw?oc=5",
@@ -480,36 +465,9 @@
       "confidence": 0.909
     },
     {
-      "headline": "Amazon makes Alexa+ AI assistant available to everyone in the U.S. nearly a year after launch",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/04/amazon-alexa-plus-us-releas.html",
-      "published": "2026-02-04T14:05:15Z",
-      "sentiment_score": 0.043,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
-    },
-    {
-      "headline": "Amazon rolls out Alexa Plus nationwide and launches a new free tier",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-      "published": "2026-02-04T14:01:45Z",
-      "sentiment_score": 0.191,
-      "sentiment_label": "Neutral",
-      "confidence": 0.792
-    },
-    {
-      "headline": "Alexa+, Amazon's AI assistant, is now available to everyone in the U.S. | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
-      "published": "2026-02-04T14:01:05Z",
-      "sentiment_score": 0.077,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
-    },
-    {
       "headline": "Exclusive | Anthropic Takes Aim at OpenAI\u2019s ChatGPT in Super Bowl Ad Debut",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPaTBjNHRFcElTcVo5bFBYeXBCY1piSzJmR1hnWHBvZEFvcFo4cERMb0pzRmZBNmdUUHFlbktsU0tad2ZVd3d0aGxMb2Nrd3Bnc3lxSUFLOVJpU0RScGJxWXRmZ1pnZG5NSDBuRmtZdk9YaDVLemtZOWpKa2RLOEJ3aE55Y25DeHU3cTBDZzVqN1luYnB6TzJZYllNdktGZmxUY3NoUmJRMHMwSTB4M3VyVHd4cTJsR2R6ckNkQWZjMFNsQkZCMG5TVzNxUnBKa1h6OXBwUmdxV1VCMmFZbUd1NUZGeFdtNjg2cGthQU0wRnR4Qkp0ZlN5VWxPR1dKeW9XeEc5ZFV0QXFOQzBqMHVhaGRyemtUX1p4bFZ5dTFvNTFJdHUtQ0k2em5qX2ZiSHN0Y2FQWWNVZnE3dXBYSTRObU9BMmdhRFB1VjRrWUlnWFBZaTlOOHh4dnpVY1R5emxCd3JSdGNrbER4T0w1amFiYUlpbk9QQnhwWnk0cDJESWhQSExyaG9XenIxOVp6VFFWamdQM3lBRFZlVW9LNG95dVF4bGJyYWJDZXNEanVB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOaF8tWjhseWlhcDBlMXFnRGU3aC1CRkgzbFl4T3dxc3JLY2FMUldidUdCX2EtZEdmR0xqc1B5Um9WVk5sWWEzRkZJVGpKVzZ0emtWNW10eXl2S0dYMllNTzFocUw4STUyd3Myd3ZkY1Y1eXBhZnZxc3prSWhickdSOWU5ajdFN3lJeXU3VTFxSGsza2hDbWRHMkwtaTNDdWs0dXY4anctbWhxTFJXa0hOZGhrTjFSRS1HRHRCWGVhdWNrRUZTY3JHYWNQQ19zMFc5ZTE4Nm5fX2NSVjYzZUZxTlRCaWgtTWgyYWJkZU1UbVJlZ3R1UkY3eDNZbF9jZEJ6M2xlNkw3dXdEbnUxRnlQVGJSemZrZ19BNHBVVGlNaW1pNzdNb3hUUU56WE1RUTlpQ0c4QXAtSW5vOTRrX21LRHJPQUIwWk1OLWgtYWl4cFFVZHROVGllbnpSd1hNS1dFR2tYNENUc2xPaXJ1MTVHd2pHb29qY2M1OU5KYW9CWlpBWGZfODVYYWpUcDJYY2piV1QxTlBDc1VFa29IUHByZDU0UzNEcC0wZVcwSm53?oc=5",
       "published": "2026-02-04T12:00:00",
       "sentiment_score": -0.003,
       "sentiment_label": "Neutral",
@@ -523,15 +481,6 @@
       "sentiment_score": -0.281,
       "sentiment_label": "Neutral",
       "confidence": 0.619
-    },
-    {
-      "headline": "Artificial Intelligence just drove NASA's robotic rover on Mars for the first time",
-      "source": "BBC Sky at Night Magazine",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzk5aFNHZmt4aU5hZ0NzR0VnSmhaOUhEV3FOVGFjX05EQTJCNFhLb1Y0SFdmcjhlajVrX1RMQnZMQmRMZjl6Zl9TQjVoaEpQU3ZxZ05laGhncFprRzRNdVplNHVGelhCellLUXEwWDU5bnN1V3ExelRwLTMyWGZPUy1ablFPTHNxbkxFY285ekg?oc=5",
-      "published": "2026-02-04T09:51:09",
-      "sentiment_score": 0.03,
-      "sentiment_label": "Neutral",
-      "confidence": 0.928
     },
     {
       "headline": "X offices raided in France as UK opens fresh investigation into Grok",
