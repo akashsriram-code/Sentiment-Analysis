@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-08T01:48:29.666624",
-  "total_articles": 66,
-  "overall_sentiment": -0.201,
+  "last_updated": "2026-02-08T06:40:39.169578",
+  "total_articles": 65,
+  "overall_sentiment": -0.181,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -168,39 +168,39 @@
     },
     {
       "date": "2026-02-04",
-      "avg_sentiment": -0.162,
+      "avg_sentiment": -0.136,
+      "article_count": 6,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 2,
+      "moving_avg": -0.273
+    },
+    {
+      "date": "2026-02-05",
+      "avg_sentiment": -0.184,
       "article_count": 5,
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.277
-    },
-    {
-      "date": "2026-02-05",
-      "avg_sentiment": -0.36,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.291
+      "moving_avg": -0.262
     },
     {
       "date": "2026-02-06",
-      "avg_sentiment": -0.05,
-      "article_count": 21,
+      "avg_sentiment": -0.025,
+      "article_count": 19,
       "positive_count": 7,
-      "negative_count": 7,
+      "negative_count": 5,
       "neutral_count": 7,
-      "moving_avg": -0.166
+      "moving_avg": -0.134
     },
     {
       "date": "2026-02-07",
-      "avg_sentiment": -0.17,
-      "article_count": 3,
+      "avg_sentiment": -0.061,
+      "article_count": 2,
       "positive_count": 1,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.185
+      "moving_avg": -0.137
     }
   ],
   "source_stats": [
@@ -212,14 +212,14 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.005,
+      "avg_sentiment": 0.069,
       "article_count": 11,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.063,
-      "article_count": 6,
+      "avg_sentiment": 0.112,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
@@ -227,18 +227,6 @@
       "avg_sentiment": 0.185,
       "article_count": 4,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.053,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "CNN",
-      "avg_sentiment": -0.604,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
@@ -252,22 +240,13 @@
       "confidence": 0.555
     },
     {
-      "headline": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3NSaEs3WXhxX185b0ZiOWJ3Umc3TS1qMGgwbWRQTi1DbHppN0RVYkxmaUNJOGZzdlpobG1oendia1hYbjJQZFJfeHc0V21xUkRmN3hOb2I4YmllRmt0RDVhZTZaOTVEcmJkNFBvWEVsZVFuNUJtaS1vSHBoM2VOU3J2eUhkWXNWWGFLUmdlNnd5dk9tR1EtOXJaSjlFOTFhTS1tSTA3alpGRGo5eExIeVYxWkdmSjEwUGhhaw?oc=5",
-      "published": "2026-02-07T11:04:16",
-      "sentiment_score": -0.054,
-      "sentiment_label": "Neutral",
-      "confidence": 0.765
-    },
-    {
-      "headline": "AI technology can 'lighten load on Manx speakers,' student says",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iWkxEZTd3VldGeVUyZ1Q1M3VEYm1kZENNNlpyY3p2WTJBeGpFTU03ZE1fNy0yMnBMVmxSa01ZUFY2NHdfNWowaGswdjhYaFFzUXdRLTV0LXRRZw?oc=5",
-      "published": "2026-02-07T07:19:00",
-      "sentiment_score": 0.077,
-      "sentiment_label": "Neutral",
-      "confidence": 0.83
+      "headline": "Benchmark raises $225M in special funds to double down on Cerebras | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+      "published": "2026-02-07T05:24:37Z",
+      "sentiment_score": 0.411,
+      "sentiment_label": "Positive",
+      "confidence": 0.563
     },
     {
       "headline": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT | TechCrunch",
@@ -322,15 +301,6 @@
       "sentiment_score": 0.766,
       "sentiment_label": "Positive",
       "confidence": 0.774
-    },
-    {
-      "headline": "The Dow just hit 50,000. See the names that have come and gone over the decades",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/06/dow-50000-stocks-index.html",
-      "published": "2026-02-06T21:00:08Z",
-      "sentiment_score": -0.179,
-      "sentiment_label": "Neutral",
-      "confidence": 0.775
     },
     {
       "headline": "Uber ordered to pay $8.5m over claim driver raped passenger",
@@ -423,15 +393,6 @@
       "confidence": 0.902
     },
     {
-      "headline": "AI is upending entry-level jobs. Three teens tell us how they\u2019re responding | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/02/06/tech/ai-entry-level-jobs-teens",
-      "published": "2026-02-06T13:03:37Z",
-      "sentiment_score": -0.382,
-      "sentiment_label": "Neutral",
-      "confidence": 0.535
-    },
-    {
       "headline": "Two of the biggest AI companies are feuding over a Super Bowl ad. It\u2019s bigger than you think",
       "source": "CNN",
       "link": "https://www.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads",
@@ -466,6 +427,15 @@
       "sentiment_score": 0.008,
       "sentiment_label": "Neutral",
       "confidence": 0.895
+    },
+    {
+      "headline": "OpenAI launches new enterprise platform in bid to win more business customers",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdFRkU1NUUzdLLUZZdGxpWjBReXkxNUhLY3YzT3NaWFpTaFIwZDVMSG9qS2pPUGVxWTE4UkYwRDBmdEZGQVVocXh3SVJVZnQtUmFrTlNGZFZobEhNM3Y3S25GVlczZXRXWnZOLVFvVWY0djVTSC1FbVgwU3ZudEnSAYQBQVVfeXFMTVhHUWI4d3VrM2F0VC02c2RmazFTLWJKVlF6c25FQlI3blFfVHZJR21oOWNaRWxPZXkwaWNBOWJ1dl8teFBmUTdRN1hsc1ZzSmsybTdYM24yd1doTmJBOU9RX3ZMcE92QmNhaXZIZ1BNdzZ5Q3hyMi1zMWhVenlxVTREcGxa?oc=5",
+      "published": "2026-02-05T14:00:01",
+      "sentiment_score": 0.523,
+      "sentiment_label": "Positive",
+      "confidence": 0.534
     },
     {
       "headline": "ChatGPT boss ridiculed for online 'tantrum' over rival's Super Bowl ad",
@@ -520,6 +490,15 @@
       "sentiment_score": 0.012,
       "sentiment_label": "Neutral",
       "confidence": 0.909
+    },
+    {
+      "headline": "Exclusive | Anthropic Takes Aim at OpenAI\u2019s ChatGPT in Super Bowl Ad Debut",
+      "source": "The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNYUVrazZsdVFUbE1GdEVXWEtrOXZ5RWJVdElXNDY5eWVpUThBd0NfWUZsRVpIVnhOeV9lRk45YWdTRDJkVnV5WV9CM0F6N25jU0tvejBObGpGSUxBa1UyZXFvSXFJMkl5TFB1WXVXSEt2N090d3Q4a2o0ZFl5aFdwQk1RRGNSODJ1RWlIYW9XSFRZdmdKaXFMM29qQ0JXR1ppNk9YcTV2NHVESXhEbnFReEwzbHE0ZHE1QW5fQlJhZkpuTjdWQy1ZTnliT0owbVVwV05RcUs4dWtyTFpyN3h0VUtUcll6QlZMVHlVOURLQmU0b1lmZFpBdExza0RpemVWS2dNdVgyMVlnTldkbkhOQWVUYU1WOFFmTXZwNm1lUzVEcGFJTWNhbXVTRzNQVURENjBnNnRyemdIdUVyM1piWUp6dllUWW4zSTY2YVIyaG8tV1VFNGJfZmw3NHo1QUp3bHRMRXQxNDRrUnMwaENPaGU3UGdOTkg1aW1YMTNHcS1qSVMxekNiWlZUVnNaNHNqd0QwQWJLQWdrMjZQdGRPWHJXVFZRWGExcUN6TG5n?oc=5",
+      "published": "2026-02-04T12:00:00",
+      "sentiment_score": -0.003,
+      "sentiment_label": "Neutral",
+      "confidence": 0.918
     },
     {
       "headline": "AI 'slop' is transforming social media - and a backlash is brewing",
