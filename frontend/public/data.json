@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-09T01:19:24.316340",
-  "total_articles": 63,
-  "overall_sentiment": -0.184,
+  "last_updated": "2026-02-09T06:56:54.232838",
+  "total_articles": 65,
+  "overall_sentiment": -0.195,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -78,12 +78,12 @@
     },
     {
       "date": "2026-01-16",
-      "avg_sentiment": 0.143,
-      "article_count": 2,
-      "positive_count": 2,
+      "avg_sentiment": 0.114,
+      "article_count": 1,
+      "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.218
+      "moving_avg": -0.223
     },
     {
       "date": "2026-01-20",
@@ -92,7 +92,16 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.142
+      "moving_avg": -0.147
+    },
+    {
+      "date": "2026-01-23",
+      "avg_sentiment": 0.028,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.08
     },
     {
       "date": "2026-01-26",
@@ -101,7 +110,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.153
+      "moving_avg": -0.142
     },
     {
       "date": "2026-01-27",
@@ -110,7 +119,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.223
+      "moving_avg": -0.235
     },
     {
       "date": "2026-01-28",
@@ -119,7 +128,7 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.272
+      "moving_avg": -0.144
     },
     {
       "date": "2026-01-29",
@@ -128,7 +137,7 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.275
+      "moving_avg": -0.273
     },
     {
       "date": "2026-01-30",
@@ -137,7 +146,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.278
+      "moving_avg": -0.294
     },
     {
       "date": "2026-01-31",
@@ -146,7 +155,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.283
+      "moving_avg": -0.31
     },
     {
       "date": "2026-02-02",
@@ -168,12 +177,12 @@
     },
     {
       "date": "2026-02-04",
-      "avg_sentiment": -0.302,
-      "article_count": 4,
+      "avg_sentiment": -0.402,
+      "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.297
+      "neutral_count": 1,
+      "moving_avg": -0.311
     },
     {
       "date": "2026-02-05",
@@ -182,7 +191,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.328
+      "moving_avg": -0.342
     },
     {
       "date": "2026-02-06",
@@ -191,25 +200,34 @@
       "positive_count": 4,
       "negative_count": 4,
       "neutral_count": 3,
-      "moving_avg": -0.208
+      "moving_avg": -0.222
     },
     {
       "date": "2026-02-07",
-      "avg_sentiment": 0.271,
-      "article_count": 8,
-      "positive_count": 7,
+      "avg_sentiment": 0.446,
+      "article_count": 5,
+      "positive_count": 4,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.164
+      "moving_avg": -0.153
     },
     {
       "date": "2026-02-08",
-      "avg_sentiment": -0.186,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.205
+      "avg_sentiment": -0.004,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 3,
+      "moving_avg": -0.169
+    },
+    {
+      "date": "2026-02-09",
+      "avg_sentiment": -0.585,
+      "article_count": 3,
+      "positive_count": 0,
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.203
     }
   ],
   "source_stats": [
@@ -221,15 +239,21 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.075,
-      "article_count": 10,
+      "avg_sentiment": -0.267,
+      "article_count": 8,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.056,
+      "avg_sentiment": -0.033,
       "article_count": 5,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.036,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
@@ -242,17 +266,59 @@
       "avg_sentiment": -0.435,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": 0.915,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
+      "headline": "Gold and silver price swings are powering algo traders and machine-learning funds",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlZxZUZBUUNzdmhBVmFFSDJTeDRCT3J1SFZiZTB6ckxJZ1dFdURoN1dJX2trY2dYdjZORGNMdEJQX0w1UmVudjZzNUJ0Rk9wNFE0WkpvQkFmdGJGUDRydjJISFVKMDJKcy1YM3FfbURTYnRyYTRHTWpaZEVXVU0yV21fSTFnRU5kQUdWSnJneGVIRERBLW52U2tGeUVicGkxYkE?oc=5",
+      "published": "2026-02-09T06:04:58",
+      "sentiment_score": -0.918,
+      "sentiment_label": "Negative",
+      "confidence": 0.93
+    },
+    {
       "headline": "AI (artificial intelligence)",
       "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1YxN1NvdXFaWFBYYVpDSlZ3ckRGT25ZSHBaZXpYLVJCeWlRUk0zeThpVWdsc0lweWpwSlZHbGhaR3YtX0R5MURXdkFZS2pxcEd3cFZGZXdkQmZ1ZExEUlRhc1VUUWUzWjMwZ1Fya3lycWl2ZndDajVUbTVmeG9YdUxOZDBOdw?oc=5",
-      "published": "2026-02-08T16:14:50",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1hWdWlPSUhZRDhwcmtFZ3U4eHZoN0MzVjgzQU5qSUVTc2pfa3plOGVWRnVHVURsbGM1bDRTWkVaeURUdFhTNVJNMFRjekhjNjRLek9oUmNPN0dsbFpHR3VtZ053TFMxWnZVa25aclpVMmNfaXhmRThxeWVjWTM2dkpjRnAydw?oc=5",
+      "published": "2026-02-09T05:14:50",
       "sentiment_score": -0.011,
       "sentiment_label": "Neutral",
       "confidence": 0.944
+    },
+    {
+      "headline": "Private credit worries resurface in $3 trillion market as AI pressures software firms",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnpYdGtaTlNFSGNpS2dQRGwwNERxTks5SE9YeFo4cTlnTHJvaUo2LVdvdGhqTWZ5MHJ2RUdIcV9vTWQxVzBEUThEZkZZXzk0dlY4V2R4TkIxRThnZUp6ZlA0ZVplUjZXNzJaaXg1aDNULVR6dEFkZ2hEUTFBb0hQWnV1QXBaUDTSAYwBQVVfeXFMTm9oQml3Z3c1QzJ1aXpEWlRHNzZQd2k4WXIwc0IyR1BGazFqRFZOYWFwZHJVcTRRMW9FX3hTTmtYejVhc29WdldkVGdrV2FXdjZoVzdOSWN5NXVOTEZaZTRZZVdkS0FyYThCNFpyWGZQeWpSVzdWeU11cWZncFRtWGJrdGs0ZjZJV1lPd18?oc=5",
+      "published": "2026-02-09T04:41:00",
+      "sentiment_score": -0.825,
+      "sentiment_label": "Negative",
+      "confidence": 0.845
+    },
+    {
+      "headline": "Can these Super Bowl ads make Americans love something they don\u2019t like?",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHcURTM3Y2Z2QtRE9DTkVmZXM1Wk5IYW5XSkdCbmdqbkJvZ1dHWkFJUkw3dzJva05TZmNyZE11akstTnpXZURuSU5QNUNLd2dPaFRiWU5MYkZBNjM3Ri1qUGk2WEY5RXNDNlJtRHVfbkN6ZXZrS0xrcF8wUQ?oc=5",
+      "published": "2026-02-08T22:35:36",
+      "sentiment_score": 0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
+    },
+    {
+      "headline": "Okay, I\u2019m slightly less mad about that \u2018Magnificent Ambersons\u2019 AI project",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUtoSTkxR2otYnFxMXc4YzRnZVBnN2RMRlVRbmdROE9jNTBoWmFKZnBMVEVoMlloY1l5MzdEVjdlX0ozbUNEYjhlbmFFd0tEa211QTU5LWVkcUZZLXNxblFQcUVJb0txUUwyVG1EMW1sMUtfZ2FUbjNXWWYtSlNWNEdRY25EOWpvTFByemZxb3lIV1JrQS0tOXRBNnlHM3dXYWlNdTRLdw?oc=5",
+      "published": "2026-02-08T19:36:28",
+      "sentiment_score": -0.037,
+      "sentiment_label": "Neutral",
+      "confidence": 0.814
     },
     {
       "headline": "US companies accused of \u2018AI washing\u2019 in citing artificial intelligence for job losses",
@@ -264,15 +330,6 @@
       "confidence": 0.878
     },
     {
-      "headline": "Can AI Chatbots Write Emotionally Rich Romance Books?",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uWk55WkhaVG9Jd0laVklBYXU4QnZRbkRVSFVrUzlJcWhPdHFZbXF6M25KSEphLXJhbnRtOU9fb3NMcWVkY21Mdmc2ZC1xQ3h6Ul9BdHpEQXBCRThSWFJQc1RhRG52MGhYdnU3dUlGeHhyNmJhY1NFMmJYX3M?oc=5",
-      "published": "2026-02-08T15:16:21",
-      "sentiment_score": 0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.915
-    },
-    {
       "headline": "GTA 6 Will Be Fully 'Street by Street' Handcrafted, No Generative AI: Rockstar Confirms Ahead of November 2026 Release",
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaDJ0dndiT1hMMlhfR29jUWFMbzN0ZWZuWnJfTlNkRURGU0xZR1NJWEwtVmFJQWVjMGFGcVBZSFlrU3BVSVc0Y2hGYlZhZldLeDcxdjJoamdTbHItV29BM2pnYUNEbWRXWm9qMmZKeXllTFJRbzhvcGxzMWpGWjFwZTFzZVdNVTN0S2J0bFFsVFlxVVJLLXBUS2g1c29zLUszMlpWVjJrR1VpRndzYUZpQjgxLXllSEZaTEVoRlZBVlFrTTkzQ0NJTTZhanBJVHZHaVk5OS12ZGRTT3ZaMlBEVWZ2SU5KV3RNN24xYjFHU0o2dHd0X3c?oc=5",
@@ -282,6 +339,33 @@
       "confidence": 0.895
     },
     {
+      "headline": "These A.I. Dreamers Don\u2019t Fit the Stereotype",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Zd2I4MjVEeTBRR3lZXzdBaWlOZDRVTW96SEFHUDRteEZXdnFMU28yTGJTOTZjTDMxczVqejRtMDBaTGVKckZyYWJaRUlEdTFERlNpbUNHc2U2aE4yVW5HRERJRmJMcS02NmUyLS11S2ctU20tTWc?oc=5",
+      "published": "2026-02-08T10:00:34",
+      "sentiment_score": -0.183,
+      "sentiment_label": "Neutral",
+      "confidence": 0.759
+    },
+    {
+      "headline": "Can AI Chatbots Write Emotionally Rich Romance Books?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uWk55WkhaVG9Jd0laVklBYXU4QnZRbkRVSFVrUzlJcWhPdHFZbXF6M25KSEphLXJhbnRtOU9fb3NMcWVkY21Mdmc2ZC1xQ3h6Ul9BdHpEQXBCRThSWFJQc1RhRG52MGhYdnU3dUlGeHhyNmJhY1NFMmJYX3M?oc=5",
+      "published": "2026-02-08T10:00:18",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
+    },
+    {
+      "headline": "Apps to boycott US goods gained traction in crisis over Greenland",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/denmark-greenland-trump-boycott-apps-93071df9a5b8aec8116c37730d175a46",
+      "published": "2026-02-08T06:00:29Z",
+      "sentiment_score": 0.915,
+      "sentiment_label": "Positive",
+      "confidence": 0.939
+    },
+    {
       "headline": "Rankpage Introduces Expanded AI-Driven SEO Offerings to Support Businesses of All Sizes Across Malaysia",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/globenewswire-mobile/rankpage-introduces-expanded-ai-driven-seo-offerings-to-support-businesses-of-all-sizes-across-malaysia-e9e3e630ae6d79e83c64987ff8ba2596",
@@ -289,33 +373,6 @@
       "sentiment_score": 0.916,
       "sentiment_label": "Positive",
       "confidence": 0.927
-    },
-    {
-      "headline": "Nearly a thousand Google workers sign letter urging company to divest from ICE, CBP",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/07/nearly-a-thousand-google-workers-sign-letter-urging-company-to-divest-from-ice-cbp.html",
-      "published": "2026-02-07T15:43:59Z",
-      "sentiment_score": -0.931,
-      "sentiment_label": "Negative",
-      "confidence": 0.945
-    },
-    {
-      "headline": "First the quarter zip, now a '401(k) mullet' \u2014 what Gen Z trends say about the economy",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/07/401k-mullet-quarter-zip-economy.html",
-      "published": "2026-02-07T14:30:01Z",
-      "sentiment_score": 0.09,
-      "sentiment_label": "Neutral",
-      "confidence": 0.867
-    },
-    {
-      "headline": "Fivespan brings amicable activism to Appian in a bid to lift the share price and build value",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/07/fivespan-brings-amicable-activism-to-appian-in-a-bid-to-build-value.html",
-      "published": "2026-02-07T14:00:09Z",
-      "sentiment_score": 0.312,
-      "sentiment_label": "Neutral",
-      "confidence": 0.665
     },
     {
       "headline": "Elon Musk wants to be a trillionaire \u2014 here's how SpaceX may get him there",
@@ -336,6 +393,15 @@
       "confidence": 0.887
     },
     {
+      "headline": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3NSaEs3WXhxX185b0ZiOWJ3Umc3TS1qMGgwbWRQTi1DbHppN0RVYkxmaUNJOGZzdlpobG1oendia1hYbjJQZFJfeHc0V21xUkRmN3hOb2I4YmllRmt0RDVhZTZaOTVEcmJkNFBvWEVsZVFuNUJtaS1vSHBoM2VOU3J2eUhkWXNWWGFLUmdlNnd5dk9tR1EtOXJaSjlFOTFhTS1tSTA3alpGRGo5eExIeVYxWkdmSjEwUGhhaw?oc=5",
+      "published": "2026-02-07T11:04:16",
+      "sentiment_score": -0.054,
+      "sentiment_label": "Neutral",
+      "confidence": 0.765
+    },
+    {
       "headline": "How Nvidia became the first $5 trillion company, in 4 charts | CNN Business",
       "source": "CNN",
       "link": "https://www.cnn.com/2026/02/07/business/nvidia-trillion-valuation-ai-chips-vis",
@@ -343,15 +409,6 @@
       "sentiment_score": 0.799,
       "sentiment_label": "Positive",
       "confidence": 0.811
-    },
-    {
-      "headline": "Benchmark raises $225M in special funds to double down on Cerebras | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-      "published": "2026-02-07T05:24:37Z",
-      "sentiment_score": 0.411,
-      "sentiment_label": "Positive",
-      "confidence": 0.563
     },
     {
       "headline": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT | TechCrunch",
@@ -487,15 +544,6 @@
       "sentiment_score": 0.012,
       "sentiment_label": "Neutral",
       "confidence": 0.909
-    },
-    {
-      "headline": "Exclusive | Anthropic Takes Aim at OpenAI\u2019s ChatGPT in Super Bowl Ad Debut",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxObUthWGp5NHFkTmNFZ1pnaWRfc3g1MDV5akVjVTQtTlBQTGRZeFQ1WUVEVTgzTW9oQ3l2M3VUVUREWUpyMmxKRVZzdGZQbVJnUzlkRkZGVDZ4WlZuRThLdnNTd1dJUlRTSEtMSTdYM2RyakVpZTRnYm1UNnREYzNHY3dFR0JETkxRWDZ5cE82QTBLR28wSVduOS0xMjhVdnVJQ01BSFZqSENLYmVkZmtPcXNMckcteGhsT2R4Z0lGd2c3YjRidkp4ZjVZYWcxVGxkZ190TmNVMXlxOExVUkhKUFNZWnNxU1Q5TzRnUEtJODBkdlRDcU0tbmZNQUxVWVBHaU5rQ0wxZW95WE9Od1dsdDBSY05YbUstdkZLd1NuSERDR0pZWXhENk5pQmF5c09nX29xMFlZZW5wOHJzb0FERzg4ME1XZHhWczdrbTBfUUdkSEJPYVEtaHI1OGdTdnphNTdXVWZ1cGoyTGszbm1SQW9QakNqX21wMlBHRi15YzdKVjdubWJNczY4MW5LZmJsRUpPZmJwWUhlY2FkZEc4X3YyeTRGWGZlYjFlYnl3?oc=5",
-      "published": "2026-02-04T12:00:00",
-      "sentiment_score": -0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.918
     },
     {
       "headline": "AI 'slop' is transforming social media - and a backlash is brewing",
@@ -696,6 +744,15 @@
       "confidence": 0.631
     },
     {
+      "headline": "Will ChatGPT Ads Change OpenAI? + Amanda Askell Explains Claude\u2019s New Constitution",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkE3enNKOVk1ZXE0TGVFNV81bnpXdXc4cmdibUQzQzg3WVdZaDFSS0wtbXlwaXpOd3FjQUhzYncyeGFtRi1NNHE1bTVYN0lqeGktMmt1YTFtNGxXcFZBdUN2WndyMERBTlhBczNXYjVjY2ZqVkd2SWdqVG01bVRfeXVYVWlQQURPLW1NMzMzYXBORjg?oc=5",
+      "published": "2026-01-23T08:00:00",
+      "sentiment_score": 0.028,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
       "headline": "How would a social media ban for under-16s work?",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/videos/cx2yep7l2j2o?at_medium=RSS&at_campaign=rss",
@@ -712,15 +769,6 @@
       "sentiment_score": 0.624,
       "sentiment_label": "Positive",
       "confidence": 0.637
-    },
-    {
-      "headline": "OpenAI to begin testing ads on ChatGPT in the U.S.",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01LW96UEZIRTRnN2FyOEliVlYxcy0wWUp5cGJ5OFA4MUhOMHJGbEotRU5kZjUwbUFQd01WeGNpYk9qOUNBdWluSTI1eGdnTEsyNnJwNWZDLUFzYUZnQzZoWGJMSlhWUGM0YkI40gFwQVVfeXFMTXVSR3gzTm9XTkJyTFA4dlJRc1NoalE2NUZ3MVl0OHhNT2VobkFhUlQwLXZzeVhmNlI0M0YzRFNLU3V2TFR0b2lsN0VralNSLWw4Y2hZM0dWUGV2UEZFallOc09KRmJIY0ZSNm10c2Z2Rw?oc=5",
-      "published": "2026-01-16T08:00:00",
-      "sentiment_score": 0.172,
-      "sentiment_label": "Neutral",
-      "confidence": 0.809
     },
     {
       "headline": "'They are essential':  How smoke detectors are evolving",
