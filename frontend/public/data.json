@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-10T01:28:18.493416",
-  "total_articles": 54,
-  "overall_sentiment": -0.199,
+  "last_updated": "2026-02-10T06:57:03.937719",
+  "total_articles": 58,
+  "overall_sentiment": -0.209,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -168,12 +168,12 @@
     },
     {
       "date": "2026-02-06",
-      "avg_sentiment": 0.024,
-      "article_count": 3,
-      "positive_count": 1,
+      "avg_sentiment": -0.403,
+      "article_count": 2,
+      "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.21
+      "moving_avg": -0.271
     },
     {
       "date": "2026-02-07",
@@ -182,7 +182,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.074
+      "moving_avg": -0.135
     },
     {
       "date": "2026-02-08",
@@ -191,16 +191,25 @@
       "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 2,
-      "moving_avg": -0.113
+      "moving_avg": -0.174
     },
     {
       "date": "2026-02-09",
-      "avg_sentiment": -0.067,
-      "article_count": 13,
-      "positive_count": 4,
-      "negative_count": 5,
-      "neutral_count": 4,
-      "moving_avg": -0.065
+      "avg_sentiment": -0.053,
+      "article_count": 15,
+      "positive_count": 6,
+      "negative_count": 6,
+      "neutral_count": 3,
+      "moving_avg": -0.124
+    },
+    {
+      "date": "2026-02-10",
+      "avg_sentiment": -0.2,
+      "article_count": 3,
+      "positive_count": 0,
+      "negative_count": 3,
+      "neutral_count": 0,
+      "moving_avg": -0.143
     }
   ],
   "source_stats": [
@@ -212,15 +221,9 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.339,
-      "article_count": 4,
+      "avg_sentiment": 0.137,
+      "article_count": 6,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.106,
-      "article_count": 3,
-      "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
@@ -230,7 +233,19 @@
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.046,
+      "avg_sentiment": -0.181,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "avg_sentiment": -0.101,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.045,
       "article_count": 2,
       "sentiment_label": "Neutral"
     },
@@ -243,27 +258,36 @@
   ],
   "articles": [
     {
-      "headline": "Medical misinformation more likely to fool AI if source appears legitimate, study shows",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0FGbHdHU0tyTzFsYlQ4VTRkZk01Z2w4ZVd0ZFJoVFVJU0lYbU5UdkpjQlloSTQteFNpLXNFdUZaRGN2VWttYk9RR0JxeERVbmFiNDhEdGpWc0UxSGp0LXJnai0tRDBwcFhRaFpNaUo5a3lUMDlwbnVrdjZxUnhDdXNxNzk4NTZYMW1TUHZWMnBRYXprODNlZUpueEVHVU1YeEc0QU5RVkhHSDJkY1pfS3RTRjZ3MmRZYUR1RWZSMzFYV3otUDRMVVhFX1hQY09mTXlaU1BtbGFOUU9RT2RJX2xuMA?oc=5",
-      "published": "2026-02-09T23:32:18",
-      "sentiment_score": -0.227,
+      "headline": "Using AI for medical advice 'dangerous', study finds",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsR3FPRUo0RGgzZVBmOEVxWGQ2NnRYWFZvNVBjWGpLTnBmWGpSaGFkUHpldHlNak9wZTFqbUJfLWpKYzQzU3BRVk56V2tvU3FzZEVLNHd2SXFIZw?oc=5",
+      "published": "2026-02-10T06:20:48",
+      "sentiment_score": -0.213,
       "sentiment_label": "Neutral",
-      "confidence": 0.695
+      "confidence": 0.727
     },
     {
-      "headline": "Can AI Chatbots Write Emotionally Rich Romance Books?",
+      "headline": "These A.I. Dreamers Don\u2019t Fit the Stereotype",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uWk55WkhaVG9Jd0laVklBYXU4QnZRbkRVSFVrUzlJcWhPdHFZbXF6M25KSEphLXJhbnRtOU9fb3NMcWVkY21Mdmc2ZC1xQ3h6Ul9BdHpEQXBCRThSWFJQc1RhRG52MGhYdnU3dUlGeHhyNmJhY1NFMmJYX3M?oc=5",
-      "published": "2026-02-09T23:31:00",
-      "sentiment_score": 0.046,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Zd2I4MjVEeTBRR3lZXzdBaWlOZDRVTW96SEFHUDRteEZXdnFMU28yTGJTOTZjTDMxczVqejRtMDBaTGVKckZyYWJaRUlEdTFERlNpbUNHc2U2aE4yVW5HRERJRmJMcS02NmUyLS11S2ctU20tTWc?oc=5",
+      "published": "2026-02-10T05:27:27",
+      "sentiment_score": -0.183,
       "sentiment_label": "Neutral",
-      "confidence": 0.915
+      "confidence": 0.759
+    },
+    {
+      "headline": "Inside OpenAI\u2019s Decision to Kill the AI Model That People Loved Too Much",
+      "source": "The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQXzFDX2xZWXpsRk9abVBuT2cwM201TzVLV1FickJVVzN1azdSbjlHVDhKV0VPXzZ0R281NTJSelZzX3dGYl9UOE9yejZJV1d0XzQyNnNacDRMU3V4bE4wYm85bXctNFJELXdyZnRNUk1ZVlJVLThCOWxoNUxJYXF1RV9mRFE0eldiUnpZWllUbWo1aXBBc2JhT2pUU0dGNncxVF9qc1NYNEU3elVvRTlZdVVNTHlMZDRiaGRVNUk0NTJCakMyT2syT2k0SDhXSFpmLWJUTmZudXlYak9HT2tTTTVTZHI3czlHYXBRRVpMSHJvTXVEVVUyb2lyZWk2QWJOTFBiNnZ5NVlPNUR4ZGU4WHlHMVRkTUFfR010QWVBdjk5R0hsU3hJUjdVeFhwaERydTVBeWxhUHZKd3ZSbGZWT0lYYXI0UzV6R0dYb1NZM1p4MUQyRDFBSnFrQzJQQy0ydGowclJvUU5OUQ?oc=5",
+      "published": "2026-02-10T03:00:00",
+      "sentiment_score": -0.205,
+      "sentiment_label": "Neutral",
+      "confidence": 0.716
     },
     {
       "headline": "Artificial Intelligence Comes to Your Portfolio",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPZDVTNUFoTjVYdVVnaS02V3ZyZjNGSGdZcExCNnlPSUs5RDVpZG1ON0NyOHoySExkbXEzdFMwX1hDRVdtbTR5U0l4bjZIQ1FPMWhpU3dQYzFYVUg3eEFuYmVEcUhPa1NYU2tYQ1dwWkRqeUhEZ1NRa3FZd01qSTlqcGZOMVJZcVNLNmhyZjhpRVI4ckYyQms5NV93N0ZUeFdXN01zSWZUcFYzclRJLVpFZUU5dTJKNHBjRGlQenlwM1FIeWpQekRHc20yN1Mwel9EY1F4WGszdm9Dc21KM29BUnJaWTdrLWpIU3YwM2VOMFZBWXZsb2YzRl9TQTdCcWRfd29yMm1yLUR0Q0o3VmxtNXlNVlJYd0JGUlF2eXlTb2pBaUhoaUJzdi1KNHdvTWNoeVBWY1lSLUN3cTNoVWJQT2pkNzlibjZDOEVSS2VhNEE0MVlSVW1kWjlZaEN6cUpqT1BLNy1fOEFiVEkyUE54dzc2LWc5b2RJXzhlTXI1dlk3eWZfVjk3RXJTV1BwQjdFWnV3MHpEeXZWSmtHT3ozbW00NktZX0tvWTZKd01xTGtQNlpTZnBfSjctYy1pZWwyM3N2S0FhcERhT3I1OURleGRtX3hrVDR5WV9TTDFJaC1LcVdDRTctSUFzMTBLMUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNeE5qRElPWGZ6SlR1VHNCZGdQLXhUT0VBODlETWFsZGtSUDg4RENTNXp0WW5QRlM0bzhwSWotQWQ5WXVYTkNabUlfMEs0VXM1WE05WFc5d21KMWh4Tmw5WElaS1I2T29jZDlFZUV0eXE2cDNtbWxGMndjS25mTkViVVJpLS15emxLaUJyNDNiT1hMRFlmZi1hdXNFdFV0VUppOWx4QXNfRGtsQXZBYjNKejNFQUhRUWVXazFRQ0hxdl9nUXlSbHBJdDlLZzBabTd0TlBwZlNzeTc1Nkl3aE92clJwU2ZHVDhIbW1vZW5sRkI1YXZodTN3Q0FrY1BrNHU5Rk5ZUmNFeXFLeHBPT2VwdUhKN1RUenBxRWh6c0NmRUduYjhZeXpEYUJRT00tVFRqNUN6V2RvM013TDBEZC1HYjlCeE9GMGJpaG50V0pjOF91eEF1UTFrQTdvdEdsS3lPcWxkTVpzRno2b2FLSUNZUjl6OTJ0SEVlS25HQy1qYlNadmE0WDVycElmZ3lpQjFPTlhlVk1mRWNXcDI3UVR4MnNUdDFkb3hVX283NktDQUFQcVdRMWVSZEk5djRYQVR3T1pLdnFjdmNTS1dsZ0ViWE03dnNvM3BrYlJuRndBTmZ1eEFUemVMajFqQ0Rld0E?oc=5",
       "published": "2026-02-09T22:20:00",
       "sentiment_score": 0.003,
       "sentiment_label": "Neutral",
@@ -349,6 +373,42 @@
       "sentiment_score": -0.918,
       "sentiment_label": "Negative",
       "confidence": 0.93
+    },
+    {
+      "headline": "OpenAI\u2019s supposedly \u2018leaked\u2019 Super Bowl ad with ear buds and a shiny orb was a hoax",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
+      "published": "2026-02-09T04:54:36Z",
+      "sentiment_score": -0.451,
+      "sentiment_label": "Neutral",
+      "confidence": 0.507
+    },
+    {
+      "headline": "Private credit worries resurface in $3 trillion market as AI pressures software firms",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/09/private-credit-software-firms-fall-ai-fears.html",
+      "published": "2026-02-09T04:41:28Z",
+      "sentiment_score": -0.923,
+      "sentiment_label": "Negative",
+      "confidence": 0.938
+    },
+    {
+      "headline": "Chinese chip designer Montage Technology soars over 50% in Hong Kong debut",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/09/chinese-chipmaker-montage-technology-hong-kong-ipo-debut.html",
+      "published": "2026-02-09T02:53:41Z",
+      "sentiment_score": 0.928,
+      "sentiment_label": "Positive",
+      "confidence": 0.95
+    },
+    {
+      "headline": "Epstein's Silicon Valley connections went beyond Gates and Musk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html",
+      "published": "2026-02-09T02:14:14Z",
+      "sentiment_score": 0.337,
+      "sentiment_label": "Neutral",
+      "confidence": 0.632
     },
     {
       "headline": "CNBC Daily Open: Watch Japan's yen and government bond yields as Takaichi storms to an election victory",
@@ -439,15 +499,6 @@
       "sentiment_score": -0.832,
       "sentiment_label": "Negative",
       "confidence": 0.863
-    },
-    {
-      "headline": "Nvidia rises 7% as Jensen Huang says $660 billion capex buildout is sustainable",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/06/nvidia-rises-7percent-as-ceo-says-660-billion-capex-buildout-is-sustainable.html",
-      "published": "2026-02-06T18:59:57Z",
-      "sentiment_score": 0.878,
-      "sentiment_label": "Positive",
-      "confidence": 0.923
     },
     {
       "headline": "Baldur's Gate to be turned into TV series - without the game's developers",
