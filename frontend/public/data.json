@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-11T01:25:43.301183",
-  "total_articles": 58,
-  "overall_sentiment": -0.21,
+  "last_updated": "2026-02-11T06:54:09.690388",
+  "total_articles": 62,
+  "overall_sentiment": -0.174,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -186,21 +186,30 @@
     },
     {
       "date": "2026-02-09",
-      "avg_sentiment": -0.1,
-      "article_count": 18,
-      "positive_count": 6,
-      "negative_count": 7,
+      "avg_sentiment": -0.106,
+      "article_count": 16,
+      "positive_count": 5,
+      "negative_count": 6,
       "neutral_count": 5,
-      "moving_avg": -0.418
+      "moving_avg": -0.419
     },
     {
       "date": "2026-02-10",
-      "avg_sentiment": 0.066,
-      "article_count": 8,
-      "positive_count": 3,
+      "avg_sentiment": 0.363,
+      "article_count": 10,
+      "positive_count": 6,
       "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.309
+    },
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.45,
+      "article_count": 4,
+      "positive_count": 0,
+      "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.351
+      "moving_avg": -0.364
     }
   ],
   "source_stats": [
@@ -211,6 +220,12 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.017,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
+    },
+    {
       "source": "The Verge",
       "avg_sentiment": 0.062,
       "article_count": 6,
@@ -218,24 +233,66 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.226,
-      "article_count": 6,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.086,
+      "avg_sentiment": 0.204,
       "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.018,
+      "avg_sentiment": -0.014,
       "article_count": 3,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.435,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "avg_sentiment": -0.519,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWlyZXJnQW9HY2FRMkxGdWh5aEphOEptTjRfakdIQUgtaFBfRE9aRHBxbHIwSktiekJicjVkXzNmeWlsa0k2MkpJUXFEcl92SkxPME9vb0lWaW1FbElTejhMdjFOMlNIR1ItZ2RSZldwWWFBSWRiTTkxek5aU3V2NVFaZkI2QQ?oc=5",
+      "published": "2026-02-11T05:11:05",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "Exclusive: ByteDance developing AI chip, in manufacturing talks with Samsung, sources say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdlhWYnExWWhfLW5NemRxMGZBRTJlclNaSXpWX3QtN2xIaWpaX05kd0phWXNIMkRXQWs4dkdtLWJNNkVWWXlUVXNtOFpMMEM3dmxDN0tFYUg2ZEYwb09BVlZiekdOYVdyMlByeDEtUGdNWTZRRUpjM3ZHajRrNlJPN05sVjFfNmxOU0tvUjNRUk11MWNIckl2c1JYZHpGUnU1dHRIVWV3TUx2UHExS0U2QXJPSWZlY3Q4YXB0RG5vRE01ZE1nTFhN?oc=5",
+      "published": "2026-02-11T04:48:38",
+      "sentiment_score": 0.048,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
+      "headline": "OpenAI policy exec who opposed chatbot's \"adult mode\" reportedly fired on discrimination claim",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFBHT1NJVDBycktmSVl2Q2l5RVhkczVveHFpbk14VmpyOVJFZXZNajhiQlRYWmdrZE9saTVjRkR4SU9POGlLUHhNR3dCOGhJaXdNSkp3VGhnR0NGeUZ6dTJYQWZUdVpfVnpLWEZMZF9tcWZzOTg2MklUeXFLaGhoMmFpYzJSSWpESUF6NXdCODhaVTF5bHNIUHJxYXI3dlJ6TFljemw3VW5mQWlDdlN6YVZZeW1Kb25sNDY5M0RUTjA3ZHdf?oc=5",
+      "published": "2026-02-11T02:15:27",
+      "sentiment_score": -0.903,
+      "sentiment_label": "Negative",
+      "confidence": 0.918
+    },
+    {
+      "headline": "Exclusive | OpenAI Executive Who Opposed \u2018Adult Mode\u2019 Fired for Sexual Discrimination",
+      "source": "The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOd1ZQV2k3MXpmRjdKQ1ZOdzN3SHBBTm1UQVFnQXBPUUI0Q0FVU3hVS0JzdnVQUVd6enlGZzh2NzE5amNGQ2xlc1V3ZTJ6YTRWR1JnNkw3X1dNX0x2aUZwang5YXRQMnptc3MyYTNwT2NHZlpUOE1zRDVQZTdXTFE4MHhhaU1SbzBFUnpLekZDRjdpY0FpY0t4U2IwMm5vb05naFFsdlhxUFhZRFowa2FOZWQ0eE9CclFsY19ZcVRmb19xelZKOERSeExwbHV2RS1LZnd5cWlSN2I1RUNRV1JrdTFYWncyTEtjcndhdmRaZlZBU0xfWWNvYmE2VUNyLVpLVzZ3ZlpBNlhKclhYeWJtQjhEU1dwQzBCZm9iX0NWZzNSTnZ1NFZla3NRX3E3OWc3YlJrcDh1a1UxOG9YOUFLZHozaklzR1EwZFhGM1V3dDJoNGZMQWkwTVhhQ2JjMm5wSGNfejJ6Y3ktOXZFSmJXT1Q4TnZhYkpQSzRKU1QyY3UxdlE5X3FiVG1LRkxXVXladVlfdXdjX3lPYmdLeUhWMWNhbFlEcThGN2s4TGdRSHFBdw?oc=5",
+      "published": "2026-02-11T00:00:00",
+      "sentiment_score": -0.934,
+      "sentiment_label": "Negative",
+      "confidence": 0.944
+    },
     {
       "headline": "ChatGPT\u2019s deep research tool adds a built-in document viewer so you can read its reports",
       "source": "The Verge",
@@ -255,15 +312,6 @@
       "confidence": 0.931
     },
     {
-      "headline": "The AI threat wrecked software stocks. Now financial stocks look next with LPL closing 8% lower",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1lpQnBMVnA2Yk5PRHJMRThHdzA1anBOMU50bU51Rm5ibVBNZ1dYM1FBbjB3eU9Ba2NSU2o5YmxNSDZhUGZrQk4tSGFWNnQwQ1hlbHFPRWN1ajFnRVAxYnVmYXo5a2lmRmN3VGVBLXRUb0xCdzRrdWRyVnRkb2FPX2Q5bER0YldZenhYcDhiejhjRVlvZXJLWS10M2JxbFJVX2tQWEtFak81a2RDZS1pTVVCcWMxT3VnbVluVGpPYmg5R25z0gHKAUFVX3lxTE5TMmh0Y2huT0k3T3JrSjEwOVVSUzh3eWRHcmpPd3NHaUo2cnFfd2ZYREY5QV9STkk1QkFxY0lBdS1aRDRwZnRNS2p5MFBQc2pqLUNJSWN4S2JJZURQclhiS3BYWjdDZHdZcHZiUzNWRXRrNWFNUkQzNnBqdFFpdnN6amtFQk5xSlFpWjYwc1dwZURYUUhEQktMNDR3c0VwcmFhRHVEYy0yWTRCQlRFbWxNbkxaeVh1R1NRQ0haQms2Y2hpbVNRZl9KUHc?oc=5",
-      "published": "2026-02-10T19:10:31",
-      "sentiment_score": -0.955,
-      "sentiment_label": "Negative",
-      "confidence": 0.966
-    },
-    {
       "headline": "Impact of agentic AI workflows for financial institutions",
       "source": "Thomson Reuters Legal Solutions",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS2U3amVkTnBaR2dYc2RIaVlOZkdvUnV4ZUJRdmNvVC1uQjZMdndSRElHZExWYlFOUUUxS2FzSDNzOUk1TEo1TG5mWUIzcjU5bnpVYmpHaWd0VmZsMEgyWkdhdWw3WnZkSlBVU2tLNzhFMXhyU1FkREV1OXIyZlctblBrVzZZTE1BMXBGMjJaUDNjN2s1eHFBcmplZDU?oc=5",
@@ -271,15 +319,6 @@
       "sentiment_score": -0.164,
       "sentiment_label": "Neutral",
       "confidence": 0.766
-    },
-    {
-      "headline": "Israel's FINQ launches US ETFs managed solely by AI",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUlndkhsWk92b3h6V29zUzRGR2t2MldnbURyNTJkTGFVMWFqVk5IWVU4T0ZENHplSjFENjZQMWFFbjdqVjNiNm9LYlNxVVR2elYyWUU3WXNKWTE1ZVVjNzNINGF6WV9iOG12V1kwUTIyV0tnLVVzMTVnVnk1WVEwenA4bW5NQWZWeWVQVFlGMjRJM3AyUTEtTEFjZw?oc=5",
-      "published": "2026-02-10T17:49:43",
-      "sentiment_score": 0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
     },
     {
       "headline": "Apple and Google agree to change app stores after 'effective duopoly' claim",
@@ -291,9 +330,45 @@
       "confidence": 0.836
     },
     {
+      "headline": "OpenAI Abandons \u2018io\u2019 Branding for Its AI Hardware",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
+      "published": "2026-02-10T05:45:16Z",
+      "sentiment_score": -0.409,
+      "sentiment_label": "Neutral",
+      "confidence": 0.539
+    },
+    {
+      "headline": "SoftBank shares surge 10% after telecom unit lifts outlook, Arm strength bolsters AI narrative",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/10/softbank-group-corp-shares-surge-after-telecom-unit-lifts-outlook-arm-ai-chip.html",
+      "published": "2026-02-10T03:59:22Z",
+      "sentiment_score": 0.922,
+      "sentiment_label": "Positive",
+      "confidence": 0.948
+    },
+    {
+      "headline": "Asian shares climb, led by post-election rally in Japan",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/stock-markets-inflation-tariffs-jobs-483d72163e6a4e21c61b8a8b1b2f3821",
+      "published": "2026-02-10T03:41:37Z",
+      "sentiment_score": 0.898,
+      "sentiment_label": "Positive",
+      "confidence": 0.935
+    },
+    {
+      "headline": "Tem raises $75M to remake electricity markets using AI",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
+      "published": "2026-02-10T03:03:18Z",
+      "sentiment_score": 0.769,
+      "sentiment_label": "Positive",
+      "confidence": 0.776
+    },
+    {
       "headline": "Inside OpenAI\u2019s Decision to Kill the AI Model That People Loved Too Much - WSJ",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOQ01mdTV4MU1SV3RGR1ZXR05iNHpmNlA4MVRPekR0V3lfMnRaX0oxaXc3T3k1amJMbVNrTVYyODBGcmVDX2NyWTkzQU1uVHVlSUNjWndEdjZvUUNRWXFuYmVsV2hkNElvMVhDenhJUGZXbnBUOUlvZUdGNk9xM185ZkhVVXJWSGdtWGFJZUJMQXZrR2NfNnU4ekt2NnpNbmF0MUQ5ZnBpekVudVI3eW9VRjVzalFHazYyMTdkN0F0aHp3bnd6aWdVd2JIR1RQc2g0Q2ZFczBwSWR2cUhDOHc3YjlzRG02TWVqOHJjUFJsc05UUkl1YTBXemlLeXB5SEpRWDhBWk95SUNHU0E1SEdVQ05ZbjdtM1JJa3FXVWJJUFRCSy0xMGs4QXdqaEJmMTZLSV8wVWhpTk1kMEd4dEV3Q0xpamRfRzYtSktfQmlxVk9HWjExbGJpWTZicnl3cmo3Ri1YWUEtVXVnUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPRHZsc0JmSVlRQkFMSTEzUU9rLTRtTTdldklJTVJMa0dnczFURWZVV3J4R2ZBSGl0Q3huWWZnUkNMaVRaSndKb1Npc09lWlBLYnFuSlVfSmJoVE9ncGROQVFzY0tBcTVvamRVNVZneVJuY2M3bmoteXBfZlppcWVId1ZNeDV5Y1ZKTm5KYk1xRVhEWkR5R3NBdXdpRFlNSkZxTUFPX2pIMl9DOHdkZ1lVZGZfVXlpV0lYcFRBYlNFUnRxOGZVcUFiaVBDUmxtTkRfaTl1ckFsN1RRRjlwVlBDYm1qeWE5Yjc4YXl4NzRid05WRkRKLVhudDJ4a3ZnM2FLSmV3SzJSWGN6b2F5MDNOd1ZpQklUQVR1Vk9tUU9CelV2U09WTXNUd0pBNzkyclkyV09IdVFqbTE4WjJyNVE2QTlScmZRWHpsUjlFMkxZZzdsZy1NdXdhMmVaQ2FoLWRSdzA0WFhGeEMydw?oc=5",
       "published": "2026-02-10T03:00:00",
       "sentiment_score": -0.103,
       "sentiment_label": "Neutral",
@@ -345,15 +420,6 @@
       "confidence": 0.892
     },
     {
-      "headline": "Even billionaires worried kids won't keep jobs in this market...",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/09/wealth-manager-even-billionaires-are-worried-about-the-job-market.html",
-      "published": "2026-02-09T20:40:37Z",
-      "sentiment_score": -0.499,
-      "sentiment_label": "Negative",
-      "confidence": 0.524
-    },
-    {
       "headline": "ChatGPT rolls out ads | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
@@ -379,15 +445,6 @@
       "sentiment_score": 0.01,
       "sentiment_label": "Neutral",
       "confidence": 0.784
-    },
-    {
-      "headline": "Anthropic closes in on $20B round | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
-      "published": "2026-02-09T17:41:35Z",
-      "sentiment_score": 0.398,
-      "sentiment_label": "Neutral",
-      "confidence": 0.531
     },
     {
       "headline": "Ex-Googlers are building infrastructure to help companies understand their video data | TechCrunch",
