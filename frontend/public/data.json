@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-13T01:22:05.539161",
+  "last_updated": "2026-02-13T06:50:20.847846",
   "total_articles": 60,
-  "overall_sentiment": -0.266,
+  "overall_sentiment": -0.189,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -132,39 +132,39 @@
     },
     {
       "date": "2026-02-10",
-      "avg_sentiment": 0.36,
-      "article_count": 2,
+      "avg_sentiment": 0.823,
+      "article_count": 1,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.248
+      "moving_avg": -0.182
     },
     {
       "date": "2026-02-11",
-      "avg_sentiment": -0.319,
-      "article_count": 21,
-      "positive_count": 6,
-      "negative_count": 12,
+      "avg_sentiment": -0.192,
+      "article_count": 16,
+      "positive_count": 5,
+      "negative_count": 8,
       "neutral_count": 3,
-      "moving_avg": -0.295
+      "moving_avg": -0.211
     },
     {
       "date": "2026-02-12",
-      "avg_sentiment": -0.433,
-      "article_count": 11,
-      "positive_count": 3,
+      "avg_sentiment": -0.23,
+      "article_count": 13,
+      "positive_count": 5,
       "negative_count": 6,
       "neutral_count": 2,
-      "moving_avg": -0.347
+      "moving_avg": -0.234
     },
     {
       "date": "2026-02-13",
-      "avg_sentiment": -0.116,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
+      "avg_sentiment": -0.209,
+      "article_count": 5,
+      "positive_count": 2,
+      "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.23
+      "moving_avg": -0.13
     }
   ],
   "source_stats": [
@@ -176,27 +176,21 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.222,
-      "article_count": 10,
+      "avg_sentiment": -0.145,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.274,
-      "article_count": 5,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.063,
+      "article_count": 7,
+      "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.051,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.032,
+      "avg_sentiment": -0.09,
       "article_count": 3,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     },
     {
       "source": "BBC",
@@ -205,19 +199,61 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.127,
+      "source": "Bloomberg.com",
+      "avg_sentiment": 0.46,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     },
     {
-      "source": "The Wall Street Journal",
-      "avg_sentiment": -0.51,
+      "source": "The New York Times",
+      "avg_sentiment": -0.006,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.127,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Anthropic AI safety researcher quits with 'world in peril' warning",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUXJWZzZGczJLRXUzQTdvMFZnYTEtOE11UnJlSW04VkpYek84dWRYM2MwYkIzemlLb1huZVo3MWMzZUp2NVVoVVg5NFVienlRV08zbmNEaUFUdw?oc=5",
+      "published": "2026-02-13T04:37:44",
+      "sentiment_score": -0.899,
+      "sentiment_label": "Negative",
+      "confidence": 0.91
+    },
+    {
+      "headline": "AI safety leader says 'world is in peril' and quits to study poetry",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c62dlvdq3e3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-02-13T04:37:44",
+      "sentiment_score": -0.93,
+      "sentiment_label": "Negative",
+      "confidence": 0.94
+    },
+    {
+      "headline": "Zhipu\u2019s 120% Surge Highlights China\u2019s New AI Market Favorites",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2xGRzVRYmNPR1RydnZXQnp0RzFGWUpNRXZ2b01ETmI1TXdiTzRTUnVTeDRfS19KUlJ3OVljbVJZOFh3OFlINGtQOG85UF9NeU4wajF6Q000cXFVY2tsdndPU212UXdlUmF0TGFna0pmNTY2RUltY0dyVmxyVmxhQWpDVEFnQ1NFd2RpMDg2U1lCUm1xcU1SUEFxUlhFUVQwQ085WGZKVnFXbjBHWE9DMg?oc=5",
+      "published": "2026-02-13T04:06:00",
+      "sentiment_score": 0.761,
+      "sentiment_label": "Positive",
+      "confidence": 0.785
+    },
+    {
+      "headline": "UN approves 40-member scientific panel on the impact of artificial intelligence over US objections",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkliRThiLVJTZEZxOXNVZjBmS29uTzhmQWdVa2Mzam1pdHVQOE5vMmxwUXlveWFGMHdPdWFfRUwwWlY3MlFONUVhenlpNkc0Y1d4WmlicE01bnIwQm5telZXdEhPd3ZrSC0xTThhNEtIdHZDQlhnZ0hMVTM1WDRaRC1RNEhFNzZZOUFtSldwTWR1SlFZSUhBaVFJbUd4bWdNOE15SW0zRjI3Zw?oc=5",
+      "published": "2026-02-13T01:41:00",
+      "sentiment_score": 0.141,
+      "sentiment_label": "Neutral",
+      "confidence": 0.815
+    },
     {
       "headline": "AI coding platform's flaws allow BBC reporter to be hacked",
       "source": "BBC News",
@@ -235,15 +271,6 @@
       "sentiment_score": -0.842,
       "sentiment_label": "Negative",
       "confidence": 0.885
-    },
-    {
-      "headline": "Anthropic Is Valued at $380 Billion in New Funding Round",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjBXblVTQ3lkVnhqaDJwbVRCRExSbFJvNUV1LWhlN21mNVJxR1N4UlcxYW9KZ09DeXJmTVpKWWg1WTF6aDVrbG1VLUJFWVhKNXlCVTdkU2J3NDBNcF9SRGpSc2lDOVFUSkxfeDBNYWpVTzRfZDZRVlZPaHBTaG4zNmpCOEo5MHBRZkVfY1JpNGNWMmNZ?oc=5",
-      "published": "2026-02-12T22:38:03",
-      "sentiment_score": 0.106,
-      "sentiment_label": "Neutral",
-      "confidence": 0.87
     },
     {
       "headline": "OpenAI\u2019s President Gave Millions to Trump. He Says It\u2019s for Humanity",
@@ -273,22 +300,13 @@
       "confidence": 0.835
     },
     {
-      "headline": "Anthropic AI safety researcher quits with 'world in peril' warning",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUXJWZzZGczJLRXUzQTdvMFZnYTEtOE11UnJlSW04VkpYek84dWRYM2MwYkIzemlLb1huZVo3MWMzZUp2NVVoVVg5NFVienlRV08zbmNEaUFUdw?oc=5",
-      "published": "2026-02-12T12:21:10",
-      "sentiment_score": -0.899,
-      "sentiment_label": "Negative",
-      "confidence": 0.91
-    },
-    {
-      "headline": "AI safety leader says 'world is in peril' and quits to study poetry",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c62dlvdq3e3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-02-12T12:21:10",
-      "sentiment_score": -0.93,
-      "sentiment_label": "Negative",
-      "confidence": 0.94
+      "headline": "Anthropic to donate $20m to US political group backing AI regulation | Technology",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSTFzTDZWdnBQVDVVSzV2d1BCUUVlT29LYmpkQ3Y2WVZKTU94a3NZZVZwcEk1cnhaVlVxUFhlMmVIb19SQlRPSHBxSDU1bDhCTFR2QkdyM2J5cUVmcnEyamYwVVJWZDNYZ3RJVjhlNldyQzhmSUtQbTU4UUJWbDhTOXM2M0piaFdCTnRaUmpPbkRIa0R4dmJz?oc=5",
+      "published": "2026-02-12T17:15:00",
+      "sentiment_score": 0.121,
+      "sentiment_label": "Neutral",
+      "confidence": 0.852
     },
     {
       "headline": "Prince Harry thanks bereaved families taking on social media firms",
@@ -318,6 +336,42 @@
       "confidence": 0.886
     },
     {
+      "headline": "SoftBank Vision Fund books $2.4 billion quarterly gain boosted by OpenAI bet",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html",
+      "published": "2026-02-12T06:45:17Z",
+      "sentiment_score": 0.933,
+      "sentiment_label": "Positive",
+      "confidence": 0.955
+    },
+    {
+      "headline": "Asian shares are mostly higher following a strong US jobs report",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/stocks-markets-fed-jobs-profit-45f8d8df807d4b7ed9127afc4b5809c9",
+      "published": "2026-02-12T06:12:33Z",
+      "sentiment_score": -0.961,
+      "sentiment_label": "Negative",
+      "confidence": 0.97
+    },
+    {
+      "headline": "Zhipu leads rally in Chinese AI stocks, surging 30%, as a wave of new releases hits market",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/chinese-ai-stocks-new-model-and-agent-releases-zhipu-minimax.html",
+      "published": "2026-02-12T03:50:38Z",
+      "sentiment_score": 0.898,
+      "sentiment_label": "Positive",
+      "confidence": 0.935
+    },
+    {
+      "headline": "CNBC Daily Open: Better-than-expected U.S. jobs report and AI fears spook markets",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/cnbc-daily-open-better-than-expected-us-jobs-report-and-ai-fears-spook-markets.html",
+      "published": "2026-02-12T01:45:00Z",
+      "sentiment_score": -0.941,
+      "sentiment_label": "Negative",
+      "confidence": 0.959
+    },
+    {
       "headline": "Instagram boss says 16 hours of daily use is 'problematic' not addiction",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&at_campaign=rss",
@@ -325,15 +379,6 @@
       "sentiment_score": -0.741,
       "sentiment_label": "Negative",
       "confidence": 0.757
-    },
-    {
-      "headline": "Mount Sinai nurses approve new contract after monthlong strike in NYC",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/nyc-nurses-strike-union-contract-vote-ebbdde8347e98d7bf580a33fbeb31aba",
-      "published": "2026-02-11T23:53:29Z",
-      "sentiment_score": -0.938,
-      "sentiment_label": "Negative",
-      "confidence": 0.955
     },
     {
       "headline": "AI researchers are sounding the alarm on their way out the door | CNN Business",
@@ -352,15 +397,6 @@
       "sentiment_score": 0.029,
       "sentiment_label": "Neutral",
       "confidence": 0.897
-    },
-    {
-      "headline": "Cisco's stock drops 7% on mediocre forecast even as earnings and revenue top estimates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html",
-      "published": "2026-02-11T22:05:10Z",
-      "sentiment_score": -0.926,
-      "sentiment_label": "Negative",
-      "confidence": 0.957
     },
     {
       "headline": "OpenAI disbands mission alignment team, which focused on 'safe' and 'trustworthy' AI development | TechCrunch",
@@ -453,15 +489,6 @@
       "confidence": 0.697
     },
     {
-      "headline": "Okay, now exactly half of xAI's founding team has left the company | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/02/10/okay-now-exactly-half-of-xais-founding-team-has-left-the-company/",
-      "published": "2026-02-11T17:07:37Z",
-      "sentiment_score": -0.915,
-      "sentiment_label": "Negative",
-      "confidence": 0.926
-    },
-    {
       "headline": "'Artificial intelligence gave me my voice back'",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaEZWeC1PX0FkWWotSDJLNUZTMzkydlJsYVFMOVFsVDZWMlM0b196TVVzY1U1bVRnV3FBNUY1cXRjNFlEU002c3NSdnJTV3VnckdRSmVPU0hqQQ?oc=5",
@@ -478,15 +505,6 @@
       "sentiment_score": -0.956,
       "sentiment_label": "Negative",
       "confidence": 0.964
-    },
-    {
-      "headline": "Here are the brands bringing ads to ChatGPT",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
-      "published": "2026-02-11T16:08:03Z",
-      "sentiment_score": 0.066,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
     },
     {
       "headline": "OpenAI\u2019s Biggest Challenge Is Turning Its A.I. Into a Cash Machine",
@@ -507,15 +525,6 @@
       "confidence": 0.701
     },
     {
-      "headline": "Exclusive | OpenAI Executive Who Opposed \u2018Adult Mode\u2019 Fired for Sexual Discrimination - WSJ",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOWUdfVm1hYlMxVWpvWU1WcWNKQTFnRGp6ZDVkekhZY3ZxRy12OVFmVkMwNUZmY0c3V2g3VnV0S0o4aG5tQXFYd3R5VGVDN0w5bUNpMzF6Q1hiUmhwWFN4MUUwWU1aWFlPeGlMX1JVdDczMlJRNFpKVEpLa1ZuSGdITFFULWpUXzI5QjMwbTdiWHdoSTdzTjhZOEJiWGI3ZlUySnEwemp4RmRfZ21pSXRBb00xUnRuU0ZibWQzS3o1UGNxQnUwd1haUmpIZ2pXSHZta3lFX29CUVRCU0x5OVM4MEFBUTZJR0dPNU1qYUo2c21pQ2pWYkY0S21VTHpSM2pfUktwZmZCeUdoN1B2QnN6eDEyeGthSGJla2lxMTBnOC04QXJ5bDJnb1FnTC1TMFFReU5MZl91a295Yi1QbXpud0lObFUySXMwVFFNOGc5aFU0NC1BWlNCRFZReW1SdjJZV0dpR0hORGhKcW53U1Nqb3hIZEJ1Q1Jlb2g1Y1JXeDBhNjNGMEZKVmR2ckJEOV96OW1ma2FHUWNId21CU3RPLVFIWkhfT1pRWDlJcG9Fa3RpUQ?oc=5",
-      "published": "2026-02-11T00:00:00",
-      "sentiment_score": -0.917,
-      "sentiment_label": "Negative",
-      "confidence": 0.928
-    },
-    {
       "headline": "Apple and Google agree to change app stores after 'effective duopoly' claim",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
@@ -523,15 +532,6 @@
       "sentiment_score": 0.823,
       "sentiment_label": "Positive",
       "confidence": 0.836
-    },
-    {
-      "headline": "Inside OpenAI\u2019s Decision to Kill the AI Model That People Loved Too Much - WSJ",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxORlMwR3FpcUdUak9tTVhSNmUwSDJraTRhY2dtdlJtaHhUdll4VTdCT29aaW9RMzMyNk05RTNRSFUzWDhodV8zV1dZV2lPMWxWQVZHMnQ3aFlOQlNiM2JuMXBHSDFwZHY5ZUZ5aE1yaUltZm4wVnRCVTh3RnBpYlhCVE51bjZ2TENvN1VZUG5ycWUtMThzcWV5VDNEVDZNYzU5Z0JHUm9nV09oTFdNbjRLZk9rRmhCcmx5VG13NXlST1plSlFpbzhmeFRkZ0dKOFByQzVMRkRRZGx3NWFmbTFCVmFLdk52VzlxMm1lYXVFZGhTNUVOeWFUWGhUdlBuYTZWQXBNYnlzdlk0cFBtYjAwOGpQR25xa1lxb2FIUmhweWFxOEJiTnFRbzdLMU9ZVEEzZE4xZzI5WmVxYTVfZ1FiOTJJdUpGZHhXVVFSUGdoZEZTNHlaQ2dGdWoyVkdQak9CVG9DUjUzN1d3QQ?oc=5",
-      "published": "2026-02-10T03:00:00",
-      "sentiment_score": -0.103,
-      "sentiment_label": "Neutral",
-      "confidence": 0.795
     },
     {
       "headline": "ChatGPT rolls out ads",
