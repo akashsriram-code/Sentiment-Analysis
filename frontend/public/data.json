@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-13T18:36:08.490545",
-  "total_articles": 56,
-  "overall_sentiment": -0.229,
+  "last_updated": "2026-02-14T01:14:16.137687",
+  "total_articles": 58,
+  "overall_sentiment": -0.155,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -123,10 +123,10 @@
     },
     {
       "date": "2026-02-09",
-      "avg_sentiment": -0.075,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": -0.077,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 1,
       "neutral_count": 1,
       "moving_avg": -0.275
     },
@@ -137,11 +137,11 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.161
+      "moving_avg": -0.162
     },
     {
       "date": "2026-02-11",
-      "avg_sentiment": -0.585,
+      "avg_sentiment": -0.588,
       "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
@@ -150,85 +150,115 @@
     },
     {
       "date": "2026-02-12",
-      "avg_sentiment": -0.262,
-      "article_count": 19,
-      "positive_count": 5,
-      "negative_count": 9,
-      "neutral_count": 5,
-      "moving_avg": -0.274
+      "avg_sentiment": -0.085,
+      "article_count": 21,
+      "positive_count": 7,
+      "negative_count": 7,
+      "neutral_count": 7,
+      "moving_avg": -0.25
     },
     {
       "date": "2026-02-13",
-      "avg_sentiment": -0.306,
-      "article_count": 9,
-      "positive_count": 3,
+      "avg_sentiment": -0.222,
+      "article_count": 10,
+      "positive_count": 4,
       "negative_count": 6,
       "neutral_count": 0,
-      "moving_avg": -0.184
+      "moving_avg": -0.148
+    },
+    {
+      "date": "2026-02-14",
+      "avg_sentiment": -0.03,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.083
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.308,
-      "article_count": 28,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.248,
-      "article_count": 7,
+      "avg_sentiment": -0.288,
+      "article_count": 27,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.303,
-      "article_count": 6,
+      "avg_sentiment": 0.137,
+      "article_count": 9,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.102,
+      "article_count": 9,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": 0.042,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.076,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.911,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": 0.879,
+      "avg_sentiment": 0.069,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.006,
+      "avg_sentiment": -0.012,
       "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
-      "headline": "OpenAI removes access to sycophancy-prone ChatGPT-4o model",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVpabmdRNU1fNE1JbVliSUJQSGNaOVBJT0RIeDJwSnVxcEYtRzNSdkYxVGIwaGNKbjVaV2xjdktLLUhmWlVuLXlyMzdzNmlLRVZEcVhuSkFIbjJ1YTVoMWNPUW1WQks2NFFKZGVsSHBrMVB6dzQ0WnFSVTJ1M2dtTF9ndEJoczNWTEF0UE9ZUVhFSzAy?oc=5",
-      "published": "2026-02-13T18:10:00",
-      "sentiment_score": -0.474,
+      "headline": "Opinion | The covid reality check for AI hype",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWG1odkljc090bXF0MVA4akRkMFNuOVZ2dndyTy1wX0ZRR2R4bWJEZEdRdVk3UWd4SmR4TkotWGhySTJLZWVNbWRTeExPQXBKUnd1Q0p5YVlOV1RHY29qcUJSbXFyVGtHZnJEMjN1TVJ4dHBtVzZBeFZBWTNydC02d25sT0hNWnRrYlJsQW5jQlRZUC1jSkoxTWpYUGo?oc=5",
+      "published": "2026-02-14T00:24:53",
+      "sentiment_score": -0.03,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
+      "headline": "Anthropic got an 11% user boost from its OpenAI-bashing Super Bowl ad, data shows",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EN1pmbWFFaWtaeFZONE5RMkVqYnJGTldzVkJ6RjR2b3pMVDBxTjFlWFVWb1JaXzh1UVI2YmxoZng5SlpJdnJ5b05TOTYtR0hiWjZ4c3M3eURvT3BxWGlmMFVoSVZKSFNXYUpSSmZTNVlyeWlMajZietIBfkFVX3lxTE4wVVlucll0Mm13VFJteV90dy1DS29Qd3dFOVdoZ0k4cnhqbTNkSEVBM0hFaWh0NUthOHpmeTBpVmM3YWt6ZDhNU3VpZDR1R183d1Y1UzQ4R0xBRm1aa1JheWIzcnhNUmd5cURXSUxhU2FyY05FYjJZT1Axa1ZDdw?oc=5",
+      "published": "2026-02-13T22:45:48",
+      "sentiment_score": 0.916,
+      "sentiment_label": "Positive",
+      "confidence": 0.932
+    },
+    {
+      "headline": "OpenAI Is Nuking Its 4o Model. China\u2019s ChatGPT Fans Aren\u2019t OK",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTBkZEF0SlRSeXk0WTEyMkhueE9HZlM5NklxY29KdTZHYUNjc0lRWnh4dlFadWs0dlBnM0xqM2hCYWZGWk9hdVdUR0xRdGNId1c0b1BPNzdDUm1ncDNzcUtaVXVEeFAzV1N2ZVl2dWU4emNRM3ZTc25DNVhhRVNyOFhLUE9OZw?oc=5",
+      "published": "2026-02-13T21:56:00",
+      "sentiment_score": -0.479,
       "sentiment_label": "Negative",
-      "confidence": 0.509
+      "confidence": 0.508
     },
     {
       "headline": "OpenAI Tapped for Voice Control Tech in US Drone Swarm Challenge",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE4yQ2wwYlV5eXBjTUJVcW1yNVpNVVBtenQ5LVVhOE5qd1V6MlVQSVNsYnVJbXZ3ZUVOZ2lxSnZHa21HRGpwaHJCMVlMYkJEN0JFLXBLRzZ1VThkZnBjandxUUhpSGNmMUU2RmlYOHlzaHZiaTB0QmJLWVRNcEl2RDBLb1ItbDU4T2QyQkNUYnljcURMZ2JtbGNlWWIzRGdxNjREZy1zcXhaSTFSZTFmalVFOF9kZw?oc=5",
-      "published": "2026-02-13T18:06:00",
+      "published": "2026-02-13T21:18:54",
       "sentiment_score": 0.154,
       "sentiment_label": "Neutral",
       "confidence": 0.817
+    },
+    {
+      "headline": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1VCUHZQalBYQ21NSUs1TEwteXh2b1g4cmw2VXp1ejZXbE45eEZLQk9hYVEyUF9IZHFneGw1TDk0UGh0bW5sQlFMb3FZLUJSTUV1QWRmeWRBMEhLdHhVMmplZUpXbnhqMFIzc0NBVjNwZE01dS1tQVU1eW1tRC0tMHh5NFpyYkhVSlRFUEZzNzg5X1U?oc=5",
+      "published": "2026-02-13T18:10:00",
+      "sentiment_score": -0.499,
+      "sentiment_label": "Negative",
+      "confidence": 0.535
     },
     {
       "headline": "AI disruption could spark a \u2018shock to the system\u2019 in credit markets, UBS analyst says",
@@ -249,19 +279,10 @@
       "confidence": 0.895
     },
     {
-      "headline": "Elon Musk suggests spate of xAI exits have been push, not pull",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDhDQjBJRzNXRWc5YkU3YlZLNVhrNjVKSnJiNDJfNmJrMjZYaWUyZmR6R3lyaHpVbVBheHdkbTdpMm5KSzdwSmNlcXZ5enl0VFdtYmpnY3g1TjZZN0tvY244S3lmMkJVemNRZG1Od0pMWWY0S2hYSG1pOWVHYjZkQmdzbmh6bXpUOUEyR21hcXoxaDZ0dTQyQVRDRWc?oc=5",
-      "published": "2026-02-13T16:11:01",
-      "sentiment_score": -0.125,
-      "sentiment_label": "Neutral",
-      "confidence": 0.809
-    },
-    {
       "headline": "From edge devices to enterprise security, an engineer\u2019s vision for trustworthy machine learning is setting new benchmarks",
       "source": "The Guardian Nigeria News",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPenZ2WnNNbjZUVG9CeUw1TlZKVGsxS3V5Y0toWVM0REtWempuN0I0ZUlESkRqLXFEdUtsci0tRVNPN2tpOTJVNERTMDJnU3NFdWt4RU9kM1gwamdWOEVoQTROVkxFQkQ2QklMOU9GNEpSTWlXc0s0V1ZYVGN5M3ZQRjl6TnFRdnZyel9QRTRvZldkd25VSDNMRUhER3hQeGVGMXVUMG1YTUduSVRLaEJOOEhmNnN2Z0lnNmdsam5mUnBhRnJaaEFlN0RMa1d5Qi1ESXQ2N3BtdWJBdVo3RUFVM1NuODA?oc=5",
-      "published": "2026-02-13T15:33:29",
+      "published": "2026-02-13T15:42:00",
       "sentiment_score": 0.262,
       "sentiment_label": "Neutral",
       "confidence": 0.716
@@ -294,13 +315,112 @@
       "confidence": 0.761
     },
     {
-      "headline": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckFwYVpyeVdVUFdHLXBULXJwTThrN2o2QjdfWmloOTZsMm9vcGpYamwteDdzbjA1TDIyX3FkZ0JEb1AwUjBDYVQ1R3ZyU2ZUNm5iNkNTdEtLdjRFSEdwM3I1TGFmUlhYVjNXZ0JJWDU2MjVXU0FOSFl1OUFkbVRKa0NJRzFxMG9oa0kza3VNVnVENHFJbFNCaEludnpLNTlVMUNVa0lUdE1fTlhHUmp6R1k4bkE?oc=5",
-      "published": "2026-02-12T23:26:56",
-      "sentiment_score": -0.842,
+      "headline": "Asia-Pacific markets set to fall, tracking AI-fuelled losses on Wall Street",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/13/asia-markets-live-today-friday-nikkei-kospi-hang-seng-ai-fears.html",
+      "published": "2026-02-12T23:51:09Z",
+      "sentiment_score": -0.964,
       "sentiment_label": "Negative",
-      "confidence": 0.885
+      "confidence": 0.973
+    },
+    {
+      "headline": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+      "published": "2026-02-12T23:27:45Z",
+      "sentiment_score": -0.94,
+      "sentiment_label": "Negative",
+      "confidence": 0.959
+    },
+    {
+      "headline": "IBM\u00a0will hire your entry-level talent in the age of AI | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+      "published": "2026-02-12T23:25:45Z",
+      "sentiment_score": 0.082,
+      "sentiment_label": "Neutral",
+      "confidence": 0.855
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/stock-market-today-live-updates.html",
+      "published": "2026-02-12T23:08:04Z",
+      "sentiment_score": -0.966,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
+    },
+    {
+      "headline": "A deepening fuel crisis batters Cuba",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/programmes/w172zsskzv3dhc8",
+      "published": "2026-02-12T22:19:00Z",
+      "sentiment_score": -0.933,
+      "sentiment_label": "Negative",
+      "confidence": 0.945
+    },
+    {
+      "headline": "Airbnb reports fourth-quarter results that beat on revenue",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/q4-airbnb-abnb-earnings-2025.html",
+      "published": "2026-02-12T21:19:43Z",
+      "sentiment_score": 0.577,
+      "sentiment_label": "Positive",
+      "confidence": 0.759
+    },
+    {
+      "headline": "Instacart stock pops 14% on revenue beat, rosy guidance",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/instacart-cart-q4-2025-earnings.html",
+      "published": "2026-02-12T21:16:49Z",
+      "sentiment_score": 0.925,
+      "sentiment_label": "Positive",
+      "confidence": 0.947
+    },
+    {
+      "headline": "Didero lands $30M to put manufacturing procurement on \"agentic\" autopilot | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+      "published": "2026-02-12T20:33:59Z",
+      "sentiment_score": 0.042,
+      "sentiment_label": "Neutral",
+      "confidence": 0.93
+    },
+    {
+      "headline": "Anthropic raises another $30 billion in series G, with a new value of $380 billion | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+      "published": "2026-02-12T20:22:13Z",
+      "sentiment_score": 0.693,
+      "sentiment_label": "Positive",
+      "confidence": 0.701
+    },
+    {
+      "headline": "AWS CEO Garman says software AI fears are 'overblown'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/aws-ceo-garman-software-ai-fears.html",
+      "published": "2026-02-12T20:15:48Z",
+      "sentiment_score": 0.838,
+      "sentiment_label": "Positive",
+      "confidence": 0.907
+    },
+    {
+      "headline": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html",
+      "published": "2026-02-12T19:00:35Z",
+      "sentiment_score": 0.74,
+      "sentiment_label": "Positive",
+      "confidence": 0.787
+    },
+    {
+      "headline": "OpenAI\u2019s President Gave Millions to Trump. He Says It\u2019s for Humanity",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
+      "published": "2026-02-12T19:00:00Z",
+      "sentiment_score": 0.037,
+      "sentiment_label": "Neutral",
+      "confidence": 0.832
     },
     {
       "headline": "Spotify says its best developers haven't written a line of code since December, thanks to AI | TechCrunch",
@@ -312,15 +432,6 @@
       "confidence": 0.914
     },
     {
-      "headline": "Trucking and logistics stocks drop on release of AI freight scaling tool",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/12/trucking-and-logistics-stocks-tumble-on-release-of-ai-freight-scaling-tool.html",
-      "published": "2026-02-12T18:14:18Z",
-      "sentiment_score": -0.959,
-      "sentiment_label": "Negative",
-      "confidence": 0.968
-    },
-    {
       "headline": "A new version of OpenAI's Codex is powered by a new dedicated chip | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
@@ -328,24 +439,6 @@
       "sentiment_score": 0.604,
       "sentiment_label": "Positive",
       "confidence": 0.612
-    },
-    {
-      "headline": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-      "published": "2026-02-12T17:37:06Z",
-      "sentiment_score": -0.545,
-      "sentiment_label": "Negative",
-      "confidence": 0.569
-    },
-    {
-      "headline": "Share values of property services firms tumble over fears of AI disruption",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVrWEpPYzM1MDJONno2VEF5M0pjQ3ZlSkNfejRQRkFNZ3MxYjVOc0lnOUNQeWJXUXgzekdKeGZOV2ZGSmRJamVfS1dYYlBJeXlJZjY5SjllaWV4VHVoeUIyNjU4R3lNcDFhRm42b0F5SDlfZmt5OXlOSmhCb3JpNGVfakRqYlhtZE9HU1pZVjZJbTFDdWZQbFlfYm40VjNuOHZvdHhLUEs4T2lNOS11SEh4M1ZTazFCWEFwLXA5X05aWlU?oc=5",
-      "published": "2026-02-12T17:33:00",
-      "sentiment_score": -0.942,
-      "sentiment_label": "Negative",
-      "confidence": 0.952
     },
     {
       "headline": "The surprising case for AI judges",
@@ -357,33 +450,6 @@
       "confidence": 0.924
     },
     {
-      "headline": "Rafale fighter jets and maritime patrol aircraft: India eyes strategic air power upgrade",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/rafale-france-macron-modi-p8i-us-india-3034e3f1026418206eaaa7b10a620bf4",
-      "published": "2026-02-12T15:45:32Z",
-      "sentiment_score": 0.848,
-      "sentiment_label": "Positive",
-      "confidence": 0.861
-    },
-    {
-      "headline": "Electricity prices are rising by double the rate of inflation. Data center demand means no relief ahead",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/12/electricity-price-data-center-ai-inflation-goldman.html",
-      "published": "2026-02-12T15:45:31Z",
-      "sentiment_score": -0.923,
-      "sentiment_label": "Negative",
-      "confidence": 0.939
-    },
-    {
-      "headline": "ByteDance\u2019s next-gen AI model can generate clips based on text, images, audio, and video",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
-      "published": "2026-02-12T15:31:49Z",
-      "sentiment_score": 0.103,
-      "sentiment_label": "Neutral",
-      "confidence": 0.877
-    },
-    {
       "headline": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
@@ -391,24 +457,6 @@
       "sentiment_score": -0.048,
       "sentiment_label": "Neutral",
       "confidence": 0.799
-    },
-    {
-      "headline": "Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html",
-      "published": "2026-02-12T12:42:07Z",
-      "sentiment_score": 0.202,
-      "sentiment_label": "Neutral",
-      "confidence": 0.771
-    },
-    {
-      "headline": "AI researcher says 'world is in peril' and quits to study poetry",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c62dlvdq3e3o",
-      "published": "2026-02-12T12:21:10Z",
-      "sentiment_score": -0.93,
-      "sentiment_label": "Negative",
-      "confidence": 0.939
     },
     {
       "headline": "Prince Harry thanks bereaved families taking on social media firms",
@@ -438,22 +486,13 @@
       "confidence": 0.963
     },
     {
-      "headline": "Opinion | Anthropic\u2019s Chief on A.I.: \u2018We Don\u2019t Know if the Models Are Conscious\u2019",
+      "headline": "Opinion | Anthropic\u2019s Chief on A.I.: \u2018We Don\u2019t Know if the Models Are Conscious\u2019 - The New York Times",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWhTaVhtLXZNSW9JcHRqd242aC0xNWNZSlZPczJSR2dNNS13RDFzR0FMMk4wcUJjUkt4alltTFhhQk5VbWdKT2RzdzVpa0EzbzFycVNiTWhsTC1Zb2t3RkNEZW8weVY5bkNDVkhtMDMzNVA5aVBQdVZ6Y3phazNEbXVQUnFGWGJMUk1zaGYwYjVqQQ?oc=5",
       "published": "2026-02-12T10:06:28",
-      "sentiment_score": -0.048,
+      "sentiment_score": -0.05,
       "sentiment_label": "Neutral",
-      "confidence": 0.886
-    },
-    {
-      "headline": "Japanese tech conglomerate SoftBank returns to profit from previous year",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/softbank-ai-technology-japan-112f963825bb5409c937a4ac861f9811",
-      "published": "2026-02-12T09:17:27Z",
-      "sentiment_score": 0.909,
-      "sentiment_label": "Positive",
-      "confidence": 0.944
+      "confidence": 0.88
     },
     {
       "headline": "Instagram boss says 16 hours of daily use is 'problematic' not addiction",
@@ -474,13 +513,13 @@
       "confidence": 0.892
     },
     {
-      "headline": "OpenAI\u2019s Biggest Challenge Is Turning Its A.I. Into a Cash Machine",
+      "headline": "OpenAI\u2019s Biggest Challenge Is Turning Its A.I. Into a Cash Machine - The New York Times",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHNzdGo4UUlDWVgyck5fY2lGYVlzWFF2UmlPY2x2TVRsZnJHbUE2dVpnTHBaSDVkWTdIcU9lS0dLN3puZTMtbFpWWHp6aFNzZmlRTTVYcXFva0N1T05ELTVSa1RMSXRKTEZIN1BnUlhQTnd6WHRrZGpNbmVHbkdkNA?oc=5",
       "published": "2026-02-11T16:01:22",
-      "sentiment_score": 0.037,
+      "sentiment_score": 0.026,
       "sentiment_label": "Neutral",
-      "confidence": 0.874
+      "confidence": 0.88
     },
     {
       "headline": "OpenAI policy exec who opposed chatbot's 'adult mode' reportedly fired on discrimination claim",
@@ -510,15 +549,6 @@
       "confidence": 0.932
     },
     {
-      "headline": "AI chatbots pose 'dangerous' risk when giving medical advice, study suggests",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c3093gjy2ero?at_medium=RSS&at_campaign=rss",
-      "published": "2026-02-09T16:33:29",
-      "sentiment_score": -0.842,
-      "sentiment_label": "Negative",
-      "confidence": 0.858
-    },
-    {
       "headline": "OpenAI will reportedly start testing ads in ChatGPT today",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xdDI3WVluTk5Vbi1tRjRrNlVPU1NTc0tJYmRkX2prZG1ibGRRaEpLenFpS1ZMYktFbll2a0plWHFYMXpCMDJYS0Z4UUtlTG5Fc0txVFJ3TXA2Vy1sTGJEMFFfMW8yV0RMUFNjX0J1Vkh0QmFOdnc?oc=5",
@@ -526,15 +556,6 @@
       "sentiment_score": 0.124,
       "sentiment_label": "Neutral",
       "confidence": 0.852
-    },
-    {
-      "headline": "Sam Altman touts ChatGPT's reaccelerating growth to employees as OpenAI closes in on $100 billion funding",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXNackVhalppODhqOXNZVFppT0p6VkYzSXlvcVFYbldRRTJnQUF1d3V6M1M5ZW9sOV9aeDcyd1FIVEpCb3ZnVjZZUFRXbEhWc0pJelBROU43cktjUi13Sk1VNllQSTJpcnpfd01ISEIxMWxJYWc2eWpCZEpGeVFCakszZ0xleHFJTEN4OGtuajJNNFRrLWtBX0ZNTE91Z0dKb3AxdmVia9IBrAFBVV95cUxORjFuMklBQ0RKdmdwTXhtNHBXNVd0enVTaUlaWXRodVd5eG1UVEJpOVRfR0FYajY5VG1HV2NNUF90NGxoSHM4ZjBZSmE2Z2JoZTBKekdsQnd4QXFrX1o1VHJKaklLbk9sT0VUNVZfa2VVdXE3aU1EQVp1VWV3N1NaWl9fbnZzbC1wRVJKMVF4ZEVxckl0NjBQaWlVQ1QtRFQtOV90Ujg4Um1oN3BU?oc=5",
-      "published": "2026-02-09T13:00:01",
-      "sentiment_score": 0.699,
-      "sentiment_label": "Positive",
-      "confidence": 0.729
     },
     {
       "headline": "EU tells Meta to let rivals run AI chatbots on WhatsApp",
