@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-20T01:14:20.717153",
-  "total_articles": 48,
-  "overall_sentiment": -0.06,
+  "last_updated": "2026-02-20T06:45:05.377389",
+  "total_articles": 50,
+  "overall_sentiment": -0.062,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -105,50 +105,71 @@
     },
     {
       "date": "2026-02-17",
-      "avg_sentiment": 0.207,
-      "article_count": 5,
+      "avg_sentiment": 0.44,
+      "article_count": 4,
       "positive_count": 3,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.211
+      "moving_avg": -0.178
     },
     {
       "date": "2026-02-18",
-      "avg_sentiment": 0.06,
-      "article_count": 14,
-      "positive_count": 8,
-      "negative_count": 5,
+      "avg_sentiment": 0.034,
+      "article_count": 8,
+      "positive_count": 4,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.32
+      "moving_avg": -0.29
     },
     {
       "date": "2026-02-19",
-      "avg_sentiment": -0.008,
-      "article_count": 13,
-      "positive_count": 8,
-      "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.196
+      "avg_sentiment": 0.031,
+      "article_count": 16,
+      "positive_count": 9,
+      "negative_count": 5,
+      "neutral_count": 2,
+      "moving_avg": -0.16
+    },
+    {
+      "date": "2026-02-20",
+      "avg_sentiment": -0.162,
+      "article_count": 6,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 2,
+      "moving_avg": -0.066
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.239,
-      "article_count": 23,
+      "avg_sentiment": -0.274,
+      "article_count": 24,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.513,
-      "article_count": 7,
+      "source": "CNBC",
+      "avg_sentiment": 0.069,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.035,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.548,
       "article_count": 5,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": 0.283,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": 0.053,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
@@ -157,31 +178,67 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "Bloomberg.com",
-      "avg_sentiment": 0.086,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.399,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Wired",
       "avg_sentiment": -0.033,
       "article_count": 2,
       "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.304,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMUVnOHNUUGQxWGF2SzdkU0pRekhrQm83RGFIeWtsMkVXbllTcEVHMS1ERzBrYlR5eWlWcUJSMWdsYXB3dFJCYXBPQ2hJNU9YSDYxbjdBNTNybWF2c0J6Tm1OU3NldlFTa3dtb0hkMG5kcnVpTzVYLXFDaXpOMUV5MUxRdTVGQQ?oc=5",
+      "published": "2026-02-20T06:10:17",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "Starmer 'appeasing' big tech firms, says online safety campaigner",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-02-20T06:03:06",
+      "sentiment_score": -0.871,
+      "sentiment_label": "Negative",
+      "confidence": 0.886
+    },
+    {
+      "headline": "China AI Startups Surge After Holiday in Rotation From Big Tech",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdW9ZY19hVjNqcmNCdWFoUFduWG1TWEZHa1VheDdzendubzJLLVRnRjZTUWRTSS1kTTdCTmd2d2VzRnVkY1ExeXBpdGdPNEFnTW5MREd5LXR3VHV3ZTR6VmxJYTZ3WkZkaUhpM1NiN0hoSlFJMkNITDMwOTVyb1VfSjVNa3VsaUFpNEtzRlJhbnlYM2lodjRPSUxmU3hmQU1QcnJDbGMxOXA2bHpHZEdxREE1WW8?oc=5",
+      "published": "2026-02-20T04:04:00",
+      "sentiment_score": 0.678,
+      "sentiment_label": "Positive",
+      "confidence": 0.784
+    },
+    {
+      "headline": "The evolution of artificial intelligence",
+      "source": "Thomson Reuters tax",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDhxWUpFZ0xBT3VCSWxXOFJDVGtFTjNLUEFjVWg3aEtDSm1uRjNmdENORWFKd09DT2dWOWEzbDExVlhJaDh3Q214b3diNUlNVEhiSW45cUNhamlVRnhvWUsyM1h2TjJpWWc5NjN5dzA4dG54XzlmblpIRzRtRTMwMmpGOA?oc=5",
+      "published": "2026-02-20T03:38:50",
+      "sentiment_score": 0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.946
+    },
+    {
+      "headline": "Modi pitches India as an artificial intelligence hub at the AI summit",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjg5WmJxWWMtRGZ3M1Z2Zm8wS1E5YXY2a2Y0aHNqeTZ5X2F5ald1Q2FXMlR0TVZ0d1lCS1NNLVF3UGUwc2x0VFhweGFJZ0NRSHJ4NUN6NlVacUh5LXR5RFdHU1pzSkd1RnFjTVp6OTR6VnFhTnMtVzViTGNsdHpNS0JhV0x6VE9zMHk3MFdiQXVPa0hVSWpxTFo4S1E0bzlSVVB1RHJhVQ?oc=5",
+      "published": "2026-02-20T03:26:00",
+      "sentiment_score": 0.166,
+      "sentiment_label": "Neutral",
+      "confidence": 0.795
+    },
+    {
+      "headline": "Nasa boss says Boeing Starliner failure one of worst in its history",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-02-20T01:44:48",
+      "sentiment_score": -0.939,
+      "sentiment_label": "Negative",
+      "confidence": 0.951
+    },
     {
       "headline": "ChatGPT ads in the wild.",
       "source": "The Verge",
@@ -202,12 +259,12 @@
     },
     {
       "headline": "Microsoft error sees confidential emails exposed to AI tool Copilot",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c8jxevd8mdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5paWdoSzFTSmRkYURUU2J2VDFROF9zd1ZVVjd2WHczYjFBdnMxandIemYwN3B4QjFvamRlYlN3TURuSDlUMWVMSGppb0IxRXZBOVowelhMMjgzQQ?oc=5",
       "published": "2026-02-19T18:16:43",
-      "sentiment_score": -0.743,
+      "sentiment_score": -0.675,
       "sentiment_label": "Negative",
-      "confidence": 0.758
+      "confidence": 0.691
     },
     {
       "headline": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
@@ -217,15 +274,6 @@
       "sentiment_score": 0.079,
       "sentiment_label": "Neutral",
       "confidence": 0.893
-    },
-    {
-      "headline": "Modi pitches India as global artificial intelligence hub at AI summit",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjg5WmJxWWMtRGZ3M1Z2Zm8wS1E5YXY2a2Y0aHNqeTZ5X2F5ald1Q2FXMlR0TVZ0d1lCS1NNLVF3UGUwc2x0VFhweGFJZ0NRSHJ4NUN6NlVacUh5LXR5RFdHU1pzSkd1RnFjTVp6OTR6VnFhTnMtVzViTGNsdHpNS0JhV0x6VE9zMHk3MFdiQXVPa0hVSWpxTFo4S1E0bzlSVVB1RHJhVQ?oc=5",
-      "published": "2026-02-19T15:28:00",
-      "sentiment_score": 0.168,
-      "sentiment_label": "Neutral",
-      "confidence": 0.793
     },
     {
       "headline": "OpenAI, Reliance partner to add AI search to JioHotstar",
@@ -238,12 +286,21 @@
     },
     {
       "headline": "ByteDance Building Out Artificial Intelligence Team in US",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTVJb2dqRWZtQzZKZVVtT29oOVNnYUEwWEJvZjRLWEJsaDAzVXNwZExwUTBPMEh6UGVlYllSU1Z2YW1Ed3g1QlliLVRXNzUwNHViY3BUZDBBc0hKLWhYcEhfLXI4VFBsaGt5OW1Kb01PMUx5MFpad3VVdmNSNHJxWjc2QjV1YjNXdjV0cTFmRUs2NUowQmFkSFVraERQandxaV9tY0lQZ3piNnl3?oc=5",
       "published": "2026-02-19T13:00:00",
       "sentiment_score": 0.063,
       "sentiment_label": "Neutral",
       "confidence": 0.908
+    },
+    {
+      "headline": "OpenAI and Anthropic\u2019s rivalry on display as CEOs avoid holding hands at AI summit",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGU2QnBwMERWME02LVFTMjlLbmlac3VQMmNwV1d0WjZxaUdYVEdoT3FtVElfTWotLWRubmhoRWlVcWN2dk1RZzdXdXdmN3Ryem1fWVhGXzlRd01veWxyN0E2S3FSYnNoVUMtR2t6S0dlY3V2SzV0S3FUaEVzODlhdVVITkVwZnNKTFE4aWJHVU5RWVR2WktsZ9IBngFBVV95cUxPb1pVU3hrYjBCZjZjNGtMZ3NlR0xkc1dNck1MYm5UYWtBWmdnTkZaMDdnSHVLTTAzUUIzTERfeVFFU0dOQmNwa0UzSkpZX1RZakJ1VURRTXpoR0RWYllIQ3VZYWxuc3RkWXEzemcwNUl6anhEM0NlSXI3LWlrWnA3RFowYlpMNkNmczRod05OMDBwY3lwbXFLMjhNbV9rdw?oc=5",
+      "published": "2026-02-19T11:03:25",
+      "sentiment_score": -0.481,
+      "sentiment_label": "Negative",
+      "confidence": 0.508
     },
     {
       "headline": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
@@ -255,31 +312,31 @@
       "confidence": 0.945
     },
     {
-      "headline": "Money Talks as India Searches for Its Place in Global A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53bmRXM0xta1h3WFEtb21wMU5TdFl4VHBSNzBncURHTjJ5WlJudG16UUR1VWFnV0JJNDJLUWJmcFVlR3BTaXlWd00tZHN3SWVUa3RiNGppVEswc2hfSmFRNGlvdU1qZ2g1UXp3MWR6emt3eV9jeWhBUXJYZw?oc=5",
-      "published": "2026-02-19T07:29:05",
-      "sentiment_score": 0.081,
-      "sentiment_label": "Neutral",
+      "headline": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+      "published": "2026-02-19T05:35:03Z",
+      "sentiment_score": 0.866,
+      "sentiment_label": "Positive",
       "confidence": 0.873
     },
     {
-      "headline": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3lQMUZPSG1lWG5tVUJKZVp4Y1NTcnZfVDdvZHp4b3o1UEhqdjdUSmdVSXUxYU56YVJ3bzhNUTRpZ3dsanowUlI2VEo0M0RtTmxOYldPaGhMNUhyeF83ZDdiMVVoaVNIWF92TWpxV3VmdzVRaC1kYXMzSGF5RzltY2hzWVZzTHBnSnFReDhseDRmQ2VZRUdtYVVidGFFUW9hTVBBemRR?oc=5",
-      "published": "2026-02-19T05:34:25",
-      "sentiment_score": 0.591,
-      "sentiment_label": "Positive",
-      "confidence": 0.607
+      "headline": "Walmart will report earnings before the bell. Here's what to expect",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/19/walmart-wmt-q4-2026-earnings.html",
+      "published": "2026-02-19T05:01:01Z",
+      "sentiment_score": -0.022,
+      "sentiment_label": "Neutral",
+      "confidence": 0.861
     },
     {
-      "headline": "OpenAI deepens India push with Pine Labs fintech partnership",
+      "headline": "OpenAI deepens India push with Pine Labs fintech partnership | TechCrunch",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHZsMndmZmU1YlRkSlRmR25JU21haEhodTZvbDNKem1vVnRRVi1rRXQwb3l6UnFkS1YteG5Nc2Q3a3h5TXlSSFRQd0FwVlZzajh3NFpoXy1zeElEUkdnb2I2UE9ObjF0VDhOMTExaE1PZlJrMmpZamg1aDlIVU1qTG5VV0hEaWQ2T1NSa01OUHFmaDRHXzhRZ0R0dw?oc=5",
-      "published": "2026-02-19T03:30:00",
-      "sentiment_score": 0.691,
+      "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+      "published": "2026-02-19T03:31:01Z",
+      "sentiment_score": 0.792,
       "sentiment_label": "Positive",
-      "confidence": 0.706
+      "confidence": 0.803
     },
     {
       "headline": "Zuckerberg defends Meta in landmark social media addiction trial",
@@ -291,6 +348,15 @@
       "confidence": 0.71
     },
     {
+      "headline": "Saudi's Humain invested $3 billion in xAI's Series E funding round",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/19/saudis-humain-invested-3-billion-in-xais-series-e-funding-round.html",
+      "published": "2026-02-19T03:17:43Z",
+      "sentiment_score": 0.656,
+      "sentiment_label": "Positive",
+      "confidence": 0.664
+    },
+    {
       "headline": "India's Tata signs up OpenAI as customer for data centre business",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjV1YVkyZG9GMEk2UXdEZnJYejA2QUJsdUR3ZGpldDBwbzVhbkN3Z19QblZSR1VuaC0zOXc4Wmc3RFVPbXFncFZWMVhCVC1CWFFoS3UyeGt3Tm5KdEY1X01uVlNQSng0TkhWZFRNVTFjMFBlUXNnejlhYVBtYnZZQjYtWUpOY1hSSmVfWG8zMlpMaUE5VThmX1J2U2M2WnJjel8wT3Y2ZXNzX3A2eGNz?oc=5",
@@ -300,22 +366,22 @@
       "confidence": 0.67
     },
     {
-      "headline": "FDA drug approvals: Makary and Prasad say one study will be enough",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/fda-drug-approval-studies-makary-prasad-a5aaa5501ae15f264bbd20d0dffa4dc4",
-      "published": "2026-02-18T22:12:13Z",
-      "sentiment_score": -0.401,
+      "headline": "Nicki Minaj Shares AI-Generated Photos With Trump",
+      "source": "Hip-Hop Wired",
+      "link": "https://hiphopwired.com/3046108/nicki-minaj-shares-ai-generated-photos-with-trump/",
+      "published": "2026-02-19T02:39:41Z",
+      "sentiment_score": 0.067,
       "sentiment_label": "Neutral",
-      "confidence": 0.526
+      "confidence": 0.904
     },
     {
-      "headline": "Doordash falls 8% on lackluster fourth-quarter results",
+      "headline": "CNBC Daily Open: Traders are betting for a rate cut \u2014 but a hike could be on the table",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/18/doordash-dash-q4-2025-earnings.html",
-      "published": "2026-02-18T21:28:54Z",
-      "sentiment_score": -0.958,
-      "sentiment_label": "Negative",
-      "confidence": 0.97
+      "link": "https://www.cnbc.com/2026/02/19/cnbc-daily-open-traders-are-betting-for-a-rate-cut-but-a-hike-could-be-on-the-table.html",
+      "published": "2026-02-19T01:20:41Z",
+      "sentiment_score": 0.175,
+      "sentiment_label": "Neutral",
+      "confidence": 0.499
     },
     {
       "headline": "The biggest app in the whole wide world",
@@ -354,17 +420,8 @@
       "confidence": 0.902
     },
     {
-      "headline": "Anthropic is clashing with the Pentagon over AI use. Here's what each side wants",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/18/anthropic-pentagon-ai-defense-war-surveillance.html",
-      "published": "2026-02-18T18:01:14Z",
-      "sentiment_score": 0.258,
-      "sentiment_label": "Neutral",
-      "confidence": 0.657
-    },
-    {
       "headline": "Google Gemini, Apple Add Music-Focused Generative AI Features",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGZIamYwcnV0NjVXMEZveUxHRTJtT19ndkRuOGNrV3NKbWpxbmIzbE5PR18wOWo4R2puRTNjcGRfWXowY05paklucGowLXBnRDlYT0dsVmRDdG1KM3NSaHBpbEJ3X3dNaXlnTWxKYlRiR3FJQ2Z0RkRVMXh6VmNTS1FlMDhvNkl1b2RNaDZtZE9GbmhGMGVMNmhGcHRoblFZcF9xMG1GUVVGSmZ4YUNkSg?oc=5",
       "published": "2026-02-18T16:58:04",
       "sentiment_score": 0.109,
@@ -388,33 +445,6 @@
       "sentiment_score": 0.769,
       "sentiment_label": "Positive",
       "confidence": 0.776
-    },
-    {
-      "headline": "World Labs lands $200M from Autodesk to bring world models into 3D workflows | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
-      "published": "2026-02-18T14:03:49Z",
-      "sentiment_score": 0.287,
-      "sentiment_label": "Neutral",
-      "confidence": 0.697
-    },
-    {
-      "headline": "Canva gets to $4B in revenue as LLM referral traffic rises | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/",
-      "published": "2026-02-18T14:00:00Z",
-      "sentiment_score": 0.94,
-      "sentiment_label": "Positive",
-      "confidence": 0.957
-    },
-    {
-      "headline": "As Walmart and Target head in different directions, all eyes are on their new CEOs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/18/walmart-target-earnings-new-ceos-furner-fiddelke.html",
-      "published": "2026-02-18T12:00:01Z",
-      "sentiment_score": 0.436,
-      "sentiment_label": "Neutral",
-      "confidence": 0.496
     },
     {
       "headline": "Call of Duty advert banned for trivialising sexual violence",
@@ -451,15 +481,6 @@
       "sentiment_score": 0.117,
       "sentiment_label": "Neutral",
       "confidence": 0.833
-    },
-    {
-      "headline": "KPMG partner fined for using artificial intelligence to cheat in AI training test",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS04wVllvUTRaUllHYVlEODVKNFRxeXQzQkhBMElfWWFHRjQ4Y2xjTUFfQ2QyYU4tWkJzd0pqRFowT09neXJ4d2NOY2hvTjRyRHdET2FXRkFRMXlkUTB2cEhFMjcyeXpFYVVGRGs4TkE3dEhuMTBad3l2NmhoUWFzd3dxRmNjOUhVNXVOVWNuaUxTa3BESF9iNmZtaGludDhBX3JZSnIteHZ2ZGxI?oc=5",
-      "published": "2026-02-17T05:10:00",
-      "sentiment_score": -0.726,
-      "sentiment_label": "Negative",
-      "confidence": 0.748
     },
     {
       "headline": "Reddit's human content wins amid the AI flood",
