@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-23T01:17:22.203113",
-  "total_articles": 56,
-  "overall_sentiment": -0.252,
+  "last_updated": "2026-02-23T06:56:32.028438",
+  "total_articles": 59,
+  "overall_sentiment": -0.221,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,12 +51,12 @@
     },
     {
       "date": "2026-02-09",
-      "avg_sentiment": -0.128,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": 0.148,
+      "article_count": 3,
+      "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.059
+      "moving_avg": -0.013
     },
     {
       "date": "2026-02-10",
@@ -65,7 +65,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.067
+      "moving_avg": 0.107
     },
     {
       "date": "2026-02-11",
@@ -74,7 +74,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.056
+      "moving_avg": -0.016
     },
     {
       "date": "2026-02-12",
@@ -83,7 +83,7 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.189
+      "moving_avg": -0.15
     },
     {
       "date": "2026-02-13",
@@ -92,7 +92,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.353
+      "moving_avg": -0.314
     },
     {
       "date": "2026-02-14",
@@ -101,7 +101,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.328
+      "moving_avg": -0.289
     },
     {
       "date": "2026-02-16",
@@ -110,7 +110,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.259
+      "moving_avg": -0.219
     },
     {
       "date": "2026-02-17",
@@ -141,30 +141,39 @@
     },
     {
       "date": "2026-02-20",
-      "avg_sentiment": -0.202,
-      "article_count": 12,
+      "avg_sentiment": -0.224,
+      "article_count": 11,
       "positive_count": 1,
       "negative_count": 5,
-      "neutral_count": 6,
-      "moving_avg": -0.17
+      "neutral_count": 5,
+      "moving_avg": -0.173
     },
     {
       "date": "2026-02-21",
-      "avg_sentiment": -0.358,
-      "article_count": 16,
-      "positive_count": 2,
-      "negative_count": 11,
-      "neutral_count": 3,
-      "moving_avg": -0.146
+      "avg_sentiment": -0.363,
+      "article_count": 15,
+      "positive_count": 1,
+      "negative_count": 10,
+      "neutral_count": 4,
+      "moving_avg": -0.15
     },
     {
       "date": "2026-02-22",
-      "avg_sentiment": -0.375,
-      "article_count": 2,
+      "avg_sentiment": -0.191,
+      "article_count": 4,
       "positive_count": 1,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.206
+      "neutral_count": 2,
+      "moving_avg": -0.183
+    },
+    {
+      "date": "2026-02-23",
+      "avg_sentiment": 0.072,
+      "article_count": 2,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.126
     }
   ],
   "source_stats": [
@@ -176,9 +185,15 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.213,
-      "article_count": 7,
+      "avg_sentiment": -0.255,
+      "article_count": 6,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.036,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
@@ -187,16 +202,28 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.169,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Bloomberg",
       "avg_sentiment": -0.13,
       "article_count": 3,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": 0.051,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": 0.022,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "WIRED",
+      "avg_sentiment": -0.013,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "Associated Press",
@@ -219,6 +246,33 @@
   ],
   "articles": [
     {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
+      "published": "2026-02-23T04:59:09",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "Trump unveils \u2018Tech Corps\u2019 to promote American AI abroad",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHltZXowcDlzOG10LVotQ3Q5VEw2R2RvOTVpMWtsTGlBVFo0N05pdWJQUTBpeHk1WllEcWFvQ2VuMVZKLXN0ZThFa0ctYnEyT0tKV0p2NjM2ZEdOZFYzS1p4dWRfLW1FUjVXTUQ0dGd4UkxKVnB3OVoyckp5Znotc2QzZExHdk92SGFpOEx4WEhvMTdtUHp6VEhBSzJoOUlCaDF4dmNXZzhBUjJqY20zSnFRQkJHanJM0gG-AUFVX3lxTE5Ca0Njbmw0VEU3azU4Q1Q1RmpYQjM2WURTZm9ON2VjMHlrSUNJRkt0OHpqN2VhR3U5SEZsTGVyM2Z0RjhPeGVkeFBtNHRtTGxybmNWd2xWQkFzZTNXQk9RV0RLZGQwVzZmMTJod1BlTDE3ZFd6VzlpR1JQQzdac3ZvS2lpeXo2cnVWa1FvcThnTXNfM3VidmFMQVJsSDhlZF81TWhUcWUxR0JNcG9rcFpkeWJNU3pKeWR4NTRrRmc?oc=5",
+      "published": "2026-02-23T02:43:00",
+      "sentiment_score": 0.156,
+      "sentiment_label": "Neutral",
+      "confidence": 0.815
+    },
+    {
+      "headline": "In some classrooms, teachers ask: Can AI teach students to write better?",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnoxOUhjTHA4WlRVXzh0MTJFaWlDdE5vdmNQeVcweUNubVdGSmtoUm1zTGVoeFQ1VDF3UmdDb3ZpNXQ1S2Z5angzaF85UzJTWjVJT2pLbXN5UTFnMEZrSDdMZW10eUdYcmpxeUVnUkZxd3VTYVF4T3ZHLVJYYVJzVQ?oc=5",
+      "published": "2026-02-22T19:00:37",
+      "sentiment_score": 0.029,
+      "sentiment_label": "Neutral",
+      "confidence": 0.901
+    },
+    {
       "headline": "Apple\u2019s Next Big Thing Is a Push Into Visual Artificial Intelligence",
       "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5",
@@ -226,6 +280,15 @@
       "sentiment_score": 0.16,
       "sentiment_label": "Neutral",
       "confidence": 0.82
+    },
+    {
+      "headline": "How to Hide Google\u2019s AI Overviews From Your Search Results",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWdBekdkRkNCVHBuSktKQTlyZzIxWFNzYTZNRkJvRlpFaVZTUEJTSGxnVUxkbEc5R0VXRWxlb2tXdVJvVWVuRVBrQXY3aS1aemQ2YTZnNkdYVXF1by1OOVhNa19mRTN0QncyMVlnSjNBeG1yWHA0aG82S2FHODYySVl5ZVRBUlF2Tjh5WWpR?oc=5",
+      "published": "2026-02-22T11:00:00",
+      "sentiment_score": -0.043,
+      "sentiment_label": "Neutral",
+      "confidence": 0.92
     },
     {
       "headline": "Nurses at NewYork-Presbyterian end strike with new contract approval",
@@ -264,9 +327,18 @@
       "confidence": 0.912
     },
     {
+      "headline": "You could get paid for everything you\u2019ve ever posted online, says scientist",
+      "source": "BBC Science Focus Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeW9PUTFheWZhX2E2VGxEZzg1eWNXOFMxQkMxWmJrRnVZQ3U4T2ZHV19zNjU2eW9BNmtQeWo1Wkt2NWJMeU0tUjJVTS1hU2JQOVJyRmU2aWtYc2ZWVTVLRWNYU0c0dw?oc=5",
+      "published": "2026-02-21T18:00:00",
+      "sentiment_score": 0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.854
+    },
+    {
       "headline": "Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPNmNMTUtyRlF6TTBqc1oxV3VWT1d1cEdxUElST2VRdjVuWVQ2VmpNMHQyNEJRNDRBUTJaOV9UQVhGdmNtakJ3ckF5RGFJVjYtVFQtRGZsTm40ZlFEOE1YSXl3TExlOU5rcWl4QlM2THB1a0N2azgtR0lDczBpbWlXalFoSFVfZWRNSFVnVmsxcFVBeDdxRjdCTXVyeHBmZ01EUzNGbjdDSXFqZGM1SndoN0s2LWFCY3lnaHdwdUtuU01rMzVGLXJDZGdrN09IdXlubmZvZXJMTTczQy1GUll0Q2FOLVVYMXdOa1ZiS1BPeEpxRHY3NDVNVlpuM3VJY3V2VGdSUHJkVURIeE5HdFV3SjdjWkg0bndiMGVYMEk1Q2FlS1RzQnlWRGg4dEQyaVBhR2w2QkNNalJGeV83cFBEOUNlQVJBWVJDSGw0OFBIVWR0NGlfRHNmZWNZMnBuRXhxeTN1S3Q3TTVqM1k0bnNaQi1JanpudnE3RnNfemNXby1ucjFNMWxKdnRmMWprcS1ZV0xySEVZZGtNM3dXYlBTYk9kemJqanpwdjJCVXhjbjRuWkV4b1RZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOd0lvNlJzUGNlREVsQzVTZEt5OEVMakVBMFlXY3lYNmNrRV9NN1FRUXhTRm1waEg2RnZKc0RaNmNOVjk1dkxfWXhLVUFZb3hDX05HZkpnYXE5VGdzdjNER0o5LVJQSzFTUklDNGh5Z0JFY3JLN2hPTVBQSTFLeTJ2QXU0S2pjSFBVSWh5V1JGYzd0MEx5b09vMW5SYmRDd1dySmlQVkllaDQ1QzQxV29sT2lNREhjMmVPM0JfaVJiMlhZVEVEMm5KQjNkbHphdGNnYVdhS3NEWkNTUXlsaUdicE9tRGpHTXZ2WW94VDAzcGVqbmVvQ2VCYkVTWW1VYWU0SmZMQmJ5czdZa3Y4MFJHVE9Uc1ZfQW9BM1NKS0U4ZzhsUjBvZ1NQN0hOMlJtdHdob3FCZWEzZmw0UnBfNURBcms1SjBjWm01Z1h4MzhZV1BXWEJDdTAzOFB4NGlEdEluQzhfUWJIRmM2RkVNRHlWZV9OYXd3RHNpQURMeHFiZzMtbTEtQU8ydV96NExIYkhwWWJNbzlfOFRuN1FNSGJkTFhPemN3U0tJV2gtUHgzRm5PYkwyRUpn?oc=5",
       "published": "2026-02-21T17:04:00",
       "sentiment_score": -0.729,
       "sentiment_label": "Negative",
@@ -318,15 +390,6 @@
       "confidence": 0.915
     },
     {
-      "headline": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html",
-      "published": "2026-02-21T07:30:35Z",
-      "sentiment_score": 0.361,
-      "sentiment_label": "Neutral",
-      "confidence": 0.599
-    },
-    {
       "headline": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cn4gq352w89o",
@@ -352,15 +415,6 @@
       "sentiment_score": -0.291,
       "sentiment_label": "Neutral",
       "confidence": 0.654
-    },
-    {
-      "headline": "ChatGPT-maker OpenAI considered alerting Canadian police about school shooting suspect months ago",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakU2Y1YzUEpxckp2Y3pvVzA2aGQtSUowT2EyS1NsZ25IbUpGSGt1OFN0MFk1NG0zMm9OTjJ2NU9RV19HaTJyUi1UakxwQW1WMWN4UE1EUHRXWTdlcmdCYVZLUTVqT196djB6ZWwyTGJ1MDdhaXdlenk5WUNwaGJGMmRnOE5DSXNfZXB4SGg1REhhYkFRR0dBN3lERGZxbzROSXptVThZN1E?oc=5",
-      "published": "2026-02-21T01:49:00",
-      "sentiment_score": -0.612,
-      "sentiment_label": "Negative",
-      "confidence": 0.633
     },
     {
       "headline": "India's Sarvam launches Indus AI chat app as competition heats up | TechCrunch",
@@ -410,7 +464,7 @@
     {
       "headline": "Opinion | Artificial Intelligence Is an Efficiency Engine",
       "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQRUFCZERYV0oycGhMY3gwSjB3UjY5VDZFYnBFZUUteDFkN09fZWY5YW0xUUVoaS1EV05XbHRzQ2ZFc01QbmFUZG50cVZral9NcVNXdnMzc0tlQS1RVmZLa0NHRUtTdTdVZGtNdzhUTVpGcFAzZ2hPbzN3UUVUNWhod1drM2I5MWU2T3pMeWtBaHpWclUzbThlUGh4Q1ptYld0VXJJNHEtbUJSMVZKNW16R3FmZnBvTnJkM2c1N09aaW04RmhoMUFNUU1PcC1sT0NfTWItNXpXQVBnd3AwMXNaeXQ1RlJJaGVmSmhaRXpscHczdkt5cXJ6aEFUYlk2MVpERmxtbE1aM1hzNUdwNHZ5QjkyRFd5ZHlnaVI2X19zTlZnZGpRZ1pORjE5THhqaEN1X09yWW9Qa2R0VXBRdWY0RHBiZ3dZOGttQXpTS2VkQUJ2MFp1aHpBY1pQeDBvQmNEcXo2S2c1U2VWaWZTc1ZMbkxaelZpNkdWSlFCZ0QwRUdUVUw3bDdfWGM2a2hySXZNU3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQTTRNRWlwclZDb3p6N2lWaERMSldGNUJXU2RsaGwyWXotcS10c3o4U3BiRmU5TE12aS1jbFVzQl9zd0ZSUUVLYWQ5eDBtdTBjT21aMlY1VEt0bHFPQ0NlaUY5N3VSd1pIaXpzMks2SjR1NlRXYUtCcUFKWWNJOHRHWEd5RUJZXzJKdXVOS0d6N1J3MTdYUmpWTzJLdDVhYXNIZVhrQS0xQThHakVxdnJBWUhsT3FmdXQyXzhQUHVJSmpzS3hETTZjZWVSQ09VdmRMTWhSMGpsb1lja0dYNkoteklqMURVVEZGZFNqOGFKMjB2UU1WRHNsN0c2MGgwZ3dNQ2phMGVlczRrVFlkOEhvTG1qMnhQWVd3b1FGRFR1OUNLVDlJSUtodmlRejJLUkFLYzQ2VUtJTEV3NVlZak9UOE9feWRDRzZFbkpBQmRFM01SUExMS3d6c3ZBbTlTNFFzZUhnRFE1eGM3aFlEdDhjSXE3MzZvVHhHeS1TbzluRGJFc24xU0ZfVURFQW1BYTZ5UVE?oc=5",
       "published": "2026-02-20T14:46:00",
       "sentiment_score": 0.047,
       "sentiment_label": "Neutral",
@@ -442,15 +496,6 @@
       "sentiment_score": 0.112,
       "sentiment_label": "Neutral",
       "confidence": 0.867
-    },
-    {
-      "headline": "The OpenAI mafia: 18 startups founded by alumni",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0s1bVVqbThua1BBVldtdlZlZ0IyOWtrWHRBV3h5LTVWbWhyUUNxQXJna0kyQjd0bFYyLTlMXzZFSkhGd1FZeU9DcnhYdGQ1VG9mZE9yYTNDX3pUak9lRExDbXBSZjdJQjdTaUVKbTJqYzMwS0xwWno1cGwxS09ONXdVdTh4U2V5eFhnOXV0aWNzOUZYSWpaQnRaNVZZTVg2cVFV?oc=5",
-      "published": "2026-02-20T12:45:55",
-      "sentiment_score": 0.039,
-      "sentiment_label": "Neutral",
-      "confidence": 0.924
     },
     {
       "headline": "Urgent research needed to tackle AI threats, says Google AI boss",
@@ -667,6 +712,15 @@
       "sentiment_score": -0.38,
       "sentiment_label": "Neutral",
       "confidence": 0.537
+    },
+    {
+      "headline": "Sam Altman touts ChatGPT's reaccelerating growth to employees as OpenAI closes in on $100 billion funding",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXNackVhalppODhqOXNZVFppT0p6VkYzSXlvcVFYbldRRTJnQUF1d3V6M1M5ZW9sOV9aeDcyd1FIVEpCb3ZnVjZZUFRXbEhWc0pJelBROU43cktjUi13Sk1VNllQSTJpcnpfd01ISEIxMWxJYWc2eWpCZEpGeVFCakszZ0xleHFJTEN4OGtuajJNNFRrLWtBX0ZNTE91Z0dKb3AxdmVia9IBrAFBVV95cUxORjFuMklBQ0RKdmdwTXhtNHBXNVd0enVTaUlaWXRodVd5eG1UVEJpOVRfR0FYajY5VG1HV2NNUF90NGxoSHM4ZjBZSmE2Z2JoZTBKekdsQnd4QXFrX1o1VHJKaklLbk9sT0VUNVZfa2VVdXE3aU1EQVp1VWV3N1NaWl9fbnZzbC1wRVJKMVF4ZEVxckl0NjBQaWlVQ1QtRFQtOV90Ujg4Um1oN3BU?oc=5",
+      "published": "2026-02-09T08:00:00",
+      "sentiment_score": 0.699,
+      "sentiment_label": "Positive",
+      "confidence": 0.729
     },
     {
       "headline": "OpenAI will reportedly start testing ads in ChatGPT today",
