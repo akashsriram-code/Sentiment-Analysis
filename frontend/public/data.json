@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-23T18:53:13.931026",
-  "total_articles": 57,
-  "overall_sentiment": -0.267,
+  "last_updated": "2026-02-24T01:15:56.107291",
+  "total_articles": 59,
+  "overall_sentiment": -0.309,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -96,12 +96,12 @@
     },
     {
       "date": "2026-02-18",
-      "avg_sentiment": -0.711,
-      "article_count": 1,
+      "avg_sentiment": -0.347,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.382
+      "neutral_count": 1,
+      "moving_avg": -0.33
     },
     {
       "date": "2026-02-19",
@@ -110,43 +110,52 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.339
+      "moving_avg": -0.287
     },
     {
       "date": "2026-02-20",
-      "avg_sentiment": -0.251,
+      "avg_sentiment": -0.259,
       "article_count": 8,
-      "positive_count": 1,
+      "positive_count": 0,
       "negative_count": 3,
-      "neutral_count": 4,
-      "moving_avg": -0.258
+      "neutral_count": 5,
+      "moving_avg": -0.207
     },
     {
       "date": "2026-02-21",
-      "avg_sentiment": -0.474,
-      "article_count": 13,
-      "positive_count": 1,
-      "negative_count": 10,
-      "neutral_count": 2,
-      "moving_avg": -0.251
-    },
-    {
-      "date": "2026-02-22",
-      "avg_sentiment": 0.323,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.211
-    },
-    {
-      "date": "2026-02-23",
-      "avg_sentiment": -0.366,
+      "avg_sentiment": -0.432,
       "article_count": 10,
       "positive_count": 1,
       "negative_count": 7,
       "neutral_count": 2,
-      "moving_avg": -0.216
+      "moving_avg": -0.194
+    },
+    {
+      "date": "2026-02-22",
+      "avg_sentiment": 0.026,
+      "article_count": 5,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.196
+    },
+    {
+      "date": "2026-02-23",
+      "avg_sentiment": -0.483,
+      "article_count": 13,
+      "positive_count": 1,
+      "negative_count": 10,
+      "neutral_count": 2,
+      "moving_avg": -0.218
+    },
+    {
+      "date": "2026-02-24",
+      "avg_sentiment": -0.21,
+      "article_count": 2,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.326
     }
   ],
   "source_stats": [
@@ -158,31 +167,43 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.117,
-      "article_count": 8,
+      "avg_sentiment": -0.094,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.191,
-      "article_count": 6,
+      "avg_sentiment": -0.569,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": -0.166,
-      "article_count": 4,
+      "avg_sentiment": -0.49,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.532,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.057,
+      "avg_sentiment": 0.118,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.469,
+      "source": "AP News",
+      "avg_sentiment": -0.328,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.341,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -195,13 +216,76 @@
   ],
   "articles": [
     {
-      "headline": "C.H. Robinson CEO says AI will drive freight brokerage consolidation",
+      "headline": "US AI giant accuses Chinese rivals of mass data theft",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjSTZTNVNoNVFnbl80ejNOdUJvQTdpNXlmWFBqM3NaTXRsWU4wbkRFYmRYSktIT002YWdUampiV18tUXBMR1BhMW5aWU5jN0RKWnV0cnp4enZ2bjg5aUNKTjlPLWs1ODBPeVh0bExuMjNXTlVEeEEtTTltdHA?oc=5",
+      "published": "2026-02-24T00:31:00",
+      "sentiment_score": -0.585,
+      "sentiment_label": "Negative",
+      "confidence": 0.605
+    },
+    {
+      "headline": "Exclusive: China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1lpMDkya25CU0QtTlYwMER2NWpSeXZJM2VjN1I5Y2xyWlZSR3NrVWI5bEV3YnpteHd5STgxaEVBaEdRZW1YNXgzVnJZUWR0YlpFYmIzMDZfMEJzcTFUaWhsQjR3YV9aNDhwSUVsdkp6eXJjd1QwLVhscFRQa3N4dzlUdEtZdkFFRmNlQ0N3c2RkUjBwcmhpczVURWpSRUhaenUtVTNSR0JGdmVZbVZsZw?oc=5",
-      "published": "2026-02-23T18:37:26",
-      "sentiment_score": 0.043,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYko5c1BzTGVuUV9VZl9CMGczWm5RdThBeW00Mm5BX3NDb2Z6XzZuNGstMWs1Y2pSZS1wcWdndEZBc3YwSEtNT0ZnXzNjUUFncWN5eHFEbXZ1ZmEyR3M3dFg2TU5tZzQ0QXdhZTJhTXJGSWxyXzRMcDJxZllwRXgxQTFhbkZ2RjFJbDViNmd2enRZWGtZcVV1cE9nUXFUNFQtQzFoZ01lRkc3YTlueXhwZVUxQTVkeDBfTlZmaWxlX1g0X0tCRFE?oc=5",
+      "published": "2026-02-24T00:10:00",
+      "sentiment_score": 0.165,
       "sentiment_label": "Neutral",
-      "confidence": 0.823
+      "confidence": 0.809
+    },
+    {
+      "headline": "Is A.I. Changing the Way You Teach Writing? Tell Us.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHgxZjh3VzdNU0pwbVBXMU1DdVEyOG9sRUpidHdzb0hYaWRnQXRWQnhza3JOWXdtcUxvZWdhWFcwcVVUc3A0N29pZGNTdlc0d0FlRGNNeGE5MWtWQXJGNEVpMTFmV2NiYkFfRjQzbjVtTXIyMU00dFVUSmtrQjVoQ3FtcDQ3anZUbXhHaQ?oc=5",
+      "published": "2026-02-23T22:56:42",
+      "sentiment_score": 0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.914
+    },
+    {
+      "headline": "Canada seeks answers from OpenAI for failing to alert police after suspending school shooter\u2019s account",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk1FdF9KT2NHUTZDWUxxRmxRblRNVDRMaHZ0V2xpbk1ySGZIT01tV0MzNzMyeG9UMnFyZ25zSDR3SG8wWmNGWlQtc3ZtTUNDZFplVEVmS0RYeElzYmNWSjBhZjRiWjNsZ3Q3eEM2WEJTUkpjNW5VS0RVYXJHYWhfelp4MVV3enVpRmtOSTBoakQzTGlOcWc?oc=5",
+      "published": "2026-02-23T22:56:00",
+      "sentiment_score": -0.874,
+      "sentiment_label": "Negative",
+      "confidence": 0.894
+    },
+    {
+      "headline": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwdEEzaC11ZlJaQWQxSHc1TGs0bnNPMWxnc0g0VlN2aERUSFVGRjBTcnFUQzJ0d05rRzE5UWhUczFSZ242S2hyUzdPRms2M0tZR0dfYjJ6SWp2UlFnbVpVTDV0MXI2LVNfLWJHRl9ZdFFnMmhGODZuRnR3VFVIdw?oc=5",
+      "published": "2026-02-23T22:47:23",
+      "sentiment_score": -0.736,
+      "sentiment_label": "Negative",
+      "confidence": 0.758
+    },
+    {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
+      "published": "2026-02-23T21:34:09",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
+    },
+    {
+      "headline": "ChatGPT-maker OpenAI safety representatives summoned to Canada after school shooting",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkJJUlY2eEZxZHVtUk9zR0ZqRW04Q3o5a0VkWmQ4SVMza0Rxb0E1WEFjaUxfb0VLS1EydUhuY1luSGZyZ3NrWmp5Rm9ZV2pFeHBQT1Foa3pPcjlwOFM4Rlcwb3ctUmdITEVTOVcyNkhLcElFYV96RDN3bFNzTEhBc2VqdHNQbEN1Qk14YWxiVEptc3JuT0VkcXZn?oc=5",
+      "published": "2026-02-23T21:00:00",
+      "sentiment_score": -0.094,
+      "sentiment_label": "Neutral",
+      "confidence": 0.835
+    },
+    {
+      "headline": "Canada Summons OpenAI Execs on Shooting Suspect\u2019s ChatGPT Use",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUFsd0VmbThOa2xrd3NiVUMtQjNrMUhZdHFOSk5aTEV1N3JGWmt0aGhRY3QwSFllMTQxN0FfVkJBRnJZOUVvVzBwNHpwWUNSelhuU1BFY19kdHhYcVRhQUZsZlJfTUZRRTRjRUFBTTVYTmFWTHpKWXViYnJSVDJkTEtqYk01czVaX3RyZElhMjdIY2RCU09YQlEtS2dFbGlLeG4zUk5xeVVrQkVvSGpqcTVn?oc=5",
+      "published": "2026-02-23T19:58:01",
+      "sentiment_score": -0.332,
+      "sentiment_label": "Neutral",
+      "confidence": 0.602
     },
     {
       "headline": "This economic idea transfixed Wall Street and Washington. It may be a mirage.",
@@ -222,15 +306,6 @@
       "confidence": 0.916
     },
     {
-      "headline": "If AI makes human labor obsolete, who decides who gets to eat?",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vOHBrSk0zMEdQeXktMGNmWHZXUWswS1pCRmhrRFVSTlBTVVpqMXdKNjl3NDk0UEtkZzh2cjNTcVNOMFRYUjRTZ0htTF8yU2FidFhCY0tua0hDT0hSWEdYdVlnNC1rdFQ0cmhtTW1zY0NzS3lXNjNEMElB?oc=5",
-      "published": "2026-02-23T17:16:00",
-      "sentiment_score": -0.128,
-      "sentiment_label": "Neutral",
-      "confidence": 0.831
-    },
-    {
       "headline": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGhkUndpRlhxd1dNYWZ6Umx3aTVFa2JZOUwtVkQ2MTB4SWVSNnB2OGpRQnFUM2cyMnJEbjRvZUZVMG9UbUdJYmd1UGtKdW5BZktvWXNNR1N2ejN0dG5Id1FqVHg0dzkxalRDcDg3ZTd1SFQ1U2taUTFvU2t2R1hrU0dCem44MkhIQUHSAY8BQVVfeXFMTUxKSi05ZE02LUdzc041elJqTE5xTEZVMmNSUDhxRVZIZ0FDLXRKSERlQ0hMNzFyOF9Ga0Y1NmZzSWdfR1ZYNG9FbDNvZlR0ZDUzLVZVMUhpZmxudlBiNnZEdEh2enA4X0FodEF6V25SU2pDQ3l5V2lOSGZ1UTdDRmJuYzFxR0dFMDJ0MEM1MzA?oc=5",
@@ -238,15 +313,6 @@
       "sentiment_score": -0.955,
       "sentiment_label": "Negative",
       "confidence": 0.963
-    },
-    {
-      "headline": "AI (artificial intelligence)",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
-      "published": "2026-02-23T16:24:31",
-      "sentiment_score": -0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.944
     },
     {
       "headline": "Big Tech to invest about $650 billion in AI in 2026, Bridgewater says",
@@ -267,15 +333,6 @@
       "confidence": 0.954
     },
     {
-      "headline": "The Lesson of A.I. Literacy Class: Don\u2019t Let the Chatbot Think for You",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXNkZXlSVVNRRm1JOWhGYnl0RnUyNHpIWGdWeWdaWTE2XzhYY2I0bkg5VWJmYTJHQlhnaDh0WDBnY3VTd1hJMGlucmZuWmw2S1Y3cHo5WUNwMHV5T0Vldl9NY2NQNWo3RmEyaDJUVXBQMEJwc01GdDJocWNoem5XMmxfVi1TTzNseG5KSHln?oc=5",
-      "published": "2026-02-23T10:00:54",
-      "sentiment_score": -0.059,
-      "sentiment_label": "Neutral",
-      "confidence": 0.883
-    },
-    {
       "headline": "Sam Altman defends AI resource usage: Water concerns 'fake,' and 'humans use energy too'",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWhjTUNpc1JvWDFlSGcySjlYaDJZRGV3S18yWWxyTDY0YTcwUVk5cG9IWlJrWVR2Ukdoby1taTN2VW9fOGt2TFdyUUZVQlZEYi1yU1dVdk9EMzAxeC1GRHM0bWNlTU1WQWtLVVJFZ0tNbmxKaTd4dThiQkNMY3FMaUhOX091VlBlY0JEdUwtS1JZRmE2NURMV3prWEJTMDh4cVhUS1YwcXhyczNHOC1zdXdmRlBZckw3emVVUzlR0gHDAUFVX3lxTE4yUi1ITDRHbWlwb0RRd1hwcEowOFFuZUVzbF9IczEyRXBBSWZjQUtiNnpHUDNLSUVxUW90UzVFaG5rU2NEYWU0TUFXczlRdnk3Ri1sQUtiS0NzbjFlWmFDRUZyOGhod3RGZ0kwSnNjZVdUQVg3TFpPYi0wQ2p2QU5ocl9FM0F5ay1mN2hVVWpEM1FQYUFDVjRyRFlxNXJpdmszbWlCbC1tZndEM3RtRDRqTlh3Y0Z2LU5YQWV1REVockUzaw?oc=5",
@@ -283,6 +340,33 @@
       "sentiment_score": -0.232,
       "sentiment_label": "Neutral",
       "confidence": 0.685
+    },
+    {
+      "headline": "CNBC Daily Open: Trump's reaction to Supreme Court tariff ruling seems to cause more uncertainty",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/23/cnbc-daily-open-trumps-reaction-to-supreme-court-tariff-ruling-seems-to-cause-more-uncertainty.html",
+      "published": "2026-02-23T01:07:46Z",
+      "sentiment_score": -0.737,
+      "sentiment_label": "Negative",
+      "confidence": 0.799
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/02/22/stock-market-today-live-updates.html",
+      "published": "2026-02-22T23:08:08Z",
+      "sentiment_score": -0.921,
+      "sentiment_label": "Negative",
+      "confidence": 0.95
+    },
+    {
+      "headline": "Can the creator economy stay afloat in a flood of AI slop? | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
+      "published": "2026-02-22T22:18:01Z",
+      "sentiment_score": 0.093,
+      "sentiment_label": "Neutral",
+      "confidence": 0.878
     },
     {
       "headline": "All the important news from the ongoing India AI Impact Summit | TechCrunch",
@@ -301,33 +385,6 @@
       "sentiment_score": 0.911,
       "sentiment_label": "Positive",
       "confidence": 0.923
-    },
-    {
-      "headline": "Why adults in midlife and beyond are filling college courses",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/education-adult-learning-upskilling-hobbies-6b5ba4c45b1451ad5ebecd49e1d7b0b5",
-      "published": "2026-02-22T13:36:03Z",
-      "sentiment_score": 0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
-    },
-    {
-      "headline": "Top Wall Street analysts are bullish on the growth potential of these three stocks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/22/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-      "published": "2026-02-22T12:33:12Z",
-      "sentiment_score": 0.922,
-      "sentiment_label": "Positive",
-      "confidence": 0.939
-    },
-    {
-      "headline": "The world's largest energy lender has a new head: Here's how it could shape U.S. policy",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/22/the-worlds-largest-energy-lender-has-a-new-head-heres-how-it-could-shape-us-policy.html",
-      "published": "2026-02-22T12:32:18Z",
-      "sentiment_score": 0.023,
-      "sentiment_label": "Neutral",
-      "confidence": 0.942
     },
     {
       "headline": "How to Hide Google\u2019s AI Overviews From Your Search Results",
@@ -358,8 +415,8 @@
     },
     {
       "headline": "Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOZ0ZtUjBBeEVLLXhwUGpTcGFlbHpZcnNIM1JLYnBpNWxhSkN4U1dsTEViSkNmRzREX29YNjhleG9lSzg2N2RQVjZyMEtDX0lrVU91WnlwdmlpVmQxTFhESHlPOTVqS1A1X3piNXJpWVpEeUZQYS10VFVZRlFNelR1U3hUVE9TTjQxSDI4Z1JxOVNfWS1CZ1hMaVJqd2Jzd1cxSHlaMVBvQlA2V1RVdTRvSzdjSFZtQ1ViUmkzQ0duMnBoU0d2RDQ0QVZDUHpSSXN1eWJpY25aMzVla2JaVWpXLWp2Y0dtZ1JSVS1GZzkwdnZMbVFCU0ZuUW82N3AzN1N6ZTZBRjdwdmNvTjMtUVJoUFlsanM4akJtMlE1VnozbktJcFZFYVpWTTdRQlNVd0kybDVPRzEyTTAyUllCY25kUmFZT3RGNWIxUklQN1pBQjhFLVNVZ2hDY09jSm9FTVJwenRpTENSdjNsenhjODVfVm8yRW45c1E2TFdhdkpEUEFNWUIzWngxN3pPRTVBVmNwX25ZcXdoazgwdkZKdWFzQ2F4SUFYSEotbGwwQmN4RDlaT1N3akhv?oc=5",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOdkNUaFJ0QTVvMFZwVE1TeVJ6cV94OVozLVI0cmk3eGRXaHV3cFBtdS1sZUVvMWxzbm5vWlpCV2ZDYjNVdWtJVldDbWZYNDZXQUZzdUpTa2pxV3dadnhDRFVndTVxVDBUSVY3bjFtbFgyeFVieWhBb2JjdEJiNGJjU25IYmhNb0htSkM1bF80d2c1ZGJld2pMTUxWX21GRTZQbHdBTGxuamFTeTNxM0kzcmlUNWh4dmw1WHg5RXRwRzdNTTlObXlaNGxDSk90N3AzMEhWQ0ZpWW05OVJEUFJ1UGpOcHpxQXJ5UUxPVWZlNzBLOGpoTUwzTElzNEJWUHFURjROYTh0Nk5rSHpxMXA5UlAwX3hwWHQxSFB3MmlkXzBRb2NQdFBVUEdUMGh4TWpVWThOTUJhVXZkTWxpRXVMNFc1bFBudzQ1N2xtSEg3SzdaNFNGcU1CeTkyQldQX09GY0djbnB2Y21lTlhCZXR5ODBWOEpOMF9VX3BGbUxqTDhoU2FGOXhtSnZxdWFaNzVVeVlnOXY4dkxCSVFNRkxQaWJvT1VLRG1qT2FzbzUtOFhjOWg1d09j?oc=5",
       "published": "2026-02-21T17:04:00",
       "sentiment_score": -0.729,
       "sentiment_label": "Negative",
@@ -393,28 +450,10 @@
       "confidence": 0.833
     },
     {
-      "headline": "Wikipedia founder sees no threat from Musk\u2019s Grokipedia",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-21/wikipedia-founder-sees-no-threat-from-musk-s-grokipedia",
-      "published": "2026-02-21T09:09:10Z",
-      "sentiment_score": -0.298,
-      "sentiment_label": "Neutral",
-      "confidence": 0.579
-    },
-    {
-      "headline": "Chaos, confusion and $200 billion dreams: What I saw at India\u2019s AI summit",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
-      "published": "2026-02-21T08:50:57Z",
-      "sentiment_score": -0.904,
-      "sentiment_label": "Negative",
-      "confidence": 0.915
-    },
-    {
       "headline": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cn4gq352w89o",
-      "published": "2026-02-21T07:30:32Z",
+      "link": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-02-21T07:30:32",
       "sentiment_score": -0.412,
       "sentiment_label": "Neutral",
       "confidence": 0.529
@@ -427,15 +466,6 @@
       "sentiment_score": -0.865,
       "sentiment_label": "Negative",
       "confidence": 0.88
-    },
-    {
-      "headline": "OpenAI considered alerting Canadian police about school shooting suspect months ago",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGhjMTRnZVg0VUJFZjAzYjlrVHlHODhwSXg4a0lTbFJrVnNBYkxJSndlbXNKRng4VTlkUnEtYl9UeExacTJVX1dmT1ZVcG04aldTQTJzYkNiX0hPNkhrekVkNEJaVmxZOVR3eFRMQmNobURPUC1YV2dfeDZBTzFCZUxPLXNvanFYZVE?oc=5",
-      "published": "2026-02-21T03:18:00",
-      "sentiment_score": -0.638,
-      "sentiment_label": "Negative",
-      "confidence": 0.66
     },
     {
       "headline": "ChatGPT-maker OpenAI considered alerting Canadian police about school shooting suspect months ago",
@@ -474,6 +504,15 @@
       "confidence": 0.931
     },
     {
+      "headline": "Opinion | Artificial Intelligence Is an Efficiency Engine",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPcEUyZlhOSG1fLV9ranJabTQyRHR4SXRWeDNNZE1QUEhaU1gwb0ZGNHFaVVNvM0dvR0NjMG1YbjlZVTl3OTFQWmtvVENiRlc5ejAwNVVQWXhoN19zMmdvQm9BaTdnVGFTLXVLTnFWRV9ES09xQWVuZDN0MGtFSVZoU0ZrZXFyMXNjbUp3SC1XamkzQm9FenlGczh0YnY0UVpRQWMxTXh2cmo5dklmRkNHX3VVLTl6WHM2Y1JEUXVYdTZ4TVlDSTN3OS1fOU8yRFVKWlE4NTd2d3YyU3kwbDZEc3JTQ3N5X21lcURGM21acEJCMXFEbUN4T0FuSzJvWFJ6LTdIbnNXMFN1V3NpbEZsNjBQS19hT1VCb2N2aHliaHpVOFFXWFRucHNjRUFYRUxYMnA4U1poSHpDdDNFb29YZGxOcF9hRmlQNVh2QnFDbXlQX3lFSUhKbk12eC00UTdtWV9vX0U0UUJ2RW1uOUNUMFRmV2lYVktZWl9qOWJ6WTFUVUZoeks2TFRxaTFMaE9XdUE?oc=5",
+      "published": "2026-02-20T14:46:00",
+      "sentiment_score": 0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
       "headline": "Asos co-founder dies after Thailand apartment block fall",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
@@ -490,15 +529,6 @@
       "sentiment_score": 0.048,
       "sentiment_label": "Neutral",
       "confidence": 0.917
-    },
-    {
-      "headline": "Nvidia reportedly plans to invest $30bn in OpenAI\u2019s next funding round",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSll0TTY2R1dyblhaM1BkSEFETnZSdGJiRHo3MEFtRkZOaEJQeTRGa1ZrY2U1ZHdvcC1DcEFjaHBucG5TVVZDWmJaODdYWHF0WFVVWFJpdjcwTVRzUXlYSTJFc25RZE5xMFNqVEswNEVPZnZqNjU0M2JiVFFzeUwxTTcwY1lFSFNVR0I5a2JBeXJFUVhvMXlNa1A2OGtXal9VQnRVaTd6YlJnNkxxNWJSU1MxUXlNSFhSZ2plSmpNS0RyUQ?oc=5",
-      "published": "2026-02-20T12:51:00",
-      "sentiment_score": 0.112,
-      "sentiment_label": "Neutral",
-      "confidence": 0.867
     },
     {
       "headline": "Urgent research needed to tackle AI threats, says Google AI boss",
@@ -553,6 +583,15 @@
       "sentiment_score": -0.092,
       "sentiment_label": "Neutral",
       "confidence": 0.71
+    },
+    {
+      "headline": "Big Tech Says Generative AI Will Save the Planet. It Doesn\u2019t Offer Much Proof",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObllrNFVuc3Y4N2dDWUxDaVM3NER3QTJyQ2pBSF9GME9tMzJqZEFRSG9GQkhKQU9MMjVoajlLdkctSTZGZDF4Wm1Kb2Y4U2dNQ09UYVBaTldFbDVHZEY1WTlDWURkSlRKNDFqdnBOWDhYbjhldVpsUkJ0eUROQ1ZpMTJ6RzFaYzB2ZktnRGMzSkx4d2FkblpGNUM1eDZndWxiR0ViMVljWQ?oc=5",
+      "published": "2026-02-18T15:17:00",
+      "sentiment_score": 0.017,
+      "sentiment_label": "Neutral",
+      "confidence": 0.916
     },
     {
       "headline": "Call of Duty advert banned for trivialising sexual violence",
