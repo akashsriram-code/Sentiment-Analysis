@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-03T06:40:26.263920",
-  "total_articles": 46,
-  "overall_sentiment": -0.21,
+  "last_updated": "2026-03-03T12:37:15.590875",
+  "total_articles": 36,
+  "overall_sentiment": -0.222,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -123,67 +123,55 @@
     },
     {
       "date": "2026-02-27",
-      "avg_sentiment": -0.278,
-      "article_count": 4,
+      "avg_sentiment": -0.484,
+      "article_count": 3,
       "positive_count": 1,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.346
+      "neutral_count": 0,
+      "moving_avg": -0.375
     },
     {
       "date": "2026-02-28",
-      "avg_sentiment": -0.3,
+      "avg_sentiment": -0.537,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.515
+    },
+    {
+      "date": "2026-03-01",
+      "avg_sentiment": -0.074,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.419
+    },
+    {
+      "date": "2026-03-02",
+      "avg_sentiment": -0.165,
+      "article_count": 7,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 2,
+      "moving_avg": -0.388
+    },
+    {
+      "date": "2026-03-03",
+      "avg_sentiment": -0.249,
       "article_count": 6,
       "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.452
-    },
-    {
-      "date": "2026-03-01",
-      "avg_sentiment": -0.319,
-      "article_count": 5,
-      "positive_count": 0,
-      "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.391
-    },
-    {
-      "date": "2026-03-02",
-      "avg_sentiment": -0.127,
-      "article_count": 10,
-      "positive_count": 3,
-      "negative_count": 3,
-      "neutral_count": 4,
-      "moving_avg": -0.355
-    },
-    {
-      "date": "2026-03-03",
-      "avg_sentiment": -0.246,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.299
+      "moving_avg": -0.333
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.294,
-      "article_count": 18,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.217,
-      "article_count": 7,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Bloomberg",
-      "avg_sentiment": -0.093,
-      "article_count": 4,
+      "avg_sentiment": -0.257,
+      "article_count": 20,
       "sentiment_label": "Negative"
     },
     {
@@ -193,14 +181,8 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.081,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": 0.43,
+      "source": "Bloomberg",
+      "avg_sentiment": 0.251,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
@@ -211,13 +193,22 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "BBC",
-      "avg_sentiment": 0.047,
+      "source": "TechCrunch",
+      "avg_sentiment": -0.106,
       "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI changes deal with US military after backlash",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-03T11:51:31",
+      "sentiment_score": -0.268,
+      "sentiment_label": "Neutral",
+      "confidence": 0.663
+    },
     {
       "headline": "Iran war heralds era of AI-powered bombing quicker than \u2018speed of thought\u2019",
       "source": "The Guardian",
@@ -282,33 +273,6 @@
       "confidence": 0.694
     },
     {
-      "headline": "Anthropic\u2019s AI model Claude gets popularity boost after US military feud",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjM1Wm1SZnkyMzJ3Vnl1RGJhS0FzOVAtYy12TUtKVlNLRnQ1Y3JMRjA1MVhYQ05hell5RlE1RFRiT09yclI3SVd4Y0hReDVGU09hMU9qdTVhQldkT2N1OU4wd2FPaVpuY0lyMFNjdXROVnYtak1ERThoMExNRVVjMWtRekFJdw?oc=5",
-      "published": "2026-03-02T20:50:00",
-      "sentiment_score": 0.838,
-      "sentiment_label": "Positive",
-      "confidence": 0.857
-    },
-    {
-      "headline": "Opinion | The best education for future success might surprise you",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0FqdmdXcGhKck5RNXhQZ0hlZ0VFWDAySXZZQ2Q2UUlzWkF3ZW14RFRtUHBYeFhURFBrbXJRblhSY0d2TVhQLXVHRlVJNENwRmVITHNzSmNXU2h3ZW9aWUpXbk5UYkFwVTNJTE54SG53dTVUS05BTFRKOFh3SVA2Vnl0MU1lcWxaWlpadnRmUnZyVS1BbldqMk5TWnFHeWE4MXd5SEUyaGlHNnQwV3R1Z1dHUl8?oc=5",
-      "published": "2026-03-02T19:15:04",
-      "sentiment_score": 0.044,
-      "sentiment_label": "Neutral",
-      "confidence": 0.914
-    },
-    {
-      "headline": "Users are ditching ChatGPT for Claude \u2014 here\u2019s how to make the switch",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmYzemkybHVNcld5SXprY1JzMTdpQ1JldlBKM1E2MWhQSmJESHJHWXhZaVphUHZsaklXY2tHRzFJSFR3Umc3aVpTVVUxX25YWEw4VDFTMG81bXhLc0V4V1hEODdMZGswWC02WEduOUhqaU9Ga21zLXRfd3NPR2pXQ09lQS1xQUlGV3BWX3VnaHVNd0FYOV9BUlNIUHRrRGVucEw4?oc=5",
-      "published": "2026-03-02T18:42:11",
-      "sentiment_score": -0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.925
-    },
-    {
       "headline": "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2JBcnZSUlRmdnlGM2xva3JqYVktMVlyckxUWk9YNEM2ZXlLQ19CRElkU29MRm01U0RzVUEyQ1ZUdUNiTkI3R2RuMmpiYWdtLUxBclFtM21ybkpzQm1KY0dTSEZUc094STFETTZHZHllS09tNEhwWV9KRThXTmlSZUJ3cDdPS0hsT3lnTUFtb2VrTWhDNUZ6N0lmQkN4VEZ0cVVFcDFxYURXMGFTVmF1UGZ6OXFTV1VHME80NW4xcjNMVmVKVUNkMg?oc=5",
@@ -327,13 +291,22 @@
       "confidence": 0.893
     },
     {
-      "headline": "SAP CEO Klein Reorganizes Board to Focus on Developing AI",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWYtUXA4Z2J3TFZsMmUxdGFYYm4tYWNURF84al9pWURaM19OS1BMdm90WDNwWUNoVjJLR3ZhaDBkeDdzc21GcWZKVHpmUXBVQXlwX3VxNUNpa0pXVWU4RkRmbjlFTV8wdFJHU3g0S0ZManU5S2NXMElNRFA5bHBIVDkySzVtQWdreGxiRkNrQnFPMzBrNGgyd1Z1MnZSbnpNR0pQbVpqMFhwdXdIbk94eA?oc=5",
-      "published": "2026-03-02T12:54:24",
-      "sentiment_score": 0.031,
+      "headline": "Oh great, here comes 6G",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/886558/6g-satellite-ai-isac",
+      "published": "2026-03-02T11:06:05Z",
+      "sentiment_score": 0.06,
       "sentiment_label": "Neutral",
-      "confidence": 0.922
+      "confidence": 0.915
+    },
+    {
+      "headline": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
+      "published": "2026-03-02T10:00:00Z",
+      "sentiment_score": 0.029,
+      "sentiment_label": "Neutral",
+      "confidence": 0.811
     },
     {
       "headline": "U.S. Schools Are Betting Big on A.I. Will New York City Be Next?",
@@ -345,40 +318,13 @@
       "confidence": 0.894
     },
     {
-      "headline": "West Asia war to weigh heavily on China, Europe and India, economists say",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-02/economists-gauge-hit-from-mideast-war-as-china-seen-among-losers",
-      "published": "2026-03-02T03:25:25Z",
-      "sentiment_score": -0.905,
-      "sentiment_label": "Negative",
-      "confidence": 0.94
-    },
-    {
-      "headline": "Global week ahead: Operation Epic Fury means new risks for markets",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/02/global-week-ahead-operation-epic-fury-us-israel-iran-strikes-oil-shipping-markets-volatility.html",
-      "published": "2026-03-01T23:15:25Z",
-      "sentiment_score": 0.041,
+      "headline": "Opinion | The economy is changing. Don\u2019t forget who fears it most.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDlkWVJTRUR3RGl3ZGVrd2VMUUVyRC12Z3lxb09ndHJTcG4xYk1PMXdfdXdhaEhmS0JMUjl6YkpTdGZXV0hXU29vWkZhcXN2SlZvR3VNUFVZY2RTbUJfODZpb29xRW5UQkxkMWdtSDN5UnJFdkhuVktEaUpwRDhSZ2xiQXJtcnFfMmtid09nTjJHUEtJVzYtcDNuU1haQjZ1Wng5MU1YcGs3QlFZ?oc=5",
+      "published": "2026-03-01T20:00:25",
+      "sentiment_score": -0.152,
       "sentiment_label": "Neutral",
-      "confidence": 0.735
-    },
-    {
-      "headline": "Stock market today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/01/stock-market-today-live-update.html",
-      "published": "2026-03-01T23:04:42Z",
-      "sentiment_score": -0.931,
-      "sentiment_label": "Negative",
-      "confidence": 0.943
-    },
-    {
-      "headline": "OpenAI shares more details about its agreement with the Pentagon | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-      "published": "2026-03-01T16:34:00Z",
-      "sentiment_score": -0.078,
-      "sentiment_label": "Neutral",
-      "confidence": 0.503
+      "confidence": 0.722
     },
     {
       "headline": "OpenAI reveals more details about its agreement with the Pentagon",
@@ -388,51 +334,6 @@
       "sentiment_score": 0.003,
       "sentiment_label": "Neutral",
       "confidence": 0.931
-    },
-    {
-      "headline": "'Silent failure at scale': The AI risk that can tip the business world into disorder",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVBtV1JXSjBRa3hVNEZjRWZVc3M5Mnc5V2QwMC1rV29nZHpGNnJ5cERzeWc3U0pnTU5DZ0g2THlxQkJoUUV1dkgtdk1UQ3lFWl9jQlAxSDBzb1QtSlQ2V1hmc1pBT2o0S2M5WktrVUEwckRla0U3eklKWGt4OVJnRmE1WERwbVZDQ2VsaVAzc9IBlAFBVV95cUxPSlY3MmR0MHAtTEhXU1RNZl91SEhUWndGcmw1UnpoTm5lNFRXZ0NRUXMtV2hIMUtDdG5DYjg2RjNBaHNBdTRIMnhRbDNQSHNoRXU0Z3d2ZDVJa2NEUnpCa3JiVVV0dTExQllZVXZmQzR1NTZJUVZfemFOVWo1b3JlUktDWTJJWU9nVXhHaGVZNFZYd3FX?oc=5",
-      "published": "2026-03-01T14:00:01",
-      "sentiment_score": -0.628,
-      "sentiment_label": "Negative",
-      "confidence": 0.652
-    },
-    {
-      "headline": "The 2026 AI Cost Crisis: The Rise of One API Aggregation Platforms and Their Potential to Deliver 80% Savings",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/ein-presswire-newsmatics/the-2026-ai-cost-crisis-the-rise-of-one-api-aggregation-platforms-and-their-potential-to-deliver-80-savings-44143bf1f32e33814ff3fc21b8a3f725",
-      "published": "2026-02-28T21:15:53Z",
-      "sentiment_score": -0.893,
-      "sentiment_label": "Negative",
-      "confidence": 0.911
-    },
-    {
-      "headline": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
-      "published": "2026-02-28T16:07:14Z",
-      "sentiment_score": 0.081,
-      "sentiment_label": "Neutral",
-      "confidence": 0.89
-    },
-    {
-      "headline": "AI just leveled up and there are no guardrails anymore",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html",
-      "published": "2026-02-28T13:00:01Z",
-      "sentiment_score": -0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.905
-    },
-    {
-      "headline": "Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html",
-      "published": "2026-02-28T13:00:01Z",
-      "sentiment_score": 0.102,
-      "sentiment_label": "Neutral",
-      "confidence": 0.877
     },
     {
       "headline": "Opinion | Real Despots Hijack Artificial Intelligence",
@@ -453,13 +354,13 @@
       "confidence": 0.928
     },
     {
-      "headline": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iMUVvUFRUZkNwUkNRMVFvdnJwOFJNZ1ZjRWNTRnM3Zk1SeG5EczRmbjJQaHRWVGVNQThGTkdJUkZVNWhGS0o0cmlHM2s4Nlc0UHQtMXZyWWtkQi01NEtweG1jSl93MjJHdUhUMTMzYi1uVVdJa25DLTR30gF_QVVfeXFMTklPWGFvaE5KcVY5cjFQU2EwbXNsRFlBQVFSODhXNEhXcmdTWEpfRHBYUjFSa0ktcGdrb0kwa3pmbHpmYVY0LXB5VDdhb0x2RXlSMGpEd3A1NE1QZTZNUnoxU2hfdWlFdUs3cURPZmNpUmhFX1B2VU1vcnZTYWJLMA?oc=5",
-      "published": "2026-02-27T21:56:52",
-      "sentiment_score": 0.787,
+      "headline": "Pok\u00e9mon at 30: Fans explain what the series means to them",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cpw0xw5nqglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-02-27T15:37:03",
+      "sentiment_score": 0.434,
       "sentiment_label": "Positive",
-      "confidence": 0.796
+      "confidence": 0.567
     },
     {
       "headline": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
@@ -469,15 +370,6 @@
       "sentiment_score": -0.942,
       "sentiment_label": "Negative",
       "confidence": 0.951
-    },
-    {
-      "headline": "How AI can read our scrambled inner thoughts",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UVDRwRVVRT1BrcE43RXphNXVYZmJDRGo3dU1EMXdmcG5OcHFVdWEyN1JGd1VGaTVKS2pNaTdDWG1pT1lYeUdPcXFUYWdBdDhhWkZzRzZlQ09SZUhKckRaTWJza0NmT3JGZ3BsSnhnNlVkYmVaMk91c2NFaEpRQQ?oc=5",
-      "published": "2026-02-27T10:00:00",
-      "sentiment_score": -0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.916
     },
     {
       "headline": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
