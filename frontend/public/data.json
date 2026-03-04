@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-04T01:14:00.293895",
-  "total_articles": 42,
-  "overall_sentiment": -0.19,
+  "last_updated": "2026-03-04T06:37:26.258496",
+  "total_articles": 43,
+  "overall_sentiment": -0.214,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -141,30 +141,39 @@
     },
     {
       "date": "2026-03-01",
-      "avg_sentiment": -0.445,
-      "article_count": 2,
+      "avg_sentiment": -0.273,
+      "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.526
+      "neutral_count": 1,
+      "moving_avg": -0.502
     },
     {
       "date": "2026-03-02",
-      "avg_sentiment": 0.027,
-      "article_count": 9,
-      "positive_count": 5,
+      "avg_sentiment": -0.074,
+      "article_count": 8,
+      "positive_count": 4,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.468
+      "moving_avg": -0.458
     },
     {
       "date": "2026-03-03",
-      "avg_sentiment": -0.209,
-      "article_count": 11,
-      "positive_count": 4,
+      "avg_sentiment": -0.215,
+      "article_count": 10,
+      "positive_count": 3,
       "negative_count": 7,
       "neutral_count": 0,
-      "moving_avg": -0.407
+      "moving_avg": -0.397
+    },
+    {
+      "date": "2026-03-04",
+      "avg_sentiment": -0.311,
+      "article_count": 2,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.308
     }
   ],
   "source_stats": [
@@ -176,42 +185,54 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.14,
-      "article_count": 6,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.474,
-      "article_count": 4,
+      "avg_sentiment": 0.12,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
       "source": "BBC",
-      "avg_sentiment": -0.383,
-      "article_count": 2,
+      "avg_sentiment": -0.347,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.509,
-      "article_count": 2,
-      "sentiment_label": "Negative"
+      "source": "The Verge",
+      "avg_sentiment": 0.355,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.869,
-      "article_count": 2,
+      "avg_sentiment": -0.661,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.807,
+      "avg_sentiment": -0.774,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Guern\u00e9siais AI translations 'could be wrong'",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TR2U4V0pyT1h2eDZfcDNQeERHNm80bF9pVEZYaDEycUM5eFZYbGljQmNjNWgzQVNoR2k5SVFUX05pTC1DWXBNRE53UDg0Z2hYQmpTSFRBeXZldw?oc=5",
+      "published": "2026-03-04T06:11:59",
+      "sentiment_score": -0.736,
+      "sentiment_label": "Negative",
+      "confidence": 0.757
+    },
+    {
+      "headline": "UWE scientists developing speech-to-text AI for NHS appointments",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kRXJUanR4X2FpX2hobWtrUkw2akRwZFlUcE5yRnRicGZhaFUzdkVHQmtjcHlRWlZMM2NYS1BQUV9KZUVQclBlLWVnX1c2ME00eDhKVV82UFdvdw?oc=5",
+      "published": "2026-03-04T06:10:36",
+      "sentiment_score": 0.114,
+      "sentiment_label": "Neutral",
+      "confidence": 0.865
+    },
     {
       "headline": "OpenAI changes deal with US military after backlash",
       "source": "BBC",
@@ -240,15 +261,6 @@
       "confidence": 0.707
     },
     {
-      "headline": "What was really behind Jack Dorsey laying off nearly half of Block\u2019s staff?",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWo4ekpyLWJldS1ZZDZTaGp3VWNwOEpHUmhpSFNDcDl2YmpvZENKS29STUJ6Y05JN180Zm9VRHhKb1E4Qy12SmtNVGhBcDZSMGx3bVB2aHNsRlVfNGpyVGdBOHBabmktRnlvNERkLU9tbVh0M3BzTXpUYTBsclJmVzlYMFk3eHdXWkow?oc=5",
-      "published": "2026-03-03T16:00:00",
-      "sentiment_score": -0.826,
-      "sentiment_label": "Negative",
-      "confidence": 0.837
-    },
-    {
       "headline": "How generative AI is affecting the gaming industry",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OMlpfNVVyNkRfN3RiN0hhREdRXzFIUjFqMTc1dk11M2dUTDU2bm8yM1p3Q3hpcHIxSFJtWDFmbV8zcTJibm44VW83UkFuSUZT?oc=5",
@@ -267,6 +279,15 @@
       "confidence": 0.943
     },
     {
+      "headline": "OpenAI's Sam Altman admits \u2018rushed\u2019 deal with Defense Department after backlash",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html",
+      "published": "2026-03-03T02:50:16Z",
+      "sentiment_score": -0.244,
+      "sentiment_label": "Negative",
+      "confidence": 0.448
+    },
+    {
       "headline": "OpenAI's Altman admits defense deal 'looked opportunistic and sloppy' amid backlash",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1FzTHBydy1PcHdGRVN1ZEJ6M2hqMDdRR1E3TDI2d3lRSmNGM3NQcHByYy1oc2otZ0N2SzU3OGJMdnQxemhuOTNsZExVUnhqZV9XdHdmUTJMT3lkZm5WZ19rU0VsRndqWFl2bHB3WHgwa3BrcEZ3ZDAtdDJFN093TUFtNHJ5RmZ6OC0yREZ2cjBxUXYzanBFbUFfU1jSAaIBQVVfeXFMUHdwcWVwOVRlWEdGeHk1aFF1SVd1b0xyeGJDVjBSZEJTbEpoWDdFdS0wZ2JuZm9mVnJ1NkpvanRkX1dWbm1taVFfZXg2NjVKZHdTMThwbFVtNnRkZDdhVVJhcVJ2T01tTldRa3hZck1mYUs4V05IeVU4S1JfczNTdjF4Q2c1akFyb1lFYjUtSTJtNzNibDNIUUp1cEpqd29vZXB3?oc=5",
@@ -274,15 +295,6 @@
       "sentiment_score": -0.875,
       "sentiment_label": "Negative",
       "confidence": 0.888
-    },
-    {
-      "headline": "Meta Tests AI Shopping Research Tool to Rival ChatGPT, Gemini",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUVmUjhuc1dKSzVEb2Q5T2t0Z19ELWFxaGJSOTlsb3lWQ2VrOHhSZHJqUmZVVDdaR3lmV1drWWZUbmg2QUdxVXltZzU1VHJnLVNyWWtCa3p6ZEJ1dDU2M0NyTTVWR0hSSVQwcDRoaFkwdFI2M19KQ2s3VjlvZWRzMEVZT3ZvQlBEd1ZOQUhXTXVuLTVPWm1DZHdmcW5iNUFVNWdQb1hNSFRCMDEwZ2U5aA?oc=5",
-      "published": "2026-03-03T01:58:00",
-      "sentiment_score": 0.427,
-      "sentiment_label": "Neutral",
-      "confidence": 0.553
     },
     {
       "headline": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
@@ -384,15 +396,6 @@
       "confidence": 0.791
     },
     {
-      "headline": "How OpenAI caved to the Pentagon on AI surveillance",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
-      "published": "2026-03-02T14:22:18Z",
-      "sentiment_score": 0.831,
-      "sentiment_label": "Positive",
-      "confidence": 0.895
-    },
-    {
       "headline": "Opinion | The economy is changing. Don\u2019t forget who fears it most.",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDlkWVJTRUR3RGl3ZGVrd2VMUUVyRC12Z3lxb09ndHJTcG4xYk1PMXdfdXdhaEhmS0JMUjl6YkpTdGZXV0hXU29vWkZhcXN2SlZvR3VNUFVZY2RTbUJfODZpb29xRW5UQkxkMWdtSDN5UnJFdkhuVktEaUpwRDhSZ2xiQXJtcnFfMmtid09nTjJHUEtJVzYtcDNuU1haQjZ1Wng5MU1YcGs3QlFZ?oc=5",
@@ -402,13 +405,22 @@
       "confidence": 0.722
     },
     {
-      "headline": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
+      "headline": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWJ2QmVudEFJN1dOLVpBdXYwSEZtYzBzSmJwUERObVRENWlyOUhfTkNndHE5YjFBY0FCd0MxZWp4NXA2YlhOSGs2c2J6VHFSem9tT2p5Z2hNeFZNT1IxLUJwenZSMTJObmdhd3EzSWJPZWtyOVd0ZXBzdWdKMFNrVnRSblQ5MGdab2I3azRxYw?oc=5",
       "published": "2026-03-01T19:16:04",
-      "sentiment_score": -0.737,
+      "sentiment_score": -0.671,
       "sentiment_label": "Negative",
-      "confidence": 0.758
+      "confidence": 0.694
+    },
+    {
+      "headline": "OpenAI reveals more details about its agreement with the Pentagon",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2taMGcwNlhKNy1DamllWDgzeW9SaENoZW45RHJYdzBhMjIwV1FwNDVVbmsxUUZUc1dMZHh3bm15ZWFZSHNWanhCa2pjc3BuRmdWb05RQmtBQmd3c0NxLUhSSHlUSVBzOVpVX1dZS09DeTdpZ0xma01YZ0xiSFVlR1Y5Y2staEFkZ085TkdqTkZFTHRuQzl1MjdZVEpGN1FK?oc=5",
+      "published": "2026-03-01T16:30:10",
+      "sentiment_score": 0.003,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
     },
     {
       "headline": "Trump orders government to stop using Anthropic in battle over AI use",
