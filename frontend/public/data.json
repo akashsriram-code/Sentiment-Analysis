@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-08T06:33:42.600773",
-  "total_articles": 56,
-  "overall_sentiment": -0.102,
+  "last_updated": "2026-03-08T12:30:11.719386",
+  "total_articles": 55,
+  "overall_sentiment": -0.139,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -177,21 +177,30 @@
     },
     {
       "date": "2026-03-06",
-      "avg_sentiment": 0.229,
-      "article_count": 17,
-      "positive_count": 10,
+      "avg_sentiment": 0.187,
+      "article_count": 14,
+      "positive_count": 7,
       "negative_count": 2,
       "neutral_count": 5,
-      "moving_avg": -0.307
+      "moving_avg": -0.313
     },
     {
       "date": "2026-03-07",
-      "avg_sentiment": -0.122,
-      "article_count": 7,
+      "avg_sentiment": -0.167,
+      "article_count": 5,
       "positive_count": 0,
       "negative_count": 3,
-      "neutral_count": 4,
-      "moving_avg": -0.341
+      "neutral_count": 2,
+      "moving_avg": -0.354
+    },
+    {
+      "date": "2026-03-08",
+      "avg_sentiment": -0.176,
+      "article_count": 4,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 2,
+      "moving_avg": -0.31
     }
   ],
   "source_stats": [
@@ -203,8 +212,8 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.365,
-      "article_count": 8,
+      "avg_sentiment": 0.324,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
@@ -214,22 +223,22 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.299,
+      "source": "The Guardian",
+      "avg_sentiment": -0.286,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.019,
-      "article_count": 3,
+      "avg_sentiment": -0.024,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "Bloomberg",
-      "avg_sentiment": 0.364,
+      "source": "BBC",
+      "avg_sentiment": -0.058,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
@@ -240,31 +249,49 @@
   ],
   "articles": [
     {
-      "headline": "Anthropic\u2019s and OpenAI\u2019s Dance With the Pentagon: What to Know",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTloM3hYYy02dUxFbTNvUkFjSy1yemtQLXZPbVhXZl9tSzRGUVVGem9FbGhkTE5NbzZaMW0wY0J4TGRiRmJUajNVNGY3bXc3RlF0UHE3alVmdzBxbW1GZW1DbUdaWUZGaWN3d2stMzRPX1NPVWZyNExVT2NBRHR3VTgySGNFbTFxSjRxMjBYRlV6bE9qRjNqSmQwbmdZOTI5eWc?oc=5",
-      "published": "2026-03-07T19:36:22",
-      "sentiment_score": -0.012,
+      "headline": "Current and former Block workers say AI can\u2019t do their jobs after Jack Dorsey\u2019s mass layoffs: \u2018You can\u2019t really AI that\u2019",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdFBMOFZGZDJfNjlHRGI4ZlN3TXVsbzBVM0pZR19fcWZtYTJ6eFlvQkFXODNteHY3WjI0SS1jNmF6Skh2UTVVeFNGVElPbzBZZGRZRVlEQUJpNzMyNHk4Y3g0cWU1UkIwVmdDN0RoNnVqZUFNaXRUZTZHUzNvZDdLb1p4TG54Zw?oc=5",
+      "published": "2026-03-08T12:02:00",
+      "sentiment_score": -0.771,
+      "sentiment_label": "Negative",
+      "confidence": 0.787
+    },
+    {
+      "headline": "WPI study uses AI to predict Alzheimer\u2019s",
+      "source": "The Worcester Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmYxSmFYWGxZdHJ1MnVWT2FWOFBnZERIZjZfN0JmZlpycFZsbHdtY3NsMXZ6bk9icmZCdzZXUmJ2cGlqazJUTGdKcV9GQmNoSWFZTGswUVBzYUVpakhqZlNHRUQySjZ2S3hzaGl1VlIyODRQUkp0YkZZRDE5ZmpGSEFpdjJnOHhndmR3?oc=5",
+      "published": "2026-03-08T11:57:09",
+      "sentiment_score": 0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.933
+      "confidence": 0.926
+    },
+    {
+      "headline": "Guest column | I\u2019m a computer scientist. Here\u2019s how we should help aging parents with technology.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zZUdtZlNxQUp5dmEwcmV6aFlxcUJ1UkhfNXFiRkhKSE1JMmlPbFloZkV4S0djeGd2NnNWb1RSUnIwcXFXODRXWFFKYmRDX19jYldOSEE3SFZfSnlDTlYweFJNNDFTOGthWDJEaVVUclBBOUowVkRkejQ4ZGpDdlU?oc=5",
+      "published": "2026-03-08T11:32:37",
+      "sentiment_score": 0.059,
+      "sentiment_label": "Neutral",
+      "confidence": 0.903
+    },
+    {
+      "headline": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOVdNZFVuU2Q1NjFpTzlpTGV0NG9uZWd0M2JIYzBfd1Zad3FVQVNkbTI1cHNDbk9FTnhXSmNPNUdicm0tV3hlckdSMzNXQ0FJSTRKcVlmaG5VQ1dGOUtNVExUTnlrNzV2RWE1WkpMNVZIVXNDcm5wS0pDRXR6S1JDd3AxS1UyQQ?oc=5",
+      "published": "2026-03-08T08:12:42",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
     },
     {
       "headline": "How AI Is Turbocharging the War in Iran",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNazdZNHdMVDFrZTFDSGV5eXRPdmZualFmbkJoYVhQOUtQZXlBOS10VFI0UVVOUEZ3NU5fNzB2ZDc1NUhHRXRYeW5BaXhGWUtKRVB3ZWgyR3UyVExIQmxaNEdiMy12TG9PYzV2NldBdVM0THZaRm40T3gyM1YzMEJITXhyWXlIV3FoeUVlRUZjMlZCM2RQY2hQcW5LMEJObUcweWVFb0dWTlluYlpkcmVSbWM3MDVyd0dJSFNIS0dFRFhITno5YTdMcnN5bGRFNTB6ZU4ycUl4WHhTbjdwMTNrZWRGZFVBY1ZGd01DZHdoS1BiRm5BTFRkRGZTbjZORUhTR05MZjdQRHoxdmpnbVdZZlJsSkpCRnBZSXQ3dDY0LWNIVER5YWE3WWhsZENpV2FCRWo0N3J2enplMVktellDejRzYl9fOXRNdWxUVlJ6WDh4R1JzMjBmVVRFWUtJM092YkVNSlJITGtmTmRnaVp4SGVTSHJNYXlZc29ZUy01NllxdXFBOTc4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQLXg1ZFZBbE1HOUE3Ykstd1l1VG43cnpnbl9KTmRGUGprWDdkb1NVMXZ4dGNqRGtVdHRJN2xWQXotOFNMdzgwWldabnlITm96aDZidUlySWhZak9uanRTZ2VYRzNRQ0JremI5YzZJZ2ZoQ2JoQl9GOGpTbU9EN1V3WXVRMFl4NGlYeU9pRWR3YWlsc2k1Ti1wbHk2X3d6X2NfUTBzT3dxSDRFLWJzSGhXajdKYlcxR0tvS2dNRjJva3h1dW9FcTRtOVktYlZRanl0Nk11WTd1NFg0Si1Mc1Y1SURzMkpmYU0wcVRvRUgxMHFxQU5mTElNQUtycUNVd3RVYi1kT2pyZnBmSlk2clRhUUo5LW5jT3VZZmo3eEJORlNlZWpxTXh1OG1aRTNLSl8yNzBZQXBEN292ZEtQLWFucnVYR2FFdHlEY2puZXJVZEM1TDdsVVJiS0dvM0NNN0JSTXNUaXlrSkxZRGdkWENYSGZha3lXZFFsVDk1MnF2Tkc0NFgwZlB3?oc=5",
       "published": "2026-03-07T17:00:00",
       "sentiment_score": -0.119,
       "sentiment_label": "Neutral",
       "confidence": 0.814
-    },
-    {
-      "headline": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWl84MVlHMnVVbWRzU01PNEdtZFRMSzU0Mmh5Z3FfTXB4SEUzSmV6UUdoRDBUQlZQLWplUWpIYVZTOThxM3dJSnM3YVVDWmhrMjJVYW1mV2dETjN0bmJlRFNPVGQ2cDNaYjZZQmNIZVRMUG8wcVVfcm8zd1RHTTQxMjFBMjFJalREWmRoQQ?oc=5",
-      "published": "2026-03-07T16:58:09",
-      "sentiment_score": -0.006,
-      "sentiment_label": "Neutral",
-      "confidence": 0.923
     },
     {
       "headline": "What does the US military\u2019s feud with Anthropic mean for AI used in war? | AI (artificial intelligence)",
@@ -276,6 +303,15 @@
       "confidence": 0.873
     },
     {
+      "headline": "Artificial intelligence",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+      "published": "2026-03-07T07:01:39",
+      "sentiment_score": -0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
+    {
       "headline": "OpenAI releases AI agent security tool for research preview",
       "source": "Bloomberg",
       "link": "https://www.bloomberg.com/news/articles/2026-03-06/openai-releases-ai-agent-security-tool-for-research-preview",
@@ -283,15 +319,6 @@
       "sentiment_score": 0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.927
-    },
-    {
-      "headline": "Artificial intelligence",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-      "published": "2026-03-07T02:14:36",
-      "sentiment_score": -0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
     },
     {
       "headline": "Robinhood\u2019s startup fund stumbles in NYSE debut | TechCrunch",
@@ -330,24 +357,6 @@
       "confidence": 0.933
     },
     {
-      "headline": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
-      "published": "2026-03-06T22:26:20Z",
-      "sentiment_score": 0.887,
-      "sentiment_label": "Positive",
-      "confidence": 0.933
-    },
-    {
-      "headline": "US Stock Market Today: Dow Plunges 642 Points as Oil Surges Past $78, Nasdaq Holds Steady Amid Iran Tensions; Gold & Silver Rally, Bitcoin Rebounds Above $72K",
-      "source": "The Sunday Guardian",
-      "link": "https://sundayguardianlive.com/business/us-stock-market-today-dow-plunges-642-points-as-oil-surges-past-78-nasdaq-holds-steady-amid-iran-tensions-gold-silver-rally-bitcoin-rebounds-above-72k-174422/",
-      "published": "2026-03-06T19:15:53Z",
-      "sentiment_score": -0.18,
-      "sentiment_label": "Negative",
-      "confidence": 0.476
-    },
-    {
       "headline": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
       "source": "The Verge",
       "link": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
@@ -364,24 +373,6 @@
       "sentiment_score": 0.018,
       "sentiment_label": "Neutral",
       "confidence": 0.69
-    },
-    {
-      "headline": "Apple\u2019s cheap laptop looks like a winner",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer",
-      "published": "2026-03-06T18:32:19Z",
-      "sentiment_score": 0.105,
-      "sentiment_label": "Neutral",
-      "confidence": 0.859
-    },
-    {
-      "headline": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
-      "published": "2026-03-06T18:25:50Z",
-      "sentiment_score": 0.149,
-      "sentiment_label": "Neutral",
-      "confidence": 0.806
     },
     {
       "headline": "Anthropic's\u00a0Pentagon deal is a cautionary tale for startups chasing federal contracts | TechCrunch",
@@ -402,15 +393,6 @@
       "confidence": 0.939
     },
     {
-      "headline": "Samsung reveals first details of its AI smart glasses to CNBC",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
-      "published": "2026-03-06T13:15:43Z",
-      "sentiment_score": 0.268,
-      "sentiment_label": "Neutral",
-      "confidence": 0.715
-    },
-    {
       "headline": "BMO says this cloud stock is an early winner of agentic artificial intelligence boom",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1hkeWZFbnZSTzBGdWRfT2M4S1FWR1FoVjctRHVMbXRHNHhtNzZaTUlfQWI4YmdiTzAzbHJkclV5LUl0VGFsLXlYNDlERVNKMUlBdUtuYnVkQ3Z5d21WYlpESnhxeU9MMkEtN1FJbEZrd3FSTVg3aUVaMm5DX29ZMkJ0dU1VcmxRa09salkxc29DWFpJVGh2LWoyRTdYYmkxM3o5MV9UR0EzaG4tYXc?oc=5",
@@ -429,13 +411,13 @@
       "confidence": 0.567
     },
     {
-      "headline": "Your Artificial Intelligence (AI) questions answered",
+      "headline": "'The days of spotting AI by six fingers are over'",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94MTFzUXFxVTc0bDN2TkdMZEJObnZKM0FIc1JnTDR3TXRWRU1ZUVpLVDNTbGR5ODlrWmUwVzBQYWxfUy1LS0JxRENyWDl3QmtCVVdYdVRGM3Q1QQ?oc=5",
       "published": "2026-03-06T11:35:30",
-      "sentiment_score": -0.006,
+      "sentiment_score": -0.067,
       "sentiment_label": "Neutral",
-      "confidence": 0.926
+      "confidence": 0.829
     },
     {
       "headline": "Why Is Alexa+ So Bad?",
@@ -445,6 +427,24 @@
       "sentiment_score": -0.908,
       "sentiment_label": "Negative",
       "confidence": 0.922
+    },
+    {
+      "headline": "We Trained 3,000 Lawyers in Generative AI. Here\u2019s What We Learned",
+      "source": "Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1lfYmNkTlh6OXpMSUMzbkVkUWFtRWFCbWpPTFVXRFF4OGNZaHhLTzNfc1plOVJRWmQ1RzB5VnNYQWpFSGlmWEVodlJDQ3ozUE90blZSTXVfM2o0TVJnUWFjckZNRmZwbEZWM2lYZnZaY0Y1cUdoUS0ybEc1VUVpRzdpZmVlQWlfTEpzQmVGWGlqNWh4RHViYVp3MnZmczQyVE55M0tyZ3dfaVFNNVMxU1V2UUNpcjFaVkJSUUdDN2hvMS1rNkFVcXZ4MmI?oc=5",
+      "published": "2026-03-06T09:30:00",
+      "sentiment_score": 0.066,
+      "sentiment_label": "Neutral",
+      "confidence": 0.906
+    },
+    {
+      "headline": "Anthropic officially designated a supply chain risk by Pentagon",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03TzU5UVBTYWdNbFhDcThiaG9tbTZXNUMxck1qU0pWMHJsODR1UHZhU3VEdmF1aW1mLVJlVEktajBXc192QW1TSVRBdjlsYlZTRENwazM2ZFcydw?oc=5",
+      "published": "2026-03-06T02:46:30",
+      "sentiment_score": -0.048,
+      "sentiment_label": "Neutral",
+      "confidence": 0.829
     },
     {
       "headline": "Anthropic vows to sue Pentagon over supply chain risk label",
@@ -475,7 +475,7 @@
     },
     {
       "headline": "OpenAI Releases New Financial-Services Tools, Rivaling Anthropic",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2theW10VlhmVzhYVnZFOVphMTZQOE5vVk82bUh6bG1FZkVUeFdMZEh3LU5oR2l6NEJRcFRmbDZiZXhUT3Rpc0t0NmJ4VzZ6THVBZkgtNTkweTNvaTBRcDlmM25PaGJoLXI1ck9nVUhvMUx4a29ubUJ4OU5FYzdDemVaM0wzOFBSM1hXN2hBWWhEdjQxWlVVVWEyQS1haUZpemhsZTVZYi1HUkoxU2w4ZDFXVzU?oc=5",
       "published": "2026-03-05T18:00:05",
       "sentiment_score": 0.728,
