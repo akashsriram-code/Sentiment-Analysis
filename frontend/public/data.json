@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-10T06:39:06.973973",
+  "last_updated": "2026-03-10T12:39:47.387139",
   "total_articles": 30,
-  "overall_sentiment": -0.128,
+  "overall_sentiment": -0.361,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -69,61 +69,61 @@
     },
     {
       "date": "2026-03-06",
-      "avg_sentiment": 0.403,
-      "article_count": 3,
-      "positive_count": 3,
-      "negative_count": 0,
+      "avg_sentiment": -0.841,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.221
+      "moving_avg": -0.399
     },
     {
       "date": "2026-03-07",
-      "avg_sentiment": -0.338,
-      "article_count": 3,
+      "avg_sentiment": -0.106,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.144
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.289
     },
     {
       "date": "2026-03-08",
-      "avg_sentiment": -0.382,
-      "article_count": 3,
+      "avg_sentiment": -0.583,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.205
+      "neutral_count": 0,
+      "moving_avg": -0.378
     },
     {
       "date": "2026-03-09",
-      "avg_sentiment": -0.078,
-      "article_count": 7,
-      "positive_count": 3,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.22
+      "avg_sentiment": -0.61,
+      "article_count": 6,
+      "positive_count": 0,
+      "negative_count": 5,
+      "neutral_count": 1,
+      "moving_avg": -0.47
     },
     {
       "date": "2026-03-10",
-      "avg_sentiment": 0.106,
-      "article_count": 5,
-      "positive_count": 3,
-      "negative_count": 1,
+      "avg_sentiment": -0.201,
+      "article_count": 11,
+      "positive_count": 5,
+      "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.167
+      "moving_avg": -0.46
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.24,
-      "article_count": 9,
+      "avg_sentiment": -0.427,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.382,
-      "article_count": 4,
+      "source": "BBC",
+      "avg_sentiment": -0.515,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -133,31 +133,85 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": 0.021,
+      "source": "TechCrunch",
+      "avg_sentiment": -0.22,
       "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.272,
-      "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "Financial Times",
-      "avg_sentiment": 0.403,
+      "avg_sentiment": 0.452,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.258,
+      "source": "The Guardian",
+      "avg_sentiment": -0.424,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.239,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Opinion | Schools are thinking about AI all wrong",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHhMa1Ntc1dsbVFkV3RJbE5PeHpkSWJIOWIwdWhMQ0RCeGFsR2M5alRLak9NVjNQNU1hQXFEbU0yOUNQRG9tM29MWjRudUl5cW15dVpYVHhmekwyakZ1M1hKaU1LcDBFUF9kckN5Q2t6UjhSUzg0STlhZmo0VXVZNG1TN3E3SFZRdy1zVVhEUkNVc0ZCRDhYZEtzV0xHQlZRTU5HSFc3OFlZeU0?oc=5",
+      "published": "2026-03-10T11:39:38",
+      "sentiment_score": -0.665,
+      "sentiment_label": "Negative",
+      "confidence": 0.686
+    },
+    {
+      "headline": "Tumbler Ridge shooting: Family of victim Maya Gebala sues OpenAI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9adjE2VlR4ZFZkb0ttOXM0em5sN1pWT1VTX0xYX0NSRVVRLTBoUGJPNzFTT0FwaU1xSVptenRxdUppUmU0T0pJQ0szQ1k5RUt6cy1id0puZVpqdw?oc=5",
+      "published": "2026-03-10T11:27:55",
+      "sentiment_score": -0.8,
+      "sentiment_label": "Negative",
+      "confidence": 0.818
+    },
+    {
+      "headline": "Family of child injured in Canada school shooting sues OpenAI",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-10T11:27:55",
+      "sentiment_score": -0.838,
+      "sentiment_label": "Negative",
+      "confidence": 0.859
+    },
+    {
+      "headline": "VIAVI Launches Industry-Leading True-Phase DAS Fiber Sensing Interrogator with AI/ML at the Edge to Enable Real-Time Infrastructure Monitoring \u2013 Company Announcement - FT.com",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVZ6d3R5cUt6MS1ScW4tRzFHOE96NEIxcDRiOW1sQ1pBcVZxUlRXOVFlMmNmSE4ycGxMZ1BGUUVEOEJ0RlRGZzlhOUlXcFZmVERPcEs3RWV3TmM1RGR5Q29PbWJqOGthODMtTjFUYWxESzRqamNhc214X0xpNWRBWTB1YkI4UzI1Ry1CR0lYdWZQZFVUb3N2Zw?oc=5",
+      "published": "2026-03-10T10:30:00",
+      "sentiment_score": 0.314,
+      "sentiment_label": "Neutral",
+      "confidence": 0.668
+    },
+    {
+      "headline": "These diseases were thought to be incurable. Now AI is unlocking new treatments",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVc5TGVUNFB5TUVYb3ZVVHlMdWxXZHpFQl9RbGE1cXZNRnZTZWxHSjRtSnBXcnJ3bllJWjAtR3Q1WUcwOVdfMHZMUGpqSlU3ZGRnRUF2ZUxOV1ZoZmpmU3NqcTdsWVpsR19xYkhfV001ZGdUeUtvU3QzdkI2Tm9URFNmRlNyTG5ld2tiZmVDVHJtMF9wTFE?oc=5",
+      "published": "2026-03-10T10:00:00",
+      "sentiment_score": 0.107,
+      "sentiment_label": "Neutral",
+      "confidence": 0.862
+    },
+    {
+      "headline": "Thousands of authors publish \u2018empty\u2019 book in protest over AI using their work",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEhWS2xfOTNBX2NjMk9qWW9IaG03a0VHSWVmbTlnT1RrdFV0b1hTRk1uU1BDcHIzTjJXN2Y1Qjk0bzJlZFNyWW1DWkZtX253TnhWaDNkc2RtTXhmUFFhV3VBU0tnZjhUdmhraFJyZnpzenA3TFhvdDR5VDg5aFBVa012OW9HZGQ4ZGtqd0NjdXRsZ091dzFqdjdfOVlTYVdfSTdzVmpoR2tyQk95bWs2aUgxMA?oc=5",
+      "published": "2026-03-10T06:02:00",
+      "sentiment_score": -0.862,
+      "sentiment_label": "Negative",
+      "confidence": 0.874
+    },
     {
       "headline": "German start-up plans 30-megawatt AI data centre in boost to sovereign control",
       "source": "Reuters",
@@ -171,7 +225,7 @@
       "headline": "Yann LeCun\u2019s AI start-up raises more than $1bn in Europe\u2019s largest seed round",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xSko1Q3ZieDBjZXVENzlRYll0Nm1Nakg4ejJBZWo2ZnROTEoxREgxOE9kbjV4M3BobHNPbDBTZG10UGl2Mmo1VnVjRm53aW9ZUWFFQ2lHQzVud19OcHFOTENacHNJZ2xKTXp6N1FGOXU?oc=5",
-      "published": "2026-03-10T05:00:28",
+      "published": "2026-03-10T05:00:48",
       "sentiment_score": 0.589,
       "sentiment_label": "Positive",
       "confidence": 0.605
@@ -199,9 +253,9 @@
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdk5EdEVldnRkOWctci1VdzVlSkU4dWdWSUZuNlI0WlRWU1k1WjNQay13LWdEbW82MzFYa1lCTGtHWkFYdExydXJONWd6Wnl3OHZlMF9tTTdDZ2t0UG9PZ3NHZDIwYU9FZGh4NFhhSFp3N2pKdW5Mdm5QOWxwYVRyaGc1dkNrWnlRMDdEeUZ1WEtHS0JPS3MxYW1KeE5OMDZ0NDRaV0tR?oc=5",
       "published": "2026-03-10T01:53:00",
-      "sentiment_score": -0.909,
+      "sentiment_score": -0.902,
       "sentiment_label": "Negative",
-      "confidence": 0.921
+      "confidence": 0.914
     },
     {
       "headline": "OpenAI delays \u2018adult mode\u2019 for ChatGPT to focus on work of higher priority",
@@ -213,6 +267,15 @@
       "confidence": 0.921
     },
     {
+      "headline": "Anthropic Sues Department of Defense Over \u2018Supply Chain Risk\u2019 Label",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmhnaTQ1QW4yV3dwZU1GVU9KVy1GRHdEYnFJejJqenUyQW5BRVJXNGdYY1pMOGhRaTZob3JOYnllSU9weFd4WjB3NUU3X2cyeG1nN3VUeGo2TzJ5Zk1mNVdVWE5ncU9LbDRfUUtCUHZsMTdjTW9Ed2R6N2c1M3lrNUF5UzJQU0JTeXB4QVd5ZDVocGZ2WW00bDQ3TzNYTjdNdEE?oc=5",
+      "published": "2026-03-09T22:12:34",
+      "sentiment_score": -0.887,
+      "sentiment_label": "Negative",
+      "confidence": 0.901
+    },
+    {
       "headline": "Anthropic sues US government for calling it a risk",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00OGdyaUJwYkpKVmJDUUVWOUY2aExxRkR0ekREbmFDakpoc1RtV0tyYkp0a0M5VFVQalhCd1hjeWVYX0pDNk9CZzBDWF8xS2gyMC03N2Q3M2RMQQ?oc=5",
@@ -222,49 +285,31 @@
       "confidence": 0.869
     },
     {
-      "headline": "Anthropic Sues Department of Defense Over \u2018Supply Chain Risk\u2019 Label",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmhnaTQ1QW4yV3dwZU1GVU9KVy1GRHdEYnFJejJqenUyQW5BRVJXNGdYY1pMOGhRaTZob3JOYnllSU9weFd4WjB3NUU3X2cyeG1nN3VUeGo2TzJ5Zk1mNVdVWE5ncU9LbDRfUUtCUHZsMTdjTW9Ed2R6N2c1M3lrNUF5UzJQU0JTeXB4QVd5ZDVocGZ2WW00bDQ3TzNYTjdNdEE?oc=5",
-      "published": "2026-03-09T15:09:27",
-      "sentiment_score": -0.887,
+      "headline": "Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGpfVFBHZ05ocldRM1MxQUFJUjJqNnlKekp4R2FwWlB0NXFjSFExNWNwTFJ6N1djZUxSOXVJVmhLVmh0aGd1OGZ2ejh0WTZULWM3QzRNWmtxc2hzQjBVTkZJM3hUc05JdW5KVC1NWGJsSXlmbWNocTI2eGlZZlF1X3B1ak14RWJpSlF2VGlXTVRPVUlya0oyUHYwaXBndVZRM1FnbC1GRHVma3NDTmgteTNXRGh3Yk4yR1FMSUt0RVp0QQ?oc=5",
+      "published": "2026-03-09T18:42:49",
+      "sentiment_score": -0.621,
       "sentiment_label": "Negative",
-      "confidence": 0.901
+      "confidence": 0.636
     },
     {
-      "headline": "Revealed: UK\u2019s multibillion AI drive is built on \u2018phantom investments\u2019",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkZMRlg3aFdMM0pYckxCWUs3ODVQaUMxeUsyVUhOZXB0dTQ1QTM1a2V6Q1cyNVk0ZFhkLWZseGlrVnY0MUhJNF9vYXY4RHhScF9XYkJBQ1F0QllRckJSQUN4aE5ZV3dPZ3NYWERLaGRBYkZPNGNITkZUWGhxUUJ0Nl9rVGdYVWhRRHh1R1kzREZRNktMTlUzeVVNNnl5WE9Ba1d5U2xkeUNPdmFMc19wTXFnNmFUTFFW?oc=5",
-      "published": "2026-03-09T14:40:00",
-      "sentiment_score": 0.08,
-      "sentiment_label": "Neutral",
-      "confidence": 0.89
-    },
-    {
-      "headline": "Chinese tech hubs promote OpenClaw AI agent, despite security warnings",
+      "headline": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZJdTVTS0VvNk9EWWdXcVRsb2ZYVklhdGxGbF82aFNaQUhyXzhGRkYyWWZhV2ROM1hjelRRY3JTcFgzeElpaWF3LW05Skt5ZXBLS2FLSDVRdGtPUVdhSlRTbFQ0dzJ1SnJBNVExYlRPNmFudUU3Nld5WDNzbUI1YndfNVI3WTBzVTQ5c2QzNUVmZHlpUS13QnV4VW8xbmpkdkNFZmNocWZ0REQyLTBPMkpqdklNWXhOaVB0ZllGOWNMS2V2NTAwUg?oc=5",
-      "published": "2026-03-09T12:22:21",
-      "sentiment_score": 0.354,
-      "sentiment_label": "Positive",
-      "confidence": 0.477
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0lmZjhHS1IwNS02c2ltRkEwaHh2TWNfTFplQlhxN0FUWlZwVTdLNGU5MWxvMGpYXzRjNFRIdDBiMjdSRW1JeWZqZVpiQlVqWkRibjMzMGR2Qk9rUmh2NXhDNnVyM09VcmZISEpRcWNtNDMtRzlxa3I0SzFCdGdUcHFhUDJpY3E5NFNGNVhOZmhjOXpsTGVsOE1LbWJKLWRSOGc5VVJZV1JHMjRITkE?oc=5",
+      "published": "2026-03-09T15:04:13",
+      "sentiment_score": -0.667,
+      "sentiment_label": "Negative",
+      "confidence": 0.693
     },
     {
-      "headline": "How AI firm Anthropic wound up in the Pentagon\u2019s crosshairs",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXdKSXF4WFl2cGEyR1lrTTBLNXVwNE53WEFBdFhDLUtQUUhFdmxtZ2xYT3lpVmJmbXN1T3JjRDV1WHJFakZvUFlFVnpTTWZNUDJBRDB3VmZta1NMWjVTdmJza1NiMWNob1VVNmJwc3VUZjNWZFdBQnNvYlotNHFVWW8wb0VFdlFXOW1kWFl6NW1JUFIxNF9UNw?oc=5",
-      "published": "2026-03-09T11:02:00",
-      "sentiment_score": -0.031,
-      "sentiment_label": "Neutral",
-      "confidence": 0.873
-    },
-    {
-      "headline": "Report: GCs Say They Are Bullish on Europe",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/report-gcs-say-they-are-bullish-on-europe-e674ca30f5ed420e9383730840b46368",
-      "published": "2026-03-09T06:17:59Z",
-      "sentiment_score": 0.777,
-      "sentiment_label": "Positive",
-      "confidence": 0.809
+      "headline": "Can AI Kill the Venture Capitalist?",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/ai-kill-venture-capital/",
+      "published": "2026-03-09T09:00:00Z",
+      "sentiment_score": -0.643,
+      "sentiment_label": "Negative",
+      "confidence": 0.661
     },
     {
       "headline": "Energy infrastructure targeted in Iran strikes",
@@ -285,24 +330,6 @@
       "confidence": 0.591
     },
     {
-      "headline": "WPI study uses AI to predict Alzheimer\u2019s",
-      "source": "The Worcester Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmYxSmFYWGxZdHJ1MnVWT2FWOFBnZERIZjZfN0JmZlpycFZsbHdtY3NsMXZ6bk9icmZCdzZXUmJ2cGlqazJUTGdKcV9GQmNoSWFZTGswUVBzYUVpakhqZlNHRUQySjZ2S3hzaGl1VlIyODRQUkp0YkZZRDE5ZmpGSEFpdjJnOHhndmR3?oc=5",
-      "published": "2026-03-08T11:57:09",
-      "sentiment_score": 0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
-    },
-    {
-      "headline": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "published": "2026-03-07T20:44:25Z",
-      "sentiment_score": -0.869,
-      "sentiment_label": "Negative",
-      "confidence": 0.88
-    },
-    {
       "headline": "OpenAI delays ChatGPT\u2019s \u2018adult mode\u2019 again",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12SHBNLUpkMDItQlNzN3RkVDU5dFhTM1BfSjlNRndlbk1UWlVTeFZFelg1aUtIZXB5Uml6NFVsWmdiMFQ2MEVsZFBCU3pOTE1Eelc2XzRtaXh4a2FPU1VrTDNqajFXVkdJMkhwLW9hWFd3YVpnN2prRmZkLVNZZ0E?oc=5",
@@ -312,40 +339,13 @@
       "confidence": 0.764
     },
     {
-      "headline": "When to talk to AI chatbots about mental health\u2014and when to stay far away, professionals say",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/07/when-you-shouldand-shouldntuse-chatgpt-as-a-therapist-from-experts.html",
-      "published": "2026-03-07T14:05:01Z",
-      "sentiment_score": -0.038,
-      "sentiment_label": "Neutral",
-      "confidence": 0.907
-    },
-    {
-      "headline": "Oracle and OpenAI scrap deal to expand flagship Texas data centre",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ERUJNUWFHY2RpV3MtMkFYX212b2E3THRHN24yc18xWjdEUmYxeXNLeUdCUzZOU25xZHB6VDF5dFZpMVRTNzBVQ1hBSkJuV0FXVU1seW1RbW9Mdks2RW5BU3pYZVY2VkJ6ZXY1eVNwb2U?oc=5",
-      "published": "2026-03-06T22:40:01",
-      "sentiment_score": 0.218,
-      "sentiment_label": "Neutral",
-      "confidence": 0.753
-    },
-    {
-      "headline": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
+      "headline": "London mayor courts embattled AI firm Anthropic",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-03-06T21:49:18",
-      "sentiment_score": 0.439,
-      "sentiment_label": "Neutral",
-      "confidence": 0.511
-    },
-    {
-      "headline": "Buy Netflix as ads, pricing power and generative AI drive growth, says CFRA",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjZwQXhTRWJUQldZUmQzQjJXNXhoNHlNMFRkOVpjZU9mSVE4ai1iWklJOVJKRnBxcHdUT2p3cjc2ZzlqSnc2c1E0MU1yMG9uUXRrdEVNZEJyY0tGYklBMjVVZmt5SU8xMnNOQzBoaUM1OXBOY2gtYi1qZUpNMmZ6Q3JEakNocVhDaWRpWTV0WXJyMm9VcVZKZTA5YmJGMFBTWk0xMV80NGpOSXR5emRv?oc=5",
-      "published": "2026-03-06T12:14:46",
-      "sentiment_score": 0.553,
-      "sentiment_label": "Positive",
-      "confidence": 0.567
+      "sentiment_score": -0.841,
+      "sentiment_label": "Negative",
+      "confidence": 0.871
     },
     {
       "headline": "Musk tells jury 'people read too much' into his posts",
