@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-09T18:41:18.683304",
-  "total_articles": 30,
-  "overall_sentiment": -0.169,
+  "last_updated": "2026-03-10T01:10:58.722819",
+  "total_articles": 28,
+  "overall_sentiment": -0.234,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,21 +60,21 @@
     },
     {
       "date": "2026-03-05",
-      "avg_sentiment": -0.716,
-      "article_count": 2,
+      "avg_sentiment": -0.533,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.336
+      "moving_avg": -0.31
     },
     {
       "date": "2026-03-06",
-      "avg_sentiment": 0.209,
-      "article_count": 6,
-      "positive_count": 4,
+      "avg_sentiment": 0.237,
+      "article_count": 5,
+      "positive_count": 3,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.275
+      "moving_avg": -0.245
     },
     {
       "date": "2026-03-07",
@@ -83,45 +83,54 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.213
+      "moving_avg": -0.183
     },
     {
       "date": "2026-03-08",
-      "avg_sentiment": 0.158,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 1,
+      "avg_sentiment": -0.276,
+      "article_count": 5,
+      "positive_count": 0,
+      "negative_count": 3,
       "neutral_count": 2,
-      "moving_avg": -0.197
+      "moving_avg": -0.229
     },
     {
       "date": "2026-03-09",
-      "avg_sentiment": -0.234,
-      "article_count": 6,
-      "positive_count": 2,
+      "avg_sentiment": -0.448,
+      "article_count": 4,
+      "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.234
+      "moving_avg": -0.297
+    },
+    {
+      "date": "2026-03-10",
+      "avg_sentiment": 0.08,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.247
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.166,
-      "article_count": 8,
+      "avg_sentiment": -0.305,
+      "article_count": 10,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.458,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.191,
-      "article_count": 6,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.387,
+      "avg_sentiment": 0.06,
       "article_count": 5,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     },
     {
       "source": "The Guardian",
@@ -131,62 +140,47 @@
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.869,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.327,
+      "avg_sentiment": -0.883,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "OpenAI delays \u2018adult mode\u2019 for ChatGPT to focus on work of higher priority",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSU5PdGdwUDRfYzVVdWRnNUVEX1FaTkxHbHk3QUQwT0JPRC1lcGFoMTZkQ1lQOUN2ZFBrWGlTTm9QcE11WnNzZ3RNQVNLT2hUYTd1X2o1M01idXUwUHk4OEJZX2tRMV9EWVRGeVlWckNSRVNlTzJBcU0yN2RjVG1rWXBGbzZpYjR0aHR3aVZXQXRSVzN1SVVYTDF4aXdfbVZCRkFDTXBmeVFYVlQtbDVfbUhsTHRVY1d4ZTNpLVpYZmc?oc=5",
-      "published": "2026-03-09T18:26:00",
-      "sentiment_score": 0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.921
-    },
-    {
-      "headline": "Anthropic sues US government for calling it a risk",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00OGdyaUJwYkpKVmJDUUVWOUY2aExxRkR0ekREbmFDakpoc1RtV0tyYkp0a0M5VFVQalhCd1hjeWVYX0pDNk9CZzBDWF8xS2gyMC03N2Q3M2RMQQ?oc=5",
-      "published": "2026-03-09T16:18:03",
-      "sentiment_score": -0.853,
-      "sentiment_label": "Negative",
-      "confidence": 0.869
-    },
-    {
       "headline": "Revealed: UK\u2019s multibillion AI drive is built on \u2018phantom investments\u2019",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkZMRlg3aFdMM0pYckxCWUs3ODVQaUMxeUsyVUhOZXB0dTQ1QTM1a2V6Q1cyNVk0ZFhkLWZseGlrVnY0MUhJNF9vYXY4RHhScF9XYkJBQ1F0QllRckJSQUN4aE5ZV3dPZ3NYWERLaGRBYkZPNGNITkZUWGhxUUJ0Nl9rVGdYVWhRRHh1R1kzREZRNktMTlUzeVVNNnl5WE9Ba1d5U2xkeUNPdmFMc19wTXFnNmFUTFFW?oc=5",
-      "published": "2026-03-09T16:12:00",
+      "published": "2026-03-10T00:29:00",
       "sentiment_score": 0.08,
       "sentiment_label": "Neutral",
       "confidence": 0.89
     },
     {
-      "headline": "Anthropic Sues Pentagon Over \u2018Supply Chain Risk\u2019 Label",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmhnaTQ1QW4yV3dwZU1GVU9KVy1GRHdEYnFJejJqenUyQW5BRVJXNGdYY1pMOGhRaTZob3JOYnllSU9weFd4WjB3NUU3X2cyeG1nN3VUeGo2TzJ5Zk1mNVdVWE5ncU9LbDRfUUtCUHZsMTdjTW9Ed2R6N2c1M3lrNUF5UzJQU0JTeXB4QVd5ZDVocGZ2WW00bDQ3TzNYTjdNdEE?oc=5",
-      "published": "2026-03-09T15:09:27",
-      "sentiment_score": -0.86,
-      "sentiment_label": "Negative",
-      "confidence": 0.876
+      "headline": "OpenAI delays \u2018adult mode\u2019 for ChatGPT to focus on work of higher priority",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSU5PdGdwUDRfYzVVdWRnNUVEX1FaTkxHbHk3QUQwT0JPRC1lcGFoMTZkQ1lQOUN2ZFBrWGlTTm9QcE11WnNzZ3RNQVNLT2hUYTd1X2o1M01idXUwUHk4OEJZX2tRMV9EWVRGeVlWckNSRVNlTzJBcU0yN2RjVG1rWXBGbzZpYjR0aHR3aVZXQXRSVzN1SVVYTDF4aXdfbVZCRkFDTXBmeVFYVlQtbDVfbUhsTHRVY1d4ZTNpLVpYZmc?oc=5",
+      "published": "2026-03-09T22:25:00",
+      "sentiment_score": 0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.921
     },
     {
-      "headline": "China's Shenzhen backs OpenClaw AI with subsidies, despite Beijing's security concerns",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZJdTVTS0VvNk9EWWdXcVRsb2ZYVklhdGxGbF82aFNaQUhyXzhGRkYyWWZhV2ROM1hjelRRY3JTcFgzeElpaWF3LW05Skt5ZXBLS2FLSDVRdGtPUVdhSlRTbFQ0dzJ1SnJBNVExYlRPNmFudUU3Nld5WDNzbUI1YndfNVI3WTBzVTQ5c2QzNUVmZHlpUS13QnV4VW8xbmpkdkNFZmNocWZ0REQyLTBPMkpqdklNWXhOaVB0ZllGOWNMS2V2NTAwUg?oc=5",
-      "published": "2026-03-09T12:22:21",
-      "sentiment_score": 0.246,
-      "sentiment_label": "Neutral",
-      "confidence": 0.665
+      "headline": "Anthropic Sues Department of Defense Over \u2018Supply Chain Risk\u2019 Label",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmhnaTQ1QW4yV3dwZU1GVU9KVy1GRHdEYnFJejJqenUyQW5BRVJXNGdYY1pMOGhRaTZob3JOYnllSU9weFd4WjB3NUU3X2cyeG1nN3VUeGo2TzJ5Zk1mNVdVWE5ncU9LbDRfUUtCUHZsMTdjTW9Ed2R6N2c1M3lrNUF5UzJQU0JTeXB4QVd5ZDVocGZ2WW00bDQ3TzNYTjdNdEE?oc=5",
+      "published": "2026-03-09T22:12:34",
+      "sentiment_score": -0.887,
+      "sentiment_label": "Negative",
+      "confidence": 0.901
+    },
+    {
+      "headline": "Anthropic sues US government for calling it a risk",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-09T21:33:05",
+      "sentiment_score": -0.89,
+      "sentiment_label": "Negative",
+      "confidence": 0.908
     },
     {
       "headline": "How AI firm Anthropic wound up in the Pentagon\u2019s crosshairs",
@@ -196,6 +190,24 @@
       "sentiment_score": -0.031,
       "sentiment_label": "Neutral",
       "confidence": 0.873
+    },
+    {
+      "headline": "Energy infrastructure targeted in Iran strikes",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/programmes/w172zssm2n20mx2",
+      "published": "2026-03-08T22:01:00Z",
+      "sentiment_score": -0.828,
+      "sentiment_label": "Negative",
+      "confidence": 0.852
+    },
+    {
+      "headline": "Will the Pentagon\u2019s Anthropic controversy scare startups away from defense work? | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+      "published": "2026-03-08T20:14:52Z",
+      "sentiment_score": -0.338,
+      "sentiment_label": "Neutral",
+      "confidence": 0.591
     },
     {
       "headline": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
@@ -216,22 +228,13 @@
       "confidence": 0.58
     },
     {
-      "headline": "Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
-      "published": "2026-03-08T12:56:07Z",
-      "sentiment_score": 0.849,
-      "sentiment_label": "Positive",
-      "confidence": 0.861
-    },
-    {
-      "headline": "A roadmap for AI, if anyone will listen | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-      "published": "2026-03-08T06:07:27Z",
-      "sentiment_score": 0.015,
+      "headline": "WPI study uses AI to predict Alzheimer\u2019s",
+      "source": "The Worcester Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmYxSmFYWGxZdHJ1MnVWT2FWOFBnZERIZjZfN0JmZlpycFZsbHdtY3NsMXZ6bk9icmZCdzZXUmJ2cGlqazJUTGdKcV9GQmNoSWFZTGswUVBzYUVpakhqZlNHRUQySjZ2S3hzaGl1VlIyODRQUkp0YkZZRDE5ZmpGSEFpdjJnOHhndmR3?oc=5",
+      "published": "2026-03-08T11:57:09",
+      "sentiment_score": 0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.901
+      "confidence": 0.926
     },
     {
       "headline": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal | TechCrunch",
@@ -313,24 +316,6 @@
       "sentiment_score": 0.553,
       "sentiment_label": "Positive",
       "confidence": 0.567
-    },
-    {
-      "headline": "We Trained 3,000 Lawyers in Generative AI. Here\u2019s What We Learned",
-      "source": "Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1lfYmNkTlh6OXpMSUMzbkVkUWFtRWFCbWpPTFVXRFF4OGNZaHhLTzNfc1plOVJRWmQ1RzB5VnNYQWpFSGlmWEVodlJDQ3ozUE90blZSTXVfM2o0TVJnUWFjckZNRmZwbEZWM2lYZnZaY0Y1cUdoUS0ybEc1VUVpRzdpZmVlQWlfTEpzQmVGWGlqNWh4RHViYVp3MnZmczQyVE55M0tyZ3dfaVFNNVMxU1V2UUNpcjFaVkJSUUdDN2hvMS1rNkFVcXZ4MmI?oc=5",
-      "published": "2026-03-06T09:30:00",
-      "sentiment_score": 0.066,
-      "sentiment_label": "Neutral",
-      "confidence": 0.906
-    },
-    {
-      "headline": "OpenAI hit with lawsuit claiming ChatGPT acted as an unlicensed lawyer",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFJidzdqOGwyNHp6ajRUclBSV1JyOThwclZXNUNjcFZrOHN5b3AxXzlkTUphZFgtc3g1RzN2LVEtZ1B0ZExxOFgwa0tUZi1CbEFXNjVBVV96U3JUd2FkRktsbHlmQ0owMkhZN25RMzRya01uR1NLUzYzVzQ3MWVaSVotOWhHekhEQlFoemlQRmZuS19EY2Z6U0JuN0NaSHBTUUJ3U202NjUzRUNXMldTeDlpc01VU0JXSDFwVk5LUmg?oc=5",
-      "published": "2026-03-05T15:05:43",
-      "sentiment_score": -0.899,
-      "sentiment_label": "Negative",
-      "confidence": 0.916
     },
     {
       "headline": "Musk tells jury 'people read too much' into his posts",
