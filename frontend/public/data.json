@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11T01:11:49.466794",
+  "last_updated": "2026-03-11T06:41:46.212424",
   "total_articles": 45,
-  "overall_sentiment": -0.231,
+  "overall_sentiment": -0.232,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,74 +60,68 @@
     },
     {
       "date": "2026-03-09",
-      "avg_sentiment": -0.212,
-      "article_count": 18,
-      "positive_count": 7,
-      "negative_count": 10,
+      "avg_sentiment": -0.353,
+      "article_count": 13,
+      "positive_count": 3,
+      "negative_count": 9,
       "neutral_count": 1,
-      "moving_avg": -0.468
+      "moving_avg": -0.488
     },
     {
       "date": "2026-03-10",
-      "avg_sentiment": -0.185,
-      "article_count": 19,
-      "positive_count": 7,
-      "negative_count": 7,
+      "avg_sentiment": -0.124,
+      "article_count": 23,
+      "positive_count": 10,
+      "negative_count": 8,
       "neutral_count": 5,
-      "moving_avg": -0.369
+      "moving_avg": -0.381
     },
     {
       "date": "2026-03-11",
-      "avg_sentiment": 0.009,
-      "article_count": 2,
-      "positive_count": 0,
+      "avg_sentiment": 0.028,
+      "article_count": 3,
+      "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.374
+      "moving_avg": -0.383
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.232,
-      "article_count": 12,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.281,
-      "article_count": 5,
+      "avg_sentiment": -0.195,
+      "article_count": 13,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.326,
+      "avg_sentiment": -0.365,
+      "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.322,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.195,
+      "avg_sentiment": 0.062,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.177,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Wired",
-      "avg_sentiment": -0.246,
-      "article_count": 3,
+      "avg_sentiment": -0.114,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": 0.017,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.214,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Washington Post",
@@ -140,9 +134,24 @@
       "avg_sentiment": -0.347,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": 0.431,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmpDMDBiUXcybzhCdUxmR0JOOG5yc0RVX3N0MkNCWVJneXB1N1E2SVlJZGNtbTBKYWl2Y25fQVFwM1pDWDBlNEZiVF9HRTNGLTJLSjI5RE5tenRzUXBJMmpSbm93SnlHLXdMcHRmSExhQzlCRnJMamVyazJjV0oxY2xqc2NZWDVfcVhFOXNKNmtINGd1UU9ZMXY1TlRGNG1pOExIM0ltUURmd2xIWWNoS2Jn?oc=5",
+      "published": "2026-03-11T04:52:00",
+      "sentiment_score": 0.068,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
     {
       "headline": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
       "source": "CNBC",
@@ -171,15 +180,6 @@
       "confidence": 0.844
     },
     {
-      "headline": "Ford is giving its commercial fleet business an AI makeover",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc05BLXJvOXVadTAzekI1ZVpFUWY0Y1RTV1pyRTJTbEdYbjRRUHlUbGUxSEhuUDNlX1lCazM2NlphbWhRYjJhWmFfcFNaYUpOLW45TEE5NGZ4cXRGYmdCd1ltbmRXYmJ5MWRDNTRTRGhnV2tXN1VPUmIzaGpVVVQ3ekIzYTQxXzk5V3Z5TWlKTQ?oc=5",
-      "published": "2026-03-10T21:30:00",
-      "sentiment_score": 0.246,
-      "sentiment_label": "Neutral",
-      "confidence": 0.728
-    },
-    {
       "headline": "Meta urged to boost oversight of fake AI videos",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss",
@@ -196,6 +196,15 @@
       "sentiment_score": 0.113,
       "sentiment_label": "Neutral",
       "confidence": 0.858
+    },
+    {
+      "headline": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmEzVlZ5QzFJaWpXOHdWQW4xOG9INWNBdmFNbHJzVDhMdUVuczA4SDhTTy1yWEtsYUZHUEk5OFhLbU9iOEh6TFF4ZjdTVE1TVUhDX1d2RDBlY1g4cUdhREJIVFpudUhMbXVRc2NGb1RRZFVrWVFza3BKMVR2OFItYW0wNTdHUDI2dzk5UFR2MA?oc=5",
+      "published": "2026-03-10T18:59:47",
+      "sentiment_score": -0.56,
+      "sentiment_label": "Negative",
+      "confidence": 0.583
     },
     {
       "headline": "Opinion | Schools are teaching AI \u2014 and making a massive mistake",
@@ -226,8 +235,8 @@
     },
     {
       "headline": "Generative AI is Ready Now. Are Your Marketing Operations?",
-      "source": "The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQMDhHeWoweTNsd1BlMlEtMGFqSHo5MU1nMUNfM3pma2tzWlQtSXpGN013TEVxOExhcGpmWmNLMWxZeHRLLWpHWDJHMmNvbVdGWTgwNTktaHVQWmt5X2RMZGV2b3NjQmdvdjdvRGVQTTZmcmY4cnhtbm5fYlpNS1RFYkcxLUZvaVdNdlRsc0ZDZTQ0ei1ET0FkQUc3Z1FfRHAyMmZVQkJORDlDdUxIVDhSYllDQkZBUEFYZkxiYWtfRENDbmxySWt2NGdiNTV3cHlOM2Ezd2ZFVm1FN1dLX0ZtdElhTm1sMEExQzM5NE1XMWVuQ2hJVVdnRVBkZ0VXSUFkd3ZCY3RPLUd6clkxN2tYM0xKZmxfZlZmUWZQS2hiR3RrbWQwWUctWFdWODBDUGFlQkxyU09uZjZuRFR2a1MxeFdPcFVpSjZPeS16bGNPVzgtUlprZEFISlpHOHloS3FQNEowRHNfblVIdXhOQ1hoRlBESnZzdm9QV1RXcERwOWZ1TDlOVzdTdnEtYW9jSV93V3A3VC1PNF9sWi1OT0ln?oc=5",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNNU5qMHlIRmhPb1V0TmZjZnlnbW9fMDQwWnVLd3dyRzdEUjJLWnVVZU5yZ2VpMU5zMzVLMi1jRVhNRlN3M2ZkdW43SmtnNWlBbERBM28tQll0d0R0eF9IdS1mVlVmQUFldjBOVVZXb0NuMU5QVk5GeG8xU294Wk5pZGNfbzlib2tROUZRcUNJSFhIY0FfTWlnNWthNDRzMWlyU1BQeEZPMEVDVzBRR0tVRmp5QU9tSmJFbWNkYTllcHFfZWh5WW9vS1p3RmJ6Y3BkUkJwVVRpNVEtSXVZalZxazNybGZPdk5Fdk9PSmZpTDdienJNNjZaT2hJQmNuVjVrbVdIa3U0dmhZS1hDSWN3Zk4ySlFPQldYWTNocEJrZlczdmlQVzh4T2FiZXJZUVczTldqajZ5QUU4cWN6eTJwdzJGbGZvb3prWnpyYTJLWUxiYUk5QTVMQm9mRWdrUG9sWlRRb2tUWlFKdEZXYVVGTU5OOWoxdVBmeDNkM19tb1BKcUtsTmFnLW9mRllobEZsUldfeVpfMTA0Y2xwb2xV?oc=5",
       "published": "2026-03-10T16:00:00",
       "sentiment_score": 0.035,
       "sentiment_label": "Neutral",
@@ -243,6 +252,15 @@
       "confidence": 0.715
     },
     {
+      "headline": "Family of Tumbler Ridge shooting victim sues OpenAI alleging it could have prevented attack",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmFHdjFoQnZsSFR2VTJfWGVSWjZrRHRCXzZ1cVl5eUNOMTB5T1VTb2IyRV8zZ2I2RTNnN0FDSlYwQ1gyLWxuNlVHQ0w2anhXS21DMXdGeDZqbGZGeVdELUhxWEM2RzN2UlcwU0FXajUzUVNwZzVQcVpqdlBQRVZjY1g3VUN4a3hBRDd4NU1HUG1Ed0FRdHRRUWZR?oc=5",
+      "published": "2026-03-10T15:16:00",
+      "sentiment_score": -0.674,
+      "sentiment_label": "Negative",
+      "confidence": 0.7
+    },
+    {
       "headline": "How Do You Use A.I. for Daily Life?",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kQmFOVWgwOGl2Mm5COVFzaDYzMUdEOXl2bGtYM3c5US1teWFOY1hFb0lxSmJiUDVxOVIwRDMwNHBZXzJqXzJhSmE0Mmk3VmhKaW5pbUdSODZFQkZuQTNVRWFEQnF1MFkwamxJQ3RzbnRfdnU3am03QjkzTXc?oc=5",
@@ -250,15 +268,6 @@
       "sentiment_score": -0.002,
       "sentiment_label": "Neutral",
       "confidence": 0.942
-    },
-    {
-      "headline": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEVUZUJUa0hMV2w4U2RBS2NqZGo1MlVydG4tRGtzR0k1akpqSktmNk9FU3U0VDZPR0xHU09MTkREaVZmeGpLM083bEV4SzloY2FWMkpmejh3ZXpJNFU3MlRMMDcyc2lkOTM2TktrMDBuQ2xaMGdjMXBVUUZOaE82ZjBDcFI?oc=5",
-      "published": "2026-03-10T14:36:13",
-      "sentiment_score": 0.026,
-      "sentiment_label": "Neutral",
-      "confidence": 0.936
     },
     {
       "headline": "Tumbler Ridge shooting: Family of victim Maya Gebala sues OpenAI",
@@ -288,22 +297,58 @@
       "confidence": 0.862
     },
     {
-      "headline": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWi11UmZSdldxNjBEcGw2djV5MWtmVXVvU0I4LTU2Q1ZfZmRjZU1vQXo5MmtLbDdqa3BYbGt2bmJXOUMxLTdsYjlqZ2pRRlZRTklJNzBPM2R6aWlUdkp2amg2cEFOVEFBYWkyOExrY1ZLem1fcXlGWm5OQVNHNmlZcTBkZWw2bk95R1VzV0pnZmdKUkc0ZHd6SUVlUGo5cW9BRk5pNE9sQ2FSSUtzRjRj?oc=5",
-      "published": "2026-03-10T05:00:00",
-      "sentiment_score": 0.632,
-      "sentiment_label": "Positive",
-      "confidence": 0.643
+      "headline": "University joins UK's \u00a317bn space sector",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c4gjy938vg7o",
+      "published": "2026-03-10T06:10:41Z",
+      "sentiment_score": 0.253,
+      "sentiment_label": "Neutral",
+      "confidence": 0.731
     },
     {
-      "headline": "Family sues ChatGPT-maker OpenAI over school shooting in Canada",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdk5EdEVldnRkOWctci1VdzVlSkU4dWdWSUZuNlI0WlRWU1k1WjNQay13LWdEbW82MzFYa1lCTGtHWkFYdExydXJONWd6Wnl3OHZlMF9tTTdDZ2t0UG9PZ3NHZDIwYU9FZGh4NFhhSFp3N2pKdW5Mdm5QOWxwYVRyaGc1dkNrWnlRMDdEeUZ1WEtHS0JPS3MxYW1KeE5OMDZ0NDRaV0tR?oc=5",
-      "published": "2026-03-10T01:53:00",
-      "sentiment_score": -0.909,
-      "sentiment_label": "Negative",
-      "confidence": 0.921
+      "headline": "Nvidia plans open-source AI agent platform \u2018NemoClaw\u2019 for enterprises: Wired",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
+      "published": "2026-03-10T05:52:16Z",
+      "sentiment_score": 0.198,
+      "sentiment_label": "Neutral",
+      "confidence": 0.784
+    },
+    {
+      "headline": "Yann LeCun's AMI Labs raises $1.03 billion to build world models | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "published": "2026-03-10T05:01:38Z",
+      "sentiment_score": 0.312,
+      "sentiment_label": "Neutral",
+      "confidence": 0.671
+    },
+    {
+      "headline": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEVUZUJUa0hMV2w4U2RBS2NqZGo1MlVydG4tRGtzR0k1akpqSktmNk9FU3U0VDZPR0xHU09MTkREaVZmeGpLM083bEV4SzloY2FWMkpmejh3ZXpJNFU3MlRMMDcyc2lkOTM2TktrMDBuQ2xaMGdjMXBVUUZOaE82ZjBDcFI?oc=5",
+      "published": "2026-03-10T05:00:11",
+      "sentiment_score": 0.026,
+      "sentiment_label": "Neutral",
+      "confidence": 0.936
+    },
+    {
+      "headline": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "published": "2026-03-10T05:00:00Z",
+      "sentiment_score": 0.282,
+      "sentiment_label": "Neutral",
+      "confidence": 0.699
+    },
+    {
+      "headline": "bitBiome and Kyoritsu Seiyaku Announce Strategic Collaboration in Animal Health and Nutrition",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/pr-newswire/bitbiome-and-kyoritsu-seiyaku-announce-strategic-collaboration-in-animal-health-and-nutrition-dd58b714cebded70c94499a3c1abb10a",
+      "published": "2026-03-10T03:22:49Z",
+      "sentiment_score": 0.821,
+      "sentiment_label": "Positive",
+      "confidence": 0.83
     },
     {
       "headline": "Fierce Healthcare Names SpotitEarly a \u201cFierce 15\u201d Company of 2026",
@@ -405,42 +450,6 @@
       "confidence": 0.926
     },
     {
-      "headline": "Agri-Pulse Summit Confirms Senate Ag Chair and EPA Admin",
-      "source": "AgWired",
-      "link": "https://agwired.com/2026/03/09/agri-pulse-summit-confirms-senate-ag-chair-and-epa-admin/",
-      "published": "2026-03-09T19:36:23Z",
-      "sentiment_score": 0.096,
-      "sentiment_label": "Neutral",
-      "confidence": 0.877
-    },
-    {
-      "headline": "Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGpfVFBHZ05ocldRM1MxQUFJUjJqNnlKekp4R2FwWlB0NXFjSFExNWNwTFJ6N1djZUxSOXVJVmhLVmh0aGd1OGZ2ejh0WTZULWM3QzRNWmtxc2hzQjBVTkZJM3hUc05JdW5KVC1NWGJsSXlmbWNocTI2eGlZZlF1X3B1ak14RWJpSlF2VGlXTVRPVUlya0oyUHYwaXBndVZRM1FnbC1GRHVma3NDTmgteTNXRGh3Yk4yR1FMSUt0RVp0QQ?oc=5",
-      "published": "2026-03-09T18:42:49",
-      "sentiment_score": -0.621,
-      "sentiment_label": "Negative",
-      "confidence": 0.636
-    },
-    {
-      "headline": "OpenAI to buy cybersecurity startup Promptfoo to better safeguard AI agents",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html",
-      "published": "2026-03-09T18:37:22Z",
-      "sentiment_score": 0.406,
-      "sentiment_label": "Neutral",
-      "confidence": 0.579
-    },
-    {
-      "headline": "OpenAI acquires Promptfoo to secure its AI agents | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-      "published": "2026-03-09T17:49:04Z",
-      "sentiment_score": 0.841,
-      "sentiment_label": "Positive",
-      "confidence": 0.852
-    },
-    {
       "headline": "Ukraine biathlete credits ChatGPT for Paralympic medal",
       "source": "BBC News",
       "link": "https://www.bbc.com/sport/articles/c2lrykgygnyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -484,15 +493,6 @@
       "sentiment_score": -0.887,
       "sentiment_label": "Negative",
       "confidence": 0.901
-    },
-    {
-      "headline": "Hasbro\u2019s CEO has an AI Peppa Pig help design toys",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs",
-      "published": "2026-03-09T14:02:09Z",
-      "sentiment_score": 0.059,
-      "sentiment_label": "Neutral",
-      "confidence": 0.908
     },
     {
       "headline": "London mayor courts embattled AI firm Anthropic",
