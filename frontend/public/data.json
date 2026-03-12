@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11T18:44:07.627497",
-  "total_articles": 39,
-  "overall_sentiment": -0.104,
+  "last_updated": "2026-03-12T01:09:10.774514",
+  "total_articles": 36,
+  "overall_sentiment": -0.149,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,83 +23,74 @@
       "moving_avg": 0.036
     },
     {
-      "date": "2026-03-07",
-      "avg_sentiment": -0.106,
+      "date": "2026-03-09",
+      "avg_sentiment": 0.014,
       "article_count": 1,
       "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.011
-    },
-    {
-      "date": "2026-03-09",
-      "avg_sentiment": -0.438,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.118
+      "moving_avg": 0.029
     },
     {
       "date": "2026-03-10",
-      "avg_sentiment": -0.123,
-      "article_count": 26,
-      "positive_count": 15,
-      "negative_count": 10,
-      "neutral_count": 1,
-      "moving_avg": -0.119
+      "avg_sentiment": -0.136,
+      "article_count": 22,
+      "positive_count": 9,
+      "negative_count": 9,
+      "neutral_count": 4,
+      "moving_avg": -0.013
     },
     {
       "date": "2026-03-11",
-      "avg_sentiment": 0.006,
-      "article_count": 8,
-      "positive_count": 4,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.098
+      "avg_sentiment": -0.222,
+      "article_count": 11,
+      "positive_count": 5,
+      "negative_count": 5,
+      "neutral_count": 1,
+      "moving_avg": -0.054
     }
   ],
   "source_stats": [
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.122,
+      "source": "CNBC",
+      "avg_sentiment": -0.02,
       "article_count": 8,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     },
     {
       "source": "BBC News",
-      "avg_sentiment": -0.3,
-      "article_count": 7,
+      "avg_sentiment": -0.211,
+      "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.086,
+      "source": "TechCrunch",
+      "avg_sentiment": -0.061,
       "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.057,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.118,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.03,
-      "article_count": 3,
+      "avg_sentiment": 0.02,
+      "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.115,
-      "article_count": 3,
+      "avg_sentiment": -0.106,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.463,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.164,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -110,6 +101,42 @@
     }
   ],
   "articles": [
+    {
+      "headline": "Big Tech backs Anthropic in fight against Trump administration",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-11T22:46:44",
+      "sentiment_score": -0.89,
+      "sentiment_label": "Negative",
+      "confidence": 0.914
+    },
+    {
+      "headline": "Atlassian lays off 1,600 workers ahead of AI push",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd29KN3QxWVhXYzhzbHJIYVZENUk4ejFqck43N1RneEVhQUp2cWwxLVlOZURtbEwzcG0zT1l0NThGVVBRYTJiV2VXRTczRlRrNEhGeU9aNzJSNTMtaUpRZkFPSjFadTA5dEVWSVBjc0FENGdlZTM1aGRMd3Vha3lsYVlKb045cUVWbFRiTWU0Rmt5UVVEdGJnN3doZjhvdFlldTdyX2t1eW5kS0xMTmNKLVpxcEZwTHRwV0FkOA?oc=5",
+      "published": "2026-03-11T21:55:00",
+      "sentiment_score": -0.941,
+      "sentiment_label": "Negative",
+      "confidence": 0.95
+    },
+    {
+      "headline": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDF3dnNraGE0Vlg4aXAtdWRTVUZ4UzhQaVExVHNjSE5BU1Zic1BWaGFnSjFsX2kwMEdqeGhpbnh6cVhnTGpROWgxblM5NkY4NGhJUUdfdDBuVmVfUG5oTkhOOHJ5czZXZW45djM4MWRHY0xxakhLbDRNMmV5Um56WmVZb2xlbl9GUVF0VEtEWkpyTU9EOGtHajFvd2lCMnlxcGN5NmhaY3BGb0420gGyAUFVX3lxTE12bGZucXhwRFRjVjFQbno4YVlzeWgwLWtiU1FtakpIakJuOTkySDVPMlF5RmVRT1E1OF9SXzY2V0FlMUh3TEh3OENXYVFsZ004X3Nld245UUUtdkQtY2Q2aDhqbWJxbFRpVkswYlFWR2RfdGdVM2Y0dzltZmhYVlBEeVN0RU93MXNEdlY3ZlFGM0RWSWJNZ2JXYmJCVzRvRkFrZDN4MWlhS293NGFaYXZiV2c?oc=5",
+      "published": "2026-03-11T21:43:21",
+      "sentiment_score": -0.955,
+      "sentiment_label": "Negative",
+      "confidence": 0.963
+    },
+    {
+      "headline": "Will AI make work obsolete?",
+      "source": "Hopkins Bloomberg Center",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04T0QtblpRQ0J1bEhnMndzS1QzVUd4eHpmeUhNUjFDampLMEtVTlV3QXhaemE5YVczZC1hbFZDTDljQkpmcC1PdE40cEl0Q1FFZEk0UGFETjB3dkJjYTVOQkxXYTJhNzVDaEU4Skln?oc=5",
+      "published": "2026-03-11T19:02:09",
+      "sentiment_score": -0.371,
+      "sentiment_label": "Neutral",
+      "confidence": 0.585
+    },
     {
       "headline": "OpenAI\u2019s Sora video generator is reportedly coming to ChatGPT",
       "source": "The Verge",
@@ -127,24 +154,6 @@
       "sentiment_score": 0.06,
       "sentiment_label": "Neutral",
       "confidence": 0.878
-    },
-    {
-      "headline": "Amazon is determined to use AI for everything \u2013 even when it slows down work",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0poMHA3NG9ZeG5oQTAwSVgxeENjZ3NuNS15R1JfT3F3NWF6NU9UcHBZOFczYjhVTTJudnFGT0FIeWxBNU83anFaWmZyV1VIWlRGWXA1bE5aUVo1ckdlMHN4aG9sR3N6Uk85ZjJ1M3BHMzk0Vk05dDk2VklzRXFHNjB6THFyb05JTHZfbGowejRWRkdyTWQwZG9TZTE?oc=5",
-      "published": "2026-03-11T11:03:00",
-      "sentiment_score": 0.025,
-      "sentiment_label": "Neutral",
-      "confidence": 0.925
-    },
-    {
-      "headline": "Canal+ taps Google and OpenAI for AI-driven video production, content recommendation",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXlVLTFzZVdRT0pZZG9janBuc29GUENDZXZpSkg1UEcwWGRjNkg2dzZaT2FLaTI3OUtHV3FpckVxUVoxMkY1Mk5pRGpqY180N1dQODcwX1ZVa3I0ejdPanBSalhzak9DZDNQb1hsclZqMTU4OWpzazZCSTg2X25SdmJvbXdXdWNZMUNUQnR5Sk1GQkdWUVBJb1RpWmZEY2RURlhKYUlKTk5zbEVsaHBjSEF2alRwMUQxQmdORQ?oc=5",
-      "published": "2026-03-11T07:06:55",
-      "sentiment_score": 0.418,
-      "sentiment_label": "Neutral",
-      "confidence": 0.559
     },
     {
       "headline": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports",
@@ -165,13 +174,22 @@
       "confidence": 0.541
     },
     {
-      "headline": "Should we be boycotting ChatGPT? \u2013 podcast",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDQ2UGYtd3RKTVNIUGRvOElqdXV1RklYaV9ET29QQ2lIQXlBTS1sZnZIcGY5TlVES1pkbjZnS19fcE0wdE9KVEFGVHpEZU1DbGduVXRKcXlWS3dYRDBoeVE1U2VMMHFyenBkTGFTTzhOdzlMcXlVRk1VeUd5ZV9xV3hSWFA4X3NCX3NwM0NBUHpldDRt?oc=5",
-      "published": "2026-03-11T03:20:03",
-      "sentiment_score": -0.394,
+      "headline": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/10/ai-chipmaker-cerebras-namedropped-by-oracle-alongside-nvidia-and-amd-.html",
+      "published": "2026-03-11T00:48:14Z",
+      "sentiment_score": 0.621,
+      "sentiment_label": "Positive",
+      "confidence": 0.741
+    },
+    {
+      "headline": "Nvidia\u2019s head of autonomous driving opens up about his plan to beat Waymo and Tesla",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview",
+      "published": "2026-03-11T00:46:24Z",
+      "sentiment_score": 0.088,
       "sentiment_label": "Neutral",
-      "confidence": 0.55
+      "confidence": 0.885
     },
     {
       "headline": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
@@ -181,6 +199,24 @@
       "sentiment_score": -0.017,
       "sentiment_label": "Neutral",
       "confidence": 0.907
+    },
+    {
+      "headline": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
+      "published": "2026-03-10T21:53:45Z",
+      "sentiment_score": -0.582,
+      "sentiment_label": "Negative",
+      "confidence": 0.608
+    },
+    {
+      "headline": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
+      "published": "2026-03-10T21:30:01Z",
+      "sentiment_score": 0.834,
+      "sentiment_label": "Positive",
+      "confidence": 0.841
     },
     {
       "headline": "Meta urged to boost oversight of fake AI videos",
@@ -201,6 +237,33 @@
       "confidence": 0.858
     },
     {
+      "headline": "AI-powered apps struggle with long-term retention, new report shows | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+      "published": "2026-03-10T20:44:34Z",
+      "sentiment_score": -0.627,
+      "sentiment_label": "Negative",
+      "confidence": 0.74
+    },
+    {
+      "headline": "Oracle stock jumps 7% on earnings beat and increased guidance as cloud revenue climbs 44%",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
+      "published": "2026-03-10T20:20:38Z",
+      "sentiment_score": 0.936,
+      "sentiment_label": "Positive",
+      "confidence": 0.952
+    },
+    {
+      "headline": "Amazon launches its healthcare AI assistant on its website and app | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "published": "2026-03-10T20:13:44Z",
+      "sentiment_score": 0.024,
+      "sentiment_label": "Neutral",
+      "confidence": 0.942
+    },
+    {
       "headline": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmEzVlZ5QzFJaWpXOHdWQW4xOG9INWNBdmFNbHJzVDhMdUVuczA4SDhTTy1yWEtsYUZHUEk5OFhLbU9iOEh6TFF4ZjdTVE1TVUhDX1d2RDBlY1g4cUdhREJIVFpudUhMbXVRc2NGb1RRZFVrWVFza3BKMVR2OFItYW0wNTdHUDI2dzk5UFR2MA?oc=5",
@@ -210,6 +273,15 @@
       "confidence": 0.583
     },
     {
+      "headline": "Ford is giving its commercial fleet business an AI makeover",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet",
+      "published": "2026-03-10T18:57:41Z",
+      "sentiment_score": 0.289,
+      "sentiment_label": "Neutral",
+      "confidence": 0.693
+    },
+    {
       "headline": "AI-powered apps can make money, but struggle with long-term retention, new data shows | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/",
@@ -217,15 +289,6 @@
       "sentiment_score": -0.127,
       "sentiment_label": "Negative",
       "confidence": 0.41
-    },
-    {
-      "headline": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkFKaDd0T09iOWJ2V3VraW1fVWtveHBSU185NU9Ebm5NVnFCaV9iY3JiUXE2ZXNxN205SmRJN050X3huYVVPeGFjZGlyQnRoTk5URWVHQ05JMEpLbG5oOEZGNFNVSXphWG1YZW9FbHFUSDkyalNSdzZoeGhaT0l4ZnZmN0ZxZw?oc=5",
-      "published": "2026-03-10T18:19:41",
-      "sentiment_score": 0.102,
-      "sentiment_label": "Neutral",
-      "confidence": 0.875
     },
     {
       "headline": "Fortnite-maker raising in-game currency prices 'to help pay the bills'",
@@ -264,24 +327,6 @@
       "confidence": 0.916
     },
     {
-      "headline": "Google deepens Pentagon AI push after Anthropic sues Trump administration",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/10/google-deepens-pentagon-ai-push-after-anthropic-sues-trump-admin.html",
-      "published": "2026-03-10T16:02:59Z",
-      "sentiment_score": 0.286,
-      "sentiment_label": "Neutral",
-      "confidence": 0.659
-    },
-    {
-      "headline": "Nvidia makes 'significant investment' in Mira Murati's Thinking Machines Lab",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/10/nvidia-mira-murati-thinking-machines-lab-ai.html",
-      "published": "2026-03-10T15:36:04Z",
-      "sentiment_score": 0.794,
-      "sentiment_label": "Positive",
-      "confidence": 0.8
-    },
-    {
       "headline": "Amazon plans 'deep dive' internal meeting to address AI-related outages",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/03/10/amazon-plans-deep-dive-internal-meeting-address-ai-related-outages.html",
@@ -291,22 +336,22 @@
       "confidence": 0.903
     },
     {
-      "headline": "Meta acquires Moltbook, the Reddit-like network for AI agents",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
-      "published": "2026-03-10T15:22:17Z",
-      "sentiment_score": 0.068,
+      "headline": "How Do You Use A.I. for Daily Life?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kQmFOVWgwOGl2Mm5COVFzaDYzMUdEOXl2bGtYM3c5US1teWFOY1hFb0lxSmJiUDVxOVIwRDMwNHBZXzJqXzJhSmE0Mmk3VmhKaW5pbUdSODZFQkZuQTNVRWFEQnF1MFkwamxJQ3RzbnRfdnU3am03QjkzTXc?oc=5",
+      "published": "2026-03-10T14:59:45",
+      "sentiment_score": -0.002,
       "sentiment_label": "Neutral",
-      "confidence": 0.909
+      "confidence": 0.942
     },
     {
-      "headline": "Thinking Machines\u00a0Lab inks\u00a0massive compute deal with Nvidia | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-      "published": "2026-03-10T15:08:39Z",
-      "sentiment_score": 0.571,
-      "sentiment_label": "Positive",
-      "confidence": 0.583
+      "headline": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEVUZUJUa0hMV2w4U2RBS2NqZGo1MlVydG4tRGtzR0k1akpqSktmNk9FU3U0VDZPR0xHU09MTkREaVZmeGpLM083bEV4SzloY2FWMkpmejh3ZXpJNFU3MlRMMDcyc2lkOTM2TktrMDBuQ2xaMGdjMXBVUUZOaE82ZjBDcFI?oc=5",
+      "published": "2026-03-10T14:36:13",
+      "sentiment_score": 0.026,
+      "sentiment_label": "Neutral",
+      "confidence": 0.936
     },
     {
       "headline": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts | TechCrunch",
@@ -318,33 +363,6 @@
       "confidence": 0.893
     },
     {
-      "headline": "The twist in the Ticketmaster antitrust fight",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast",
-      "published": "2026-03-10T14:01:10Z",
-      "sentiment_score": -0.533,
-      "sentiment_label": "Negative",
-      "confidence": 0.561
-    },
-    {
-      "headline": "Adobe is debuting an AI assistant for Photoshop | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
-      "published": "2026-03-10T13:07:22Z",
-      "sentiment_score": 0.153,
-      "sentiment_label": "Neutral",
-      "confidence": 0.816
-    },
-    {
-      "headline": "I Used Google\u2019s New Gemini-Powered \u2018Help Me Create\u2019 Tool in Docs. It\u2019s Great at Corporate-Speak",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
-      "published": "2026-03-10T13:00:00Z",
-      "sentiment_score": 0.064,
-      "sentiment_label": "Neutral",
-      "confidence": 0.895
-    },
-    {
       "headline": "Sandbar secures $23M Series A for its AI note-taking ring | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
@@ -352,24 +370,6 @@
       "sentiment_score": 0.306,
       "sentiment_label": "Neutral",
       "confidence": 0.679
-    },
-    {
-      "headline": "You can now ask Photoshop\u2019s AI assistant to edit images for you",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch",
-      "published": "2026-03-10T12:38:07Z",
-      "sentiment_score": 0.098,
-      "sentiment_label": "Neutral",
-      "confidence": 0.878
-    },
-    {
-      "headline": "AI network startup Eridu emerges from stealth with hefty $200M Series A | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/",
-      "published": "2026-03-10T12:01:53Z",
-      "sentiment_score": 0.118,
-      "sentiment_label": "Neutral",
-      "confidence": 0.849
     },
     {
       "headline": "Tumbler Ridge shooting: Family of victim Maya Gebala sues OpenAI",
@@ -381,15 +381,6 @@
       "confidence": 0.818
     },
     {
-      "headline": "Family of child injured in Canada school shooting sues OpenAI",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-10T11:27:55",
-      "sentiment_score": -0.838,
-      "sentiment_label": "Negative",
-      "confidence": 0.859
-    },
-    {
       "headline": "These diseases were thought to be incurable. Now AI is unlocking new treatments",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVc5TGVUNFB5TUVYb3ZVVHlMdWxXZHpFQl9RbGE1cXZNRnZTZWxHSjRtSnBXcnJ3bllJWjAtR3Q1WUcwOVdfMHZMUGpqSlU3ZGRnRUF2ZUxOV1ZoZmpmU3NqcTdsWVpsR19xYkhfV001ZGdUeUtvU3QzdkI2Tm9URFNmRlNyTG5ld2tiZmVDVHJtMF9wTFE?oc=5",
@@ -397,15 +388,6 @@
       "sentiment_score": 0.107,
       "sentiment_label": "Neutral",
       "confidence": 0.862
-    },
-    {
-      "headline": "You Could Be Next",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
-      "published": "2026-03-10T09:00:01Z",
-      "sentiment_score": -0.202,
-      "sentiment_label": "Neutral",
-      "confidence": 0.705
     },
     {
       "headline": "Family sues ChatGPT-maker OpenAI over school shooting in Canada",
@@ -424,24 +406,6 @@
       "sentiment_score": 0.014,
       "sentiment_label": "Neutral",
       "confidence": 0.921
-    },
-    {
-      "headline": "Anthropic sues US government for calling it a risk",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-09T21:33:05",
-      "sentiment_score": -0.89,
-      "sentiment_label": "Negative",
-      "confidence": 0.908
-    },
-    {
-      "headline": "OpenAI delays ChatGPT\u2019s \u2018adult mode\u2019 again",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12SHBNLUpkMDItQlNzN3RkVDU5dFhTM1BfSjlNRndlbk1UWlVTeFZFelg1aUtIZXB5Uml6NFVsWmdiMFQ2MEVsZFBCU3pOTE1Eelc2XzRtaXh4a2FPU1VrTDNqajFXVkdJMkhwLW9hWFd3YVpnN2prRmZkLVNZZ0E?oc=5",
-      "published": "2026-03-07T17:28:41",
-      "sentiment_score": -0.106,
-      "sentiment_label": "Neutral",
-      "confidence": 0.764
     },
     {
       "headline": "Tech Life",
