@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-12T01:09:10.774514",
-  "total_articles": 36,
-  "overall_sentiment": -0.149,
+  "last_updated": "2026-03-12T06:43:59.022285",
+  "total_articles": 39,
+  "overall_sentiment": -0.204,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,40 +33,55 @@
     },
     {
       "date": "2026-03-10",
-      "avg_sentiment": -0.136,
-      "article_count": 22,
-      "positive_count": 9,
+      "avg_sentiment": -0.218,
+      "article_count": 19,
+      "positive_count": 7,
       "negative_count": 9,
-      "neutral_count": 4,
-      "moving_avg": -0.013
+      "neutral_count": 3,
+      "moving_avg": -0.033
     },
     {
       "date": "2026-03-11",
-      "avg_sentiment": -0.222,
-      "article_count": 11,
-      "positive_count": 5,
-      "negative_count": 5,
+      "avg_sentiment": -0.261,
+      "article_count": 15,
+      "positive_count": 7,
+      "negative_count": 7,
       "neutral_count": 1,
-      "moving_avg": -0.054
+      "moving_avg": -0.079
+    },
+    {
+      "date": "2026-03-12",
+      "avg_sentiment": 0.006,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "moving_avg": -0.064
     }
   ],
   "source_stats": [
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.02,
-      "article_count": 8,
-      "sentiment_label": "Neutral"
+      "source": "BBC News",
+      "avg_sentiment": -0.158,
+      "article_count": 7,
+      "sentiment_label": "Negative"
     },
     {
-      "source": "BBC News",
-      "avg_sentiment": -0.211,
-      "article_count": 6,
+      "source": "CNBC",
+      "avg_sentiment": -0.277,
+      "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.061,
-      "article_count": 6,
+      "avg_sentiment": -0.058,
+      "article_count": 5,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.324,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
@@ -77,19 +92,19 @@
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.106,
+      "avg_sentiment": -0.095,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.463,
+      "source": "AP News",
+      "avg_sentiment": -0.458,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.164,
+      "avg_sentiment": -0.425,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -102,6 +117,24 @@
   ],
   "articles": [
     {
+      "headline": "Artificial intelligence",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+      "published": "2026-03-12T01:24:57",
+      "sentiment_score": -0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
+    {
+      "headline": "Amazon is determined to use AI for everything \u2013 even when it slows down work",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0poMHA3NG9ZeG5oQTAwSVgxeENjZ3NuNS15R1JfT3F3NWF6NU9UcHBZOFczYjhVTTJudnFGT0FIeWxBNU83anFaWmZyV1VIWlRGWXA1bE5aUVo1ckdlMHN4aG9sR3N6Uk85ZjJ1M3BHMzk0Vk05dDk2VklzRXFHNjB6THFyb05JTHZfbGowejRWRkdyTWQwZG9TZTE?oc=5",
+      "published": "2026-03-12T00:27:00",
+      "sentiment_score": 0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
+    },
+    {
       "headline": "Big Tech backs Anthropic in fight against Trump administration",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss",
@@ -111,13 +144,13 @@
       "confidence": 0.914
     },
     {
-      "headline": "Atlassian lays off 1,600 workers ahead of AI push",
+      "headline": "\u2018Devastating blow\u2019: Atlassian lays off 1,600 workers ahead of AI push",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd29KN3QxWVhXYzhzbHJIYVZENUk4ejFqck43N1RneEVhQUp2cWwxLVlOZURtbEwzcG0zT1l0NThGVVBRYTJiV2VXRTczRlRrNEhGeU9aNzJSNTMtaUpRZkFPSjFadTA5dEVWSVBjc0FENGdlZTM1aGRMd3Vha3lsYVlKb045cUVWbFRiTWU0Rmt5UVVEdGJnN3doZjhvdFlldTdyX2t1eW5kS0xMTmNKLVpxcEZwTHRwV0FkOA?oc=5",
       "published": "2026-03-11T21:55:00",
-      "sentiment_score": -0.941,
+      "sentiment_score": -0.94,
       "sentiment_label": "Negative",
-      "confidence": 0.95
+      "confidence": 0.951
     },
     {
       "headline": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales",
@@ -129,13 +162,13 @@
       "confidence": 0.963
     },
     {
-      "headline": "Will AI make work obsolete?",
-      "source": "Hopkins Bloomberg Center",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04T0QtblpRQ0J1bEhnMndzS1QzVUd4eHpmeUhNUjFDampLMEtVTlV3QXhaemE5YVczZC1hbFZDTDljQkpmcC1PdE40cEl0Q1FFZEk0UGFETjB3dkJjYTVOQkxXYTJhNzVDaEU4Skln?oc=5",
-      "published": "2026-03-11T19:02:09",
-      "sentiment_score": -0.371,
-      "sentiment_label": "Neutral",
-      "confidence": 0.585
+      "headline": "Atlassian to cut roughly 10% jobs in pivot to AI",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
+      "published": "2026-03-11T21:26:18",
+      "sentiment_score": -0.918,
+      "sentiment_label": "Negative",
+      "confidence": 0.939
     },
     {
       "headline": "OpenAI\u2019s Sora video generator is reportedly coming to ChatGPT",
@@ -156,6 +189,24 @@
       "confidence": 0.878
     },
     {
+      "headline": "Fake, AI-generated images and videos of the Iran war are spreading on social media | CNN Politics",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/03/11/politics/fake-ai-images-videos-iran-war",
+      "published": "2026-03-11T06:00:34Z",
+      "sentiment_score": -0.616,
+      "sentiment_label": "Negative",
+      "confidence": 0.638
+    },
+    {
+      "headline": "Facebook owner Meta buys 'social media network for AI' Moltbook",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cvg1x788dreo",
+      "published": "2026-03-11T05:46:49Z",
+      "sentiment_score": 0.16,
+      "sentiment_label": "Neutral",
+      "confidence": 0.817
+    },
+    {
       "headline": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmpDMDBiUXcybzhCdUxmR0JOOG5yc0RVX3N0MkNCWVJneXB1N1E2SVlJZGNtbTBKYWl2Y25fQVFwM1pDWDBlNEZiVF9HRTNGLTJLSjI5RE5tenRzUXBJMmpSbm93SnlHLXdMcHRmSExhQzlCRnJMamVyazJjV0oxY2xqc2NZWDVfcVhFOXNKNmtINGd1UU9ZMXY1TlRGNG1pOExIM0ltUURmd2xIWWNoS2Jn?oc=5",
@@ -165,13 +216,31 @@
       "confidence": 0.911
     },
     {
-      "headline": "China warns state-owned firms and government agencies against OpenClaw AI, sources say",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblliUGpDbm9fVzQ4YWJ5bDhvbUIxM2FFS0dMZVhnS1NoaHh4eG1Fdmt2TGVjTnlXaDdDZVlmZGpxR2szQVNfRFJqOUE3b3U0WGZ1eFJxdkhrVFNTVU5fVGJVanRiMWpiUTkydnZuMWlXakVSeV9GaU9EQnJtQ1AtbUlaUlhncWdnN0lkNkRUMXVtUnBvcTh1bzJhRHdiRUcxX1JlU0V2LVJlNEtSYmlHemk2U0RYWGhfSmZvRWNMajc?oc=5",
-      "published": "2026-03-11T04:05:00",
-      "sentiment_score": -0.395,
+      "headline": "Should we be boycotting ChatGPT? \u2013 podcast",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDQ2UGYtd3RKTVNIUGRvOElqdXV1RklYaV9ET29QQ2lIQXlBTS1sZnZIcGY5TlVES1pkbjZnS19fcE0wdE9KVEFGVHpEZU1DbGduVXRKcXlWS3dYRDBoeVE1U2VMMHFyenBkTGFTTzhOdzlMcXlVRk1VeUd5ZV9xV3hSWFA4X3NCX3NwM0NBUHpldDRt?oc=5",
+      "published": "2026-03-11T03:20:03",
+      "sentiment_score": -0.394,
       "sentiment_label": "Neutral",
-      "confidence": 0.541
+      "confidence": 0.55
+    },
+    {
+      "headline": "Google brings Gemini in Chrome to India | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "published": "2026-03-11T02:34:37Z",
+      "sentiment_score": 0.357,
+      "sentiment_label": "Neutral",
+      "confidence": 0.627
+    },
+    {
+      "headline": "CNBC Daily Open: Traders on edge despite reserve hopes",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/11/cnbc-daily-open-traders-on-edge-despite-reserve-hopes.html",
+      "published": "2026-03-11T01:10:51Z",
+      "sentiment_score": -0.822,
+      "sentiment_label": "Negative",
+      "confidence": 0.902
     },
     {
       "headline": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
@@ -210,15 +279,6 @@
       "confidence": 0.608
     },
     {
-      "headline": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
-      "published": "2026-03-10T21:30:01Z",
-      "sentiment_score": 0.834,
-      "sentiment_label": "Positive",
-      "confidence": 0.841
-    },
-    {
       "headline": "Meta urged to boost oversight of fake AI videos",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss",
@@ -228,13 +288,13 @@
       "confidence": 0.838
     },
     {
-      "headline": "ChatGPT, Other Chatbots Approved for Official Use in the Senate",
+      "headline": "ChatGPT, Other Chatbots Approved for Official Use in the Senate - The New York Times",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUE5ZcFY3SjR0MmNKaWNxemdFV0xjemRQUzZjOENqd2ZmVUJmM05LODRlNkRFRW13eFREZ3JsUW84aURWeVhOOXE2Y1BpQ1k2Zk5rRnl3d2NIVzVYdi1QSjB4WFFPdy1SY000ZHVidVdtUUVCdzJWZjM5dzc3eTQycDR0X0NMZXFY?oc=5",
       "published": "2026-03-10T20:54:12",
-      "sentiment_score": 0.113,
+      "sentiment_score": 0.087,
       "sentiment_label": "Neutral",
-      "confidence": 0.858
+      "confidence": 0.884
     },
     {
       "headline": "AI-powered apps struggle with long-term retention, new report shows | TechCrunch",
@@ -291,6 +351,15 @@
       "confidence": 0.41
     },
     {
+      "headline": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkFKaDd0T09iOWJ2V3VraW1fVWtveHBSU185NU9Ebm5NVnFCaV9iY3JiUXE2ZXNxN205SmRJN050X3huYVVPeGFjZGlyQnRoTk5URWVHQ05JMEpLbG5oOEZGNFNVSXphWG1YZW9FbHFUSDkyalNSdzZoeGhaT0l4ZnZmN0ZxZw?oc=5",
+      "published": "2026-03-10T18:19:41",
+      "sentiment_score": 0.072,
+      "sentiment_label": "Neutral",
+      "confidence": 0.901
+    },
+    {
       "headline": "Fortnite-maker raising in-game currency prices 'to help pay the bills'",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c70kypnl4w8o?at_medium=RSS&at_campaign=rss",
@@ -309,15 +378,6 @@
       "confidence": 0.894
     },
     {
-      "headline": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html",
-      "published": "2026-03-10T17:29:29Z",
-      "sentiment_score": 0.125,
-      "sentiment_label": "Neutral",
-      "confidence": 0.854
-    },
-    {
       "headline": "Amazon wins court order to block Perplexity's AI shopping agent",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html",
@@ -327,6 +387,15 @@
       "confidence": 0.916
     },
     {
+      "headline": "Generative AI is Ready Now. Are Your Marketing Operations?",
+      "source": "The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQLXBybHdmRW9PMEdjMGw0SHNSNWxrY1ZZMUZrLUJZYUZ2bm96NFdkVnJYMV8zRWpJMWVxNU55VzhkYTd3aXZ4dTdCY0hkbzdjRk41Ym9lTjJDTW1EYzVBUlVwWTJKQk53cDdTaTdFSDZJa0NWSXlLRnIyUWtjaVllUmF5QlNnZnR6VDVJekpmeXJCWnNUWUhSc0J2RlA4UWdPTUJoUEhiUWs4Y2JZaTJzYmk2Q3N3UWtNQ3lfZEViaDhoUFFIY3NBM1ZLb1dXU3ZqM21pNXE4Y2ZPYVVsTU1EclBUeEhPSmNib2hnQWh5dUw5Y2dJN2RTOG42WUljdEt4dnBHa29JOUM2X2hSNU5hT29UdzBMdDN5M21mTFZrc09RTk1NTVVQU0FDUkd0cHN3ZjhBZUJOc3Q3RVA5RUo0VE5VZFJERHdYX1FjV3ViT0N2WFFfZlNmY1J4dWZXN20xWnE3M0NrWGhzaElhek4wQlRQbGhMeXg3am1JRVlFMmdSamN0RjFFQzBLZEJkM0tRdWU5SUUwQ0REVTFSbThF?oc=5",
+      "published": "2026-03-10T16:00:00",
+      "sentiment_score": 0.035,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
+    },
+    {
       "headline": "Amazon plans 'deep dive' internal meeting to address AI-related outages",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/03/10/amazon-plans-deep-dive-internal-meeting-address-ai-related-outages.html",
@@ -334,42 +403,6 @@
       "sentiment_score": -0.881,
       "sentiment_label": "Negative",
       "confidence": 0.903
-    },
-    {
-      "headline": "How Do You Use A.I. for Daily Life?",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kQmFOVWgwOGl2Mm5COVFzaDYzMUdEOXl2bGtYM3c5US1teWFOY1hFb0lxSmJiUDVxOVIwRDMwNHBZXzJqXzJhSmE0Mmk3VmhKaW5pbUdSODZFQkZuQTNVRWFEQnF1MFkwamxJQ3RzbnRfdnU3am03QjkzTXc?oc=5",
-      "published": "2026-03-10T14:59:45",
-      "sentiment_score": -0.002,
-      "sentiment_label": "Neutral",
-      "confidence": 0.942
-    },
-    {
-      "headline": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEVUZUJUa0hMV2w4U2RBS2NqZGo1MlVydG4tRGtzR0k1akpqSktmNk9FU3U0VDZPR0xHU09MTkREaVZmeGpLM083bEV4SzloY2FWMkpmejh3ZXpJNFU3MlRMMDcyc2lkOTM2TktrMDBuQ2xaMGdjMXBVUUZOaE82ZjBDcFI?oc=5",
-      "published": "2026-03-10T14:36:13",
-      "sentiment_score": 0.026,
-      "sentiment_label": "Neutral",
-      "confidence": 0.936
-    },
-    {
-      "headline": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
-      "published": "2026-03-10T14:34:41Z",
-      "sentiment_score": -0.023,
-      "sentiment_label": "Neutral",
-      "confidence": 0.893
-    },
-    {
-      "headline": "Sandbar secures $23M Series A for its AI note-taking ring | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
-      "published": "2026-03-10T12:41:58Z",
-      "sentiment_score": 0.306,
-      "sentiment_label": "Neutral",
-      "confidence": 0.679
     },
     {
       "headline": "Tumbler Ridge shooting: Family of victim Maya Gebala sues OpenAI",
@@ -388,6 +421,15 @@
       "sentiment_score": 0.107,
       "sentiment_label": "Neutral",
       "confidence": 0.862
+    },
+    {
+      "headline": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEVUZUJUa0hMV2w4U2RBS2NqZGo1MlVydG4tRGtzR0k1akpqSktmNk9FU3U0VDZPR0xHU09MTkREaVZmeGpLM083bEV4SzloY2FWMkpmejh3ZXpJNFU3MlRMMDcyc2lkOTM2TktrMDBuQ2xaMGdjMXBVUUZOaE82ZjBDcFI?oc=5",
+      "published": "2026-03-10T05:00:11",
+      "sentiment_score": 0.022,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
     },
     {
       "headline": "Family sues ChatGPT-maker OpenAI over school shooting in Canada",
