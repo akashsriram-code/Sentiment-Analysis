@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-13T01:14:44.940992",
-  "total_articles": 40,
-  "overall_sentiment": -0.258,
+  "last_updated": "2026-03-13T06:42:02.791942",
+  "total_articles": 36,
+  "overall_sentiment": -0.18,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,39 +42,39 @@
     },
     {
       "date": "2026-03-10",
-      "avg_sentiment": -0.424,
-      "article_count": 8,
+      "avg_sentiment": -0.388,
+      "article_count": 9,
       "positive_count": 2,
       "negative_count": 5,
-      "neutral_count": 1,
-      "moving_avg": -0.243
+      "neutral_count": 2,
+      "moving_avg": -0.236
     },
     {
       "date": "2026-03-11",
-      "avg_sentiment": -0.162,
-      "article_count": 23,
-      "positive_count": 10,
-      "negative_count": 9,
+      "avg_sentiment": -0.016,
+      "article_count": 16,
+      "positive_count": 8,
+      "negative_count": 4,
       "neutral_count": 4,
-      "moving_avg": -0.23
+      "moving_avg": -0.199
     },
     {
       "date": "2026-03-12",
-      "avg_sentiment": -0.376,
-      "article_count": 4,
+      "avg_sentiment": -0.306,
+      "article_count": 6,
       "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 0,
-      "moving_avg": -0.251
+      "negative_count": 4,
+      "neutral_count": 1,
+      "moving_avg": -0.215
     },
     {
       "date": "2026-03-13",
-      "avg_sentiment": -0.93,
+      "avg_sentiment": -0.11,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.258
+      "moving_avg": -0.105
     }
   ],
   "source_stats": [
@@ -86,38 +86,50 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.056,
-      "article_count": 7,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.182,
+      "article_count": 6,
+      "sentiment_label": "Positive"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.353,
-      "article_count": 6,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.218,
+      "avg_sentiment": -0.473,
       "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.354,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.373,
-      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
       "avg_sentiment": -0.303,
       "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.184,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.455,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.101,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "AP News",
+      "avg_sentiment": -0.458,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.091,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -129,22 +141,22 @@
   ],
   "articles": [
     {
+      "headline": "AI toys for young children need tighter rules, researchers warn",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmV0dDNleXFOQ3ctaVRKZkhQS3ptc3A0dUZ5LWFvM0hmTU9GNFU3blRDSmFyN2VFZnFub1puaVZaT3VVNkVGdS00WXJjd2k0UEx2bHdERjZzUQ?oc=5",
+      "published": "2026-03-13T00:49:20",
+      "sentiment_score": -0.11,
+      "sentiment_label": "Neutral",
+      "confidence": 0.729
+    },
+    {
       "headline": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXl0eGNHU29tczAwSWtkRjlkODFhVkJmdTVCTVg2bGdKZWVJMHA3NEtiZHlDWENZZ1lQLWJKd3k1dHJrOWo2a1hBRl9hcnpFemRJbEoxLUtkcnR4NlB5ZG1FVW5OVEVHT1JqY2RRalhFTkJnZzBDVlBVUFhPbFozX1RQRk1Bdk0?oc=5",
-      "published": "2026-03-13T00:05:06",
+      "published": "2026-03-12T23:36:26",
       "sentiment_score": -0.93,
       "sentiment_label": "Negative",
       "confidence": 0.943
-    },
-    {
-      "headline": "Ukraine to Make Drone Videos Available for Training A.I. Models",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemVWaXFSWFM3czlacUg4eHlIbmVUZV90ZFphWEF5X1hYYTRCcFlERTE4MmhsS2xSSUxBTndJQ2VBVDJiaTBHT2Fod2gzNGZEai1NS2FUMngwdi1EZERFaUN0dUZENG1TOUVXdjFGQTA2M01pTUFtWlZRMWlGdHNLUEhGU3ZFOWxreUpVa0l4cw?oc=5",
-      "published": "2026-03-12T23:35:31",
-      "sentiment_score": 0.108,
-      "sentiment_label": "Neutral",
-      "confidence": 0.867
     },
     {
       "headline": "Grammarly pulls AI author-impersonation tool after backlash",
@@ -165,6 +177,15 @@
       "confidence": 0.677
     },
     {
+      "headline": "Artificial intelligence",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+      "published": "2026-03-12T15:10:47",
+      "sentiment_score": -0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
+    {
       "headline": "\u2018Exploit every vulnerability\u2019: rogue AI agents published passwords and overrode anti-virus software",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDdCUzhfZTk1Vlk1c2NCS3BxZlhjbWlHRnNNM1VnME5OLVBjbU5qc20wNUNUQ3BlcDFVNW1oMURkLUdXYTBpRVJRMjRaXzU3UC10aEM4cktPS3ZHdHhCemRUYU9TN2lfZjl6elFreHVmaUdSMzBPX2JGZTlYVDRNeGtMZ0ZSYmNjNVpwQ0U4VEwtV1pZTG9MdE1YWFgwdEgtdlI4Uk1SMmtkLWVHUEMyUlZnRTRxalhybGlTQ1BCNjhGSkdxY2VGa19qYjFOb1VSdkE?oc=5",
@@ -172,6 +193,15 @@
       "sentiment_score": -0.529,
       "sentiment_label": "Negative",
       "confidence": 0.55
+    },
+    {
+      "headline": "Chinese brain interface startup Gestala raises $21M just two months after launch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
+      "published": "2026-03-12T04:00:00Z",
+      "sentiment_score": 0.72,
+      "sentiment_label": "Positive",
+      "confidence": 0.729
     },
     {
       "headline": "Big Tech backs Anthropic in fight against Trump administration",
@@ -190,33 +220,6 @@
       "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
       "confidence": 0.917
-    },
-    {
-      "headline": "India neobank Fi winds down banking services on its platform | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/11/india-neobank-fi-winds-down-banking-services-on-its-platform/",
-      "published": "2026-03-11T22:17:44Z",
-      "sentiment_score": -0.904,
-      "sentiment_label": "Negative",
-      "confidence": 0.912
-    },
-    {
-      "headline": "FCC chair slams Amazon for slow satellite launches after it opposed SpaceX data center plan",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/11/fcc-chair-amazon-spacex-data-center-space.html",
-      "published": "2026-03-11T22:15:05Z",
-      "sentiment_score": -0.87,
-      "sentiment_label": "Negative",
-      "confidence": 0.906
-    },
-    {
-      "headline": "Stock market today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/11/stock-market-today-live-updates.html",
-      "published": "2026-03-11T22:13:29Z",
-      "sentiment_score": -0.907,
-      "sentiment_label": "Negative",
-      "confidence": 0.928
     },
     {
       "headline": "Netflix may have paid $600 million for Ben Affleck's AI startup | TechCrunch",
@@ -244,24 +247,6 @@
       "sentiment_score": 0.18,
       "sentiment_label": "Neutral",
       "confidence": 0.788
-    },
-    {
-      "headline": "Atlassian to cut roughly 10% jobs in pivot to AI",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
-      "published": "2026-03-11T21:26:18",
-      "sentiment_score": -0.918,
-      "sentiment_label": "Negative",
-      "confidence": 0.939
-    },
-    {
-      "headline": "The memory stock cycle of boom-bust-repeat is over, executives say",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/11/memory-stocks-ai-chips-demand.html",
-      "published": "2026-03-11T20:56:55Z",
-      "sentiment_score": 0.871,
-      "sentiment_label": "Positive",
-      "confidence": 0.907
     },
     {
       "headline": "Almost 40 new unicorns have been minted so far this year \u2014 here they are | TechCrunch",
@@ -309,15 +294,6 @@
       "confidence": 0.851
     },
     {
-      "headline": "Meta didn\u2019t buy Moltbook for bots \u2014 it bought into the agentic web | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
-      "published": "2026-03-11T15:12:37Z",
-      "sentiment_score": 0.135,
-      "sentiment_label": "Neutral",
-      "confidence": 0.84
-    },
-    {
       "headline": "Canva\u2019s new editing tool adds layers to AI-generated designs",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
@@ -343,15 +319,6 @@
       "sentiment_score": 0.781,
       "sentiment_label": "Positive",
       "confidence": 0.789
-    },
-    {
-      "headline": "ChatGPT, Gemini, and other chatbots helped teens plan shootings, bombings, and political violence, study shows",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence",
-      "published": "2026-03-11T13:18:45Z",
-      "sentiment_score": -0.866,
-      "sentiment_label": "Negative",
-      "confidence": 0.902
     },
     {
       "headline": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports",
@@ -399,13 +366,13 @@
       "confidence": 0.858
     },
     {
-      "headline": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
+      "headline": "Mother of British Columbia Shooting Victim Sues OpenAI",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmEzVlZ5QzFJaWpXOHdWQW4xOG9INWNBdmFNbHJzVDhMdUVuczA4SDhTTy1yWEtsYUZHUEk5OFhLbU9iOEh6TFF4ZjdTVE1TVUhDX1d2RDBlY1g4cUdhREJIVFpudUhMbXVRc2NGb1RRZFVrWVFza3BKMVR2OFItYW0wNTdHUDI2dzk5UFR2MA?oc=5",
       "published": "2026-03-10T18:59:47",
-      "sentiment_score": -0.56,
+      "sentiment_score": -0.697,
       "sentiment_label": "Negative",
-      "confidence": 0.583
+      "confidence": 0.716
     },
     {
       "headline": "Fortnite-maker raising in-game currency prices 'to help pay the bills'",
@@ -415,6 +382,15 @@
       "sentiment_score": 0.391,
       "sentiment_label": "Positive",
       "confidence": 0.605
+    },
+    {
+      "headline": "Generative AI is Ready Now. Are Your Marketing Operations?",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOZTJTZHo2NnRJTnQyWU1sNVJfdGpoZjh0WnVqUVRwQ1RZdVVfQ3FzOFNxZVRJN1Z0UXZpTVIwSDZmd0ZlN0tnX1hGUGp1MHBNUUdzRlJQck8xZ2lBYk16bTJ3ak1iZkZRZW9GTURITkRFTWVHV2ZrWEVHR0Z1enNacDZjY1pvUExscDg4RHpSQTZ1dGs5Wkdzd0U5d3FOWHAzUTJKTVp0Ny1Ia3hLc0M5X1dNM1p5NU9Sb2hyRUFwYXY2QkFtLWFqT04ycXhBM3AzUkFEWnVPM21pTkdOdnpZM3otLWYxdFJNOGdmeldBNXAyLUdyMVl1ZVVIM0szc1hja0kzaTNDclhGOTViek9nS0lnX0hvVjZCTWlqNGJyUXNNZ2Fwdm8tb3dKbnVSclhONHNDeU5WekhxZnB4eUtjYUJYZnBRdmJBcDBGNFFtLTlnUlB4UmNIOE5JOUk5b2tPdEw4VmhRbVVlSDBqOGNhU2ZqM19SRmNQZWhNS1hXNmVWYmlzZEx2RjhpVFcxVmd4aHNzMjV5c1NfbENFblJv?oc=5",
+      "published": "2026-03-10T16:00:00",
+      "sentiment_score": 0.035,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
     },
     {
       "headline": "Tumbler Ridge shooting: Family of victim Maya Gebala sues OpenAI",
