@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-12T18:42:15.604559",
-  "total_articles": 38,
-  "overall_sentiment": -0.241,
+  "last_updated": "2026-03-13T01:14:44.940992",
+  "total_articles": 40,
+  "overall_sentiment": -0.258,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,30 +42,39 @@
     },
     {
       "date": "2026-03-10",
-      "avg_sentiment": -0.405,
+      "avg_sentiment": -0.424,
       "article_count": 8,
       "positive_count": 2,
       "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.239
+      "moving_avg": -0.243
     },
     {
       "date": "2026-03-11",
       "avg_sentiment": -0.162,
-      "article_count": 22,
-      "positive_count": 9,
-      "negative_count": 8,
-      "neutral_count": 5,
-      "moving_avg": -0.226
+      "article_count": 23,
+      "positive_count": 10,
+      "negative_count": 9,
+      "neutral_count": 4,
+      "moving_avg": -0.23
     },
     {
       "date": "2026-03-12",
-      "avg_sentiment": -0.388,
+      "avg_sentiment": -0.376,
       "article_count": 4,
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.25
+      "moving_avg": -0.251
+    },
+    {
+      "date": "2026-03-13",
+      "avg_sentiment": -0.93,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.258
     }
   ],
   "source_stats": [
@@ -76,33 +85,33 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.056,
+      "article_count": 7,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.353,
+      "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
       "source": "CNBC",
-      "avg_sentiment": -0.145,
+      "avg_sentiment": -0.218,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.284,
-      "article_count": 5,
+      "avg_sentiment": -0.354,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.084,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.104,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.286,
-      "article_count": 4,
+      "source": "Reuters",
+      "avg_sentiment": -0.373,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -112,13 +121,31 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.101,
+      "source": "Wired",
+      "avg_sentiment": 0.668,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXl0eGNHU29tczAwSWtkRjlkODFhVkJmdTVCTVg2bGdKZWVJMHA3NEtiZHlDWENZZ1lQLWJKd3k1dHJrOWo2a1hBRl9hcnpFemRJbEoxLUtkcnR4NlB5ZG1FVW5OVEVHT1JqY2RRalhFTkJnZzBDVlBVUFhPbFozX1RQRk1Bdk0?oc=5",
+      "published": "2026-03-13T00:05:06",
+      "sentiment_score": -0.93,
+      "sentiment_label": "Negative",
+      "confidence": 0.943
+    },
+    {
+      "headline": "Ukraine to Make Drone Videos Available for Training A.I. Models",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemVWaXFSWFM3czlacUg4eHlIbmVUZV90ZFphWEF5X1hYYTRCcFlERTE4MmhsS2xSSUxBTndJQ2VBVDJiaTBHT2Fod2gzNGZEai1NS2FUMngwdi1EZERFaUN0dUZENG1TOUVXdjFGQTA2M01pTUFtWlZRMWlGdHNLUEhGU3ZFOWxreUpVa0l4cw?oc=5",
+      "published": "2026-03-12T23:35:31",
+      "sentiment_score": 0.108,
+      "sentiment_label": "Neutral",
+      "confidence": 0.867
+    },
     {
       "headline": "Grammarly pulls AI author-impersonation tool after backlash",
       "source": "BBC News",
@@ -136,15 +163,6 @@
       "sentiment_score": -0.269,
       "sentiment_label": "Neutral",
       "confidence": 0.677
-    },
-    {
-      "headline": "Bumble to launch an AI dating assistant, \u2018Bee\u2019",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWnZyckxoRldqMjc0Q1M5M0xoNFVYQmZEeHdDZ1diZWc5MjlMaFlUUjZSQzVlSS1zcTBWbmtyZy1CWkJIaHhmLUhuQlJGNy1sODlsZXZGOXJIOUxpdFozQVdhaDlqQUkzY0dzd0VCOG5MNkxXV1N1eUY2LW5zLW02ck5sR3E?oc=5",
-      "published": "2026-03-12T16:52:17",
-      "sentiment_score": 0.057,
-      "sentiment_label": "Neutral",
-      "confidence": 0.902
     },
     {
       "headline": "\u2018Exploit every vulnerability\u2019: rogue AI agents published passwords and overrode anti-virus software",
@@ -165,40 +183,85 @@
       "confidence": 0.914
     },
     {
-      "headline": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDF3dnNraGE0Vlg4aXAtdWRTVUZ4UzhQaVExVHNjSE5BU1Zic1BWaGFnSjFsX2kwMEdqeGhpbnh6cVhnTGpROWgxblM5NkY4NGhJUUdfdDBuVmVfUG5oTkhOOHJ5czZXZW45djM4MWRHY0xxakhLbDRNMmV5Um56WmVZb2xlbl9GUVF0VEtEWkpyTU9EOGtHajFvd2lCMnlxcGN5NmhaY3BGb0420gGyAUFVX3lxTE12bGZucXhwRFRjVjFQbno4YVlzeWgwLWtiU1FtakpIakJuOTkySDVPMlF5RmVRT1E1OF9SXzY2V0FlMUh3TEh3OENXYVFsZ004X3Nld245UUUtdkQtY2Q2aDhqbWJxbFRpVkswYlFWR2RfdGdVM2Y0dzltZmhYVlBEeVN0RU93MXNEdlY3ZlFGM0RWSWJNZ2JXYmJCVzRvRkFrZDN4MWlhS293NGFaYXZiV2c?oc=5",
-      "published": "2026-03-11T21:43:21",
-      "sentiment_score": -0.955,
-      "sentiment_label": "Negative",
-      "confidence": 0.963
+      "headline": "Zendesk acquires agentic customer service startup Forethought | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+      "published": "2026-03-11T22:44:36Z",
+      "sentiment_score": 0.034,
+      "sentiment_label": "Neutral",
+      "confidence": 0.917
     },
     {
-      "headline": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-      "published": "2026-03-11T18:38:21Z",
-      "sentiment_score": -0.913,
+      "headline": "India neobank Fi winds down banking services on its platform | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/11/india-neobank-fi-winds-down-banking-services-on-its-platform/",
+      "published": "2026-03-11T22:17:44Z",
+      "sentiment_score": -0.904,
+      "sentiment_label": "Negative",
+      "confidence": 0.912
+    },
+    {
+      "headline": "FCC chair slams Amazon for slow satellite launches after it opposed SpaceX data center plan",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/11/fcc-chair-amazon-spacex-data-center-space.html",
+      "published": "2026-03-11T22:15:05Z",
+      "sentiment_score": -0.87,
+      "sentiment_label": "Negative",
+      "confidence": 0.906
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/11/stock-market-today-live-updates.html",
+      "published": "2026-03-11T22:13:29Z",
+      "sentiment_score": -0.907,
       "sentiment_label": "Negative",
       "confidence": 0.928
     },
     {
-      "headline": "Medical equipment company Stryker reports cyberattack",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/stryker-cyberattack-iran-medical-equipment-products-8dd418618a3bd4fa4c97caf7978c11ee",
-      "published": "2026-03-11T18:32:44Z",
-      "sentiment_score": -0.895,
-      "sentiment_label": "Negative",
-      "confidence": 0.907
+      "headline": "Netflix may have paid $600 million for Ben Affleck's AI startup | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+      "published": "2026-03-11T22:01:48Z",
+      "sentiment_score": 0.016,
+      "sentiment_label": "Neutral",
+      "confidence": 0.917
     },
     {
-      "headline": "Microsoft plans to ship prototype of next Xbox console to developers in 2027",
+      "headline": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/11/microsoft-plans-to-ship-prototype-of-next-xbox-to-developers-in-2027.html",
-      "published": "2026-03-11T18:30:41Z",
-      "sentiment_score": 0.103,
+      "link": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
+      "published": "2026-03-11T21:48:50Z",
+      "sentiment_score": -0.964,
+      "sentiment_label": "Negative",
+      "confidence": 0.971
+    },
+    {
+      "headline": "Lovable says it added $100M in revenue last month alone, with just 146 employees | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+      "published": "2026-03-11T21:43:41Z",
+      "sentiment_score": 0.18,
       "sentiment_label": "Neutral",
-      "confidence": 0.878
+      "confidence": 0.788
+    },
+    {
+      "headline": "Atlassian to cut roughly 10% jobs in pivot to AI",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0NVQXh2dG9kb3h4MGMweHFCdkVhQlBiSWtHVXpDczhkV2RlZHpyYnhHSGhkQlJZT3dDVTQwUHlPZEE1SVFEUGh4bXZaY2l5WHVXZFMxUVJvSldFc2ZYMzhBaURCTzVBXzFRYkhaWWtCY2NxZDZsOVlJRlE0blZoTVBIUERhLU0xV1YxRnFUVHA0dDEwUEE?oc=5",
+      "published": "2026-03-11T21:26:18",
+      "sentiment_score": -0.918,
+      "sentiment_label": "Negative",
+      "confidence": 0.939
+    },
+    {
+      "headline": "The memory stock cycle of boom-bust-repeat is over, executives say",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/11/memory-stocks-ai-chips-demand.html",
+      "published": "2026-03-11T20:56:55Z",
+      "sentiment_score": 0.871,
+      "sentiment_label": "Positive",
+      "confidence": 0.907
     },
     {
       "headline": "Almost 40 new unicorns have been minted so far this year \u2014 here they are | TechCrunch",
@@ -282,15 +345,6 @@
       "confidence": 0.789
     },
     {
-      "headline": "The mysterious case of the DHS white supremacist memelord",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/column/892985/dhs-white-supremacist-memelord",
-      "published": "2026-03-11T13:28:32Z",
-      "sentiment_score": 0.0,
-      "sentiment_label": "Neutral",
-      "confidence": 0.927
-    },
-    {
       "headline": "ChatGPT, Gemini, and other chatbots helped teens plan shootings, bombings, and political violence, study shows",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence",
@@ -298,33 +352,6 @@
       "sentiment_score": -0.866,
       "sentiment_label": "Negative",
       "confidence": 0.902
-    },
-    {
-      "headline": "JPMorgan Chase reins in lending to private credit firms after marking down software loans",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/11/jpmorgan-reins-lending-private-credit-marks-down-software-loans.html",
-      "published": "2026-03-11T12:47:38Z",
-      "sentiment_score": -0.628,
-      "sentiment_label": "Negative",
-      "confidence": 0.775
-    },
-    {
-      "headline": "Oil's wild ride, Oracle earnings, Kevin Warsh's 'perfect storm' and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/11/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-03-11T12:22:33Z",
-      "sentiment_score": -0.027,
-      "sentiment_label": "Neutral",
-      "confidence": 0.907
-    },
-    {
-      "headline": "Inside OpenAI\u2019s Race to Catch Up to Claude Code",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/openai-codex-race-claude-code/",
-      "published": "2026-03-11T10:00:00Z",
-      "sentiment_score": -0.006,
-      "sentiment_label": "Neutral",
-      "confidence": 0.908
     },
     {
       "headline": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports",
@@ -376,9 +403,9 @@
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmEzVlZ5QzFJaWpXOHdWQW4xOG9INWNBdmFNbHJzVDhMdUVuczA4SDhTTy1yWEtsYUZHUEk5OFhLbU9iOEh6TFF4ZjdTVE1TVUhDX1d2RDBlY1g4cUdhREJIVFpudUhMbXVRc2NGb1RRZFVrWVFza3BKMVR2OFItYW0wNTdHUDI2dzk5UFR2MA?oc=5",
       "published": "2026-03-10T18:59:47",
-      "sentiment_score": -0.406,
-      "sentiment_label": "Neutral",
-      "confidence": 0.53
+      "sentiment_score": -0.56,
+      "sentiment_label": "Negative",
+      "confidence": 0.583
     },
     {
       "headline": "Fortnite-maker raising in-game currency prices 'to help pay the bills'",
