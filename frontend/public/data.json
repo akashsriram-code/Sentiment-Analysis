@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-14T01:13:37.951785",
-  "total_articles": 37,
-  "overall_sentiment": -0.207,
+  "last_updated": "2026-03-14T06:36:41.406234",
+  "total_articles": 35,
+  "overall_sentiment": -0.218,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,30 +60,30 @@
     },
     {
       "date": "2026-03-12",
-      "avg_sentiment": -0.146,
-      "article_count": 18,
-      "positive_count": 7,
-      "negative_count": 6,
-      "neutral_count": 5,
-      "moving_avg": -0.206
+      "avg_sentiment": -0.194,
+      "article_count": 13,
+      "positive_count": 5,
+      "negative_count": 4,
+      "neutral_count": 4,
+      "moving_avg": -0.213
     },
     {
       "date": "2026-03-13",
-      "avg_sentiment": -0.34,
-      "article_count": 5,
-      "positive_count": 1,
+      "avg_sentiment": -0.166,
+      "article_count": 6,
+      "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.129
+      "moving_avg": -0.111
     },
     {
       "date": "2026-03-14",
-      "avg_sentiment": -0.167,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
+      "avg_sentiment": -0.315,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.159
+      "moving_avg": -0.163
     }
   ],
   "source_stats": [
@@ -94,16 +94,16 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.202,
-      "article_count": 6,
-      "sentiment_label": "Negative"
+      "source": "TechCrunch",
+      "avg_sentiment": 0.092,
+      "article_count": 5,
+      "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.204,
+      "source": "The Guardian",
+      "avg_sentiment": -0.144,
       "article_count": 4,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
@@ -112,20 +112,14 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.227,
-      "article_count": 3,
+      "source": "CNBC",
+      "avg_sentiment": -0.212,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.109,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "Reuters",
-      "avg_sentiment": -0.439,
+      "avg_sentiment": -0.407,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -134,17 +128,50 @@
       "avg_sentiment": 0.088,
       "article_count": 2,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.151,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "The environmental cost of datacentres is rising. Is it time to quit AI?",
+      "headline": "Invisible datacentres and capricious chips: is UK\u2019s AI bubble about to burst?",
       "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY2JGNU01bnpCQkhQN0lQTU1IQzJYeUlPbEtYX25HMHlOQVVVZkhGc0haQllkT2tXNEtGZUx0aGh3aHlrbk96UWRseW0wSnNzZjBhRnRsYlM2LWtwM2tRZXVOQmhQZEhzdV9tVHNNQmhKX2stdlk2WEo4QjB1QVhiajBkOFloY2xBcFYycUtOTG5CcHVlS0E?oc=5",
-      "published": "2026-03-14T00:25:00",
-      "sentiment_score": -0.167,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU05QbEFrT2xZV2wwWE9PU3pGd1dZTjhQRmI2eHpIeUFUUzVuMS1kbmFKNENEVWFzV3BFaW8yVGQ2MDV0MlNMQzV3bGpIUlZEMkhwTW1Yek1ybXVlRGVRRy1MaHNmY0pYSVBrQVZ2bW1WQU8wZXNyR2hjLW1JQW9UZDBsOFhLZHFYSnNlbkdSYWlGbEFvYlB5WHY2RldpVXJiRlEyWXFvSTZtUQ?oc=5",
+      "published": "2026-03-14T06:00:00",
+      "sentiment_score": -0.3,
       "sentiment_label": "Neutral",
-      "confidence": 0.741
+      "confidence": 0.639
+    },
+    {
+      "headline": "NHS and MoD will be urged to buy British tech to drive growth amid Iran crisis",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbjlKVUc5bDYxdXZzU2F5cEZYQTBya2tSY1U1Nm9kbS1kTDh0UmhXQVNQdzNhZU5SSHk4N0doOHVUb3djMXZiNVI2SjQ2LVF5UUV6RkdCYWtrUHdLOU9qQkdUTDdZSGhBWS1nUzVwWmtEQkJyb0ExWkFUNzZrRE1EemJBaE5wSHRoNFdsM1RCcHQxSTFKa2VVNjhNMm1EOW1rRURxOHZ6NkgzNlZuampRTWs4YWNWOC1FcGc5ak0xV1doYURBUDFFcUFERTRNT3JGZmRHMVk4YkxJY1Zh?oc=5",
+      "published": "2026-03-14T06:00:00",
+      "sentiment_score": 0.239,
+      "sentiment_label": "Neutral",
+      "confidence": 0.714
+    },
+    {
+      "headline": "Exclusive: Meta planning sweeping layoffs as AI costs mount",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
+      "published": "2026-03-14T00:17:00",
+      "sentiment_score": -0.883,
+      "sentiment_label": "Negative",
+      "confidence": 0.894
+    },
+    {
+      "headline": "Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWwyR2lMUFRQU0owcDlRU0ZaektkRnNUdi1YVTk5TS1sdG1LSE52MWJIN0xzdTUtTTVwNDBJNEVCbkpFaHlwS2VnMVo0UXpGNHZJdF9kTFRPM3lmZ0FkNGprOWljVlRnSThhWkZlMEVYeUljQzRBUnZreEJSeVNiWmxsNnhRTVlNaUhhVzVlMndzazY2d3hPWmlKZTd2R3UwZXhRWG5UVjZ5a3hpcnJYbHJDYTd2Rjg?oc=5",
+      "published": "2026-03-13T21:37:01",
+      "sentiment_score": -0.003,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
     },
     {
       "headline": "She uses AI for everything. Her husband thinks AI is a menace.",
@@ -156,6 +183,15 @@
       "confidence": 0.556
     },
     {
+      "headline": "Couples counseling at Legalweek 2026: Firms and clients confront the AI value divide",
+      "source": "Thomson Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3NFeFZPR2tfY0ZYbU1ST3lZTE9uQ2duZXUxZlR4UzU4cGhOUGppLUZGMElvVDRkYjNjRXJ5dGdyYlFzdDBaWEU2aDJGTmxKSVMwbUI2eEd1NjlwSU04bVpEaTdzd3NpQWNqTEhDZEYyZXJvcnI4ZDduN254NTcxejQ1TG1qWG5LQThR?oc=5",
+      "published": "2026-03-13T15:51:56",
+      "sentiment_score": -0.38,
+      "sentiment_label": "Neutral",
+      "confidence": 0.557
+    },
+    {
       "headline": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXVvek9hVXFmWmJRTE45MXVIdi1nWm9LNldKTGFwYWYxMzRaTFdZbDlTRkRjZ2JxY1Vwc0ZINnE4aHZWdi12NS1PcTVwUTZwd1BRbnRIT2ZCQ0NiU2pnNC1pazYxa0pRbmhLbHpsVEVFNWtIVmhMOVdVVy13RnZnMHJoazl4VDVZSnluZ29leGRqV1B5MzhsR2ZUb05OQmNzNUtzMzNjWC1jM0k?oc=5",
@@ -163,15 +199,6 @@
       "sentiment_score": 0.098,
       "sentiment_label": "Neutral",
       "confidence": 0.882
-    },
-    {
-      "headline": "Adobe shares drop as CEO exit fans uncertainty over AI strategy",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNem9TYW92ZzZwSUlFZ3NLWDVldUhDa29xNWpaMWwtNWpJdVNWbGQwUHJLZ3lWSU9iZHhOdXRYellsRnRtczA4UzRueXNwVEg1ZE9PdU5lbEkzbHBFZGlBTXpZWk85Mm5LdDJJX2pVZE05bG5ENjFDTTZ5UWpqQzlXMXBKVkp6X3BzSFktSERIcXVhdFNFbFgwOEJROFJVNVZvbHhyeTliVGs?oc=5",
-      "published": "2026-03-13T09:19:59",
-      "sentiment_score": -0.946,
-      "sentiment_label": "Negative",
-      "confidence": 0.954
     },
     {
       "headline": "AI toys for children misread emotions and respond inappropriately, researchers warn",
@@ -183,13 +210,13 @@
       "confidence": 0.499
     },
     {
-      "headline": "Artificial intelligence",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-      "published": "2026-03-13T08:01:32",
-      "sentiment_score": -0.013,
+      "headline": "Bumble introduces an AI dating assistant, 'Bee' | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
+      "published": "2026-03-13T02:02:57Z",
+      "sentiment_score": 0.127,
       "sentiment_label": "Neutral",
-      "confidence": 0.904
+      "confidence": 0.851
     },
     {
       "headline": "Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times",
@@ -217,24 +244,6 @@
       "sentiment_score": -0.966,
       "sentiment_label": "Negative",
       "confidence": 0.973
-    },
-    {
-      "headline": "Palantir's technology gives the West a critical edge in Middle East, CEO Alex Karp says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html",
-      "published": "2026-03-12T21:59:48Z",
-      "sentiment_score": 0.064,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
-    },
-    {
-      "headline": "Bosa/Wu: Private equity is about to eat its own software portfolio",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/12/private-equity-ai-software-saas.html",
-      "published": "2026-03-12T20:44:05Z",
-      "sentiment_score": -0.429,
-      "sentiment_label": "Neutral",
-      "confidence": 0.523
     },
     {
       "headline": "Adobe CEO Shantanu Narayen says he will step down as CEO after successor has been named",
@@ -291,24 +300,6 @@
       "confidence": 0.896
     },
     {
-      "headline": "Why AI Chatbots Like Gemini and Claude Develop Personalities",
-      "source": "Time",
-      "link": "https://time.com/article/2026/03/10/ai-chatbots-claude-gemini-personality/",
-      "published": "2026-03-12T15:56:22Z",
-      "sentiment_score": -0.245,
-      "sentiment_label": "Neutral",
-      "confidence": 0.702
-    },
-    {
-      "headline": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-      "published": "2026-03-12T15:30:00Z",
-      "sentiment_score": 0.48,
-      "sentiment_label": "Positive",
-      "confidence": 0.497
-    },
-    {
       "headline": "Alexa+ gets a new 'adults only' personality option that curses but won't get into NSFW content | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/",
@@ -316,15 +307,6 @@
       "sentiment_score": 0.231,
       "sentiment_label": "Neutral",
       "confidence": 0.743
-    },
-    {
-      "headline": "Anthropic\u2019s Claude AI can respond with charts, diagrams, and other visuals now",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
-      "published": "2026-03-12T14:32:11Z",
-      "sentiment_score": 0.024,
-      "sentiment_label": "Neutral",
-      "confidence": 0.938
     },
     {
       "headline": "Bespoke AI models are the next big thing in filmmaking",
