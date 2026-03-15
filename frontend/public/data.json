@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-03-15T01:26:07.018115",
-  "total_articles": 36,
-  "overall_sentiment": -0.162,
+  "last_updated": "2026-03-15T06:46:29.957974",
+  "total_articles": 33,
+  "overall_sentiment": -0.16,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-07",
+      "avg_sentiment": -0.029,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.029
+    },
     {
       "date": "2026-02-11",
       "avg_sentiment": -0.878,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.878
+      "moving_avg": -0.454
     },
     {
       "date": "2026-02-14",
@@ -20,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.418
+      "moving_avg": -0.288
     },
     {
       "date": "2026-02-24",
@@ -29,25 +38,16 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.269
-    },
-    {
-      "date": "2026-03-09",
-      "avg_sentiment": 0.014,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.198
+      "moving_avg": -0.209
     },
     {
       "date": "2026-03-10",
-      "avg_sentiment": -0.368,
-      "article_count": 5,
-      "positive_count": 2,
+      "avg_sentiment": -0.481,
+      "article_count": 4,
+      "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.232
+      "moving_avg": -0.263
     },
     {
       "date": "2026-03-11",
@@ -56,7 +56,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.216
+      "moving_avg": -0.242
     },
     {
       "date": "2026-03-12",
@@ -65,25 +65,25 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.302
+      "moving_avg": -0.324
     },
     {
       "date": "2026-03-13",
-      "avg_sentiment": 0.032,
-      "article_count": 17,
-      "positive_count": 7,
+      "avg_sentiment": 0.022,
+      "article_count": 15,
+      "positive_count": 6,
       "negative_count": 6,
-      "neutral_count": 4,
-      "moving_avg": -0.172
+      "neutral_count": 3,
+      "moving_avg": -0.317
     },
     {
       "date": "2026-03-14",
-      "avg_sentiment": -0.475,
+      "avg_sentiment": -0.294,
       "article_count": 5,
       "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.246
+      "negative_count": 2,
+      "neutral_count": 2,
+      "moving_avg": -0.233
     }
   ],
   "source_stats": [
@@ -100,18 +100,6 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.079,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.591,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Wired",
       "avg_sentiment": 0.168,
       "article_count": 4,
@@ -119,7 +107,19 @@
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.407,
+      "avg_sentiment": 0.02,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.817,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.269,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -128,15 +128,18 @@
       "avg_sentiment": 0.066,
       "article_count": 2,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.258,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Musk says Tesla's mega AI chip fab project to launch in seven days",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmZUUnlSRDB5R0JPS0EyNUdWWkF3SDRPV3d2SnNnSlVQVXRhMFI5T2JnVUNFeE5nZW1vZW83THNmanBPbmFFbU45dTVHSDEtQnNIZVdSZFVBdnl1RTE1b0pvR3N5d3ZLOHZiOEdQR3JfMjIzSG5KWFRma1NFbnAtWjVSOEdGbHV3Sk1xQWl6N2JPdFE1cTRNR3UycXQwMmoxbEhRcWUtRHNla3UzWkg0SlhoU0VGYWhld1Z2M3VlRFp5RW1q?oc=5",
+      "published": "2026-03-14T14:01:08",
+      "sentiment_score": 0.021,
+      "sentiment_label": "Neutral",
+      "confidence": 0.938
+    },
     {
       "headline": "Meta planning sweeping layoffs as AI costs mount: Reuters",
       "source": "CNBC",
@@ -154,15 +157,6 @@
       "sentiment_score": -0.877,
       "sentiment_label": "Negative",
       "confidence": 0.888
-    },
-    {
-      "headline": "Exclusive: Meta planning sweeping layoffs as AI costs mount",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
-      "published": "2026-03-14T00:17:00",
-      "sentiment_score": -0.883,
-      "sentiment_label": "Negative",
-      "confidence": 0.894
     },
     {
       "headline": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
@@ -228,15 +222,6 @@
       "confidence": 0.752
     },
     {
-      "headline": "Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
-      "published": "2026-03-13T19:00:52Z",
-      "sentiment_score": 0.229,
-      "sentiment_label": "Neutral",
-      "confidence": 0.747
-    },
-    {
       "headline": "Elon Musk says xAI must be 'rebuilt' as co-founder exodus continues, SpaceX IPO awaits",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html",
@@ -289,15 +274,6 @@
       "sentiment_score": -0.06,
       "sentiment_label": "Neutral",
       "confidence": 0.876
-    },
-    {
-      "headline": "$100 oil, PCE data, MLB valuations and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/13/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-03-13T12:05:27Z",
-      "sentiment_score": -0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
     },
     {
       "headline": "Logitech K98M Wireless Keyboard Review: Great for Productivity",
@@ -390,15 +366,6 @@
       "confidence": 0.838
     },
     {
-      "headline": "ChatGPT, Other Chatbots Approved for Official Use in the Senate - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUE5ZcFY3SjR0MmNKaWNxemdFV0xjemRQUzZjOENqd2ZmVUJmM05LODRlNkRFRW13eFREZ3JsUW84aURWeVhOOXE2Y1BpQ1k2Zk5rRnl3d2NIVzVYdi1QSjB4WFFPdy1SY000ZHVidVdtUUVCdzJWZjM5dzc3eTQycDR0X0NMZXFY?oc=5",
-      "published": "2026-03-10T20:54:12",
-      "sentiment_score": 0.087,
-      "sentiment_label": "Neutral",
-      "confidence": 0.884
-    },
-    {
       "headline": "Mother of British Columbia Shooting Victim Sues OpenAI",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmEzVlZ5QzFJaWpXOHdWQW4xOG9INWNBdmFNbHJzVDhMdUVuczA4SDhTTy1yWEtsYUZHUEk5OFhLbU9iOEh6TFF4ZjdTVE1TVUhDX1d2RDBlY1g4cUdhREJIVFpudUhMbXVRc2NGb1RRZFVrWVFza3BKMVR2OFItYW0wNTdHUDI2dzk5UFR2MA?oc=5",
@@ -426,15 +393,6 @@
       "confidence": 0.818
     },
     {
-      "headline": "OpenAI delays \u2018adult mode\u2019 for ChatGPT to focus on work of higher priority",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSU5PdGdwUDRfYzVVdWRnNUVEX1FaTkxHbHk3QUQwT0JPRC1lcGFoMTZkQ1lQOUN2ZFBrWGlTTm9QcE11WnNzZ3RNQVNLT2hUYTd1X2o1M01idXUwUHk4OEJZX2tRMV9EWVRGeVlWckNSRVNlTzJBcU0yN2RjVG1rWXBGbzZpYjR0aHR3aVZXQXRSVzN1SVVYTDF4aXdfbVZCRkFDTXBmeVFYVlQtbDVfbUhsTHRVY1d4ZTNpLVpYZmc?oc=5",
-      "published": "2026-03-09T22:25:00",
-      "sentiment_score": 0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.921
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq5?at_medium=RSS&at_campaign=rss",
@@ -460,6 +418,15 @@
       "sentiment_score": -0.878,
       "sentiment_label": "Negative",
       "confidence": 0.891
+    },
+    {
+      "headline": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3NSaEs3WXhxX185b0ZiOWJ3Umc3TS1qMGgwbWRQTi1DbHppN0RVYkxmaUNJOGZzdlpobG1oendia1hYbjJQZFJfeHc0V21xUkRmN3hOb2I4YmllRmt0RDVhZTZaOTVEcmJkNFBvWEVsZVFuNUJtaS1vSHBoM2VOU3J2eUhkWXNWWGFLUmdlNnd5dk9tR1EtOXJaSjlFOTFhTS1tSTA3alpGRGo5eExIeVYxWkdmSjEwUGhhaw?oc=5",
+      "published": "2026-02-07T08:00:00",
+      "sentiment_score": -0.029,
+      "sentiment_label": "Neutral",
+      "confidence": 0.866
     }
   ]
 }
