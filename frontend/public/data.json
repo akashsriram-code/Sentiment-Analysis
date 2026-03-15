@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-03-15T06:46:29.957974",
-  "total_articles": 33,
-  "overall_sentiment": -0.16,
+  "last_updated": "2026-03-15T12:33:20.197314",
+  "total_articles": 30,
+  "overall_sentiment": -0.167,
   "overall_label": "Negative",
   "daily_stats": [
-    {
-      "date": "2026-02-07",
-      "avg_sentiment": -0.029,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.029
-    },
     {
       "date": "2026-02-11",
       "avg_sentiment": -0.878,
@@ -20,7 +11,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.454
+      "moving_avg": -0.878
     },
     {
       "date": "2026-02-14",
@@ -29,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.288
+      "moving_avg": -0.418
     },
     {
       "date": "2026-02-24",
@@ -38,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.209
+      "moving_avg": -0.269
     },
     {
       "date": "2026-03-10",
@@ -47,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.263
+      "moving_avg": -0.322
     },
     {
       "date": "2026-03-11",
@@ -56,7 +47,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.242
+      "moving_avg": -0.285
     },
     {
       "date": "2026-03-12",
@@ -65,34 +56,28 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.324
+      "moving_avg": -0.373
     },
     {
       "date": "2026-03-13",
-      "avg_sentiment": 0.022,
-      "article_count": 15,
+      "avg_sentiment": 0.024,
+      "article_count": 13,
       "positive_count": 6,
       "negative_count": 6,
-      "neutral_count": 3,
-      "moving_avg": -0.317
+      "neutral_count": 1,
+      "moving_avg": -0.316
     },
     {
       "date": "2026-03-14",
-      "avg_sentiment": -0.294,
+      "avg_sentiment": -0.246,
       "article_count": 5,
-      "positive_count": 1,
+      "positive_count": 2,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.233
+      "neutral_count": 1,
+      "moving_avg": -0.226
     }
   ],
   "source_stats": [
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.091,
-      "article_count": 8,
-      "sentiment_label": "Positive"
-    },
     {
       "source": "BBC News",
       "avg_sentiment": -0.314,
@@ -100,16 +85,16 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.098,
+      "article_count": 7,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "Wired",
       "avg_sentiment": 0.168,
       "article_count": 4,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.02,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
@@ -119,7 +104,13 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.269,
+      "avg_sentiment": 0.302,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.407,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -132,22 +123,13 @@
   ],
   "articles": [
     {
-      "headline": "Musk says Tesla's mega AI chip fab project to launch in seven days",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmZUUnlSRDB5R0JPS0EyNUdWWkF3SDRPV3d2SnNnSlVQVXRhMFI5T2JnVUNFeE5nZW1vZW83THNmanBPbmFFbU45dTVHSDEtQnNIZVdSZFVBdnl1RTE1b0pvR3N5d3ZLOHZiOEdQR3JfMjIzSG5KWFRma1NFbnAtWjVSOEdGbHV3Sk1xQWl6N2JPdFE1cTRNR3UycXQwMmoxbEhRcWUtRHNla3UzWkg0SlhoU0VGYWhld1Z2M3VlRFp5RW1q?oc=5",
-      "published": "2026-03-14T14:01:08",
-      "sentiment_score": 0.021,
-      "sentiment_label": "Neutral",
-      "confidence": 0.938
-    },
-    {
       "headline": "Meta planning sweeping layoffs as AI costs mount: Reuters",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE1QZE02a2pMcFhrbTVkcFFzLTU5aXctU040Q3JMaTdIa0VrMW5vUUpPcU9UQV9aS1VLR1dqUEEyU1FzVTlMVUFOUmpDcEkwTzZGZVlmcTZ1RFFpalZEMUFmUF9wZmlxVmkxVUI2QkdqWTBLOHRJM0NpTVJUcGs5S212NWtPTjJsS0Zvc01HdDRFcXVCekdLLdIBngFBVV95cUxQUnM1a2NxNGQtUzB4UjZrMEtEVTdZOHJINmJDbG96VDRUSzVoRmhBZ04zcXNoNGVmX09VTUdsd3JMMXF0aDRkQ0xfUGY4U2FEWEJKYVc1a0U0Wk9RVW1WU2NfcGxodDQ3a2poajBFQ0dfTU5xYXRQX0ZRN1puRXcyaFJPUUV0ZUY3VVBLSWlNV3QxUWNMc0lRMjFOSE41Zw?oc=5",
-      "published": "2026-03-14T10:19:14",
-      "sentiment_score": -0.907,
-      "sentiment_label": "Negative",
-      "confidence": 0.917
+      "link": "https://www.cnbc.com/2026/03/14/meta-planning-sweeping-layoffs-as-ai-costs-mount-reuters.html",
+      "published": "2026-03-14T10:19:14Z",
+      "sentiment_score": 0.235,
+      "sentiment_label": "Positive",
+      "confidence": 0.444
     },
     {
       "headline": "Cascade of A.I. Fakes About War With Iran Causes Chaos Online",
@@ -157,6 +139,15 @@
       "sentiment_score": -0.877,
       "sentiment_label": "Negative",
       "confidence": 0.888
+    },
+    {
+      "headline": "Exclusive: Meta planning sweeping layoffs as AI costs mount",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
+      "published": "2026-03-14T00:17:00",
+      "sentiment_score": -0.883,
+      "sentiment_label": "Negative",
+      "confidence": 0.894
     },
     {
       "headline": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
@@ -184,24 +175,6 @@
       "sentiment_score": 0.32,
       "sentiment_label": "Neutral",
       "confidence": 0.663
-    },
-    {
-      "headline": "Hometown Workforce Introduces an AI Startup that Creates Jobs and Businesses Instead of Replacing Them",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/getnews/hometown-workforce-introduces-an-ai-startup-that-creates-jobs-and-businesses-instead-of-replacing-them-ad661e75af2e89f164a027d71b376538",
-      "published": "2026-03-13T21:17:51Z",
-      "sentiment_score": -0.029,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
-    },
-    {
-      "headline": "Steven Spielberg says he's 'never used AI' in any of his films | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-      "published": "2026-03-13T19:49:01Z",
-      "sentiment_score": 0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
     },
     {
       "headline": "The biggest AI stories of the year (so far) | TechCrunch",
@@ -418,15 +391,6 @@
       "sentiment_score": -0.878,
       "sentiment_label": "Negative",
       "confidence": 0.891
-    },
-    {
-      "headline": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3NSaEs3WXhxX185b0ZiOWJ3Umc3TS1qMGgwbWRQTi1DbHppN0RVYkxmaUNJOGZzdlpobG1oendia1hYbjJQZFJfeHc0V21xUkRmN3hOb2I4YmllRmt0RDVhZTZaOTVEcmJkNFBvWEVsZVFuNUJtaS1vSHBoM2VOU3J2eUhkWXNWWGFLUmdlNnd5dk9tR1EtOXJaSjlFOTFhTS1tSTA3alpGRGo5eExIeVYxWkdmSjEwUGhhaw?oc=5",
-      "published": "2026-02-07T08:00:00",
-      "sentiment_score": -0.029,
-      "sentiment_label": "Neutral",
-      "confidence": 0.866
     }
   ]
 }
