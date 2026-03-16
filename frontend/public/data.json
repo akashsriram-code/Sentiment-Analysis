@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-03-15T18:28:15.831656",
+  "last_updated": "2026-03-16T01:25:41.331173",
   "total_articles": 33,
-  "overall_sentiment": -0.154,
+  "overall_sentiment": -0.105,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-07",
+      "avg_sentiment": -0.029,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.029
+    },
     {
       "date": "2026-02-11",
       "avg_sentiment": -0.878,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.878
+      "moving_avg": -0.454
     },
     {
       "date": "2026-02-14",
@@ -20,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.418
+      "moving_avg": -0.288
     },
     {
       "date": "2026-02-24",
@@ -29,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.269
+      "moving_avg": -0.209
     },
     {
       "date": "2026-03-10",
@@ -38,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.322
+      "moving_avg": -0.263
     },
     {
       "date": "2026-03-11",
@@ -47,7 +56,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.285
+      "moving_avg": -0.242
     },
     {
       "date": "2026-03-12",
@@ -56,34 +65,43 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.373
+      "moving_avg": -0.324
     },
     {
       "date": "2026-03-13",
-      "avg_sentiment": 0.072,
-      "article_count": 10,
-      "positive_count": 6,
-      "negative_count": 4,
+      "avg_sentiment": 0.033,
+      "article_count": 8,
+      "positive_count": 5,
+      "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.309
+      "moving_avg": -0.315
     },
     {
       "date": "2026-03-14",
-      "avg_sentiment": -0.086,
-      "article_count": 9,
+      "avg_sentiment": 0.186,
+      "article_count": 7,
       "positive_count": 6,
-      "negative_count": 2,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.196
+      "moving_avg": -0.163
     },
     {
       "date": "2026-03-15",
-      "avg_sentiment": -0.472,
-      "article_count": 2,
+      "avg_sentiment": -0.569,
+      "article_count": 3,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.27
+      "moving_avg": -0.25
+    },
+    {
+      "date": "2026-03-16",
+      "avg_sentiment": 0.394,
+      "article_count": 2,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.198
     }
   ],
   "source_stats": [
@@ -95,7 +113,7 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.136,
+      "avg_sentiment": 0.132,
       "article_count": 7,
       "sentiment_label": "Positive"
     },
@@ -106,16 +124,16 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.801,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "The Verge",
       "avg_sentiment": 0.087,
       "article_count": 3,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.053,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
@@ -124,19 +142,46 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Associated Press",
-      "avg_sentiment": 0.116,
+      "source": "Reuters",
+      "avg_sentiment": 0.02,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.407,
+      "source": "The New York Times",
+      "avg_sentiment": -0.787,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Race on to establish globally recognised 'AI-free' logo",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoLWdhYWNUclZod3JGR1FXMngtT18zcllsQ05vUjY1aWloN2R0UlEzX19kLThQeF9NTDEyLUdWdmVOdVVLWkgtaUNybUZvNHp2RzB2eDVFcUlmQQ?oc=5",
+      "published": "2026-03-16T00:32:50",
+      "sentiment_score": 0.694,
+      "sentiment_label": "Positive",
+      "confidence": 0.707
+    },
+    {
+      "headline": "Letter: Artificial intelligence set to drive gigification of the workforce",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqWmZqWk15T2xqdk02ZlJUd0Z5eExUSWJ0ZFp3bF9yd0tiMkhkZFAtRUhUYnh4Tk91dDZkTDAwRWwzYUxMbi1NQ2VNT3V0X3NiUWNDT29oY2tsUHliTzE3Zy1UTVluQnF4QWZUYXhsWmQ?oc=5",
+      "published": "2026-03-16T00:15:36",
+      "sentiment_score": 0.095,
+      "sentiment_label": "Neutral",
+      "confidence": 0.867
+    },
+    {
+      "headline": "OpenAI\u2019s Bid to Allow X-rated Talk Is Freaking Out Its Own Advisers",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOaWJYX3prN2xNQVNnQ24tMzVzSFFHZEw0Tk5rZXNFRzdaclhSY05Kd3RZZWVra2JDNG5ITEt6U2FWTTNiZjVua0N1Rlk1MDU1dDVrcHp3d0xQVUlaZGo1SlBfTXBlWlhQcXNXMHB3NThEN1pORjhRNDNFLWx5a2ltS1l3ZEp0TlpaRHhrRnVEQndMNTVlUEl2emFSSWxVcm1nb0dGY1pDTXlfQV9vM0pOTS1IT203YUIwRFFxRE9VQVFGQ21vZ05nZ2pYMldlTHFuNkl0LXQ1NDF5c1lieWI4WHIyVnhqb1pDS3NZd1Nwa3otRVExT0xmTmwxaTQ1clJSeUljbERTSkhSdEFMMXZCcmVtZ1RNN3E5VEh1UkdhYjNDR2d6enNJdzRJT0NTSUtlcEx2WWwzeWNKRGR5c2dPckFqTGJCQ1QwdC10bER2bTc1NnlYUWpJa0Uzb2dBTWNBLVpGTHQtZ05XQ1hlOFlVOFFYbUM?oc=5",
+      "published": "2026-03-15T17:02:20",
+      "sentiment_score": -0.764,
+      "sentiment_label": "Negative",
+      "confidence": 0.785
+    },
     {
       "headline": "AI has exposed age-old problems with university coursework | Letter",
       "source": "The Guardian",
@@ -156,6 +201,15 @@
       "confidence": 0.917
     },
     {
+      "headline": "US Army announces contract with Anduril worth up to $20B | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "published": "2026-03-14T20:47:47Z",
+      "sentiment_score": 0.489,
+      "sentiment_label": "Positive",
+      "confidence": 0.516
+    },
+    {
       "headline": "Clarity Now on Google Cloud Marketplace, Delivering Secure AI for Customer Experience",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/marketersmedia/clarity-now-on-google-cloud-marketplace-delivering-secure-ai-for-customer-experience-a8a15f444e8560e07b642c10a99e3e33",
@@ -163,15 +217,6 @@
       "sentiment_score": 0.11,
       "sentiment_label": "Neutral",
       "confidence": 0.873
-    },
-    {
-      "headline": "SVCV (SVCV Global) TO LAUNCH IN LATE 2026 AS A GLOBAL CONGLOMERATE",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/globenewswire-mobile/svcv-svcv-global-to-launch-in-late-2026-as-a-global-conglomerate-93a676f68b6be17f55c82999c994e497",
-      "published": "2026-03-14T14:17:08Z",
-      "sentiment_score": 0.122,
-      "sentiment_label": "Neutral",
-      "confidence": 0.862
     },
     {
       "headline": "27-year-old Amazon employee relocated from India to Ireland and spends up to $2,927 a month: 'My quality of life has improved'",
@@ -199,24 +244,6 @@
       "sentiment_score": 0.235,
       "sentiment_label": "Positive",
       "confidence": 0.444
-    },
-    {
-      "headline": "Cascade of A.I. Fakes About War With Iran Causes Chaos Online - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEJSaEpFX1NHMHlKbXNCM1RZYU5NcXhic2pzWG1od0RYX3dnNWJ6U2lMUkdNZ3l2d3B5b2FGbnIwcENVZnFaZTVNdkN0OS1ydEphMklaS0Nvay1VTFFtMDVxRURRU01YaDgtYUNPUDZCcnY0TmNBT3hmNHQ4VzJlZlcxMzdOaWdPV19wYXY5SDhjUE5DQUw4UGgzLWE3bkZvZkFZWnZ3?oc=5",
-      "published": "2026-03-14T02:06:38",
-      "sentiment_score": -0.827,
-      "sentiment_label": "Negative",
-      "confidence": 0.84
-    },
-    {
-      "headline": "Exclusive: Meta planning sweeping layoffs as AI costs mount",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
-      "published": "2026-03-14T00:17:00",
-      "sentiment_score": -0.883,
-      "sentiment_label": "Negative",
-      "confidence": 0.894
     },
     {
       "headline": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
@@ -282,15 +309,6 @@
       "confidence": 0.545
     },
     {
-      "headline": "The wild six weeks for NanoClaw\u2019s creator that led to a deal with Docker | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
-      "published": "2026-03-13T17:12:46Z",
-      "sentiment_score": 0.517,
-      "sentiment_label": "Positive",
-      "confidence": 0.526
-    },
-    {
       "headline": "Peacock expands into AI-driven video, mobile-first live sports, and gaming | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
@@ -298,15 +316,6 @@
       "sentiment_score": 0.34,
       "sentiment_label": "Neutral",
       "confidence": 0.642
-    },
-    {
-      "headline": "Google's AI Searches Love to Refer You Back to Google",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-      "published": "2026-03-13T12:31:55Z",
-      "sentiment_score": -0.06,
-      "sentiment_label": "Neutral",
-      "confidence": 0.876
     },
     {
       "headline": "AI toys for children misread emotions and respond inappropriately, researchers warn",
@@ -433,6 +442,15 @@
       "sentiment_score": -0.878,
       "sentiment_label": "Negative",
       "confidence": 0.891
+    },
+    {
+      "headline": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3NSaEs3WXhxX185b0ZiOWJ3Umc3TS1qMGgwbWRQTi1DbHppN0RVYkxmaUNJOGZzdlpobG1oendia1hYbjJQZFJfeHc0V21xUkRmN3hOb2I4YmllRmt0RDVhZTZaOTVEcmJkNFBvWEVsZVFuNUJtaS1vSHBoM2VOU3J2eUhkWXNWWGFLUmdlNnd5dk9tR1EtOXJaSjlFOTFhTS1tSTA3alpGRGo5eExIeVYxWkdmSjEwUGhhaw?oc=5",
+      "published": "2026-02-07T08:00:00",
+      "sentiment_score": -0.029,
+      "sentiment_label": "Neutral",
+      "confidence": 0.866
     }
   ]
 }
