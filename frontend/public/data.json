@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-18T01:20:28.974925",
-  "total_articles": 37,
-  "overall_sentiment": -0.218,
+  "last_updated": "2026-03-18T06:53:47.096897",
+  "total_articles": 33,
+  "overall_sentiment": -0.261,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,30 +33,30 @@
     },
     {
       "date": "2026-03-16",
-      "avg_sentiment": -0.182,
-      "article_count": 24,
-      "positive_count": 9,
-      "negative_count": 11,
+      "avg_sentiment": -0.23,
+      "article_count": 20,
+      "positive_count": 6,
+      "negative_count": 10,
       "neutral_count": 4,
-      "moving_avg": -0.347
+      "moving_avg": -0.359
     },
     {
       "date": "2026-03-17",
-      "avg_sentiment": -0.21,
-      "article_count": 9,
-      "positive_count": 1,
-      "negative_count": 4,
-      "neutral_count": 4,
-      "moving_avg": -0.319
+      "avg_sentiment": -0.226,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 3,
+      "moving_avg": -0.332
     },
     {
       "date": "2026-03-18",
-      "avg_sentiment": -0.593,
-      "article_count": 1,
+      "avg_sentiment": -0.41,
+      "article_count": 3,
       "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.365
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.345
     }
   ],
   "source_stats": [
@@ -73,43 +73,55 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.339,
-      "article_count": 5,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "The Verge",
-      "avg_sentiment": -0.329,
+      "avg_sentiment": -0.321,
       "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.524,
-      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": 0.034,
+      "avg_sentiment": -0.282,
       "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.393,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.328,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Ars Technica",
       "avg_sentiment": -0.633,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "WSJ",
-      "avg_sentiment": -0.428,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Bonanza or Bubble? Where AI Goes From Here",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmtDUG1lVUxra3VodkNKVkw4empRWU5PTDhaYWxBc2dmSjZKQ0FRbEczYzJXdkhiQ3MxVFRwbEd6WENFcmtLQWNuREJyNEJ5aFpFTWVhYy12b05QUGM5N0ZRNFNjZUJiWjFNaUZ0Ql8tVU1HSVh1VENyMkFVSWRMRlBRMnliUGdIU2xOdW1OcU85bDhvVHotMXpvaTlOeTVBQVpKeGIyajAta0s5dEljeGNsSFVrbFJzSmxSUmJzOXY?oc=5",
+      "published": "2026-03-18T04:00:36",
+      "sentiment_score": -0.024,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
+    {
+      "headline": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVowZEdGSDlWam96cHFIRjVXUFNQZ0w5R3g5MXQzRldicS1BaUlMS1IzMGN1RkZxbFRkenczdVdmdEhrSnRKelRNa2NDTUdnYWNIQVloMXRGLS1jYzFXYmxsTk1sbDlpOHBheEJwaXJhSXBzb0xnak1sZ1o5OFRnRG1zNGk0dnlta3JMTXg1azBYMncxZTFF?oc=5",
+      "published": "2026-03-18T03:51:54",
+      "sentiment_score": -0.612,
+      "sentiment_label": "Negative",
+      "confidence": 0.645
+    },
     {
       "headline": "Ad for AI editing app which said it could 'remove anything' banned",
       "source": "BBC News",
@@ -120,13 +132,13 @@
       "confidence": 0.613
     },
     {
-      "headline": "A photo of Iran\u2019s bombed schoolgirl graveyard went around the world. Was it real, or AI?",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXFYOTYtYkJGRzBiYnJ5Z0pyNFl5bGk0SHlfdENfTnNicVFnM1FVNzRMaXZGSkwtd3N6S0NsbEkweXhtYUtEalQ0bVZMdGVocHpGTHdTS2tadjRoVUozb0NvY0JtVkZ1S0pOMmdWNGFOMnBHOW1CQS1NbU9sRUxWMmxoaFJ5clphVlRwN3A5eVN6UnlOQ2RCVl9yTHFucVdva3B5R0NUdl81UQ?oc=5",
-      "published": "2026-03-17T20:36:00",
-      "sentiment_score": -0.067,
+      "headline": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
+      "published": "2026-03-17T22:51:11",
+      "sentiment_score": 0.101,
       "sentiment_label": "Neutral",
-      "confidence": 0.874
+      "confidence": 0.88
     },
     {
       "headline": "OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool'",
@@ -147,15 +159,6 @@
       "confidence": 0.932
     },
     {
-      "headline": "Analysts revise AI hyperscaler debt forecasts after Amazon bond sale",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHF4emZIc3VILUl0b2JKdmR0Y1lNRnUtOHRyQjdVV0MzbTdCY0M5SVFVZ3NUaFctdmhGUzc4TTBXU3B1QXBoYlloTDh0Y19aWG85ZGxTa1MwWEJ5U3A2TUo0andqY3ktTWRyZVpYcEF2NzFhU0tZQ1hwTmpZNHdBbUdYNmhkQzQzSjRRbGVBVWZXTm94bnJ6N2lxcW1UUlVxV1V1cEcxVkR1M1VzV24tTTNEaTBSRWMwRjNva3ItR1RXbFd1WlR1LQ?oc=5",
-      "published": "2026-03-17T18:08:50",
-      "sentiment_score": -0.162,
-      "sentiment_label": "Neutral",
-      "confidence": 0.781
-    },
-    {
       "headline": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rbzM1bkdVMDJpYV9KaVBWTnJuamtTX1dLYlBYM2lIQ0l1anoxd3R5cjdHU1pDcFlJbXBuWkJ5SDVRYUNGUXRtMTY3QXBQdDhqbHotdGlHcWhSeTdzU1pGMjJSZHdoZWpmX2hFVG1UMVE?oc=5",
@@ -163,15 +166,6 @@
       "sentiment_score": 0.047,
       "sentiment_label": "Neutral",
       "confidence": 0.83
-    },
-    {
-      "headline": "Netanyahu Posts \u2018Proof of Life\u2019 Video as A.I. Sows Doubts About What\u2019s Real",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWktR081b2Q1RHphQms5a0JIVHljV2RBbEF4S04yUjJnQ2ZkRUw3bkZ4amRrbmZxZmxVcy1hNmI1RmNMcXNZaDJMTk5HSEZFc09HaVdsem9taUpPVFNEQXFNVUd4RmFPQlVBTWZkblFWbnhhR3JVWWlXS0FhVFlVX0t2Q0pWU3JG?oc=5",
-      "published": "2026-03-17T17:52:47",
-      "sentiment_score": 0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.887
     },
     {
       "headline": "Gamers react with overwhelming disgust to DLSS 5\u2019s generative AI glow-ups",
@@ -203,29 +197,11 @@
     {
       "headline": "Exclusive | OpenAI to Cut Back on Side Projects in Push to \u2018Nail\u2019 Core Business",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOQ25ZaGNoakVPTXRUdkpjM0tJOWJ0azZ3cjd1ZDhrMFg1T21JajQwbFlEc3NLMDVtaUpuel8tcjhfV2RSNXhxV1ZKWjlWQkVJb2k0MXVTSDJKYW42S2ZDcUtMdWhUSkRVcWhzb2dBZ3pDbHdocjkxQy1udTlacVhjRmJ0aml1QTdZTTZKQkt2ZFZvbEtkVWtua3AxSGJYS0FuMF9UbUlmX1VNTHFSWUlqN1JnbVQtS1VoS0I0S1I1RmpKS1ZwcjdCclNZbE1STThYMC1YOXRLZzF0dm9Za3RuMzR1QkF2SHRReDV0M2hpZVlDZG9sS19MdGlrUXhJc1RreHhNQ3FzU1k2Rk04NUJmejlBUGttX0VMTGRXTVJpcEpfMFdOYTNkVm0yc1NpdmtrTlc4VlZDSDBzemxYazYzUHhyX24zRGxSSjZwVTlRRTIxZ1dfVUJEb1VMdlZfZ21hWE9mUVR3U2RWRkk0U2NSSC0zYzZSSldC?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNc0tCSE1YMWdEUC1uTWtGTmpWQ1VMcV8zR0dSVXJiSXNSdnVzSEZPVEI2MFUyZC1pd2lVcnRuWTUydFZud19XR1VXVk0tOFAtQ0ktWXF5VGMxdkptU2FsUV9tZUNpRng5ZnBmOVlNcWxEQ1JGUkNuUHByeTQ4dk5YU2xqTHkzVkFXcTFORHQwQk9GdWJpbTFnMEdndnYtblFySU9mOGNZOEU5N1Ntbzk0TWgxMEVJQzdwUDE5eFN0eUx1aHhnMjBGdXhSdmRxbjBRbHpILTBRdmowTlZ0OG5kWWg1cUtIYjdhVDhRRjFHWTVBdkhLNkVYTE1PdVQyRnNGclVYTmxzbVFsN2N5RFZxMF92UUxDcmR5REtMZHZvNUVFZUlsM1FkOG5oTE1PbC1BUEpWRmN4VV9BMkducnR5Um9BNS1MaHotdjJQbzdGNjJlY1B0bl9TMG9jZldqQ1NWaXY3RHp5WjdwSFBvVV9wNGNIYUZZS2hk?oc=5",
       "published": "2026-03-16T23:41:00",
       "sentiment_score": -0.093,
       "sentiment_label": "Neutral",
       "confidence": 0.692
-    },
-    {
-      "headline": "Oil relief sparks a stock rally, but Cramer says Nvidia\u2019s AI boom is the real story",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/16/oil-relief-sparks-a-stock-rally-but-cramer-says-nvidias-ai-boom-is-the-real-story.html",
-      "published": "2026-03-16T23:09:57Z",
-      "sentiment_score": 0.818,
-      "sentiment_label": "Positive",
-      "confidence": 0.894
-    },
-    {
-      "headline": "CNBC's The China Connection newsletter: Volkswagen pushes into driver-assist EVs without Nvidia, exec says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/16/cnbc-china-connection-newsletter-volkswagen-ev-chips-xpeng-horizon-nvidia.html",
-      "published": "2026-03-16T23:00:02Z",
-      "sentiment_score": 0.103,
-      "sentiment_label": "Neutral",
-      "confidence": 0.872
     },
     {
       "headline": "Nvidia's version of OpenClaw could solve its biggest problem: security | TechCrunch",
@@ -363,15 +339,6 @@
       "confidence": 0.844
     },
     {
-      "headline": "Yahoo CEO Jim Lanzone on reviving the web\u2019s homepage",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
-      "published": "2026-03-16T14:56:09Z",
-      "sentiment_score": -0.042,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
-    },
-    {
       "headline": "Encyclopedia Britannica sues OpenAI over AI training",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVR6MHVZMmt3d2VHUVhRNHJiWTJiOVFEd1JCSEd5U3ZuVWIzLUdpUHNvZW5QR3JNWlFJbGF2dDZocmV3ZDY5M2Z3b0xpajRFTHlFUmwwdWYzVEV5dkFUYmZQeXZkaV9MMGJiMURwejdfTmtvLVdld2J2VUNQd1h0UVUtaFFRY3NQOE82M3hxV3BJZ3J2bVFxUzdwdURTNnkzOHphMU9DNlk?oc=5",
@@ -379,15 +346,6 @@
       "sentiment_score": -0.886,
       "sentiment_label": "Negative",
       "confidence": 0.898
-    },
-    {
-      "headline": "He manages the best-performing stock mutual fund of the past 25 years\u2014here's his top advice for investors",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/16/michael-lippert-baron-opportunity-fund-investing-advice.html",
-      "published": "2026-03-16T14:03:20Z",
-      "sentiment_score": 0.118,
-      "sentiment_label": "Neutral",
-      "confidence": 0.865
     },
     {
       "headline": "Firms urged to check if other users edited their data on Companies House",
@@ -399,13 +357,13 @@
       "confidence": 0.894
     },
     {
-      "headline": "OpenAI\u2019s Bid to Allow X-Rated Talk Is Freaking Out Its Own Advisers",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxORW1FYjEzODFIcEdMOGtfUnYtWWE4aTl3Vmd4OW5oV1BaMFRrYTJyR3FjMjhlT3M3MlI2dEhJY3ZsdUIwV1FUWWtIQkh6YnlMcXFDaEpPX2VrbWRZSkVKQmtaRHR2ai1CbGduYTVwUlgteUJlZHpYbjVrYWw1UmpodWF4bHEtdVE5UUJuai16a2xGUHRaaTM1Z2dydnMzU1NpYXdGV29FdThKVGtKMFdXYURxQzV3UlpnWEVvbW1wMEZZMnlvNFV3VVZ6Z1l4MkNrdG1KSlRxZkxuT1ZycmpVU0dseDhZX0w1SFpROGxGVElwV1dQTm1rWnJXQkdFU2JneFF6VEVtNjRGVm1VdXZmTmlSNjllUmVKUEQ1Z1FtaDBCWm91bTFCZnU5RFN0NHRtTjJMY3JTckNMUWZBY1lDbnpZc1FWcl9ZZHJDeklGQ0lOSTFXWDBLTDRCbDJwWmE4eUFHUVRUM0EzT1NmeDVVSURUbXU?oc=5",
-      "published": "2026-03-16T02:00:00",
-      "sentiment_score": -0.764,
-      "sentiment_label": "Negative",
-      "confidence": 0.785
+      "headline": "OpenAI\u2019s adult mode will reportedly be smutty, not pornographic",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1k0cGNJYkN6R3VOWFhhZ2F0MG5lSThadldFWXhSaGJCSmgyQmtqZWdzT3BoNVNNUkpuSlQ5dEhMRVBKbThaUmVmUldhWHF5Q0ZjNjJEUGphYlNFM2R0Z3E0aU51Ry1NR0ZKaWdTTC02ekh4WUdqN3lFLWo4OFU4Ykh4bjBwRExIdHZWLVZNU2ZDOEVXR1oweUdqUkJCZm5yUWZ2YU5HMDhsV01BM01F?oc=5",
+      "published": "2026-03-16T11:18:20",
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
     },
     {
       "headline": "Is this product 'human-made'? The race to establish an AI-free logo",
