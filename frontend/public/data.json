@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-23T12:44:38.259049",
-  "total_articles": 33,
-  "overall_sentiment": -0.162,
+  "last_updated": "2026-03-23T18:41:36.808900",
+  "total_articles": 37,
+  "overall_sentiment": -0.168,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,51 +33,57 @@
     },
     {
       "date": "2026-03-19",
-      "avg_sentiment": -0.052,
-      "article_count": 4,
-      "positive_count": 3,
+      "avg_sentiment": -0.1,
+      "article_count": 3,
+      "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.411
+      "moving_avg": -0.423
     },
     {
       "date": "2026-03-20",
-      "avg_sentiment": -0.154,
+      "avg_sentiment": -0.155,
       "article_count": 7,
       "positive_count": 4,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.359
+      "moving_avg": -0.369
     },
     {
       "date": "2026-03-21",
-      "avg_sentiment": -0.088,
-      "article_count": 9,
-      "positive_count": 3,
-      "negative_count": 3,
+      "avg_sentiment": -0.021,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 3,
-      "moving_avg": -0.314
+      "moving_avg": -0.311
     },
     {
       "date": "2026-03-22",
-      "avg_sentiment": -0.065,
-      "article_count": 7,
-      "positive_count": 4,
-      "negative_count": 2,
+      "avg_sentiment": -0.112,
+      "article_count": 12,
+      "positive_count": 7,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.279
+      "moving_avg": -0.283
     },
     {
       "date": "2026-03-23",
       "avg_sentiment": -0.248,
-      "article_count": 2,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.189
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.193
     }
   ],
   "source_stats": [
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.028,
+      "article_count": 8,
+      "sentiment_label": "Neutral"
+    },
     {
       "source": "BBC News",
       "avg_sentiment": -0.492,
@@ -85,28 +91,16 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.107,
-      "article_count": 7,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "The Verge",
-      "avg_sentiment": 0.098,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.138,
-      "article_count": 3,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.022,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.223,
-      "article_count": 3,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.082,
+      "article_count": 4,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Wired",
@@ -115,8 +109,14 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "WSJ",
-      "avg_sentiment": -0.167,
+      "source": "The Guardian",
+      "avg_sentiment": -0.343,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.152,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -129,6 +129,33 @@
   ],
   "articles": [
     {
+      "headline": "Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGJKYU9DRDE1Tnh5aTVaZVhZdDRPMTBEcVF1dEV3cFZGemstYVVHcmNRakFuYmhUMHlkcmdlOG1UWlZwdkN1TkZGbHhzc0tSZS1ORGFSZGJ4RHdfa3BUWHJveWdTSy1rVFQ0cnQxMVhjMjQ2ZndfSUc0Q2NRRUF0OUFaT1lwMzZ2RjBfVHdKTFZTOGNqd0hfdk5IWUI1STVINXhoZzZ5ZGpFUXNKSnRYTkloRzFNRF9UV3FzT2JKX0J6VzFzMUVr?oc=5",
+      "published": "2026-03-23T17:36:00",
+      "sentiment_score": 0.009,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
+      "headline": "AI boom risks widening wealth divide, says BlackRock\u2019s Larry Fink",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzRLOUpxMW9aWHBLNDFmR1dGTmw1Ujg0eWg4NVRSNkdsTXdRWVY5WTNqOHB6cEM4M2hkZHlhU2pTX2ZuVDc0ZEVSZER4aWhRdW5wZkhDVFdWUnJDLUh5OFRxWWx5WTVscmhkZThJeURIMURCU1BqZFkteEtpaDZUV3FiVzJIQzZyeUZFaE1JSWhPUkI0UkYyNUFHeXB5c3Q1ZmRlZmVHeHdfR180?oc=5",
+      "published": "2026-03-23T17:12:00",
+      "sentiment_score": -0.696,
+      "sentiment_label": "Negative",
+      "confidence": 0.776
+    },
+    {
+      "headline": "HSBC appoints first chief AI officer as it seeks cost cuts",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTNBdU5vaE0tbU9jUlh0Qy15b3g2ek16MEtlYnRpVnZIUWM5b2ZJZVBwd0dVU1hOZFVGTmRLRzNVaWJXRjNVU0dxQllCUF9aeGtwbHBXXzFtTGkxa2FlVnZMV3oyajZPTEVpOUtaaWJFM3hYS3ZJNVhRUUZqUHRYOE9Zb3lmWmlMYTlnejlrdGdmZThxY1FpOHFhLVpuZ0N6eGc?oc=5",
+      "published": "2026-03-23T13:13:13",
+      "sentiment_score": -0.426,
+      "sentiment_label": "Neutral",
+      "confidence": 0.505
+    },
+    {
       "headline": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5",
@@ -138,22 +165,58 @@
       "confidence": 0.669
     },
     {
-      "headline": "Larry Fink\u2019s Warning: Invest or Risk Getting Left Behind by AI",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNYVBPNXA4SjNPS3dGYjZlU0VfNUQwdXJKY05ZZHctb1pzTE1kR3lubTdJYmZGZTByQzJ6OFpZeFpNS0xXRTVKaGhEUVZOTkxYbjZOTFlCR3FNUlZzNVh3ZTVaQ1dtZlc3NWdVV1RtX3pMakhMYjhkeUZzX3BfcTJMVjhYNlU5a2QyMkRKX25WbVdMNVNaVjVock52ZkpwNnJGVTkxMGN2RmUwZDA1MnVFNmlidlcxWHJNNURBb3BXQjFQNjd5ZzhpS0FMNXo2MXJ4R3RVWDlVcC0xdjJUa2N0c0Q1YmxoLVlBemlBQ01LaUFWMHpjS0Vua3pvZldPWFBlVVpmVS1pbXMtcWV6SS1tUTgwWWIzSk5FYWpYUXRqX3JRQUdqMi1GV1h2T3VVM0xQd0I5MlBkTnNsb3dJT0tHdVZYYkc5QzRxTmQ3SERSS1FFQjUwNEMtTk5lMkh1TnhIYTBHbjE5MHhOdl9nZ1RFVWxJODIwTFBGRkV4UnlER0U3cTd2NUtHYzlpUzdaYkROXzE1dFlrc1lsYnNhX282aEplRXlrcngyOXpvYU9Mb0s?oc=5",
-      "published": "2026-03-23T10:00:00",
-      "sentiment_score": -0.618,
+      "headline": "Crimson Desert dev apologizes for use of AI art",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+      "published": "2026-03-22T17:34:34Z",
+      "sentiment_score": -0.644,
       "sentiment_label": "Negative",
-      "confidence": 0.634
+      "confidence": 0.698
+    },
+    {
+      "headline": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "published": "2026-03-22T16:20:00Z",
+      "sentiment_score": 0.018,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
+    },
+    {
+      "headline": "TechCrunch Mobility: Uber everywhere, all at once | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/",
+      "published": "2026-03-22T16:06:58Z",
+      "sentiment_score": 0.138,
+      "sentiment_label": "Neutral",
+      "confidence": 0.84
     },
     {
       "headline": "Why Spotify AI more than music will be the secret to keeping subscribers",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON2RJbXlKb2cwMEEyQnJZRGNESUtwUnVVZmtTTW4yeVRGZVVuemdudTFyRjlyRy1zYi14Q29SZTA2OUxvWm5pUXY3MEE1X3dfYlE3WGhHcXJ2Vm5MNnBUZUpNY1VuN2gwc1p2YmZybVVYa29COEdNLTZuZGFWSU9tQjRR0gGHAUFVX3lxTE93UkFFVjdydzlpNjF4Q0tDRG1ocy05d1FZNTJBZDk4RVpXLWFha3hUSFVTZE1obzlvTnhlX0tJYWkyMm90YkZFUGVFNE1IWUItN2dMZV9KMkdEZTlqWlFnUHJrSzYxVnAtTnktTkdueWpuNE5zUjVsaEVxNVdhVzQ1MDkzN0duVQ?oc=5",
-      "published": "2026-03-22T14:18:58",
-      "sentiment_score": -0.009,
+      "link": "https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html",
+      "published": "2026-03-22T14:18:58Z",
+      "sentiment_score": 0.331,
       "sentiment_label": "Neutral",
-      "confidence": 0.928
+      "confidence": 0.649
+    },
+    {
+      "headline": "Musk says he\u2019s building Terafab chip plant in Austin, Texas",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+      "published": "2026-03-22T14:06:48Z",
+      "sentiment_score": 0.117,
+      "sentiment_label": "Neutral",
+      "confidence": 0.865
+    },
+    {
+      "headline": "When it comes to private credit, 'some caution is reasonable,' advisor says. What to know",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/22/private-credit.html",
+      "published": "2026-03-22T13:30:01Z",
+      "sentiment_score": -0.859,
+      "sentiment_label": "Negative",
+      "confidence": 0.895
     },
     {
       "headline": "Opinion | Bracing for the A.I. Economy to Come",
@@ -208,24 +271,6 @@
       "sentiment_score": -0.885,
       "sentiment_label": "Negative",
       "confidence": 0.896
-    },
-    {
-      "headline": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-      "published": "2026-03-21T19:31:40Z",
-      "sentiment_score": -0.841,
-      "sentiment_label": "Negative",
-      "confidence": 0.854
-    },
-    {
-      "headline": "OpenAI to introduce ads to all ChatGPT free and Go users in US",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0Z6RmVXNUliSUVTSTBsaVAxMWtJY2NnTTNvdVVGdl9XM1NYN2xzTHo4cG9XcGZxM1lzQkpMNHpsZUJUZkszZmVkN2J4ck5ZLWhJZS1XN3lPMkh0TmcxRldIZ1lCTmlzZkNXVHM5RmY2cDJrZ0JUM2hUZF9fMUFqalIxWWtiaVNMRkx3U1FJYkZ1cjM1TTdoSjZNOEJpUVN1U1BDY1J0VmRPdGhLUm1XblVKWnZLODZJaFJQbkI4UmFiSE54RzNF?oc=5",
-      "published": "2026-03-21T16:18:47",
-      "sentiment_score": 0.202,
-      "sentiment_label": "Neutral",
-      "confidence": 0.78
     },
     {
       "headline": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
@@ -340,9 +385,9 @@
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFBBalpYcjJmMmZNYXBhN2NycHc3X0FrTUhMTm9Yay1wSjRxZkNRc2p6cmJmM1hYeExhLVFCeEF6ekxBby13eTMtUVI2aU9hMTE3SlhTZ1hMdFFTWm5TWFQ3ekxZOVhKSWFFeDlLbkx3cHp1U0ZLZWNTLXRxdmFIQnBpMVByYlJwWnhR0gGQAUFVX3lxTE5MVjRpTDNVRjBNb3lVcXQ0emNrZXFicHEwY2Jsczd4S2hqY2dLbV8yb2V3cFNUQ2pKWmpHZ3E1a2N2U25TbVJpZGdwcnUyVlV2OEEwRkZ4eEZzVEduaWZCS3c2T2hjWTdCRjUzWElvQ1pDWHdMdUdsLXFLaUh4eDR0QlkybTJpRi1FR0ZEMjI5OA?oc=5",
       "published": "2026-03-20T00:29:00",
-      "sentiment_score": 0.088,
+      "sentiment_score": 0.08,
       "sentiment_label": "Neutral",
-      "confidence": 0.89
+      "confidence": 0.899
     },
     {
       "headline": "OpenAI is planning a desktop \u2018superapp\u2019",
@@ -356,20 +401,11 @@
     {
       "headline": "Exclusive | OpenAI Plans Launch of Desktop \u2018Superapp\u2019 to Refocus, Simplify User Experience",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOVXRhd2N3SWN2cnNUZEFxTVp3dk94RV9JTXljM1BPX194eWNEZ3FkVlpWWjh6ME43SFBBbGs1M2dSR0tBTmgwSEFjYnE3aEhyWFp4dllXdXlGdUQyeXVmNDRaZWRmQ255c2xlRUxHY09LS3AxSldmTHIya081cXFuWlJkemFfMW5zYkNlZGgtdS14MEYxbFRRRUN0NnNzaERTS25CeHdSbjRoekt0TWF0Q3V3RjgzdWh1VC1KaG1OTWFFYzZTN1JJYWhYSHV1ZXZiN1ZzZ3hJS0k3bWk3a3FEWTdaYk5KSWtBSk12V3gxSVFsOEtwRmVtdm0tdEU0UVlNUUhjUEtUY1dxSjVwZm15aFlNOHloSS1lcGhkNXlzWk9JOUxnbkV1ZTFIMGhHaXBwRHp1Z3hWOVJDYkRxd2N6ZFJWRld1UjF1bERsOVktc3gwVkN5R2JXMHBxSmplSFRxVTkyRllhNmZGUkVxcmNTR0dhY2FNbGNvdnVUbllqOUd6VXdwbjNrOGFGckp2ZlFFNGgxVmtGNzlRSHRIS3M5S09sZlRBVjJta1h3ejBDaHIzZ1U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNckxUMWQ5aWppcW5CcmZNUFczd3NxZUlZdFZVTTF6SVZfNzY2ajN4X19DVUZOc0NPbWF0ZUFWVDE2WFI0Wi1qZEJaY2lPUi0tMWRqZmJTamFGY2lVUHFXdFc5Q0lEa05mRkpmajRmT0JHN3VQWERvVzlYbzJZX29NV2p6NVpvenlWUVFscHhQa0xZd2Y4eG4tSy1Gd1hzNXRRSU5Xa1RnVXU5Z1RrQmxnaXNaeEpiMlJWZ2xIYjktd1kyMWtfUnBBUzlZYkVYQS1qUTFUMnMzdmVDUl9XbGh2MXhYbk1ybVdRc25Gd1NOd0ZfbDMzdTZ6NDhqNV94Tl9hdkZQUU91QWxuN2ZVVG5OVHBwY3Z2R0FZR25nSnppOGoxN1loLWxGTDJQNEdUekd4VU9sQUExdVRYY1ZDSC1Hdkh4bVdTLWFXZFY1blNjcE91bHZaczN0MjZyOHZGMDNKWS1icm1oUFdUN2hPVTZkQUVINVJzaTMwNEM0aHJzTWYzUnE1bUI4TTBiMFEtYTdEMHdiT2FaLTBJUDVNdGtfZmpkdUtvcUVFbzNaY0JXNHVoUVk?oc=5",
       "published": "2026-03-19T23:31:00",
       "sentiment_score": 0.285,
       "sentiment_label": "Neutral",
       "confidence": 0.696
-    },
-    {
-      "headline": "OpenAI plans desktop 'superapp' to streamline user experience",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkM3RVhJUllwRGlRbFJaU042VG81UVl1b0o1MW9jWmRTN3Fla25aUUZSY3RSZENzWkhnMjh4NDFwX2h3RE9qQ1lpLThpYjkyWGRXLWxLdEZadTV6Q2RER1Zma05pd1ppT21FTGc4X3dIenRsTXNVLU50OEhpdUZCQ0Y2Q1gtcFcyRTljSl9xUzYyd1V3Uk9mLUFDd2lCdnBtRHdDRTNsbDRESGNvb3VYNm5LSQ?oc=5",
-      "published": "2026-03-19T22:51:27",
-      "sentiment_score": 0.092,
-      "sentiment_label": "Neutral",
-      "confidence": 0.884
     },
     {
       "headline": "ChatGPT\u2019s \u2018Adult Mode\u2019 Could Spark a New Era of Intimate Surveillance",
