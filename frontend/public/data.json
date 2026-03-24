@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-24T06:55:03.775398",
-  "total_articles": 33,
-  "overall_sentiment": -0.107,
+  "last_updated": "2026-03-24T12:49:44.209748",
+  "total_articles": 32,
+  "overall_sentiment": -0.182,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-03-16",
-      "avg_sentiment": -0.093,
+      "avg_sentiment": -0.727,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.486
+      "moving_avg": -0.802
     },
     {
       "date": "2026-03-17",
@@ -29,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.314
+      "moving_avg": -0.525
     },
     {
       "date": "2026-03-18",
@@ -38,16 +38,16 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.421
+      "moving_avg": -0.58
     },
     {
       "date": "2026-03-19",
-      "avg_sentiment": -0.185,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": -0.654,
+      "article_count": 1,
+      "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.374
+      "moving_avg": -0.594
     },
     {
       "date": "2026-03-20",
@@ -56,7 +56,7 @@
       "positive_count": 3,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.358
+      "moving_avg": -0.541
     },
     {
       "date": "2026-03-21",
@@ -65,37 +65,43 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.29
+      "moving_avg": -0.448
     },
     {
       "date": "2026-03-22",
-      "avg_sentiment": -0.105,
-      "article_count": 12,
-      "positive_count": 7,
+      "avg_sentiment": -0.161,
+      "article_count": 9,
+      "positive_count": 5,
       "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.18
+      "neutral_count": 0,
+      "moving_avg": -0.346
     },
     {
       "date": "2026-03-23",
-      "avg_sentiment": 0.346,
-      "article_count": 5,
+      "avg_sentiment": 0.072,
+      "article_count": 7,
       "positive_count": 3,
-      "negative_count": 1,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.117
+      "moving_avg": -0.231
     },
     {
       "date": "2026-03-24",
-      "avg_sentiment": 0.227,
-      "article_count": 1,
+      "avg_sentiment": 0.128,
+      "article_count": 2,
       "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.089
+      "neutral_count": 1,
+      "moving_avg": -0.217
     }
   ],
   "source_stats": [
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.256,
+      "article_count": 9,
+      "sentiment_label": "Negative"
+    },
     {
       "source": "BBC News",
       "avg_sentiment": -0.492,
@@ -103,27 +109,9 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.181,
-      "article_count": 6,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "The Verge",
       "avg_sentiment": 0.108,
       "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.083,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "WSJ",
-      "avg_sentiment": 0.066,
-      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
@@ -141,22 +129,31 @@
   ],
   "articles": [
     {
+      "headline": "Ground truth: When the Earth moves, AI can spot it",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFVILWRVVGJiSGl6cnk5dkFuWkVaaDBVOUZwZmQ0S24xOUtza04wdS1sbUI5Z1RGcXduYUpQNWlERndRS1RyczE3eFpaclNYUUFFRkFadkRYTm44d24xa3ZEVm5fNzM0bVBkR1pMRE5jQlVlT0prRFVfdHFoNHVuQTJBM1RSdEsxWDUtMUxpOVg3S1htZFhxRFdBSV95ekpOUHc?oc=5",
+      "published": "2026-03-24T10:00:00",
+      "sentiment_score": 0.028,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
+    },
+    {
       "headline": "Amount of AI-generated child sexual abuse material found online surged in 2025",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEdmNGNPa2ZSQ1lYV1ZJS1FldkQyNUIyMm1nNENkYm53N0VRWVRwNUxIWFg1alB6M0YxTnJCUlFWdHBxeFFvMTZsSlNxRGpzVWxjd3ZOTFcwRHpoVkVNTkh4Zkp6bktrVktvV0gxWmgyTFlxcjViNm1OMXVBQ2hVbDVPc1RqOHNHMlJsVmoybVA4LVYxMXdqd3B3MnpOcm5JdFhCTVdIanU3d2FNU01PdVluVG1FdXJ2M3lGRjhvMmpDNkZSX1JrU2FPVVl0NEFNMnZqM2Q4Zk8?oc=5",
-      "published": "2026-03-24T06:00:00",
+      "published": "2026-03-24T06:01:00",
       "sentiment_score": 0.227,
       "sentiment_label": "Neutral",
       "confidence": 0.451
     },
     {
-      "headline": "Larry Fink\u2019s Advice in the Era of Artificial Intelligence",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOZE94TmdXRER1Ykl1eFYtNVFRS0s4SG1aSzRmdWVJUTFPdy1ZM2FoR1B5NWliS09JMklVN2FJcllUeEN6UjExRWFIdnlIdWt5Yk5Vb2dLSGRNamlrWHN3RFd6RjhHTlUyMGtiSExKTnZkSXpiNGdoeWpUUmVNZ3ZnYVQydC1TMXp4clRVd2ZVOTk3TFotdkFNb1FVb3c0ZFVvNmZ6c3pUZFBQQ0VhNFRIbmVoejRjdTZxY2tyY1Y1Z2doUEJfQXBSOFJmdjZSUklmQXR4ZjZHdXpkRDk4M1UyRFIyZ0hGUDBLODg2aUZ6Yy1sNmJTc29ZZGI0dFlreFoxcURwcjlpcWIzOVdjVzM2cy16TnhHaUhoZDItRmllVjRURmtKX01TRmREMWtUeXB1YmJ0RTBSX3NnUTFOdWVDLUZTZHpTSzk1UHVRVzQzN1NKRmZtRXlpYktibmxmeXJtZFBhMXBkLTNzTHRXNHRNaUVydGJra1ljcjVQMWhtNENqNHg1WGRFS0l1SVRIUS15NDhVQkdkelZrQkZ4cGVKTWpXLUdYU0tyd0tCUGtyWGstd3B0VDd1VnpGbWtXdTdSNUNpZXowc1BqbFlxdU03NDkwc2trUGtDcXhKSkxEeDV0ZzVnZ1pNUmVJT3YxSGtKVUtOYXM5SFBrQXlN?oc=5",
-      "published": "2026-03-23T22:46:11",
-      "sentiment_score": 0.007,
-      "sentiment_label": "Neutral",
-      "confidence": 0.925
+      "headline": "OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk14bkEzVmx5d29yUW5zVTBrSWFDTUNldFN4WnQ1TDJQWmhDcEZyOXBZX180WmxFS3lWZVh1X1ZIUFBCNDhBY09OVEo4djA0dU1JVGY5VlRYWUZDQWpIeGJ2Y0Yzc29XNTBDOFhlLUVxZ0VDS0xqQlJYWXg3UHJaN1RtMW1jcGZWZUpSaGFEUHR3U0QySkR0aElFVEpxWnlsMEFjYdIBqgFBVV95cUxNbXMzRWN6aktvMGhobW9EQ0ZkRXpHZzVNYndYZF9hTjRka2Nfdm8yOGJDQVZ5NU52SVpDSEhYN2kxMGJ6S1UtLWNDN0YybkVzQ0FBa0ZtU0tUNVhTMXJfMEZXRFI3ZUtJNDlsdjdXWVlhS3MzMjZYbjl6c3N5X20wSnN1cnk5amU1eXNGM1JPMF9ScFhIWDlpZVFFNkRsM1piRDAxb25BLTZkQQ?oc=5",
+      "published": "2026-03-23T23:00:28",
+      "sentiment_score": -0.561,
+      "sentiment_label": "Negative",
+      "confidence": 0.584
     },
     {
       "headline": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d",
@@ -186,6 +183,24 @@
       "confidence": 0.922
     },
     {
+      "headline": "U.S.-Iran talks, ICE in airports, gemstone investing and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/23/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-03-23T12:33:23Z",
+      "sentiment_score": -0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
+    },
+    {
+      "headline": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/23/sen-warren-dod-anthropic-blacklist-hegseth.html",
+      "published": "2026-03-23T12:10:17Z",
+      "sentiment_score": -0.652,
+      "sentiment_label": "Negative",
+      "confidence": 0.693
+    },
+    {
       "headline": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5",
@@ -193,15 +208,6 @@
       "sentiment_score": 0.121,
       "sentiment_label": "Neutral",
       "confidence": 0.669
-    },
-    {
-      "headline": "Do you want to build a robot snowman? | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "published": "2026-03-22T19:45:07Z",
-      "sentiment_score": 0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
     },
     {
       "headline": "AI influencer awards season is upon us",
@@ -258,15 +264,6 @@
       "confidence": 0.629
     },
     {
-      "headline": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple\u00a0 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "published": "2026-03-22T12:04:06Z",
-      "sentiment_score": 0.094,
-      "sentiment_label": "Neutral",
-      "confidence": 0.882
-    },
-    {
       "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
@@ -283,15 +280,6 @@
       "sentiment_score": 0.254,
       "sentiment_label": "Neutral",
       "confidence": 0.725
-    },
-    {
-      "headline": "Are AI tokens the new signing bonus or just a cost of doing business? | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-      "published": "2026-03-22T06:23:54Z",
-      "sentiment_score": 0.079,
-      "sentiment_label": "Neutral",
-      "confidence": 0.889
     },
     {
       "headline": "AI videos of sexualised black women removed from TikTok after BBC investigation",
@@ -375,15 +363,6 @@
       "confidence": 0.891
     },
     {
-      "headline": "Exclusive | OpenAI Plans Launch of Desktop \u2018Superapp\u2019 to Refocus, Simplify User Experience",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNSUV2ZzNEMktfUE04Y05LcVo3aTlVY1dkZVNxZVBzM2t4WmVUSVhKRE1WRnlBZ2pEeWtqa2xkc1l5MzJjYkpvRUZWNzZfS3BuWHFSUXBQWlU4b0pRLVJvQ3NPSWplcjU3WTNWOWJpLXV3ZjVJZWYwbDc3cjFjZ2o5VDJPaFZMT25ORXRJVDdoWFExN2lvSEF3bXhGZ0Z6czFOTE1tRE42NnJKNi1kSThkMVF5MzAweDFaYUZJVnRaYTRqRXJLa3c3VzdUdUpoMmRzcDdvdFdUMW5uZHRpd3ZMV3g4Rm1zQWhkY2x5XzlYRGRyMGs5NXRGYktlUHJyX0NsZ000aW9Ra3ZEY2VOQ2xuMl9vNWwzWUNkbWFTQ3lqOGh4bDR5aGh3bWZMNlFiREdOOVlMZ2lhcjZLOGE5Vm5EOTdIbXhpQzZyMTFVM3IwUFYtZThmNVNkcHVZaXB6Z2dwdGZ3MVRJZDNKMG9EUm5TcWYtNmVWbFc0SUhuUXQzbTRGTnFmSWNFYUdFRUNaNUdVYUpqWVBOckRkejRQa3VnSUJsWWM0SjJTcmF2dGNtYnVoc1U?oc=5",
-      "published": "2026-03-19T23:31:00",
-      "sentiment_score": 0.285,
-      "sentiment_label": "Neutral",
-      "confidence": 0.696
-    },
-    {
       "headline": "Amazon's Alexa has had an AI upgrade. Now she's got more to say",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
@@ -420,13 +399,13 @@
       "confidence": 0.932
     },
     {
-      "headline": "Exclusive | OpenAI to Cut Back on Side Projects in Push to \u2018Nail\u2019 Core Business",
+      "headline": "Exclusive | ChatGPT Maker OpenAI to Cut Back on Side Projects in Push to \u2018Nail\u2019 Core Business",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOdGstalpHYUJLcjVBbFp0aFBYUjh6SXJQOERWWkJaVTczRmRuRVJlT0pfN1lKWDk0WFgxU21ZRjFPV0tJTzdOT2pXOHZCa0FhTV9yRVNSTmxmUTAwcl85MkdxZS1qM0JSel9KbElqTS1IdmRYRC1YZ1BMMno1UlNqaWpScER2OU5FYmVHMkhJLVVpSGttaGRXTmZYbVVOMDFBdnpUUmN5bEFwWDdSQW1xODc1VGxzNEFTdXQ1RFlKTVViMkw4aHNoWXRCbXNNU1FSaklCTTFvb1lDa0hHQnJ6bFlQSWx2U01UVjRPcTZXS2dSNm45bUU4cndyM0pqMmktNzJDUnhFU28wN3M2VGVHWmN6eGVMWkNYbVk2UVhwZVZ2bDdfZDBmS2h4c2FLdURoQlE3Wml6NVlYTk5qUzdBX2xwNHAyaHdyNlFXd2tCeFJ3cGNVTmVGYXprQmFJa3ZKU2JOUGI2LUN2aWpBaEJyMTF5V0MwWGpo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOT3RYQ0xzV1JYems3UmdWN2E2Vmh2MEhDS2RGdEx3UkE3RUVvZlJLVUVOMWhId1E0YWxCQVpzYjBjdkhRUmtFemY4dlJvZHBkMEJqbXI3bDRaX0twZ3hpM1RNamtmWDlyMFNLdU5qS3pNcUs3ODkyMWlEWDhkaVRDZUF5RnZ2RmtBbDlSZ1YyX1d3RmFvNkVqNldRWGYxZ1BxUkdXSDVTbld6RTZ0U2dHNUx2RWY5X280YUN5V2xPZ3A1RDBSNjJMaS1BUXhGVC1qNldicGNiQTdGdkVaOHI1eHlaclQzUU9nbGpnSE9XZVhGRXVrdmtaaEZzSU9ySWpJVXAxRkwwam9vdUpyZHlKcEVJUTJwMGNMd2FJQVlBLXV4enMyY1lPYWlzZzZrYlk3TTE4WmE5SU0xZ3lILVRMcGVGZG4wSVE0TXo5aTlfWWpGODZjRy1VRkFwZ2NLbG9KUzdKbllxREFTMlQxWDMzazZwYXI0ZWVj?oc=5",
       "published": "2026-03-16T23:41:00",
-      "sentiment_score": -0.093,
-      "sentiment_label": "Neutral",
-      "confidence": 0.692
+      "sentiment_score": -0.727,
+      "sentiment_label": "Negative",
+      "confidence": 0.759
     },
     {
       "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
