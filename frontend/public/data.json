@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-25T01:18:53.853116",
-  "total_articles": 27,
-  "overall_sentiment": -0.283,
+  "last_updated": "2026-03-25T06:53:57.431770",
+  "total_articles": 33,
+  "overall_sentiment": -0.241,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,54 +60,48 @@
     },
     {
       "date": "2026-03-23",
-      "avg_sentiment": -0.15,
-      "article_count": 8,
-      "positive_count": 3,
-      "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.521
+      "avg_sentiment": -0.097,
+      "article_count": 5,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.513
     },
     {
       "date": "2026-03-24",
-      "avg_sentiment": -0.308,
-      "article_count": 9,
-      "positive_count": 1,
-      "negative_count": 5,
+      "avg_sentiment": -0.236,
+      "article_count": 16,
+      "positive_count": 3,
+      "negative_count": 10,
       "neutral_count": 3,
-      "moving_avg": -0.439
+      "moving_avg": -0.421
     },
     {
       "date": "2026-03-25",
-      "avg_sentiment": 0.327,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
+      "avg_sentiment": 0.094,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.265
+      "moving_avg": -0.281
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.468,
-      "article_count": 7,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.026,
-      "article_count": 4,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.227,
-      "article_count": 4,
+      "avg_sentiment": -0.447,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.407,
+      "avg_sentiment": 0.035,
+      "article_count": 9,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.166,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
@@ -118,13 +112,43 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.096,
+      "source": "The Verge",
+      "avg_sentiment": -0.014,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Bloomberg.com",
+      "avg_sentiment": -0.28,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.31,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI ends Disney partnership as it closes Sora video-making app",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-25T04:48:56",
+      "sentiment_score": -0.676,
+      "sentiment_label": "Negative",
+      "confidence": 0.705
+    },
+    {
+      "headline": "Meta makes 'big bet' on top leaders with stock options as pressure builds to catch up in AI",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NhcnJtYWFoZko0UmN5QmRVakV5eEdLb0dkQ25GYTlqaE4xS1BtTjUyb0JBdk1wNFdEUHNBU2NfMmRYWm9TRUp3N2gzbjl0Sy1Ed3lEVG1WRGMybDR4WXI0Yy1UcVFJMTVVNjJ5VmlWdmpsR2ZqQ0NpVU04RDB3Z3FqR3otdHdacXVOclZ2dnBoVDdiblRVSDlYSnM2ZmpZazFSZNIBqgFBVV95cUxPMmVaWDBnUjBOalFpb3I1UENYcWhHSnl1d1owZUY1SFJ5dFczRjBvZlZROG02NDQzU1J5c0RUOWJOd2huQlpvTlBLUmRFRUtva29nNVNHYlViMjVFVGhMUUtOVDdCTmVfZTJkYWtFdWFBX0pIWW5pbmpQS2xqak1oOTllcVZxbTEtUG00QU1NYnlUNW9qS2hUQ1ZFNWEyNEVFVVFqNUdZZDhxUQ?oc=5",
+      "published": "2026-03-25T02:44:00",
+      "sentiment_score": 0.631,
+      "sentiment_label": "Positive",
+      "confidence": 0.653
+    },
     {
       "headline": "Thai AI Startup Amity Raises $100 Million in Push Toward IPO",
       "source": "Bloomberg.com",
@@ -133,6 +157,15 @@
       "sentiment_score": 0.327,
       "sentiment_label": "Neutral",
       "confidence": 0.638
+    },
+    {
+      "headline": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzUzUzZoZUVLN1lPRER5TlhFOUlLZUVDOUhLSUNlUm1yb1IyTWxWZnVsZTNjNVVaZmM3c1Ytb0RrbUJQVXowUjZZUlZXSVRrNDNiS0loV19mdjliQlpCVlpSckdiY2hVVmhBWDNESEI5QWFNWEF1Slptak9VMk5oYkJ0bDhjemhHWmJfUWY2Q2x0bEZYVVFfc1FqNlVTSFFzcnNDZ1dpS1g?oc=5",
+      "published": "2026-03-24T23:57:55",
+      "sentiment_score": -0.549,
+      "sentiment_label": "Negative",
+      "confidence": 0.565
     },
     {
       "headline": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
@@ -146,20 +179,29 @@
     {
       "headline": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOR2UyR2w1alRpZFpNdDZyYXJUbUVRQ0ZVaDAwN0xhRWtvcnNPZEhOdHBrQlMtb1RmemR6dnVhMWE3djZicDhkaVJmeWFlMkZ2ZkxKa1dYeUI1NS1TaDdlcEFlclNnVWJmY1pxSmQ3em5nUW9oYlh0TjRYb05WcHJUZWc5bldmM29lSFNsakJhTG9XNng2X2s1dXJWbGFPdi16ZkdVenJwR0lWOW9TcU13U2p5U3daMVhXd0hWNm1UVWRockw0alcwM1NmeTZrdnkzMkkxd2RQMkpOUUo4RkxWM3hRZVdVWk1sY19qbU42c1pIeWpwZnQwYUFyX0xvb2lxUXF5UXhUeGlWM3Y4aEhUUnZHY2FPQUhlSWJlNmpodDhfb0IyVkxHQ1doakd1SGNZdGZaSnVRZjN2S0tpN3NpU3ZvVEVrZ0hQTUQ1Ny1KUnZndFJYOTVGOERIQTR5M1dFQnNrOU1uV3QyN3BGdXJfQTFaR2VCYk9Va3ZNZDBpQjhlYWFwdm90ZEVXdmlFbTR0Wk9nQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPQ2txUTBkTmZDOVY0V1ozc0NtZHgzT3ZmUzdhVFBBaUZuTHBNRDVMTjFVSi1peVpoWnBRR3QtWVJUMG5DU1JMdThLYVFzRDhwdFhXMkE4TDRpNzJ2aWJuQVFKdXMtNWhpcUNFWlM1VTVpMGRNbVlaV0EzMFZjVWM5dWhqQkZMRFdJZmI3UldxbXJsNEh4dERhUFVOdnhPSTNyX0dCVHNvRGV4bjBEX0NjNTBhSFVXZm5ueS1UYmhuTE9vLUpIVmlvZDByS3A1RlhuUmlMZXlSV3Eya3Vva2hJMU54cTJkTGlqdl9FeXg2S3huU2NsZnlPNjdoT0RPbGFjVk1aVmNLMjlGYzk1WVVJOGNpLVVrZHltVzZsa1UxakJOOFBFR05TcmNacHFnSVlkZmlrTXJvVi14SE54UVFKUlVnWWp2dEM4MzBjZzYwZ25YU3dDUkR2YWZjQjBmdXIxc0VTd1FMNWpyLUhJZGItOVVBQjYyell3cGhzT3BmdjVxLWhnSU5oTUNQVkdtRlU3YUVQNA?oc=5",
       "published": "2026-03-24T21:56:00",
       "sentiment_score": -0.65,
       "sentiment_label": "Negative",
       "confidence": 0.665
     },
     {
+      "headline": "OpenAI Discontinues Support for Sora, Winds Down Disney Deal",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbl9xUmFXS3ZWQkI2ajVUaDdWOEp6cUVMSW5RLS1HU2Q3ckNkRFgxSHNnZkthd2VSbzhWMWViRDF6RGM5VjhLWkx6aFU2clo2ZENMRFBXVXVSNERQVmZOSUx2QkhpM3lhc0NRZFRWWDJ2a3NQMWRkTGZqbWxxYWswZXVxOWJJMkJ4UkI5cm1MQXlEZUUxU0F1TVY4ckhyVEFNUER2MHFRQXdiVFNueHFEX0tPRHo?oc=5",
+      "published": "2026-03-24T21:31:40",
+      "sentiment_score": -0.888,
+      "sentiment_label": "Negative",
+      "confidence": 0.9
+    },
+    {
       "headline": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVVkUWxBSy1ycXp3NHpJenQ0OFNDTnJVcFhFWnEzcFctV05UX29iVWhOTkpiM0pqRk5PSXozU1NaZmZGZnRGN3dWNElULWFqa0ptRnp4QzZ5X0YwUGFjaTZWc3VVRmoyUW12S1N6MExRamlUTmNLVWk5MnpmaHotWE1oZ01NMWZK?oc=5",
       "published": "2026-03-24T21:08:10",
-      "sentiment_score": -0.074,
+      "sentiment_score": -0.057,
       "sentiment_label": "Neutral",
-      "confidence": 0.863
+      "confidence": 0.862
     },
     {
       "headline": "Tech Life",
@@ -171,6 +213,15 @@
       "confidence": 0.88
     },
     {
+      "headline": "OpenAI drops AI video tool Sora, startling Disney, sources say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYlFMYXFmMll5LVluZE5adTFIRDY2eXF3TG5IbVRnS0hmQlZfOUNBQ3hZTDRpWW9Ya0N5MDdWRm1PenZpMFA4Z182YnppZnVYRzdRVWx3VUJBdjNNd0YxSXpnazFOdnBibHVUS1JBNWFUSk5LT1R0V3RlYzMtaTRkRmRGN3VySFF6VDVJSTBmN2hXT3FGdWU1anpiM2lUWkhXMGZMZDh5Y2c?oc=5",
+      "published": "2026-03-24T19:54:58",
+      "sentiment_score": -0.822,
+      "sentiment_label": "Negative",
+      "confidence": 0.836
+    },
+    {
       "headline": "OpenAI\u2019s plans to make ChatGPT more like Amazon aren\u2019t going so well",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVZYeElxTWNHZldRZHpsMVpEUW1zTzd6aDlZMjBuWnZtZjczQnliNHZ6R2dmdjRmbWRvclFCNFpmM0RQUFBtVTNEcGxpQTN4YnNMQkI2VUZDc214VnVVXzdXT2VqMEMtNHhmVzZONm0tUjY2YS1zUV9JZEZTa0xqZ1BULXFrYTZ6TWlyeEtNc0tzWkJfcEs1ZDU3Slh6WnNid25V?oc=5",
@@ -178,6 +229,15 @@
       "sentiment_score": -0.53,
       "sentiment_label": "Negative",
       "confidence": 0.554
+    },
+    {
+      "headline": "I\u2019m a neuroscientist who studies AI: Stop teaching kids skills they won't need in 10 years\u2014how I'm raising robot-proof children",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGY1M3ZZUHlwWS1palY0dnJOT1Yxbm5YSWZna2ZuMlBiZU9raWtmelNDZnFVanpCV2lqaUVIVmkwcnl1blFsb2hDWHA1N01TUmtuNm81Mk5ZNkFrT2tGYjU5NnFNQnMwZnptRVp0TWM5UTU0MDFKUlFKUU9JU2M3NTFYNzhsOHBBVXZ4Y09rQXlJWUVMZEE5dHRiRFpDZ2xnQjN1YWtVc3VHaE1EOHdHSzlkRHVwMzd3LUpUVEExWTBIQdIBxwFBVV95cUxQV3hWNnVINjNMOHdhQUQwMkFPX0ZDM1hfbTNXaEltM3dpVE5QeFJHSnh0V1RtOFYzbnFwb0ItM1VXMWpQSDN4MDdJb2Z3QTFfOHBzRGEzT3J6M1NZSFBhWUJWcU91V3hPVXpTRkU0V2JTVndCLTV3Y0FpLV80TWxnUXRoWUp4ZkpObzFOR0VyWExZWV9kTFpIWmxqNTBGN0lyRmFIb2NiUmhMek9PZ2tyVi1mNTVxQnUwV3dGRFNzNUdINTJPcElR?oc=5",
+      "published": "2026-03-24T18:08:35",
+      "sentiment_score": -0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.918
     },
     {
       "headline": "OpenAI revamps shopping experience in ChatGPT after struggling with Instant Checkout offering",
@@ -198,15 +258,6 @@
       "confidence": 0.926
     },
     {
-      "headline": "Artificial intelligence tools: A third party by any other name?",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWpsNXVpRC1GNmxzQ3puT1JYYVk0Y1JMYklXR0I4ODJXOHhRTXRPclpJb0E3N3FlVDZkSWl3ZmN2NTJhanQwVDlWNW1pQ05XclhSTmpxSDJaNmhWUXJtdlEwMDJxN0d5cE5WWUNfNTJCek9tOW1VVDZvTWNwZXlMa1RtVnp2SExaTjJnazVpZDdjaTVrTGNoRHZqZUlaNGE3eE9aUTk1ZVFoZXE2S3dkTG9mT0NBSVQwTnJvM253dkY?oc=5",
-      "published": "2026-03-24T14:48:43",
-      "sentiment_score": -0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.946
-    },
-    {
       "headline": "In N.Y.C. Classes, Teachers Can Use A.I. to Plan but Not to Assign Grades",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tVFJiUE84NTRlRHdBSUR5NUNnTnllcjBnMjZzUVJCN1RXS3VJQWxMTVNwUjY5UFk5VzF5MkZJc0xoUkZKZ0tnWDJhNUFnS0JtQXVONzNUNUdFYm81RFRicUFoeHNpdWpaZmlFMXZpZlYxYnBpdEFGR0x3?oc=5",
@@ -214,6 +265,42 @@
       "sentiment_score": -0.01,
       "sentiment_label": "Neutral",
       "confidence": 0.939
+    },
+    {
+      "headline": "CNBC Daily Open: Unusual volume spikes and skepticism drive early trade",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/24/cnbc-daily-open-unusual-volume-spikes-and-skepticism-drive-early-trade.html",
+      "published": "2026-03-24T06:31:12Z",
+      "sentiment_score": -0.424,
+      "sentiment_label": "Negative",
+      "confidence": 0.696
+    },
+    {
+      "headline": "Sexism at football - a problem that isn't going away",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/sport/football/articles/cz6e07v24wqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-03-24T06:15:17Z",
+      "sentiment_score": -0.074,
+      "sentiment_label": "Neutral",
+      "confidence": 0.871
+    },
+    {
+      "headline": "EU, Australia seal trade deal as Western countries hedge against U.S. risks",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/24/eu-australia-trade-deal-trump-tariffs-war-risks.html",
+      "published": "2026-03-24T06:07:25Z",
+      "sentiment_score": 0.895,
+      "sentiment_label": "Positive",
+      "confidence": 0.923
+    },
+    {
+      "headline": "CNBC Daily Open: Trump signals Iran de-escalation",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/24/cnbc-daily-open-trump-signals-iran-de-escalation.html",
+      "published": "2026-03-24T01:49:39Z",
+      "sentiment_score": 0.846,
+      "sentiment_label": "Positive",
+      "confidence": 0.898
     },
     {
       "headline": "CNBC's The China Connection newsletter: The secret sauce behind Alibaba's animation studio",
@@ -243,15 +330,6 @@
       "confidence": 0.932
     },
     {
-      "headline": "PatientGain Launches HIPAA Compliant Healthcare Marketing Service For Medical and Dental Practices",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/marketersmedia/patientgain-launches-hipaa-compliant-healthcare-marketing-service-for-medical-and-dental-practices-a8d548e299e64547a34b0b1ac19d4573",
-      "published": "2026-03-23T18:45:47Z",
-      "sentiment_score": 0.127,
-      "sentiment_label": "Neutral",
-      "confidence": 0.856
-    },
-    {
       "headline": "Vibe-coding startup Lovable is on the hunt for acquisitions | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
@@ -268,24 +346,6 @@
       "sentiment_score": 0.245,
       "sentiment_label": "Neutral",
       "confidence": 0.733
-    },
-    {
-      "headline": "Elizabeth Warren calls Pentagon's decision to bar Anthropic 'retaliation' | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-      "published": "2026-03-23T15:24:18Z",
-      "sentiment_score": -0.793,
-      "sentiment_label": "Negative",
-      "confidence": 0.823
-    },
-    {
-      "headline": "Confronting the CEO of the AI company that impersonated me",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-      "published": "2026-03-23T13:13:49Z",
-      "sentiment_score": -0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.898
     },
     {
       "headline": "AI videos of sexualised black women removed from TikTok after BBC investigation",
