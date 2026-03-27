@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-03-27T01:24:29.896263",
-  "total_articles": 38,
-  "overall_sentiment": -0.321,
+  "last_updated": "2026-03-27T06:58:13.128419",
+  "total_articles": 32,
+  "overall_sentiment": -0.308,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-03-16",
+      "avg_sentiment": -0.093,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.093
+    },
     {
       "date": "2026-03-21",
       "avg_sentiment": 0.021,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.021
+      "moving_avg": -0.036
     },
     {
       "date": "2026-03-22",
@@ -20,43 +29,43 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.432
+      "moving_avg": -0.319
     },
     {
       "date": "2026-03-24",
-      "avg_sentiment": -0.406,
-      "article_count": 5,
+      "avg_sentiment": -0.51,
+      "article_count": 4,
       "positive_count": 1,
       "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.423
+      "neutral_count": 0,
+      "moving_avg": -0.367
     },
     {
       "date": "2026-03-25",
-      "avg_sentiment": -0.24,
-      "article_count": 13,
+      "avg_sentiment": -0.155,
+      "article_count": 11,
       "positive_count": 4,
-      "negative_count": 7,
+      "negative_count": 5,
       "neutral_count": 2,
-      "moving_avg": -0.378
+      "moving_avg": -0.324
     },
     {
       "date": "2026-03-26",
-      "avg_sentiment": -0.298,
-      "article_count": 15,
-      "positive_count": 5,
-      "negative_count": 10,
+      "avg_sentiment": -0.227,
+      "article_count": 9,
+      "positive_count": 4,
+      "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.362
+      "moving_avg": -0.308
     },
     {
       "date": "2026-03-27",
-      "avg_sentiment": -0.568,
-      "article_count": 3,
+      "avg_sentiment": -0.624,
+      "article_count": 5,
       "positive_count": 0,
-      "negative_count": 2,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.396
+      "moving_avg": -0.353
     }
   ],
   "source_stats": [
@@ -68,26 +77,26 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.037,
-      "article_count": 8,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.171,
+      "article_count": 6,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.093,
-      "article_count": 4,
+      "avg_sentiment": -0.164,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.636,
-      "article_count": 4,
+      "avg_sentiment": -0.59,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.322,
-      "article_count": 4,
+      "avg_sentiment": -0.432,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -105,13 +114,31 @@
   ],
   "articles": [
     {
+      "headline": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-03-27T03:21:48",
+      "sentiment_score": -0.834,
+      "sentiment_label": "Negative",
+      "confidence": 0.873
+    },
+    {
       "headline": "Judge blocks Pentagon order branding Anthropic a national security risk",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVJFdWJqbU5yTFhPT25TMkJYVTFaMnRvTktPdW1pU1VpVlMxMVc3WVNlY2JreXNOUHVJNk1janMwSUxMb29Xb293LVR1S01QbTctM0FwbjF0aGhFYW1ZSFBMWFJ6ZjFfUU1uMUhZWEdXMDBTZzVrei1jdTlEYnhQN19FMndRYlNBT05YTjBKLWwzWDZ3anJndWZXVGpuQTZHckRkbmpkVWZTRFd0dUE?oc=5",
-      "published": "2026-03-27T01:09:04",
+      "published": "2026-03-27T03:00:00",
       "sentiment_score": -0.8,
       "sentiment_label": "Negative",
       "confidence": 0.823
+    },
+    {
+      "headline": "Judge Stays Pentagon\u2019s Labeling of Anthropic as \u2018Supply Chain Risk\u2019",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWlpWTkwYzUwXy1VWWVUb3B3Y0txLVV6Z2F2Z3FRU21CZ3ByYms5X1NfTUVscjI1S2RwcVhLajk4WmotMVFDbnpqdndkQXItZ0xBMURpejBJWTZiaWdlZTFZZ2xrRGVSVGltMmtQUlJjUTRmNzhOWW95NGtfSGN3WmdXSlBnYkxjMkNsWDhR?oc=5",
+      "published": "2026-03-27T01:06:17",
+      "sentiment_score": -0.582,
+      "sentiment_label": "Negative",
+      "confidence": 0.644
     },
     {
       "headline": "White House AI czar Sacks to step down, moves to advisory role",
@@ -132,15 +159,6 @@
       "confidence": 0.905
     },
     {
-      "headline": "Judge Stays Pentagon\u2019s Labeling of Anthropic as \u2018Supply Chain Risk\u2019",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWlpWTkwYzUwXy1VWWVUb3B3Y0txLVV6Z2F2Z3FRU21CZ3ByYms5X1NfTUVscjI1S2RwcVhLajk4WmotMVFDbnpqdndkQXItZ0xBMURpejBJWTZiaWdlZTFZZ2xrRGVSVGltMmtQUlJjUTRmNzhOWW95NGtfSGN3WmdXSlBnYkxjMkNsWDhR?oc=5",
-      "published": "2026-03-26T23:47:52",
-      "sentiment_score": -0.582,
-      "sentiment_label": "Negative",
-      "confidence": 0.644
-    },
-    {
       "headline": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1lDZjdiQ0xHR2Z2cWdZdzJNQWlCc1ptWE1kckJaZHNXcjN6TzBTWV82RjZjZy1HTVZ6NjNIRmhzN1pTNTd5VWxQQWhGWVNRVzVJZU9RR050WldhMTE1TDF4NVlNSEdGbHNuczc0Z2oxdWxVdklnMjJMamlVb2xBR2FISnRsZjJocWpPWm5HOVNoU01wOGRGSlNORXJranZmSlF0aWhxYkRWYkVzRVhRYWRxQ3gySnNjUzZ5My1EZ1BWeVBRTXc?oc=5",
@@ -150,31 +168,13 @@
       "confidence": 0.486
     },
     {
-      "headline": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHFhcU5yc1BEMDRUWTNHR1I1eXZOLWpWX0hiMUMyRFNQaHl1dUJWTUN2VE5xS3V5QVRsQXpJb0JxMXpiN0hMYlZZTGQxRjlLbThFNHQtck5oaFVGYldnMDdGMHF5TUhMazRONDRRT0hza19MM0pmb21Fd1hSdVRPV1JxTDdXWXRncG5yMHV1VURibXNKd2R0Zkx3?oc=5",
-      "published": "2026-03-26T18:34:02",
-      "sentiment_score": -0.093,
-      "sentiment_label": "Neutral",
-      "confidence": 0.806
-    },
-    {
-      "headline": "Trump Tech Adviser Sees Path to AI Bill That Even Democrats Like",
+      "headline": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update",
       "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEZmQlM2WmxSWVF5REJLQm8waGl1OWFhOXZ3WHl1dkpkWDJrZ2VJd0p0bmJwcGFEVHNTNU1RMzJrUk5nQ1ZobTZnd1dWcUtvanVEdml2Q3o5TlJSdzJRaEl4bFItdDBQVnJZX0k5UXpOZlZkRTFpUnNhdDI0c01VeHl2SXZyUWlHMjBsYmJBOEZiWFJGTGRSVzZjNmpqeW9haFIwLWM1WGR3aDZxZVBTR09R?oc=5",
-      "published": "2026-03-26T18:04:58",
-      "sentiment_score": 0.108,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcENnNEV5S0c0QVlDMGNqdTkwSFdZS24yNk9pc0FPTDNCaWpUcGZPOHlfYWlJaU44TmJtOUFra1NPQ3FqWWRUV3ZxOXFjM2xQR1ZoZUJsamRERU9KbEZldUxQa1NKR29lTmlDSlJRYl9ESnhpcFljT3QtcG51ZklYTlJTU1FROExkdlFvNGJvRDJoYld0NWhLLU5ncml1XzFNa0toOGNLVU9oaTZRdVhSUlpucVRUUk5xMGhKWlpzcjctTENp?oc=5",
+      "published": "2026-03-26T20:32:58",
+      "sentiment_score": 0.159,
       "sentiment_label": "Neutral",
-      "confidence": 0.853
-    },
-    {
-      "headline": "The debut of Gemini 3.1 Flash Live could make it harder to know if you\u2019re talking to a robot",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjZ0WUNOeU1GaEN6cmRYV3ItSTVnVlo2Y1l1Yy1UckY2WlJzR2Etdm16bkFlTGR0OURKMHZObDB2Rm82SjZ1Y21LM0l4M0R4S29nQnA3aHA0eGhMalNaUDNMckxlNk5WaGlNRk9Mb3h3Z1ZQOG9vSVdfMXJGSFFnUmc3Yi1OeFdpTG9SQWRwWUtWYVFDb08wel9IWExRc0JqZlJQU29FYnBlX0wxeS1nQk5jYVdqMl94akhKSzNlNWphT1dvTVE?oc=5",
-      "published": "2026-03-26T17:44:07",
-      "sentiment_score": -0.154,
-      "sentiment_label": "Neutral",
-      "confidence": 0.795
+      "confidence": 0.822
     },
     {
       "headline": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
@@ -204,15 +204,6 @@
       "confidence": 0.563
     },
     {
-      "headline": "Creator of AI actor Tilly Norwood says she received death threats over project",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVBiaklSOGp2dncwcjRZTl9QM1JBRXhyc2g4WWVUSHI4Z2d1RURIU2xlc2tVQnI1VzkwOF9PTHYwNDJqaUNmUkJIdXU2cXd6VWxJVWJNM04tSERCNE5TWFZncHRvVFhHeDhGTEVLZldLdFZqTW5Dc2R5ZkJKbDhuancteXJObktJa0FqRFdmQ21LNVdNUkFYdkdPdlBBSnM4Sk9nRjVDQQ?oc=5",
-      "published": "2026-03-26T12:02:00",
-      "sentiment_score": -0.838,
-      "sentiment_label": "Negative",
-      "confidence": 0.854
-    },
-    {
       "headline": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2twZFQ0bXV1RGdsSjBUVGJOT0JzX0ZESHdIdUQwMWswS20za2JSUWZqUmVvNURocmt3aExxZ0UtUktBNUJkOFNUMm9RMU1DUVl4TTNLMEZjWmtqbFdRZVpqR1Z6dUotQm1GOXM0SEx6VS1oLXl2dUdnQmtDZzRtZ0dWMmdpMWVTMDVMQ2VMS3dmN01rVldGTlF6dGpWRGgyTFIwQ3FSczlMSnlKXzRENlJn?oc=5",
@@ -231,24 +222,6 @@
       "confidence": 0.559
     },
     {
-      "headline": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-03-26T09:43:25",
-      "sentiment_score": -0.834,
-      "sentiment_label": "Negative",
-      "confidence": 0.873
-    },
-    {
-      "headline": "South Korea to invest $166 million in AI chip startup Rebellions",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1UwU2JaM3BaZVlpNjU4ZmNjcnNMSEdydTY3NDA2T1ZvODl3YVI4ZEtidzNBQVVEXzBmTTYzd2hkMldlUlhQVU1tc1pRRDJIcFlMbnU3elFoTEpfaUNnb210ckdONnFDRFdZNlVQV1B2NzFOU2tyNlhZaXhlTGI0YkxEUTYwazBSdEVaLUw2aDVWWkRQWlFMSlh1TGRiWGxhRlFQb3ZxamljcWo1SUlxNXlR?oc=5",
-      "published": "2026-03-26T09:01:43",
-      "sentiment_score": 0.118,
-      "sentiment_label": "Neutral",
-      "confidence": 0.858
-    },
-    {
       "headline": "Mercor competitor Deccan AI raises $25M, sources experts from India | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
@@ -265,15 +238,6 @@
       "sentiment_score": 0.248,
       "sentiment_label": "Neutral",
       "confidence": 0.718
-    },
-    {
-      "headline": "Elon Musk calls for Delaware judge to recuse herself in lawsuits, alleging bias",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/25/elon-musk-calls-for-delaware-judge-to-recuse-in-cases-alleging-bias.html",
-      "published": "2026-03-25T20:38:52Z",
-      "sentiment_score": -0.776,
-      "sentiment_label": "Negative",
-      "confidence": 0.793
     },
     {
       "headline": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
@@ -319,15 +283,6 @@
       "sentiment_score": -0.439,
       "sentiment_label": "Negative",
       "confidence": 0.482
-    },
-    {
-      "headline": "Bernie Sanders and AOC propose a ban on data center construction | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-      "published": "2026-03-25T17:17:40Z",
-      "sentiment_score": -0.636,
-      "sentiment_label": "Negative",
-      "confidence": 0.657
     },
     {
       "headline": "Ultrahuman Is Back: Can the Ring Pro Beat Oura in the U.S. Market?",
@@ -420,15 +375,6 @@
       "confidence": 0.855
     },
     {
-      "headline": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlN6U0FWb0lwREhSZDZlNUtiSnBYZ3BiMGVoY1I1UUNkbm83cHRZbm11TjNKMjdlQWRfTzJ5NzB4em5BaW1iR0g1Y0hzbVc3b09PWWhmTkZfR2IzbDU0OHdrZU4yZzV2SGZTcjlHbmtTMldQbzhOeWVhV19sUE9RZnlHSnZHeGtvZUluRF94SkFTQ2t0RS1XZTBxbzBuc25TM1E?oc=5",
-      "published": "2026-03-24T17:13:00",
-      "sentiment_score": 0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
-    },
-    {
       "headline": "AI videos of sexualised black women removed from TikTok after BBC investigation",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
@@ -445,6 +391,15 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.93
+    },
+    {
+      "headline": "Exclusive | OpenAI to Cut Back on Side Projects in Push to \u2018Nail\u2019 Core Business",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNclprelgxdVV3MEstUzduV1phdXduSTJZcnZ5X05SUGNGVzJ2QWp0aC1kdVN4bThPNVdBeTBZaGNHX1FaZk5FMjhKQWhhTDhrampXd3RENEVHNDhrTktxUm0tc09EeUlRTkdiOV91M3JKTGdUdFVDUlRzS1IxVmF6ZndqN3pnMlBmdmtkTjFDXzltMVA4dWI1aFVhYjA5N2xMQTVlTVhWN0s1b0pLRnBJSl9zOE9IWXBhZDJDZEJSN3A5ZVBVZFNVTTFCSkVGaFFrdmRENVItNEExa2FnQUFuTTVrZFZKb0N6eGVZRGtIVERsTFVoZUJJREdlMEplLXlpQm1BdzF2M3RKaVQ1Y2JNOUpsRkJ4YlRhRl8zNHRKdEV4NmdkYTY3RXdaMlBqeUc4ZW15TTRDVzExY1phWGJjZTBSbGJ4RF9CM3JnTWRPa2RvalpZdHd5UFNLQzVFNTE2YXhfS1QzNVFIZGhObmdYZi10bjV6d3ZP?oc=5",
+      "published": "2026-03-16T07:00:00",
+      "sentiment_score": -0.093,
+      "sentiment_label": "Neutral",
+      "confidence": 0.692
     }
   ]
 }
