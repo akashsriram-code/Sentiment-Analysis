@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-03-28T01:18:05.747406",
-  "total_articles": 37,
-  "overall_sentiment": -0.162,
+  "last_updated": "2026-03-28T06:48:28.736796",
+  "total_articles": 33,
+  "overall_sentiment": -0.229,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.878
+    },
     {
       "date": "2026-03-21",
       "avg_sentiment": 0.021,
@@ -11,16 +20,16 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.021
+      "moving_avg": -0.428
     },
     {
       "date": "2026-03-24",
-      "avg_sentiment": -0.078,
-      "article_count": 5,
-      "positive_count": 2,
+      "avg_sentiment": -0.406,
+      "article_count": 3,
+      "positive_count": 1,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.028
+      "neutral_count": 0,
+      "moving_avg": -0.421
     },
     {
       "date": "2026-03-25",
@@ -29,25 +38,34 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.19
+      "moving_avg": -0.444
     },
     {
       "date": "2026-03-26",
-      "avg_sentiment": -0.093,
-      "article_count": 19,
-      "positive_count": 8,
-      "negative_count": 7,
-      "neutral_count": 4,
-      "moving_avg": -0.165
+      "avg_sentiment": -0.095,
+      "article_count": 14,
+      "positive_count": 6,
+      "negative_count": 5,
+      "neutral_count": 3,
+      "moving_avg": -0.374
     },
     {
       "date": "2026-03-27",
-      "avg_sentiment": -0.284,
-      "article_count": 10,
+      "avg_sentiment": -0.282,
+      "article_count": 11,
       "positive_count": 2,
-      "negative_count": 6,
+      "negative_count": 7,
       "neutral_count": 2,
-      "moving_avg": -0.189
+      "moving_avg": -0.359
+    },
+    {
+      "date": "2026-03-28",
+      "avg_sentiment": -0.025,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.311
     }
   ],
   "source_stats": [
@@ -58,22 +76,16 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.082,
+      "source": "CNBC",
+      "avg_sentiment": -0.163,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.143,
-      "article_count": 5,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.096,
+      "source": "TechCrunch",
+      "avg_sentiment": -0.131,
       "article_count": 4,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "WIRED",
@@ -82,10 +94,22 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "cnbc.com",
-      "avg_sentiment": -0.17,
-      "article_count": 3,
+      "source": "The New York Times",
+      "avg_sentiment": -0.73,
+      "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.165,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.38,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Wired",
@@ -96,6 +120,15 @@
   ],
   "articles": [
     {
+      "headline": "How much water does AI consume?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kTjAtY2kyM25ZZnhSWTNiSHdCRThfT0ZTdUVhZWF6UHJXQ1ZXal9KcXRsSHpXdmNxQ21Vb0lwQnFCWHU4Y3N6OVFrQ2x2UFhu?oc=5",
+      "published": "2026-03-28T06:32:29",
+      "sentiment_score": -0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
+    },
+    {
       "headline": "AI Research Is Getting Harder to Separate From Geopolitics",
       "source": "WIRED",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3RTTE5KNjZQZTdxYXZsSGdONWZoQkZ2WElHbk41eTJPYnVtZ3FCMENLMFRsUDNuV3N3NV9QUmRuMzNGaFI3bG5uaUl2bHJNRXRKMUZCcFkzSG1kY1hFRER0X2E4T2doOHZScVVVQ0U0bkRuUnhTd2xXX2VrV2VuYzg2eElvTnBHN0ktbXpwZGp5Sm5jWUprTlB2RW55MjFkTlE?oc=5",
@@ -103,24 +136,6 @@
       "sentiment_score": -0.089,
       "sentiment_label": "Neutral",
       "confidence": 0.867
-    },
-    {
-      "headline": "Number of AI chatbots ignoring human instructions increasing, study says",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXI3UGo1cW5fREpzZzB2alZoT0R2dnM4RjRMLWZQbmJuclpPLURBamNUdXhVYUJFM0d2cEpiOG5EN2VjVVhQV2pQUWl3QU5EMGpGLTd1elZ0RzJYOUpSZFFvR3VFcC1jVWZvMmVTMEZWTFRyREVHSFdhVFFtSVYxWE9sek9MTHFRQ3hnTUxpYjBKOThkbVNCcGpGVnRHS1VUQUxvVlFITHVWVG41TmlEdmdsNTgxNURNZUdPRWJBcw?oc=5",
-      "published": "2026-03-27T20:47:00",
-      "sentiment_score": -0.907,
-      "sentiment_label": "Negative",
-      "confidence": 0.925
-    },
-    {
-      "headline": "Musk has a plan to make human labor obsolete. Billionaires are joining in.",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOE9HbWl6SEtGRVR0emUybGdXcXpTSU9EWjdEczg1MXhnVU1fbTlqWkJ4Rmd3ckJyOUU5YmdydzB5WVFMWGxTRTNVRWJSQU4xYTJzcHhsZVRLU0V3RW1Da1hFa0Y1NGtrSHR3U3lKc2gteFNoS1RFVVJnZVZDWkZzSi1ZdmFyYkM3eTVkZw?oc=5",
-      "published": "2026-03-27T16:15:58",
-      "sentiment_score": 0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.919
     },
     {
       "headline": "PS5 price hiked by \u00a390 due to global 'pressures'",
@@ -132,13 +147,22 @@
       "confidence": 0.923
     },
     {
-      "headline": "Angry Ginge says under-14s should not have TikTok",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ajNUdUpodTZtVHl6ckZTOFdUS09pZ0IzS0NiRW5TNF9kdm5LbHZCakRENUxTMk9WM1o1eHdJQjJmNEktX1IyR2Nob21ra1EwNU1iR1Rsdy1ydw?oc=5",
-      "published": "2026-03-27T14:04:27",
-      "sentiment_score": -0.76,
+      "headline": "Judge Stays Pentagon\u2019s Labeling of Anthropic as \u2018Supply Chain Risk\u2019",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWlpWTkwYzUwXy1VWWVUb3B3Y0txLVV6Z2F2Z3FRU21CZ3ByYms5X1NfTUVscjI1S2RwcVhLajk4WmotMVFDbnpqdndkQXItZ0xBMURpejBJWTZiaWdlZTFZZ2xrRGVSVGltMmtQUlJjUTRmNzhOWW95NGtfSGN3WmdXSlBnYkxjMkNsWDhR?oc=5",
+      "published": "2026-03-27T15:45:00",
+      "sentiment_score": -0.582,
       "sentiment_label": "Negative",
-      "confidence": 0.78
+      "confidence": 0.644
+    },
+    {
+      "headline": "Number of AI chatbots ignoring human instructions increasing, study says",
+      "source": "theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXI3UGo1cW5fREpzZzB2alZoT0R2dnM4RjRMLWZQbmJuclpPLURBamNUdXhVYUJFM0d2cEpiOG5EN2VjVVhQV2pQUWl3QU5EMGpGLTd1elZ0RzJYOUpSZFFvR3VFcC1jVWZvMmVTMEZWTFRyREVHSFdhVFFtSVYxWE9sek9MTHFRQ3hnTUxpYjBKOThkbVNCcGpGVnRHS1VUQUxvVlFITHVWVG41TmlEdmdsNTgxNURNZUdPRWJBcw?oc=5",
+      "published": "2026-03-27T12:11:00",
+      "sentiment_score": -0.907,
+      "sentiment_label": "Negative",
+      "confidence": 0.925
     },
     {
       "headline": "Lloyds bank reveals IT glitch affected almost half a million customers",
@@ -159,6 +183,15 @@
       "confidence": 0.932
     },
     {
+      "headline": "CNBC Daily Open: 'Period of destruction' paused after Iran's 'present'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/27/cnbc-daily-open-period-of-destruction-paused-after-irans-present.html",
+      "published": "2026-03-27T06:26:42Z",
+      "sentiment_score": -0.414,
+      "sentiment_label": "Neutral",
+      "confidence": 0.48
+    },
+    {
       "headline": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
@@ -166,6 +199,15 @@
       "sentiment_score": -0.834,
       "sentiment_label": "Negative",
       "confidence": 0.873
+    },
+    {
+      "headline": "White House AI czar Sacks to step down, moves to advisory role",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXRIbF9lczU3ZGJ2UTFUV3VneWNVR3o1VEg1aGtHejNiLWxFUXV6eGl5VG1aRl9SMDVQOHcwVDhhd1B6a0w1SDh4aXlZTktfblRPMzNkMS1WNnJ2c3pqYm9LeDd4UHV2aWFNX3RZejdvNkZ5ZXh4TjA1YXBkVUR5YUdCSUhCb1AxcG5VbEhFb0hqc21BVlNsMHk1LVlCNW5JMGc?oc=5",
+      "published": "2026-03-27T01:02:00",
+      "sentiment_score": -0.015,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
     },
     {
       "headline": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
@@ -184,15 +226,6 @@
       "sentiment_score": 0.686,
       "sentiment_label": "Positive",
       "confidence": 0.819
-    },
-    {
-      "headline": "Judge Stays Pentagon\u2019s Labeling of Anthropic as \u2018Supply Chain Risk\u2019",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWlpWTkwYzUwXy1VWWVUb3B3Y0txLVV6Z2F2Z3FRU21CZ3ByYms5X1NfTUVscjI1S2RwcVhLajk4WmotMVFDbnpqdndkQXItZ0xBMURpejBJWTZiaWdlZTFZZ2xrRGVSVGltMmtQUlJjUTRmNzhOWW95NGtfSGN3WmdXSlBnYkxjMkNsWDhR?oc=5",
-      "published": "2026-03-26T23:52:47",
-      "sentiment_score": -0.582,
-      "sentiment_label": "Negative",
-      "confidence": 0.644
     },
     {
       "headline": "You can now transfer your chats and personal information from other chatbots directly into Gemini | TechCrunch",
@@ -231,15 +264,6 @@
       "confidence": 0.917
     },
     {
-      "headline": "Is now the time to buy Nvidia? Cramer says ask these questions to arrive at an answer",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/26/cramer-when-to-buy-nvidia.html",
-      "published": "2026-03-26T22:26:37Z",
-      "sentiment_score": -0.31,
-      "sentiment_label": "Neutral",
-      "confidence": 0.538
-    },
-    {
       "headline": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1lDZjdiQ0xHR2Z2cWdZdzJNQWlCc1ptWE1kckJaZHNXcjN6TzBTWV82RjZjZy1HTVZ6NjNIRmhzN1pTNTd5VWxQQWhGWVNRVzVJZU9RR050WldhMTE1TDF4NVlNSEdGbHNuczc0Z2oxdWxVdklnMjJMamlVb2xBR2FISnRsZjJocWpPWm5HOVNoU01wOGRGSlNORXJranZmSlF0aWhxYkRWYkVzRVhRYWRxQ3gySnNjUzZ5My1EZ1BWeVBRTXc?oc=5",
@@ -247,15 +271,6 @@
       "sentiment_score": 0.346,
       "sentiment_label": "Neutral",
       "confidence": 0.486
-    },
-    {
-      "headline": "David Sacks says his time as Trump's crypto and AI czar has ended",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html",
-      "published": "2026-03-26T21:49:55Z",
-      "sentiment_score": 0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.906
     },
     {
       "headline": "Apple will reportedly allow other AI chatbots to plug into Siri",
@@ -312,17 +327,8 @@
       "confidence": 0.891
     },
     {
-      "headline": "ByteDance's new AI video generation model, Dreamina Seedance 2.0, comes to CapCut | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-      "published": "2026-03-26T15:25:47Z",
-      "sentiment_score": 0.114,
-      "sentiment_label": "Neutral",
-      "confidence": 0.864
-    },
-    {
       "headline": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDNyaU1jYUtNXzh1bzAxa2NXaUpyZmVOZ0NZcFE0ZUplRzc5VGF1Q0JEOXRmQmJMUGlXYUxUczY0bzg3MUhlSlp4dWs5ZC1ra3lRNGEtMEh0TFRCVDBQYXJ3YXVlalFTOW1McDQ2eEJOTlUwRFh1bEZSczhQcnFYUjVWbnRaQkhTYkVDSC1iUWdLT2IwcG5iV2tKcVZTNm9sdUlqRjYwTDVzUFZoay1QcVBUNk1oNnfSAbwBQVVfeXFMUDdQclQ1eXhQLU9VN0FWQUd4aXRELTRqU1FKRDY1Y0c3RWJJaXFnazdhZDZBRnNucnM4S0w3TE1yeXMtUXZzWXA3UkFfVnpFZWpmeUpEby1LX3h3X2pyTFFjNzRGT0lrX19vYTNxWXZxQ1AzeFhvUVotYllHNDlfbEJyZU9wNnowWllQX0NPSXZPVmhuUXpka0ZrZ21FMGV2VzEwZEpTODJHbUU2ajBmd3R6M1pPVjBQRWtOcHI?oc=5",
       "published": "2026-03-26T14:53:07",
       "sentiment_score": -0.545,
@@ -330,22 +336,13 @@
       "confidence": 0.563
     },
     {
-      "headline": "AI and bots have officially taken over the internet, report finds",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-      "published": "2026-03-26T13:00:01Z",
-      "sentiment_score": 0.085,
-      "sentiment_label": "Neutral",
-      "confidence": 0.708
-    },
-    {
-      "headline": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2twZFQ0bXV1RGdsSjBUVGJOT0JzX0ZESHdIdUQwMWswS20za2JSUWZqUmVvNURocmt3aExxZ0UtUktBNUJkOFNUMm9RMU1DUVl4TTNLMEZjWmtqbFdRZVpqR1Z6dUotQm1GOXM0SEx6VS1oLXl2dUdnQmtDZzRtZ0dWMmdpMWVTMDVMQ2VMS3dmN01rVldGTlF6dGpWRGgyTFIwQ3FSczlMSnlKXzRENlJn?oc=5",
-      "published": "2026-03-26T11:58:09",
-      "sentiment_score": -0.383,
-      "sentiment_label": "Neutral",
-      "confidence": 0.562
+      "headline": "OpenAI puts erotic chatbot plans on hold \u2018indefinitely\u2019",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEpGT21kV0dBUnk0NE0zOERNM1VLQUJOZGJuMDEtVmNXMFJLV1NpVGJ4UUZwR25MWjJLejBBMFJyb0l1bXEtdjRHZjVXcEZpdXFNYXhQMDBwTjRTa3BxR3JBV0RLNWluWDFDSnRSRmZiWU1od0NnajNGdnlEQm9lMk40aUU?oc=5",
+      "published": "2026-03-26T10:00:01",
+      "sentiment_score": -0.634,
+      "sentiment_label": "Negative",
+      "confidence": 0.649
     },
     {
       "headline": "Parents should monitor children '24/7' on Roblox, says developer",
@@ -375,15 +372,6 @@
       "confidence": 0.948
     },
     {
-      "headline": "OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer",
-      "source": "cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnVqekZxdldhS0p4elhLYlhXYUl4VE1zOV95eFZkd0lMNXdUMkROcjlUNlhPZHE3aXNoWFl6LTdRcUNYSXcydV9hZ2xjQlRtVWZnaXEyTzBELUw1c3FnVDg5N2dubkxzTkhockUtQzZKRHB1TUdNa2tFdTRzdkZhSUN1YURId1MtUVBOWEZHSEhUU0trRmJwU2JMWWdXY1lGNWlmeF9FSF9vSUFHdWJv0gG0AUFVX3lxTE05aUJoYTlNSkg1UnF0VS1WNUJoZm9VN1hlOXNhTnJMemJtX1ZmX0VZQktHRGs4R3MwRmZfdW5JY3ZvdkRWa2RUamg4YTUtQXM4NFNrZGg0WFIxZU8xMG1ZUl93b3BKN2JrdW1NcWZPcGotLXI0MGZmLXFGYk1VbGN1MjlFQjhJQzVydGRlOC1pa2NPNVRadXgwTmE5YlA3WWVKd3BKa1JNaDRRQ2NNQjhNWFhtbg?oc=5",
-      "published": "2026-03-24T22:16:28",
-      "sentiment_score": 0.819,
-      "sentiment_label": "Positive",
-      "confidence": 0.833
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq9?at_medium=RSS&at_campaign=rss",
@@ -403,21 +391,12 @@
     },
     {
       "headline": "OpenAI revamps shopping experience in ChatGPT after struggling with Instant Checkout offering",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRC1ieG41ZEx5Mnh5dFN0QkFUVG54R2JmdnV6TWk1UWtXamw0TTA1d0hfZTR1ZjhGNGtfQV96REQtOGFYNGxmb3E0QTVqUFRxOWxzNHFvRkozOU5sc0RqSHVWQ1hRcnA0enVzeWFJSmJMcUZab2ZzaUZTQWdFcThTNEZ2N0hDR2k2Z2VKZWVkZG1nejFyTXhpODhsRDJabEhINmhrMndGYmo?oc=5",
       "published": "2026-03-24T17:32:19",
       "sentiment_score": -0.785,
       "sentiment_label": "Negative",
       "confidence": 0.855
-    },
-    {
-      "headline": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlN6U0FWb0lwREhSZDZlNUtiSnBYZ3BiMGVoY1I1UUNkbm83cHRZbm11TjNKMjdlQWRfTzJ5NzB4em5BaW1iR0g1Y0hzbVc3b09PWWhmTkZfR2IzbDU0OHdrZU4yZzV2SGZTcjlHbmtTMldQbzhOeWVhV19sUE9RZnlHSnZHeGtvZUluRF94SkFTQ2t0RS1XZTBxbzBuc25TM1E?oc=5",
-      "published": "2026-03-24T17:13:00",
-      "sentiment_score": 0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
     },
     {
       "headline": "Tech Now",
@@ -427,6 +406,15 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.93
+    },
+    {
+      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
+      "published": "2026-02-11T08:00:00",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     }
   ]
 }
