@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-29T01:27:21.840963",
+  "last_updated": "2026-03-29T06:55:04.282529",
   "total_articles": 36,
-  "overall_sentiment": -0.296,
+  "overall_sentiment": -0.272,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,13 +14,22 @@
       "moving_avg": -0.878
     },
     {
+      "date": "2026-02-20",
+      "avg_sentiment": -0.562,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.72
+    },
+    {
       "date": "2026-03-16",
       "avg_sentiment": -0.093,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.486
+      "moving_avg": -0.511
     },
     {
       "date": "2026-03-21",
@@ -29,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.317
+      "moving_avg": -0.378
     },
     {
       "date": "2026-03-24",
@@ -38,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.292
+      "moving_avg": -0.346
     },
     {
       "date": "2026-03-25",
@@ -47,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.336
+      "moving_avg": -0.373
     },
     {
       "date": "2026-03-26",
@@ -56,25 +65,25 @@
       "positive_count": 3,
       "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.314
+      "moving_avg": -0.349
     },
     {
       "date": "2026-03-27",
-      "avg_sentiment": -0.358,
-      "article_count": 17,
-      "positive_count": 5,
-      "negative_count": 11,
+      "avg_sentiment": -0.364,
+      "article_count": 15,
+      "positive_count": 4,
+      "negative_count": 10,
       "neutral_count": 1,
-      "moving_avg": -0.32
+      "moving_avg": -0.276
     },
     {
       "date": "2026-03-28",
-      "avg_sentiment": -0.131,
-      "article_count": 4,
-      "positive_count": 1,
+      "avg_sentiment": 0.058,
+      "article_count": 5,
+      "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.213
+      "moving_avg": -0.187
     }
   ],
   "source_stats": [
@@ -91,6 +100,12 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "Associated Press",
+      "avg_sentiment": 0.224,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "TechCrunch",
       "avg_sentiment": -0.142,
       "article_count": 4,
@@ -98,25 +113,19 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.528,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.217,
+      "avg_sentiment": -0.425,
       "article_count": 3,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": 0.027,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
       "avg_sentiment": -0.414,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.465,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
@@ -148,6 +157,15 @@
       "sentiment_score": 0.05,
       "sentiment_label": "Neutral",
       "confidence": 0.849
+    },
+    {
+      "headline": "xStocks and Fundrise Partner to Tokenize VCX Fund, Unlocking Onchain Exposure to Leading Private Tech Companies",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/business-wire/xstocks-and-fundrise-partner-to-tokenize-vcx-fund-unlocking-onchain-exposure-to-leading-private-tech-companies-720f1f62d65a4af385e322664c3e745f",
+      "published": "2026-03-28T04:03:15Z",
+      "sentiment_score": 0.815,
+      "sentiment_label": "Positive",
+      "confidence": 0.822
     },
     {
       "headline": "Physical Intelligence is reportedly in talks to raise $1 billion, again | TechCrunch",
@@ -213,15 +231,6 @@
       "confidence": 0.525
     },
     {
-      "headline": "Epstein victims sue Trump administration, Google",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/27/jeffrey-epstein-victims-sue-trump-administration-google.html",
-      "published": "2026-03-27T17:52:19Z",
-      "sentiment_score": -0.837,
-      "sentiment_label": "Negative",
-      "confidence": 0.854
-    },
-    {
       "headline": "PS5 price hiked by \u00a390 due to global 'pressures'",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
@@ -238,15 +247,6 @@
       "sentiment_score": -0.807,
       "sentiment_label": "Negative",
       "confidence": 0.819
-    },
-    {
-      "headline": "Apple Still Plans to Sell iPhones When It Turns 100",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
-      "published": "2026-03-27T15:00:00Z",
-      "sentiment_score": 0.278,
-      "sentiment_label": "Neutral",
-      "confidence": 0.696
     },
     {
       "headline": "Han Kang And Arundhati Roy Among Winners At National Book Critics Circle Awards",
@@ -267,13 +267,13 @@
       "confidence": 0.528
     },
     {
-      "headline": "Number of AI chatbots ignoring human instructions increasing, study says",
+      "headline": "Number of AI chatbots ignoring human instructions increasing, study says | AI (artificial intelligence)",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXI3UGo1cW5fREpzZzB2alZoT0R2dnM4RjRMLWZQbmJuclpPLURBamNUdXhVYUJFM0d2cEpiOG5EN2VjVVhQV2pQUWl3QU5EMGpGLTd1elZ0RzJYOUpSZFFvR3VFcC1jVWZvMmVTMEZWTFRyREVHSFdhVFFtSVYxWE9sek9MTHFRQ3hnTUxpYjBKOThkbVNCcGpGVnRHS1VUQUxvVlFITHVWVG41TmlEdmdsNTgxNURNZUdPRWJBcw?oc=5",
       "published": "2026-03-27T12:11:00",
-      "sentiment_score": -0.907,
+      "sentiment_score": -0.839,
       "sentiment_label": "Negative",
-      "confidence": 0.925
+      "confidence": 0.864
     },
     {
       "headline": "Lloyds bank reveals IT glitch affected almost half a million customers",
@@ -431,11 +431,20 @@
     {
       "headline": "Exclusive | OpenAI to Cut Back on Side Projects in Push to \u2018Nail\u2019 Core Business",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOaGtsZk5KUExKQmFiWVJmVlpXWklkeXRLbWlDVGQyelh5Y3lZbmRRbVBVQ1h4d1JVSFYtR1QyUjJHejR0Tm9kTXB6eFpEd3hfYzg0dXN6ZjVNTXNhN2hKdWhlOENHbVp2Yk9tTUpYZVJUb3VKNUlSNU14VHdPQThFM3UyQWpoOXItcVdoTVdaT0l1SkZybXlmaHJYU3J0djBSNWlUUUdtUHhXME0zRUtCcXlOTi1vZDh1UUgxS2w3Z2w1REZqZFByM3ozR1JlRFdsUjRDVUJrSFo2TXg2bFlnRjAtZDFWakpZbUN6RTNpT1UwQVBFY0MxRjlDZ1NJcjVzcmgxVm8wMW9lTm9vbV9heEFQZnhJeUdneWtEMXJHaU03X3NtZnJTTDdYZl9iNmxrenRHMjlFZzRkM2VKNnhyd0YxMG9hSUNYeU5GS2lHZkQ2WVZuazhlU0FkeTRsU3Mtb3lPUWlTQkJaTDJtUzVqT1FvaThGbVZx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOVm5BRXh4RUxGdVh5SzhZQzRMWXpPVFN0NWR2MDFkVF9LX1I3c1ZCLWhFOVRSbUhITkJrbVlqUnM5ZGJHb3lBUzRRLWFLMjg2NnpTY0t5YzBjM0J4YXZYYmMxZGh3cm5MQjFWdTlmQmdoeW5ubnNERDhmd3NoYjBHZ1RwTHk4SEpEc2p3TjRFdHFIaXdmTENkdXBQWkRUWkp1SjBSZUcwWXd5ZG5UUDZ5ZXVEcjRGaEFBVldqZE1lSnJtSG1VeDc5cHgyNVY4dU93ZkVBSk5tXzh2VlIyeURaSGgyWlhzLXhyREllelFNVTBHMDc3VlF6Y2hMdDVQMG1lblNyNzBUVFN4X0R2T3hmaWQ2Wl93WGlBZVF6MUpRSmVLX2l3bHFuUTBjRE1fV1ZXU0F3T284LTd1X0RHd3JTZklqYXFaVURmOUFZaWJPeDVwdmNXM2VEb0pfTDhsaGhYM2c4ck5KY3hHZ1J2WG9KTXFwSlI5ajhi?oc=5",
       "published": "2026-03-16T07:00:00",
       "sentiment_score": -0.093,
       "sentiment_label": "Neutral",
       "confidence": 0.692
+    },
+    {
+      "headline": "ChatGPT-maker OpenAI considered alerting Canadian police about school shooting suspect months ago",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakU2Y1YzUEpxckp2Y3pvVzA2aGQtSUowT2EyS1NsZ25IbUpGSGt1OFN0MFk1NG0zMm9OTjJ2NU9RV19HaTJyUi1UakxwQW1WMWN4UE1EUHRXWTdlcmdCYVZLUTVqT196djB6ZWwyTGJ1MDdhaXdlenk5WUNwaGJGMmRnOE5DSXNfZXB4SGg1REhhYkFRR0dBN3lERGZxbzROSXptVThZN1E?oc=5",
+      "published": "2026-02-20T08:00:00",
+      "sentiment_score": -0.562,
+      "sentiment_label": "Negative",
+      "confidence": 0.583
     },
     {
       "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
