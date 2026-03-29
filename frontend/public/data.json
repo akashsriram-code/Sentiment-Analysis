@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-29T06:55:04.282529",
-  "total_articles": 36,
-  "overall_sentiment": -0.272,
+  "last_updated": "2026-03-29T12:34:53.871908",
+  "total_articles": 37,
+  "overall_sentiment": -0.249,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,12 +42,12 @@
     },
     {
       "date": "2026-03-24",
-      "avg_sentiment": -0.216,
+      "avg_sentiment": -0.344,
       "article_count": 2,
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.346
+      "moving_avg": -0.371
     },
     {
       "date": "2026-03-25",
@@ -56,34 +56,43 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.373
+      "moving_avg": -0.395
     },
     {
       "date": "2026-03-26",
-      "avg_sentiment": -0.205,
-      "article_count": 8,
+      "avg_sentiment": -0.187,
+      "article_count": 9,
       "positive_count": 3,
-      "negative_count": 4,
+      "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.349
+      "moving_avg": -0.365
     },
     {
       "date": "2026-03-27",
-      "avg_sentiment": -0.364,
-      "article_count": 15,
+      "avg_sentiment": -0.282,
+      "article_count": 14,
       "positive_count": 4,
-      "negative_count": 10,
+      "negative_count": 9,
       "neutral_count": 1,
-      "moving_avg": -0.276
+      "moving_avg": -0.28
     },
     {
       "date": "2026-03-28",
-      "avg_sentiment": 0.058,
+      "avg_sentiment": 0.05,
       "article_count": 5,
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.187
+      "moving_avg": -0.192
+    },
+    {
+      "date": "2026-03-29",
+      "avg_sentiment": -0.602,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.265
     }
   ],
   "source_stats": [
@@ -95,9 +104,15 @@
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.337,
-      "article_count": 4,
+      "avg_sentiment": -0.297,
+      "article_count": 5,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.171,
+      "article_count": 4,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Associated Press",
@@ -106,21 +121,9 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.142,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "CNBC",
-      "avg_sentiment": -0.425,
+      "avg_sentiment": -0.505,
       "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.414,
-      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -128,9 +131,24 @@
       "avg_sentiment": -0.465,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.73,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "\u2018Soon publishers won\u2019t stand a chance\u2019: literary world in struggle to detect AI-written books",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTk1EdnBPMTExVjVwSzhNdWJpZ1loSjQwYmVEVzhuVE1fTDA5amV3VXplaTdUOG01M00tR1dfNzhqZUFweEYyblZiV2RyX29fSEdnaUY3WDU5bTRqT0ZRVjFtUkRDMkNwTjhGTFkzdVFVQUI3aTFEZUpDREthVWFUWW1seXJ4WENBNEt0cmJqRXZUMlJSS0ljbw?oc=5",
+      "published": "2026-03-29T09:47:00",
+      "sentiment_score": -0.602,
+      "sentiment_label": "Negative",
+      "confidence": 0.632
+    },
     {
       "headline": "Why can\u2019t TikTok identify AI generated ads when I can?",
       "source": "The Verge",
@@ -150,13 +168,13 @@
       "confidence": 0.655
     },
     {
-      "headline": "Smaller Is Better in Silicon Valley\u2019s \u2018Tiny Team\u2019 Moment",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1dZeUQ0bVlSNlhqTnhxQ3FvTDd3NlYxcFFsZkhOU3ZrdWNFQlp5cnNaNkhxWThENGs1Q3JxSDlZU2tEM0JVZVRxUC1NbHo2S184SXc2WXNBSDZKRnAtOU9RSGdDRGFiUnZsYTdMckppZkhxeGdERHJHLVV4bHVJYXdoYjRCbE1mMGFN?oc=5",
-      "published": "2026-03-28T12:53:20",
-      "sentiment_score": 0.05,
+      "headline": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
+      "published": "2026-03-28T12:03:42Z",
+      "sentiment_score": 0.009,
       "sentiment_label": "Neutral",
-      "confidence": 0.849
+      "confidence": 0.908
     },
     {
       "headline": "xStocks and Fundrise Partner to Tokenize VCX Fund, Unlocking Onchain Exposure to Leading Private Tech Companies",
@@ -213,6 +231,15 @@
       "confidence": 0.974
     },
     {
+      "headline": "Apple\u2019s long, bitter App Store antitrust war",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+      "published": "2026-03-27T19:55:45Z",
+      "sentiment_score": -0.139,
+      "sentiment_label": "Neutral",
+      "confidence": 0.781
+    },
+    {
       "headline": "What Does AI In Estimating Mean: An Article",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/access-newswire/what-does-ai-in-estimating-mean-an-article-dd54283c332cb6d616d8831a00560ffe",
@@ -240,15 +267,6 @@
       "confidence": 0.923
     },
     {
-      "headline": "OpenAI shuts down Sora while Meta gets shut out in court | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-      "published": "2026-03-27T15:53:35Z",
-      "sentiment_score": -0.807,
-      "sentiment_label": "Negative",
-      "confidence": 0.819
-    },
-    {
       "headline": "Han Kang And Arundhati Roy Among Winners At National Book Critics Circle Awards",
       "source": "Associated Press",
       "link": "https://apnews.com/article/book-critics-award-han-kang-3323cae464ea92b642bf8936b636f86e",
@@ -265,15 +283,6 @@
       "sentiment_score": -0.291,
       "sentiment_label": "Neutral",
       "confidence": 0.528
-    },
-    {
-      "headline": "Number of AI chatbots ignoring human instructions increasing, study says | AI (artificial intelligence)",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXI3UGo1cW5fREpzZzB2alZoT0R2dnM4RjRMLWZQbmJuclpPLURBamNUdXhVYUJFM0d2cEpiOG5EN2VjVVhQV2pQUWl3QU5EMGpGLTd1elZ0RzJYOUpSZFFvR3VFcC1jVWZvMmVTMEZWTFRyREVHSFdhVFFtSVYxWE9sek9MTHFRQ3hnTUxpYjBKOThkbVNCcGpGVnRHS1VUQUxvVlFITHVWVG41TmlEdmdsNTgxNURNZUdPRWJBcw?oc=5",
-      "published": "2026-03-27T12:11:00",
-      "sentiment_score": -0.839,
-      "sentiment_label": "Negative",
-      "confidence": 0.864
     },
     {
       "headline": "Lloyds bank reveals IT glitch affected almost half a million customers",
@@ -312,6 +321,15 @@
       "confidence": 0.905
     },
     {
+      "headline": "Judge Stays Pentagon\u2019s Labeling of Anthropic as \u2018Supply Chain Risk\u2019",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWlpWTkwYzUwXy1VWWVUb3B3Y0txLVV6Z2F2Z3FRU21CZ3ByYms5X1NfTUVscjI1S2RwcVhLajk4WmotMVFDbnpqdndkQXItZ0xBMURpejBJWTZiaWdlZTFZZ2xrRGVSVGltMmtQUlJjUTRmNzhOWW95NGtfSGN3WmdXSlBnYkxjMkNsWDhR?oc=5",
+      "published": "2026-03-26T23:47:52",
+      "sentiment_score": -0.582,
+      "sentiment_label": "Negative",
+      "confidence": 0.644
+    },
+    {
       "headline": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1lDZjdiQ0xHR2Z2cWdZdzJNQWlCc1ptWE1kckJaZHNXcjN6TzBTWV82RjZjZy1HTVZ6NjNIRmhzN1pTNTd5VWxQQWhGWVNRVzVJZU9RR050WldhMTE1TDF4NVlNSEdGbHNuczc0Z2oxdWxVdklnMjJMamlVb2xBR2FISnRsZjJocWpPWm5HOVNoU01wOGRGSlNORXJranZmSlF0aWhxYkRWYkVzRVhRYWRxQ3gySnNjUzZ5My1EZ1BWeVBRTXc?oc=5",
@@ -328,6 +346,15 @@
       "sentiment_score": 0.234,
       "sentiment_label": "Neutral",
       "confidence": 0.732
+    },
+    {
+      "headline": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHFhcU5yc1BEMDRUWTNHR1I1eXZOLWpWX0hiMUMyRFNQaHl1dUJWTUN2VE5xS3V5QVRsQXpJb0JxMXpiN0hMYlZZTGQxRjlLbThFNHQtck5oaFVGYldnMDdGMHF5TUhMazRONDRRT0hza19MM0pmb21Fd1hSdVRPV1JxTDdXWXRncG5yMHV1VURibXNKd2R0Zkx3?oc=5",
+      "published": "2026-03-26T18:34:02",
+      "sentiment_score": -0.093,
+      "sentiment_label": "Neutral",
+      "confidence": 0.806
     },
     {
       "headline": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
@@ -348,15 +375,6 @@
       "confidence": 0.891
     },
     {
-      "headline": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDNyaU1jYUtNXzh1bzAxa2NXaUpyZmVOZ0NZcFE0ZUplRzc5VGF1Q0JEOXRmQmJMUGlXYUxUczY0bzg3MUhlSlp4dWs5ZC1ra3lRNGEtMEh0TFRCVDBQYXJ3YXVlalFTOW1McDQ2eEJOTlUwRFh1bEZSczhQcnFYUjVWbnRaQkhTYkVDSC1iUWdLT2IwcG5iV2tKcVZTNm9sdUlqRjYwTDVzUFZoay1QcVBUNk1oNnfSAbwBQVVfeXFMUDdQclQ1eXhQLU9VN0FWQUd4aXRELTRqU1FKRDY1Y0c3RWJJaXFnazdhZDZBRnNucnM4S0w3TE1yeXMtUXZzWXA3UkFfVnpFZWpmeUpEby1LX3h3X2pyTFFjNzRGT0lrX19vYTNxWXZxQ1AzeFhvUVotYllHNDlfbEJyZU9wNnowWllQX0NPSXZPVmhuUXpka0ZrZ21FMGV2VzEwZEpTODJHbUU2ajBmd3R6M1pPVjBQRWtOcHI?oc=5",
-      "published": "2026-03-26T14:53:07",
-      "sentiment_score": -0.545,
-      "sentiment_label": "Negative",
-      "confidence": 0.563
-    },
-    {
       "headline": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2twZFQ0bXV1RGdsSjBUVGJOT0JzX0ZESHdIdUQwMWswS20za2JSUWZqUmVvNURocmt3aExxZ0UtUktBNUJkOFNUMm9RMU1DUVl4TTNLMEZjWmtqbFdRZVpqR1Z6dUotQm1GOXM0SEx6VS1oLXl2dUdnQmtDZzRtZ0dWMmdpMWVTMDVMQ2VMS3dmN01rVldGTlF6dGpWRGgyTFIwQ3FSczlMSnlKXzRENlJn?oc=5",
@@ -370,9 +388,9 @@
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEpGT21kV0dBUnk0NE0zOERNM1VLQUJOZGJuMDEtVmNXMFJLV1NpVGJ4UUZwR25MWjJLejBBMFJyb0l1bXEtdjRHZjVXcEZpdXFNYXhQMDBwTjRTa3BxR3JBV0RLNWluWDFDSnRSRmZiWU1od0NnajNGdnlEQm9lMk40aUU?oc=5",
       "published": "2026-03-26T10:00:01",
-      "sentiment_score": -0.634,
+      "sentiment_score": -0.545,
       "sentiment_label": "Negative",
-      "confidence": 0.649
+      "confidence": 0.559
     },
     {
       "headline": "Parents should monitor children '24/7' on Roblox, says developer",
@@ -411,13 +429,13 @@
       "confidence": 0.88
     },
     {
-      "headline": "OpenAI\u2019s plans to make ChatGPT more like Amazon aren\u2019t going so well",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVZYeElxTWNHZldRZHpsMVpEUW1zTzd6aDlZMjBuWnZtZjczQnliNHZ6R2dmdjRmbWRvclFCNFpmM0RQUFBtVTNEcGxpQTN4YnNMQkI2VUZDc214VnVVXzdXT2VqMEMtNHhmVzZONm0tUjY2YS1zUV9JZEZTa0xqZ1BULXFrYTZ6TWlyeEtNc0tzWkJfcEs1ZDU3Slh6WnNid25V?oc=5",
-      "published": "2026-03-24T19:27:56",
-      "sentiment_score": -0.53,
+      "headline": "OpenAI revamps shopping experience in ChatGPT after struggling with Instant Checkout offering",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRC1ieG41ZEx5Mnh5dFN0QkFUVG54R2JmdnV6TWk1UWtXamw0TTA1d0hfZTR1ZjhGNGtfQV96REQtOGFYNGxmb3E0QTVqUFRxOWxzNHFvRkozOU5sc0RqSHVWQ1hRcnA0enVzeWFJSmJMcUZab2ZzaUZTQWdFcThTNEZ2N0hDR2k2Z2VKZWVkZG1nejFyTXhpODhsRDJabEhINmhrMndGYmrSAa4BQVVfeXFMTlM0a3RLa21CU19pdFQ2aEs2SVo5Z2dSSkRwcXhoRUFnbGh5TDZ5OGhYbW5KWmktbHdHMDNiaTlLM2hKRkFGeGxuOWlHT1RYSXZoTGVPd1lFSV9aR2dYc3hyOVh0VjlGOVdBcVdHVGQyQy1lZ1ZsSDI3Y1QwN1JFNEt6emlMMjFvWlozUHgzeHRWeHlra01SVEtxay1XNEg4QkNFSlJFa09CX3VveFB3?oc=5",
+      "published": "2026-03-24T17:32:19",
+      "sentiment_score": -0.785,
       "sentiment_label": "Negative",
-      "confidence": 0.554
+      "confidence": 0.855
     },
     {
       "headline": "Tech Now",
@@ -431,7 +449,7 @@
     {
       "headline": "Exclusive | OpenAI to Cut Back on Side Projects in Push to \u2018Nail\u2019 Core Business",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOVm5BRXh4RUxGdVh5SzhZQzRMWXpPVFN0NWR2MDFkVF9LX1I3c1ZCLWhFOVRSbUhITkJrbVlqUnM5ZGJHb3lBUzRRLWFLMjg2NnpTY0t5YzBjM0J4YXZYYmMxZGh3cm5MQjFWdTlmQmdoeW5ubnNERDhmd3NoYjBHZ1RwTHk4SEpEc2p3TjRFdHFIaXdmTENkdXBQWkRUWkp1SjBSZUcwWXd5ZG5UUDZ5ZXVEcjRGaEFBVldqZE1lSnJtSG1VeDc5cHgyNVY4dU93ZkVBSk5tXzh2VlIyeURaSGgyWlhzLXhyREllelFNVTBHMDc3VlF6Y2hMdDVQMG1lblNyNzBUVFN4X0R2T3hmaWQ2Wl93WGlBZVF6MUpRSmVLX2l3bHFuUTBjRE1fV1ZXU0F3T284LTd1X0RHd3JTZklqYXFaVURmOUFZaWJPeDVwdmNXM2VEb0pfTDhsaGhYM2c4ck5KY3hHZ1J2WG9KTXFwSlI5ajhi?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNblh6QlNjUnF4Yy1aNUlGWmVDbmxudW1fTlpqekZVeWgzYTRoV2hpcVZpSDZQRmdIWTZzV1B3LVVGNmhCZVZzbGpQZTc1UEI1V0VfdWxLRFctZF9KVngtYnZ1QV9xRmR4QTcxS1RiX1FMZzMzUzgxQ080NUtLRldJdXNLTVpSVkNtaE42ZnlVOE5ZRVZpWTdWMHEzZENJaUh3cnhOc2l3V3ZwUFlNMEd6TkVZNmNmVEJuSW10NUxWRmpIX0hrUEpKd2hUd01SR0xQTHJfUlp4NDN6WUNqQ19Lam9YOGNpSDBpWmpKT1ZnNG04YXdwVUlxUzZJSllLNG9FekxtUGJVb2Ywa1dTUTliaEZRSWtTaDNOd25iR01mNVVKaVlhZ1dWd2pHeXJlZ3pwcEdaY1psdlBQWGJSSnM0VXBtUXU5cVlvRENQNEYxb1NTdWVQaHBwemFkVThmbWNNSlg3WnZkbGF3UmlMZzNELTFoLVEzV3Yz?oc=5",
       "published": "2026-03-16T07:00:00",
       "sentiment_score": -0.093,
       "sentiment_label": "Neutral",
