@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-03-31T07:03:54.744396",
-  "total_articles": 30,
-  "overall_sentiment": -0.212,
+  "last_updated": "2026-03-31T12:55:55.465568",
+  "total_articles": 28,
+  "overall_sentiment": -0.215,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.878
+    },
     {
       "date": "2026-03-21",
       "avg_sentiment": 0.021,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.021
+      "moving_avg": -0.428
     },
     {
       "date": "2026-03-24",
@@ -20,16 +29,16 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.06
+      "moving_avg": -0.253
     },
     {
       "date": "2026-03-26",
-      "avg_sentiment": -0.072,
-      "article_count": 5,
+      "avg_sentiment": -0.08,
+      "article_count": 4,
       "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": 0.016
+      "neutral_count": 1,
+      "moving_avg": -0.21
     },
     {
       "date": "2026-03-27",
@@ -38,34 +47,25 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.077
-    },
-    {
-      "date": "2026-03-28",
-      "avg_sentiment": -0.097,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.081
+      "moving_avg": -0.239
     },
     {
       "date": "2026-03-29",
-      "avg_sentiment": -0.189,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 3,
+      "avg_sentiment": -0.179,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.099
+      "moving_avg": -0.229
     },
     {
       "date": "2026-03-30",
-      "avg_sentiment": -0.338,
-      "article_count": 9,
-      "positive_count": 1,
+      "avg_sentiment": -0.224,
+      "article_count": 11,
+      "positive_count": 3,
       "negative_count": 6,
       "neutral_count": 2,
-      "moving_avg": -0.133
+      "moving_avg": -0.228
     },
     {
       "date": "2026-03-31",
@@ -74,7 +74,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.133
+      "moving_avg": -0.1
     }
   ],
   "source_stats": [
@@ -86,33 +86,27 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.391,
-      "article_count": 5,
+      "avg_sentiment": -0.347,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.019,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.305,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.333,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
       "avg_sentiment": 0.136,
       "article_count": 2,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": -0.216,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.067,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
@@ -120,7 +114,7 @@
       "headline": "When Will Japan\u2019s Cherry Blossoms Bloom? A.I. Can Help Answer That",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWhJTkxqWEJDaGJRVVRQOHlRaTVlMlZfZ01xdk9MV3ljUmdYOC1NR1BKNktqbkdGeTNrSHBiTmxRc1lnWkxnS2QzS1duV0tPdllfQWtsSFBFWGthQ3dNdkdPWGdtSXB2cURhRlg2YTM5blI5bk1hWkI3elZjR0hFbA?oc=5",
-      "published": "2026-03-31T04:01:06",
+      "published": "2026-03-31T07:07:12",
       "sentiment_score": 0.02,
       "sentiment_label": "Neutral",
       "confidence": 0.931
@@ -153,22 +147,40 @@
       "confidence": 0.884
     },
     {
-      "headline": "Israel targets Iran\u2019s leaders with lethal expertise using new AI platform",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCQ3VVN1daX0g1NlZoVXFwRUNCUFVhT3BRb2VXUmJibXlNZjBNUkc5a3lNQ09sSVIzZnhpT3pqV0dLQWVFTmpGaXM4c1p1S1pRcnQ4Y1dncldXTzNpeGdPa3ktZGkyQ1RIRU85NjFzNzMzdnNGVmhYNV9SRE9OUQ?oc=5",
-      "published": "2026-03-30T16:01:07",
-      "sentiment_score": 0.025,
+      "headline": "Qodo raises $70M for code verification as AI coding scales | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "published": "2026-03-30T12:33:32Z",
+      "sentiment_score": 0.377,
       "sentiment_label": "Neutral",
-      "confidence": 0.893
+      "confidence": 0.598
+    },
+    {
+      "headline": "Oil's record month, TSA pay, the Pok\u00e9mon card resale market and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/30/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-03-30T12:20:28Z",
+      "sentiment_score": -0.022,
+      "sentiment_label": "Neutral",
+      "confidence": 0.916
     },
     {
       "headline": "OpenAI\u2019s ChatGPT App Store Took Aim at Apple, But Results Lag So Far",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXVKTzZBTllJSFk4VHcwVlo1bTFkU1V0Tjk2S3ZLMWhyUlJDQmFXdlJCaEpjbWNqYjROMVg3SXRHb0ZkbnVxaTdaNWFmeHRkUzYzaW9zTVFXVXJEeTZ2WXNXYjBTbDJtdzdIV3RrLVVmSUJoQnMxZUVEcVV3OU8ySUMyTmY4QUx6YzBUNld1dXV1RkFKVmU3T20tcFVrRGViNzVEX1Y4ZTYyTE1leHZZZzF2SDgwcXpHcXc?oc=5",
       "published": "2026-03-30T11:10:04",
       "sentiment_score": -0.257,
       "sentiment_label": "Neutral",
       "confidence": 0.543
+    },
+    {
+      "headline": "Mistral secures $830 million in debt financing to fund AI data center",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+      "published": "2026-03-30T07:08:15Z",
+      "sentiment_score": 0.247,
+      "sentiment_label": "Neutral",
+      "confidence": 0.739
     },
     {
       "headline": "New study says AI is giving bad advice to flatter its users | AP News",
@@ -189,6 +201,15 @@
       "confidence": 0.923
     },
     {
+      "headline": "Exclusive | The Sudden Fall of OpenAI\u2019s Most Hyped Product Since ChatGPT",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOQnJNTEFpYjBvNXhLbHM2MEVCTDVXT1VOTlVmZDNxUlVaMzBLejM4SkdXSHZFNXFXeVdwd0RqUzNPS3EwU0RrOVZHM0ZIUG5Oa1NyYnZ3blpQYXZZYVhyQXR6Y0RWdGs3YzFxVGtMcEpRdTNBYkIyaWdoVzEwM1RHU2ZyenhtUTV0U0cyYU85TXBsWC1iaVhHb0M4dGJFUkRGOGdnNGk1TWVEQmpab0NXOXY4b1RrdU51bXpGMWs3WUNNQUZuZ2ZvUlg1MHdDdnVXa2c3R01GWnhJM1EzcjdOd01PM0RhSmhqYlEyQ2hRSF80TTkyY3RodmFSdkdfOF9wR28zNjV4cEVjVUlIbTJ3elFqbmtUYV8yN3daOW5NejRHb21RcnV4YVN4VjF0Z1JkS2c5QzFqbXVWT2prMGg4cm5odGpvS20wU1VVQzdTeEFvWHRlTzVYbkZXX3pJeEFHRk9vTW0tb3J0d0k5YTloYm1kMzBZTHdhRjN4cWRjNS1zeG1ZcHdxZFRQU2F1c2ZUVW9DZS1XX1JqMTQxWlVPbnJR?oc=5",
+      "published": "2026-03-30T02:16:00",
+      "sentiment_score": -0.919,
+      "sentiment_label": "Negative",
+      "confidence": 0.934
+    },
+    {
       "headline": "All the latest in AI \u2018music\u2019",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
@@ -196,15 +217,6 @@
       "sentiment_score": 0.02,
       "sentiment_label": "Neutral",
       "confidence": 0.903
-    },
-    {
-      "headline": "Exclusive | The Sudden Fall of OpenAI\u2019s Most Hyped Product Since ChatGPT",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOVmFKZmJRSW9EaDdETWdkYVRTa2w4SkVOYXpzX2ZQY3FXQXVJdFExM1RxQ2xnb0YycHJncl81N0JOdzR4TEVobFJHSUI3VUxKSHRWUnhPdG9uaGsyYzdDSHRsNzVocVRUUkN4TkhrVnViLWN0TlZMOHE0X2ZsUjl1RWk5QkpBVXBoM2FtVWY0U0liTktyM2lzZTRMWUF1T2Z0V3NrdFdRYW5hNm5NZUUyeTdHSGk5dnV6am1FSmFOWVY0WFRkY0FOdEVqbXR0ei1hUE1JZkJaTkVHVE1KOXJmWm9jZjlPYktEUE5MenlMTF8wMjFmUjgtdUIxbUdBVzMzampMdUpGRVVUVVNpMXpUa0MyT1l4R0VoOGFxOGtOMnhyTmFONC1hMUdsajU3ZVJCWGlDWmlvT3VKOEJLLV9sWDdVZ2R2M0JYTUx1VHhROU1qU0x0dDIyc3ZRRi1KQzdGQXVxNXF3Sl9YOWdqbFRuWUNpbVdIVDdnaHl5VGxwZzhlc0d4Y2xjUS1RaW1ZT0gweElrQkMxQnE4TFlJMzVjcU5B?oc=5",
-      "published": "2026-03-30T01:02:23",
-      "sentiment_score": -0.919,
-      "sentiment_label": "Negative",
-      "confidence": 0.934
     },
     {
       "headline": "Why Chinese tech companies are racing to set up in Hong Kong",
@@ -225,15 +237,6 @@
       "confidence": 0.944
     },
     {
-      "headline": "Medical AI Named First-Ever Recipient of ACC Global Digital Health Award at American College of Cardiology Annual Scientific Session",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/globenewswire-mobile/medical-ai-named-first-ever-recipient-of-acc-global-digital-health-award-at-american-college-of-cardiology-annual-scientific-session-1ab58c80c0d99fed30bd1278f1c439f2",
-      "published": "2026-03-29T21:16:39Z",
-      "sentiment_score": 0.487,
-      "sentiment_label": "Positive",
-      "confidence": 0.499
-    },
-    {
       "headline": "Sora\u2019s shutdown could be a reality check moment for AI video | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
@@ -250,33 +253,6 @@
       "sentiment_score": 0.773,
       "sentiment_label": "Positive",
       "confidence": 0.785
-    },
-    {
-      "headline": "Meta's court losses spell potential trouble for AI research, consumer safety",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
-      "published": "2026-03-29T12:00:01Z",
-      "sentiment_score": -0.906,
-      "sentiment_label": "Negative",
-      "confidence": 0.921
-    },
-    {
-      "headline": "Stanford study outlines dangers of asking AI chatbots for personal advice | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "published": "2026-03-28T20:49:10Z",
-      "sentiment_score": -0.203,
-      "sentiment_label": "Neutral",
-      "confidence": 0.684
-    },
-    {
-      "headline": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
-      "published": "2026-03-28T12:03:42Z",
-      "sentiment_score": 0.009,
-      "sentiment_label": "Neutral",
-      "confidence": 0.908
     },
     {
       "headline": "PS5 price hiked by \u00a390 due to global 'pressures'",
@@ -298,7 +274,7 @@
     },
     {
       "headline": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-      "source": "WIRED",
+      "source": "wired.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVExqU0pDZTdJVmkta0p4bF9uVTc0WTFheVRnTUFmZzRyWTBKQ240NWQ0aE5vYnJSaHhHVjdramRweGExYTd2Z1hYdjA3cVYtRzliUTRKaXI5TnRPR3F4aGVTQXVHZUh0NDYyUjdLMUUtNTZqaUNVeXd3WjVONkkxMnlkZGhxYU9XYXFyaHVkVUR2QllFV0Fj?oc=5",
       "published": "2026-03-27T10:30:00",
       "sentiment_score": -0.02,
@@ -351,15 +327,6 @@
       "confidence": 0.896
     },
     {
-      "headline": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDYzSnhqTFhROERna1g1X2FUdW1MMThlU0pvNmpNYXl0dVJTSWREVmlrTDlSYlFkcnBNUVVsYjJkX3ZhT2ViUFZJb2lZTy15Wlo4MVlaNVdpNjBmR01PSW4zNVFVUVBPRVkxcWhzNTcyb1NGYzVER1E5OC1TUlpNT1RyZ21nUWFuRDVqUHRCQVRwV0ZEQUdfOVNCNmdqbHpsVWpTUnVLTjdEMWh0QU5zY1dENFdvdWdHSUZRQnpyLWJqbVI1R2c?oc=5",
-      "published": "2026-03-26T16:21:10",
-      "sentiment_score": -0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.891
-    },
-    {
       "headline": "Parents should monitor children '24/7' on Roblox, says developer",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss",
@@ -385,6 +352,15 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.93
+    },
+    {
+      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
+      "published": "2026-02-11T08:00:00",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     }
   ]
 }
