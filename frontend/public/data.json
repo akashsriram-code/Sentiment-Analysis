@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-31T12:55:55.465568",
-  "total_articles": 28,
-  "overall_sentiment": -0.215,
+  "last_updated": "2026-03-31T18:49:12.052854",
+  "total_articles": 31,
+  "overall_sentiment": -0.315,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,13 +14,22 @@
       "moving_avg": -0.878
     },
     {
+      "date": "2026-03-19",
+      "avg_sentiment": 0.08,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.399
+    },
+    {
       "date": "2026-03-21",
       "avg_sentiment": 0.021,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.428
+      "moving_avg": -0.259
     },
     {
       "date": "2026-03-24",
@@ -29,16 +38,16 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.253
+      "moving_avg": -0.17
     },
     {
       "date": "2026-03-26",
-      "avg_sentiment": -0.08,
-      "article_count": 4,
+      "avg_sentiment": -0.091,
+      "article_count": 3,
       "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.21
+      "neutral_count": 0,
+      "moving_avg": -0.154
     },
     {
       "date": "2026-03-27",
@@ -47,34 +56,34 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.239
+      "moving_avg": -0.188
     },
     {
       "date": "2026-03-29",
-      "avg_sentiment": -0.179,
-      "article_count": 4,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": -0.345,
+      "article_count": 2,
+      "positive_count": 1,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.229
+      "moving_avg": -0.21
     },
     {
       "date": "2026-03-30",
-      "avg_sentiment": -0.224,
-      "article_count": 11,
+      "avg_sentiment": -0.176,
+      "article_count": 12,
       "positive_count": 3,
       "negative_count": 6,
-      "neutral_count": 2,
-      "moving_avg": -0.228
+      "neutral_count": 3,
+      "moving_avg": -0.11
     },
     {
       "date": "2026-03-31",
-      "avg_sentiment": 0.02,
-      "article_count": 1,
+      "avg_sentiment": -0.849,
+      "article_count": 5,
       "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.1
+      "negative_count": 5,
+      "neutral_count": 0,
+      "moving_avg": -0.243
     }
   ],
   "source_stats": [
@@ -85,39 +94,87 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.347,
+      "source": "CNBC",
+      "avg_sentiment": -0.464,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.305,
+      "source": "The Verge",
+      "avg_sentiment": -0.251,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.333,
+      "source": "Reuters",
+      "avg_sentiment": -0.225,
       "article_count": 3,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.136,
+      "source": "WIRED",
+      "avg_sentiment": -0.357,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.468,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": -0.154,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "When Will Japan\u2019s Cherry Blossoms Bloom? A.I. Can Help Answer That",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWhJTkxqWEJDaGJRVVRQOHlRaTVlMlZfZ01xdk9MV3ljUmdYOC1NR1BKNktqbkdGeTNrSHBiTmxRc1lnWkxnS2QzS1duV0tPdllfQWtsSFBFWGthQ3dNdkdPWGdtSXB2cURhRlg2YTM5blI5bk1hWkI3elZjR0hFbA?oc=5",
-      "published": "2026-03-31T07:07:12",
-      "sentiment_score": 0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.931
+      "headline": "Penguin to sue OpenAI over ChatGPT version of German children\u2019s book",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5",
+      "published": "2026-03-31T16:55:00",
+      "sentiment_score": -0.837,
+      "sentiment_label": "Negative",
+      "confidence": 0.851
+    },
+    {
+      "headline": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWDd1VXBvQWcwcDFmbHZlRUk0aEoxcmJ5SGJKQW8yMEczRjJIVERubFRqc2tDUGRHSkcwd3Rkakc0YjJPQ2U1VExuZGZuTF9DQmNSMEZxdk5XVUFnRWNRQTlnUTZSdlNLQWpZdWZpSE_SAXZBVV95cUxQQ1F1bUtBSmctcDNFRVhCNFJSX0xQcnRGMHpMNF9mRkdLZEN0cXQtU0pveV9Gbl9Bc0R0akRoRkFJcHFnV0Flc0UwQ1RmUUdpeHNraHJyN1FLTkNqbTFRQzBmVU14UXVZYTdnWk5ZeHh1amI5Q05R?oc=5",
+      "published": "2026-03-31T15:34:18",
+      "sentiment_score": -0.957,
+      "sentiment_label": "Negative",
+      "confidence": 0.966
+    },
+    {
+      "headline": "Art schools are being torn apart by AI",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3E5LXR2S183dzAwNUdJU01BV2tZWHdIVHJxemsxcWs4V19YYnN3QXFTaE5kRHpDbl9tOXJCVTg5dGc3MWZoUTJQbUxhRFNvdUVvQzlwRHk4TjRiN3JhWWVOM0FWTTRRNjZqRzdVek0zdThIbzlvbjZTYXVNbld4aEdoZnJUeURlOTRPRnplYw?oc=5",
+      "published": "2026-03-31T15:00:00",
+      "sentiment_score": -0.806,
+      "sentiment_label": "Negative",
+      "confidence": 0.819
+    },
+    {
+      "headline": "AI-led selloff in contract research firms may be misjudging disruption risk",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUF3MzNST19GekFreVVIS0F6VndPNVVvTFhVV1dMX21NYkF5aG9iTGVyem1FZTh5enNpaUN4dXd3bmdvbWpQU0U2cHZEQWxGVE1sbzRtcWF4Slp0M0xXX1p1REgyVkxZT29nZGVUeDdRYU1BRVZqUkMwOG56SVRZNUNoTW01VnRrUmc5bzNjLXZVQV81RVRxVUtybXNoeUlNMmg5REphTlpYUFRObnh4UDd1WXpSOU1menJGYWlldzdBcWpENXozMjNrRjZ0ZTh2NU4zd3hvckk0Nm5G?oc=5",
+      "published": "2026-03-31T14:24:56",
+      "sentiment_score": -0.948,
+      "sentiment_label": "Negative",
+      "confidence": 0.957
+    },
+    {
+      "headline": "AI Has Flooded All the Weather Apps",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqMjJJMW5Ea29BSXNRaTZDNHMxZTNIN0NTNGE5UWt1cDBNdjVFV0IwOHJ6U0VBamMyaEdSM09lWC02Z1VZTzlKUGRxMVBwY3JDTkdDenZNTjZxNml5YWF1bmZhdURfaFVYclpLc0FWVjZvdw?oc=5",
+      "published": "2026-03-31T13:00:00",
+      "sentiment_score": -0.695,
+      "sentiment_label": "Negative",
+      "confidence": 0.71
     },
     {
       "headline": "What to Know About California\u2019s Executive Order on A.I.",
@@ -138,6 +195,15 @@
       "confidence": 0.885
     },
     {
+      "headline": "Palo Alto shares pop as CEO Nikesh Arora buys stock for first time in years",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/03/30/palo-alto-stock-nikesh-arora-buys-shares.html",
+      "published": "2026-03-30T18:23:10Z",
+      "sentiment_score": -0.958,
+      "sentiment_label": "Negative",
+      "confidence": 0.97
+    },
+    {
       "headline": "UK Watchdog Issues First Guidance on Generative AI in Audit",
       "source": "news.bloombergtax.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWg4RGE2dDRHc2NPWTFoS2FELVZvdWFVNmF2VDFxWVl3XzRMZ3RTZUVRYTdhNDJ0RXllVkpjNUxmem1mVDZDczBVYl9yUEJ4c2txWmZoWFg0elhOd1VRT2lsU2pNMDlVaHZZRXZMMWhjdDFSWTlhbm5pRGFvR3VxYU81QTg0dDBWdTV3cmtzS0VUUnZ4UzBlVkFmT3FpU3RQZVRsM21EQ1cyTHpKYzBz?oc=5",
@@ -145,6 +211,24 @@
       "sentiment_score": 0.052,
       "sentiment_label": "Neutral",
       "confidence": 0.884
+    },
+    {
+      "headline": "CorVista Health Demonstrates High-Sensitivity for Noninvasive Detection of CAD including INOCA (Ischemia with No Obstructed Coronary Arteries) at ACC.26",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/business-wire/corvista-health-demonstrates-high-sensitivity-for-noninvasive-detection-of-cad-including-inoca-ischemia-with-no-obstructed-coronary-arteries-at-acc-26-f3eda1baa1464a419c07eef9d67f4f66",
+      "published": "2026-03-30T15:13:17Z",
+      "sentiment_score": 0.612,
+      "sentiment_label": "Positive",
+      "confidence": 0.621
+    },
+    {
+      "headline": "Okta\u2019s CEO is betting big on AI agent identity",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+      "published": "2026-03-30T15:08:50Z",
+      "sentiment_score": 0.033,
+      "sentiment_label": "Neutral",
+      "confidence": 0.932
     },
     {
       "headline": "Qodo raises $70M for code verification as AI coding scales | TechCrunch",
@@ -166,21 +250,12 @@
     },
     {
       "headline": "OpenAI\u2019s ChatGPT App Store Took Aim at Apple, But Results Lag So Far",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXVKTzZBTllJSFk4VHcwVlo1bTFkU1V0Tjk2S3ZLMWhyUlJDQmFXdlJCaEpjbWNqYjROMVg3SXRHb0ZkbnVxaTdaNWFmeHRkUzYzaW9zTVFXVXJEeTZ2WXNXYjBTbDJtdzdIV3RrLVVmSUJoQnMxZUVEcVV3OU8ySUMyTmY4QUx6YzBUNld1dXV1RkFKVmU3T20tcFVrRGViNzVEX1Y4ZTYyTE1leHZZZzF2SDgwcXpHcXc?oc=5",
       "published": "2026-03-30T11:10:04",
       "sentiment_score": -0.257,
       "sentiment_label": "Neutral",
       "confidence": 0.543
-    },
-    {
-      "headline": "Mistral secures $830 million in debt financing to fund AI data center",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
-      "published": "2026-03-30T07:08:15Z",
-      "sentiment_score": 0.247,
-      "sentiment_label": "Neutral",
-      "confidence": 0.739
     },
     {
       "headline": "New study says AI is giving bad advice to flatter its users | AP News",
@@ -192,18 +267,9 @@
       "confidence": 0.929
     },
     {
-      "headline": "Why OpenAI really shut down Sora | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "published": "2026-03-30T03:11:10Z",
-      "sentiment_score": -0.913,
-      "sentiment_label": "Negative",
-      "confidence": 0.923
-    },
-    {
       "headline": "Exclusive | The Sudden Fall of OpenAI\u2019s Most Hyped Product Since ChatGPT",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOQnJNTEFpYjBvNXhLbHM2MEVCTDVXT1VOTlVmZDNxUlVaMzBLejM4SkdXSHZFNXFXeVdwd0RqUzNPS3EwU0RrOVZHM0ZIUG5Oa1NyYnZ3blpQYXZZYVhyQXR6Y0RWdGs3YzFxVGtMcEpRdTNBYkIyaWdoVzEwM1RHU2ZyenhtUTV0U0cyYU85TXBsWC1iaVhHb0M4dGJFUkRGOGdnNGk1TWVEQmpab0NXOXY4b1RrdU51bXpGMWs3WUNNQUZuZ2ZvUlg1MHdDdnVXa2c3R01GWnhJM1EzcjdOd01PM0RhSmhqYlEyQ2hRSF80TTkyY3RodmFSdkdfOF9wR28zNjV4cEVjVUlIbTJ3elFqbmtUYV8yN3daOW5NejRHb21RcnV4YVN4VjF0Z1JkS2c5QzFqbXVWT2prMGg4cm5odGpvS20wU1VVQzdTeEFvWHRlTzVYbkZXX3pJeEFHRk9vTW0tb3J0d0k5YTloYm1kMzBZTHdhRjN4cWRjNS1zeG1ZcHdxZFRQU2F1c2ZUVW9DZS1XX1JqMTQxWlVPbnJR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNR09ETFNiX1Jra1JseUhkQVA5TWlVc0NNazV2Y3lGM0hEbXZJRjRoTjR4X01JMDVrcVZCVWdld0FYQTJteG8xVkhsTU01cHFGN0hqcFhfYlZVb1dsNGRxcVRFZ1p2cnU3aTVGdDhjb2w1b3h2WmZBSS1CTzZVa1R0d29XbXJIeWJfX082SE10YTQtOTNSX2FwOUZqM1hOVHVlOWV6NFZER2xVazROSDF6N0d5dXFxbm1XQWVHNlVhalYzazdYX1RfaUtPYjViZlBRRlBIdFFZVXJQRndtWkRHdGVLUDVfa0dTMUFtdG1tbnRMYkxQbDVTUV9kNHc5eEdGak5XRFdiZktfczd2ZkpXa2U1Y3ZsOHJFbjBiN1NKd2RWV3lBX0E2aG0tbGlFY1JQakhPOU53a2RXOW9TT2dIRGJnbko5azhaOFNFMnNKOTYwTUJHMmstODA5N0h6d19BNEc3YTBfdDMtWjhqQU9qYjNEcHJjMDRDaE90d1JHMHlnRnlmNl9LcmRTWDBKaUpqMWhaWWREVVBDVV9JOE9nMUtB?oc=5",
       "published": "2026-03-30T02:16:00",
       "sentiment_score": -0.919,
       "sentiment_label": "Negative",
@@ -237,24 +303,6 @@
       "confidence": 0.944
     },
     {
-      "headline": "Sora\u2019s shutdown could be a reality check moment for AI video | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-      "published": "2026-03-29T16:33:38Z",
-      "sentiment_score": -0.801,
-      "sentiment_label": "Negative",
-      "confidence": 0.827
-    },
-    {
-      "headline": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/03/29/eli-lilly-reaches-deal-to-bring-ai-developed-drugs-to-global-market.html",
-      "published": "2026-03-29T13:36:29Z",
-      "sentiment_score": 0.773,
-      "sentiment_label": "Positive",
-      "confidence": 0.785
-    },
-    {
       "headline": "PS5 price hiked by \u00a390 due to global 'pressures'",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
@@ -274,7 +322,7 @@
     },
     {
       "headline": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-      "source": "wired.com",
+      "source": "WIRED",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVExqU0pDZTdJVmkta0p4bF9uVTc0WTFheVRnTUFmZzRyWTBKQ240NWQ0aE5vYnJSaHhHVjdramRweGExYTd2Z1hYdjA3cVYtRzliUTRKaXI5TnRPR3F4aGVTQXVHZUh0NDYyUjdLMUUtNTZqaUNVeXd3WjVONkkxMnlkZGhxYU9XYXFyaHVkVUR2QllFV0Fj?oc=5",
       "published": "2026-03-27T10:30:00",
       "sentiment_score": -0.02,
@@ -307,15 +355,6 @@
       "sentiment_score": 0.346,
       "sentiment_label": "Neutral",
       "confidence": 0.486
-    },
-    {
-      "headline": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHFhcU5yc1BEMDRUWTNHR1I1eXZOLWpWX0hiMUMyRFNQaHl1dUJWTUN2VE5xS3V5QVRsQXpJb0JxMXpiN0hMYlZZTGQxRjlLbThFNHQtck5oaFVGYldnMDdGMHF5TUhMazRONDRRT0hza19MM0pmb21Fd1hSdVRPV1JxTDdXWXRncG5yMHV1VURibXNKd2R0Zkx3?oc=5",
-      "published": "2026-03-26T18:34:02",
-      "sentiment_score": -0.049,
-      "sentiment_label": "Neutral",
-      "confidence": 0.847
     },
     {
       "headline": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
@@ -352,6 +391,15 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.93
+    },
+    {
+      "headline": "OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFBBalpYcjJmMmZNYXBhN2NycHc3X0FrTUhMTm9Yay1wSjRxZkNRc2p6cmJmM1hYeExhLVFCeEF6ekxBby13eTMtUVI2aU9hMTE3SlhTZ1hMdFFTWm5TWFQ3ekxZOVhKSWFFeDlLbkx3cHp1U0ZLZWNTLXRxdmFIQnBpMVByYlJwWnhR0gGQAUFVX3lxTE5MVjRpTDNVRjBNb3lVcXQ0emNrZXFicHEwY2Jsczd4S2hqY2dLbV8yb2V3cFNUQ2pKWmpHZ3E1a2N2U25TbVJpZGdwcnUyVlV2OEEwRkZ4eEZzVEduaWZCS3c2T2hjWTdCRjUzWElvQ1pDWHdMdUdsLXFLaUh4eDR0QlkybTJpRi1FR0ZEMjI5OA?oc=5",
+      "published": "2026-03-19T07:00:00",
+      "sentiment_score": 0.08,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
     },
     {
       "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
