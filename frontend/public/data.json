@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-30T18:48:19.602641",
+  "last_updated": "2026-03-31T01:25:38.563007",
   "total_articles": 31,
-  "overall_sentiment": -0.174,
+  "overall_sentiment": -0.168,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,13 +14,22 @@
       "moving_avg": -0.878
     },
     {
+      "date": "2026-03-17",
+      "avg_sentiment": 0.105,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.386
+    },
+    {
       "date": "2026-03-21",
       "avg_sentiment": 0.021,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.428
+      "moving_avg": -0.251
     },
     {
       "date": "2026-03-24",
@@ -29,52 +38,61 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.253
+      "moving_avg": -0.164
     },
     {
       "date": "2026-03-26",
-      "avg_sentiment": -0.072,
-      "article_count": 5,
+      "avg_sentiment": -0.08,
+      "article_count": 4,
       "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.208
+      "neutral_count": 1,
+      "moving_avg": -0.147
     },
     {
       "date": "2026-03-27",
-      "avg_sentiment": -0.302,
-      "article_count": 7,
+      "avg_sentiment": -0.32,
+      "article_count": 6,
       "positive_count": 1,
-      "negative_count": 5,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.227
+      "moving_avg": -0.176
     },
     {
       "date": "2026-03-28",
-      "avg_sentiment": 0.164,
-      "article_count": 4,
-      "positive_count": 1,
+      "avg_sentiment": -0.097,
+      "article_count": 2,
+      "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.162
+      "neutral_count": 1,
+      "moving_avg": -0.164
     },
     {
       "date": "2026-03-29",
-      "avg_sentiment": -0.259,
-      "article_count": 6,
-      "positive_count": 3,
+      "avg_sentiment": -0.152,
+      "article_count": 7,
+      "positive_count": 4,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.175
+      "moving_avg": -0.061
     },
     {
       "date": "2026-03-30",
-      "avg_sentiment": -0.21,
-      "article_count": 6,
+      "avg_sentiment": -0.143,
+      "article_count": 7,
       "positive_count": 3,
       "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.096
+    },
+    {
+      "date": "2026-03-31",
+      "avg_sentiment": -0.057,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.08
+      "moving_avg": -0.107
     }
   ],
   "source_stats": [
@@ -85,37 +103,58 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "The New York Times",
+      "avg_sentiment": -0.193,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
       "source": "TechCrunch",
-      "avg_sentiment": -0.011,
-      "article_count": 7,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.261,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.031,
+      "avg_sentiment": 0.116,
       "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.404,
-      "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.067,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.166,
-      "article_count": 2,
-      "sentiment_label": "Negative"
+      "avg_sentiment": -0.009,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "What to Know About California\u2019s Executive Order on A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmozRmFqSk42XzJFaFFrc2g0TFh4cW9jcVA2NnIzLURldkJpOHJVTVczQ2hzLWdfSnJSRENkMU9zYmxGTXIxQWxWS0JXSGY1aWU4Zy1RV2xuWE55dl9SUUhzMFRPUE5qbE1sODA3cVJMY3k2SGpFSDZpOGtVWEFOc3FEUmxlMlE?oc=5",
+      "published": "2026-03-31T00:39:15",
+      "sentiment_score": -0.057,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
+    },
+    {
+      "headline": "States Plow Ahead With A.I. Regulation, Defying Trump",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0JqVlJ0Y3A0WGktOENLZmdRSDc5WGVoM2toYU5YX0V0eF9kVFNKVl9fRllKT293Z1NmTDg3VHZfZFpJdkNLSlRsMzhjQWh5V2JZUWZTOVNHai16RVpOREhaOUR6ZHE0cWNyNnBmbHc1Rkp1UVJTaGM0N3lmQ0lOYVF1NlJrS1oxYVk0NFNOWHZJeDRp?oc=5",
+      "published": "2026-03-30T22:03:22",
+      "sentiment_score": 0.096,
+      "sentiment_label": "Neutral",
+      "confidence": 0.843
+    },
+    {
+      "headline": "Majority of US federal judges are using AI, study finds",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JjaW9CWjltYUVVWExxbS13cHgyYTJTZVVOSWg0aUxNNzdoclUxQlFqR3hlUGRfQy1sS0l3bnJacWZxZHJrc3h6aGhDRTNOdFRoT21xYmdDRXEzU2JlUThtbGVkMGRRdU1nbGhpZkNoN2lYbW8ycWxpTDhlYzRKaC16YWI4b0ZQcGZKMms3U0VCOUZQb2EwdnVkSjF4Um9KWUFBdF9lQQ?oc=5",
+      "published": "2026-03-30T20:48:32",
+      "sentiment_score": -0.073,
+      "sentiment_label": "Neutral",
+      "confidence": 0.885
+    },
     {
       "headline": "UK Watchdog Issues First Guidance on Generative AI in Audit",
       "source": "news.bloombergtax.com",
@@ -124,6 +163,15 @@
       "sentiment_score": 0.052,
       "sentiment_label": "Neutral",
       "confidence": 0.884
+    },
+    {
+      "headline": "Israel targets Iran\u2019s leaders with lethal expertise using new AI platform",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCQ3VVN1daX0g1NlZoVXFwRUNCUFVhT3BRb2VXUmJibXlNZjBNUkc5a3lNQ09sSVIzZnhpT3pqV0dLQWVFTmpGaXM4c1p1S1pRcnQ4Y1dncldXTzNpeGdPa3ktZGkyQ1RIRU85NjFzNzMzdnNGVmhYNV9SRE9OUQ?oc=5",
+      "published": "2026-03-30T16:01:07",
+      "sentiment_score": 0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.893
     },
     {
       "headline": "Starcloud reaches $1.1 billion valuation as AI space race heats up",
@@ -135,26 +183,8 @@
       "confidence": 0.876
     },
     {
-      "headline": "Bond blues hit Big Tech at the worst time",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0k5eTJHZkkzREtKT2duZ0paZUtqMzE2YzltNXh3R0YtVTIyaDZCSVI5bUgtUkxxUVY0c19TTEZyWnlCLS15NTdmb3VaenZXQlRkekhhMFRpemREMTRLTno4dkxHRG5VNkR0Ny1yMFhQRW5BN2FId1lYcmJ6WlZrTW04OGpubFdQU1FiR2t3?oc=5",
-      "published": "2026-03-30T13:18:11",
-      "sentiment_score": -0.327,
-      "sentiment_label": "Neutral",
-      "confidence": 0.589
-    },
-    {
-      "headline": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWE9JN2paUXIwX09tNkJKWjBmMlNnalctSXZWUFcweURBeHpYcUNLalBPekFUaUhfeWpWV1hTQzVFV3RlbkVzVUtjdERLQV96NmgzUlYxcEtzNHFsT0Vzc1JtZENIclRlQXBnY0pwT3RGZW1KMjVkNlpJYWpwNWJnSG92YWVmcmZ1T0NxVElrQzhmSVNQQVRqQ2g0SUVDc1gzLU4zbE1QSVZXTXA4bDJxUmx3c1ZRQQ?oc=5",
-      "published": "2026-03-30T13:00:00",
-      "sentiment_score": 0.117,
-      "sentiment_label": "Neutral",
-      "confidence": 0.854
-    },
-    {
       "headline": "OpenAI\u2019s ChatGPT App Store Took Aim at Apple, But Results Lag So Far",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXVKTzZBTllJSFk4VHcwVlo1bTFkU1V0Tjk2S3ZLMWhyUlJDQmFXdlJCaEpjbWNqYjROMVg3SXRHb0ZkbnVxaTdaNWFmeHRkUzYzaW9zTVFXVXJEeTZ2WXNXYjBTbDJtdzdIV3RrLVVmSUJoQnMxZUVEcVV3OU8ySUMyTmY4QUx6YzBUNld1dXV1RkFKVmU3T20tcFVrRGViNzVEX1Y4ZTYyTE1leHZZZzF2SDgwcXpHcXc?oc=5",
       "published": "2026-03-30T11:10:04",
       "sentiment_score": -0.257,
@@ -164,7 +194,7 @@
     {
       "headline": "Exclusive | The Sudden Fall of OpenAI\u2019s Most Hyped Product Since ChatGPT",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOSlJoSS1xSXpabHJuT2FzMGY0TjN2RFo4T0M2c1d2dV9kVy10Qi1aQ2Jmd1NjLU1zZmZla05pYjhJdFJJazZDRDJrRzF2TVpZTG1HY3VzWXppU2h1b1kzbkVYNER3Z0U4S2VsVUpKUzU2Y29DaTgtbnhuWmh3MDJkRHlDcWI1VWNpa0ZEYTlrLVB4Z2JQQkJuWEZwRzRPSVY4c0lGRXUyMENRckw3N1lmY3djMWFKenoyek9yTnkwSDN5SHZ6NHpGNkZ1MVVfUjdGblhkZjNiekZ1VG43NF83M1B4T29USVhodllGd3pUeUdwQ1dMa1FVMFFEMHBXZ09lZHN6TzZTZ2lhUUo2NVQ5Yl85TXl3c3VVRUljUXdDQjBFSU9FM0dHN0dQbjd3NUVsMnVsUERONmg3UWZWZGtmY04waFppeDRIV3h4bGxOUEliYlZ0YmlNUWRuM2ZJWTVYcVpCT2c2V01OYTJOQ3paZ2thQjBvMWNvWWdtSzZDU1NRY2tnX2JZdlY0RGcyVW01UnBtUExkOTY1TmY3SXBuOVN3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPaVd3cHRTVXFvZ0o0VVVDdk5Hd25ITnFwd1JYOWhZdTQ2VURZNXo4QjZaNGJXMjlzZnYway1YSTN1UHQ4ckRqMkNETFRRR3REaE44N0V0dkhpMVJ0QjdHekxycTJFYm4wM2ZaRko4UTVwZDBBYnl5Z2wxQkdVUEwyaXNpVlBOeVc2aVNsZjlxN3lTYnhub3FDd3c0R1dsajAteGMtWGlYZjFyRlpFVnd3a3lxbkpIenZWQ0hLbEthVjRodk5DVlRoU1NSaTdlZEFtWWtzRlQxQnhFM2dVcXBOYWdFUnZIOTNSZkk0eVY2UzJOUjhHUHpENnVTdnlkd3M3RDU0U1pqLUQ4TmxHN0RKTXBoUVM2dURxekQ2aXJVTmNPQS1Va0ZHd09kc0JTUUhOQ0xyMGtzQmJ5S2pfb2Z2d1kwUTZwYl9uR1BKM0RuY2NRQzJFaUtnVC1BbzdHMkN6LXh0TWNyTDhjdWlwY2pJYUtrVjVuQms1S01HSkltU3J2d2laOU1TbWRtcFU5MlpLZ2gyclVhejJzelZaLXh1dFR3?oc=5",
       "published": "2026-03-30T02:16:00",
       "sentiment_score": -0.919,
       "sentiment_label": "Negative",
@@ -187,6 +217,15 @@
       "sentiment_score": -0.928,
       "sentiment_label": "Negative",
       "confidence": 0.944
+    },
+    {
+      "headline": "Medical AI Named First-Ever Recipient of ACC Global Digital Health Award at American College of Cardiology Annual Scientific Session",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/globenewswire-mobile/medical-ai-named-first-ever-recipient-of-acc-global-digital-health-award-at-american-college-of-cardiology-annual-scientific-session-1ab58c80c0d99fed30bd1278f1c439f2",
+      "published": "2026-03-29T21:16:39Z",
+      "sentiment_score": 0.487,
+      "sentiment_label": "Positive",
+      "confidence": 0.499
     },
     {
       "headline": "New Political Group to Push Trump\u2019s A.I. Agenda in Midterms",
@@ -225,15 +264,6 @@
       "confidence": 0.921
     },
     {
-      "headline": "Mark Zuckerberg texted Elon Musk to offer help with DOGE | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
-      "published": "2026-03-28T21:26:48Z",
-      "sentiment_score": 0.801,
-      "sentiment_label": "Positive",
-      "confidence": 0.834
-    },
-    {
       "headline": "Stanford study outlines dangers of asking AI chatbots for personal advice | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
@@ -241,15 +271,6 @@
       "sentiment_score": -0.203,
       "sentiment_label": "Neutral",
       "confidence": 0.684
-    },
-    {
-      "headline": "Anthropic's Claude popularity with paying consumers is skyrocketing | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "published": "2026-03-28T14:18:40Z",
-      "sentiment_score": 0.047,
-      "sentiment_label": "Neutral",
-      "confidence": 0.845
     },
     {
       "headline": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day | TechCrunch",
@@ -268,15 +289,6 @@
       "sentiment_score": -0.139,
       "sentiment_label": "Neutral",
       "confidence": 0.781
-    },
-    {
-      "headline": "The latest in data centers, AI, and energy",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "published": "2026-03-27T18:35:53Z",
-      "sentiment_score": -0.193,
-      "sentiment_label": "Neutral",
-      "confidence": 0.525
     },
     {
       "headline": "PS5 price hiked by \u00a390 due to global 'pressures'",
@@ -351,15 +363,6 @@
       "confidence": 0.896
     },
     {
-      "headline": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDYzSnhqTFhROERna1g1X2FUdW1MMThlU0pvNmpNYXl0dVJTSWREVmlrTDlSYlFkcnBNUVVsYjJkX3ZhT2ViUFZJb2lZTy15Wlo4MVlaNVdpNjBmR01PSW4zNVFVUVBPRVkxcWhzNTcyb1NGYzVER1E5OC1TUlpNT1RyZ21nUWFuRDVqUHRCQVRwV0ZEQUdfOVNCNmdqbHpsVWpTUnVLTjdEMWh0QU5zY1dENFdvdWdHSUZRQnpyLWJqbVI1R2c?oc=5",
-      "published": "2026-03-26T16:21:10",
-      "sentiment_score": -0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.891
-    },
-    {
       "headline": "Parents should monitor children '24/7' on Roblox, says developer",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss",
@@ -385,6 +388,15 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.93
+    },
+    {
+      "headline": "OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool'",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlENEI4SzNkRDZaNVg2aWllWnRpU1FhVXZKQXdGaG9hc1NFU2c3RXRVdElYdk9FRmU0azFRWll1NHRNcU5IdVRXRGplRkhhOEZtenBJYVA4RUpsd0FGQXZ2UTdIU1dwTlZldktBZ2tmU0ZmRFVoaWlHbnMzanVuY0tUS0I1VWxfOFNHc0h4OEsxTHd5WVhQclU2VG5jVnlSc3FiTTQ1UdIBrAFBVV95cUxPTEtiWXBCaWVOZkJlSW5KVkNldEotS19WaEZiTWx4bXAzUHEtZnFKR2VYc1Q3b3lTQTdLR21pMU9CT1JLWHd4WUthay1VUEFLQmtVX0dTTnVKSmdhdUpmTHFlNTdJeEthQ1RzM2gzdXVWaktPaWVmRUlyampTWU5GMm5VUGJBSkV5R05GRXV6b2JkTHBRV0I5c1FZamtuNzd6VGNLRlJUb2dZYXRl?oc=5",
+      "published": "2026-03-17T07:00:00",
+      "sentiment_score": 0.105,
+      "sentiment_label": "Neutral",
+      "confidence": 0.866
     },
     {
       "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
