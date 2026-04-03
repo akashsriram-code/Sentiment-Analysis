@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-02T18:44:21.383510",
+  "last_updated": "2026-04-03T01:24:56.375174",
   "total_articles": 33,
-  "overall_sentiment": -0.19,
+  "overall_sentiment": -0.203,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,21 +60,30 @@
     },
     {
       "date": "2026-04-01",
-      "avg_sentiment": -0.21,
-      "article_count": 17,
+      "avg_sentiment": -0.323,
+      "article_count": 11,
       "positive_count": 2,
-      "negative_count": 10,
-      "neutral_count": 5,
-      "moving_avg": -0.137
+      "negative_count": 7,
+      "neutral_count": 2,
+      "moving_avg": -0.153
     },
     {
       "date": "2026-04-02",
-      "avg_sentiment": 0.2,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": 0.149,
+      "article_count": 6,
+      "positive_count": 4,
       "negative_count": 0,
+      "neutral_count": 2,
+      "moving_avg": -0.135
+    },
+    {
+      "date": "2026-04-03",
+      "avg_sentiment": -0.462,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.112
+      "moving_avg": -0.215
     }
   ],
   "source_stats": [
@@ -86,44 +95,89 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.146,
-      "article_count": 6,
+      "avg_sentiment": -0.187,
+      "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.14,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "avg_sentiment": -0.567,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.293,
+      "source": "The Verge",
+      "avg_sentiment": -0.195,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.249,
-      "article_count": 3,
-      "sentiment_label": "Positive"
+      "avg_sentiment": 0.042,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.248,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "AI & Tech Brief: Adam Gleave at FAR.AI on safety and regulation",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTJFM3V4R2ZDbUJ0RXV2SV9aS0h5QmJISDZGUng0OVB1b0xZNGpaVHZtQ25DMl9zSTNTZkhtSl9zT3RtMUhaVDQ0d1Y4aWtiRTZnSUVlbHc1LTI2UC1oMTBXX19zNlp4Y1g4VVhlX05xTFRYa3hQa3ZaejNwZDN6Xy1xZ3ZSWEUwcjlzR05GNFZaYXpzV2Nqa290UnBtdElVZU5oOU01Q2Zyb25La0NTUkNlVTZFM3A4a256d1hpUQ?oc=5",
+      "published": "2026-04-03T01:07:47",
+      "sentiment_score": 0.005,
+      "sentiment_label": "Neutral",
+      "confidence": 0.93
+    },
+    {
+      "headline": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2cyYThtNGxqd2toTFZJdlItMTlwZTJFUlRUZU9WeEhLWXpCaEE2YTgyNElxdGQ0SDJiUk9OTDZjSjRaRW10Q2lIU0ZOWG40REVSQ2JOQ0JkZk1xcllXV1JSNFJqOEQ5Y3ZHd2lXWklCTlRwSTdVZW5qTk10VWpSRE1UY2M2QWNOakFCd2NUdFprelR4VWxCREtJb1VCUURSdHJhRNIBqgFBVV95cUxPWHR5QWN5TVo0ZlI5ZU03QlkyaW9iX3RVWnBTSEVwNkdWRE9pdF9jdEZCaV92cGJtaU9HTWViOGhBVVhVamlwTmp4bWlia2lBcGRNdnQ3VWtIODByTzhXcnA3eWJxN0s4TDVDNjVYaFcyMllrcGIzbi1nZVNSbjJqWUdpOHFpUjZvM2cxclNUV3FkYm1mM0otMUxNTFBmVW5kS0dicXNGNW80QQ?oc=5",
+      "published": "2026-04-03T00:36:00",
+      "sentiment_score": -0.928,
+      "sentiment_label": "Negative",
+      "confidence": 0.946
+    },
+    {
+      "headline": "OpenAI acquires popular tech talk show for \u2018low hundreds of millions\u2019",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTm5EdGo0NzNlSmFFNThqSlBVV0xIVkE3OWhxYU0tUW9nTWRoMjdCVTFLYnBSamIxUm1Zb1lkMUdjM0lOaG5KN1NuSzBPcEluUzhoZTZFX1pyNm5TUDJRcHZpekZOQllKbXdRSDRFcUZtNGZhUUxSOEtxZkxwNGxlbUNyVjc?oc=5",
+      "published": "2026-04-02T19:33:31",
+      "sentiment_score": 0.088,
+      "sentiment_label": "Neutral",
+      "confidence": 0.883
+    },
+    {
+      "headline": "AI World Models: What Leaders Should Know",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOcHg5UmVOb3B5enhXcUJRRU5HLWVYTFBtaEU1cEI5dkt3bG1jZ0t0WHNZUDVDczBSN1ZydzVLRUd6Wm42dTU5ZUNBakdKY2N0cno1MkxHNThLSzBha3hZUkUwNURZbGNyaXV6c0R2QllUQURDWTgxU2Jjc19RSF8waENZNGtZaG1YSEhHcThWeklUTjhtblB3QTlCMXlDSldBaVNaM0VyQ0dKbTc5RVl6ZmJiTDNwZHNKU0hfOUdUMzlEWTlYWk9YTGtPWGg2d2YteHVUTHdLMGFEbFAxSzVhcGRYOFpmWFMxOXJTNlEtcGpmMWlzWlltb3JyeHhGZ0tpUkR2SkFaaUpfLWZNa2xFbzQtVWtfVnBLa0JCY0YzS3hIcUpmWmwwRmVGT2pIaGI5THFaOXBwS1oydXZCenF0QjduZmZ2cXBWam9GQ2tQZnBSckpGc2dFY0xVWEZfV0Rra1kxSmpXekhWYndCb0ZubjN5T2lMMVNHOEZCc2xoSTVFVm9wRWRQczdR?oc=5",
+      "published": "2026-04-02T16:00:00",
+      "sentiment_score": 0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.939
+    },
+    {
       "headline": "I wrote a novel using AI. Writers must accept artificial intelligence \u2013 but we are as valuable as ever | Stephen Marche",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEJMTG9VaHJBWW0tTUNsbU9BUm5JRmV6b3BMbzhYOG5ORTQzX2M1MGd3N2F2S0tLM0oycEF3eEZHX3llY3Vfd0RQemtsbVRrekhfZUd2UE9XSFZfclJSd2RvRFNCM1VTaVFKRW9UT2FGWjBnMzdDUG1Mdm5tT3M2cWxWRmlLUUk4WFgweXFZakJNelJtcTQtdmVhMmJObGxYMkduc05n?oc=5",
       "published": "2026-04-02T14:56:00",
       "sentiment_score": 0.047,
       "sentiment_label": "Neutral",
       "confidence": 0.9
+    },
+    {
+      "headline": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFFUeTViS3A2bTZyQVQ1Z01lN2hwbjNzTk5JcFY2UUp1Y1lhVlRheE1ua0ZSMHhwbFVNZnU3WVdRR1hnLWx2ZkJaMTJPc1drNnFCUHp5amVLNVVkY2NPVUJoRThSNTJRdW5JcDJSUmFtRUUyOWduaVpZXzlVN2JIdVZWVXRkYl8xRUE?oc=5",
+      "published": "2026-04-02T09:02:30",
+      "sentiment_score": 0.07,
+      "sentiment_label": "Neutral",
+      "confidence": 0.89
     },
     {
       "headline": "Elon Musk's SpaceX set to be worth $1 trillion with planned public listing",
@@ -135,13 +189,31 @@
       "confidence": 0.627
     },
     {
-      "headline": "Artificial Intelligencer: OpenAI\u2019s $852 billion problem: finding focus",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWQzV1dHTmNpcEgzMVl5SGFVWEVHaUJldnpfMEZSeUxlRFRMd20zS2N6ZUNVQTdNQUtVaFpVU3Jyc0RuZ2VTWXliZ3dCV0hjWS1pTVdKR1RlY2J2c2dpV19WVTA2bjJxV0lKRXdsYldkOURGMm9DZ255X2NueTV4LTBSSzJKM1l6R3c1a0xrR1dPel9hb0N6dktodXNrYVdJRmsxNWpsZEptSFRtQUkxOWl2Q2I0dUVaTEtiUTBWTEh1b0k1bGdRcmxBNmlYRHFLU1JV?oc=5",
-      "published": "2026-04-01T19:00:00",
-      "sentiment_score": 0.02,
+      "headline": "CNBC Daily Open: All eyes on Trump address as markets rise on ceasefire hopes",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/02/cnbc-daily-open-us-markets-rise-trump-iran-ceasefire-spacex-ipo-nasa-moon-launch.html",
+      "published": "2026-04-02T01:20:44Z",
+      "sentiment_score": 0.326,
       "sentiment_label": "Neutral",
-      "confidence": 0.911
+      "confidence": 0.598
+    },
+    {
+      "headline": "Jim Cramer warns rally lacks real leadership as AI-driven gains fail to inspire confidence",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/01/cramer-rally-lacks-real-leadership-as-ai-driven-gains-fail-to-inspire-confidence.html",
+      "published": "2026-04-01T22:50:51Z",
+      "sentiment_score": -0.769,
+      "sentiment_label": "Negative",
+      "confidence": 0.798
+    },
+    {
+      "headline": "Startup funding shatters all records in Q1 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+      "published": "2026-04-01T20:25:28Z",
+      "sentiment_score": 0.127,
+      "sentiment_label": "Positive",
+      "confidence": 0.476
     },
     {
       "headline": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
@@ -162,15 +234,6 @@
       "confidence": 0.881
     },
     {
-      "headline": "SpaceX reportedly files plans for massive IPO | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/04/01/business/spacex-ipo",
-      "published": "2026-04-01T16:28:10Z",
-      "sentiment_score": -0.176,
-      "sentiment_label": "Neutral",
-      "confidence": 0.741
-    },
-    {
       "headline": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss",
@@ -178,15 +241,6 @@
       "sentiment_score": -0.955,
       "sentiment_label": "Negative",
       "confidence": 0.964
-    },
-    {
-      "headline": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "published": "2026-04-01T16:00:50Z",
-      "sentiment_score": 0.864,
-      "sentiment_label": "Positive",
-      "confidence": 0.876
     },
     {
       "headline": "SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says | TechCrunch",
@@ -205,42 +259,6 @@
       "sentiment_score": -0.589,
       "sentiment_label": "Negative",
       "confidence": 0.619
-    },
-    {
-      "headline": "StrictlyVC San Francisco is in less than a month | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "published": "2026-04-01T14:00:55Z",
-      "sentiment_score": -0.072,
-      "sentiment_label": "Neutral",
-      "confidence": 0.876
-    },
-    {
-      "headline": "AI can push your Stream Deck buttons for you",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "published": "2026-04-01T12:38:58Z",
-      "sentiment_score": 0.028,
-      "sentiment_label": "Neutral",
-      "confidence": 0.938
-    },
-    {
-      "headline": "Oracle stock rises in premarket on plans to cut thousands of jobs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html",
-      "published": "2026-04-01T12:26:15Z",
-      "sentiment_score": -0.937,
-      "sentiment_label": "Negative",
-      "confidence": 0.957
-    },
-    {
-      "headline": "The stock market rebound, Nike's recovery questions, 'Project Hail Mary' and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/01/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-04-01T12:13:58Z",
-      "sentiment_score": -0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
     },
     {
       "headline": "Five key questions Apple faces entering its second half-century",
@@ -279,15 +297,6 @@
       "confidence": 0.959
     },
     {
-      "headline": "I Asked ChatGPT What WIRED\u2019s Reviewers Recommend\u2014Its Answers Were All Wrong",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
-      "published": "2026-04-01T09:30:00Z",
-      "sentiment_score": -0.384,
-      "sentiment_label": "Neutral",
-      "confidence": 0.547
-    },
-    {
       "headline": "OpenAI\u2019s big numbers: $122 billion funding round, 900 million weekly ChatGPT users.",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1AwTXpFREo3QU02ZExiRXJ5Q0hNUHZobzlZUTdMaWlKdmNxUW1pcFVCZUF4eXFwNjRuM3M2UDdhTDZlSTFPTHRDMm43eXBPMzRSR0Nybzh6Nm1jOHVlQTJsbDZ4Z1drMkdEdVl4YnpXMWxZcXhlUmdEenhVc2NrVGxLbUJxSlJaUzhkbw?oc=5",
@@ -307,7 +316,7 @@
     },
     {
       "headline": "OpenAI, parent firm of ChatGPT, closes $122bn funding round amid AI boom",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWlxbEhEWUw1S1VvZXBWQWtxSVJEVFk4dUNaS2xGbWtVTkJkaFFxMVR0a0RBVnJHc3RXeEd4Z25uMW9xelUwR0xXdlNZZ2dyUVM4aHVBOU5NOGgyLTJmRnk5ZDZ6YkxLYV9OZDIySkdjUHRCRHVwTUdmVDV0amZ6SjVJOVRIN1lvYUdMcw?oc=5",
       "published": "2026-03-31T20:37:00",
       "sentiment_score": -0.911,
@@ -325,7 +334,7 @@
     },
     {
       "headline": "Penguin to sue OpenAI over ChatGPT version of German children\u2019s book",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5",
       "published": "2026-03-31T16:55:00",
       "sentiment_score": -0.837,
@@ -343,7 +352,7 @@
     },
     {
       "headline": "OpenAI\u2019s ChatGPT App Store Took Aim at Apple, But Results Lag So Far",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXVKTzZBTllJSFk4VHcwVlo1bTFkU1V0Tjk2S3ZLMWhyUlJDQmFXdlJCaEpjbWNqYjROMVg3SXRHb0ZkbnVxaTdaNWFmeHRkUzYzaW9zTVFXVXJEeTZ2WXNXYjBTbDJtdzdIV3RrLVVmSUJoQnMxZUVEcVV3OU8ySUMyTmY4QUx6YzBUNld1dXV1RkFKVmU3T20tcFVrRGViNzVEX1Y4ZTYyTE1leHZZZzF2SDgwcXpHcXc?oc=5",
       "published": "2026-03-30T11:10:04",
       "sentiment_score": -0.257,
@@ -352,8 +361,8 @@
     },
     {
       "headline": "Exclusive | The Sudden Fall of OpenAI\u2019s Most Hyped Product Since ChatGPT",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOWklUczdvLUk4ZWFyclFGb0Q2cVpJNGNSTjJwVlViYldLX003YUFhdVFKX3htek9hSXk1MDJQOFM4b013b2xtY01GUzdIaHAyOVUtMTk4UXVaN1p5QlJaYkR4dnFDQmpSaFB5cF9FcFNzTHZ1QmNITlg0M2hMb3MxbTBNNG5aZXVIWER6NzhzQzJzcm5PS1lmaE5kelRFZklCVWk1Q1hoOUtQdWw2ZXc2NGFaX2o3ZVh2T3ZUUnAxVWtoWVRQemwzYUtPbEhld3h6V2pRWElaZEVCajNWaFppeThLbmZSN0ZrQnpXMWtNNWRBb2M2Tmwtd2VYbC1Tc1F6eHhldy1CQmpYUFdaZTJ1ZDJ4VVNaTS11Z2ZzQVpmSWFzeDI0UFhkR3BXeFZSMkpWaDN1VU52blVEazdsekJTeXdZdk1WNkUxLUtQb0dFWWptQ2FwNS05X2JBWVE4Y0RUTlhYZzJzazdRZjRMUXgxQklhd0FQOEdIZzU4UkpjS0p3R3pUWFc1bWhxVEdoNnNXQ0w0algxV3EzbHNXcTlEVnBR?oc=5",
+      "source": "wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNU2dpMEozaWQ3aXVQcGxjc21RUjFUd05HWjV2UXJCcVZmUzBhMXVhMFBSclBZenhFWnpFSF9CYVFOamNEM0FKQ3FCM1k5X01GQ1VCYTlPUkU5YzhRb3JlbXpqWmV3Y2tMdE5HZm80d2tXek1NRUFIaDE5U1VMNE1iaE53R2dubkZneXhiRWVtNXhJVzlFc1NEbmlJeHhaQWRLdEZBem9Xc2QzVUlIV1hiaGVnZEtrc19TVHF6d0lMN0xuZUZiOGJ2c0pxamVObWw5WHE3S2FXQXBrMjJGVk0xRUR5YTk4NUZhM2pCQ3dCTWY3RHVaMWVqQ015Q0J2aFBJdnMtbndrUTlEVEpLMzNLWlBJWENycklvZnZiU1ktVGkzSHFqYU92cEMyYnpuLTZ4bmpHckRUYk04ZmFDTzJqX3Z0VktyblhpZktlMHBuRnRlY1JaQVZqdEppTVJ3YXRaaWc5QV8zaDAzY1J6Z05RSk9LS1hyX3dyX3BOS1JjdmhncUMtRlRjczdkTDNHQ3hXVE00OEhmbVY3LWhDXzZEblZn?oc=5",
       "published": "2026-03-30T02:16:00",
       "sentiment_score": -0.919,
       "sentiment_label": "Negative",
@@ -388,7 +397,7 @@
     },
     {
       "headline": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-      "source": "wired.com",
+      "source": "WIRED",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVExqU0pDZTdJVmkta0p4bF9uVTc0WTFheVRnTUFmZzRyWTBKQ240NWQ0aE5vYnJSaHhHVjdramRweGExYTd2Z1hYdjA3cVYtRzliUTRKaXI5TnRPR3F4aGVTQXVHZUh0NDYyUjdLMUUtNTZqaUNVeXd3WjVONkkxMnlkZGhxYU9XYXFyaHVkVUR2QllFV0Fj?oc=5",
       "published": "2026-03-27T10:30:00",
       "sentiment_score": -0.02,
