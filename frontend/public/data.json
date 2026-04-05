@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-04-04T18:29:57.425244",
-  "total_articles": 31,
-  "overall_sentiment": -0.156,
+  "last_updated": "2026-04-05T01:28:36.099032",
+  "total_articles": 35,
+  "overall_sentiment": -0.26,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.878
+    },
     {
       "date": "2026-03-24",
       "avg_sentiment": 0.098,
@@ -11,7 +20,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.098
+      "moving_avg": -0.39
     },
     {
       "date": "2026-03-27",
@@ -20,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.266
+      "moving_avg": -0.115
     },
     {
       "date": "2026-03-29",
@@ -29,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.063
+      "moving_avg": -0.172
     },
     {
       "date": "2026-03-30",
@@ -38,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.1
+      "moving_avg": -0.256
     },
     {
       "date": "2026-03-31",
@@ -47,7 +56,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.184
+      "moving_avg": -0.299
     },
     {
       "date": "2026-04-01",
@@ -56,34 +65,34 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.249
+      "moving_avg": -0.339
     },
     {
       "date": "2026-04-02",
-      "avg_sentiment": 0.19,
+      "avg_sentiment": 0.185,
       "article_count": 4,
       "positive_count": 3,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.186
+      "moving_avg": -0.187
     },
     {
       "date": "2026-04-03",
-      "avg_sentiment": -0.074,
-      "article_count": 10,
-      "positive_count": 4,
-      "negative_count": 6,
-      "neutral_count": 0,
-      "moving_avg": -0.211
+      "avg_sentiment": -0.278,
+      "article_count": 12,
+      "positive_count": 2,
+      "negative_count": 9,
+      "neutral_count": 1,
+      "moving_avg": -0.241
     },
     {
       "date": "2026-04-04",
-      "avg_sentiment": -0.031,
-      "article_count": 3,
+      "avg_sentiment": -0.215,
+      "article_count": 4,
       "positive_count": 2,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.278
+      "moving_avg": -0.334
     }
   ],
   "source_stats": [
@@ -95,15 +104,21 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.164,
-      "article_count": 6,
+      "avg_sentiment": -0.065,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.039,
+      "avg_sentiment": -0.223,
       "article_count": 4,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.525,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
@@ -112,10 +127,10 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Associated Press",
-      "avg_sentiment": 0.322,
+      "source": "Wired",
+      "avg_sentiment": -0.935,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
@@ -135,8 +150,17 @@
       "confidence": 0.648
     },
     {
+      "headline": "Trump Slashed Science Funding. Now the U.S. Could Face a Costly Brain Drain.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFg0MzItRVc5NWV6eXZPSS1CR2REUWRJQXdob1F6NkJfVjBHcGlYUWRpY3pVM1hnUUl5UDlfdUNjSG9ERDJMay0wS1hRa1p2eEUtWWdUX2FxU2hQcEJuYXRnbU1PcXBxdzBkQjBKS0RNUkJ4QjBBeEdVeURNaVhCaGdxaExNQWZzZmJrZg?oc=5",
+      "published": "2026-04-04T13:43:15",
+      "sentiment_score": -0.767,
+      "sentiment_label": "Negative",
+      "confidence": 0.799
+    },
+    {
       "headline": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YbVM4dG5UQmdVVUFZd3hLWW54T3RzYWhLWWMtWDNLWkE1MnVEY3lxLWwyT0toSDBLMkZva202Qy1laXZ1aWxVMUIxcnk2dGllMEY2a3YtWXBnamtVNHNBWVctU2Rycm4wQjViWmdoTUowSW1KaUJqLWp3NU_SAYIBQVVfeXFMTU1SMEFuUVdlUDhTUmxDNW5YUjhEQ1I0bnF6Q3g0XzV1UUFzemJ3TUxfU05ydkFOaFJ2UW9LWDZYLXFPcDBsWGdwNFhMczc0QjR4M1NGeXlRZjhveFpGRW1LRE5TZHFBd1BoOE5jendDOW5HNnJDX29qNThOaXc3dWIzZw?oc=5",
       "published": "2026-04-04T12:00:01",
       "sentiment_score": 0.054,
@@ -146,7 +170,7 @@
     {
       "headline": "Tech Now",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002tvm7?at_medium=RSS&at_campaign=rss",
       "published": "2026-04-04T01:00:00",
       "sentiment_score": 0.112,
       "sentiment_label": "Neutral",
@@ -155,11 +179,56 @@
     {
       "headline": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlVpQkotWnFxTlNwcHpleEFZeG5xZG1waHROa1JxQ1R1bjRQMEJlOEc5cHc1YW95QWROdDJDSGtUWkgySXp2b3NRZTdWMkVXNF83Qk1wNEVXdHFzeUlIMkRlUmFrN3otVHlmSEhsVGNpWm9Dd1FpeXVERHA0U01IcjdYS0YtZG9YWGZFZFBSaWlJMjMxQW40eVAzTjJSNTVhNUNB?oc=5",
-      "published": "2026-04-03T23:52:49",
-      "sentiment_score": -0.453,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "published": "2026-04-03T23:52:49Z",
+      "sentiment_score": -0.495,
+      "sentiment_label": "Negative",
+      "confidence": 0.517
+    },
+    {
+      "headline": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "published": "2026-04-03T21:28:14Z",
+      "sentiment_score": -0.942,
+      "sentiment_label": "Negative",
+      "confidence": 0.951
+    },
+    {
+      "headline": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead 'special projects' | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "published": "2026-04-03T20:37:02Z",
+      "sentiment_score": 0.02,
       "sentiment_label": "Neutral",
-      "confidence": 0.507
+      "confidence": 0.938
+    },
+    {
+      "headline": "OpenAI\u2019s AGI boss is taking a leave of absence",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+      "published": "2026-04-03T20:22:59Z",
+      "sentiment_score": -0.247,
+      "sentiment_label": "Neutral",
+      "confidence": 0.712
+    },
+    {
+      "headline": "OpenAI's Fidji Simo takes medical leave, announces leadership changes",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
+      "published": "2026-04-03T20:21:29Z",
+      "sentiment_score": -0.231,
+      "sentiment_label": "Neutral",
+      "confidence": 0.73
+    },
+    {
+      "headline": "OpenAI's Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+      "published": "2026-04-03T19:38:35Z",
+      "sentiment_score": -0.928,
+      "sentiment_label": "Negative",
+      "confidence": 0.936
     },
     {
       "headline": "Oracle Corporation (ORCL) Investors: April 6, 2026, Deadline in Securities Fraud Class Action Lawsuit Filed by Kessler Topaz Meltzer & Check, LLP",
@@ -169,24 +238,6 @@
       "sentiment_score": -0.068,
       "sentiment_label": "Neutral",
       "confidence": 0.877
-    },
-    {
-      "headline": "Insight Health Raises $11M Series A Led by Standard Capital to Fix Healthcare\u2019s Administrative Crisis",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/insight-health-raises-11m-series-a-led-by-standard-capital-to-fix-healthcares-administrative-crisis-0146adeb80c842e29dc5fc54b33a4d80",
-      "published": "2026-04-03T14:17:52Z",
-      "sentiment_score": 0.712,
-      "sentiment_label": "Positive",
-      "confidence": 0.722
-    },
-    {
-      "headline": "Apple\u2019s best product ever",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
-      "published": "2026-04-03T12:52:41Z",
-      "sentiment_score": 0.449,
-      "sentiment_label": "Neutral",
-      "confidence": 0.529
     },
     {
       "headline": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
@@ -205,15 +256,6 @@
       "sentiment_score": 0.052,
       "sentiment_label": "Neutral",
       "confidence": 0.888
-    },
-    {
-      "headline": "The Tech Download: Defense startups eye Iran war windfall as U.S. and Gulf states turn to tech",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/03/the-tech-download-defense-startups-eye-iran-war-windfall.html",
-      "published": "2026-04-03T11:00:01Z",
-      "sentiment_score": -0.942,
-      "sentiment_label": "Negative",
-      "confidence": 0.957
     },
     {
       "headline": "Really, you made this without AI? Prove it",
@@ -243,15 +285,6 @@
       "confidence": 0.599
     },
     {
-      "headline": "OpenAI acquires popular tech talk show for \u2018low hundreds of millions\u2019",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTm5EdGo0NzNlSmFFNThqSlBVV0xIVkE3OWhxYU0tUW9nTWRoMjdCVTFLYnBSamIxUm1Zb1lkMUdjM0lOaG5KN1NuSzBPcEluUzhoZTZFX1pyNm5TUDJRcHZpekZOQllKbXdRSDRFcUZtNGZhUUxSOEtxZkxwNGxlbUNyVjc?oc=5",
-      "published": "2026-04-02T19:33:31",
-      "sentiment_score": 0.088,
-      "sentiment_label": "Neutral",
-      "confidence": 0.883
-    },
-    {
       "headline": "I wrote a novel using AI. Writers must accept artificial intelligence \u2013 but we are as valuable as ever | Stephen Marche",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEJMTG9VaHJBWW0tTUNsbU9BUm5JRmV6b3BMbzhYOG5ORTQzX2M1MGd3N2F2S0tLM0oycEF3eEZHX3llY3Vfd0RQemtsbVRrekhfZUd2UE9XSFZfclJSd2RvRFNCM1VTaVFKRW9UT2FGWjBnMzdDUG1Mdm5tT3M2cWxWRmlLUUk4WFgweXFZakJNelJtcTQtdmVhMmJObGxYMkduc05n?oc=5",
@@ -259,6 +292,15 @@
       "sentiment_score": 0.047,
       "sentiment_label": "Neutral",
       "confidence": 0.9
+    },
+    {
+      "headline": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFFUeTViS3A2bTZyQVQ1Z01lN2hwbjNzTk5JcFY2UUp1Y1lhVlRheE1ua0ZSMHhwbFVNZnU3WVdRR1hnLWx2ZkJaMTJPc1drNnFCUHp5amVLNVVkY2NPVUJoRThSNTJRdW5JcDJSUmFtRUUyOWduaVpZXzlVN2JIdVZWVXRkYl8xRUE?oc=5",
+      "published": "2026-04-02T09:02:30",
+      "sentiment_score": 0.07,
+      "sentiment_label": "Neutral",
+      "confidence": 0.89
     },
     {
       "headline": "Elon Musk's SpaceX set to be worth $1 trillion with planned public listing",
@@ -353,7 +395,7 @@
     {
       "headline": "Exclusive | The Sudden Fall of OpenAI\u2019s Most Hyped Product Since ChatGPT",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPeGhUTTR5SHNIdmFYY2VVSTBITlRYOXFUWlBad1lDalEyR1JzQUpLR2xvSW5nRy1fZjRCbkY5Z0ppanFENTM2YVFuYlRmZjMxU0FKMHhuVFJxNENIUFVXV2E3MUNUNzhGb3ZydzFKV3VmemhZWEdncVozMDlIZldYbDFpYnpLOWQzSGNuM2J1b1hvWWxjeHp1X1pWR2FBVk9kMjRKYk5ScWR6UkMweDdXd215T1dNZzJGdVJIc3RRTnpJcldzTHo1aXVmNHVDOVJRd0I2UmxTUzhSbnNwc19aODRjeFpMTTdTWHRJNnFqMHFUU1FuNVBuWDRQU2c4Q1M0SjVPOGZZM20xX1pHNDRyRDV2bzJqQzc1Q3VzbWxmUDNlR1ZGZm9hZmJTMDhaM0g2UGNncExrZUtleGxnMWc0SXh2N2xKLXNxX0h2Mkx3dkpRelExaWVVcy13VnhWb3d3UXpTbS05dVBMN1k3N1pHczRrNDFidHlLWjJLLS1XMGNmUnc0ek10QWlHQnpISzNsUFVvY05zQlpVNnplOUJFT0FB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOWlMweUNUMDV1NGdXWDA5bzN1V1pDRUFnWnJkaGRSaU1BUjE2MDRxX3d3VGswVExhcFY4X3JSQnp2R3E3bnFsMDFicGVxemNfUGdzNTZYVll6cG40MEQwQWx6YmZqaFFIdzlRUXJNSklhTXpwcHZ4Q1F0VkRCNHlFVWlvclB0bWNKWTNKbVp0cnBqTjVNMktKUnY0cDNKVkpWYV9aY0Fwc20wSkhUcEN4c2xEOElkV3VzenVQZ3hGSzk3NlhtcTdZRW9KbVJwaWJaUUx3RWJDNTJMTFJzczF2Q1lmLVJZVHhtWW94N1p5UjQwN1gycll2cDBNQ0ZlVVJuWmxzYnFyREt2U3hCTy05WGFJUlFuUUNuTC1XNU9ydmItYVQxUWdkckxEZ2tOM3NHSzUtN0pEUTViR2ZYazVVbjkxVUpmM3RTVzNxT2tNMkc1X2xicnJGdDVXbUI2YTVJWWstTUtlYk93UnhPX3ZPM202WVQyYU4xQlFJbE11N0pCMzhzNU44U1V4SjBVLU84SXUxQnQ5cTFwZUtSWm9fLXVR?oc=5",
       "published": "2026-03-30T02:16:00",
       "sentiment_score": -0.919,
       "sentiment_label": "Negative",
@@ -403,6 +445,15 @@
       "sentiment_score": 0.098,
       "sentiment_label": "Neutral",
       "confidence": 0.88
+    },
+    {
+      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
+      "published": "2026-02-11T08:00:00",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     }
   ]
 }
