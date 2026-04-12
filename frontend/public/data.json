@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-12T07:04:53.950606",
+  "last_updated": "2026-04-12T12:40:39.087829",
   "total_articles": 38,
-  "overall_sentiment": -0.198,
+  "overall_sentiment": -0.204,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,71 +51,110 @@
     },
     {
       "date": "2026-04-09",
-      "avg_sentiment": -0.031,
+      "avg_sentiment": -0.015,
       "article_count": 7,
       "positive_count": 3,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.128
+      "moving_avg": -0.125
     },
     {
       "date": "2026-04-10",
-      "avg_sentiment": -0.305,
-      "article_count": 20,
-      "positive_count": 7,
-      "negative_count": 9,
-      "neutral_count": 4,
-      "moving_avg": -0.153
+      "avg_sentiment": -0.343,
+      "article_count": 14,
+      "positive_count": 6,
+      "negative_count": 7,
+      "neutral_count": 1,
+      "moving_avg": -0.156
     },
     {
       "date": "2026-04-11",
-      "avg_sentiment": -0.139,
-      "article_count": 3,
+      "avg_sentiment": -0.225,
+      "article_count": 7,
+      "positive_count": 1,
+      "negative_count": 3,
+      "neutral_count": 3,
+      "moving_avg": -0.186
+    },
+    {
+      "date": "2026-04-12",
+      "avg_sentiment": -0.24,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.17
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.236
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.08,
-      "article_count": 11,
+      "avg_sentiment": -0.085,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.104,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.305,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.021,
+      "avg_sentiment": 0.018,
       "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.747,
-      "article_count": 3,
+      "source": "Wired",
+      "avg_sentiment": -0.18,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": 0.132,
+      "source": "CNBC",
+      "avg_sentiment": -0.322,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.499,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.137,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNN",
+      "avg_sentiment": -0.447,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.035,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "Is AI the greatest art heist in history?",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVktXY1ptcV9DVEVDZFZkUW90alpfWWlab3FOcXFNVWREVE5aTnpHeGFnY255ZGdrZnltVVdRMkV6TEhWbGhOVzVNbE9ab1EydDg5ZndGTGFiN19IT09JNHl0WlZWakx2NVJSMDR2aFdkbS1ITl93V0g3Q3lFNGZla3BLUVlEelkwS2JGZTdB?oc=5",
+      "published": "2026-04-12T11:32:00",
+      "sentiment_score": -0.2,
+      "sentiment_label": "Neutral",
+      "confidence": 0.747
+    },
+    {
+      "headline": "Mutually Automated Destruction: The Escalating Global A.I. Arms Race",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDBmdkFTT05KYk9JNnJBdGlrRWt0NGFaOXZvUkFEak1QcmJJYzZ1c0F1WUt2SHhwZ1U5UlRPVVlOQ01tbU11ekhfLUpaS2sxTnMwb24zaDNtbkNCdDZ4cWUySFNmYktGWFNGQklzaEU5XzFNYmxmX1RjbDNLLXoydzFySQ?oc=5",
+      "published": "2026-04-12T09:00:32",
+      "sentiment_score": -0.28,
+      "sentiment_label": "Neutral",
+      "confidence": 0.661
+    },
     {
       "headline": "Can AI be a \u2018child of God\u2019? Inside Anthropic\u2019s meeting with Christian leaders.",
       "source": "The Washington Post",
@@ -135,13 +174,49 @@
       "confidence": 0.944
     },
     {
-      "headline": "OpenAI identifies security issue involving third-party tool, says user data was not accessed",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnU4UTdodW53WXFybnlRdHlud2JjQXNON1RmMndnV3dtdXlHeS12NlI2eTYxQ1RaOF9ZanY5RmZab0k1MVBRbjhSaWIwU0FCTVNPVXl5M0RxcmRVMUlVZi1vcjRPcWRYZ0JOcVZMVUIyYkMxUlJqMjRiOTlTaUxTUW1ZbHdLeHNNSm1ZTnpPc2Q3MnNicDNDR1V0cGhac3ZjMndDeVFVeDVRYzB4SmVkMHpjUVRmY280YjRZSXY5OVc?oc=5",
-      "published": "2026-04-11T02:04:00",
-      "sentiment_score": -0.447,
+      "headline": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
+      "source": "Wired",
+      "link": "https://www.wired.com/review/zuvi-colorbox/",
+      "published": "2026-04-11T12:11:00Z",
+      "sentiment_score": -0.08,
       "sentiment_label": "Neutral",
-      "confidence": 0.507
+      "confidence": 0.839
+    },
+    {
+      "headline": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
+      "published": "2026-04-11T12:00:01Z",
+      "sentiment_score": 0.085,
+      "sentiment_label": "Neutral",
+      "confidence": 0.886
+    },
+    {
+      "headline": "A $1 million Picasso is due to be sold for just $116 | CNN",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/04/11/style/pablo-picasso-raffle",
+      "published": "2026-04-11T10:00:55Z",
+      "sentiment_score": -0.029,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
+    {
+      "headline": "How the Internet Broke Everyone\u2019s Bullshit Detectors",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+      "published": "2026-04-11T09:30:00Z",
+      "sentiment_score": -0.902,
+      "sentiment_label": "Negative",
+      "confidence": 0.912
+    },
+    {
+      "headline": "OpenAI identifies security issue involving third-party tool",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/11/openai-identifies-security-issue-involving-third-party-tool.html",
+      "published": "2026-04-11T08:22:06Z",
+      "sentiment_score": -0.678,
+      "sentiment_label": "Negative",
+      "confidence": 0.704
     },
     {
       "headline": "Elon Musk\u2019s xAI faces fresh opposition after landing permit for Mississippi power plant",
@@ -162,15 +237,6 @@
       "confidence": 0.885
     },
     {
-      "headline": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/czx91rdxpyeo",
-      "published": "2026-04-10T21:06:38Z",
-      "sentiment_score": -0.026,
-      "sentiment_label": "Neutral",
-      "confidence": 0.931
-    },
-    {
       "headline": "The new show making fun of tech bros",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
@@ -189,24 +255,6 @@
       "confidence": 0.731
     },
     {
-      "headline": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman\u2019s house",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "published": "2026-04-10T20:16:57Z",
-      "sentiment_score": -0.766,
-      "sentiment_label": "Negative",
-      "confidence": 0.809
-    },
-    {
-      "headline": "Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/10/trump-white-house-ai-cyber-threat-anthropic-mythos.html",
-      "published": "2026-04-10T20:08:04Z",
-      "sentiment_score": 0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.815
-    },
-    {
       "headline": "OpenAI Accused of Encouraging Stalker\u2019s Delusion Through ChatGPT",
       "source": "Bloomberg Law News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2FpN0t2djk2SXpGMWNHUTJtcmxPMmsycEJhZjFMMS1tZ1V5OG00bURCQVhXM202WDRMMjRjTmxaUzJ1alhWNXVsVmpvMGM0UzdxSkM4NXdVRmtsNDBlT2ZhaVpIeVpmd0szekZzMFJjQkp1M3dWWWktandQcURTMHdQQUN6Y2U4a1VmOFoySGNWS0d5TnB2QlpMN3ZlalNFdHhWOFRRbw?oc=5",
@@ -214,15 +262,6 @@
       "sentiment_score": -0.291,
       "sentiment_label": "Neutral",
       "confidence": 0.638
-    },
-    {
-      "headline": "Sam Altman's house hit with Molotov cocktail, OpenAI San Francisco headquarters threatened",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
-      "published": "2026-04-10T19:53:16Z",
-      "sentiment_score": -0.883,
-      "sentiment_label": "Negative",
-      "confidence": 0.9
     },
     {
       "headline": "EU weighing tighter regulation for OpenAI under Digital Services Act",
@@ -250,6 +289,15 @@
       "sentiment_score": 0.207,
       "sentiment_label": "Neutral",
       "confidence": 0.762
+    },
+    {
+      "headline": "The AI code wars are heating up",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "published": "2026-04-10T17:45:28Z",
+      "sentiment_score": -0.045,
+      "sentiment_label": "Neutral",
+      "confidence": 0.852
     },
     {
       "headline": "The Iranian Lego AI video creators credit their virality to \u2018heart\u2019",
@@ -288,15 +336,6 @@
       "confidence": 0.954
     },
     {
-      "headline": "How scared of AI should we be? A new documentary film from an Oscar winner seeks answer",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/10/ai-fear-openai-anthropic-google-deepmind-documentary-film.html",
-      "published": "2026-04-10T14:22:35Z",
-      "sentiment_score": 0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
-    },
-    {
       "headline": "Dancer with MND performs on stage again through digital avatar",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
@@ -306,31 +345,13 @@
       "confidence": 0.751
     },
     {
-      "headline": "AI products are reaching further into our lives. Does it matter who controls the companies behind them? | Van Badham",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3ZpenRlMzFGY1NUbDdfNVZvN1IzT3N4WFZQd3VzUEV6X3FJOGtPTnFGbm1Vb0R6cng2bWx4cWFMVUljUTIyT2QwMDhBdW0xV2ZsMGVCYnZYR3JFSi0zU09xQXVaUUpIR2U3a3RjSjdwY2JnRk16M3BWNW5jcWVQclhTeUZRWndwb3pIc3Y0UHUzX1dkSkhTUWpKVHJkT0pH?oc=5",
-      "published": "2026-04-10T07:21:00",
-      "sentiment_score": -0.011,
+      "headline": "ChatGPT finally offers $100/month Pro plan",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtT1pRRkRpbmJiU2lFbWdURW83Tk0tXy1XLU5YNVozLVZsaXJJcGgtSW5lMXZqcEhmSXpjNXdsMkwwbG91bXJ0bFlzWVZUN3hXS3JwLXpfalpXZm5yd0xNV3VTQWlBX2Q4MnFadFZ1T3NGdWt5VlE?oc=5",
+      "published": "2026-04-09T21:29:11",
+      "sentiment_score": 0.244,
       "sentiment_label": "Neutral",
-      "confidence": 0.941
-    },
-    {
-      "headline": "Chinese startup ShengShu raises $293 million to advance artificial general intelligence",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkdpSnVHajVGdVFmY0l2X0F1T1Jia2pkY3Z4RnIzVGhBMkRuSzRKcWN1c2poQUNXb0FDZDdtcWtwS3pSckNPZzRCUVhnVW9xVjV1SnUtcTBYaHVWVlF3Y1JxcEprazRkcDR3NFJIb0VKSlMzRWZMV3VOa252bTFfTGYwWkZUSkxwZzJxbGVmUjhONlRkX3NPYzJLOUstbDlHRl9LVms4dEl3T2tDeWFWSDg3N18tTnZIUVNjckxFSGk3YWM?oc=5",
-      "published": "2026-04-10T01:31:00",
-      "sentiment_score": 0.295,
-      "sentiment_label": "Neutral",
-      "confidence": 0.682
-    },
-    {
-      "headline": "ChatGPT has a new $100 per month Pro subscription",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenVDTmxLaFh1V1FwaDRPeG9iaDExdms0Q2dHZEQ5dHJVd1FzZTdwdldKelpyelh5SzBlcWt2Ym5DWjRXRHlEVEtOcm5FN3I4cVNydjlkY1dDVkczZXZZM2pnMjh2R29tNjVsVVEwRS1IdWRCbjE3bE5HSTN6RE93Q1VaOEV2SFJQYmNTUnI5M2I?oc=5",
-      "published": "2026-04-09T22:57:15",
-      "sentiment_score": 0.128,
-      "sentiment_label": "Neutral",
-      "confidence": 0.849
+      "confidence": 0.712
     },
     {
       "headline": "Florida AG Investigates OpenAI, ChatGPT, Citing National Security Risks, FSU Shooting",
