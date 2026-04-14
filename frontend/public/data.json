@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-13T19:03:27.195954",
-  "total_articles": 32,
-  "overall_sentiment": -0.232,
+  "last_updated": "2026-04-14T01:31:29.913430",
+  "total_articles": 38,
+  "overall_sentiment": -0.274,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,12 +51,12 @@
     },
     {
       "date": "2026-04-09",
-      "avg_sentiment": -0.029,
-      "article_count": 7,
-      "positive_count": 4,
-      "negative_count": 3,
+      "avg_sentiment": -0.021,
+      "article_count": 5,
+      "positive_count": 3,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.316
+      "moving_avg": -0.314
     },
     {
       "date": "2026-04-10",
@@ -65,7 +65,7 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.35
+      "moving_avg": -0.349
     },
     {
       "date": "2026-04-11",
@@ -74,57 +74,72 @@
       "positive_count": 2,
       "negative_count": 4,
       "neutral_count": 2,
-      "moving_avg": -0.252
+      "moving_avg": -0.251
     },
     {
       "date": "2026-04-12",
-      "avg_sentiment": 0.009,
-      "article_count": 2,
+      "avg_sentiment": -0.087,
+      "article_count": 3,
       "positive_count": 0,
-      "negative_count": 0,
+      "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.248
+      "moving_avg": -0.26
     },
     {
       "date": "2026-04-13",
-      "avg_sentiment": -0.24,
-      "article_count": 5,
+      "avg_sentiment": -0.326,
+      "article_count": 9,
       "positive_count": 1,
-      "negative_count": 3,
+      "negative_count": 7,
       "neutral_count": 1,
-      "moving_avg": -0.298
+      "moving_avg": -0.323
+    },
+    {
+      "date": "2026-04-14",
+      "avg_sentiment": -0.351,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.313
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.221,
-      "article_count": 11,
+      "avg_sentiment": -0.255,
+      "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.205,
-      "article_count": 5,
+      "avg_sentiment": -0.152,
+      "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.318,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.364,
-      "article_count": 3,
+      "avg_sentiment": -0.326,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.02,
+      "avg_sentiment": -0.057,
       "article_count": 3,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.279,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.579,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Wired",
@@ -135,6 +150,60 @@
   ],
   "articles": [
     {
+      "headline": "Man charged with firebomb attempt at home of OpenAI CEO Sam Altman",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEVoYTVTZXd6M0dqb1NmVk5LSlBRZGJRVDE2VTlTWEFnUDREaHA4MWVvMHZJZkNKR1lvSFZzNm81V2Z6eVNRZXVqcEFXN3ZTNlplYVU0dk5LYVpuVGVXZW1BTkNpNWRRczNLZE56VjhWWjdtRzBHNjd2M3c0eHNrWU1rZ2R3T0k3Q0xURkFzbnY5dTM3?oc=5",
+      "published": "2026-04-14T01:26:30",
+      "sentiment_score": -0.539,
+      "sentiment_label": "Negative",
+      "confidence": 0.565
+    },
+    {
+      "headline": "Man charged with attempted murder in attack on home of OpenAI's Sam Altman",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-14T01:05:54",
+      "sentiment_score": -0.626,
+      "sentiment_label": "Negative",
+      "confidence": 0.652
+    },
+    {
+      "headline": "OpenAI has bought AI personal finance startup Hiro",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVlKUndodXlWSzdiajl5emJ0RFdURmgwa2lJQm9QZDZ5VXlZUi16RlRKaVp3c19qUmtleVhhUmFUV05QaVZsOF9rWks2aXZvTjVORXJQazE3MVA4NF9CMERISmRQX3Rkbl9falZrRFVWYlBVU3dhR1U2OXFkVkJuMnFPMHJpWFVscHZiU0Fn?oc=5",
+      "published": "2026-04-14T00:23:33",
+      "sentiment_score": 0.113,
+      "sentiment_label": "Neutral",
+      "confidence": 0.865
+    },
+    {
+      "headline": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJUHlDQ1VKZG1ob2Ewd1doRUZCNkU5ajRVWm56NXFCRmxJMU1nM1I0aGNLRWc1ZERTdXdPSjVoSjVjOHYxX19WMk5FRmNQZFQ3UnpfSlpJZnQyc29Ib01JOUtVdnJCRko0c0dPZnREQmPSAXZBVV95cUxQNG5YYnlLYzNxdFN3UjJ6VFRUQm0wZEpFN0FBS0JpQklFT0x3OXg5OFhncU83aXNpSy1Jb05IbEc4ay12eXA3YjJKSUZwOUk3Sm8ydi1Oc3ZwU3liMmwzaE9Ud0lEMnU2ZHJVMktBeUR3bXM4MHln?oc=5",
+      "published": "2026-04-13T23:27:13",
+      "sentiment_score": -0.36,
+      "sentiment_label": "Neutral",
+      "confidence": 0.571
+    },
+    {
+      "headline": "Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEtBMGxPbnh2MkhkM2tnSGZHdzh3WlU5MklLeUpmdkpJaDZfb29mZ2ZoSHZxV0NHUEhodVBOUXlzbEdPcWRpV0dhWmpBTHZnMHhQY2tobkpHNjNxTWlOazNvaldTeVM1aVBJNTRwVXdjTDFrTTdVS1J2eEtrVGpnSDVpd2ZTZlJPODRZb1V0SHdtbEJz?oc=5",
+      "published": "2026-04-13T22:28:00",
+      "sentiment_score": -0.676,
+      "sentiment_label": "Negative",
+      "confidence": 0.698
+    },
+    {
+      "headline": "ChatGPT Account of Alleged Stalker to Remain Blocked, Judge Says",
+      "source": "Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXA1M2ZNdi1uU3QySC1TcEdhOXMyZTJVQlNGakxVUmZuVndUaVRkZzEtQVRMSG5QRGViblZ5emhwS2lOU0VkSnFuRjRYT1hRQ0E3Ym9DM2NQZGNJaHZWaXJ4dUYwWmgyRnBVcWdvd2MxSklXajZURm9tS1NTZ3BKRXlFSEN2QVNsLVlNMVd1YldvUDIydkxlSjA4aHVmY3BCSEJjU0tTekdKcDVBN0VtVHBvcnFWa0hoOFpR?oc=5",
+      "published": "2026-04-13T20:38:00",
+      "sentiment_score": -0.608,
+      "sentiment_label": "Negative",
+      "confidence": 0.625
+    },
+    {
       "headline": "Don\u2019t make Marshal Foch\u2019s mistake on AI | Letters",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlNZNEl4MHFac19CNWRYUzRGWnRuQ3hIdFZSaWxNejB2QnVoa2RjZUlhZy1qb0d4VHdVY1QyOTRtcDlQWkltSExSbHNuZk9CZHVUZVRsazR0YXBOaEtDVjFqR0p1UExpZnBkbjNOVktmeU9wLWZqY3NJU24wLVhNci1DREExeUtXUXhaTWpPZERVdw?oc=5",
@@ -142,6 +211,15 @@
       "sentiment_score": -0.15,
       "sentiment_label": "Neutral",
       "confidence": 0.762
+    },
+    {
+      "headline": "COSO Releases Generative AI Internal Control Guidance",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVkyZS1QdEhBX3pRRDR4d09EdktTRVRRU3pJMkx6akcyeTFuS3NVakNmLVY5ZEpWNENWUmtEbWlfa0RXYU43NUk0Q3VteXZMTHFHOWdXWDZUVVJ3OGNqS1dJMGtQRklFc1N6Vll1UzZHLVlZbWRZMlRyaERqZk90RFBSdUlMbEFkS0JoM1hwNThaSFE1eWc?oc=5",
+      "published": "2026-04-13T16:00:00",
+      "sentiment_score": 0.024,
+      "sentiment_label": "Neutral",
+      "confidence": 0.921
     },
     {
       "headline": "GTA-maker Rockstar Games hacked again but downplays impact",
@@ -171,13 +249,13 @@
       "confidence": 0.776
     },
     {
-      "headline": "Opinion | I Went to China to See Their Progress on A.I. We Can\u2019t Beat Them.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGFDVnpNUTQ2emZQQk1pcjRRdGVvOTJzLUEzanV3ZlY4azU5cTZzcTRCWjdLbFhMRHprSHpxZWpYLVEwSjZKLW1FeW8tQ3Y0RzZnem5YanlpSXM3NnRuZWxobWFQTUpoOFEwOUxpMlZvYlVqUHM2YjhhSG02d29aeg?oc=5",
-      "published": "2026-04-13T09:02:39",
-      "sentiment_score": 0.011,
+      "headline": "Did Neuralink make the wrong bet?",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+      "published": "2026-04-13T00:25:56Z",
+      "sentiment_score": -0.102,
       "sentiment_label": "Neutral",
-      "confidence": 0.889
+      "confidence": 0.79
     },
     {
       "headline": "From LLMs to hallucinations, here's a simple guide to common AI terms | TechCrunch",
@@ -196,6 +274,15 @@
       "sentiment_score": -0.006,
       "sentiment_label": "Neutral",
       "confidence": 0.95
+    },
+    {
+      "headline": "Mutually Automated Destruction: The Escalating Global A.I. Arms Race",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDBmdkFTT05KYk9JNnJBdGlrRWt0NGFaOXZvUkFEak1QcmJJYzZ1c0F1WUt2SHhwZ1U5UlRPVVlOQ01tbU11ekhfLUpaS2sxTnMwb24zaDNtbkNCdDZ4cWUySFNmYktGWFNGQklzaEU5XzFNYmxmX1RjbDNLLXoydzFySQ?oc=5",
+      "published": "2026-04-12T09:00:33",
+      "sentiment_score": -0.28,
+      "sentiment_label": "Neutral",
+      "confidence": 0.661
     },
     {
       "headline": "England far from perfect but Red Roses machine marches on",
@@ -306,24 +393,6 @@
       "confidence": 0.751
     },
     {
-      "headline": "ChatGPT has a new $100 per month Pro subscription",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenVDTmxLaFh1V1FwaDRPeG9iaDExdms0Q2dHZEQ5dHJVd1FzZTdwdldKelpyelh5SzBlcWt2Ym5DWjRXRHlEVEtOcm5FN3I4cVNydjlkY1dDVkczZXZZM2pnMjh2R29tNjVsVVEwRS1IdWRCbjE3bE5HSTN6RE93Q1VaOEV2SFJQYmNTUnI5M2I?oc=5",
-      "published": "2026-04-09T22:57:15",
-      "sentiment_score": 0.128,
-      "sentiment_label": "Neutral",
-      "confidence": 0.849
-    },
-    {
-      "headline": "Florida Investigates Whether ChatGPT Helped a Campus Shooting Suspect",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnhTZEk3ZlIwRFFJWTNIT2ZVdDJKS1UzTTJRYkZfUHNKcXVNTENYSTh4N1c2dWd5c3IxRHd2TzIxc1FjMXJOVHBvU3B1WkZoeUdIWjAtWXhXTGI3a3kyY1lOcnJUaWxSRHhXRGxaUHVmdlUtdmdaVTNqMDJBUnVkcnFKOXZrYjVQT0pMQmJpZ3labHFqNnIw?oc=5",
-      "published": "2026-04-09T22:04:00",
-      "sentiment_score": -0.225,
-      "sentiment_label": "Neutral",
-      "confidence": 0.718
-    },
-    {
       "headline": "ChatGPT finally offers $100/month Pro plan",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtT1pRRkRpbmJiU2lFbWdURW83Tk0tXy1XLU5YNVozLVZsaXJJcGgtSW5lMXZqcEhmSXpjNXdsMkwwbG91bXJ0bFlzWVZUN3hXS3JwLXpfalpXZm5yd0xNV3VTQWlBX2Q4MnFadFZ1T3NGdWt5VlE?oc=5",
@@ -362,7 +431,7 @@
     {
       "headline": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc29GSW5wTkFKN1h2MXNEeF9kVWxsazdlYXc5V3VSTjJRRGxkbXJycC1hU1d3dTctRTh1QUU4WUxKbFhRZFZYdXFaYTVvT2N6NXUwYzYyVm02ZlJrMk53T2dqdU1SNkJmZ2tyOUFyZDNQZVl5NVNyX1FaeVd3dkRJS2xvVC15MnZGeG1IamttODdXckdt0gGaAUFVX3lxTE9PY2xydm54S2Zyd1d6MUdqeWZ1R1hkcVZBTFpEdXRIRV8xQUplRnNRSGRJckFieUxnWGJLcTU5U0dCVkVOc01QVlFfVlo4aHhaVUdnR1l1TVFZY2JwSGMzNzNaVzdhQUFmRG5zZkdsdTNaOFg5Tld0VlFJNDlJYjNwSFlYTGM2a2hXOFRoMTV6S3JNYnNSRTlIaGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc29GSW5wTkFKN1h2MXNEeF9kVWxsazdlYXc5V3VSTjJRRGxkbXJycC1hU1d3dTctRTh1QUU4WUxKbFhRZFZYdXFaYTVvT2N6NXUwYzYyVm02ZlJrMk53T2dqdU1SNkJmZ2tyOUFyZDNQZVl5NVNyX1FaeVd3dkRJS2xvVC15MnZGeG1IamttODdXckdt?oc=5",
       "published": "2026-04-09T19:06:41",
       "sentiment_score": 0.232,
       "sentiment_label": "Neutral",
