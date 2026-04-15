@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-04-14T19:01:00.315263",
-  "total_articles": 33,
-  "overall_sentiment": -0.17,
+  "last_updated": "2026-04-15T01:28:23.372919",
+  "total_articles": 34,
+  "overall_sentiment": -0.177,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.878
+    },
     {
       "date": "2026-03-27",
       "avg_sentiment": -0.02,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.02
+      "moving_avg": -0.449
     },
     {
       "date": "2026-04-04",
@@ -20,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.046
+      "moving_avg": -0.262
     },
     {
       "date": "2026-04-07",
@@ -29,61 +38,61 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.06
+      "moving_avg": -0.174
     },
     {
       "date": "2026-04-09",
-      "avg_sentiment": -0.136,
-      "article_count": 5,
+      "avg_sentiment": 0.043,
+      "article_count": 3,
       "positive_count": 2,
-      "negative_count": 3,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.011
+      "moving_avg": -0.131
     },
     {
       "date": "2026-04-10",
-      "avg_sentiment": -0.554,
-      "article_count": 4,
+      "avg_sentiment": -0.522,
+      "article_count": 3,
       "positive_count": 1,
-      "negative_count": 3,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.102
-    },
-    {
-      "date": "2026-04-11",
-      "avg_sentiment": 0.124,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.064
+      "moving_avg": -0.196
     },
     {
       "date": "2026-04-12",
-      "avg_sentiment": 0.024,
-      "article_count": 1,
+      "avg_sentiment": 0.006,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.052
+      "neutral_count": 2,
+      "moving_avg": -0.167
     },
     {
       "date": "2026-04-13",
-      "avg_sentiment": -0.194,
+      "avg_sentiment": -0.22,
       "article_count": 13,
       "positive_count": 5,
-      "negative_count": 7,
-      "neutral_count": 1,
-      "moving_avg": -0.077
+      "negative_count": 6,
+      "neutral_count": 2,
+      "moving_avg": -0.073
     },
     {
       "date": "2026-04-14",
-      "avg_sentiment": -0.089,
-      "article_count": 6,
-      "positive_count": 2,
-      "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.105
+      "avg_sentiment": -0.142,
+      "article_count": 8,
+      "positive_count": 3,
+      "negative_count": 5,
+      "neutral_count": 0,
+      "moving_avg": -0.091
+    },
+    {
+      "date": "2026-04-15",
+      "avg_sentiment": 0.083,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.095
     }
   ],
   "source_stats": [
@@ -95,53 +104,71 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.329,
+      "avg_sentiment": -0.143,
       "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
+      "source": "The Verge",
+      "avg_sentiment": 0.062,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "CNBC",
-      "avg_sentiment": -0.37,
-      "article_count": 4,
+      "avg_sentiment": -0.753,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.398,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "WSJ",
-      "avg_sentiment": 0.072,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.323,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.328,
+      "avg_sentiment": 0.4,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "AI & Tech Brief: The Oracle playbook",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUXFycVNsOXU5SXpWOGc0eFBhcWE1dUN0clkwRnhncjd3MG12ZEdRd0ZFMUZDeGJ2UUVCdEZhbkJiQ3FzTWFVTUdRZHc5VHU2QXl0Y3dvZGNvSXJrYWdsSWxvdW5zbEdNbUFRc0NxbGwtZFNNSTNoaU5zdFFmeTluYVdEY3RUcUlwRnZabDhmMmcteFRCUl9nem5CVTVjNjVFTG5xNQ?oc=5",
-      "published": "2026-04-14T18:54:17",
-      "sentiment_score": 0.011,
+      "headline": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUZubVVSNlNLekg1ZEVvcDlweXlKc05abXFIaS1rU1FkZy1aelczZG4yZnlnN1pjQzc1YkJEdGtMNWdkMWIyZFowUExNMU8xT2x5VGRtQ3I3SmM2NEM4MWtWMDVzdl9EbFBGVEV5VGstcE1UT204ek5XNnBUek5meFprTVJtSWxnUzMw?oc=5",
+      "published": "2026-04-15T00:25:41",
+      "sentiment_score": 0.083,
       "sentiment_label": "Neutral",
-      "confidence": 0.936
+      "confidence": 0.897
     },
     {
-      "headline": "I Feel So Sorry for My A.I. Sunglasses",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaThwVlFsS2hka0t0SDVrdVcxbEs5VXpFd0hwUEhrVzhUSDB5T2xBemF0bEp1UW5lQnA5S21lVzhfNW5SVXFEWTRWT2cxYVJkdGdUNUhSb1l5SjRqelA5RmMxeTZVYUVwRnVXYVRQc2hzZGdKR1hueWVKNkp2R2h2ZURkbXY?oc=5",
-      "published": "2026-04-14T17:02:45",
-      "sentiment_score": -0.43,
+      "headline": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFBrUjJkQU4zTEFJX0I1eWZiZUdNZ2VRTHdoaFZWVFFzcGpEZG1rSVVlTy1DZjJ4M1Z0bTBmZmYwSnhNNW5BM2NrWHQ5cnFPOTdoWlB1ZWFHZUZELXMyR2RLcWtXX2pqUFNhRUpnZmNHVHNmZllKcjU5MnZGVmxzd3I5SG04VzFnSHR6UnU5WkkyZXpOOGhoZ1VxYzhsMWxCSDAzbEY0aG1FTk9Ca29IVnR0TU4?oc=5",
+      "published": "2026-04-14T21:26:43",
+      "sentiment_score": 0.097,
       "sentiment_label": "Neutral",
-      "confidence": 0.494
+      "confidence": 0.869
+    },
+    {
+      "headline": "Bosses say AI boosts productivity \u2013 workers say they\u2019re drowning in \u2018workslop\u2019",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTBreThrYWZ4OG5BVmlnczRQellsb3h2Q1I0a05lbHV3MHotS09hS0M1cFRNZHZMLVZHMHZQSm0xaE1sTmlQOUhucl9hRTZkckNac2d5cGhjVlJjWFhLbHlPb1JMeHN6ZG1GVGlQNWVUTnRqc0xVZzdybDRINFEyOWthNVFaQ0J5LVQ4?oc=5",
+      "published": "2026-04-14T20:33:00",
+      "sentiment_score": -0.149,
+      "sentiment_label": "Neutral",
+      "confidence": 0.634
+    },
+    {
+      "headline": "Attempted fire-bombing has tech titans worried about AI backlash",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWRIN2VsMjVTTF9QSHltdFRCbktNcG1FM2ZsWEZYYkQ3QzR0N3g1TENJLWk5WFdmWmtDcnZGZ3hYajFfOEdGVjJFU3E4WEJwQVAxSnlpTExhT3pOUG5sZlQ3b09GcURuYklfT0NDUjQ5NVRHX2xtUVZ2VnJPUkVTdDRuZHMza0RIWWRDWQ?oc=5",
+      "published": "2026-04-14T16:00:00",
+      "sentiment_score": -0.751,
+      "sentiment_label": "Negative",
+      "confidence": 0.772
     },
     {
       "headline": "OpenAI Must Defend Federal Suit Over ChatGPT-Linked Deaths (2)",
@@ -171,13 +198,58 @@
       "confidence": 0.704
     },
     {
-      "headline": "OpenAI has bought AI personal finance startup Hiro",
+      "headline": "OpenAI has bought AI personal finance startup Hiro | TechCrunch",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVlKUndodXlWSzdiajl5emJ0RFdURmgwa2lJQm9QZDZ5VXlZUi16RlRKaVp3c19qUmtleVhhUmFUV05QaVZsOF9rWks2aXZvTjVORXJQazE3MVA4NF9CMERISmRQX3Rkbl9falZrRFVWYlBVU3dhR1U2OXFkVkJuMnFPMHJpWFVscHZiU0Fn?oc=5",
-      "published": "2026-04-14T00:23:33",
-      "sentiment_score": 0.113,
+      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "published": "2026-04-14T00:25:41Z",
+      "sentiment_score": 0.589,
+      "sentiment_label": "Positive",
+      "confidence": 0.597
+    },
+    {
+      "headline": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman\u2019s home and OpenAI\u2019s HQ",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "published": "2026-04-14T00:02:38Z",
+      "sentiment_score": -0.696,
+      "sentiment_label": "Negative",
+      "confidence": 0.725
+    },
+    {
+      "headline": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+      "published": "2026-04-13T23:37:38Z",
+      "sentiment_score": 0.211,
       "sentiment_label": "Neutral",
-      "confidence": 0.865
+      "confidence": 0.769
+    },
+    {
+      "headline": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
+      "published": "2026-04-13T23:27:13Z",
+      "sentiment_score": -0.502,
+      "sentiment_label": "Negative",
+      "confidence": 0.542
+    },
+    {
+      "headline": "Suspect in attack at Sam Altman\u2019s house charged with attempted murder and attempted arson | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges",
+      "published": "2026-04-13T22:56:45Z",
+      "sentiment_score": -0.732,
+      "sentiment_label": "Negative",
+      "confidence": 0.756
+    },
+    {
+      "headline": "AI influencers are \u2018everywhere\u2019 at Coachella",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "published": "2026-04-13T19:59:42Z",
+      "sentiment_score": 0.037,
+      "sentiment_label": "Neutral",
+      "confidence": 0.919
     },
     {
       "headline": "Stanford report highlights growing disconnect between AI insiders and everyone else | TechCrunch",
@@ -198,15 +270,6 @@
       "confidence": 0.968
     },
     {
-      "headline": "Trump deletes Truth Social image depicting him as Jesus: 'I thought it was me as a doctor'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
-      "published": "2026-04-13T16:49:21Z",
-      "sentiment_score": -0.656,
-      "sentiment_label": "Negative",
-      "confidence": 0.675
-    },
-    {
       "headline": "OpenAI executive sends internal memo: \u2018The market is as competitive as I have ever seen it\u2019",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
@@ -214,24 +277,6 @@
       "sentiment_score": 0.791,
       "sentiment_label": "Positive",
       "confidence": 0.801
-    },
-    {
-      "headline": "Intel's stock is on track for a historic 9-day winning streak, up 56% over that run",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/13/intel-stock-historic-winning-streak.html",
-      "published": "2026-04-13T16:15:27Z",
-      "sentiment_score": 0.93,
-      "sentiment_label": "Positive",
-      "confidence": 0.948
-    },
-    {
-      "headline": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
-      "published": "2026-04-13T16:01:30Z",
-      "sentiment_score": -0.725,
-      "sentiment_label": "Negative",
-      "confidence": 0.744
     },
     {
       "headline": "COSO Releases Generative AI Internal Control Guidance",
@@ -259,15 +304,6 @@
       "sentiment_score": -0.914,
       "sentiment_label": "Negative",
       "confidence": 0.928
-    },
-    {
-      "headline": "Is AI the greatest art heist in history?",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVktXY1ptcV9DVEVDZFZkUW90alpfWWlab3FOcXFNVWREVE5aTnpHeGFnY255ZGdrZnltVVdRMkV6TEhWbGhOVzVNbE9ab1EydDg5ZndGTGFiN19IT09JNHl0WlZWakx2NVJSMDR2aFdkbS1ITl93V0g3Q3lFNGZla3BLUVlEelkwS2JGZTdB?oc=5",
-      "published": "2026-04-13T13:28:00",
-      "sentiment_score": -0.2,
-      "sentiment_label": "Neutral",
-      "confidence": 0.747
     },
     {
       "headline": "Can Puck reinvent the news business for the influencer age?",
@@ -306,13 +342,13 @@
       "confidence": 0.926
     },
     {
-      "headline": "Anthropic closes in on OpenAI as US business use surges",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVJIZE1vTWNUYmc0T2RHTjhOYTFxcHE1VHotVDVwLTFJR1k0Vm52MFAtMXBRMy1sOEVjTzhObEhVOFpXRVJUNEZ2ei14QkJ1eHIwc055TlgxSE9Vai1jT1dnY2g2V2NVQXdUc0tHVFZmZ3JPODhPVjZPMlNXN25hMTV5dDU?oc=5",
-      "published": "2026-04-11T04:02:17",
-      "sentiment_score": 0.124,
-      "sentiment_label": "Positive",
-      "confidence": 0.479
+      "headline": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2tFa2ZVdEpGOUxCU0dlbi1tSEJsVTJyTEhOLXgxZWhIRUVVZzhVWm9VV3pSSlV0aWNUMV94cERVNWU2aTZ1cUFmUEpZRW8xczFBV1lkdmMxQmJzeEFfNWtwUWM5WjN2UVZTR0RyQndTc3RJbV9Ec25ObXlfcF9FNmlUMlBjYk50b3VIcEZZenJzcVBlWDVEYjV3eUs2WTRiaWRnRTFMcVBmc1pSX09pcENldzFmYVF5aXc?oc=5",
+      "published": "2026-04-12T15:07:08",
+      "sentiment_score": -0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.932
     },
     {
       "headline": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
@@ -322,15 +358,6 @@
       "sentiment_score": -0.844,
       "sentiment_label": "Negative",
       "confidence": 0.872
-    },
-    {
-      "headline": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHYybXdkd0h4cGpCYjZQV2NvV2ZFcFhqQVd1bFdtNG81NzlDN0o4NDVlQzB0MGFUMkozUDd3dTh2WXUydnRkQ21QczdmcU1DSGcyNWl5Z2otVHlZRzhzOGhwWmZPWE5yZVl0TXFDYVFrWVo0cXlqSVFoVlo0dG9ISGxYNHd2RUg4azVmSkx2eDg3c2V0LTJJSDlEMjJqdkI3aDFzWG9IbXE5MjVONW40VEk4dFNkcnlJcnlZTmlPbUZtZFhMSWRmZlc4RQ?oc=5",
-      "published": "2026-04-10T16:41:34",
-      "sentiment_score": -0.651,
-      "sentiment_label": "Negative",
-      "confidence": 0.677
     },
     {
       "headline": "Mayor warns of London 'disinformation blizzard'",
@@ -358,24 +385,6 @@
       "sentiment_score": 0.128,
       "sentiment_label": "Neutral",
       "confidence": 0.849
-    },
-    {
-      "headline": "Florida Investigates Whether ChatGPT Helped a Campus Shooting Suspect",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnhTZEk3ZlIwRFFJWTNIT2ZVdDJKS1UzTTJRYkZfUHNKcXVNTENYSTh4N1c2dWd5c3IxRHd2TzIxc1FjMXJOVHBvU3B1WkZoeUdIWjAtWXhXTGI3a3kyY1lOcnJUaWxSRHhXRGxaUHVmdlUtdmdaVTNqMDJBUnVkcnFKOXZrYjVQT0pMQmJpZ3labHFqNnIw?oc=5",
-      "published": "2026-04-09T22:04:00",
-      "sentiment_score": -0.225,
-      "sentiment_label": "Neutral",
-      "confidence": 0.718
-    },
-    {
-      "headline": "Florida AG Investigates OpenAI, ChatGPT, Citing National Security Risks, FSU Shooting",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNV8wVnlOdWZYc1dUY0h6endGbkpoX29YNzFNRlpIRjY2QW9LRURsSHZ1TWY2TGRIa2FjQ0hWSWdncUtsVjc3WVNaWUNXSEtNZ1RjQmJXYmRpZGVlRG41RHdnNjlwanlmZUxfSnJYa0pMeURTRkRybWIxZzQwMERIZWswXzExazlyWTVkaFp2R1BOYVJuSW9sOFNHazFOZDhIT0ZyREt6bGpDUmZjSmlraTBEMUlBenhwVUdB?oc=5",
-      "published": "2026-04-09T21:17:00",
-      "sentiment_score": -0.583,
-      "sentiment_label": "Negative",
-      "confidence": 0.627
     },
     {
       "headline": "OpenAI pauses UK data centre deal over energy costs and regulation",
@@ -421,6 +430,15 @@
       "sentiment_score": -0.02,
       "sentiment_label": "Neutral",
       "confidence": 0.932
+    },
+    {
+      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
+      "published": "2026-02-11T08:00:00",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     }
   ]
 }
