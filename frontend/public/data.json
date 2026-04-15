@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T01:28:23.372919",
-  "total_articles": 34,
-  "overall_sentiment": -0.177,
+  "last_updated": "2026-04-15T07:20:20.814598",
+  "total_articles": 35,
+  "overall_sentiment": -0.15,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,13 +23,22 @@
       "moving_avg": -0.449
     },
     {
+      "date": "2026-03-31",
+      "avg_sentiment": -0.837,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.578
+    },
+    {
       "date": "2026-04-04",
       "avg_sentiment": 0.112,
       "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.262
+      "moving_avg": -0.406
     },
     {
       "date": "2026-04-07",
@@ -38,16 +47,16 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.174
+      "moving_avg": -0.307
     },
     {
       "date": "2026-04-09",
-      "avg_sentiment": 0.043,
-      "article_count": 3,
-      "positive_count": 2,
-      "negative_count": 1,
+      "avg_sentiment": -0.302,
+      "article_count": 4,
+      "positive_count": 1,
+      "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.131
+      "moving_avg": -0.306
     },
     {
       "date": "2026-04-10",
@@ -56,89 +65,107 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.196
-    },
-    {
-      "date": "2026-04-12",
-      "avg_sentiment": 0.006,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.167
+      "moving_avg": -0.337
     },
     {
       "date": "2026-04-13",
-      "avg_sentiment": -0.22,
-      "article_count": 13,
-      "positive_count": 5,
-      "negative_count": 6,
+      "avg_sentiment": -0.126,
+      "article_count": 11,
+      "positive_count": 4,
+      "negative_count": 5,
       "neutral_count": 2,
-      "moving_avg": -0.073
+      "moving_avg": -0.23
     },
     {
       "date": "2026-04-14",
-      "avg_sentiment": -0.142,
-      "article_count": 8,
-      "positive_count": 3,
-      "negative_count": 5,
-      "neutral_count": 0,
-      "moving_avg": -0.091
+      "avg_sentiment": 0.038,
+      "article_count": 11,
+      "positive_count": 6,
+      "negative_count": 4,
+      "neutral_count": 1,
+      "moving_avg": -0.221
     },
     {
       "date": "2026-04-15",
-      "avg_sentiment": 0.083,
+      "avg_sentiment": 0.038,
       "article_count": 1,
-      "positive_count": 1,
+      "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.095
+      "neutral_count": 1,
+      "moving_avg": -0.096
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.173,
-      "article_count": 9,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.143,
-      "article_count": 6,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.062,
-      "article_count": 5,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.753,
-      "article_count": 3,
+      "avg_sentiment": -0.274,
+      "article_count": 8,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.398,
-      "article_count": 2,
+      "avg_sentiment": -0.362,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
+      "source": "CNBC",
+      "avg_sentiment": -0.048,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.046,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
+    },
+    {
       "source": "WSJ",
-      "avg_sentiment": 0.4,
+      "avg_sentiment": 0.072,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.019,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.068,
       "article_count": 2,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "WIRED",
+      "avg_sentiment": 0.038,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.518,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3dqQ0UtTjhzTnZrd1YxcGJMTzR0Rmhha3lCaU9raENRaFlnUXlEckh5RjhMU2NBYXU1MC04bzk0YmF6LWZGZFRqRWJRdG9GRlZzZE5QV0NLaXczaS1Lb2dkd3M2Q2tlUEdEZWZfTmZvQ0xPVmdGU2ZBQS1nZUdnbkZPWWljcnk4QUVIcTNBUnVEcEJEOTBpcjROSjBwaWZvSEZGa1k1eU1ZWXBPN21NTEJzY2RXZkdXY1hLOUZqQ2FNWm5oMWp3Q29ueHJKRzRyLUx1cGdB?oc=5",
+      "published": "2026-04-15T03:03:00",
+      "sentiment_score": 0.038,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
+    },
+    {
       "headline": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUZubVVSNlNLekg1ZEVvcDlweXlKc05abXFIaS1rU1FkZy1aelczZG4yZnlnN1pjQzc1YkJEdGtMNWdkMWIyZFowUExNMU8xT2x5VGRtQ3I3SmM2NEM4MWtWMDVzdl9EbFBGVEV5VGstcE1UT204ek5XNnBUek5meFprTVJtSWxnUzMw?oc=5",
-      "published": "2026-04-15T00:25:41",
+      "published": "2026-04-14T23:59:57",
       "sentiment_score": 0.083,
       "sentiment_label": "Neutral",
       "confidence": 0.897
@@ -153,22 +180,13 @@
       "confidence": 0.869
     },
     {
-      "headline": "Bosses say AI boosts productivity \u2013 workers say they\u2019re drowning in \u2018workslop\u2019",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTBreThrYWZ4OG5BVmlnczRQellsb3h2Q1I0a05lbHV3MHotS09hS0M1cFRNZHZMLVZHMHZQSm0xaE1sTmlQOUhucl9hRTZkckNac2d5cGhjVlJjWFhLbHlPb1JMeHN6ZG1GVGlQNWVUTnRqc0xVZzdybDRINFEyOWthNVFaQ0J5LVQ4?oc=5",
-      "published": "2026-04-14T20:33:00",
-      "sentiment_score": -0.149,
+      "headline": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDaVdiOTM0RWVwQmo0MWlQY0N3bUhMSDEwZ296dkt6cVZUcmVhYzd0N19HYWo3bkFhZEZXaXNSWVdISWxRaF9NcFBfcHZ3YlQwOGxPRjlPc3hnbHc1QmZtVUwtYWN6N1R1X1BsZlJCUWkxRFduWWg3amdZRQ?oc=5",
+      "published": "2026-04-14T17:00:00",
+      "sentiment_score": 0.097,
       "sentiment_label": "Neutral",
-      "confidence": 0.634
-    },
-    {
-      "headline": "Attempted fire-bombing has tech titans worried about AI backlash",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWRIN2VsMjVTTF9QSHltdFRCbktNcG1FM2ZsWEZYYkQ3QzR0N3g1TENJLWk5WFdmWmtDcnZGZ3hYajFfOEdGVjJFU3E4WEJwQVAxSnlpTExhT3pOUG5sZlQ3b09GcURuYklfT0NDUjQ5NVRHX2xtUVZ2VnJPUkVTdDRuZHMza0RIWWRDWQ?oc=5",
-      "published": "2026-04-14T16:00:00",
-      "sentiment_score": -0.751,
-      "sentiment_label": "Negative",
-      "confidence": 0.772
+      "confidence": 0.876
     },
     {
       "headline": "OpenAI Must Defend Federal Suit Over ChatGPT-Linked Deaths (2)",
@@ -187,6 +205,33 @@
       "sentiment_score": 0.775,
       "sentiment_label": "Positive",
       "confidence": 0.793
+    },
+    {
+      "headline": "I Feel So Sorry for My A.I. Sunglasses",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaThwVlFsS2hka0t0SDVrdVcxbEs5VXpFd0hwUEhrVzhUSDB5T2xBemF0bEp1UW5lQnA5S21lVzhfNW5SVXFEWTRWT2cxYVJkdGdUNUhSb1l5SjRqelA5RmMxeTZVYUVwRnVXYVRQc2hzZGdKR1hueWVKNkp2R2h2ZURkbXY?oc=5",
+      "published": "2026-04-14T09:02:12",
+      "sentiment_score": -0.43,
+      "sentiment_label": "Neutral",
+      "confidence": 0.494
+    },
+    {
+      "headline": "Novo Nordisk partners with OpenAI as AI drug discovery hopes mount",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
+      "published": "2026-04-14T06:20:04Z",
+      "sentiment_score": 0.881,
+      "sentiment_label": "Positive",
+      "confidence": 0.888
+    },
+    {
+      "headline": "Anthropic hires Trump-linked lobbying firm Ballard Partners",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-13/anthropic-hires-trump-linked-lobbying-firm-ballard-partners",
+      "published": "2026-04-14T05:50:34Z",
+      "sentiment_score": 0.021,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
     },
     {
       "headline": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
@@ -216,15 +261,6 @@
       "confidence": 0.725
     },
     {
-      "headline": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
-      "published": "2026-04-13T23:37:38Z",
-      "sentiment_score": 0.211,
-      "sentiment_label": "Neutral",
-      "confidence": 0.769
-    },
-    {
       "headline": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
@@ -250,24 +286,6 @@
       "sentiment_score": 0.037,
       "sentiment_label": "Neutral",
       "confidence": 0.919
-    },
-    {
-      "headline": "Stanford report highlights growing disconnect between AI insiders and everyone else | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "published": "2026-04-13T18:56:56Z",
-      "sentiment_score": -0.929,
-      "sentiment_label": "Negative",
-      "confidence": 0.946
-    },
-    {
-      "headline": "Oracle pops 11%, leading bounce back rally in software stocks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
-      "published": "2026-04-13T17:58:02Z",
-      "sentiment_score": -0.953,
-      "sentiment_label": "Negative",
-      "confidence": 0.968
     },
     {
       "headline": "OpenAI executive sends internal memo: \u2018The market is as competitive as I have ever seen it\u2019",
@@ -306,6 +324,15 @@
       "confidence": 0.928
     },
     {
+      "headline": "Is AI the greatest art heist in history?",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVktXY1ptcV9DVEVDZFZkUW90alpfWWlab3FOcXFNVWREVE5aTnpHeGFnY255ZGdrZnltVVdRMkV6TEhWbGhOVzVNbE9ab1EydDg5ZndGTGFiN19IT09JNHl0WlZWakx2NVJSMDR2aFdkbS1ITl93V0g3Q3lFNGZla3BLUVlEelkwS2JGZTdB?oc=5",
+      "published": "2026-04-13T13:28:00",
+      "sentiment_score": -0.2,
+      "sentiment_label": "Neutral",
+      "confidence": 0.747
+    },
+    {
       "headline": "Can Puck reinvent the news business for the influencer age?",
       "source": "The Verge",
       "link": "https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age",
@@ -331,24 +358,6 @@
       "sentiment_score": 0.763,
       "sentiment_label": "Positive",
       "confidence": 0.776
-    },
-    {
-      "headline": "From LLMs to hallucinations, here's a simple guide to common AI terms | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published": "2026-04-12T15:07:45Z",
-      "sentiment_score": 0.024,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
-    },
-    {
-      "headline": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2tFa2ZVdEpGOUxCU0dlbi1tSEJsVTJyTEhOLXgxZWhIRUVVZzhVWm9VV3pSSlV0aWNUMV94cERVNWU2aTZ1cUFmUEpZRW8xczFBV1lkdmMxQmJzeEFfNWtwUWM5WjN2UVZTR0RyQndTc3RJbV9Ec25ObXlfcF9FNmlUMlBjYk50b3VIcEZZenJzcVBlWDVEYjV3eUs2WTRiaWRnRTFMcVBmc1pSX09pcENldzFmYVF5aXc?oc=5",
-      "published": "2026-04-12T15:07:08",
-      "sentiment_score": -0.012,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
     },
     {
       "headline": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
@@ -378,22 +387,22 @@
       "confidence": 0.751
     },
     {
-      "headline": "ChatGPT has a new $100 per month Pro subscription",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenVDTmxLaFh1V1FwaDRPeG9iaDExdms0Q2dHZEQ5dHJVd1FzZTdwdldKelpyelh5SzBlcWt2Ym5DWjRXRHlEVEtOcm5FN3I4cVNydjlkY1dDVkczZXZZM2pnMjh2R29tNjVsVVEwRS1IdWRCbjE3bE5HSTN6RE93Q1VaOEV2SFJQYmNTUnI5M2I?oc=5",
-      "published": "2026-04-09T22:57:15",
-      "sentiment_score": 0.128,
+      "headline": "Florida Investigates Whether ChatGPT Helped a Campus Shooting Suspect",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnhTZEk3ZlIwRFFJWTNIT2ZVdDJKS1UzTTJRYkZfUHNKcXVNTENYSTh4N1c2dWd5c3IxRHd2TzIxc1FjMXJOVHBvU3B1WkZoeUdIWjAtWXhXTGI3a3kyY1lOcnJUaWxSRHhXRGxaUHVmdlUtdmdaVTNqMDJBUnVkcnFKOXZrYjVQT0pMQmJpZ3labHFqNnIw?oc=5",
+      "published": "2026-04-09T22:04:00",
+      "sentiment_score": -0.225,
       "sentiment_label": "Neutral",
-      "confidence": 0.849
+      "confidence": 0.718
     },
     {
-      "headline": "OpenAI pauses UK data centre deal over energy costs and regulation",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-09T20:36:41",
-      "sentiment_score": 0.635,
-      "sentiment_label": "Positive",
-      "confidence": 0.65
+      "headline": "Florida AG Investigates OpenAI, ChatGPT, Citing National Security Risks, FSU Shooting",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNV8wVnlOdWZYc1dUY0h6endGbkpoX29YNzFNRlpIRjY2QW9LRURsSHZ1TWY2TGRIa2FjQ0hWSWdncUtsVjc3WVNaWUNXSEtNZ1RjQmJXYmRpZGVlRG41RHdnNjlwanlmZUxfSnJYa0pMeURTRkRybWIxZzQwMERIZWswXzExazlyWTVkaFp2R1BOYVJuSW9sOFNHazFOZDhIT0ZyREt6bGpDUmZjSmlraTBEMUlBenhwVUdB?oc=5",
+      "published": "2026-04-09T21:17:00",
+      "sentiment_score": -0.583,
+      "sentiment_label": "Negative",
+      "confidence": 0.627
     },
     {
       "headline": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
@@ -403,6 +412,15 @@
       "sentiment_score": -0.634,
       "sentiment_label": "Negative",
       "confidence": 0.659
+    },
+    {
+      "headline": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc29GSW5wTkFKN1h2MXNEeF9kVWxsazdlYXc5V3VSTjJRRGxkbXJycC1hU1d3dTctRTh1QUU4WUxKbFhRZFZYdXFaYTVvT2N6NXUwYzYyVm02ZlJrMk53T2dqdU1SNkJmZ2tyOUFyZDNQZVl5NVNyX1FaeVd3dkRJS2xvVC15MnZGeG1IamttODdXckdt0gGaAUFVX3lxTE9PY2xydm54S2Zyd1d6MUdqeWZ1R1hkcVZBTFpEdXRIRV8xQUplRnNRSGRJckFieUxnWGJLcTU5U0dCVkVOc01QVlFfVlo4aHhaVUdnR1l1TVFZY2JwSGMzNzNaVzdhQUFmRG5zZkdsdTNaOFg5Tld0VlFJNDlJYjNwSFlYTGM2a2hXOFRoMTV6S3JNYnNSRTlIaGc?oc=5",
+      "published": "2026-04-09T19:06:41",
+      "sentiment_score": 0.232,
+      "sentiment_label": "Neutral",
+      "confidence": 0.751
     },
     {
       "headline": "Tech Life",
@@ -421,6 +439,15 @@
       "sentiment_score": 0.112,
       "sentiment_label": "Neutral",
       "confidence": 0.864
+    },
+    {
+      "headline": "Penguin to sue OpenAI over ChatGPT version of German children\u2019s book",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5",
+      "published": "2026-03-31T07:00:00",
+      "sentiment_score": -0.837,
+      "sentiment_label": "Negative",
+      "confidence": 0.851
     },
     {
       "headline": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
