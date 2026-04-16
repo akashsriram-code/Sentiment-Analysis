@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-16T01:49:05.506107",
-  "total_articles": 39,
-  "overall_sentiment": -0.22,
+  "last_updated": "2026-04-16T07:20:42.259697",
+  "total_articles": 46,
+  "overall_sentiment": -0.123,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,12 +42,12 @@
     },
     {
       "date": "2026-04-09",
-      "avg_sentiment": -0.634,
+      "avg_sentiment": 0.244,
       "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.266
+      "moving_avg": -0.091
     },
     {
       "date": "2026-04-10",
@@ -56,7 +56,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.274
+      "moving_avg": -0.128
     },
     {
       "date": "2026-04-13",
@@ -65,34 +65,34 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.246
+      "moving_avg": -0.12
     },
     {
       "date": "2026-04-14",
-      "avg_sentiment": -0.129,
-      "article_count": 15,
-      "positive_count": 7,
-      "negative_count": 7,
+      "avg_sentiment": -0.065,
+      "article_count": 14,
+      "positive_count": 8,
+      "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.139
+      "moving_avg": -0.004
     },
     {
       "date": "2026-04-15",
-      "avg_sentiment": -0.329,
-      "article_count": 14,
-      "positive_count": 3,
-      "negative_count": 7,
+      "avg_sentiment": -0.176,
+      "article_count": 18,
+      "positive_count": 5,
+      "negative_count": 9,
       "neutral_count": 4,
-      "moving_avg": -0.183
+      "moving_avg": -0.026
     },
     {
       "date": "2026-04-16",
-      "avg_sentiment": 0.063,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
+      "avg_sentiment": -0.067,
+      "article_count": 5,
+      "positive_count": 3,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.19
+      "moving_avg": -0.052
     }
   ],
   "source_stats": [
@@ -109,21 +109,21 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.262,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.052,
+      "source": "CNBC",
+      "avg_sentiment": 0.199,
       "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.193,
-      "article_count": 3,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.22,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.171,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
@@ -133,6 +133,18 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "BBC",
+      "avg_sentiment": -0.152,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": 0.591,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "The Verge",
       "avg_sentiment": -0.281,
       "article_count": 2,
@@ -140,6 +152,42 @@
     }
   ],
   "articles": [
+    {
+      "headline": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5",
+      "published": "2026-04-16T05:52:35",
+      "sentiment_score": 0.823,
+      "sentiment_label": "Positive",
+      "confidence": 0.892
+    },
+    {
+      "headline": "Australian federal court warns lawyers over \u2018unacceptable\u2019 use of AI",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjBLTEc2VUlyUldxQzJ2dTNBaUh4aGM4ZXo2NnNCVkpoZGkwaHdJZ3RkNHVHemVJR1d4Q2cybnpaYVhsQk54eWwxWTVPQ3FiWGZyWjJnSHl6VDRLamtxeGlwaUN0dVAyY25KbEhwSy15Zy1zSWZmbkZnZG8wZkVPSldrNS1iTHhyakVzYkp4VVZ0cXFQN1E0NGJCN2V3OHdjdVBNWGlYVzlnOS1NUTZz?oc=5",
+      "published": "2026-04-16T05:25:00",
+      "sentiment_score": -0.919,
+      "sentiment_label": "Negative",
+      "confidence": 0.932
+    },
+    {
+      "headline": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalM2c25TbHR2TmVETHhRSXdlN2dVY1hyMGJ0NUlqQUZHeHFjRnNpd01BdTEyMjB6MkFZN0JMbGNSYzNSRVl0V1RiMXB2WU4zaWpFMFdCWnpPaHREQkdLLXduZXZzbGpwSWhjQ3ktaThMbVRmS0dUYWsySnBUNkFETHZSZWVfQU1rNUJocHMzbjd4YzhCNXEzN19UbldvUVE2TlprZ0NpSWg0STQ?oc=5",
+      "published": "2026-04-16T04:01:00",
+      "sentiment_score": -0.644,
+      "sentiment_label": "Negative",
+      "confidence": 0.684
+    },
+    {
+      "headline": "Allbirds shares soar after pivot from shoes to AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JWnBXeWhSTWR6VkJoQmYwSkZQdkVGeGt4ZzlBLXRKU2swNDh4RmhHTmJwTy1iUk10SEVRVllndHlZMnZSRExmN3pkaUt3MG1PZ3pZVGJQanZqZw?oc=5",
+      "published": "2026-04-16T01:58:56",
+      "sentiment_score": 0.342,
+      "sentiment_label": "Positive",
+      "confidence": 0.464
+    },
     {
       "headline": "Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.",
       "source": "The New York Times",
@@ -175,15 +223,6 @@
       "sentiment_score": -0.903,
       "sentiment_label": "Negative",
       "confidence": 0.916
-    },
-    {
-      "headline": "Lawyer's use of AI was \u2018perilous shortcut\u2019 in Walmart case, US judge says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEhyM2pmY2JFRGVkTE9VRDUxNkRmOW9FYXE0WFBfM0JHeUo3a3FDanVkZkNGR2d4MFdMSjktVHItYVJpWHp5Y2hIWGhXUk5sZjh0UzBBNjBlWVFZSWhmR2ZSTUx1Nmh6cnlpR0o3eGZ6UTRzcTB1UnJpUWtRd1dsZi1aakhOYlF6UmJ1RFY5ZG0tMHd2WmEyZnZiWVNBTkN4cGJUQnVfcTA1WVgxOW1pb2d6OVpuRjhYd3JR?oc=5",
-      "published": "2026-04-15T20:12:10",
-      "sentiment_score": -0.623,
-      "sentiment_label": "Negative",
-      "confidence": 0.651
     },
     {
       "headline": "COSO Releases Generative AI Internal Control Guidance",
@@ -258,6 +297,51 @@
       "confidence": 0.539
     },
     {
+      "headline": "PlanHub Appoints David Fleischman as Chief Product Officer",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/pr-newswire/planhub-appoints-david-fleischman-as-chief-product-officer-a45a2fd3b4f74f888ac35f3bd6d43349",
+      "published": "2026-04-15T07:16:50Z",
+      "sentiment_score": 0.358,
+      "sentiment_label": "Neutral",
+      "confidence": 0.621
+    },
+    {
+      "headline": "CNBC's UK Exchange newsletter: Britain's jet fuel crunch \u2014 and how we got here",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/15/uk-jet-fuel-kerosene-diesel-refineries-import-supply-chain.html",
+      "published": "2026-04-15T05:30:01Z",
+      "sentiment_score": -0.949,
+      "sentiment_label": "Negative",
+      "confidence": 0.958
+    },
+    {
+      "headline": "Samsung SDS shares jump 20% on KKR partnership and $820 million bond purchase",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/15/samsung-sds-kkr-820m-ai-investment-shares-surge-convertible-bonds-expansion.html",
+      "published": "2026-04-15T05:16:54Z",
+      "sentiment_score": 0.925,
+      "sentiment_label": "Positive",
+      "confidence": 0.944
+    },
+    {
+      "headline": "Matlantis Accelerates Materials Discovery with NVIDIA ALCHEMI Toolkit",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/globenewswire-mobile/matlantis-accelerates-materials-discovery-with-nvidia-alchemi-toolkit-ee451e525741667019c6e2683c75c6a3",
+      "published": "2026-04-15T04:33:48Z",
+      "sentiment_score": 0.825,
+      "sentiment_label": "Positive",
+      "confidence": 0.833
+    },
+    {
+      "headline": "IMF urges nations to stay at frontier of mounting AI risks",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-14/imf-urges-nations-to-stay-at-frontier-of-mounting-ai-risks",
+      "published": "2026-04-15T03:28:03Z",
+      "sentiment_score": -0.164,
+      "sentiment_label": "Negative",
+      "confidence": 0.553
+    },
+    {
       "headline": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3dqQ0UtTjhzTnZrd1YxcGJMTzR0Rmhha3lCaU9raENRaFlnUXlEckh5RjhMU2NBYXU1MC04bzk0YmF6LWZGZFRqRWJRdG9GRlZzZE5QV0NLaXczaS1Lb2dkd3M2Q2tlUEdEZWZfTmZvQ0xPVmdGU2ZBQS1nZUdnbkZPWWljcnk4QUVIcTNBUnVEcEJEOTBpcjROSjBwaWZvSEZGa1k1eU1ZWXBPN21NTEJzY2RXZkdXY1hLOUZqQ2FNWm5oMWp3Q29ueHJKRzRyLUx1cGdB?oc=5",
@@ -267,10 +351,19 @@
       "confidence": 0.928
     },
     {
+      "headline": "Anthropic's rise is giving some OpenAI investors second thoughts | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "published": "2026-04-15T02:32:59Z",
+      "sentiment_score": -0.104,
+      "sentiment_label": "Neutral",
+      "confidence": 0.618
+    },
+    {
       "headline": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUZubVVSNlNLekg1ZEVvcDlweXlKc05abXFIaS1rU1FkZy1aelczZG4yZnlnN1pjQzc1YkJEdGtMNWdkMWIyZFowUExNMU8xT2x5VGRtQ3I3SmM2NEM4MWtWMDVzdl9EbFBGVEV5VGstcE1UT204ek5XNnBUek5meFprTVJtSWxnUzMw?oc=5",
-      "published": "2026-04-15T00:25:41",
+      "published": "2026-04-14T23:59:57",
       "sentiment_score": 0.083,
       "sentiment_label": "Neutral",
       "confidence": 0.897
@@ -303,15 +396,6 @@
       "confidence": 0.825
     },
     {
-      "headline": "Bosses say AI boosts productivity \u2013 workers say they\u2019re drowning in \u2018workslop\u2019",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTBreThrYWZ4OG5BVmlnczRQellsb3h2Q1I0a05lbHV3MHotS09hS0M1cFRNZHZMLVZHMHZQSm0xaE1sTmlQOUhucl9hRTZkckNac2d5cGhjVlJjWFhLbHlPb1JMeHN6ZG1GVGlQNWVUTnRqc0xVZzdybDRINFEyOWthNVFaQ0J5LVQ4?oc=5",
-      "published": "2026-04-14T20:33:00",
-      "sentiment_score": -0.149,
-      "sentiment_label": "Neutral",
-      "confidence": 0.634
-    },
-    {
       "headline": "In the Wake of Anthropic's Mythos, OpenAI Has a New Cybersecurity Model\u2014and Strategy",
       "source": "Wired",
       "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
@@ -319,15 +403,6 @@
       "sentiment_score": 0.277,
       "sentiment_label": "Neutral",
       "confidence": 0.708
-    },
-    {
-      "headline": "Anthropic co-founder confirms the company briefed the Trump adminstration on Mythos | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "published": "2026-04-14T18:10:07Z",
-      "sentiment_score": -0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.815
     },
     {
       "headline": "The attacks on Sam Altman are a warning for the AI world",
@@ -346,15 +421,6 @@
       "sentiment_score": 0.815,
       "sentiment_label": "Positive",
       "confidence": 0.828
-    },
-    {
-      "headline": "DA wants Sam Altman arson suspect Daniel Moreno-Gama held without bail",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
-      "published": "2026-04-14T17:30:25Z",
-      "sentiment_score": -0.777,
-      "sentiment_label": "Negative",
-      "confidence": 0.795
     },
     {
       "headline": "Google\u2019s Spotlight-like desktop search bar for Windows is available for everyone",
@@ -391,6 +457,15 @@
       "sentiment_score": -0.325,
       "sentiment_label": "Neutral",
       "confidence": 0.603
+    },
+    {
+      "headline": "OpenAI investors question $852bn valuation as strategy shifts",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeThQNzdka0tXTmpXa01OOEhQdFlkSk5KTG95ZVh0SGRBUU1jc0JaVTQ5WGJVb0UySklodURZOUFleFdPNnVlZHdXR3dMYWlsamFGNzVqX2lCamFqS0xodDZGNnAydzZzbDY2aEY0QVkzbnduX1ljOTJXY1lHaUhvem0zby0?oc=5",
+      "published": "2026-04-14T04:02:31",
+      "sentiment_score": -0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.861
     },
     {
       "headline": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
@@ -447,13 +522,13 @@
       "confidence": 0.751
     },
     {
-      "headline": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "headline": "ChatGPT finally offers $100/month Pro plan",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc3VLckF0X29CakpscXJoOTZNeDRFdkhBLXZvdFNJdFlaUTMza3dMZEcwUmZsNTVJcVh4Q1VBZ0d3R1JXYi1uaHhkOVBNbTgwUjVlZ2FxbXJ3enFoYkt3RkRsS1BkNFBUX0U1Zk5mOFFfU3RZVXRVcUpTd3ZQSVlLem10S1REWlFuY0lR?oc=5",
-      "published": "2026-04-09T20:11:55",
-      "sentiment_score": -0.634,
-      "sentiment_label": "Negative",
-      "confidence": 0.659
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtT1pRRkRpbmJiU2lFbWdURW83Tk0tXy1XLU5YNVozLVZsaXJJcGgtSW5lMXZqcEhmSXpjNXdsMkwwbG91bXJ0bFlzWVZUN3hXS3JwLXpfalpXZm5yd0xNV3VTQWlBX2Q4MnFadFZ1T3NGdWt5VlE?oc=5",
+      "published": "2026-04-09T21:29:11",
+      "sentiment_score": 0.244,
+      "sentiment_label": "Neutral",
+      "confidence": 0.712
     },
     {
       "headline": "Tech Life",
