@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-21T13:03:08.938321",
-  "total_articles": 25,
-  "overall_sentiment": -0.205,
+  "last_updated": "2026-04-21T19:00:50.532215",
+  "total_articles": 24,
+  "overall_sentiment": -0.299,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,22 +23,13 @@
       "moving_avg": 0.1
     },
     {
-      "date": "2026-04-09",
-      "avg_sentiment": 0.232,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.144
-    },
-    {
       "date": "2026-04-15",
       "avg_sentiment": -0.456,
       "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.006
+      "moving_avg": -0.085
     },
     {
       "date": "2026-04-17",
@@ -47,43 +38,43 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.08
+      "moving_avg": -0.158
     },
     {
       "date": "2026-04-18",
-      "avg_sentiment": -0.585,
-      "article_count": 3,
+      "avg_sentiment": -0.812,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.164
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.289
     },
     {
       "date": "2026-04-19",
-      "avg_sentiment": -0.193,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 2,
+      "avg_sentiment": -0.01,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.168
+      "moving_avg": -0.242
     },
     {
       "date": "2026-04-20",
-      "avg_sentiment": -0.112,
-      "article_count": 5,
-      "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 3,
-      "moving_avg": -0.2
+      "avg_sentiment": -0.341,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.256
     },
     {
       "date": "2026-04-21",
-      "avg_sentiment": 0.004,
-      "article_count": 4,
+      "avg_sentiment": -0.27,
+      "article_count": 10,
       "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.212
+      "negative_count": 8,
+      "neutral_count": 1,
+      "moving_avg": -0.311
     }
   ],
   "source_stats": [
@@ -94,25 +85,94 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.184,
-      "article_count": 9,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "The New York Times",
-      "avg_sentiment": -0.146,
-      "article_count": 2,
+      "avg_sentiment": -0.356,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": 0.084,
+      "source": "Reuters",
+      "avg_sentiment": -0.301,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.146,
       "article_count": 2,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.468,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "A.I. Is Eliminating Jobs on Wall Street",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55TVJfMW4xblI3TWw2ZDRPRE83SFQ4cm5pTkZfdWp2c0xtWEQwQnBVV3N1c2ZDZUVtd09wek04MFNFNXQ0VmhEb2JiTHBvTkVPRmhMemRLOFMwVGJZTXVrQS1iWkNUc29qLXJIODJ2T3BMNmlvNmpOZE9maE0?oc=5",
+      "published": "2026-04-21T18:45:22",
+      "sentiment_score": -0.904,
+      "sentiment_label": "Negative",
+      "confidence": 0.915
+    },
+    {
+      "headline": "Florida attorney general alleges ChatGPT advised FSU campus shooter",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGNpOHhxRVk4UTlMNEZTOXo3b0RINWFRX09ic0UtMTZtdEhYRm13dHVOWEdOQXpzWUxKZUxXSkZNc3ItblV2NE51cGpkeDg2ZURBbElZZmYzVlktSF9EdWI1T3VzeGUxazQ0bE5Cb0hld3p6TWFHbnZ1dXhKSzZObllObWtOT1lL?oc=5",
+      "published": "2026-04-21T18:29:17",
+      "sentiment_score": -0.303,
+      "sentiment_label": "Neutral",
+      "confidence": 0.643
+    },
+    {
+      "headline": "Sullivan & Cromwell law firm apologizes for AI 'hallucinations' in court filing",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcms1NFRURDE2Q0JHNW81OGdRLS1kT3V5U2NNYmJfTG9zVHFOVXdOeGhUX2c2b2d6czRTSWV4enUxZzZHUkxmc2dsb2h1amxSazJUYTBybXI5QXlFNGpBMTZtOVlObV9BeURsTC0tal8zeFdlX0lLSzBCeUtLZURrMnJRVDluQlByZ2hUZUxDXzhFYkVJanlzWElNSDk4LUs3Rms0UTczQ2NETFJlUm5fVVJ0WUhWYmpoMWstS1dn?oc=5",
+      "published": "2026-04-21T17:20:13",
+      "sentiment_score": -0.843,
+      "sentiment_label": "Negative",
+      "confidence": 0.858
+    },
+    {
+      "headline": "Florida Inquiry Into ChatGPT\u2019s Role in FSU Shooting Shifts to Criminal Investigation",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1ZDeUhPSm43Q2gyajFkeE8zZUxzU1RWbHpTczRfV21feXJ1UV9XX2Z1RXFvNDlLV3dlSlhYVE9zbjJzZUhablNDbU5ELS1GS1FIRlhUUGkzR09GRHluTUtvLUs3NHU5ekw0R3dxZlYzcHFtTWtoc0JiNW92aVFVLVJiYVVSUnA5YWtGMmhkeDdqVkN6djZmWmowTEpVTHFXNC1V?oc=5",
+      "published": "2026-04-21T16:38:31",
+      "sentiment_score": -0.115,
+      "sentiment_label": "Neutral",
+      "confidence": 0.837
+    },
+    {
+      "headline": "OpenAI Gets Florida Criminal Probe Over Killer Using ChatGPT (1)",
+      "source": "Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNzZLQnQ5QWQ2TlB1RkZqaG9GV1VFV002WTlLYXEySkM0REt0eDFHQ1E0QU45eUJMVTJvLTJDSy0wR1FCRFZ3Tlk3MDVROUF4aS1xWFZ4VXdYUXlrUkw2eWZmRU91VC1OV3ZXdGhoVGw1MG9DYWtjQ2N3TGlmcXc2NmFPRHdWVlFpam1vX2hmQmRVWUJRVVAwOGN6NHFlbFpSOGljVGZreTQ?oc=5",
+      "published": "2026-04-21T14:40:00",
+      "sentiment_score": -0.342,
+      "sentiment_label": "Neutral",
+      "confidence": 0.57
+    },
+    {
+      "headline": "What Happens When A.I. Runs a Store in San Francisco?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanVvanJZMTlDNGR6eVFvRGdvTGJHWXk0MVdjMXVzbFI1elB5MHVxcko1eWN0ZVktbW5SS2xvZ0p4N01sZ29JLWgzUnZ3QUp5UjF6RG9LbU9aTGVfZFE4OFhzMzRBa0xNdjZhUDJmYTZ1dF84bm9uYkJHamFxOG9PWkpSaVAyZw?oc=5",
+      "published": "2026-04-21T14:26:06",
+      "sentiment_score": -0.105,
+      "sentiment_label": "Neutral",
+      "confidence": 0.863
+    },
+    {
+      "headline": "Alternative asset managers brace for investor test over AI, redemptions",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVl84V0VpeEhXOS1zSGtWTnMxb0JBWWRIUTFkdWpraDdaSG00dHdlQktqbkZDUExpRGFnbk5DUTN5NVJjcDgwVEZzQl9FOUxZeE1NNFdYU2tNS2JQQ1ZsQ3ZvOXYzSTFEaUd6dHgxNEMtWlMyek54VVRzSmZ1d3FnRjFIeUdjRGZLY2lIY0RGLWF1dFI3R05oVFNybGtCaHJnVXJWY0x2Tk5aN2R2TUZ6VHlSd0FNVW9oOHVr?oc=5",
+      "published": "2026-04-21T13:15:07",
+      "sentiment_score": -0.099,
+      "sentiment_label": "Neutral",
+      "confidence": 0.804
+    },
     {
       "headline": "Exclusive | OpenAI Is Working With Consultants to Sell Codex",
       "source": "WSJ",
@@ -121,15 +181,6 @@
       "sentiment_score": 0.18,
       "sentiment_label": "Neutral",
       "confidence": 0.797
-    },
-    {
-      "headline": "Want to Speak to the Manager? At a New San Francisco Store, That\u2019s A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanVvanJZMTlDNGR6eVFvRGdvTGJHWXk0MVdjMXVzbFI1elB5MHVxcko1eWN0ZVktbW5SS2xvZ0p4N01sZ29JLWgzUnZ3QUp5UjF6RG9LbU9aTGVfZFE4OFhzMzRBa0xNdjZhUDJmYTZ1dF84bm9uYkJHamFxOG9PWkpSaVAyZw?oc=5",
-      "published": "2026-04-21T09:02:57",
-      "sentiment_score": 0.009,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
     },
     {
       "headline": "New era as Apple names new boss to replace Tim Cook after 15 years",
@@ -159,40 +210,31 @@
       "confidence": 0.748
     },
     {
-      "headline": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
-      "published": "2026-04-20T13:00:00Z",
-      "sentiment_score": 0.137,
+      "headline": "Mercedes\u2019 first all-electric C-Class is its sportiest one yet",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs",
+      "published": "2026-04-20T18:35:57Z",
+      "sentiment_score": 0.237,
       "sentiment_label": "Neutral",
-      "confidence": 0.844
+      "confidence": 0.746
     },
     {
-      "headline": "U.S. seizes Iranian-flagged ship, Warsh's big week, Cursor funding and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/20/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-04-20T12:21:59Z",
-      "sentiment_score": -0.015,
-      "sentiment_label": "Neutral",
-      "confidence": 0.921
+      "headline": "App host Vercel says it was hacked and customer data stolen | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/",
+      "published": "2026-04-20T14:49:00Z",
+      "sentiment_score": -0.925,
+      "sentiment_label": "Negative",
+      "confidence": 0.936
     },
     {
-      "headline": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
-      "published": "2026-04-20T11:00:00Z",
-      "sentiment_score": 0.03,
+      "headline": "Canva\u2019s CEO on its big pivot to AI enterprise software",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/podcast/913793/melanie-perkins-canva-ai-adobe-affinity-design",
+      "published": "2026-04-20T14:27:50Z",
+      "sentiment_score": 0.055,
       "sentiment_label": "Neutral",
-      "confidence": 0.925
-    },
-    {
-      "headline": "Kevin Warsh would be the first tech bro Fed chair. How Silicon Valley shaped him",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/20/fed-silicon-valley-kevin-warsh.html",
-      "published": "2026-04-20T10:30:02Z",
-      "sentiment_score": 0.021,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
+      "confidence": 0.907
     },
     {
       "headline": "OpenAI\u2019s existential questions | TechCrunch",
@@ -202,51 +244,6 @@
       "sentiment_score": -0.01,
       "sentiment_label": "Neutral",
       "confidence": 0.923
-    },
-    {
-      "headline": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
-      "published": "2026-04-19T21:19:57Z",
-      "sentiment_score": 0.305,
-      "sentiment_label": "Neutral",
-      "confidence": 0.67
-    },
-    {
-      "headline": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
-      "published": "2026-04-19T16:02:44Z",
-      "sentiment_score": -0.555,
-      "sentiment_label": "Negative",
-      "confidence": 0.651
-    },
-    {
-      "headline": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
-      "published": "2026-04-19T12:00:01Z",
-      "sentiment_score": -0.511,
-      "sentiment_label": "Negative",
-      "confidence": 0.538
-    },
-    {
-      "headline": "There's an 'art' to writing AI prompts for personal finance, MIT professor says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/18/ai-prompts-personal-finance-advice.html",
-      "published": "2026-04-18T14:30:01Z",
-      "sentiment_score": 0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.861
-    },
-    {
-      "headline": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
-      "published": "2026-04-18T12:00:01Z",
-      "sentiment_score": -0.95,
-      "sentiment_label": "Negative",
-      "confidence": 0.958
     },
     {
       "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
@@ -310,15 +307,6 @@
       "sentiment_score": 0.038,
       "sentiment_label": "Neutral",
       "confidence": 0.928
-    },
-    {
-      "headline": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc29GSW5wTkFKN1h2MXNEeF9kVWxsazdlYXc5V3VSTjJRRGxkbXJycC1hU1d3dTctRTh1QUU4WUxKbFhRZFZYdXFaYTVvT2N6NXUwYzYyVm02ZlJrMk53T2dqdU1SNkJmZ2tyOUFyZDNQZVl5NVNyX1FaeVd3dkRJS2xvVC15MnZGeG1IamttODdXckdt0gGaAUFVX3lxTE9PY2xydm54S2Zyd1d6MUdqeWZ1R1hkcVZBTFpEdXRIRV8xQUplRnNRSGRJckFieUxnWGJLcTU5U0dCVkVOc01QVlFfVlo4aHhaVUdnR1l1TVFZY2JwSGMzNzNaVzdhQUFmRG5zZkdsdTNaOFg5Tld0VlFJNDlJYjNwSFlYTGM2a2hXOFRoMTV6S3JNYnNSRTlIaGc?oc=5",
-      "published": "2026-04-09T07:00:00",
-      "sentiment_score": 0.232,
-      "sentiment_label": "Neutral",
-      "confidence": 0.751
     },
     {
       "headline": "Tech Life",
