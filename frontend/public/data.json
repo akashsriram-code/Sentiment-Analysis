@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-22T13:03:51.782814",
-  "total_articles": 40,
-  "overall_sentiment": -0.175,
+  "last_updated": "2026-04-22T19:00:38.147725",
+  "total_articles": 47,
+  "overall_sentiment": -0.168,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,13 +14,22 @@
       "moving_avg": -0.729
     },
     {
+      "date": "2026-03-19",
+      "avg_sentiment": 0.083,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.323
+    },
+    {
       "date": "2026-04-04",
       "avg_sentiment": 0.112,
       "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.308
+      "moving_avg": -0.178
     },
     {
       "date": "2026-04-07",
@@ -29,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.176
+      "moving_avg": -0.111
     },
     {
       "date": "2026-04-09",
@@ -38,16 +47,16 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.074
+      "moving_avg": -0.043
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-14",
       "avg_sentiment": 0.038,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.052
+      "moving_avg": -0.029
     },
     {
       "date": "2026-04-17",
@@ -56,7 +65,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.112
+      "moving_avg": -0.084
     },
     {
       "date": "2026-04-18",
@@ -65,54 +74,66 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.212
+      "moving_avg": -0.096
     },
     {
       "date": "2026-04-20",
-      "avg_sentiment": 0.011,
-      "article_count": 8,
-      "positive_count": 3,
-      "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.106
+      "avg_sentiment": -0.732,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.213
     },
     {
       "date": "2026-04-21",
-      "avg_sentiment": -0.205,
-      "article_count": 18,
-      "positive_count": 2,
-      "negative_count": 11,
-      "neutral_count": 5,
-      "moving_avg": -0.152
+      "avg_sentiment": -0.104,
+      "article_count": 27,
+      "positive_count": 8,
+      "negative_count": 10,
+      "neutral_count": 9,
+      "moving_avg": -0.243
     },
     {
       "date": "2026-04-22",
-      "avg_sentiment": -0.246,
-      "article_count": 6,
-      "positive_count": 2,
-      "negative_count": 3,
+      "avg_sentiment": -0.253,
+      "article_count": 10,
+      "positive_count": 3,
+      "negative_count": 6,
       "neutral_count": 1,
-      "moving_avg": -0.199
+      "moving_avg": -0.292
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.357,
-      "article_count": 10,
+      "avg_sentiment": -0.322,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.011,
+      "article_count": 8,
+      "sentiment_label": "Neutral"
+    },
+    {
       "source": "CNBC",
-      "avg_sentiment": 0.282,
-      "article_count": 7,
+      "avg_sentiment": 0.253,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.175,
+      "source": "The Verge",
+      "avg_sentiment": -0.145,
       "article_count": 5,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.052,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
@@ -121,26 +142,8 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.001,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.629,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "The New York Times",
-      "avg_sentiment": -0.401,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "BBC",
-      "avg_sentiment": -0.416,
+      "avg_sentiment": -0.283,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -152,12 +155,39 @@
     },
     {
       "source": "CNN",
-      "avg_sentiment": -0.515,
+      "avg_sentiment": -0.343,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96amZLemxJZ2hIbkYzOGlpamZJRXlKZzZpMlh6RnVDYUFiOTZQODlNZzlSNTNNNm5EUzdJTnZyYlFwY19vRENybkI3dFQ3VGREWktKZVlHRjcybkQ5M1FiRjVDTndkX0pTWkVnWFNGbE0zc1Q2UFE?oc=5",
+      "published": "2026-04-22T18:00:00",
+      "sentiment_score": -0.28,
+      "sentiment_label": "Neutral",
+      "confidence": 0.639
+    },
+    {
+      "headline": "Anthropic\u2019s New Mythos A.I. Model Sets Off Global Alarms",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGT25GZUdIUVB1NUxWd2RUaDJoY1F5QmljMG9JdE0xV1lmMVM5dmhVeDBNaWc5OTdrMFlOQ013NWh2bDhXdTl5VFhWWUd0bG8xdGtnN3RBWTBjcFhONmlKWHhfY3Y2M1NGZW9MdVhHaDhKeWYzTmxqdkhNVQ?oc=5",
+      "published": "2026-04-22T14:33:36",
+      "sentiment_score": 0.121,
+      "sentiment_label": "Neutral",
+      "confidence": 0.765
+    },
+    {
+      "headline": "A.I. \u2018Hallucinations\u2019 Created Errors in Court Filing, Top Law Firm Says",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnFjdHRuVUhyVXdibURNSWNzTzFKTmlLSGg2cmpmMFo2QU54YVIySEhZZUdnQkc3T25kaDktVjFiS1VxLXVjZmFDYmlfcmFqbVNmNGVZelQ4REx6S1RnQkdwQ2I3aUJWMGtUZGdEeEI5TFRqdFpIVWJMdGx6ZWxjSzVhMi1QbE5UcTgw?oc=5",
+      "published": "2026-04-22T12:10:00",
+      "sentiment_score": -0.687,
+      "sentiment_label": "Negative",
+      "confidence": 0.712
+    },
     {
       "headline": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
       "source": "BBC News",
@@ -177,13 +207,13 @@
       "confidence": 0.85
     },
     {
-      "headline": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "headline": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2Z0dHFUQmJOZDhEdGN6bHdEbF9fNHMwLUxDQzhQVUdRV0xLS09BQkFNTllxUkRfd19SVHZYeVN5TXNWUkJnaVh1bzF4QlVGdlNWazM0SkxVWlJFSFVON3dCLVJrQy1hTmsySjByTEN1TXMzYjlxaE1vN0VzalctTnRCeEZBbW5pQnU2RGd5bTZxbmNEMnhlb3QwUzk0dlQyeXRvLThmQm5XcDkxakhYeXBDeFg5VjFPeC13SDBB?oc=5",
       "published": "2026-04-22T12:00:00",
-      "sentiment_score": 0.368,
+      "sentiment_score": 0.457,
       "sentiment_label": "Neutral",
-      "confidence": 0.604
+      "confidence": 0.514
     },
     {
       "headline": "Google Maps is about to get a big dose of AI",
@@ -204,13 +234,22 @@
       "confidence": 0.828
     },
     {
-      "headline": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+      "headline": "AI hallucinations found in high-profile Wall Street law firm filing",
       "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FMZHJobFlvNmFWeU55UHh2MTJXTUl6TU5uOTVCdUZqMGFQTGQ3U2RoQmZuUDREZlRlNF90SlFCODJwRzl3TjU5dEQtMWZGQnJrWlVScXV2VXR0c3h3bGVuNDJPTnhCWU9FMjRJcTlrZGtzdFc3clNzbldwSjVBOU5lRk1oV3dHWUktNGhacjVoQWFWeTY1R3Y0WXZONjdTWEVELXBqdXExQ1VGU01JdlplclJKTjhZZVhwdkt4aTM?oc=5",
-      "published": "2026-04-22T09:03:00",
-      "sentiment_score": -0.644,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFBY0NaYlhYTmprWVlpckdCSC1fWE9ONURKZmNqdjVoMDREYllXZ3E4WmpleERBRUlGQnlPdDVZaF9EMUxZZm9lcmFFWFJQWlQ1ZVZtN1I5SG9WQUJ4a0FYaEF4ZGtxQ0RERVNQZFRpaGl5blhabkJONG9lc1NyaEkyZ2tyY2Y2Mi1JVFBQNVpvUTYzSTg1aVdGS3ZqOUpaUVJJLVBPMGhiNjRtbk1qdzUtUkRmS0c5OFE?oc=5",
+      "published": "2026-04-22T08:35:00",
+      "sentiment_score": -0.687,
       "sentiment_label": "Negative",
-      "confidence": 0.663
+      "confidence": 0.707
+    },
+    {
+      "headline": "ChatGPT allegedly advised Florida State shooter when and where to strike",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGNpOHhxRVk4UTlMNEZTOXo3b0RINWFRX09ic0UtMTZtdEhYRm13dHVOWEdOQXpzWUxKZUxXSkZNc3ItblV2NE51cGpkeDg2ZURBbElZZmYzVlktSF9EdWI1T3VzeGUxazQ0bE5Cb0hld3p6TWFHbnZ1dXhKSzZObllObWtOT1lL?oc=5",
+      "published": "2026-04-22T05:09:51",
+      "sentiment_score": -0.253,
+      "sentiment_label": "Neutral",
+      "confidence": 0.694
     },
     {
       "headline": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
@@ -220,15 +259,6 @@
       "sentiment_score": -0.139,
       "sentiment_label": "Neutral",
       "confidence": 0.808
-    },
-    {
-      "headline": "A.I. \u2018Hallucinations\u2019 Created Errors in Court Filing, Top Law Firm Says",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnFjdHRuVUhyVXdibURNSWNzTzFKTmlLSGg2cmpmMFo2QU54YVIySEhZZUdnQkc3T25kaDktVjFiS1VxLXVjZmFDYmlfcmFqbVNmNGVZelQ4REx6S1RnQkdwQ2I3aUJWMGtUZGdEeEI5TFRqdFpIVWJMdGx6ZWxjSzVhMi1QbE5UcTgw?oc=5",
-      "published": "2026-04-21T22:53:31",
-      "sentiment_score": -0.687,
-      "sentiment_label": "Negative",
-      "confidence": 0.712
     },
     {
       "headline": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
@@ -241,12 +271,12 @@
     },
     {
       "headline": "Meta to track workers' clicks and keystrokes to train AI",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bjEwbURnaGN2Z0V3VXg2aTlyaGh1MjhhMEU1QjZfUmctRW5GOFJUTzFQdkJtLXpKWlczLXhoT29CRG5JZXpsdWpxc0gyempxc0VzY09ldTdfdw?oc=5",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-04-21T22:47:56",
-      "sentiment_score": 0.016,
+      "sentiment_score": 0.026,
       "sentiment_label": "Neutral",
-      "confidence": 0.943
+      "confidence": 0.941
     },
     {
       "headline": "OpenAI Under Criminal Probe in Florida Over Mass Shooter\u2019s ChatGPT Use",
@@ -258,49 +288,13 @@
       "confidence": 0.726
     },
     {
-      "headline": "Florida to open criminal investigation into OpenAI over ChatGPT\u2019s influence on alleged mass shooter",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXFuSVY4YjRBcXpCY0xkNDhZVDcxZUpsZmhXNkI2ZUZXY3dZTzhfS042X3hyMHRCX2ZsX29ySHU4bHRrMjdaQjNfNjdvak1CT2s0Uy1MQXc0NnFkT3lYUXNqdEZFcTlRQWdTX29SbUpVUjcwcVZXT3JXRDktdGNEQkZ6cGQyZUhMYzc3Zw?oc=5",
-      "published": "2026-04-21T21:49:00",
-      "sentiment_score": -0.615,
-      "sentiment_label": "Negative",
-      "confidence": 0.653
-    },
-    {
-      "headline": "Florida Inquiry Into ChatGPT\u2019s Role in FSU Shooting Shifts to Criminal Investigation",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1ZDeUhPSm43Q2gyajFkeE8zZUxzU1RWbHpTczRfV21feXJ1UV9XX2Z1RXFvNDlLV3dlSlhYVE9zbjJzZUhablNDbU5ELS1GS1FIRlhUUGkzR09GRHluTUtvLUs3NHU5ekw0R3dxZlYzcHFtTWtoc0JiNW92aVFVLVJiYVVSUnA5YWtGMmhkeDdqVkN6djZmWmowTEpVTHFXNC1V?oc=5",
-      "published": "2026-04-21T21:48:51",
-      "sentiment_score": -0.115,
-      "sentiment_label": "Neutral",
-      "confidence": 0.837
-    },
-    {
       "headline": "Florida attorney general launches criminal investigation into ChatGPT maker OpenAI after deadly FSU shooting",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWYwejMyU3ZMemNMdXF5UThFbVM4aU5Pb29CelF2djhodFVHVTV2YzU2a09jc0RvRjl6ZXZyYTJveVdrV2JzSkhoTVh2QlNmVFU1ZWdYWlZYWDQtN1lReXE1UWY2cm5ieERaQ2FmMm53bUc4Y21LdXE5cUFJeFZTSnhtVWd2X2NQYk5BWTFza3NVNUN3Z0x2OE5R?oc=5",
       "published": "2026-04-21T20:10:53",
-      "sentiment_score": -0.623,
+      "sentiment_score": -0.649,
       "sentiment_label": "Negative",
-      "confidence": 0.652
-    },
-    {
-      "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
-      "published": "2026-04-21T20:04:08",
-      "sentiment_score": 0.044,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
-    },
-    {
-      "headline": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEVfNXg2MzdtTkZNU1pYRUtOLTRJaGZEYmQ1dl9xeXBpS0psQ2lhcXhHS3J0VGpGLXdYREE0ZWVFTmtEZWFrcnpSdllnVk1WcXl0QWhpeHRwaDljTWMybjlFMjBkOFBuOU51RFVBUkh0c2FzbG1wMVAtMDNVNmJ5OV8xdWtRalREQnhKM19zajVMNkt5cFVWTW5jNktjekkwOHNGTXh4anZ1MTZ1ZFIyeXZtQkNjVjBuZ3lfMm53?oc=5",
-      "published": "2026-04-21T20:01:36",
-      "sentiment_score": -0.247,
-      "sentiment_label": "Neutral",
-      "confidence": 0.692
+      "confidence": 0.684
     },
     {
       "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting",
@@ -312,13 +306,166 @@
       "confidence": 0.865
     },
     {
+      "headline": "AI backlash is coming for elections",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "published": "2026-04-21T19:00:05Z",
+      "sentiment_score": -0.949,
+      "sentiment_label": "Negative",
+      "confidence": 0.958
+    },
+    {
+      "headline": "OpenAI Beefs Up ChatGPT's Image Generation Model",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+      "published": "2026-04-21T19:00:00Z",
+      "sentiment_score": 0.421,
+      "sentiment_label": "Neutral",
+      "confidence": 0.515
+    },
+    {
+      "headline": "Sam Altman throws shade at Anthropic's cyber model, Mythos: 'fear-based marketing' | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "published": "2026-04-21T18:55:29Z",
+      "sentiment_score": -0.033,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
+    },
+    {
       "headline": "OpenAI\u2019s updated image generator can now pull information from the web",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDBYb1hoTTVLY204SE42djg2cjFtVlJTb0FyeWNxdFRBajlBN0lSc3VCcnBUSnUzWDRuSV81STVaeVZQQkttdzNFRVdjY0hwM0dubjB4LVlqNV95azR1OVpld3Y4S2lCOVlsT0lpeU9Fem40dWUtZk8ydlBwbFM1TkEtWEtiZExjM3c?oc=5",
-      "published": "2026-04-21T19:00:00",
-      "sentiment_score": 0.015,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "published": "2026-04-21T18:42:59Z",
+      "sentiment_score": 0.24,
       "sentiment_label": "Neutral",
-      "confidence": 0.934
+      "confidence": 0.743
+    },
+    {
+      "headline": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 151 Bugs in Firefox",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+      "published": "2026-04-21T18:30:00Z",
+      "sentiment_score": -0.54,
+      "sentiment_label": "Negative",
+      "confidence": 0.633
+    },
+    {
+      "headline": "A look at Tim Cook\u2019s 15-year legacy as CEO of Apple",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/",
+      "published": "2026-04-21T17:40:20Z",
+      "sentiment_score": 0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.929
+    },
+    {
+      "headline": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+      "published": "2026-04-21T17:35:12Z",
+      "sentiment_score": 0.017,
+      "sentiment_label": "Neutral",
+      "confidence": 0.924
+    },
+    {
+      "headline": "Insilico Medicine Announces Industry's First Longevity Board to Accelerate AI-Driven Aging Research for Drug Discovery",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/pr-newswire/insilico-medicine-announces-industrys-first-longevity-board-to-accelerate-ai-driven-aging-research-for-drug-discovery-14af7ee520af523b030bfe46f676d0b4",
+      "published": "2026-04-21T17:23:16Z",
+      "sentiment_score": 0.534,
+      "sentiment_label": "Positive",
+      "confidence": 0.542
+    },
+    {
+      "headline": "Michael and Susan Dell to donate $750 million to UT Austin to fund new medical campus",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/21/michael-susan-dell-ut-austin-donation-medical-campus.html",
+      "published": "2026-04-21T17:15:01Z",
+      "sentiment_score": 0.26,
+      "sentiment_label": "Neutral",
+      "confidence": 0.72
+    },
+    {
+      "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
+      "published": "2026-04-21T16:28:00",
+      "sentiment_score": 0.044,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
+    },
+    {
+      "headline": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+      "published": "2026-04-21T16:19:40Z",
+      "sentiment_score": -0.008,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
+    {
+      "headline": "New Apple CEO John Ternus doubted himself when he started: 'I wasn't sure I belonged'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/21/john-ternus-apple-ceo.html",
+      "published": "2026-04-21T16:12:31Z",
+      "sentiment_score": 0.12,
+      "sentiment_label": "Neutral",
+      "confidence": 0.822
+    },
+    {
+      "headline": "Former Pinterest team redesigns email with Extra \u2014 and it\u2019s actually good | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
+      "published": "2026-04-21T16:02:41Z",
+      "sentiment_score": 0.031,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
+    },
+    {
+      "headline": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "published": "2026-04-21T16:01:31Z",
+      "sentiment_score": 0.102,
+      "sentiment_label": "Neutral",
+      "confidence": 0.878
+    },
+    {
+      "headline": "Tim Cook turned Apple into a $4 trillion juggernaut by not trying to be Steve Jobs",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/21/tim-cook-apple-steve-jobs-legacy.html",
+      "published": "2026-04-21T15:14:19Z",
+      "sentiment_score": 0.533,
+      "sentiment_label": "Positive",
+      "confidence": 0.565
+    },
+    {
+      "headline": "5 ways your doctor may be using AI chatbots \u2014 and why it matters | CNN",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/04/21/health/doctors-ai-chatbots-wellness",
+      "published": "2026-04-21T14:00:57Z",
+      "sentiment_score": -0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
+    {
+      "headline": "John Ternus\u2019s first big problem is AI",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+      "published": "2026-04-21T13:37:55Z",
+      "sentiment_score": -0.092,
+      "sentiment_label": "Neutral",
+      "confidence": 0.823
+    },
+    {
+      "headline": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
+      "published": "2026-04-21T13:07:41Z",
+      "sentiment_score": -0.6,
+      "sentiment_label": "Negative",
+      "confidence": 0.654
     },
     {
       "headline": "GRAI believes AI can make music more social, not replace artists | TechCrunch",
@@ -330,15 +477,6 @@
       "confidence": 0.83
     },
     {
-      "headline": "Apple's next CEO, Warsh's confirmation hearing, the psychedelic stock surge and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/21/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-04-21T12:22:54Z",
-      "sentiment_score": -0.031,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
-    },
-    {
       "headline": "This Scammer Used an AI-Generated MAGA Girl to Grift \u2018Super Dumb\u2019 Men",
       "source": "Wired",
       "link": "https://www.wired.com/story/ai-generated-maga-girls/",
@@ -346,15 +484,6 @@
       "sentiment_score": -0.105,
       "sentiment_label": "Neutral",
       "confidence": 0.81
-    },
-    {
-      "headline": "UnitedHealth tops quarterly estimates, hikes profit outlook as insurer manages high medical costs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/21/unitedhealth-group-unh-earnings-q1-2026.html",
-      "published": "2026-04-21T09:59:22Z",
-      "sentiment_score": 0.893,
-      "sentiment_label": "Positive",
-      "confidence": 0.937
     },
     {
       "headline": "New era as Apple names new boss to replace Tim Cook after 15 years",
@@ -366,60 +495,6 @@
       "confidence": 0.927
     },
     {
-      "headline": "Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html",
-      "published": "2026-04-21T05:09:27Z",
-      "sentiment_score": -0.079,
-      "sentiment_label": "Neutral",
-      "confidence": 0.76
-    },
-    {
-      "headline": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "published": "2026-04-20T23:11:31Z",
-      "sentiment_score": 0.436,
-      "sentiment_label": "Neutral",
-      "confidence": 0.542
-    },
-    {
-      "headline": "Tim Cook reactions: Sam Altman, Palmer Luckey react to Apple CEO move",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/20/tim-cook-apple-reactions-ceo.html",
-      "published": "2026-04-20T23:00:20Z",
-      "sentiment_score": -0.087,
-      "sentiment_label": "Neutral",
-      "confidence": 0.721
-    },
-    {
-      "headline": "Apple CEO Tim Cook to step down after more than a decade | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/04/20/tech/apple-ceo-tim-cook-steps-down",
-      "published": "2026-04-20T20:43:29Z",
-      "sentiment_score": -0.408,
-      "sentiment_label": "Neutral",
-      "confidence": 0.557
-    },
-    {
-      "headline": "Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
-      "published": "2026-04-20T20:30:09Z",
-      "sentiment_score": 0.925,
-      "sentiment_label": "Positive",
-      "confidence": 0.937
-    },
-    {
-      "headline": "Silicon Valley has forgotten what normal people want",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
-      "published": "2026-04-20T20:19:49Z",
-      "sentiment_score": -0.254,
-      "sentiment_label": "Neutral",
-      "confidence": 0.644
-    },
-    {
       "headline": "Blue Origin rocket grounded after satellite 'mishap'",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
@@ -427,24 +502,6 @@
       "sentiment_score": -0.732,
       "sentiment_label": "Negative",
       "confidence": 0.748
-    },
-    {
-      "headline": "It's not just one thing \u2014 it's another thing | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "published": "2026-04-20T19:37:07Z",
-      "sentiment_score": -0.029,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
-    },
-    {
-      "headline": "Mercedes\u2019 first all-electric C-Class is its sportiest one yet",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs",
-      "published": "2026-04-20T18:35:57Z",
-      "sentiment_score": 0.237,
-      "sentiment_label": "Neutral",
-      "confidence": 0.746
     },
     {
       "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
@@ -477,7 +534,7 @@
       "headline": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3dqQ0UtTjhzTnZrd1YxcGJMTzR0Rmhha3lCaU9raENRaFlnUXlEckh5RjhMU2NBYXU1MC04bzk0YmF6LWZGZFRqRWJRdG9GRlZzZE5QV0NLaXczaS1Lb2dkd3M2Q2tlUEdEZWZfTmZvQ0xPVmdGU2ZBQS1nZUdnbkZPWWljcnk4QUVIcTNBUnVEcEJEOTBpcjROSjBwaWZvSEZGa1k1eU1ZWXBPN21NTEJzY2RXZkdXY1hLOUZqQ2FNWm5oMWp3Q29ueHJKRzRyLUx1cGdB?oc=5",
-      "published": "2026-04-15T03:03:00",
+      "published": "2026-04-14T07:00:00",
       "sentiment_score": 0.038,
       "sentiment_label": "Neutral",
       "confidence": 0.928
@@ -508,6 +565,15 @@
       "sentiment_score": 0.112,
       "sentiment_label": "Neutral",
       "confidence": 0.864
+    },
+    {
+      "headline": "OpenAI is planning a desktop \u2018superapp\u2019",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjg5Z3BPaGRMZm5FenFsX3ZQMGRVdEZLS0k0ZzJsSlFBd3FZQmtQZGoxUV90dTVBVXhBbktwc29LS3dHNHE1SFJOVjdXSUIwV29FSWRJLU5XUVpQcVhHZzVma1g0bmNvV3FleFZ0QUNNZVEyYXBkTEduZXJXM1p1cjUtVjJoamROazk0VUR1X19KUi1TUHdPU0Y5OUN6WUZtQWpQUw?oc=5",
+      "published": "2026-03-19T07:00:00",
+      "sentiment_score": 0.083,
+      "sentiment_label": "Neutral",
+      "confidence": 0.891
     },
     {
       "headline": "Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago",
