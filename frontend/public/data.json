@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T07:24:24.214439",
-  "total_articles": 28,
-  "overall_sentiment": -0.07,
+  "last_updated": "2026-04-23T13:04:02.695611",
+  "total_articles": 27,
+  "overall_sentiment": -0.06,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,12 +24,12 @@
     },
     {
       "date": "2026-04-17",
-      "avg_sentiment": -0.414,
-      "article_count": 2,
+      "avg_sentiment": 0.081,
+      "article_count": 1,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.071
+      "moving_avg": 0.094
     },
     {
       "date": "2026-04-18",
@@ -38,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.256
+      "moving_avg": -0.133
     },
     {
       "date": "2026-04-20",
@@ -47,60 +47,99 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.352
+      "moving_avg": -0.253
     },
     {
       "date": "2026-04-21",
-      "avg_sentiment": 0.122,
-      "article_count": 16,
-      "positive_count": 7,
-      "negative_count": 2,
-      "neutral_count": 7,
-      "moving_avg": -0.273
+      "avg_sentiment": 0.124,
+      "article_count": 6,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 4,
+      "moving_avg": -0.19
     },
     {
       "date": "2026-04-22",
-      "avg_sentiment": -0.292,
-      "article_count": 6,
-      "positive_count": 2,
-      "negative_count": 4,
+      "avg_sentiment": -0.031,
+      "article_count": 15,
+      "positive_count": 8,
+      "negative_count": 5,
+      "neutral_count": 2,
+      "moving_avg": -0.167
+    },
+    {
+      "date": "2026-04-23",
+      "avg_sentiment": -0.635,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.275
+      "moving_avg": -0.274
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.347,
-      "article_count": 12,
+      "avg_sentiment": -0.297,
+      "article_count": 11,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.091,
-      "article_count": 6,
-      "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.238,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": 0.694,
-      "article_count": 2,
-      "sentiment_label": "Positive"
+      "avg_sentiment": 0.004,
+      "article_count": 7,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "Wired",
-      "avg_sentiment": 0.219,
-      "article_count": 2,
+      "avg_sentiment": 0.251,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.336,
+      "article_count": 3,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "UK Biobank health data listed for sale in China, government confirms",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-23T11:45:41",
+      "sentiment_score": -0.635,
+      "sentiment_label": "Negative",
+      "confidence": 0.66
+    },
+    {
+      "headline": "Ceasefire extension, Best Buy's new CEO, Amazon's GLP-1 push and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/22/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-04-22T12:38:10Z",
+      "sentiment_score": -0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
+    },
+    {
+      "headline": "Retail traders can now get long OpenAI as Robinhood's venture fund takes a stake",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/22/retail-traders-can-now-get-long-openai-as-robinhoods-venture-fund-takes-a-stake.html",
+      "published": "2026-04-22T12:05:38Z",
+      "sentiment_score": 0.086,
+      "sentiment_label": "Neutral",
+      "confidence": 0.896
+    },
+    {
+      "headline": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "published": "2026-04-22T12:04:34Z",
+      "sentiment_score": 0.914,
+      "sentiment_label": "Positive",
+      "confidence": 0.925
+    },
     {
       "headline": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
       "source": "BBC News",
@@ -109,6 +148,51 @@
       "sentiment_score": -0.459,
       "sentiment_label": "Negative",
       "confidence": 0.51
+    },
+    {
+      "headline": "Google unveils chips for AI training and inference in latest shot at Nvidia",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/22/google-launches-training-and-inference-tpus-in-latest-shot-at-nvidia.html",
+      "published": "2026-04-22T12:00:01Z",
+      "sentiment_score": 0.294,
+      "sentiment_label": "Neutral",
+      "confidence": 0.686
+    },
+    {
+      "headline": "Google Maps is about to get a big dose of AI | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "published": "2026-04-22T12:00:00Z",
+      "sentiment_score": 0.136,
+      "sentiment_label": "Neutral",
+      "confidence": 0.835
+    },
+    {
+      "headline": "Best Buy names Jason Bonfig as new CEO, replacing Corie Barry in late October",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/22/best-buy-jason-bonfig-ceo-corie-barry.html",
+      "published": "2026-04-22T11:00:27Z",
+      "sentiment_score": 0.197,
+      "sentiment_label": "Neutral",
+      "confidence": 0.759
+    },
+    {
+      "headline": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
+      "source": "Wired",
+      "link": "https://www.wired.com/review/beatbot-sora-30/",
+      "published": "2026-04-22T10:33:00Z",
+      "sentiment_score": 0.881,
+      "sentiment_label": "Positive",
+      "confidence": 0.888
+    },
+    {
+      "headline": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+      "published": "2026-04-22T10:30:00Z",
+      "sentiment_score": 0.071,
+      "sentiment_label": "Neutral",
+      "confidence": 0.888
     },
     {
       "headline": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
@@ -120,6 +204,33 @@
       "confidence": 0.828
     },
     {
+      "headline": "CEO of Southeast Asia\u2019s largest bank names the 'new war' keeping her up at night",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/22/dbs-ceo-tan-su-shan-cyber-threats-are-keeping-her-up-at-night.html",
+      "published": "2026-04-22T10:12:33Z",
+      "sentiment_score": -0.442,
+      "sentiment_label": "Neutral",
+      "confidence": 0.493
+    },
+    {
+      "headline": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+      "published": "2026-04-22T10:00:00Z",
+      "sentiment_score": 0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.935
+    },
+    {
+      "headline": "94% of Enterprises Don't Trust AI to Get Culture Right. They're Using It Anyway.",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/business-wire/94-of-enterprises-dont-trust-ai-to-get-culture-right-theyre-using-it-anyway-44e0d9eb04984f97a4228c50e746286f",
+      "published": "2026-04-22T08:15:12Z",
+      "sentiment_score": -0.923,
+      "sentiment_label": "Negative",
+      "confidence": 0.937
+    },
+    {
       "headline": "CNBC's UK Exchange newsletter: UK defense spending \u2014 or lack thereof \u2014\u00a0haunts Starmer's government",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/04/22/uk-defense-spending-delays-arguments-starmer-government.html",
@@ -127,15 +238,6 @@
       "sentiment_score": -0.96,
       "sentiment_label": "Negative",
       "confidence": 0.97
-    },
-    {
-      "headline": "CEO with over $3 trillion under management tells Gen-Z to think past \u2018hobby investing\u2019",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/22/capital-group-ceo-wants-gen-z-investors-to-think-past-hobby-investing.html",
-      "published": "2026-04-22T05:41:10Z",
-      "sentiment_score": -0.906,
-      "sentiment_label": "Negative",
-      "confidence": 0.924
     },
     {
       "headline": "OpenAI unveils new image model that\u2019s better at charts and diagrams",
@@ -147,15 +249,6 @@
       "confidence": 0.544
     },
     {
-      "headline": "LTM Wins Two Google Cloud Partner of the Year Awards for 2026",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/ltm-wins-two-google-cloud-partner-of-the-year-awards-for-2026-93c606b3e52d40afaef5e231f07807ac",
-      "published": "2026-04-22T03:06:29Z",
-      "sentiment_score": 0.853,
-      "sentiment_label": "Positive",
-      "confidence": 0.864
-    },
-    {
       "headline": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
@@ -163,15 +256,6 @@
       "sentiment_score": -0.139,
       "sentiment_label": "Neutral",
       "confidence": 0.808
-    },
-    {
-      "headline": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "published": "2026-04-21T22:58:22Z",
-      "sentiment_score": 0.084,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
     },
     {
       "headline": "Meta to track workers' clicks and keystrokes to train AI",
@@ -201,69 +285,6 @@
       "confidence": 0.905
     },
     {
-      "headline": "Trump recounts Tim Cook call to 'kiss my ass,' in stark look at White House dealmaking",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/21/trump-tim-cook-call-white-house-deals.html",
-      "published": "2026-04-21T21:04:19Z",
-      "sentiment_score": 0.048,
-      "sentiment_label": "Neutral",
-      "confidence": 0.905
-    },
-    {
-      "headline": "Apple's John Ternus will run one of the world's most powerful companies; the job is a minefield | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-      "published": "2026-04-21T20:24:04Z",
-      "sentiment_score": 0.002,
-      "sentiment_label": "Neutral",
-      "confidence": 0.944
-    },
-    {
-      "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c62j4ldp2jqo",
-      "published": "2026-04-21T19:15:34Z",
-      "sentiment_score": -0.623,
-      "sentiment_label": "Negative",
-      "confidence": 0.658
-    },
-    {
-      "headline": "ChatGPT's new Images 2.0 model is surprisingly good at generating text | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "published": "2026-04-21T19:01:46Z",
-      "sentiment_score": 0.367,
-      "sentiment_label": "Neutral",
-      "confidence": 0.616
-    },
-    {
-      "headline": "OpenAI Beefs Up ChatGPT's Image Generation Model",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-      "published": "2026-04-21T19:00:00Z",
-      "sentiment_score": 0.421,
-      "sentiment_label": "Neutral",
-      "confidence": 0.515
-    },
-    {
-      "headline": "OpenAI\u2019s updated image generator can now pull information from the web",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
-      "published": "2026-04-21T18:42:59Z",
-      "sentiment_score": 0.24,
-      "sentiment_label": "Neutral",
-      "confidence": 0.743
-    },
-    {
-      "headline": "A look at Tim Cook\u2019s 15-year legacy as CEO of Apple",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/",
-      "published": "2026-04-21T17:40:20Z",
-      "sentiment_score": 0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.929
-    },
-    {
       "headline": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
       "source": "Wired",
       "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
@@ -271,24 +292,6 @@
       "sentiment_score": 0.017,
       "sentiment_label": "Neutral",
       "confidence": 0.924
-    },
-    {
-      "headline": "Insilico Medicine Announces Industry's First Longevity Board to Accelerate AI-Driven Aging Research for Drug Discovery",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/insilico-medicine-announces-industrys-first-longevity-board-to-accelerate-ai-driven-aging-research-for-drug-discovery-14af7ee520af523b030bfe46f676d0b4",
-      "published": "2026-04-21T17:23:16Z",
-      "sentiment_score": 0.534,
-      "sentiment_label": "Positive",
-      "confidence": 0.542
-    },
-    {
-      "headline": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-      "published": "2026-04-21T16:01:31Z",
-      "sentiment_score": 0.102,
-      "sentiment_label": "Neutral",
-      "confidence": 0.878
     },
     {
       "headline": "New era as Apple names new boss to replace Tim Cook after 15 years",
@@ -325,15 +328,6 @@
       "sentiment_score": 0.081,
       "sentiment_label": "Neutral",
       "confidence": 0.882
-    },
-    {
-      "headline": "What is Claude Mythos and what risks does it pose?",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-17T13:41:01",
-      "sentiment_score": -0.908,
-      "sentiment_label": "Negative",
-      "confidence": 0.924
     },
     {
       "headline": "Tech Life",
