@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-25T07:05:33.261112",
-  "total_articles": 41,
-  "overall_sentiment": -0.211,
+  "last_updated": "2026-04-25T12:42:22.639489",
+  "total_articles": 38,
+  "overall_sentiment": -0.17,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,30 +33,30 @@
     },
     {
       "date": "2026-04-23",
-      "avg_sentiment": -0.285,
-      "article_count": 12,
+      "avg_sentiment": -0.042,
+      "article_count": 8,
       "positive_count": 4,
-      "negative_count": 6,
-      "neutral_count": 2,
-      "moving_avg": -0.248
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.187
     },
     {
       "date": "2026-04-24",
-      "avg_sentiment": -0.077,
-      "article_count": 16,
-      "positive_count": 8,
-      "negative_count": 6,
-      "neutral_count": 2,
-      "moving_avg": -0.214
+      "avg_sentiment": -0.124,
+      "article_count": 15,
+      "positive_count": 7,
+      "negative_count": 5,
+      "neutral_count": 3,
+      "moving_avg": -0.174
     },
     {
       "date": "2026-04-25",
-      "avg_sentiment": -0.079,
-      "article_count": 2,
+      "avg_sentiment": -0.105,
+      "article_count": 4,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.191
+      "neutral_count": 3,
+      "moving_avg": -0.163
     }
   ],
   "source_stats": [
@@ -68,19 +68,25 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.165,
-      "article_count": 7,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.269,
-      "article_count": 6,
+      "avg_sentiment": -0.123,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.148,
+      "source": "The Verge",
+      "avg_sentiment": 0.321,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.146,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.246,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
@@ -91,39 +97,30 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNN",
-      "avg_sentiment": -0.74,
+      "source": "Associated Press",
+      "avg_sentiment": -0.297,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.117,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Bloomberg",
-      "avg_sentiment": 0.012,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": 0.051,
-      "article_count": 2,
-      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "White House pushed out new AI official after just four days on the job",
+      "headline": "Column | Don\u2019t tell your AI chatbot these 5 things to keep your money safe",
       "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVF3Nm5NaC1BdVRlclhrOFNuVUJqd0lnMl9LUExzV1RWTUsya0NJT0RLNDBnQUdYZldzTlNqd2tMV29VNmxtTWlHcjdLSmRCSjdIdldHRHlRUW5VazhGQ0dleHkySE9rZmg5T3YyemNRd0o4WDJNbnpabjJIWmxEV1VWeGt3UThKdEZtMUVaZEcxQkpPc1EwSQ?oc=5",
-      "published": "2026-04-25T03:35:14",
-      "sentiment_score": -0.178,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGFHNzdYbUhtOHQwMzdiVEhFU1dXXzdVdXZEOF9KYmZQZ2h2Qm1xeFNaX28wTE1tM0dyc0tEUHFvcWJGRGR0dHAyR1AzTGk1Tm0wSFBkbWFRdUxEMmNCdHk0SWJSZFlsQWU1Um5NdkNJdk5uZW1ERWQwTmM3bVlxMkxGUVJfTG14TGlhX2FjRGgtQQ?oc=5",
+      "published": "2026-04-25T12:02:02",
+      "sentiment_score": -0.024,
       "sentiment_label": "Neutral",
-      "confidence": 0.72
+      "confidence": 0.917
+    },
+    {
+      "headline": "U.S. State Department orders global warning about alleged China AI thefts by DeepSeek, others: Reuters",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjJhb2VhdlFXWTBCVUZQa3ZLQ2ZfTjJFUE9lbzRQNmJGYzhFZXJFLTJ3RWdDb0NPT1hQZkdwcW5wMjFfalUzSHNzdWM2dkpLa25vbG1XMXd2Tmo0SmpFZWUxMkU5U2hCcy1xY1RpNmpSMUxPLURFaTZYVVFSUWlSU1dvUdIBiAFBVV95cUxOQ0kwYjI1eHhaVjRuaGtiNGRldGRNLVFLRXpaQnc1MVhlMkZodm1iRlQ2U2pyWndzUnJwRW5pS0hHTVpWR1puM0Z2dnN2clg1V19IeWFVbkZTWnR0eTRuV3g3Nm9iVXVQMnRrUUlMVDNzc0VpX1d2QXZoZEJCZGFnNjF0djVaTTZk?oc=5",
+      "published": "2026-04-25T10:03:24",
+      "sentiment_score": -0.42,
+      "sentiment_label": "Neutral",
+      "confidence": 0.493
     },
     {
       "headline": "Tech Now",
@@ -135,6 +132,15 @@
       "confidence": 0.93
     },
     {
+      "headline": "Watch Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPME1sZHAxVG4xWXhaNi1oekxRVG52TndqSFpLMTQySW1uNTRCM0p1WmhGLWVIcDZHa1hYVlRob3BMMXZNRUJlWFNETFdQUXJMaVNQeWp5blBxdnJoWkVXckp0bHBVclVncjAzZDFTLXlEZlpYeFI0UVhwd1ROc0xsejNpeG1jN1VKaG1MWmF4dDRpcHdray1WTTlxYw?oc=5",
+      "published": "2026-04-25T00:00:00",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.906
+    },
+    {
       "headline": "OpenAI boss 'deeply sorry' for not telling police of Tumbler Ridge suspect's account",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CclZpT2J3aGNDQWdsaGRsNFJqMjczRHpYVjRZSFh3WWRPUDdCRW1aM2M1dGFhVTFZcDNldndhYWRCaktJUFlYczZaTVVJYnNyZE5Kbk8ybVU1UQ?oc=5",
@@ -144,13 +150,13 @@
       "confidence": 0.718
     },
     {
-      "headline": "OpenAI\u2019s Sam Altman apologizes to Canadian community after failing to flag mass shooter\u2019s conversations with its AI chatbot",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0R1QzZ3aDhTbGJNaHljd1ZFQ0Q5bC1nZk1tZU53Wk40aVRJMjFsTUNnTUFmLVk4ZTR2WjYtYjl4eWdBb0F4c0lCdWtkcmZOeS1EZW5RLVYtWjFRdWU0SThUUUpWRmRob1Q2Zi1fT0dKSlZlb0RPTlRqVEdubUJUMjAyTVM?oc=5",
-      "published": "2026-04-24T21:56:48",
-      "sentiment_score": -0.856,
-      "sentiment_label": "Negative",
-      "confidence": 0.883
+      "headline": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWpxcE45R3ktV2ppNGpLTU1VZU9aRTgtWXRfOE80ZWNpM2l4LVpDV05KeHdyaWZYSWtLQVNOZUVzQ3ZwWk12d3hxMmg1VHlZZEFWdHNtcjd5Qkk5cnhHT3FmWFNJUGFfa2NiQXZCcW9QNHNHTUt2YWc3UjAxMENaTU9rZ0Q0VS0xaWxYbGZVYzBWTkd5a1NiVmRUb2dOQXBCRDF4azdZcElobUZ0UThVSw?oc=5",
+      "published": "2026-04-24T20:32:00",
+      "sentiment_score": -0.374,
+      "sentiment_label": "Neutral",
+      "confidence": 0.514
     },
     {
       "headline": "Google Commits to Invest Up to $40 Billion in Anthropic",
@@ -162,6 +168,15 @@
       "confidence": 0.843
     },
     {
+      "headline": "Essay | AI Is Cannibalizing Human Intelligence. Here\u2019s How to Stop It.",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DLVhTNjJVeGZlaEYyRzh3bWNSdy1jb3hXS2o2emlYLUxMc3k1VnVOVzUzUlhCd3lXcWRSbkpFZnUycHN3WDh3TWNkQllTZWhES3l5Y0ZBQmRqNld0WS1xZEdYMUtLSEl2V3M5dF9TblFJSUhpVmxuWQ?oc=5",
+      "published": "2026-04-24T18:00:00",
+      "sentiment_score": -0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.893
+    },
+    {
       "headline": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
@@ -169,6 +184,24 @@
       "sentiment_score": 0.074,
       "sentiment_label": "Neutral",
       "confidence": 0.866
+    },
+    {
+      "headline": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
+      "published": "2026-04-24T11:00:01Z",
+      "sentiment_score": 0.718,
+      "sentiment_label": "Positive",
+      "confidence": 0.74
+    },
+    {
+      "headline": "The Tech Download: How Apple's new chief could shake things up",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/24/the-tech-download-how-apples-new-chief-could-shake-things-up.html",
+      "published": "2026-04-24T11:00:01Z",
+      "sentiment_score": -0.033,
+      "sentiment_label": "Neutral",
+      "confidence": 0.882
     },
     {
       "headline": "Biobank data incident caused by 'a few bad apples', boss says",
@@ -180,6 +213,24 @@
       "confidence": 0.947
     },
     {
+      "headline": "China\u2019s DeepSeek previews new AI model a year after jolting US rivals",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "published": "2026-04-24T09:45:30Z",
+      "sentiment_score": 0.835,
+      "sentiment_label": "Positive",
+      "confidence": 0.845
+    },
+    {
+      "headline": "Prestigious photo contest answers \u2018what is a photo?\u2019",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "published": "2026-04-24T09:40:07Z",
+      "sentiment_score": 0.097,
+      "sentiment_label": "Neutral",
+      "confidence": 0.871
+    },
+    {
       "headline": "Sam Altman\u2019s Next High-Wire Act: Getting OpenAI to Make More Money",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHWVhKLWttcVRBaG45WFhYZ01LR2ZzdmU2RDlURE9FYm1xMk9TNC1lRXg0dV80SWxxRnV2UjdvS19icFhBdkpNT3JWRElZeExIUmlGa21UdUw2QlRHc0lxaWJkbVpnRWRMSzZoNXJwa0o1NnVucTlwMXR4LUlKUlk?oc=5",
@@ -187,6 +238,24 @@
       "sentiment_score": 0.097,
       "sentiment_label": "Neutral",
       "confidence": 0.864
+    },
+    {
+      "headline": "5 Reasons to Think Twice Before Using ChatGPT\u2014or Any Chatbot\u2014for Financial Advice",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+      "published": "2026-04-24T09:00:00Z",
+      "sentiment_score": 0.048,
+      "sentiment_label": "Neutral",
+      "confidence": 0.914
+    },
+    {
+      "headline": "China's DeepSeek launches an update of its AI model",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/deepseek-ai-china-gpt-v4-d2ed33f2521917193616e061674d5f92",
+      "published": "2026-04-24T07:43:42Z",
+      "sentiment_score": 0.095,
+      "sentiment_label": "Neutral",
+      "confidence": 0.881
     },
     {
       "headline": "Meta to cut one in 10 jobs after spending billions on AI",
@@ -198,69 +267,6 @@
       "confidence": 0.968
     },
     {
-      "headline": "CNBC Daily Open: Truce extended, trust still on edge",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/24/cnbc-daily-open-truce-extended-trust-still-on-edge.html",
-      "published": "2026-04-24T06:35:03Z",
-      "sentiment_score": 0.79,
-      "sentiment_label": "Positive",
-      "confidence": 0.834
-    },
-    {
-      "headline": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
-      "published": "2026-04-24T06:21:37Z",
-      "sentiment_score": 0.93,
-      "sentiment_label": "Positive",
-      "confidence": 0.952
-    },
-    {
-      "headline": "Warburg Pincus-backed PDG is said to tap Goldman for stake sale",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-24/warburg-pincus-backed-pdg-is-said-to-tap-goldman-for-stake-sale",
-      "published": "2026-04-24T06:09:52Z",
-      "sentiment_score": -0.121,
-      "sentiment_label": "Neutral",
-      "confidence": 0.833
-    },
-    {
-      "headline": "China's DeepSeek releases preview of long-awaited V4 model as AI race intensifies",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html",
-      "published": "2026-04-24T04:42:57Z",
-      "sentiment_score": 0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.898
-    },
-    {
-      "headline": "Ant International launches PayTo payment solution for Australian SMEs",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/ant-international-launches-payto-payment-solution-for-australian-smes-dc5f2bd2593a48089d3080b373209ea5",
-      "published": "2026-04-24T04:36:01Z",
-      "sentiment_score": 0.791,
-      "sentiment_label": "Positive",
-      "confidence": 0.799
-    },
-    {
-      "headline": "DeepSeek unveils new flagship AI model a year after breakthrough",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
-      "published": "2026-04-24T04:09:49Z",
-      "sentiment_score": 0.145,
-      "sentiment_label": "Neutral",
-      "confidence": 0.647
-    },
-    {
-      "headline": "Alibaba\u2019s Qwen AI is coming to cars, allowing drivers order food and book hotels by voice",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/24/alibaba-qwen-ai-integration-chinese-carmakers-beijing-auto-show.html",
-      "published": "2026-04-24T04:02:08Z",
-      "sentiment_score": 0.28,
-      "sentiment_label": "Neutral",
-      "confidence": 0.702
-    },
-    {
       "headline": "White House memo claims mass AI theft by Chinese firms",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
@@ -268,15 +274,6 @@
       "sentiment_score": -0.928,
       "sentiment_label": "Negative",
       "confidence": 0.939
-    },
-    {
-      "headline": "Bob Iger rejoins Thrive Capital as advisor after Disney exit | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
-      "published": "2026-04-24T00:15:12Z",
-      "sentiment_score": -0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.945
     },
     {
       "headline": "Trump administration targets foreign exploitation of US AI models",
@@ -288,24 +285,6 @@
       "confidence": 0.773
     },
     {
-      "headline": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "published": "2026-04-23T22:27:11Z",
-      "sentiment_score": 0.241,
-      "sentiment_label": "Neutral",
-      "confidence": 0.74
-    },
-    {
-      "headline": "Elon Musk and Sam Altman\u2019s court showdown will dish the dirt",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "published": "2026-04-23T22:19:41Z",
-      "sentiment_score": -0.568,
-      "sentiment_label": "Negative",
-      "confidence": 0.593
-    },
-    {
       "headline": "Opinion | Notable & Quotable: Artificial Intelligence",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOEVaRTZOT1V1LXY0MlBsOUw2YmtSR3BRN3puR1EwMlpObDM3eTBVRE5FMWJ6SzJTZ1Q4Y0k2bUtWWVpiMF9xblVreUcwZ3Z3VklsZjdqMnRZd3FtdUhEcW9XS1c2d3lqVUpTSEZOODc4SGN2eGV2NmlGaWVIN1dPeWV5QQ?oc=5",
@@ -315,13 +294,13 @@
       "confidence": 0.926
     },
     {
-      "headline": "OpenAI releases GPT-5.5, bringing company one step closer to an AI 'superapp' | TechCrunch",
+      "headline": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "published": "2026-04-23T18:33:46Z",
-      "sentiment_score": 0.323,
-      "sentiment_label": "Neutral",
-      "confidence": 0.652
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFRRUMtR0dlSnMtUlA1ZnhTcloxNHl0ME9pcm1TSG9zSlJfWkEzeklCckE5OEFDYjBnajJwcWQ5bGJhX2VuX3lwWTVtVEtna2NTSW1EVy1OeFFlR2phaDVLQ0l3emlSTEZPLVlZMzVMVzRta2pseTV1OW5la3dPaA?oc=5",
+      "published": "2026-04-23T18:29:29",
+      "sentiment_score": 0.769,
+      "sentiment_label": "Positive",
+      "confidence": 0.78
     },
     {
       "headline": "OpenAI announces GPT-5.5, its latest artificial intelligence model",
@@ -342,40 +321,22 @@
       "confidence": 0.966
     },
     {
-      "headline": "Inside Microsoft\u2019s wave of executive departures",
+      "headline": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5",
+      "published": "2026-04-23T18:00:06",
+      "sentiment_score": 0.503,
+      "sentiment_label": "Positive",
+      "confidence": 0.514
+    },
+    {
+      "headline": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad",
-      "published": "2026-04-23T15:44:35Z",
-      "sentiment_score": -0.931,
-      "sentiment_label": "Negative",
-      "confidence": 0.939
-    },
-    {
-      "headline": "Microsoft plans first voluntary employee buyout in company's 51-year history",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html",
-      "published": "2026-04-23T15:15:02Z",
-      "sentiment_score": 0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.93
-    },
-    {
-      "headline": "You\u2019re about to feel the AI money squeeze",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "published": "2026-04-23T13:38:20Z",
-      "sentiment_score": -0.416,
-      "sentiment_label": "Negative",
-      "confidence": 0.478
-    },
-    {
-      "headline": "AI galaxy hunters are adding to the global GPU crunch | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-      "published": "2026-04-23T13:00:00Z",
-      "sentiment_score": 0.134,
-      "sentiment_label": "Neutral",
-      "confidence": 0.838
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORURxVjRuUjV3M0hnd3VhckZQYWxZbnNybVRJemo0Y09zRmNsZ0pOQ3VMUUlaZmdFRi1PTkRLLUl5TERPVUlHZTRDYmpLck9kY0xhOFRTbWZBUGFDeTdmLXpBTzJvRmtaUkNnZm8xSUJxMDFYS3VPOTd0bllQMTYtZVEwMFF1anhj?oc=5",
+      "published": "2026-04-23T18:00:00",
+      "sentiment_score": 0.612,
+      "sentiment_label": "Positive",
+      "confidence": 0.622
     },
     {
       "headline": "UK Biobank health data listed for sale in China, government confirms",
