@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-26T01:50:32.126979",
-  "total_articles": 35,
-  "overall_sentiment": -0.099,
+  "last_updated": "2026-04-26T07:19:17.265859",
+  "total_articles": 37,
+  "overall_sentiment": -0.165,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,30 +33,39 @@
     },
     {
       "date": "2026-04-23",
-      "avg_sentiment": 0.109,
-      "article_count": 5,
+      "avg_sentiment": 0.087,
+      "article_count": 6,
       "positive_count": 3,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.139
+      "neutral_count": 2,
+      "moving_avg": -0.144
     },
     {
       "date": "2026-04-24",
-      "avg_sentiment": -0.009,
-      "article_count": 15,
-      "positive_count": 9,
-      "negative_count": 6,
+      "avg_sentiment": -0.151,
+      "article_count": 14,
+      "positive_count": 7,
+      "negative_count": 7,
       "neutral_count": 0,
-      "moving_avg": -0.113
+      "moving_avg": -0.146
     },
     {
       "date": "2026-04-25",
-      "avg_sentiment": -0.136,
-      "article_count": 5,
-      "positive_count": 1,
+      "avg_sentiment": -0.098,
+      "article_count": 6,
+      "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 3,
-      "moving_avg": -0.117
+      "moving_avg": -0.138
+    },
+    {
+      "date": "2026-04-26",
+      "avg_sentiment": -0.716,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.22
     }
   ],
   "source_stats": [
@@ -67,27 +76,33 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.243,
+      "source": "The Verge",
+      "avg_sentiment": 0.172,
       "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.465,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.193,
+      "source": "CNBC",
+      "avg_sentiment": 0.09,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": -0.634,
-      "article_count": 2,
+      "avg_sentiment": -0.661,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.368,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.136,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -98,6 +113,15 @@
     }
   ],
   "articles": [
+    {
+      "headline": "Cannes AI film festival raises eyebrows \u2013 and questions about future",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDNKQjRtZmdld3NTV3dLQnVSQ3dhUVJFaHRReDAza0FLSFRHXzQ4ZDROa1IwWExrS2N5VkVwREdnMjFDdDBrcDZxMlBKbjJfSi1IU3BrbkZoSVNDNzVOeEJZdFVqVHBiMWRWMHZHSXlTbEY1Z2JPVnBkZ05mTlZfT3ZISFROTGVGbXFBZU55SVU2M2w3SGFiWnk2dDV6Y09HSVpaYk9jaGJGUkU?oc=5",
+      "published": "2026-04-26T06:00:00",
+      "sentiment_score": -0.716,
+      "sentiment_label": "Negative",
+      "confidence": 0.743
+    },
     {
       "headline": "Column | Don\u2019t tell your AI chatbot these 5 things to keep your money safe",
       "source": "The Washington Post",
@@ -115,6 +139,15 @@
       "sentiment_score": -0.766,
       "sentiment_label": "Negative",
       "confidence": 0.798
+    },
+    {
+      "headline": "The most exciting laptop I\u2019ve seen in forever",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
+      "published": "2026-04-25T02:30:04Z",
+      "sentiment_score": 0.09,
+      "sentiment_label": "Neutral",
+      "confidence": 0.884
     },
     {
       "headline": "Tech Now",
@@ -180,6 +213,15 @@
       "confidence": 0.803
     },
     {
+      "headline": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWpxcE45R3ktV2ppNGpLTU1VZU9aRTgtWXRfOE80ZWNpM2l4LVpDV05KeHdyaWZYSWtLQVNOZUVzQ3ZwWk12d3hxMmg1VHlZZEFWdHNtcjd5Qkk5cnhHT3FmWFNJUGFfa2NiQXZCcW9QNHNHTUt2YWc3UjAxMENaTU9rZ0Q0VS0xaWxYbGZVYzBWTkd5a1NiVmRUb2dOQXBCRDF4azdZcElobUZ0UThVSw?oc=5",
+      "published": "2026-04-24T20:32:00",
+      "sentiment_score": -0.374,
+      "sentiment_label": "Neutral",
+      "confidence": 0.514
+    },
+    {
       "headline": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
@@ -196,24 +238,6 @@
       "sentiment_score": 0.606,
       "sentiment_label": "Positive",
       "confidence": 0.621
-    },
-    {
-      "headline": "Google to invest up to $40B in Anthropic in cash and compute | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "published": "2026-04-24T18:00:03Z",
-      "sentiment_score": 0.755,
-      "sentiment_label": "Positive",
-      "confidence": 0.765
-    },
-    {
-      "headline": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
-      "published": "2026-04-24T17:30:55Z",
-      "sentiment_score": 0.855,
-      "sentiment_label": "Positive",
-      "confidence": 0.862
     },
     {
       "headline": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here",
@@ -324,6 +348,15 @@
       "confidence": 0.66
     },
     {
+      "headline": "The Billionaire Math Geek Who Turned AI Into a Money-Printing Machine",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzOTJzdHhRMWlBYVlQNzZNbGx0QWZjVEtZYWNRWkh5SXNESnBUMzZkTFlpRGxfaENuaWhoRHllMlJUbzFURmpyeUNobTBqc0U1VHVIcHA3aUlWaHRxZ0QzVjF6NnhGRUJQX0VoM2ZxNA?oc=5",
+      "published": "2026-04-23T11:00:00",
+      "sentiment_score": -0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.921
+    },
+    {
       "headline": "OpenAI now lets teams make custom bots that can do work on their own",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQV8xWFd0aG1KLTVTNTRJSzJ2dFh5aWphYXBIZFpiWmpTUDQzZVV4QldMSnFZMDloMUptT3FwVDQwZjFNN0lfYlpnLV9hSERzLTZ1UlhfOGlyV003MnBKdDNNWW15a1hyaDU1d2hmZ2RYOWxkeTRhRHcySFc5U3FuX3hoR0J4M1pxUTFTNTlPYVpfYi1NSE5Jb1Z4dzZUUVU5bGZONkUxdEd1dlU3?oc=5",
@@ -380,7 +413,7 @@
     {
       "headline": "Florida attorney general launches criminal investigation into ChatGPT maker OpenAI after deadly FSU shooting",
       "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0F6Um9UUmZJbk1fSXI1NmhCV3dtSmdCWjd2ejlBZlpVR25JRGdNS0lkQVg1MnhTLTZDaTlmREV6RnotU2RPVzNncjZiLUs5M1JjQWRqd3haMHpMOWdRcVFsc2IyQmhpTEJZaGduMWdRSGgycTBzSzFGU3dySlBHa2JSSHhhNWIxYVJPelJjRlNMRzBIU000NE00NzhnTlk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWYwejMyU3ZMemNMdXF5UThFbVM4aU5Pb29CelF2djhodFVHVTV2YzU2a09jc0RvRjl6ZXZyYTJveVdrV2JzSkhoTVh2QlNmVFU1ZWdYWlZYWDQtN1lReXE1UWY2cm5ieERaQ2FmMm53bUc4Y21LdXE5cUFJeFZTSnhtVWd2X2NQYk5BWTFza3NVNUN3Z0x2OE5R?oc=5",
       "published": "2026-04-21T20:10:53",
       "sentiment_score": -0.623,
       "sentiment_label": "Negative",
