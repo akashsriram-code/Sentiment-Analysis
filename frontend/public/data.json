@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-27T01:54:19.839836",
+  "last_updated": "2026-04-27T08:06:55.822882",
   "total_articles": 31,
-  "overall_sentiment": -0.18,
+  "overall_sentiment": -0.198,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,49 +14,58 @@
       "moving_avg": 0.088
     },
     {
+      "date": "2026-04-11",
+      "avg_sentiment": 0.001,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.044
+    },
+    {
       "date": "2026-04-21",
-      "avg_sentiment": -0.245,
+      "avg_sentiment": -0.033,
       "article_count": 3,
       "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.078
+      "negative_count": 1,
+      "neutral_count": 2,
+      "moving_avg": 0.019
     },
     {
       "date": "2026-04-22",
-      "avg_sentiment": -0.408,
-      "article_count": 3,
+      "avg_sentiment": -0.636,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.188
+      "neutral_count": 0,
+      "moving_avg": -0.145
     },
     {
       "date": "2026-04-23",
-      "avg_sentiment": 0.206,
-      "article_count": 4,
+      "avg_sentiment": 0.139,
+      "article_count": 5,
       "positive_count": 3,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.09
+      "neutral_count": 1,
+      "moving_avg": -0.088
     },
     {
       "date": "2026-04-24",
-      "avg_sentiment": -0.269,
-      "article_count": 9,
-      "positive_count": 4,
+      "avg_sentiment": -0.458,
+      "article_count": 7,
+      "positive_count": 2,
       "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.126
+      "moving_avg": -0.15
     },
     {
       "date": "2026-04-25",
-      "avg_sentiment": -0.121,
-      "article_count": 7,
+      "avg_sentiment": -0.146,
+      "article_count": 6,
       "positive_count": 2,
       "negative_count": 2,
-      "neutral_count": 3,
-      "moving_avg": -0.125
+      "neutral_count": 2,
+      "moving_avg": -0.149
     },
     {
       "date": "2026-04-26",
@@ -65,7 +74,16 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.152
+      "moving_avg": -0.207
+    },
+    {
+      "date": "2026-04-27",
+      "avg_sentiment": -0.106,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.223
     }
   ],
   "source_stats": [
@@ -76,9 +94,15 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "The New York Times",
+      "avg_sentiment": 0.186,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "TechCrunch",
-      "avg_sentiment": 0.289,
-      "article_count": 5,
+      "avg_sentiment": 0.244,
+      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
@@ -89,9 +113,15 @@
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.25,
+      "avg_sentiment": 0.035,
       "article_count": 3,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": -0.137,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
@@ -100,13 +130,31 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.064,
+      "source": "WSJ",
+      "avg_sentiment": -0.197,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGtCQ0JxR3FuMDZFQ1RXd20yeHkyaEdmbUEyRV9CUE9oVHJnaVZka2Z1TXA3RW0wek1mX2VjLUQ2TTFlMml6MVZBSE5aaDBjamRRZktsd09mR20zazBPZHFlVXNOZTA1a184anFCSmU0ek9aZmV6dFFDeERvcG1MR25saTFkRmZwNndISWRuNC0yYU9SVWQ5VW1OVDdsa0UtT1VWeXpVYXpSTFc1WXAyd09wSnBXM3FJcE1Hd0dlazZMQ2ZTZWhMSHZVTl9LdVRJdkRSeVpIQk1jdlRiU3Zvaw?oc=5",
+      "published": "2026-04-27T07:20:56",
+      "sentiment_score": -0.237,
+      "sentiment_label": "Neutral",
+      "confidence": 0.659
+    },
+    {
+      "headline": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHc1MlpDR1NXUnllakdvN2RXTVhZRExDcDh3di1jQk9LaXRZeGNwNDhnVzZHeVh5NHk1Sk5pWkhlWEdzZzNaejFaYnRObHhTcHJFTl9BdVI4VG9BZ1p2T2FHWG9mSGFodHEyRnE2cnc4cWRMYnA5MnBnUjh0bmNVS2pWcw?oc=5",
+      "published": "2026-04-27T03:03:00",
+      "sentiment_score": 0.024,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
+    },
     {
       "headline": "Opinion | Will AI end anonymity? I tested it.",
       "source": "The Washington Post",
@@ -162,15 +210,6 @@
       "confidence": 0.744
     },
     {
-      "headline": "Why Tokyo is the most important tech destination of 2026 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "published": "2026-04-25T15:07:32Z",
-      "sentiment_score": 0.029,
-      "sentiment_label": "Neutral",
-      "confidence": 0.942
-    },
-    {
       "headline": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
@@ -199,7 +238,7 @@
     },
     {
       "headline": "Watch Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPME1sZHAxVG4xWXhaNi1oekxRVG52TndqSFpLMTQySW1uNTRCM0p1WmhGLWVIcDZHa1hYVlRob3BMMXZNRUJlWFNETFdQUXJMaVNQeWp5blBxdnJoWkVXckp0bHBVclVncjAzZDFTLXlEZlpYeFI0UVhwd1ROc0xsejNpeG1jN1VKaG1MWmF4dDRpcHdray1WTTlxYw?oc=5",
       "published": "2026-04-25T00:00:00",
       "sentiment_score": 0.001,
@@ -214,15 +253,6 @@
       "sentiment_score": -0.686,
       "sentiment_label": "Negative",
       "confidence": 0.718
-    },
-    {
-      "headline": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
-      "published": "2026-04-24T21:07:43Z",
-      "sentiment_score": 0.685,
-      "sentiment_label": "Positive",
-      "confidence": 0.694
     },
     {
       "headline": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police",
@@ -261,15 +291,6 @@
       "confidence": 0.947
     },
     {
-      "headline": "Sam Altman\u2019s Next High-Wire Act: Getting OpenAI to Make More Money",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHWVhKLWttcVRBaG45WFhYZ01LR2ZzdmU2RDlURE9FYm1xMk9TNC1lRXg0dV80SWxxRnV2UjdvS19icFhBdkpNT3JWRElZeExIUmlGa21UdUw2QlRHc0lxaWJkbVpnRWRMSzZoNXJwa0o1NnVucTlwMXR4LUlKUlk?oc=5",
-      "published": "2026-04-24T09:02:25",
-      "sentiment_score": 0.097,
-      "sentiment_label": "Neutral",
-      "confidence": 0.864
-    },
-    {
       "headline": "Meta to cut one in 10 jobs after spending billions on AI",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
@@ -306,13 +327,13 @@
       "confidence": 0.892
     },
     {
-      "headline": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORURxVjRuUjV3M0hnd3VhckZQYWxZbnNybVRJemo0Y09zRmNsZ0pOQ3VMUUlaZmdFRi1PTkRLLUl5TERPVUlHZTRDYmpLck9kY0xhOFRTbWZBUGFDeTdmLXpBTzJvRmtaUkNnZm8xSUJxMDFYS3VPOTd0bllQMTYtZVEwMFF1anhj?oc=5",
-      "published": "2026-04-23T18:00:00",
-      "sentiment_score": 0.612,
+      "headline": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5",
+      "published": "2026-04-23T18:00:06",
+      "sentiment_score": 0.503,
       "sentiment_label": "Positive",
-      "confidence": 0.622
+      "confidence": 0.514
     },
     {
       "headline": "UK Biobank health data listed for sale in China, government confirms",
@@ -324,13 +345,13 @@
       "confidence": 0.66
     },
     {
-      "headline": "OpenAI now lets teams make custom bots that can do work on their own",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQV8xWFd0aG1KLTVTNTRJSzJ2dFh5aWphYXBIZFpiWmpTUDQzZVV4QldMSnFZMDloMUptT3FwVDQwZjFNN0lfYlpnLV9hSERzLTZ1UlhfOGlyV003MnBKdDNNWW15a1hyaDU1d2hmZ2RYOWxkeTRhRHcySFc5U3FuX3hoR0J4M1pxUTFTNTlPYVpfYi1NSE5Jb1Z4dzZUUVU5bGZONkUxdEd1dlU3?oc=5",
-      "published": "2026-04-22T20:09:02",
-      "sentiment_score": 0.048,
+      "headline": "The Billionaire Math Geek Who Turned AI Into a Money-Printing Machine",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzOTJzdHhRMWlBYVlQNzZNbGx0QWZjVEtZYWNRWkh5SXNESnBUMzZkTFlpRGxfaENuaWhoRHllMlJUbzFURmpyeUNobTBqc0U1VHVIcHA3aUlWaHRxZ0QzVjF6NnhGRUJQX0VoM2ZxNA?oc=5",
+      "published": "2026-04-23T11:00:00",
+      "sentiment_score": -0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.922
+      "confidence": 0.921
     },
     {
       "headline": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
@@ -369,13 +390,22 @@
       "confidence": 0.941
     },
     {
-      "headline": "Florida attorney general launches criminal investigation into ChatGPT maker OpenAI after deadly FSU shooting",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWYwejMyU3ZMemNMdXF5UThFbVM4aU5Pb29CelF2djhodFVHVTV2YzU2a09jc0RvRjl6ZXZyYTJveVdrV2JzSkhoTVh2QlNmVFU1ZWdYWlZYWDQtN1lReXE1UWY2cm5ieERaQ2FmMm53bUc4Y21LdXE5cUFJeFZTSnhtVWd2X2NQYk5BWTFza3NVNUN3Z0x2OE5R?oc=5",
-      "published": "2026-04-21T20:10:53",
-      "sentiment_score": -0.623,
-      "sentiment_label": "Negative",
-      "confidence": 0.652
+      "headline": "OpenAI\u2019s updated image generator can now pull information from the web",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDBYb1hoTTVLY204SE42djg2cjFtVlJTb0FyeWNxdFRBajlBN0lSc3VCcnBUSnUzWDRuSV81STVaeVZQQkttdzNFRVdjY0hwM0dubjB4LVlqNV95azR1OVpld3Y4S2lCOVlsT0lpeU9Fem40dWUtZk8ydlBwbFM1TkEtWEtiZExjM3c?oc=5",
+      "published": "2026-04-21T19:00:00",
+      "sentiment_score": 0.015,
+      "sentiment_label": "Neutral",
+      "confidence": 0.934
+    },
+    {
+      "headline": "Your article about AI doesn\u2019t need AI art",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlQwZnRRUDBNU2M5azRQbGtSdUhITUlLcDh1cDN4QUdnMHFITG96aTgySDI1bC1uYW84bjJUeFBiODAydUpQUUtTMnlKWFhqVklPYWdNbkZIVDE3OVRhZVdHTEpvLVVDVHYzTHVzN0l3Z3VoTXRUYmtYb200SWpnLVo3MWw3R2IzcTZmOXd0M2l6M2xlX2VFbVNoa3paWVQxcXhmaFhSeW82T29iN0NR?oc=5",
+      "published": "2026-04-11T07:00:00",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.944
     },
     {
       "headline": "Tech Life",
