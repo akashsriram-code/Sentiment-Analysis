@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-26T18:38:55.067103",
-  "total_articles": 35,
-  "overall_sentiment": -0.123,
+  "last_updated": "2026-04-27T01:54:19.839836",
+  "total_articles": 31,
+  "overall_sentiment": -0.18,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,21 +33,21 @@
     },
     {
       "date": "2026-04-23",
-      "avg_sentiment": 0.186,
-      "article_count": 7,
-      "positive_count": 4,
+      "avg_sentiment": 0.206,
+      "article_count": 4,
+      "positive_count": 3,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.095
+      "neutral_count": 0,
+      "moving_avg": -0.09
     },
     {
       "date": "2026-04-24",
-      "avg_sentiment": -0.162,
-      "article_count": 10,
-      "positive_count": 5,
+      "avg_sentiment": -0.269,
+      "article_count": 9,
+      "positive_count": 4,
       "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.108
+      "moving_avg": -0.126
     },
     {
       "date": "2026-04-25",
@@ -56,7 +56,7 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 3,
-      "moving_avg": -0.11
+      "moving_avg": -0.125
     },
     {
       "date": "2026-04-26",
@@ -65,7 +65,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.14
+      "moving_avg": -0.152
     }
   ],
   "source_stats": [
@@ -77,14 +77,8 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.376,
-      "article_count": 6,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.21,
-      "article_count": 3,
+      "avg_sentiment": 0.289,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
@@ -100,16 +94,16 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "WSJ",
-      "avg_sentiment": -0.136,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "The Guardian",
       "avg_sentiment": -0.632,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.064,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
@@ -205,7 +199,7 @@
     },
     {
       "headline": "Watch Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPME1sZHAxVG4xWXhaNi1oekxRVG52TndqSFpLMTQySW1uNTRCM0p1WmhGLWVIcDZHa1hYVlRob3BMMXZNRUJlWFNETFdQUXJMaVNQeWp5blBxdnJoWkVXckp0bHBVclVncjAzZDFTLXlEZlpYeFI0UVhwd1ROc0xsejNpeG1jN1VKaG1MWmF4dDRpcHdray1WTTlxYw?oc=5",
       "published": "2026-04-25T00:00:00",
       "sentiment_score": 0.001,
@@ -238,15 +232,6 @@
       "sentiment_score": -0.374,
       "sentiment_label": "Neutral",
       "confidence": 0.514
-    },
-    {
-      "headline": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "published": "2026-04-24T19:53:41Z",
-      "sentiment_score": 0.801,
-      "sentiment_label": "Positive",
-      "confidence": 0.811
     },
     {
       "headline": "How a new Amazon-backed Hollywood production startup deploys AI for speed and cost-cutting",
@@ -303,22 +288,13 @@
       "confidence": 0.939
     },
     {
-      "headline": "Opinion | Notable & Quotable: Artificial Intelligence",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOEVaRTZOT1V1LXY0MlBsOUw2YmtSR3BRN3puR1EwMlpObDM3eTBVRE5FMWJ6SzJTZ1Q4Y0k2bUtWWVpiMF9xblVreUcwZ3Z3VklsZjdqMnRZd3FtdUhEcW9XS1c2d3lqVUpTSEZOODc4SGN2eGV2NmlGaWVIN1dPeWV5QQ?oc=5",
-      "published": "2026-04-23T21:08:00",
-      "sentiment_score": -0.016,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
-    },
-    {
       "headline": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFRRUMtR0dlSnMtUlA1ZnhTcloxNHl0ME9pcm1TSG9zSlJfWkEzeklCckE5OEFDYjBnajJwcWQ5bGJhX2VuX3lwWTVtVEtna2NTSW1EVy1OeFFlR2phaDVLQ0l3emlSTEZPLVlZMzVMVzRta2pseTV1OW5la3dPaA?oc=5",
       "published": "2026-04-23T18:29:29",
-      "sentiment_score": 0.776,
+      "sentiment_score": 0.769,
       "sentiment_label": "Positive",
-      "confidence": 0.789
+      "confidence": 0.78
     },
     {
       "headline": "OpenAI announces GPT-5.5, its latest artificial intelligence model",
@@ -328,15 +304,6 @@
       "sentiment_score": 0.079,
       "sentiment_label": "Neutral",
       "confidence": 0.892
-    },
-    {
-      "headline": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5",
-      "published": "2026-04-23T18:00:06",
-      "sentiment_score": 0.503,
-      "sentiment_label": "Positive",
-      "confidence": 0.514
     },
     {
       "headline": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
@@ -355,15 +322,6 @@
       "sentiment_score": -0.635,
       "sentiment_label": "Negative",
       "confidence": 0.66
-    },
-    {
-      "headline": "The Billionaire Math Geek Who Turned AI Into a Money-Printing Machine",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzOTJzdHhRMWlBYVlQNzZNbGx0QWZjVEtZYWNRWkh5SXNESnBUMzZkTFlpRGxfaENuaWhoRHllMlJUbzFURmpyeUNobTBqc0U1VHVIcHA3aUlWaHRxZ0QzVjF6NnhGRUJQX0VoM2ZxNA?oc=5",
-      "published": "2026-04-23T11:00:00",
-      "sentiment_score": -0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.921
     },
     {
       "headline": "OpenAI now lets teams make custom bots that can do work on their own",
