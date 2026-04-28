@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-28T02:01:35.419085",
-  "total_articles": 29,
-  "overall_sentiment": -0.331,
+  "last_updated": "2026-04-28T08:08:34.984295",
+  "total_articles": 33,
+  "overall_sentiment": -0.219,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,13 +23,22 @@
       "moving_avg": 0.044
     },
     {
+      "date": "2026-04-21",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.263
+    },
+    {
       "date": "2026-04-22",
       "avg_sentiment": -0.636,
       "article_count": 2,
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.182
+      "moving_avg": -0.356
     },
     {
       "date": "2026-04-23",
@@ -38,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.12
+      "moving_avg": -0.272
     },
     {
       "date": "2026-04-24",
@@ -47,43 +56,43 @@
       "positive_count": 2,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.185
+      "moving_avg": -0.3
     },
     {
       "date": "2026-04-25",
-      "avg_sentiment": -0.377,
-      "article_count": 2,
+      "avg_sentiment": 0.021,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.217
+      "moving_avg": -0.254
     },
     {
       "date": "2026-04-26",
-      "avg_sentiment": -0.158,
-      "article_count": 3,
+      "avg_sentiment": -0.009,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.208
+      "moving_avg": -0.268
     },
     {
       "date": "2026-04-27",
-      "avg_sentiment": -0.418,
-      "article_count": 11,
-      "positive_count": 0,
+      "avg_sentiment": -0.108,
+      "article_count": 15,
+      "positive_count": 5,
       "negative_count": 8,
-      "neutral_count": 3,
-      "moving_avg": -0.281
+      "neutral_count": 2,
+      "moving_avg": -0.284
     },
     {
       "date": "2026-04-28",
-      "avg_sentiment": -0.063,
-      "article_count": 1,
+      "avg_sentiment": -0.51,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.29
+      "moving_avg": -0.231
     }
   ],
   "source_stats": [
@@ -94,37 +103,46 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.008,
-      "article_count": 4,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.277,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "CNBC",
-      "avg_sentiment": -0.212,
-      "article_count": 3,
+      "avg_sentiment": -0.073,
+      "article_count": 5,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.26,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": 0.604,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.146,
+      "avg_sentiment": -0.484,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "AP News",
-      "avg_sentiment": -0.504,
+      "source": "The New York Times",
+      "avg_sentiment": -0.592,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
+      "published": "2026-04-28T03:10:00",
+      "sentiment_score": -0.958,
+      "sentiment_label": "Negative",
+      "confidence": 0.966
+    },
     {
       "headline": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
       "source": "WSJ",
@@ -133,15 +151,6 @@
       "sentiment_score": -0.063,
       "sentiment_label": "Neutral",
       "confidence": 0.717
-    },
-    {
-      "headline": "A.I.-Themed High School Is Put on Hold After Parental Backlash",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRWh4c0hkaWhkVlVNOE83M2hPV1hNVTJLNjZmUHZMZW9wU1pjaU8wSUhDblUyeDlKcGRDZnZPcHBFNmJkcmNGblJHWlh2NFRiZ3lLQTBuaDlmMWJTWHo1QjNxdVoyWmRNX2hROGF6c0stNm0wd0h5V2FsMUV1WVU?oc=5",
-      "published": "2026-04-27T23:20:25",
-      "sentiment_score": -0.897,
-      "sentiment_label": "Negative",
-      "confidence": 0.906
     },
     {
       "headline": "Why Spotify has no button to filter out AI music",
@@ -153,58 +162,49 @@
       "confidence": 0.876
     },
     {
-      "headline": "Microsoft, OpenAI change terms of deal so startup can court Amazon and others",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWJqVk9uV3RUa0tsclVNMjc5WFQ3SW9ZUC1MbXdKOVY3clg0aUU4QnhOYlJzRUJGcldaLVF3ZU8wZXgxVWlwQ2l6ckdZOWM3QnFoTXRkOGEzZ0E4LUhZNW1uVXF0bUpHYnM1Sl9rWTRLSWNEZjl3RXdUZ2dQeFpSMU9obmZjbzZMOUctaXRUSjdrZFpGS2pxWEhHM2dvekUtdG9KdktB?oc=5",
-      "published": "2026-04-27T22:53:18",
-      "sentiment_score": -0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.916
-    },
-    {
-      "headline": "Archaeologists at Pompeii use AI to reconstruct the face of a man killed in the volcano's eruption",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0FyZVpJY1YzWTVIRmRxbzVnVjJxa00yaXhlTEFpV182emZkOE4wRDRKWGNxOE4yb2pBSWxGcTg4LVVEZzJWa3ItQUo5cVFlWEpKLV9KSEkzaTlEWkxtVGR3OFRnUVVXVlRWa0JPQWFZZTBtM1k0dTQ4V1BHUVo5aWRJYVRCejdOTU9MWkJzOW00YlBMdUZqQjk3bFRtenpCVWw1ZmVERDBGa2xxeklWTDdQcVVYZXYtWWFMVmJvQmFRQVR3VjZELQ?oc=5",
-      "published": "2026-04-27T19:23:00",
-      "sentiment_score": -0.066,
-      "sentiment_label": "Neutral",
-      "confidence": 0.887
-    },
-    {
       "headline": "Microsoft cuts OpenAI revenue share in a fresh step to loosen their AI alliance",
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXIxOG9tQTNtd1lvcTlhdVVOWDJSNHFLeXhiSWZiTERDZDFxTDQyLXRTdFpwMGhBejdOUmI5VFNMSlNpYkdaZThRRWxqdVRPNkNOMEtVWnMwNHNKLTZ2bW12aVNaMGlIcUVnSmV4c19pRXppUTQ4ZzdMN0tBckZZbk05R2dXYnhXZmQtaWFLbzJvOE9iaFcxYnFlUQ?oc=5",
-      "published": "2026-04-27T18:46:00",
+      "published": "2026-04-27T19:55:50",
       "sentiment_score": -0.942,
       "sentiment_label": "Negative",
       "confidence": 0.955
     },
     {
-      "headline": "How Do You Measure A.I. Firms\u2019 Gargantuan Energy Plans? In \u2018Bragawatts.\u2019",
+      "headline": "A.I.-Themed High School Is Put on Hold After Parental Backlash",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVdXblpfTUxlLUVhemtHTUcxNTFpZGE3YnN4YkhVSXNMUDRTWjZCbVZQejhKZVpPd2dFQXJhR04zMFhJaFN0eXVTUS0yM0drSUF0MnFINGRXcUtiZDQxTzIycjROT0hNb2dFMjFsMG9OempvZVJjUHhnQTNoMjVuWVNkR2xUSVVSSnB6aHVKUHN4Rm1UWVdr?oc=5",
-      "published": "2026-04-27T16:52:00",
-      "sentiment_score": 0.03,
-      "sentiment_label": "Neutral",
-      "confidence": 0.912
-    },
-    {
-      "headline": "US judges weigh risks as AI seeps into judicial work",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnlmbHp4TDNpZXhuWUlzcXowbUl6YlNLNmN6S09Za1AyeFZ2STd1bDVNMHVKRF84dWtZa3h5ajFwTFVIUFdlYVQxWDdDYk05ZnFUYll3NVNDTjN1VERfdEQ4NWlMalprei1GeGp0dWRqaEJRNHRxbGloZnM4VVFXX1h1blNuSDNIak9RLUFRVlE4c1RQYWVscWtsYmx5SlhYa1ptaA?oc=5",
-      "published": "2026-04-27T15:09:54",
-      "sentiment_score": -0.282,
-      "sentiment_label": "Neutral",
-      "confidence": 0.659
-    },
-    {
-      "headline": "China Orders the Unwinding of Meta\u2019s Acquisition of an A.I. Start-Up",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54bnJBN0hXSkl2LVdLc2ZkTU41NllEemNfNHdkSzlzaXZWS2ozUmVuaWZVN2dDbVBaTjJIYUpEYWRKNzdyS0NDWUFqckdHQnF0bG5aeUZoUFYzMkEwd2VoOHRkb1pNTzB4Q1RVOVVwTVQ0aERneEVDVThQV1NMQQ?oc=5",
-      "published": "2026-04-27T14:08:53",
-      "sentiment_score": 0.036,
-      "sentiment_label": "Neutral",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRWh4c0hkaWhkVlVNOE83M2hPV1hNVTJLNjZmUHZMZW9wU1pjaU8wSUhDblUyeDlKcGRDZnZPcHBFNmJkcmNGblJHWlh2NFRiZ3lLQTBuaDlmMWJTWHo1QjNxdVoyWmRNX2hROGF6c0stNm0wd0h5V2FsMUV1WVU?oc=5",
+      "published": "2026-04-27T19:41:23",
+      "sentiment_score": -0.897,
+      "sentiment_label": "Negative",
       "confidence": 0.906
+    },
+    {
+      "headline": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVZbnhTcE85MnFiUnh5dzVqcFM2YVJpSllSRWFDMW1HcEk0YWFOelFmWnc4THlRdmFCSHlMQmctUENQS2s1cm5LNnpINmN4b2h4ODAzTFJBUzd2WDJkQ2xiZTk0dnBJXzNUQXRqNkk3dUFiZm1pVVVqanZjUEZfRFp1Y3pLUjQ0UldaTTEyTksyVnc4eFpXeElKSGdBSC1adGg4cdIBqgFBVV95cUxOX0FHSUlKcUhqdGo4MWllelJDYVpnclRzTGJPUnJHRmFiVkpYZllwbHl1V2VhTGZHS2x1eVkxRXlXNUpRbm9DdDl2X0NoNnluVkZWUzYwMUpNdmtzOWhYTGRXYzQ4U2VBUXE4UV9mQTlyVWttMEZLUnpqX0JDeVVWb0VndThFVFVHbmtzZWgtbWFmRDVNbWZhTldnbndxTk5SQjl4NnJrcFAwUQ?oc=5",
+      "published": "2026-04-27T15:12:26",
+      "sentiment_score": 0.452,
+      "sentiment_label": "Neutral",
+      "confidence": 0.515
+    },
+    {
+      "headline": "Microsoft, OpenAI change terms of deal so startup can court Amazon and others",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWJqVk9uV3RUa0tsclVNMjc5WFQ3SW9ZUC1MbXdKOVY3clg0aUU4QnhOYlJzRUJGcldaLVF3ZU8wZXgxVWlwQ2l6ckdZOWM3QnFoTXRkOGEzZ0E4LUhZNW1uVXF0bUpHYnM1Sl9rWTRLSWNEZjl3RXdUZ2dQeFpSMU9obmZjbzZMOUctaXRUSjdrZFpGS2pxWEhHM2dvekUtdG9KdktB?oc=5",
+      "published": "2026-04-27T13:11:00",
+      "sentiment_score": -0.01,
+      "sentiment_label": "Neutral",
+      "confidence": 0.916
+    },
+    {
+      "headline": "OpenAI could be making a phone with AI agents replacing apps",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWTlMekc0UzB4RTJpTWI1N0xMdldmVkF2Q3VWSEV4TG1OZE8zMTBiakxlekx0N0o0Z3Z3QWpqeUgzTlBnZ3VJaVkxeV80RG5Fek4xeUdDTmU1V1RYRWJrUm80aEJIMW10Q3pzR09rQkdwMVlkcmxodVY1bWdMRDRkRFpIWmdkOTVoRDV6dHRoaDkzVzB3S0xBSGVRaw?oc=5",
+      "published": "2026-04-27T13:08:59",
+      "sentiment_score": -0.007,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
     },
     {
       "headline": "China blocks Meta's $2bn acquisition of AI start-up Manus",
@@ -216,13 +216,67 @@
       "confidence": 0.958
     },
     {
-      "headline": "Elon Musk and Sam Altman face off in court over OpenAI\u2019s founding mission | Technology",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3JfY2R4MWktN2ZKbDFRRWtTdmh2eEMtbmpiZmJ6ZXhsOHVkNVlZQ0RaLXRpUkxQNGhYRWhMb0FKSEhvNGNlSlJUeDVMc3ZNZjVRN2xUejVVYkZFcGp5UHJGSlZPZEZ0U2dJVW13MTFyZEpxRVFpMXlOVEpLbmowX0s2RDU0WEhaSHJHczdqTG8?oc=5",
-      "published": "2026-04-27T08:00:00",
-      "sentiment_score": -0.727,
-      "sentiment_label": "Negative",
-      "confidence": 0.759
+      "headline": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54bnJBN0hXSkl2LVdLc2ZkTU41NllEemNfNHdkSzlzaXZWS2ozUmVuaWZVN2dDbVBaTjJIYUpEYWRKNzdyS0NDWUFqckdHQnF0bG5aeUZoUFYzMkEwd2VoOHRkb1pNTzB4Q1RVOVVwTVQ0aERneEVDVThQV1NMQQ?oc=5",
+      "published": "2026-04-27T09:43:07",
+      "sentiment_score": -0.286,
+      "sentiment_label": "Neutral",
+      "confidence": 0.671
+    },
+    {
+      "headline": "We spoke to over 30 CEOs and business leaders. Here's what worries them most",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/27/cnbc-converge-30-ceos-and-business-leaders-top-concerns.html",
+      "published": "2026-04-27T06:58:06Z",
+      "sentiment_score": -0.417,
+      "sentiment_label": "Neutral",
+      "confidence": 0.498
+    },
+    {
+      "headline": "U.S.-Iran peace talks stall. Here's where things stand \u2014 and what's next for global markets",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/27/us-iran-peace-talks-stall-global-markets-stocks-oil-treasurys.html",
+      "published": "2026-04-27T05:19:03Z",
+      "sentiment_score": -0.276,
+      "sentiment_label": "Neutral",
+      "confidence": 0.628
+    },
+    {
+      "headline": "DeepSeek slashes fees for new AI model in Chinese price war",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/deepseek-slashes-fees-for-new-ai-model-in-chinese-price-war",
+      "published": "2026-04-27T05:02:18Z",
+      "sentiment_score": 0.361,
+      "sentiment_label": "Positive",
+      "confidence": 0.49
+    },
+    {
+      "headline": "Ascletis Completes Enrollment in U.S. Phase II Study of ASC30, an Oral Small Molecule GLP-1R Agonist, for the Treatment of Diabetes",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/pr-newswire/ascletis-completes-enrollment-in-u-s-phase-ii-study-of-asc30-an-oral-small-molecule-glp-1r-agonist-for-the-treatment-of-diabetes-98dd1e7fd44dbb88f478ac5ceffdd69f",
+      "published": "2026-04-27T04:30:45Z",
+      "sentiment_score": 0.699,
+      "sentiment_label": "Positive",
+      "confidence": 0.712
+    },
+    {
+      "headline": "Emerging stocks rise to record high on AI, Iran\u2019s Hormuz offer",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/emerging-stocks-rise-to-record-high-on-ai-iran-offer",
+      "published": "2026-04-27T04:05:43Z",
+      "sentiment_score": 0.927,
+      "sentiment_label": "Positive",
+      "confidence": 0.951
+    },
+    {
+      "headline": "BYD, Geely see more EV demand as oil prices climb from Iran War",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/byd-geely-see-more-ev-demand-as-oil-prices-climb-from-iran-war",
+      "published": "2026-04-27T03:42:14Z",
+      "sentiment_score": 0.525,
+      "sentiment_label": "Positive",
+      "confidence": 0.535
     },
     {
       "headline": "CNBC Daily Open: Security scare and stalled Iran talks",
@@ -243,31 +297,13 @@
       "confidence": 0.915
     },
     {
-      "headline": "Stock market news for April 27, 2026",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/26/stock-market-today-live-updates.html",
-      "published": "2026-04-26T22:02:23Z",
-      "sentiment_score": -0.513,
-      "sentiment_label": "Negative",
-      "confidence": 0.585
-    },
-    {
-      "headline": "What Tim Cook built | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
-      "published": "2026-04-26T20:24:05Z",
-      "sentiment_score": 0.019,
+      "headline": "Opinion | Will AI end anonymity? I tested it.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUZIWlZBdE1NdWstUnZkQU01YTBDdER3MHo0bDEzR1FlcVpjLWxlcjBJbmFSMWhFMmpGRGU1TW5acDVqdS1sNDVxRU1zVk5lazRFUmEtRGJBMVRuWDRFNERNeXg5UFZJN3g2djNidGdxaHdNdmZPbGVjcWZnX00yV2xsWlVOQmt6Uy02Y0MwUVltMWpXYUVGSFlrMC1Tdnc4UnFUakQxMFJOSzE4M2E2SWpGWGRmQQ?oc=5",
+      "published": "2026-04-26T18:00:00",
+      "sentiment_score": -0.038,
       "sentiment_label": "Neutral",
-      "confidence": 0.922
-    },
-    {
-      "headline": "OpenAI CEO apologizes to Tumbler Ridge community | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "published": "2026-04-25T17:18:52Z",
-      "sentiment_score": -0.775,
-      "sentiment_label": "Negative",
-      "confidence": 0.811
+      "confidence": 0.902
     },
     {
       "headline": "Tech Now",
@@ -367,6 +403,15 @@
       "sentiment_score": -0.814,
       "sentiment_label": "Negative",
       "confidence": 0.828
+    },
+    {
+      "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQzhxOThXRDlYNWI4TFJ2TFlsQlNhdG5kVm5Ta0M1YkxzLTdyNWcyeHB4aHlsWkF5TkliRXY2eDVWZ2NaeTQteGhzaUFBVzNLN1NNYzE4Y2FwUQ?oc=5",
+      "published": "2026-04-21T19:15:34",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.892
     },
     {
       "headline": "Your article about AI doesn\u2019t need AI art",
