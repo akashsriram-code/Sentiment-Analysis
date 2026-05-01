@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-01T02:06:53.593688",
-  "total_articles": 44,
-  "overall_sentiment": -0.166,
+  "last_updated": "2026-05-01T08:03:01.978473",
+  "total_articles": 49,
+  "overall_sentiment": -0.174,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,21 +33,30 @@
     },
     {
       "date": "2026-04-29",
-      "avg_sentiment": -0.299,
-      "article_count": 20,
-      "positive_count": 7,
-      "negative_count": 13,
+      "avg_sentiment": -0.4,
+      "article_count": 19,
+      "positive_count": 5,
+      "negative_count": 14,
       "neutral_count": 0,
-      "moving_avg": -0.194
+      "moving_avg": -0.22
     },
     {
       "date": "2026-04-30",
-      "avg_sentiment": -0.009,
-      "article_count": 18,
-      "positive_count": 9,
+      "avg_sentiment": 0.036,
+      "article_count": 20,
+      "positive_count": 11,
       "negative_count": 6,
       "neutral_count": 3,
-      "moving_avg": -0.157
+      "moving_avg": -0.169
+    },
+    {
+      "date": "2026-05-01",
+      "avg_sentiment": -0.124,
+      "article_count": 4,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 2,
+      "moving_avg": -0.161
     }
   ],
   "source_stats": [
@@ -58,43 +67,91 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.068,
-      "article_count": 8,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "TechCrunch",
       "avg_sentiment": 0.219,
       "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.351,
-      "article_count": 4,
-      "sentiment_label": "Negative"
+      "source": "CNBC",
+      "avg_sentiment": 0.16,
+      "article_count": 6,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.097,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     },
     {
       "source": "WSJ",
-      "avg_sentiment": -0.416,
+      "avg_sentiment": -0.426,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.362,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": -0.237,
+      "avg_sentiment": -0.246,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.299,
+      "source": "The Washington Post",
+      "avg_sentiment": -0.046,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.323,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Opinion | Trump Is the One Without the Cards at the Poker Table",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnBNNmc3V2tJbTQ3RVg5bVpWaDJwNHhxT0pvaUIzLWFzYXNaMlZVU091bTROWWlDZkZVTTVkQ2FPcmlQVWV2blZoYmtyclVWcDRMSXNBQXNYX2hVWjA5M0xTX1FBNnN1RjQ4T3ZDUk1GUFZPV1AydUtkZUU1M3RVZ0lwUW43VUVSN0lKd0h4U3lDQQ?oc=5",
+      "published": "2026-05-01T05:00:11",
+      "sentiment_score": -0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.893
+    },
+    {
+      "headline": "\u2018Completely horrible\u2019: UK job hunters share frustration with AI interviews",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcXB5VUNkbnhsNHlzV2g4YlZQVzh6QzZZVG4yM1NhM01aSHZFUlZ0aExlOWlWY0ZNWk1ON194TkVZcHBsSUFqSXRnUllDSHhVTW00R1BiTDJHeWZKUEEwcUVsZ3JWSERjaWhQNU8tNGxmNXZYLUhFTDBZZno1cnZVTmZwbHcyM2Z4bGtWS2lLeU9jcDlRSGc?oc=5",
+      "published": "2026-05-01T05:00:00",
+      "sentiment_score": -0.912,
+      "sentiment_label": "Negative",
+      "confidence": 0.923
+    },
+    {
+      "headline": "\u2018Can AI be sued?\u2019: Responding to your comments on automated prescriptions",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnNjS0ZZOUFBak5sdVpQemJOSUVMZjVaTVJidDlEVnRjOXgxa3kwUDZielIxd3dveTZucnBsMTlTdmR4WVdWQ3VQTFdfWUZoMVNoRXYtdWxhRVFCbjk0Q3R4c3d4UWRhcmtuRHlaMkY5d2tiajVDZkhsRkplMy1LZzdQcU9KQXZzUldiU0ZqYUhFZ3Q3N2huVm1YV05qU21LZlVtaDdFSFNQRmxNSnNZR3hR?oc=5",
+      "published": "2026-05-01T03:30:00",
+      "sentiment_score": 0.043,
+      "sentiment_label": "Neutral",
+      "confidence": 0.88
+    },
+    {
+      "headline": "AI outperforms doctors in Harvard trial of emergency triage diagnoses",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUpTYUFZS1BYS0NqUlVDeVVrcWFsbVhSaDJWUks3eFlfZW13NTdDMTQwb2JEeWg4VmVOckhuQzRJZ29TMW5CNlg0Mlk0WG1QdE9UUF9fZWQzcnNiVHlTMHdpa0dVZmpZTDJUZVkyZjlZOEt2VXBxSzVGelhTakFTN0RWRzljOHBqS3NESlBjTUFBWDJGbkwyTzczQXE4aGQtTnlQd2d1VDZZTlp4RW9aOHhmOThZeE53WmJzMA?oc=5",
+      "published": "2026-05-01T01:30:00",
+      "sentiment_score": 0.42,
+      "sentiment_label": "Positive",
+      "confidence": 0.498
+    },
     {
       "headline": "Will AI lead to more accurate opinion polls?",
       "source": "BBC News",
@@ -112,15 +169,6 @@
       "sentiment_score": 0.108,
       "sentiment_label": "Neutral",
       "confidence": 0.842
-    },
-    {
-      "headline": "AI outperforms doctors in Harvard trial of emergency triage diagnoses",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUpTYUFZS1BYS0NqUlVDeVVrcWFsbVhSaDJWUks3eFlfZW13NTdDMTQwb2JEeWg4VmVOckhuQzRJZ29TMW5CNlg0Mlk0WG1QdE9UUF9fZWQzcnNiVHlTMHdpa0dVZmpZTDJUZVkyZjlZOEt2VXBxSzVGelhTakFTN0RWRzljOHBqS3NESlBjTUFBWDJGbkwyTzczQXE4aGQtTnlQd2d1VDZZTlp4RW9aOHhmOThZeE53WmJzMA?oc=5",
-      "published": "2026-04-30T22:49:00",
-      "sentiment_score": 0.42,
-      "sentiment_label": "Positive",
-      "confidence": 0.498
     },
     {
       "headline": "Reddit's CEO calls his company 'the fuel' for artificial intelligence",
@@ -195,13 +243,58 @@
       "confidence": 0.907
     },
     {
-      "headline": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV29adWpVZGxhTW10ckdEVnlGWXNCNXh3UEUyZW5ySjZVbktUTmFlZW9XaWxGREZpaDhJNEJOVDh2OFl6cmo2SExhNUVjQk1FaXQ4LS1TQ3d5UTh2bkc2Wmo5UTN6emdyVkM4NFhjTEFTRGhSTEpuVWhzZUV2WVU1NWJ3ci05dVJuck9QTXRxc2JSUQ?oc=5",
-      "published": "2026-04-30T05:36:25",
-      "sentiment_score": 0.101,
+      "headline": "Finding 'hidden sperm': New technique offers hope to men previously told they were infertile",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ3ZyeTN6V3RYblVUX3UzbE9CUlBBWndpQkZwWmFjaUI5YTVqVWVKTklFc0twdEpXbFc3cVN2WWVCcThyNmFWMGI1UldzOE9ZTUlrdDJOTHp4ZGt1THNXdEhBN09ONG9XUmxVSllfR0RGejFod1lsd2R0QWdDdFBVQkRhTjBIVUlxaHpJRWxsQ2hncmF1V0FYV1l4ZG40ZHBtU3ZHSTVGb2FYWjVyOWNUYmFOT013N2N2S1hsOE5abHN4WU1hN1hqMkYwNm50d1U?oc=5",
+      "published": "2026-04-30T10:00:00",
+      "sentiment_score": 0.116,
       "sentiment_label": "Neutral",
-      "confidence": 0.856
+      "confidence": 0.85
+    },
+    {
+      "headline": "How A.I. Killed Student Writing (and Revived It)",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUZNa0xnNl9GUnFYdEt2QkNTT3otdGpZVjdwRXA4U2NHLXp1RU1yLXoxZ08td3o5Ql9wMHdTYlY2bk1ZNnI0SzVxbVdDM0h4dFZ6U0oyZ2hDRmdJMjRwM0lHNTN2WGljcTNLQ2VNY2M1TTI2S25NMzhQeGozUjNTMjFCUmVFcXE0SENJ?oc=5",
+      "published": "2026-04-30T09:00:35",
+      "sentiment_score": 0.109,
+      "sentiment_label": "Neutral",
+      "confidence": 0.851
+    },
+    {
+      "headline": "Thinking of using a chatbot for medical advice? Read this first",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/health/2026/04/21/chatbot-medical-advice-accurate/",
+      "published": "2026-04-30T06:00:00Z",
+      "sentiment_score": -0.135,
+      "sentiment_label": "Neutral",
+      "confidence": 0.782
+    },
+    {
+      "headline": "SoftBank reportedly weighs $100 billion valuation for new AI and robotics spinout in potential U.S. IPO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html",
+      "published": "2026-04-30T05:12:54Z",
+      "sentiment_score": 0.099,
+      "sentiment_label": "Neutral",
+      "confidence": 0.884
+    },
+    {
+      "headline": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/30/nvidia-backs-ai-legal-tech-legora.html",
+      "published": "2026-04-30T05:00:01Z",
+      "sentiment_score": 0.23,
+      "sentiment_label": "Neutral",
+      "confidence": 0.754
+    },
+    {
+      "headline": "Amazon reports increased profits and net sales for 1Q",
+      "source": "ActionNewsJax.com",
+      "link": "https://www.actionnewsjax.com/news/business/amazon-reports/2AXSUJRTMEYNVGW7NFG37HATLA/",
+      "published": "2026-04-30T03:24:16Z",
+      "sentiment_score": 0.935,
+      "sentiment_label": "Positive",
+      "confidence": 0.957
     },
     {
       "headline": "Investors still trust Google more than Meta when it comes to spending their money on AI",
@@ -213,15 +306,6 @@
       "confidence": 0.951
     },
     {
-      "headline": "Inside India newsletter: AI is exposing cracks in India\u2019s growth story as it hits high-paying IT jobs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/30/ai-threat-indias-growth-story-jobs.html",
-      "published": "2026-04-30T00:53:25Z",
-      "sentiment_score": -0.953,
-      "sentiment_label": "Negative",
-      "confidence": 0.966
-    },
-    {
       "headline": "Sources: Anthropic could raise a new $50B round at a valuation of $900B | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
@@ -229,15 +313,6 @@
       "sentiment_score": 0.234,
       "sentiment_label": "Neutral",
       "confidence": 0.73
-    },
-    {
-      "headline": "Samsung profit surges over eight-fold to beat estimates as AI boom fuels memory chip crunch",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html",
-      "published": "2026-04-30T00:04:59Z",
-      "sentiment_score": 0.921,
-      "sentiment_label": "Positive",
-      "confidence": 0.949
     },
     {
       "headline": "Elon Musk\u2019s worst enemy in court is Elon Musk",
@@ -312,24 +387,6 @@
       "confidence": 0.667
     },
     {
-      "headline": "Qualcomm shares soar 16% on CEO comments about China orders, hyperscaler customer",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/29/qualcomm-qcom-stock-earnings-china.html",
-      "published": "2026-04-29T21:59:25Z",
-      "sentiment_score": -0.943,
-      "sentiment_label": "Negative",
-      "confidence": 0.962
-    },
-    {
-      "headline": "Amazon's cloud unit reports 28% sales growth, topping estimates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
-      "published": "2026-04-29T20:51:20Z",
-      "sentiment_score": 0.889,
-      "sentiment_label": "Positive",
-      "confidence": 0.898
-    },
-    {
       "headline": "Meta\u2019s Reality Labs lost over $4 billion in first quarter",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html",
@@ -339,13 +396,13 @@
       "confidence": 0.973
     },
     {
-      "headline": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
-      "published": "2026-04-29T17:23:52Z",
-      "sentiment_score": 0.276,
-      "sentiment_label": "Neutral",
-      "confidence": 0.683
+      "headline": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTY3hUNzJMc1VUeEdyR1JpV3EzTTJYRDAyV096UTd1ZmJLM3pIbHQxOWgzSXdiOTRDMlI2eFg2NHJJbllWamJTeHFHN2loSTdibG5xTHU5M3QxZw?oc=5",
+      "published": "2026-04-29T19:51:55",
+      "sentiment_score": -0.761,
+      "sentiment_label": "Negative",
+      "confidence": 0.791
     },
     {
       "headline": "The more young people use AI, the more they hate it",
@@ -364,6 +421,15 @@
       "sentiment_score": 0.416,
       "sentiment_label": "Neutral",
       "confidence": 0.559
+    },
+    {
+      "headline": "Musk lays out his souring relationship with OpenAI in a second day of testimony",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYVp6dDJrWElNWHlEOGJZOFU2c2pib29IeWQ4WEZ4M08wb1V1SnhsejhveGlXTWxuMnRFRFF4c3pCcjIxZUV0U0xCUjZCa3lTdnVXWlhPTm55Z0pja3Fnbk9IWEI0TmZCNk8yODVhOVl6ZV9OeFI3NTUxYWttRUZMb25mc080T0k?oc=5",
+      "published": "2026-04-29T15:31:59",
+      "sentiment_score": -0.539,
+      "sentiment_label": "Negative",
+      "confidence": 0.561
     },
     {
       "headline": "Why friendly AI chatbots might be less trustworthy",
@@ -393,31 +459,22 @@
       "confidence": 0.857
     },
     {
-      "headline": "Families sue OpenAI over failure to report Canada mass shooter\u2019s behavior on ChatGPT",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlFLbXdTeDU3T0lnbWlrblJZR1N5SGFxUkZhY3Z4NlR6VUFjX0xKTWwzanl5dHZqeFN1bUItUjZYZFdfcWxxOU9jZmplNjJtN1NTa2xMeVd2aU14Z1ZyMEtHRnU0OTZXZ3FHY1JUakNiZXVINy0wcVhZRWFRbjlhY2R1UlFTZkdLcTdpTDV3cEMxWlVoa1B0dlk5Yw?oc=5",
-      "published": "2026-04-29T14:04:00",
-      "sentiment_score": -0.893,
-      "sentiment_label": "Negative",
-      "confidence": 0.906
-    },
-    {
-      "headline": "Larry\u2019s risky business",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
-      "published": "2026-04-29T13:57:16Z",
-      "sentiment_score": -0.32,
-      "sentiment_label": "Neutral",
-      "confidence": 0.623
-    },
-    {
       "headline": "OpenAI Sued by Seven Families Over Mass Shooting Suspect\u2019s ChatGPT Use",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2VHQUhXWGtZTHNYelNtcnB2TE43aDNJbElMYjEwTGw3U2VJenJXYWdZS2pWNEpucmZZS25RTUR2aHF1NlBFTzBKZGdLaEg5SUI4NnplTmxxbExQN1BsQ1BPYzFkWVdjVkhNX001cUhlTjRTNTA3RW0zMWl5NXRrdmNxTk9tZUlTZkNwd3JwOXZUamxsajlPVFYtTHpJOVo0OHNyeG5sRnBLdw?oc=5",
       "published": "2026-04-29T13:39:00",
-      "sentiment_score": -0.818,
+      "sentiment_score": -0.849,
       "sentiment_label": "Negative",
-      "confidence": 0.839
+      "confidence": 0.869
+    },
+    {
+      "headline": "School-shooting lawsuits accuse OpenAI of hiding violent ChatGPT users",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc25Dc3F2SGloUG1UNW02SnNRNW83RmFVUEw0d3ZneFRQc01GUXVUN2xYalZKblA0c0RYc1gtNU5OT3NPb0FiRWZjay0wenMzRk5xVFRiazRKZ214NGhDMjQxVzJEczF4bGpwUjVQUFdseEJwd19tS2tCTUZkWHZhbHlkT1hVc3BUMEtPSDZGeDliSFVpdjFHY2NnaWUyekYzN1YwTklwNzFtVXdSN0dldUZ3ZmFrZw?oc=5",
+      "published": "2026-04-29T12:00:41",
+      "sentiment_score": -0.77,
+      "sentiment_label": "Negative",
+      "confidence": 0.787
     },
     {
       "headline": "Musk accuses Altman of stealing a charity as courtroom battle begins",
@@ -427,6 +484,15 @@
       "sentiment_score": -0.814,
       "sentiment_label": "Negative",
       "confidence": 0.83
+    },
+    {
+      "headline": "Taxing Artificial Intelligence Would Be a Big Mistake",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0hVNU9BeG1USnVYWVRNR0k1alducHlHb0dRQ0VRY01JUGkteHM3b0hjMWZFQzBQLTVPUWFHXzhqNExwRXRIMmFtWVZHQ1JQdm45d1NRN2hDZTlkcF9fSm5JZ2lESW5XdlA5SjV5b3dlVk9HaDA3eVRxZEFaa0dpODZvZ2lXOG1IQ19BTUFIMG90aXBoOXo3NFpXdVFLMFNWYjNWNXpjRDVJYjREVFUwdU5TZmRSWmtGRnN2ejhn?oc=5",
+      "published": "2026-04-29T10:00:18",
+      "sentiment_score": -0.503,
+      "sentiment_label": "Negative",
+      "confidence": 0.526
     },
     {
       "headline": "A.I. Helps Online Ad Businesses Boom",
