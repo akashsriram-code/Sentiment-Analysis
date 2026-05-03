@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-03T01:56:45.974869",
-  "total_articles": 45,
-  "overall_sentiment": -0.05,
+  "last_updated": "2026-05-03T07:49:40.867271",
+  "total_articles": 44,
+  "overall_sentiment": -0.124,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,39 +24,39 @@
     },
     {
       "date": "2026-04-30",
-      "avg_sentiment": -0.045,
-      "article_count": 10,
-      "positive_count": 4,
+      "avg_sentiment": -0.078,
+      "article_count": 9,
+      "positive_count": 3,
       "negative_count": 4,
       "neutral_count": 2,
-      "moving_avg": -0.299
+      "moving_avg": -0.31
     },
     {
       "date": "2026-05-01",
-      "avg_sentiment": 0.148,
-      "article_count": 20,
-      "positive_count": 9,
-      "negative_count": 2,
-      "neutral_count": 9,
-      "moving_avg": -0.188
+      "avg_sentiment": 0.111,
+      "article_count": 19,
+      "positive_count": 8,
+      "negative_count": 3,
+      "neutral_count": 8,
+      "moving_avg": -0.205
     },
     {
       "date": "2026-05-02",
-      "avg_sentiment": 0.091,
+      "avg_sentiment": -0.173,
       "article_count": 6,
-      "positive_count": 2,
+      "positive_count": 1,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.132
+      "neutral_count": 3,
+      "moving_avg": -0.199
     },
     {
       "date": "2026-05-03",
-      "avg_sentiment": -0.311,
-      "article_count": 1,
+      "avg_sentiment": -0.412,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.162
+      "moving_avg": -0.234
     }
   ],
   "source_stats": [
@@ -74,7 +74,13 @@
     },
     {
       "source": "WSJ",
-      "avg_sentiment": -0.39,
+      "avg_sentiment": -0.443,
+      "article_count": 5,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.056,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
@@ -85,37 +91,28 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.074,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Wired",
       "avg_sentiment": -0.25,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Washington Post",
-      "avg_sentiment": 0.232,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "CNN",
-      "avg_sentiment": 0.013,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
       "source": "Associated Press",
-      "avg_sentiment": 0.455,
+      "avg_sentiment": 0.463,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "AI chatbot fraud: the \u2018gift card\u2019 subcription that may cost you dear",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkhjQVdfZnVXUTJlWExCcEFyRGs3bDV0MGM1bUZKbEtIN1hFRTV0MkdUUDcxWFNhXzEwNGtTQmpwU1lHVnhveExwX1g3b0RtcUQxTG51SWhodjhMWk1UVXMwYV9hREVpdlhxVUZLWmdsSzBwTWhoZXhBU2NOV1ZmZFBfT3lPN011NWNDampNVUY1Ml9pakwxWGF1eEh3N0hEbENidEJKWTZ3YXM?oc=5",
+      "published": "2026-05-03T06:32:00",
+      "sentiment_score": -0.513,
+      "sentiment_label": "Negative",
+      "confidence": 0.537
+    },
     {
       "headline": "ChatGPT Wrestles With Its Most Chilling Conversation: How Do I Plan an Attack?",
       "source": "WSJ",
@@ -135,15 +132,6 @@
       "confidence": 0.909
     },
     {
-      "headline": "Trump\u2019s tariff-friendly White House celebrates these imports",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEdGdDNBVTEzVDRaWlVsbHJXbUxiNmJjcFdWNXlPLWE0OHEtemJWSFRDWDVRMTVVT19YNU1NQ2h1S2lhaV91SE9YOGxtdDZBaXFYTDJ4Z3NBM042V3JYbVNqS2NFZDZEcjNuZWtZb1pRb0JfdUtYX2RocFBZVWdNSF96SklWZUw1dkE?oc=5",
-      "published": "2026-05-02T16:00:46",
-      "sentiment_score": 0.589,
-      "sentiment_label": "Positive",
-      "confidence": 0.618
-    },
-    {
       "headline": "Elon Musk went to court. The judge wasn\u2019t amused.",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTURZVDgyN240alJ4cjVPaUdwQ3BKbkhRRVpKTFluRmRRSklTTGE1T3JLZFNYWlNiN2hueXVsdWppRzZ5SVRic0ozb2xJaVZfRmtDX21USEx1WTk3RTlxUjQ0VlJoMVQ3ZXNza01rNEk4bXpXUDNHVnMwSWd3ZzZuTUN2ZV8?oc=5",
@@ -153,22 +141,31 @@
       "confidence": 0.81
     },
     {
-      "headline": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRldlUnRRcUR5RWJaTnE5UFBMQlFRZkJoMUx1XzFRZHB3ZERHck8tdW5IQkljRDRubDBubnYxSTkxWnBFQlEyMXNOWXpGVXdXMDlMZGZCMTNZcHY1Ylh6MWVEeExzZ1dYbjNKeTVnNFdoQ2ZsMWhjbkxWZkZyS2VlOVJNV1UwNk9aZHVyVHppeUppdURtek1RNHZjZUpEdjBqMHJjN0p6Zmh5c09uVHJtcUJtYnhlSHRaSTdoTQ?oc=5",
-      "published": "2026-05-02T15:48:00",
-      "sentiment_score": 0.205,
-      "sentiment_label": "Neutral",
-      "confidence": 0.754
+      "headline": "Lower valuations may see India outflows moderate: RBI Governor",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-01/lower-valuations-may-see-india-outflows-moderate-rbi-head-says",
+      "published": "2026-05-02T07:11:27Z",
+      "sentiment_score": -0.967,
+      "sentiment_label": "Negative",
+      "confidence": 0.975
     },
     {
-      "headline": "How ChatGPT conversations became \u2018a treasure trove\u2019 of evidence in criminal investigations",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbkRmeUhSaWg1QzYydENVRnNVM2JMcTFGX3owTHlGSFNQWmR1S2lEcTQ5X3ZMb3NrNW9UV01fMUYtT1U5QUxzd3VpeUY4TVpHaUhKM3NWOHBYVWNzVXY4NUVRSzcxSENsZkE?oc=5",
-      "published": "2026-05-02T09:00:51",
-      "sentiment_score": -0.117,
+      "headline": "Gen Zers' snail-mail subscription clubs are making thousands a month",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/30/gen-z-snail-mail-subscription-clubs-making-thousands-per-month.html",
+      "published": "2026-05-02T05:47:02Z",
+      "sentiment_score": -0.004,
       "sentiment_label": "Neutral",
-      "confidence": 0.826
+      "confidence": 0.927
+    },
+    {
+      "headline": "Building trades unions join forces with tech giants in AI data center push",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/artificial-intelligence-technology-labor-unions-data-centers-64b10b2f993743dc0c73d273248574cf",
+      "published": "2026-05-02T04:13:40Z",
+      "sentiment_score": 0.061,
+      "sentiment_label": "Neutral",
+      "confidence": 0.897
     },
     {
       "headline": "Tech Now",
@@ -261,15 +258,6 @@
       "confidence": 0.869
     },
     {
-      "headline": "Reinsurance Group of America Announces Redemption of All of Its Outstanding 5.75% Fixed-to-Floating Rate Subordinated Debentures Due 2056",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/reinsurance-group-of-america-announces-redemption-of-all-of-its-outstanding-5-75-fixed-to-floating-rate-subordinated-debentures-due-2056-770930bf6506440cba0a32fa2375077d",
-      "published": "2026-05-01T20:33:11Z",
-      "sentiment_score": 0.045,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
-    },
-    {
       "headline": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
       "source": "Wired",
       "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
@@ -315,6 +303,15 @@
       "confidence": 0.91
     },
     {
+      "headline": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3YzRU84RUFjYy1CT3FINVRrMC1xamZfWTVIbXhBVkVJWGE4SEdaNWdhVHktamFzejd2cFZRblpJdmcxclFoLXFweHloUm8yYzU4WUhnYURKTVkxd2dXQ1lCdFJ3QVhSTnR2MFJGSzdEMGs0ZGpYemZlNmo0cFNGeExXOGtnLVNqejNXY3FuUlNTaWFfZE5zWWQtT05fWVNRSm41OGwtMS0?oc=5",
+      "published": "2026-05-01T17:16:00",
+      "sentiment_score": -0.658,
+      "sentiment_label": "Negative",
+      "confidence": 0.679
+    },
+    {
       "headline": "Pentagon inks deals with Nvidia, Microsoft and AWS to deploy AI on classified networks | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
@@ -331,15 +328,6 @@
       "sentiment_score": -0.009,
       "sentiment_label": "Neutral",
       "confidence": 0.902
-    },
-    {
-      "headline": "Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic",
-      "published": "2026-05-01T13:03:46Z",
-      "sentiment_score": 0.143,
-      "sentiment_label": "Positive",
-      "confidence": 0.503
     },
     {
       "headline": "Spotify adds 'Verified' badges to distinguish human artists from AI",
@@ -439,15 +427,6 @@
       "sentiment_score": -0.039,
       "sentiment_label": "Neutral",
       "confidence": 0.851
-    },
-    {
-      "headline": "OpenAI Has Just the Right Person to Curb Its Wild Spending",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUxveExFRERoR1o5OG1ScW1IbmJUWmtubEtZbjRTbV9Db05vNWlsZnpBWUFLQmhqYXBldEpKNjZWYVRYYnJrSGlTQ0JxNlNqSFFpNWhrb0tpWng4anh0bVFVbnplclZGR0dVTHpjQjlZRmNsQnBza1dTckh4MERYa0tYWExFTDlUdnNnSzhzY18wVmNxTUhnNXRWY1VwZW5qMjVvdEdCWTVnZmcwNkFrcnhFdkxicEtIVzI3Y1JqLW1STUVTRXc?oc=5",
-      "published": "2026-04-30T03:00:00",
-      "sentiment_score": 0.249,
-      "sentiment_label": "Neutral",
-      "confidence": 0.693
     },
     {
       "headline": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
