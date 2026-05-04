@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-05-04T13:23:46.394381",
-  "total_articles": 33,
-  "overall_sentiment": -0.158,
+  "last_updated": "2026-05-04T19:15:49.558258",
+  "total_articles": 35,
+  "overall_sentiment": -0.08,
   "overall_label": "Negative",
   "daily_stats": [
-    {
-      "date": "2026-02-11",
-      "avg_sentiment": -0.878,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.878
-    },
     {
       "date": "2026-04-28",
       "avg_sentiment": -0.029,
@@ -20,34 +11,34 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.454
+      "moving_avg": -0.029
     },
     {
       "date": "2026-04-29",
-      "avg_sentiment": -0.795,
-      "article_count": 4,
+      "avg_sentiment": -0.771,
+      "article_count": 3,
       "positive_count": 0,
-      "negative_count": 4,
+      "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.567
+      "moving_avg": -0.4
     },
     {
       "date": "2026-04-30",
-      "avg_sentiment": -0.051,
+      "avg_sentiment": 0.029,
       "article_count": 6,
       "positive_count": 3,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.438
+      "moving_avg": -0.257
     },
     {
       "date": "2026-05-01",
-      "avg_sentiment": 0.066,
+      "avg_sentiment": -0.141,
       "article_count": 7,
-      "positive_count": 4,
-      "negative_count": 1,
+      "positive_count": 3,
+      "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.337
+      "moving_avg": -0.228
     },
     {
       "date": "2026-05-02",
@@ -56,38 +47,50 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 3,
-      "moving_avg": -0.306
+      "moving_avg": -0.212
     },
     {
       "date": "2026-05-03",
-      "avg_sentiment": -0.12,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 0,
-      "moving_avg": -0.279
+      "avg_sentiment": 0.118,
+      "article_count": 5,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.157
     },
     {
       "date": "2026-05-04",
-      "avg_sentiment": 0.042,
-      "article_count": 3,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.148
+      "avg_sentiment": 0.112,
+      "article_count": 6,
+      "positive_count": 2,
+      "negative_count": 1,
+      "neutral_count": 3,
+      "moving_avg": -0.118
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.213,
-      "article_count": 11,
+      "avg_sentiment": -0.277,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.213,
+      "avg_sentiment": 0.129,
       "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.343,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.321,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -103,25 +106,46 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.061,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "WSJ",
-      "avg_sentiment": -0.187,
+      "source": "CNN",
+      "avg_sentiment": -0.53,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNN",
-      "avg_sentiment": -0.53,
+      "source": "BBC",
+      "avg_sentiment": -0.065,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "White House Considers Vetting A.I. Models Before They Are Released",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95MUd1NzV6M0VweHpKbTM1YXdmemJQUnBKVEp6LU1kb3NLMEZnUEhQTWoxcmo0aDZLN3h6WF9iU3VlemdyT2RtVmlDd1o3M2Y5QjlDYUZ1dzgwWldBVWZtMDFzTHZiRDVDMmZYbXhYa3Zkekkx?oc=5",
+      "published": "2026-05-04T19:02:34",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.942
+    },
+    {
+      "headline": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWElCYVFPcDgxYUpuOVZad1NwemRZUVdXRFNGVnJBclAwQjQ5VTB6R05DZW1ZTzllV010d3JvVnJfX3RmcjJJR1liYTF1dzRrZzZ0eWpiaGt1STFoUmJhMDkwWDFfa1JzT202X3ZZNG5ESGFwUjhhOHpxUWZEbmJjd3lCM0FaUm1NMDVtSmUzdzdkNGlPYm1hOTFybVphdktJd2tHcHVaalpHVDRXU1pGU2h3?oc=5",
+      "published": "2026-05-04T17:26:54",
+      "sentiment_score": 0.601,
+      "sentiment_label": "Positive",
+      "confidence": 0.612
+    },
+    {
+      "headline": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON19LSGVpQXA1cFFVY3FNZGFWZ1F4RmMycjRiSGwwT1VUN3ZUbHRNVjdMOF9JQklsOXZwZVZOb2tqblpqWGstRmZ6ejN3cWF0eXZseVdvbmxZZVNFNmk5ZU1leUp0N18tOFB1MTg0WlZYeFc2eWIzaUhrYTFGZ0twTDlYMDVTTm5mLWdaWl9aNm5KYmhMVjVfSFphWnZINWFzS2dlUzFn?oc=5",
+      "published": "2026-05-04T16:01:00",
+      "sentiment_score": -0.055,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
     {
       "headline": "What Was Discussed at Google\u2019s White House Meeting About A.I.",
       "source": "The New York Times",
@@ -150,13 +174,22 @@
       "confidence": 0.912
     },
     {
-      "headline": "The body\u2019s most mysterious organ may play a key role in longevity and cancer",
-      "source": "The Washington Post",
-      "link": "https://washingtonpost.com/health/2026/05/03/thymus-longevity-cancer-research/",
-      "published": "2026-05-03T10:00:00Z",
-      "sentiment_score": -0.16,
+      "headline": "A World Reshaped by Disruption. A Conference Built to Respond",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/business-wire/a-world-reshaped-by-disruption-a-conference-built-to-respond-2c8cbb2430c74a1ea74f9f8fe576ac9f",
+      "published": "2026-05-03T18:28:27Z",
+      "sentiment_score": 0.003,
       "sentiment_label": "Neutral",
-      "confidence": 0.769
+      "confidence": 0.941
+    },
+    {
+      "headline": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/03/berkshire-ceo-greg-abel-earns-solid-first-scorecard-after-first-annual-meeting.html",
+      "published": "2026-05-03T17:30:36Z",
+      "sentiment_score": 0.907,
+      "sentiment_label": "Positive",
+      "confidence": 0.935
     },
     {
       "headline": "Nvidia\u2019s push into physical AI sparks rally in Asian partners",
@@ -268,12 +301,12 @@
     },
     {
       "headline": "Pentagon says US military to be an 'AI-first' fighting force",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xRERqS2ZsdzQ3VTBkYzhBZktzOU0yLXp0LXhrbndtU3pHYWZ3aXVFUFRETXdxX1lxWFk0bXB2ZG9CdTZPZmJpQVFHc1BuYUQ5dWdaVi1UdUUwUQ?oc=5",
       "published": "2026-05-01T21:09:52",
-      "sentiment_score": 0.925,
-      "sentiment_label": "Positive",
-      "confidence": 0.939
+      "sentiment_score": 0.177,
+      "sentiment_label": "Neutral",
+      "confidence": 0.785
     },
     {
       "headline": "The things we\u2019re building",
@@ -285,13 +318,13 @@
       "confidence": 0.869
     },
     {
-      "headline": "How A.I. Killed Student Writing (and Revived It)",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUZNa0xnNl9GUnFYdEt2QkNTT3otdGpZVjdwRXA4U2NHLXp1RU1yLXoxZ08td3o5Ql9wMHdTYlY2bk1ZNnI0SzVxbVdDM0h4dFZ6U0oyZ2hDRmdJMjRwM0lHNTN2WGljcTNLQ2VNY2M1TTI2S25NMzhQeGozUjNTMjFCUmVFcXE0SENJ?oc=5",
-      "published": "2026-05-01T14:17:30",
-      "sentiment_score": 0.109,
-      "sentiment_label": "Neutral",
-      "confidence": 0.851
+      "headline": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3YzRU84RUFjYy1CT3FINVRrMC1xamZfWTVIbXhBVkVJWGE4SEdaNWdhVHktamFzejd2cFZRblpJdmcxclFoLXFweHloUm8yYzU4WUhnYURKTVkxd2dXQ1lCdFJ3QVhSTnR2MFJGSzdEMGs0ZGpYemZlNmo0cFNGeExXOGtnLVNqejNXY3FuUlNTaWFfZE5zWWQtT05fWVNRSm41OGwtMS0?oc=5",
+      "published": "2026-05-01T17:16:00",
+      "sentiment_score": -0.589,
+      "sentiment_label": "Negative",
+      "confidence": 0.611
     },
     {
       "headline": "Spotify adds 'Verified' badges to distinguish human artists from AI",
@@ -349,12 +382,12 @@
     },
     {
       "headline": "OpenAI tells ChatGPT models to stop talking about goblins",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT25BMWpfTUFVNjY3V3NqMzlUdVlPQ2ZHbHV5UGR2QTc2bnE1U1otVUpERDNBb0l6Zlp2UkZTTlk1cExKX08tLUFweHV5M21LcV9LRzRibExTUQ?oc=5",
       "published": "2026-04-30T13:28:04",
-      "sentiment_score": -0.784,
-      "sentiment_label": "Negative",
-      "confidence": 0.814
+      "sentiment_score": -0.306,
+      "sentiment_label": "Neutral",
+      "confidence": 0.646
     },
     {
       "headline": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
@@ -364,15 +397,6 @@
       "sentiment_score": -0.744,
       "sentiment_label": "Negative",
       "confidence": 0.769
-    },
-    {
-      "headline": "Fresh wave of lawsuits filed against OpenAI by Tumbler Ridge victims",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTY3hUNzJMc1VUeEdyR1JpV3EzTTJYRDAyV096UTd1ZmJLM3pIbHQxOWgzSXdiOTRDMlI2eFg2NHJJbllWamJTeHFHN2loSTdibG5xTHU5M3QxZw?oc=5",
-      "published": "2026-04-29T19:51:55",
-      "sentiment_score": -0.868,
-      "sentiment_label": "Negative",
-      "confidence": 0.9
     },
     {
       "headline": "Why friendly AI chatbots might be less trustworthy",
@@ -409,15 +433,6 @@
       "sentiment_score": -0.063,
       "sentiment_label": "Neutral",
       "confidence": 0.717
-    },
-    {
-      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
-      "published": "2026-02-11T08:00:00",
-      "sentiment_score": -0.878,
-      "sentiment_label": "Negative",
-      "confidence": 0.891
     }
   ]
 }
