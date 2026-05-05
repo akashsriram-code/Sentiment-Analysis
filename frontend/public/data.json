@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-05T07:55:38.085146",
-  "total_articles": 27,
-  "overall_sentiment": -0.091,
-  "overall_label": "Negative",
+  "last_updated": "2026-05-05T13:15:18.532487",
+  "total_articles": 34,
+  "overall_sentiment": -0.025,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-02-11",
@@ -33,12 +33,12 @@
     },
     {
       "date": "2026-04-30",
-      "avg_sentiment": 0.029,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 3,
+      "avg_sentiment": -0.122,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.404
+      "moving_avg": -0.442
     },
     {
       "date": "2026-05-01",
@@ -47,16 +47,16 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.306
+      "moving_avg": -0.336
     },
     {
       "date": "2026-05-02",
-      "avg_sentiment": -0.085,
-      "article_count": 4,
+      "avg_sentiment": -0.116,
+      "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.269
+      "neutral_count": 1,
+      "moving_avg": -0.299
     },
     {
       "date": "2026-05-03",
@@ -65,25 +65,25 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.186
+      "moving_avg": -0.212
     },
     {
       "date": "2026-05-04",
-      "avg_sentiment": -0.191,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.088
+      "avg_sentiment": 0.198,
+      "article_count": 10,
+      "positive_count": 4,
+      "negative_count": 4,
+      "neutral_count": 2,
+      "moving_avg": -0.058
     },
     {
       "date": "2026-05-05",
-      "avg_sentiment": 0.601,
-      "article_count": 1,
+      "avg_sentiment": 0.026,
+      "article_count": 5,
       "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.003
+      "negative_count": 1,
+      "neutral_count": 3,
+      "moving_avg": -0.055
     }
   ],
   "source_stats": [
@@ -95,15 +95,33 @@
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.091,
-      "article_count": 4,
+      "avg_sentiment": -0.162,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.135,
-      "article_count": 4,
+      "source": "CNBC",
+      "avg_sentiment": 0.236,
+      "article_count": 5,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.027,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "CNN",
+      "avg_sentiment": 0.367,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.11,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "WSJ",
@@ -120,22 +138,58 @@
   ],
   "articles": [
     {
-      "headline": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
+      "headline": "U.S.C. Will Infuse A.I. Across University With $200 Million Donation",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWElCYVFPcDgxYUpuOVZad1NwemRZUVdXRFNGVnJBclAwQjQ5VTB6R05DZW1ZTzllV010d3JvVnJfX3RmcjJJR1liYTF1dzRrZzZ0eWpiaGt1STFoUmJhMDkwWDFfa1JzT202X3ZZNG5ESGFwUjhhOHpxUWZEbmJjd3lCM0FaUm1NMDVtSmUzdzdkNGlPYm1hOTFybVphdktJd2tHcHVaalpHVDRXU1pGU2h3?oc=5",
-      "published": "2026-05-05T02:03:14",
-      "sentiment_score": 0.601,
-      "sentiment_label": "Positive",
-      "confidence": 0.612
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42QlJ6SFg2Ukk4eTZSb016b2pMYTJFVURaME9HWmVxMkJiaWxLTTdBdVpBWXdXd1VEa2EzUUd4WDFsdzVhOXpmMTBwQWhNSEJqQV9qbFpha3FPRE1IakhOSVU3VXJ4bXZjX2VTbkVNLTZpVUVtQ0FSUndR?oc=5",
+      "published": "2026-05-05T13:00:07",
+      "sentiment_score": 0.141,
+      "sentiment_label": "Neutral",
+      "confidence": 0.836
     },
     {
-      "headline": "White House Considers Vetting A.I. Models Before They Are Released",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95MUd1NzV6M0VweHpKbTM1YXdmemJQUnBKVEp6LU1kb3NLMEZnUEhQTWoxcmo0aDZLN3h6WF9iU3VlemdyT2RtVmlDd1o3M2Y5QjlDYUZ1dzgwWldBVWZtMDFzTHZiRDVDMmZYbXhYa3Zkekkx?oc=5",
-      "published": "2026-05-04T22:37:30",
-      "sentiment_score": 0.001,
+      "headline": "Opinion | How to win the cyberwar against AI-powered hackers",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVo2UGJ5NG00M1B2dGszLXRIakNIV2VrRkhjYTlWM082Y2M1V1NFQllvdG1zRVVyanZaMHhEaW5xQnZNeWZ0a2o4UlNnczhxVHlIRHpobDczcVJFclhLSGpSbVZHVWhIc2J3RmUtaEZpd05CcmtjZWFHd1NLRG1GcHJGUXRibVlEQkkyR1JOUm85bXpabnljUEZlY2dwUDRqU0JVMWpyOFNrc3RjNVU5N3FvMHEtUQ?oc=5",
+      "published": "2026-05-05T12:37:38",
+      "sentiment_score": 0.028,
       "sentiment_label": "Neutral",
-      "confidence": 0.942
+      "confidence": 0.899
+    },
+    {
+      "headline": "Young Europeans turn to AI chatbots for emotional support, survey shows",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTktWHVtMzhCZW53UTdTZXJNQldlb3BaMTU4RnNOWllHclpZNkNCcGw4ei1TQS1GeXVLbUZyd21LVFNGX05CQXI3RGswejVxakV0ZTdLZGR5RG53TTdDS0d2enI3YXVpOG9ZdmhwVlh2UEh4RlJCZGhkRmRkM2JMYmNUanVVb3hzbmdyRWRya0s1anRYZlVVSVZ6RnZOUzNrUGZLckNDbTFUWVA2WHVB?oc=5",
+      "published": "2026-05-05T12:21:43",
+      "sentiment_score": 0.033,
+      "sentiment_label": "Neutral",
+      "confidence": 0.895
+    },
+    {
+      "headline": "Behind the White House\u2019s Potential Rethink on A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTU1FaDVRcmFaOXh4NUlqN1pxa0JISnVVcjlkZ3htdUNEc3lYbEdrbWxSd3loVVZJSTJZMWlENm5GVTRNb1BsRmNtb3RMcnY3NzQtWlNVWlVvUGV0QnN4M2xSaWptc3NoZ2xxbXVHb1NZanBrZlZNbjNsdnJVZmVWV0w3aw?oc=5",
+      "published": "2026-05-05T12:07:03",
+      "sentiment_score": -0.009,
+      "sentiment_label": "Neutral",
+      "confidence": 0.898
+    },
+    {
+      "headline": "How Are Your Teachers Handling Writing in the Age of A.I.?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDBxOTBncWdqUENKZ1FVV3pRWTJub0FDc3JDWmFVc1lLMkhIcGZURHpZcnlqMEJWYlZtSnNyUkdhSlg3NkhuUGI5clNqNDZuVDNXRUptTGNXdXBZNFE0QmRVNmlucVN1eVFKTUtPMENyazM3bmpwSW90TUxKLWtmQnlCU3lld3VjbDNQMjYxbWoyYlctMUZlN0tWZHJTZzVDRzRneS10MA?oc=5",
+      "published": "2026-05-05T09:01:51",
+      "sentiment_score": -0.064,
+      "sentiment_label": "Neutral",
+      "confidence": 0.882
+    },
+    {
+      "headline": "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd1gtYXlSSDJ4RDdiTjI5Y2ZYU2ZHbXJTUUF1dGpwX2o1WUs2OWdrQUdYd0cyemV3dWlWOTZtSGxHem80dXd2REZOSU8xYkdzZVVoNC0tLXdic2FHeEhXUkVmT2hGbFVpNFUyN05aSkZWUUVaRkRST1VnQUE5NXBVY19oN3kxampUV29fSmZXTWNiV3lJbmJMZ3V3NGZDd2lUZVhCNlQ3NG12LThHM0YteHlValV6SnlWSlVEVHYxTWc3aHNnNUtTWXltNW1PSG5jWDR5bFY0Z3NyRnNIOWxZSDBhMA?oc=5",
+      "published": "2026-05-04T23:48:00",
+      "sentiment_score": -0.054,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
     },
     {
       "headline": "White House considers government reviews for AI models, NYT reports",
@@ -147,6 +201,69 @@
       "confidence": 0.861
     },
     {
+      "headline": "White House Considers Vetting A.I. Models Before They Are Released",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95MUd1NzV6M0VweHpKbTM1YXdmemJQUnBKVEp6LU1kb3NLMEZnUEhQTWoxcmo0aDZLN3h6WF9iU3VlemdyT2RtVmlDd1o3M2Y5QjlDYUZ1dzgwWldBVWZtMDFzTHZiRDVDMmZYbXhYa3Zkekkx?oc=5",
+      "published": "2026-05-04T19:02:35",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.942
+    },
+    {
+      "headline": "Musk texted OpenAI's Brockman about settlement two days before trial began",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
+      "published": "2026-05-04T13:08:15Z",
+      "sentiment_score": -0.548,
+      "sentiment_label": "Negative",
+      "confidence": 0.58
+    },
+    {
+      "headline": "The market's next test could come down to two stocks",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/04/the-markets-next-test-could-come-down-to-two-stocks.html",
+      "published": "2026-05-04T13:04:07Z",
+      "sentiment_score": -0.06,
+      "sentiment_label": "Neutral",
+      "confidence": 0.757
+    },
+    {
+      "headline": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
+      "published": "2026-05-04T12:51:49Z",
+      "sentiment_score": 0.911,
+      "sentiment_label": "Positive",
+      "confidence": 0.937
+    },
+    {
+      "headline": "Berkshire Hathaway meeting, Spirit shuts down, Meta's return to court and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/04/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-05-04T12:10:11Z",
+      "sentiment_score": -0.021,
+      "sentiment_label": "Neutral",
+      "confidence": 0.918
+    },
+    {
+      "headline": "AI chipmaker Cerebras targets $3.5 billion raise in IPO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
+      "published": "2026-05-04T10:45:24Z",
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positive",
+      "confidence": 0.917
+    },
+    {
+      "headline": "GameStop makes daring bid for eBay, hoping to rival Amazon",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/05/04/business/gamestop-buys-ebay-intl",
+      "published": "2026-05-04T10:22:31Z",
+      "sentiment_score": 0.851,
+      "sentiment_label": "Positive",
+      "confidence": 0.86
+    },
+    {
       "headline": "Nicolas Sauvage is betting on the boring parts of AI | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
@@ -154,15 +271,6 @@
       "sentiment_score": 0.056,
       "sentiment_label": "Neutral",
       "confidence": 0.913
-    },
-    {
-      "headline": "CNBC Daily Open: Trump's Hormuz gambit lands with a whimper",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/04/cnbc-daily-open-trumps-hormuz-gambit-lands-with-a-whimper.html",
-      "published": "2026-05-04T01:46:23Z",
-      "sentiment_score": -0.759,
-      "sentiment_label": "Negative",
-      "confidence": 0.861
     },
     {
       "headline": "Nvidia\u2019s push into physical AI sparks rally in Asian partners",
@@ -190,15 +298,6 @@
       "sentiment_score": -0.275,
       "sentiment_label": "Neutral",
       "confidence": 0.677
-    },
-    {
-      "headline": "Beyond Lovable and Mistral: 21 European startups to watch | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-      "published": "2026-05-02T14:04:16Z",
-      "sentiment_score": 0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.922
     },
     {
       "headline": "How ChatGPT conversations became \u2018a treasure trove\u2019 of evidence in criminal investigations",
@@ -271,24 +370,6 @@
       "sentiment_score": 0.166,
       "sentiment_label": "Neutral",
       "confidence": 0.807
-    },
-    {
-      "headline": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1JoX1FKLTR2TU9BeU8waDNJeG50RVFLZE50ZXM3c1VsQkxEY2FxNWplMElNSmlPZ3hhdkd3S0xvUXNCdGY2b2g3MjVxcjNWemloZjd3dXg5dWlhbXVuQTBFSm5uajJGZFhXZjJHRk13VnZiVzd0YVlQUWJ3R2NQTC13LW0wT3NPaHFBVEZ6SWtLaHBvdTJmWjUzY1M3NGpoZ0lXTDJqWlFhcjA2U0RoZUltNXRWOEJWVmI0aFNoT29UZXh4TUg5ZWFB?oc=5",
-      "published": "2026-04-30T18:20:03",
-      "sentiment_score": 0.75,
-      "sentiment_label": "Positive",
-      "confidence": 0.758
-    },
-    {
-      "headline": "Is A.I. a Threat to Humanity? Not in This Trial.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRRSVE1cmtMWlNoRU9RM3c4XzZaNFk2U1h1S1dNNHNOYlVObDZicXVXTEpNTFFkMWNFUEhpai1ZbG1kc210cEVOcER3aHFPaWxodWhyU1pLWVhydXBMUmdQbWJtNk1DZDZ4dXlCbktabjYxNmtnbWdGaDcyTVNkZEFrOTlYVTlwejNMT21B?oc=5",
-      "published": "2026-04-30T18:08:01",
-      "sentiment_score": -0.088,
-      "sentiment_label": "Neutral",
-      "confidence": 0.86
     },
     {
       "headline": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
