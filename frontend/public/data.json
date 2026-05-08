@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-08T02:07:21.635945",
-  "total_articles": 44,
-  "overall_sentiment": -0.191,
+  "last_updated": "2026-05-08T07:17:40.076525",
+  "total_articles": 39,
+  "overall_sentiment": -0.13,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,48 +42,42 @@
     },
     {
       "date": "2026-05-06",
-      "avg_sentiment": -0.319,
-      "article_count": 21,
-      "positive_count": 3,
-      "negative_count": 13,
-      "neutral_count": 5,
-      "moving_avg": 0.085
+      "avg_sentiment": -0.33,
+      "article_count": 16,
+      "positive_count": 2,
+      "negative_count": 10,
+      "neutral_count": 4,
+      "moving_avg": 0.083
     },
     {
       "date": "2026-05-07",
-      "avg_sentiment": -0.235,
-      "article_count": 13,
+      "avg_sentiment": -0.206,
+      "article_count": 11,
       "positive_count": 2,
       "negative_count": 6,
-      "neutral_count": 5,
-      "moving_avg": 0.032
+      "neutral_count": 3,
+      "moving_avg": 0.035
     },
     {
       "date": "2026-05-08",
-      "avg_sentiment": -0.279,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": 0.135,
+      "article_count": 4,
+      "positive_count": 3,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.013
+      "moving_avg": 0.049
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.13,
+      "avg_sentiment": -0.137,
       "article_count": 13,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.137,
-      "article_count": 8,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.282,
+      "avg_sentiment": -0.097,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
@@ -94,33 +88,45 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "CNBC",
+      "avg_sentiment": 0.111,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "Wired",
       "avg_sentiment": -0.448,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "AP News",
-      "avg_sentiment": 0.119,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "Reuters",
-      "avg_sentiment": -0.259,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "WSJ",
-      "avg_sentiment": 0.002,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.087,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+      "headline": "\u2018Being human helps\u2019: despite rise of AI is there still hope for Europe\u2019s translators?",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1dnc0xpVGVWWU5RaDZNbWM4TDd2UUVWU0wtUkxoc0o3a0tubUw2cUZKTG4zSFBBcDhtdVhTNDktVzRkTENEbjRKSGhyU3MwZXphaWU0VGtScWtjVm5rRHpBR2NJWHRlUjd1ZUJPUHRtM0dVQXJSME90cXVIX1V0cTN0LVlmanhfNjZaWktUbDBNYzVqTFhxU3pYREx5dm5jZWhCOC15NGRzbVlYRVFFS3hCZVM3Rlk3Ujd6TzB6RDU2MGJFZ1N4ODdGYw?oc=5",
+      "published": "2026-05-08T06:25:00",
+      "sentiment_score": 0.319,
+      "sentiment_label": "Neutral",
+      "confidence": 0.65
+    },
+    {
+      "headline": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOU1EZUNaQlZCUXo0eTBSaUZhTHNGaUppb2FpcTBwYmN5TGlMaEVPWlZTY0FVZWk4OHZsNlQ4NEFiNUxQVzhHMDBGMWxvSkhvaGxkQ3dFd2RCbWt1RFpDcW5MNWVtTTB6NUhBdGZIcTNOeDVnVENCdzV0LVFGdzZvZmZhS1Q0a1VDS0VvbWxYTnRMQzJodFc0N2VlYlAzWkRvdjYydg?oc=5",
+      "published": "2026-05-08T05:46:00",
+      "sentiment_score": 0.778,
+      "sentiment_label": "Positive",
+      "confidence": 0.832
+    },
+    {
+      "headline": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-08T01:31:55",
@@ -136,24 +142,6 @@
       "sentiment_score": 0.06,
       "sentiment_label": "Neutral",
       "confidence": 0.902
-    },
-    {
-      "headline": "Greece, birthplace of democracy, seeks to put humanity ahead of AI in updated constitution",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDM5ZTUtYmthN29wTS1Sa3JNTFBjQTVySzhVbU00MDhYQWRnLW1Sa1c4UEdjekhMZTdKU0NiRjZuZThkUkhRcFhIMWpEYko5TlBnWTNUU045Wmo2c0Fick43UXNySEJoYTg1djBDdUdxTWNFbjJzNkM1ZEpQcmRNLXNrNVZiMUFCd1M5MFJVMUlKbW5CT3h4d3pmSEo5SDdNN1hJT1N3?oc=5",
-      "published": "2026-05-07T23:44:22",
-      "sentiment_score": 0.178,
-      "sentiment_label": "Neutral",
-      "confidence": 0.794
-    },
-    {
-      "headline": "Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUc5TGphbjJINVRjcVQyR2l0ME9OeVFUWlhrcXVoS3RPMHBXMTBDNjl2UnFJTW5TQV8zdmxMVldKd013OHQ5VjlIejFxT0U3ZXZLeHRSeF9mWE5WR2dybXIzaHJUSmlUUXJjZEMzNldQOEhOaXV3OE11X0J1NmI2RWxNWWlVUjFrUXfSAY8BQVVfeXFMUDVWN3ZKLXNzQjROaC1FTnN5VGJ5TVBXYXdlUXVzU0VZTnhZRkxwZ0dLdXFQeE9sMXhFLXB1cEU3MTV5Q0hFd2tGRkQ4RjlYQXB6aGNMU0JsaVJlY3gwTzFTdkhiYUFIRVA1X011NFdGbFRaRWZRVmRDN0M2MW4zalo2Qy1iNzEwYTZOVUFqa28?oc=5",
-      "published": "2026-05-07T22:13:35",
-      "sentiment_score": -0.963,
-      "sentiment_label": "Negative",
-      "confidence": 0.97
     },
     {
       "headline": "OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm",
@@ -219,13 +207,22 @@
       "confidence": 0.694
     },
     {
-      "headline": "No flattery please, Claude: I\u2019m British | Brief letters",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3lkWE5MMndidnlTaXVoVTNLQTgxRTZvM0tCZ3UyeGsyUjgtX1lPWXUwLWtmdDFZbHRoUFo5VUI5WlM2RlBXQWgxR1B1em5yREg0RHY3Zm0yck44Wm10bHZEcEIyRHlhSUhDTWlCLV9ITjl4X1A3SVNRZ193bEVXdzZHdzZ2WnpmTWZIb1ZKQVQ?oc=5",
-      "published": "2026-05-07T01:30:00",
-      "sentiment_score": -0.009,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
+      "headline": "The AI fitness instructors selling unreal gains",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/sport/articles/c5ye7dnxv86o",
+      "published": "2026-05-07T05:15:08Z",
+      "sentiment_score": -0.911,
+      "sentiment_label": "Negative",
+      "confidence": 0.922
+    },
+    {
+      "headline": "SoftBank shares surge over 16% as Japan tech stock-fueled rally lifts Nikkei 225 to record highs",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
+      "published": "2026-05-07T02:48:19Z",
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positive",
+      "confidence": 0.934
     },
     {
       "headline": "US, China weigh launch of official discussions on AI, WSJ reports",
@@ -235,15 +232,6 @@
       "sentiment_score": 0.032,
       "sentiment_label": "Neutral",
       "confidence": 0.929
-    },
-    {
-      "headline": "U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWRzdlNYRnJndmpPLXFNZ2JoZUlkSkxCY2JBQXZBS3ZkNGV3dkt0aGkyY0JjWThDTDA1RUh3b3J3Tm1WcnFiYjVrUXZUZG5PTVBRcWR6T3o5RmlXVGhlVjJ6QnlCTUNhNWdLcDNxYy1CcGJNMTU4Y28tbVVqY0REdndfdkdOUG5SRkpsWVpmTTFpaEE2RGtlOXNkS2hDOUJQbTdDa0tWek9zU3ZGeDJabXptSUw3dzBadEE?oc=5",
-      "published": "2026-05-07T00:00:00",
-      "sentiment_score": 0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.799
     },
     {
       "headline": "The ChatGPT-ification of American Business",
@@ -318,24 +306,6 @@
       "confidence": 0.786
     },
     {
-      "headline": "Foreign actors like Russia interfering in Alberta separatist debate, new report says",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cze2dnn8kgwo",
-      "published": "2026-05-06T20:51:54Z",
-      "sentiment_score": -0.825,
-      "sentiment_label": "Negative",
-      "confidence": 0.845
-    },
-    {
-      "headline": "Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets think",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/06/elon-musk-odds-low-to-win-openai-suit.html",
-      "published": "2026-05-06T20:32:33Z",
-      "sentiment_score": 0.007,
-      "sentiment_label": "Neutral",
-      "confidence": 0.906
-    },
-    {
       "headline": "Snap issues cautious guidance as Perplexity deal ends, Middle East 'geopolitical situation' causes uncertainty",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/05/06/snap-q1-earnings-report-2026.html",
@@ -347,20 +317,11 @@
     {
       "headline": "Former OpenAI board member says Elon Musk offered her sperm donations",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c33243j44p8o",
-      "published": "2026-05-06T20:05:02Z",
+      "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T20:05:02",
       "sentiment_score": 0.025,
       "sentiment_label": "Neutral",
       "confidence": 0.927
-    },
-    {
-      "headline": "Robinhood\u2019s venture fund IPO attracted 150,000+ retail investors, CEO says",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-      "published": "2026-05-06T19:10:09Z",
-      "sentiment_score": 0.455,
-      "sentiment_label": "Neutral",
-      "confidence": 0.527
     },
     {
       "headline": "How Elon Musk left OpenAI, according to Greg Brockman | TechCrunch",
@@ -390,15 +351,6 @@
       "confidence": 0.917
     },
     {
-      "headline": "Google updates AI search to include 'expert advice' from Reddit and other web forums | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "published": "2026-05-06T15:52:02Z",
-      "sentiment_score": -0.38,
-      "sentiment_label": "Negative",
-      "confidence": 0.482
-    },
-    {
       "headline": "Cybercriminals Are Complaining About AI Slop Flooding Their Forums",
       "source": "Wired",
       "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
@@ -406,15 +358,6 @@
       "sentiment_score": -0.919,
       "sentiment_label": "Negative",
       "confidence": 0.929
-    },
-    {
-      "headline": "Apple to pay $250M to settle lawsuit over Siri\u2019s delayed AI features",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-      "published": "2026-05-06T15:12:49Z",
-      "sentiment_score": -0.684,
-      "sentiment_label": "Negative",
-      "confidence": 0.806
     },
     {
       "headline": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
