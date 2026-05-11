@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T02:10:27.632167",
-  "total_articles": 29,
-  "overall_sentiment": -0.089,
+  "last_updated": "2026-05-11T08:59:39.299561",
+  "total_articles": 32,
+  "overall_sentiment": -0.082,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,13 +23,22 @@
       "moving_avg": -0.436
     },
     {
+      "date": "2026-05-01",
+      "avg_sentiment": -0.025,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.299
+    },
+    {
       "date": "2026-05-02",
       "avg_sentiment": 0.044,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.276
+      "moving_avg": -0.214
     },
     {
       "date": "2026-05-05",
@@ -38,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.119
+      "moving_avg": -0.1
     },
     {
       "date": "2026-05-06",
@@ -47,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.145
+      "moving_avg": -0.125
     },
     {
       "date": "2026-05-07",
@@ -56,16 +65,16 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.196
+      "moving_avg": -0.172
     },
     {
       "date": "2026-05-08",
-      "avg_sentiment": -0.25,
-      "article_count": 9,
+      "avg_sentiment": -0.193,
+      "article_count": 7,
       "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 3,
-      "moving_avg": -0.204
+      "negative_count": 3,
+      "neutral_count": 2,
+      "moving_avg": -0.074
     },
     {
       "date": "2026-05-09",
@@ -74,34 +83,43 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 3,
-      "moving_avg": -0.061
+      "moving_avg": -0.057
     },
     {
       "date": "2026-05-10",
-      "avg_sentiment": 0.324,
+      "avg_sentiment": 0.266,
       "article_count": 3,
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 0,
       "moving_avg": -0.015
+    },
+    {
+      "date": "2026-05-11",
+      "avg_sentiment": -0.187,
+      "article_count": 4,
+      "positive_count": 1,
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.048
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.162,
-      "article_count": 11,
+      "avg_sentiment": -0.151,
+      "article_count": 12,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.119,
+      "article_count": 5,
+      "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
       "avg_sentiment": 0.267,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.155,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
@@ -112,9 +130,9 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.243,
-      "article_count": 3,
+      "source": "Bloomberg Law News",
+      "avg_sentiment": -0.315,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -132,10 +150,37 @@
   ],
   "articles": [
     {
+      "headline": "AI Hiring Compliance Is a Patchwork and Leaves Big Employer Gaps",
+      "source": "Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0JmSHlNNGdTdHZaSzVqQi0xS2Y1OFFrNHNkMkoyTWctUnFhZGlZNF9RWWlBQTZzWGh5aGxOQlV0ZDlBVWhVN0FHcHhIVHk2cGZMcVVkcHRMdEVDcDZmQXd1ZG9HeWJmNWtYZGVfdXNjVG9TcjFGblQ0dG5HZzNjeFNwZGtDUjNDY1g5WEVDamFMam1objVSbzljLWdlUGNfMWgyMDJibExlSWwxVGN3OVlscjczLWxMcHlMQ25Wd2ExUk9RRTZPLWFUUk9PQQ?oc=5",
+      "published": "2026-05-11T08:30:00",
+      "sentiment_score": -0.823,
+      "sentiment_label": "Negative",
+      "confidence": 0.843
+    },
+    {
+      "headline": "AI Billing Transparency Tells a Story That\u2019s Good for Law Firms",
+      "source": "Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbU5YUnhsLVJtMF91NHNETW02b3U1RlRLOHlNV191XzlxYVFKdHVEeUtzYWZmZzNhZERWanZRMGZhQUd6ZVRURDVRLWxZM0FnZGd2WGJFVWp2RG1EbFM1UGtobFFkeThWdUtkeVVJdkhxemJGYWQ0cDhaN0RGN1lzU01DaHJYZjNHUjRmZkt1cFpRNURtSWFBZE5lbDFTM1dfOENObU5MbTNJbm52S19BOVpIVDNraEJvNV96ZE9vek8yZFBOeVFCRHhkTQ?oc=5",
+      "published": "2026-05-11T08:30:00",
+      "sentiment_score": 0.193,
+      "sentiment_label": "Neutral",
+      "confidence": 0.769
+    },
+    {
+      "headline": "Do you need a chief AI officer? Here's how the tech is changing boardrooms",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVhfVDlueHlUUEZVM3FseWswZHRMZHh6UmdfZ2d2dlp3OEtKYU03RmpMdDBuMUhoMnFUZFh4bXRMQ3lUWjF4eFBFMWdDT3BKUmxlUDg4aFZ0czZFVkxTdVBZTjFGTUZoSlE3SEVNZU1EQXRfU21pTHJFay1CRUU4b1plSEFlbzgtVFNCeFZ2LXBnY3Fvd2JzRtIBngFBVV95cUxNbFZzVnlhZ3FDaW1SLUo4aGtqTFBFM2tFRWZQRW11R0hoRmV4RElrWFVpVGhXN3BsNHBLclp4c1gxanQyMmxkQWdHcXBkSHZsTGdjMTF5dGNSZXpJUDdGUEFNbVk0T1hZVkJRT1NmZnBpYk56eHZKbncwZkQ2a2ZDZWI1bk1meFJVZzItSllYOTNsbkx5Sm9HUVVKbW1hQQ?oc=5",
+      "published": "2026-05-11T02:10:00",
+      "sentiment_score": -0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.929
+    },
+    {
       "headline": "Mistaking AI behaviour for conscious being | Letter",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnJLTGVKeXZZT2hmR0d1eVBySm5ZbThfTExleE40bWZBWnNoVGR3RWttNHNWbXhvRGd4MkE3MDJ6MGRpZy1maUd2cHZKY21fbGlxcEJCNXFWY3haT1dtWkRNTTZFTmcxTjdUOU1yRld6VHJ1TEwtYXNjb1JCZkRnWklPaFFJeWRRcXoxU0RScEdCZmVKRzh3Uw?oc=5",
-      "published": "2026-05-10T16:04:00",
+      "published": "2026-05-11T01:30:00",
       "sentiment_score": -0.092,
       "sentiment_label": "Neutral",
       "confidence": 0.848
@@ -148,6 +193,15 @@
       "sentiment_score": 0.129,
       "sentiment_label": "Neutral",
       "confidence": 0.825
+    },
+    {
+      "headline": "AI isn\u2019t actually \u2018taking\u2019 your job. Here\u2019s what\u2019s happening instead | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/05/10/tech/ai-taking-jobs",
+      "published": "2026-05-10T07:25:14Z",
+      "sentiment_score": -0.267,
+      "sentiment_label": "Neutral",
+      "confidence": 0.68
     },
     {
       "headline": "Voice AI in India is hard. Wispr Flow is betting on it anyway. | TechCrunch",
@@ -222,15 +276,6 @@
       "confidence": 0.887
     },
     {
-      "headline": "Judge rules DOGE used ChatGPT in a way that was both dumb and illegal",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
-      "published": "2026-05-08T18:02:44Z",
-      "sentiment_score": -0.902,
-      "sentiment_label": "Negative",
-      "confidence": 0.923
-    },
-    {
       "headline": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
@@ -265,15 +310,6 @@
       "sentiment_score": -0.905,
       "sentiment_label": "Negative",
       "confidence": 0.917
-    },
-    {
-      "headline": "What\u2019s the role of a simple fitness band in the AI health era?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
-      "published": "2026-05-08T13:12:38Z",
-      "sentiment_score": 0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
     },
     {
       "headline": "TikTok scales back AI-generated video descriptions after absurd errors",
@@ -373,6 +409,15 @@
       "sentiment_score": 0.044,
       "sentiment_label": "Neutral",
       "confidence": 0.915
+    },
+    {
+      "headline": "Oscars says AI actors and writing cannot win awards",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-01T22:30:59",
+      "sentiment_score": -0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.86
     },
     {
       "headline": "Tech Life",
