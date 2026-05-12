@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-11T19:28:48.758223",
-  "total_articles": 29,
-  "overall_sentiment": -0.048,
-  "overall_label": "Neutral",
+  "last_updated": "2026-05-12T02:06:22.492794",
+  "total_articles": 31,
+  "overall_sentiment": -0.069,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-04-28",
@@ -23,22 +23,13 @@
       "moving_avg": 0.024
     },
     {
-      "date": "2026-05-05",
-      "avg_sentiment": 0.879,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.309
-    },
-    {
       "date": "2026-05-06",
       "avg_sentiment": -0.248,
       "article_count": 4,
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": 0.17
+      "moving_avg": -0.066
     },
     {
       "date": "2026-05-07",
@@ -47,16 +38,16 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.046
+      "moving_avg": -0.277
     },
     {
       "date": "2026-05-08",
-      "avg_sentiment": -0.1,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": 0.059,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.055
+      "moving_avg": -0.21
     },
     {
       "date": "2026-05-09",
@@ -65,63 +56,72 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.014
+      "moving_avg": -0.137
     },
     {
       "date": "2026-05-10",
-      "avg_sentiment": 0.577,
-      "article_count": 3,
-      "positive_count": 2,
-      "negative_count": 0,
+      "avg_sentiment": 0.479,
+      "article_count": 5,
+      "positive_count": 3,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": 0.067
+      "moving_avg": -0.049
     },
     {
       "date": "2026-05-11",
-      "avg_sentiment": -0.234,
-      "article_count": 10,
-      "positive_count": 1,
-      "negative_count": 6,
+      "avg_sentiment": -0.306,
+      "article_count": 11,
+      "positive_count": 0,
+      "negative_count": 8,
       "neutral_count": 3,
-      "moving_avg": 0.028
+      "moving_avg": -0.093
+    },
+    {
+      "date": "2026-05-12",
+      "avg_sentiment": -0.091,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.112
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.161,
-      "article_count": 10,
+      "avg_sentiment": -0.277,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.109,
-      "article_count": 7,
+      "avg_sentiment": 0.313,
+      "article_count": 8,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Washington Post",
-      "avg_sentiment": -0.058,
-      "article_count": 3,
+      "avg_sentiment": -0.068,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.249,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "The Guardian",
-      "avg_sentiment": -0.41,
+      "avg_sentiment": -0.685,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.104,
+      "avg_sentiment": -0.258,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.486,
-      "article_count": 2,
-      "sentiment_label": "Positive"
     }
   ],
   "articles": [
@@ -129,7 +129,7 @@
       "headline": "AI & Tech Brief: The industrial data problem",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEdRWUNUY3NEZE50WE5MWlo2R0ZiVEdxZjN4YnhTamNqSmhraDZ5NGhRYzR3alF4NTQtY0ZNMFJmeEYwU1YxcEFZdzlqU2JDUHVxN05Pb0hMaVJxNnJwS1dFU3B2R3pYX1lKaGxHVVZ6c1VDNy1TNDhsM1hCV0dMSEZYYjRYRmZ3N29zY3dmWGdqTmF1UkpmZmstbVZDQ0lFRi1JVEJOWk5aTWxjS2JR?oc=5",
-      "published": "2026-05-11T19:26:50",
+      "published": "2026-05-12T01:08:34",
       "sentiment_score": -0.167,
       "sentiment_label": "Neutral",
       "confidence": 0.783
@@ -138,19 +138,37 @@
       "headline": "In turf battle over AI, U.S. spy agencies vie for more sway than Commerce",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3Z3NC1zelI5cDJhVU0yUU1ra0g1dVVaS2VQN1M2LVMwUWE0bWQ2Nnk3dm1wUnozZGVaMnplVVhuQU5oY0xLYzRhSmg2dW5oWk1EWWhHSjU4ZUxpTU1MTTA4d0RmTnZGcHA0RWVxeHFUc3dzX0NQYS0xU21OenVxWUlfRVhGTVRtM0pPN1Zqdmc5MkJfUVRhLQ?oc=5",
-      "published": "2026-05-11T19:04:10",
+      "published": "2026-05-12T00:31:53",
       "sentiment_score": -0.016,
       "sentiment_label": "Neutral",
       "confidence": 0.9
     },
     {
-      "headline": "AI-powered hacking has exploded into industrial-scale threat, Google says",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY056a3dkTjF4NFlmZzJZdk4xX3BoRUE4dUVLUlF3eVRfTXJjMEJPNWtYY0Z1TzBYYWR1Q0pVdmlfV0YybWtMMXNjcXIxb1FHRHBQY3F1OUI1dWZNZ0pyRjBwdV9KUGtTbVdmUTg1RTJkejBfcTU0dzBlNWM0bkVITVlFMzg2c2J3X2xCSnp6TTdTaDJkXzh2bVl0WTVNTHBPYjhfVl85cmx0RVg5Uk9URzFsaw?oc=5",
-      "published": "2026-05-11T18:28:00",
-      "sentiment_score": -0.305,
+      "headline": "Governments can\u2019t agree on what AI actually is",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalhOQmVnYmFMMVlnQk9SVWhNejVwakZ2dXlIOXVicUJtWlJOOW1oZ1lUN2VRajRPdU9uMDVBb2lSSFgzWEF6bnZPRWNtSm5UZWNfMXB2VXdFT01OUl9mcXJvTm0tVTBqX3ZqNWFzWGxZbVdkbjJ3N1p6TkJwakp4UG9COERGV29XeXM0cDVzcHJGRDlCcWFmYzNNMEhuZVJseGZiN1F3Y05ERUpQekE?oc=5",
+      "published": "2026-05-11T23:45:58",
+      "sentiment_score": -0.099,
       "sentiment_label": "Neutral",
-      "confidence": 0.637
+      "confidence": 0.856
+    },
+    {
+      "headline": "Forget the AI job apocalypse. AI\u2019s real threat is worker control and surveillance",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVFjVEZoZGNDWXduSzVOcHIyYWVLcERmWjdUQnNCWDBaQXd5dms3enBkLVVXOUZlc1FIZkU4UTl5N2ZxMXBfY2VoVGRZdUdJOXlRR0QxTXpMbGVWYnR5cG1qVG0zd0hTLURzRURXZEgwMjlKdDNLU3lCdldkU2NOazFPamI0RVl3?oc=5",
+      "published": "2026-05-11T22:50:00",
+      "sentiment_score": -0.515,
+      "sentiment_label": "Negative",
+      "confidence": 0.535
+    },
+    {
+      "headline": "Trading Day: AI beats Iran impasse",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGtMTURYWC1ZdW14ejRtTWZNUmJvZXhJSS1rc21FSFpYM3RnZVNBbFg1S1hwWjdZZm1CWmsyNkl4dHhCWWtuVFo2ekR6MEFESHRjQl9DUGN5UG1vUVdLNUgtWVBZTjdsSXJRYUs1N3FzMlJ2bWY0OTRJOTlwREpEVGVvUGNVTm01WGtZMS1CTzRTaHg3MnN5UzVYUXFMaFN2WkFlNnpB?oc=5",
+      "published": "2026-05-11T21:04:03",
+      "sentiment_score": -0.062,
+      "sentiment_label": "Neutral",
+      "confidence": 0.854
     },
     {
       "headline": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
@@ -171,22 +189,22 @@
       "confidence": 0.491
     },
     {
-      "headline": "Forget the AI job apocalypse. AI\u2019s real threat is worker control and surveillance",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVFjVEZoZGNDWXduSzVOcHIyYWVLcERmWjdUQnNCWDBaQXd5dms3enBkLVVXOUZlc1FIZkU4UTl5N2ZxMXBfY2VoVGRZdUdJOXlRR0QxTXpMbGVWYnR5cG1qVG0zd0hTLURzRURXZEgwMjlKdDNLU3lCdldkU2NOazFPamI0RVl3?oc=5",
-      "published": "2026-05-11T14:09:00",
-      "sentiment_score": -0.515,
-      "sentiment_label": "Negative",
-      "confidence": 0.535
+      "headline": "ChatGPT encouraged FSU shooter, victim\u2019s family alleges in new lawsuit",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1dtQnZ5VWdZdGcxUUtlbjVYN1VXSTl4M0VIOW9iNjlfZm84Y3dOaVBGT0kwcmNFZjRib2c5eDUxWjBvTkwwdnNIbXFuZjZWQ0UzU09uRVVMM2ZYTldTZUN4ZlRDaFhzMER4WGowTVVPZ3l0YjRxVFpjUnhaMmZmOUoycw?oc=5",
+      "published": "2026-05-11T17:27:41",
+      "sentiment_score": -0.261,
+      "sentiment_label": "Neutral",
+      "confidence": 0.68
     },
     {
-      "headline": "OpenAI creates new unit with $4 billion investment to aid corporate AI push",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzBVZGx1c2JvQTRJeWZ2d1FPQU1GTnhSaEZONVV0YmpaRnI4WE50Q25udWxlNC1LbVR0ZkJnTzJYM0dRekdNZWVVempHSEZJT1ZTS1Q3bDI0NHJRdW5lOURaUmNPX0UtQVNnUXNyQUhXQnhvd1lYT1JZdXl5dWtiNk9CblcxV1FHQmdoSGpiekJjX3kwSlZSeHVOcE93ZHY1VU92bldWRTZqb2NKck1yUlRqWjkzRk0?oc=5",
-      "published": "2026-05-11T13:59:44",
-      "sentiment_score": 0.245,
-      "sentiment_label": "Neutral",
-      "confidence": 0.738
+      "headline": "Family of Florida university shooting victim sues over suspect\u2019s ChatGPT use",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVml2T2diSDNxbEVQQTk1dG1NR3pOVm81YXBFNklOOEZTS0l4ejFzU2tUNEZDeXRXNEktNTNOakJ1RGsyZGRJa21DRjgxQ09UM3Q2OWdaRHNCNlc4RG1CQ3g2dXQycWluczBuVGRMb1pYS0JGenl0SEhJaDh0SHVhY0Y1am1JaXhMVE14QWlWZVVJZlRU?oc=5",
+      "published": "2026-05-11T15:27:00",
+      "sentiment_score": -0.855,
+      "sentiment_label": "Negative",
+      "confidence": 0.868
     },
     {
       "headline": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw",
@@ -214,6 +232,33 @@
       "sentiment_score": -0.025,
       "sentiment_label": "Neutral",
       "confidence": 0.929
+    },
+    {
+      "headline": "From Singapore to Brussels, world leaders eye Trump-Xi summit\u00a0from afar",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/11/trump-xi-summit-beijing-global-leaders-iran-war-taiwan-strait-of-hormuz-.html",
+      "published": "2026-05-11T00:26:25Z",
+      "sentiment_score": 0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.941
+    },
+    {
+      "headline": "Cerebras to raise IPO price range to $150-$160 a share: Reuters\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/10/cerebras-ipo-price-range.html",
+      "published": "2026-05-10T21:59:42Z",
+      "sentiment_score": 0.887,
+      "sentiment_label": "Positive",
+      "confidence": 0.899
+    },
+    {
+      "headline": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "published": "2026-05-10T20:43:58Z",
+      "sentiment_score": -0.224,
+      "sentiment_label": "Neutral",
+      "confidence": 0.735
     },
     {
       "headline": "The body\u2019s most mysterious organ may play a key role in longevity and cancer",
@@ -279,24 +324,6 @@
       "confidence": 0.887
     },
     {
-      "headline": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
-      "published": "2026-05-08T17:35:23Z",
-      "sentiment_score": -0.847,
-      "sentiment_label": "Negative",
-      "confidence": 0.885
-    },
-    {
-      "headline": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-      "published": "2026-05-08T16:32:38Z",
-      "sentiment_score": 0.173,
-      "sentiment_label": "Neutral",
-      "confidence": 0.811
-    },
-    {
       "headline": "TikTok scales back AI-generated video descriptions after absurd errors",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
@@ -358,15 +385,6 @@
       "sentiment_score": -0.802,
       "sentiment_label": "Negative",
       "confidence": 0.88
-    },
-    {
-      "headline": "US to safety test new AI models from Google, Microsoft, xAI",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-05T20:16:24",
-      "sentiment_score": 0.879,
-      "sentiment_label": "Positive",
-      "confidence": 0.89
     },
     {
       "headline": "Tech Now",
