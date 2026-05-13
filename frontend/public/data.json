@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-13T14:09:40.587452",
-  "total_articles": 23,
-  "overall_sentiment": -0.118,
+  "last_updated": "2026-05-13T19:42:16.185929",
+  "total_articles": 36,
+  "overall_sentiment": -0.215,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,83 +14,137 @@
       "moving_avg": 0.044
     },
     {
+      "date": "2026-05-05",
+      "avg_sentiment": 0.147,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.096
+    },
+    {
       "date": "2026-05-08",
       "avg_sentiment": -0.02,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.012
+      "moving_avg": 0.057
     },
     {
       "date": "2026-05-11",
-      "avg_sentiment": -0.453,
-      "article_count": 1,
+      "avg_sentiment": -0.654,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.143
+      "moving_avg": -0.121
     },
     {
       "date": "2026-05-12",
-      "avg_sentiment": -0.085,
-      "article_count": 13,
-      "positive_count": 4,
-      "negative_count": 6,
-      "neutral_count": 3,
-      "moving_avg": -0.128
+      "avg_sentiment": -0.176,
+      "article_count": 25,
+      "positive_count": 8,
+      "negative_count": 10,
+      "neutral_count": 7,
+      "moving_avg": -0.132
     },
     {
       "date": "2026-05-13",
-      "avg_sentiment": -0.169,
-      "article_count": 7,
+      "avg_sentiment": -0.368,
+      "article_count": 6,
       "positive_count": 2,
       "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.137
+      "neutral_count": 0,
+      "moving_avg": -0.171
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.354,
+      "avg_sentiment": -0.263,
+      "article_count": 7,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.432,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.055,
+      "avg_sentiment": -0.069,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.329,
-      "article_count": 4,
+      "source": "The Verge",
+      "avg_sentiment": -0.345,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.031,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
       "source": "The New York Times",
-      "avg_sentiment": 0.221,
+      "avg_sentiment": 0.269,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "Associated Press",
-      "avg_sentiment": 0.547,
+      "source": "The Guardian",
+      "avg_sentiment": -0.545,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": 0.079,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "WhatsApp launches 'incognito' AI chat with private disappearing messages",
+      "headline": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2xzSVdwN0pmcEJBZFVZR0FGTzF0c0V5R0NaX21GZVJuQ1d5RGg3Y0dsM2w2Nm1CNnJhcHhLeVB3U0oxZVk2TC1Jcnk1VWRYOGhRVnFHanhvZlBaU3M4bzZlekFyS2ZXejJ1SnExMS1kdDI2cFg0ZE00anByXzYxLVdxaFEtc0FkM2lEX2FNMmd1MTg?oc=5",
+      "published": "2026-05-13T18:14:30",
+      "sentiment_score": 0.583,
+      "sentiment_label": "Positive",
+      "confidence": 0.595
+    },
+    {
+      "headline": "\"Yes, AI chef!\": A recipe for insuring physical artificial intelligence",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2UwelBjSGl0SV9BbUIxZjRvWmdBcVFFcG11SFJlcTBQNDJrR05Sa3lQRG5Tc2NMaWpBLUp1RkdybHpQU1gxUnc2emN6NVZ1UlBiOEszaThscEpPZUNvVGhPVjZ4bGtVZnFMWTNucC1YRllhdFBrR2RDaGRRSC1xMUh3NkdwTy1pTXZXUUhyWkRHQVJLWk1nQVhCNDMwN0tjbDJlc3ZlcDQ0ZG03d1ViTkd4ZEY4dUF5cUpVU0dkWmt2Zw?oc=5",
+      "published": "2026-05-13T16:08:04",
+      "sentiment_score": 0.058,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
+      "headline": "AI is not replacing workers on a large scale so far, says Bank of Canada",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelJKa29lQTY0THE4TTEtbzVEZS1IUTVCbzM3blRUS2xndjN4VGQ2Wm9qX1RCNWRTZ0VQVk9EbGFkQ3h3cjBJZ25OVWpBX0RTbTFrUTM3MGJjNXd2aUM0UDNTSW1NSk84YnUxS1U4VkxybE5EbGpCZTB1eGFIWVh2SFhSLVJPMzNiRlE0Q2hSSGY2WUdXSzRjcWpXUWRWSTFPb0tZWTR2b0s1SzZlM1B5YXVyZEM?oc=5",
+      "published": "2026-05-13T16:00:27",
+      "sentiment_score": -0.908,
+      "sentiment_label": "Negative",
+      "confidence": 0.925
+    },
+    {
+      "headline": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-13T14:00:58",
-      "sentiment_score": -0.905,
+      "sentiment_score": -0.931,
       "sentiment_label": "Negative",
-      "confidence": 0.915
+      "confidence": 0.94
     },
     {
       "headline": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
@@ -102,15 +156,6 @@
       "confidence": 0.846
     },
     {
-      "headline": "Hyperscalers' AI buildout will require massive amounts of energy. Two under-the-radar stocks will benefit",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMk9SNmdFdU5zbmNrVTlyMC11Q2dHLUN6YUxEWjFjMEMzQV9SczFMdlAyYnFxU3B1RFJZNHBIRGNlQlI3bUhVb2xpcDRZMk83REZpNjhlZzh4WW4wRG5TOXFjYjd0RHJIMlZfWU5VaW02SlR4N1E0MnFKSzczOUNBU2N6U0QwVFMwVmNEVmloOFFVRWJYWmtGb1JJWFo0bGdXaldOYUJsRldUVXdYVXJndTFGYlhtLXM5T09NV0l1NXltN2dma0ZNTGlvdHBlcjU1cDVuY0xZZ9IB3AFBVV95cUxPWFRvbGNFbVhQbENHT0xHdXVDdEZsV2dobEdORUxqaEI0UUc2RHJlbGtyMUpLTDNsVV9rZjNkeFlRUkhHNmp3STY1MXBqMXlqQnpTVlZjSUhfQUFsVzZ3UXNnVV83dEhVWW1RT3pZdXpac2kxTmZXY3hpMDBOdkZ1cElTeHJGTUFsY1dzTGJpdnhMRC1HamM0dDhkNXdObWt0a1JYbnhxYUo2RVU3SHNKbWdZRC1uMWRIWWR6NjFsSGdpVlMyZU10S0ZnRC1EQm9ZY05rRE1HaHk0LXNK?oc=5",
-      "published": "2026-05-13T12:50:10",
-      "sentiment_score": 0.214,
-      "sentiment_label": "Neutral",
-      "confidence": 0.756
-    },
-    {
       "headline": "Suicide forum fined \u00a3950,000 for not blocking UK users",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
@@ -118,33 +163,6 @@
       "sentiment_score": -0.932,
       "sentiment_label": "Negative",
       "confidence": 0.944
-    },
-    {
-      "headline": "Silicon Valley\u2019s A.I. Lobbying Reaches a Fever Pitch",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnhKQVFoTXViVGpiek5YbHFmbVdWTkNUc21HaEVlbERadUNJd3JPYjRsOXRXbHEwY09yVjdNNnF3aW00WUdXbmNWdU44UTIxMzhVT0NYRV96MUpzaG9yU2VhN1dvVHFVSVRmeDlTNDNUbm90ZlJ6Y09FRmRibDlFY0tYQld5RUpwZDVZaWtPR1Q2UTNj?oc=5",
-      "published": "2026-05-13T09:14:36",
-      "sentiment_score": -0.06,
-      "sentiment_label": "Neutral",
-      "confidence": 0.634
-    },
-    {
-      "headline": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSS1QX185c0lzbGF2MWJ6V3NwZ1lfNWxrRmRXX0kwT1IzeXBfMkIxWE0yOGFmc3lxZFdaUzV4aWJScVU0bENmVWR4N3FzN09BaWdqMS1uZ1RyZVBpQzhPM3NGTWp4X0FQUkdndWdnUkhtS3Z5TEhRUmlBcGZ3bHpVcXZwVVA2UDhfVHZNYmVjSGgydWRkZGpQMDhLSkdvbWoyTzNBUHN0SXpfdVhNbzRBXzJzRGJrTVlYS2dV?oc=5",
-      "published": "2026-05-13T09:02:46",
-      "sentiment_score": 0.583,
-      "sentiment_label": "Positive",
-      "confidence": 0.595
-    },
-    {
-      "headline": "OpenAI chief Altman says Elon Musk wanted control of ChatGPT maker",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KUnZ2OG13R1hxOGs0amdTX0gyQlpNakZxNXd4RzlPdE1HZ05nRkFzZ245WDNFMFY2cDdoZldYQ2Nzck00dmd0OHc3QzFZUC1iZXZQTC15X20wd0NVYTM0TEEwNWJNcmc?oc=5",
-      "published": "2026-05-13T03:09:01",
-      "sentiment_score": -0.009,
-      "sentiment_label": "Neutral",
-      "confidence": 0.939
     },
     {
       "headline": "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial",
@@ -174,13 +192,94 @@
       "confidence": 0.879
     },
     {
-      "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zd2w2OTRiTHE3YWVTejVVbC1LSUk4VkVsel81ZF9SNXIxb3BlWHJUdTJJZUxndUdGNjNtVW5aMnB4Q2txMnhKY3ZCZlJPU0VJUGNqWkNRVWYzdw?oc=5",
-      "published": "2026-05-12T18:51:56",
-      "sentiment_score": 0.02,
+      "headline": "Molo is not doing especially impressive lawyering here.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/929005/molo-is-not-doing-especially-impressive-lawyering-here",
+      "published": "2026-05-12T19:35:03Z",
+      "sentiment_score": 0.036,
       "sentiment_label": "Neutral",
-      "confidence": 0.944
+      "confidence": 0.926
+    },
+    {
+      "headline": "Google races to put Gemini at the center of Android before Apple\u2019s AI reboot",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
+      "published": "2026-05-12T19:22:28Z",
+      "sentiment_score": 0.185,
+      "sentiment_label": "Neutral",
+      "confidence": 0.796
+    },
+    {
+      "headline": "New futures market for semiconductors comes as AI drives costs skyward",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/12/new-futures-market-for-semiconductors-comes-as-ai-drives-costs-skyward.html",
+      "published": "2026-05-12T19:21:05Z",
+      "sentiment_score": 0.341,
+      "sentiment_label": "Neutral",
+      "confidence": 0.61
+    },
+    {
+      "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T18:51:56",
+      "sentiment_score": -0.023,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
+      "headline": "Musk mulled handing OpenAI to his children, Altman testifies | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "published": "2026-05-12T18:06:58Z",
+      "sentiment_score": 0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
+    },
+    {
+      "headline": "Sam Altman: Elon Musk wanted control of OpenAI even after death",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/czj2k2exdzlo",
+      "published": "2026-05-12T17:57:58Z",
+      "sentiment_score": -0.022,
+      "sentiment_label": "Neutral",
+      "confidence": 0.89
+    },
+    {
+      "headline": "Laid off GM employees describe ominous meeting, AI and severance",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/12/gm-layoffs-ai-severance.html",
+      "published": "2026-05-12T17:44:17Z",
+      "sentiment_score": -0.958,
+      "sentiment_label": "Negative",
+      "confidence": 0.966
+    },
+    {
+      "headline": "Marty Makary is out as Trump's Food and Drug Administration head",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/fda-trump-makary-kennedy-vaccines-drugs-ef151784342c48cca3b91a829d615b5e",
+      "published": "2026-05-12T17:40:45Z",
+      "sentiment_score": -0.526,
+      "sentiment_label": "Negative",
+      "confidence": 0.545
+    },
+    {
+      "headline": "The stock market isn't ignoring Iran. It's rising for these three very real reasons",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/12/the-stock-market-isnt-ignoring-iran-its-rising-for-these-three-very-real-reasons.html",
+      "published": "2026-05-12T17:40:08Z",
+      "sentiment_score": 0.165,
+      "sentiment_label": "Neutral",
+      "confidence": 0.754
+    },
+    {
+      "headline": "Sam Altman says Elon Musk\u2019s mind games were damaging OpenAI",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+      "published": "2026-05-12T17:34:09Z",
+      "sentiment_score": -0.871,
+      "sentiment_label": "Negative",
+      "confidence": 0.887
     },
     {
       "headline": "OpenAI Hit With Overdose Suit Targeting ChatGPT Drug Advice (1)",
@@ -192,6 +291,33 @@
       "confidence": 0.902
     },
     {
+      "headline": "The AI legal services industry is heating up. Anthropic is getting in on the action. | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "published": "2026-05-12T17:03:41Z",
+      "sentiment_score": 0.22,
+      "sentiment_label": "Neutral",
+      "confidence": 0.762
+    },
+    {
+      "headline": "Google's 'Create My Widget' feature will let you vibe code your own widgets | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+      "published": "2026-05-12T17:03:41Z",
+      "sentiment_score": 0.027,
+      "sentiment_label": "Neutral",
+      "confidence": 0.939
+    },
+    {
+      "headline": "Gemini\u2019s biggest new features are all about controlling your phone",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+      "published": "2026-05-12T17:02:32Z",
+      "sentiment_score": 0.067,
+      "sentiment_label": "Neutral",
+      "confidence": 0.903
+    },
+    {
       "headline": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObG9lY3NRcy1LeGJ2UXBFazZ2emdkaWFJcy1GZEk3Z3BSMzZNaDFqWnF0ME1CNU5vRjl2bWJhZ2VpVm1IdVNNZHV1dHE3VGtraURnN2Fpa3JnQzVYLTdNZDVzeGRmRjEyalNlc29uTUdhTlNBMS05dy12cFlDa2JvUE9HZ1FUUWplOTBrNG05RUk3aTBRelBYUFF3LVA2Yk45dXBfN3MxMFV3dw?oc=5",
@@ -201,49 +327,40 @@
       "confidence": 0.678
     },
     {
-      "headline": "China Sought Access to Anthropic\u2019s Newest A.I. The Answer Was No.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3RGem51eC1qcHNVWVlDb1hxNDJOb2M4VGxqOFFtMWt4MGlQUHJWb3VqQ3NHSzZBWGdlM3FnaS1vQi1lcGs3elA1U0Z6STZLekxOMU81X1Z5cHhWNjdVdFFJMWw4VDBLdEU3S09JcTFNTzl4NC1fbU5fODQ3NGN1VUF5R0E0N3ZUV0VETVk3UWowcUp2SVZZ?oc=5",
-      "published": "2026-05-12T15:36:08",
-      "sentiment_score": 0.141,
+      "headline": "Googlebook Is Google's New AI-Powered Laptop Platform Built on Android",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/googlebook-laptop-platform/",
+      "published": "2026-05-12T17:00:00Z",
+      "sentiment_score": 0.178,
       "sentiment_label": "Neutral",
-      "confidence": 0.831
+      "confidence": 0.801
     },
     {
-      "headline": "Zebra Technologies Announces First-Quarter 2026 Results",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/zebra-technologies-announces-first-quarter-2026-results-6216e03e07314b0c84a997eeb6e36afd",
-      "published": "2026-05-12T13:27:34Z",
-      "sentiment_score": 0.161,
-      "sentiment_label": "Neutral",
-      "confidence": 0.816
+      "headline": "U.S. bank disclose security lapse after sharing customer data with AI app | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/",
+      "published": "2026-05-12T16:36:44Z",
+      "sentiment_score": -0.58,
+      "sentiment_label": "Negative",
+      "confidence": 0.608
     },
     {
-      "headline": "Analysis: Iran war hangs over Trump's China trip \u2014 and his presidency",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/12/trump-china-iran-war-xi-jinping-analysis.html",
-      "published": "2026-05-12T13:20:26Z",
-      "sentiment_score": -0.451,
-      "sentiment_label": "Neutral",
-      "confidence": 0.499
+      "headline": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+      "published": "2026-05-12T16:30:33Z",
+      "sentiment_score": -0.834,
+      "sentiment_label": "Negative",
+      "confidence": 0.854
     },
     {
-      "headline": "Trump's China trip, Nadella's testimony, GM layoffs and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/12/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-05-12T12:08:38Z",
-      "sentiment_score": -0.073,
+      "headline": "Sam Altman takes the stand in trial against Elon Musk",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+      "published": "2026-05-12T16:05:20Z",
+      "sentiment_score": -0.123,
       "sentiment_label": "Neutral",
-      "confidence": 0.867
-    },
-    {
-      "headline": "SoftBank has injected $450 million into this British AI chip company",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/12/softbank-graphcore-ai-chip-investment.html",
-      "published": "2026-05-12T11:00:41Z",
-      "sentiment_score": 0.113,
-      "sentiment_label": "Neutral",
-      "confidence": 0.87
+      "confidence": 0.814
     },
     {
       "headline": "Why Soccer Still Defies Statistical Analysis",
@@ -255,13 +372,22 @@
       "confidence": 0.888
     },
     {
-      "headline": "Vorys Jumps 34 Spots to No. 126 in 2026 AmLaw 200 Rankings",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/ein-presswire-newsmatics/vorys-jumps-34-spots-to-no-126-in-2026-amlaw-200-rankings-b4a8aa5e8d01d092e00f99bb1d13282a",
-      "published": "2026-05-12T03:30:45Z",
-      "sentiment_score": 0.934,
-      "sentiment_label": "Positive",
-      "confidence": 0.953
+      "headline": "China Sought Access to Anthropic\u2019s Newest A.I. The Answer Was No.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3RGem51eC1qcHNVWVlDb1hxNDJOb2M4VGxqOFFtMWt4MGlQUHJWb3VqQ3NHSzZBWGdlM3FnaS1vQi1lcGs3elA1U0Z6STZLekxOMU81X1Z5cHhWNjdVdFFJMWw4VDBLdEU3S09JcTFNTzl4NC1fbU5fODQ3NGN1VUF5R0E0N3ZUV0VETVk3UWowcUp2SVZZ?oc=5",
+      "published": "2026-05-12T09:03:42",
+      "sentiment_score": 0.141,
+      "sentiment_label": "Neutral",
+      "confidence": 0.831
+    },
+    {
+      "headline": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcF9BWnVjNHBqSUJ0a1NLcHlKR1NwSW9yQjVrVENOZU1aYThfeWZqc3ZyZU5XS19NcVRnUmRRRklvVVR3cU5jU1NEcExfMnBCVG51WmJlb0c4dDFQN1pLd0hWTXVDMlJUQmk3YllGUWVaWTVleGRScFFMN0pZMnJLZ0cxMl8zc3lk?oc=5",
+      "published": "2026-05-12T09:01:03",
+      "sentiment_score": 0.083,
+      "sentiment_label": "Neutral",
+      "confidence": 0.864
     },
     {
       "headline": "Family of Florida mass shooting victim sues OpenAI in US court",
@@ -273,6 +399,15 @@
       "confidence": 0.491
     },
     {
+      "headline": "Family of Florida university shooting victim sues over suspect\u2019s ChatGPT use",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVml2T2diSDNxbEVQQTk1dG1NR3pOVm81YXBFNklOOEZTS0l4ejFzU2tUNEZDeXRXNEktNTNOakJ1RGsyZGRJa21DRjgxQ09UM3Q2OWdaRHNCNlc4RG1CQ3g2dXQycWluczBuVGRMb1pYS0JGenl0SEhJaDh0SHVhY0Y1am1JaXhMVE14QWlWZVVJZlRU?oc=5",
+      "published": "2026-05-11T15:27:00",
+      "sentiment_score": -0.855,
+      "sentiment_label": "Negative",
+      "confidence": 0.868
+    },
+    {
       "headline": "TikTok scales back AI-generated video descriptions after absurd errors",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
@@ -280,6 +415,15 @@
       "sentiment_score": -0.02,
       "sentiment_label": "Neutral",
       "confidence": 0.737
+    },
+    {
+      "headline": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5",
+      "published": "2026-05-05T07:00:00",
+      "sentiment_score": 0.147,
+      "sentiment_label": "Neutral",
+      "confidence": 0.833
     },
     {
       "headline": "Tech Now",
