@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-14T08:28:50.956025",
+  "last_updated": "2026-05-14T13:47:16.018157",
   "total_articles": 29,
-  "overall_sentiment": -0.246,
+  "overall_sentiment": -0.16,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,37 +15,37 @@
     },
     {
       "date": "2026-05-11",
-      "avg_sentiment": -0.626,
-      "article_count": 4,
+      "avg_sentiment": -0.651,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 4,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.291
+      "moving_avg": -0.304
     },
     {
       "date": "2026-05-12",
-      "avg_sentiment": -0.213,
-      "article_count": 11,
-      "positive_count": 3,
-      "negative_count": 5,
-      "neutral_count": 3,
-      "moving_avg": -0.265
+      "avg_sentiment": -0.289,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 3,
+      "neutral_count": 2,
+      "moving_avg": -0.299
     },
     {
       "date": "2026-05-13",
-      "avg_sentiment": -0.253,
-      "article_count": 9,
-      "positive_count": 2,
-      "negative_count": 6,
-      "neutral_count": 1,
-      "moving_avg": -0.262
+      "avg_sentiment": -0.055,
+      "article_count": 13,
+      "positive_count": 7,
+      "negative_count": 4,
+      "neutral_count": 2,
+      "moving_avg": -0.238
     },
     {
       "date": "2026-05-14",
-      "avg_sentiment": -0.012,
-      "article_count": 4,
-      "positive_count": 2,
-      "negative_count": 1,
+      "avg_sentiment": -0.107,
+      "article_count": 6,
+      "positive_count": 3,
+      "negative_count": 2,
       "neutral_count": 1,
       "moving_avg": -0.212
     }
@@ -53,9 +53,15 @@
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.169,
-      "article_count": 6,
+      "avg_sentiment": -0.113,
+      "article_count": 7,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.18,
+      "article_count": 5,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
@@ -64,31 +70,46 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.235,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.431,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.401,
+      "source": "The New York Times",
+      "avg_sentiment": -0.16,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.101,
-      "article_count": 2,
+      "source": "The Verge",
+      "avg_sentiment": -0.507,
+      "article_count": 3,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Cerebras to Kick Off Hotly Anticipated Year for Artificial-Intelligence IPOs",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWdxbFJfTmI5VW1XVzVWWUlxUGJNaTk5aGlpRTlOYUdkYkt3b21mNTJmMlRWYlBZWFo4UHg4bU13dGlnQUgtaW1DY0huZlAwbUZaaVdHZFg5Z3I1Q1RNMlFhZ2FJVWV1X0tkNVZXaWVzdXh6TEpoVnpxdl9BUEVhVmVKU3RHRFhyVHoxdmIycGd1aXlyX2tHU1prU24yQXpjRDU3U1c2TnYyX1NDb2NKTlc3Unl5U0xFRVl0UA?oc=5",
+      "published": "2026-05-14T12:58:00",
+      "sentiment_score": 0.116,
+      "sentiment_label": "Neutral",
+      "confidence": 0.844
+    },
+    {
+      "headline": "UCF Commencement Speaker Draws Boos After A.I. Remarks",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjFSM1FZVHBEdnV6UzhBN1JWQVR3WEVnTThRNlQ3dWROQWZhUGM1Rjd4ZVUxV3A3ZFQ0b3dYaHhIUDVrWmRYTmN1d01scjAwelFyX3pmc1BXQXN4NEZUMlhhMHhFYVh5d0c0NUhyVThpb0o3Rk5QZThDM3dEN2duYmlHZERXWExwVnBqTFBmRkVkdw?oc=5",
+      "published": "2026-05-14T12:28:09",
+      "sentiment_score": -0.704,
+      "sentiment_label": "Negative",
+      "confidence": 0.725
+    },
+    {
+      "headline": "\u2018There are no rules\u2019: spotlight on Gossip Goblin as AI film-making enters new era",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdEpYdkFweHVVWjFCVW1sMWZQdERJb1FFT2NmVENKcXdGOC1jLVpnNkRwMDBwb2dEam1id29YUEt4UXlfRlZYaDJ0SWM0enlBMUY0UnFMemFyejZOT3lDVjdHdmVsbHdyLWxZTG9LNlI4bmpRcTROTUNpeTJmWDJ3cG9ZRDJUeHE5RWRIVEJ3NHlnaHIwWlJneTRFa3NEdw?oc=5",
+      "published": "2026-05-14T11:46:00",
+      "sentiment_score": 0.007,
+      "sentiment_label": "Neutral",
+      "confidence": 0.929
+    },
     {
       "headline": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
       "source": "BBC News",
@@ -106,15 +127,6 @@
       "sentiment_score": 0.103,
       "sentiment_label": "Neutral",
       "confidence": 0.866
-    },
-    {
-      "headline": "Forget Grok. Musk's AI Edge Is Infrastructure, Not Software",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlVXRFZ1aTJDOXhiQVVyZFVCYi0yN0MzaUE2SVlMSUhESXltWHBuV1RzWi1wZXV6N3JzM2cwN1gzQUhwam1oV2kyMUl3QjZDS3A5XzlqbUNrenJ0UGUtQTQzS3FkbUt4dmRwQnFIbGpDRTFpTWIzNnhPd2FMcWJhczdiSmRuM1VLbjRJbnlRXzI1SXFueDFqVEJmSU5sWkIzVzkzMmFvT081WFUtbnBzWA?oc=5",
-      "published": "2026-05-14T03:30:00",
-      "sentiment_score": 0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
     },
     {
       "headline": "Companies cutting jobs as investments shift toward AI",
@@ -144,13 +156,67 @@
       "confidence": 0.94
     },
     {
+      "headline": "Alexa is moving into Amazon.com",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+      "published": "2026-05-13T13:04:46Z",
+      "sentiment_score": 0.117,
+      "sentiment_label": "Neutral",
+      "confidence": 0.864
+    },
+    {
+      "headline": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cj37z8357e5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-05-13T13:04:04Z",
+      "sentiment_score": 0.225,
+      "sentiment_label": "Neutral",
+      "confidence": 0.74
+    },
+    {
       "headline": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFNXSF9lUXRHNndhMlNNUlJ1bllXMTlnT1NzaVRiY213ekswZ3FVak5mUnpfZXZtN0QtT0pObDNMQkc3WF90U3BOUnVsZ0ktTjFNR01reThLRUlhTDVvMVhLa3JBUTBPVjJlZjdKYjBGTkxSWVNxSnRubXZTcnJyeUpzMlhjNUxKNnRXcHJaZk1mQUJnNGloQm9oR1dYald2WWxN0gGoAUFVX3lxTFBWRm9VaXREdnlsQzZXT1RjTzdzRzJINXBnZEdITzJRRTdRLUQzWERRM3UxbnFpbWNEUjY5Q3R5TjV5N0lqb0IxeFZDcEFOUjZ5MnFjSzVhMTFqTVVZTzlmZmZkMnQyMHBUaVJkYkhYamZrcEVrcGxkZGlMZGtCbjZNVzJUcGFuWTNaQWU3RkFBcml2S0htcTJGN29ERG9wci0xZ0R1aWQ3Mg?oc=5",
-      "published": "2026-05-13T13:00:01",
-      "sentiment_score": -0.076,
+      "link": "https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html",
+      "published": "2026-05-13T13:00:01Z",
+      "sentiment_score": 0.101,
       "sentiment_label": "Neutral",
-      "confidence": 0.846
+      "confidence": 0.856
+    },
+    {
+      "headline": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html",
+      "published": "2026-05-13T13:00:01Z",
+      "sentiment_score": 0.672,
+      "sentiment_label": "Positive",
+      "confidence": 0.682
+    },
+    {
+      "headline": "Hyperscalers' AI buildout will require massive amounts of energy. Two under-the-radar stocks will benefit",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/13/hyperscalers-ai-buildout-will-require-massive-amounts-of-energy-two-under-the-radar-stocks-will-benefit.html",
+      "published": "2026-05-13T12:50:10Z",
+      "sentiment_score": 0.176,
+      "sentiment_label": "Neutral",
+      "confidence": 0.742
+    },
+    {
+      "headline": "Inflation jumps, Altman's testimony, Huang joins Trump's China visit and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/13/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-05-13T12:32:27Z",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.92
+    },
+    {
+      "headline": "SoftBank Lands $25 Billion Gain on OpenAI Bet",
+      "source": "The Wall Street Journal",
+      "link": "https://www.wsj.com/business/earnings/softbank-more-than-quadruples-annual-profit-on-44-billion-in-openai-gains-d2bab91f",
+      "published": "2026-05-13T12:23:00Z",
+      "sentiment_score": 0.553,
+      "sentiment_label": "Positive",
+      "confidence": 0.565
     },
     {
       "headline": "Suicide forum fined \u00a3950,000 for not blocking UK users",
@@ -162,31 +228,22 @@
       "confidence": 0.944
     },
     {
-      "headline": "Beware what you tell your AI chatbot. It\u2019s not a shrink \u2013 it\u2019s a snitch | Arwa Mahdawi",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOel9zbWJnNjJrd3lPNXdGQnZ3d1o4OG0weW1DNzNuQTF6QnAwZUtBU0FLWVQyLVFoOXNyM1NneFl4cHA0d1c0NVgzR3pUUjZjcHdWalVYVTVzeHozc1NJcTU2TDNaeUM1THo4TS1kQk5tRV9PRVd0MUhzNHIxU1dpZWRMYkpieEoySzRNdVZLei16ZGZKRFY2OGV4UHdhTzFrclJJck82eUZQZnNsaW12TjZRX2JWd004ZGRUbg?oc=5",
-      "published": "2026-05-13T10:00:00",
-      "sentiment_score": -0.112,
-      "sentiment_label": "Neutral",
-      "confidence": 0.846
-    },
-    {
-      "headline": "SoftBank posts $46 billion gain at Vision Fund driven mainly by massive OpenAI bet",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html",
-      "published": "2026-05-13T06:48:35Z",
-      "sentiment_score": 0.936,
+      "headline": "DeepMind spinout Isomorphic Labs raises $2.1 Billion to design drugs with AI",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/deepmind-spinout-isomorphic-labs-raises-2-1-billion-to-design-drugs-with-ai",
+      "published": "2026-05-13T10:51:18Z",
+      "sentiment_score": 0.807,
       "sentiment_label": "Positive",
-      "confidence": 0.952
+      "confidence": 0.821
     },
     {
-      "headline": "CNBC Daily Open: Huang on, Nvidia is on the China trip",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/13/cnbc-daily-open-huang-on-nvidia-is-on-the-china-trip.html",
-      "published": "2026-05-13T05:44:36Z",
-      "sentiment_score": 0.118,
-      "sentiment_label": "Neutral",
-      "confidence": 0.844
+      "headline": "Meet the Sad Wives of AI",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+      "published": "2026-05-13T10:00:00Z",
+      "sentiment_score": -0.597,
+      "sentiment_label": "Negative",
+      "confidence": 0.624
     },
     {
       "headline": "Data centers are coming for rural America",
@@ -198,22 +255,13 @@
       "confidence": 0.876
     },
     {
-      "headline": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI Onto His Kids, Sam Altman Says",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-      "published": "2026-05-13T00:10:05Z",
-      "sentiment_score": -0.38,
+      "headline": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcF9BWnVjNHBqSUJ0a1NLcHlKR1NwSW9yQjVrVENOZU1aYThfeWZqc3ZyZU5XS19NcVRnUmRRRklvVVR3cU5jU1NEcExfMnBCVG51WmJlb0c4dDFQN1pLd0hWTXVDMlJUQmk3YllGUWVaWTVleGRScFFMN0pZMnJLZ0cxMl8zc3lk?oc=5",
+      "published": "2026-05-12T19:50:57",
+      "sentiment_score": 0.083,
       "sentiment_label": "Neutral",
-      "confidence": 0.537
-    },
-    {
-      "headline": "Sam Altman was winning on the stand, but it might not be enough",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-      "published": "2026-05-12T23:23:14Z",
-      "sentiment_score": -0.055,
-      "sentiment_label": "Neutral",
-      "confidence": 0.809
+      "confidence": 0.864
     },
     {
       "headline": "OpenAI faces lawsuit in California court claiming chatbot gave advice that led to fatal overdose",
@@ -243,58 +291,22 @@
       "confidence": 0.908
     },
     {
-      "headline": "Sam Altman says Elon Musk\u2019s mind games were damaging OpenAI",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "published": "2026-05-12T17:34:09Z",
-      "sentiment_score": -0.871,
-      "sentiment_label": "Negative",
-      "confidence": 0.887
-    },
-    {
       "headline": "OpenAI Hit With Overdose Suit Targeting ChatGPT Drug Advice (1)",
       "source": "Bloomberg Law News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFc4UFUxQXg2azFBaHQtU1U4TTJ1aUJ4X3B4U0tUc0dhS0lYaDh3bzZhekhfcDlEb1F6ZUlWRkxiaExyempDcXpFYll2SHFGMmZONEVGbTVaTFljdFVzVUQxSnROcmJCeWozbmhiOTdEOTU1c0oySzRIdWZrdDJZLXdaNnJJemdPV0NOVXFWdWR2Mm5mdGJ4R1N2cXE2cEJpd2lDZWN5d3o?oc=5",
       "published": "2026-05-12T17:19:00",
-      "sentiment_score": -0.882,
+      "sentiment_score": -0.761,
       "sentiment_label": "Negative",
-      "confidence": 0.902
+      "confidence": 0.786
     },
     {
-      "headline": "Google's 'Create My Widget' feature will let you vibe code your own widgets | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
-      "published": "2026-05-12T17:03:41Z",
-      "sentiment_score": 0.027,
-      "sentiment_label": "Neutral",
-      "confidence": 0.939
-    },
-    {
-      "headline": "Gemini\u2019s biggest new features are all about controlling your phone",
+      "headline": "Parents say ChatGPT got their son killed with bad advice on party drugs",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-      "published": "2026-05-12T17:02:32Z",
-      "sentiment_score": 0.067,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
-    },
-    {
-      "headline": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObG9lY3NRcy1LeGJ2UXBFazZ2emdkaWFJcy1GZEk3Z3BSMzZNaDFqWnF0ME1CNU5vRjl2bWJhZ2VpVm1IdVNNZHV1dHE3VGtraURnN2Fpa3JnQzVYLTdNZDVzeGRmRjEyalNlc29uTUdhTlNBMS05dy12cFlDa2JvUE9HZ1FUUWplOTBrNG05RUk3aTBRelBYUFF3LVA2Yk45dXBfN3MxMFV3dw?oc=5",
-      "published": "2026-05-12T17:02:00",
-      "sentiment_score": -0.235,
-      "sentiment_label": "Neutral",
-      "confidence": 0.678
-    },
-    {
-      "headline": "Googlebook Is Google's New AI-Powered Laptop Platform Built on Android",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/googlebook-laptop-platform/",
-      "published": "2026-05-12T17:00:00Z",
-      "sentiment_score": 0.178,
-      "sentiment_label": "Neutral",
-      "confidence": 0.801
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTdLU1k3RjRhdlBPZ1ZRNFBLcjlGc0xCcjN0aXFMZkkxNkNuaURLRmxpbDl5X1FpeGJfaTNJUENWck01Y29XTG0yU25MWnZvUG91emVRNHFLejJ3d2ZLUkxYaW1WdmNfRE5JV0FFWXZVNDlJdFFCS0RlZThwc2lNNFFSZ1VxRTE3dlFaSVJBMHpHT0thbXl6TmNwcnNZUQ?oc=5",
+      "published": "2026-05-12T16:30:33",
+      "sentiment_score": -0.774,
+      "sentiment_label": "Negative",
+      "confidence": 0.792
     },
     {
       "headline": "China Sought Access to Anthropic\u2019s Newest A.I. The Answer Was No.",
@@ -306,15 +318,6 @@
       "confidence": 0.831
     },
     {
-      "headline": "Lawsuit blames ChatGPT maker OpenAI for helping plan a school shooting",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTZOSHJiSTJ4T1JJNklpejZGRHNMdDBacHdMN0xpVFlRVE95NG91SGlNT1E2dHdfRS1zVEtZS1ptbFZwRVRBS1BwLWh3T1c2UWtHMUlZSWJYdzhiUW9zbmVKWk9aVzdrQ05aWDNtcEt6SGhEWUk3X3NCMWk4TXNhWGt4RjB6cUxzMXppb0NCZGc4dXMtWlR2cHhlbDg5S09XbWZCNEtWOA?oc=5",
-      "published": "2026-05-11T19:15:00",
-      "sentiment_score": -0.85,
-      "sentiment_label": "Negative",
-      "confidence": 0.864
-    },
-    {
       "headline": "Family of Florida mass shooting victim sues OpenAI in US court",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYklVTzNFUUxyTTdLYzh4ZmgwWHRSRUtnN0x1c2tqdS00M00wSC1hbDNxRm5YeENXNFEzY1I4YlVrQVNlWlhEVGJSVjR1ZGtRZzE0YTBpeG8zYXExS0NnQkN6MWxoNTJrcm5aUWU1WGF5N2QyQjhrV0c5UGFCQ2VqaVM5aGM3cDBZQlQwQVlrdFBTeFp1TDBidnBHYjg5NVd1bkItbFdyRHBrTWpKcUE?oc=5",
@@ -324,22 +327,13 @@
       "confidence": 0.491
     },
     {
-      "headline": "ChatGPT encouraged FSU shooter, victim\u2019s family alleges in new lawsuit",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1dtQnZ5VWdZdGcxUUtlbjVYN1VXSTl4M0VIOW9iNjlfZm84Y3dOaVBGT0kwcmNFZjRib2c5eDUxWjBvTkwwdnNIbXFuZjZWQ0UzU09uRVVMM2ZYTldTZUN4ZlRDaFhzMER4WGowTVVPZ3l0YjRxVFpjUnhaMmZmOUoycw?oc=5",
-      "published": "2026-05-11T17:27:41",
-      "sentiment_score": -0.345,
-      "sentiment_label": "Neutral",
-      "confidence": 0.584
-    },
-    {
-      "headline": "Family of Florida university shooting victim sues over suspect\u2019s ChatGPT use",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVml2T2diSDNxbEVQQTk1dG1NR3pOVm81YXBFNklOOEZTS0l4ejFzU2tUNEZDeXRXNEktNTNOakJ1RGsyZGRJa21DRjgxQ09UM3Q2OWdaRHNCNlc4RG1CQ3g2dXQycWluczBuVGRMb1pYS0JGenl0SEhJaDh0SHVhY0Y1am1JaXhMVE14QWlWZVVJZlRU?oc=5",
-      "published": "2026-05-11T15:27:00",
-      "sentiment_score": -0.855,
+      "headline": "Lawsuit blames ChatGPT maker OpenAI for helping plan a school shooting",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTZOSHJiSTJ4T1JJNklpejZGRHNMdDBacHdMN0xpVFlRVE95NG91SGlNT1E2dHdfRS1zVEtZS1ptbFZwRVRBS1BwLWh3T1c2UWtHMUlZSWJYdzhiUW9zbmVKWk9aVzdrQ05aWDNtcEt6SGhEWUk3X3NCMWk4TXNhWGt4RjB6cUxzMXppb0NCZGc4dXMtWlR2cHhlbDg5S09XbWZCNEtWOA?oc=5",
+      "published": "2026-05-11T17:10:14",
+      "sentiment_score": -0.85,
       "sentiment_label": "Negative",
-      "confidence": 0.868
+      "confidence": 0.864
     },
     {
       "headline": "Tech Now",
