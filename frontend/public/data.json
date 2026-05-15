@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-15T02:11:52.913389",
+  "last_updated": "2026-05-15T08:39:52.545935",
   "total_articles": 41,
-  "overall_sentiment": -0.083,
-  "overall_label": "Negative",
+  "overall_sentiment": 0.032,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-05-02",
@@ -14,73 +14,64 @@
       "moving_avg": 0.044
     },
     {
-      "date": "2026-05-11",
-      "avg_sentiment": -0.298,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.127
-    },
-    {
       "date": "2026-05-12",
-      "avg_sentiment": 0.054,
-      "article_count": 3,
+      "avg_sentiment": 0.023,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 0,
+      "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.067
+      "moving_avg": 0.034
     },
     {
       "date": "2026-05-13",
-      "avg_sentiment": -0.105,
-      "article_count": 19,
-      "positive_count": 8,
-      "negative_count": 7,
+      "avg_sentiment": -0.088,
+      "article_count": 16,
+      "positive_count": 7,
+      "negative_count": 5,
       "neutral_count": 4,
-      "moving_avg": -0.076
+      "moving_avg": -0.007
     },
     {
       "date": "2026-05-14",
-      "avg_sentiment": -0.032,
-      "article_count": 16,
-      "positive_count": 7,
-      "negative_count": 7,
-      "neutral_count": 2,
-      "moving_avg": -0.067
+      "avg_sentiment": 0.187,
+      "article_count": 18,
+      "positive_count": 11,
+      "negative_count": 6,
+      "neutral_count": 1,
+      "moving_avg": 0.042
     },
     {
       "date": "2026-05-15",
-      "avg_sentiment": -0.793,
-      "article_count": 1,
+      "avg_sentiment": -0.398,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.188
+      "neutral_count": 1,
+      "moving_avg": -0.046
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.032,
-      "article_count": 7,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.04,
-      "article_count": 7,
+      "avg_sentiment": 0.045,
+      "article_count": 9,
       "sentiment_label": "Neutral"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.004,
+      "avg_sentiment": 0.025,
       "article_count": 6,
       "sentiment_label": "Neutral"
     },
     {
+      "source": "CNBC",
+      "avg_sentiment": 0.462,
+      "article_count": 6,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "The New York Times",
-      "avg_sentiment": -0.116,
+      "avg_sentiment": -0.113,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
@@ -105,13 +96,22 @@
   ],
   "articles": [
     {
+      "headline": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T05:03:31",
+      "sentiment_score": 0.031,
+      "sentiment_label": "Neutral",
+      "confidence": 0.914
+    },
+    {
       "headline": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFM3YXZtNFBFa0hWSWhqUWlpRE5wTFNlaDl6NVJtOWcwVlcweVZYR0hUSlV5X0FsS3lkWVZBdHlCRTQtcDFKTHo0c2xpdVZTTEhxV2J5SHFZQnFrV1dfalhHZjdfdERrMXNiR2hkY1lLaU1MMlVPQjhvNkkxVzJNenhn?oc=5",
       "published": "2026-05-15T00:48:15",
-      "sentiment_score": -0.793,
+      "sentiment_score": -0.827,
       "sentiment_label": "Negative",
-      "confidence": 0.809
+      "confidence": 0.843
     },
     {
       "headline": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
@@ -159,15 +159,6 @@
       "confidence": 0.61
     },
     {
-      "headline": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kOW1FOE5TMUp6Y2xYZWdwV3pMaVBnR0Rwb2R4d2lsb0JsOVlDSm5SSV8tSVBDUjlkY3dXT0lCUmFIRmRfa0NVSDdaUzRNaVg4ZU9vV0VUOVZNVldHVUdxT2hENS03cnJCcUFvMUx1a3NiOVNV?oc=5",
-      "published": "2026-05-14T20:23:31",
-      "sentiment_score": 0.895,
-      "sentiment_label": "Positive",
-      "confidence": 0.924
-    },
-    {
       "headline": "OpenAI\u2019s Codex is now in the ChatGPT mobile app",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmhDT2pBV3FnZ2IxcDVrYW1KT0lpeFdSWEJRc0NKdTBNUjVKVWNsYTRMNm5PalY4Yk5KVXpJM19qWndueEZELXZqMmJoQ2d5Xy1ZYV9yOGh5UlNFQkZIV3M1QVRRZ25OUDI4NTh1ZFUxWDBDc1Z0bDRPR0VtTjU0blhkbks5VnJOTC1JMVR3Uzh4cDBiZ3lTSmZxSUt5aG5oNXUweWNn?oc=5",
@@ -175,15 +166,6 @@
       "sentiment_score": 0.039,
       "sentiment_label": "Neutral",
       "confidence": 0.929
-    },
-    {
-      "headline": "Digital arson spree by \u2018AI Bonnie and Clyde\u2019 raises fears over autonomous tech",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3JaZDZtRDNkSXVNQzNsYVFlQmVnajE2RDNlLUJBQjFXYTNfU0t0NEI1cjcxZFRod0FMNlZ2YktmdUtHdzlvOWk1UnV4SllRdF9GRmJpanZaX3BqWDNmRG1kTFFSeTVQcXFpZXpxNzlLSm9pc3RhWW42NnZyVXdSSml3eUxaSGVLa09V?oc=5",
-      "published": "2026-05-14T19:35:00",
-      "sentiment_score": -0.89,
-      "sentiment_label": "Negative",
-      "confidence": 0.906
     },
     {
       "headline": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned",
@@ -195,13 +177,22 @@
       "confidence": 0.583
     },
     {
-      "headline": "Why A.I. Safety Controls Are Not Very Effective",
+      "headline": "Digital arson spree by \u2018AI Bonnie and Clyde\u2019 raises fears over autonomous tech",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3JaZDZtRDNkSXVNQzNsYVFlQmVnajE2RDNlLUJBQjFXYTNfU0t0NEI1cjcxZFRod0FMNlZ2YktmdUtHdzlvOWk1UnV4SllRdF9GRmJpanZaX3BqWDNmRG1kTFFSeTVQcXFpZXpxNzlLSm9pc3RhWW42NnZyVXdSSml3eUxaSGVLa09V?oc=5",
+      "published": "2026-05-14T18:00:00",
+      "sentiment_score": -0.89,
+      "sentiment_label": "Negative",
+      "confidence": 0.906
+    },
+    {
+      "headline": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1hKTkVWSGVrZGJxWW9KMWRlWVNYamh3MTEyd2pmQkxxNFAwX1BhY0VNVWJGS3pnaVE1REk1ZlRFNXEzQVJxbTlhZDFpcTlFWDN2ODhlWlVuRjZLa1NRYzlvRGJPMjZ4WGN4X3IyRUZmZ1BmdXZIeFY3Rlo5eFJycVJyOE9EUlJqYXhYMWZTa3BXM1Bp?oc=5",
-      "published": "2026-05-14T17:19:39",
-      "sentiment_score": -0.119,
-      "sentiment_label": "Neutral",
-      "confidence": 0.813
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kOW1FOE5TMUp6Y2xYZWdwV3pMaVBnR0Rwb2R4d2lsb0JsOVlDSm5SSV8tSVBDUjlkY3dXT0lCUmFIRmRfa0NVSDdaUzRNaVg4ZU9vV0VUOVZNVldHVUdxT2hENS03cnJCcUFvMUx1a3NiOVNV?oc=5",
+      "published": "2026-05-14T17:16:10",
+      "sentiment_score": 0.895,
+      "sentiment_label": "Positive",
+      "confidence": 0.924
     },
     {
       "headline": "UCF Commencement Speaker Draws Boos After A.I. Remarks",
@@ -231,6 +222,33 @@
       "confidence": 0.886
     },
     {
+      "headline": "Trade wars to extended truce: Analysts expect \u2018stabilization\u2019 in U.S.-China ties as Trump-Xi meet",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/trump-xi-summit-us-china-trade-taiwan-iran-nvidia.html",
+      "published": "2026-05-14T08:10:11Z",
+      "sentiment_score": 0.868,
+      "sentiment_label": "Positive",
+      "confidence": 0.92
+    },
+    {
+      "headline": "Trump-Xi summit revives China tech rally hopes as U.S. reportedly clears Nvidia H200 sales",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html",
+      "published": "2026-05-14T07:32:26Z",
+      "sentiment_score": 0.919,
+      "sentiment_label": "Positive",
+      "confidence": 0.941
+    },
+    {
+      "headline": "Who decides what AI tells you? Campbell Brown, once Meta's news chief, has thoughts | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "published": "2026-05-14T06:05:31Z",
+      "sentiment_score": -0.069,
+      "sentiment_label": "Neutral",
+      "confidence": 0.885
+    },
+    {
       "headline": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
@@ -240,22 +258,22 @@
       "confidence": 0.794
     },
     {
-      "headline": "CNBC Daily Open: Trump touches down in Beijing as U.S. inflation heats up",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/14/cnbc-daily-open-trump-touches-down-in-beijing-as-us-prices-heat-up.html",
-      "published": "2026-05-14T01:03:53Z",
-      "sentiment_score": -0.882,
-      "sentiment_label": "Negative",
-      "confidence": 0.923
+      "headline": "London AI office space leases rise tenfold in year",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cdepdewljp1o",
+      "published": "2026-05-14T05:02:02Z",
+      "sentiment_score": 0.596,
+      "sentiment_label": "Positive",
+      "confidence": 0.615
     },
     {
-      "headline": "Trump to be feted and spend hours with Xi during China trip",
+      "headline": "Wolters Kluwer launches CCH Axcess\u2122 Advisor, a growth enablement solution helping firms uncover and scale advisory opportunities",
       "source": "Associated Press",
-      "link": "https://apnews.com/article/trump-xi-china-iran-trade-a1d63a711a037472f5c1c330c2120bd5",
-      "published": "2026-05-14T00:18:25Z",
-      "sentiment_score": 0.047,
-      "sentiment_label": "Neutral",
-      "confidence": 0.891
+      "link": "https://apnews.com/press-release/business-wire/wolters-kluwer-launches-cch-axcess-advisor-a-growth-enablement-solution-helping-firms-uncover-and-scale-advisory-opportunities-a6a3069d1c2140ab81f4cb30b3ad8d0d",
+      "published": "2026-05-14T03:50:36Z",
+      "sentiment_score": 0.609,
+      "sentiment_label": "Positive",
+      "confidence": 0.617
     },
     {
       "headline": "You can make an app for that",
@@ -330,15 +348,6 @@
       "confidence": 0.934
     },
     {
-      "headline": "AI-driven cyberattacks will start to be the 'new norm' in months, Palo Alto warns",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/13/palo-alto-ai-cyberattacks-mythos-gpt.html",
-      "published": "2026-05-13T18:17:01Z",
-      "sentiment_score": -0.485,
-      "sentiment_label": "Negative",
-      "confidence": 0.643
-    },
-    {
       "headline": "Overworked AI Agents Turn Marxist, Researchers Find",
       "source": "Wired",
       "link": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
@@ -375,15 +384,6 @@
       "confidence": 0.735
     },
     {
-      "headline": "WhatsApp adds an incognito mode in Meta AI chats | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "published": "2026-05-13T14:13:48Z",
-      "sentiment_score": -0.201,
-      "sentiment_label": "Neutral",
-      "confidence": 0.76
-    },
-    {
       "headline": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
@@ -411,15 +411,6 @@
       "confidence": 0.911
     },
     {
-      "headline": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html",
-      "published": "2026-05-13T13:00:01Z",
-      "sentiment_score": 0.101,
-      "sentiment_label": "Neutral",
-      "confidence": 0.856
-    },
-    {
       "headline": "Suicide forum fined \u00a3950,000 for not blocking UK users",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
@@ -427,6 +418,15 @@
       "sentiment_score": -0.932,
       "sentiment_label": "Negative",
       "confidence": 0.944
+    },
+    {
+      "headline": "After Deaths, Lawsuits Against A.I. Companies Test a New Strategy",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcF9BWnVjNHBqSUJ0a1NLcHlKR1NwSW9yQjVrVENOZU1aYThfeWZqc3ZyZU5XS19NcVRnUmRRRklvVVR3cU5jU1NEcExfMnBCVG51WmJlb0c4dDFQN1pLd0hWTXVDMlJUQmk3YllGUWVaWTVleGRScFFMN0pZMnJLZ0cxMl8zc3lk?oc=5",
+      "published": "2026-05-12T19:50:57",
+      "sentiment_score": -0.068,
+      "sentiment_label": "Neutral",
+      "confidence": 0.676
     },
     {
       "headline": "Tech Life",
@@ -454,15 +454,6 @@
       "sentiment_score": 0.141,
       "sentiment_label": "Neutral",
       "confidence": 0.831
-    },
-    {
-      "headline": "ChatGPT encouraged FSU shooter, victim\u2019s family alleges in new lawsuit | CNN Business",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1dtQnZ5VWdZdGcxUUtlbjVYN1VXSTl4M0VIOW9iNjlfZm84Y3dOaVBGT0kwcmNFZjRib2c5eDUxWjBvTkwwdnNIbXFuZjZWQ0UzU09uRVVMM2ZYTldTZUN4ZlRDaFhzMER4WGowTVVPZ3l0YjRxVFpjUnhaMmZmOUoycw?oc=5",
-      "published": "2026-05-11T17:28:15",
-      "sentiment_score": -0.298,
-      "sentiment_label": "Neutral",
-      "confidence": 0.646
     },
     {
       "headline": "Tech Now",
