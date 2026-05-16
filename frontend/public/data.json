@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15T19:19:25.529766",
-  "total_articles": 35,
-  "overall_sentiment": -0.072,
+  "last_updated": "2026-05-16T02:04:34.127363",
+  "total_articles": 48,
+  "overall_sentiment": -0.061,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-05-12",
-      "avg_sentiment": -0.021,
+      "avg_sentiment": -0.368,
       "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 1,
+      "positive_count": 0,
+      "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": 0.011
+      "moving_avg": -0.162
     },
     {
       "date": "2026-05-13",
@@ -29,66 +29,102 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.303
+      "moving_avg": -0.418
     },
     {
       "date": "2026-05-14",
-      "avg_sentiment": -0.0,
-      "article_count": 17,
-      "positive_count": 7,
-      "negative_count": 6,
-      "neutral_count": 4,
-      "moving_avg": -0.227
+      "avg_sentiment": 0.051,
+      "article_count": 26,
+      "positive_count": 13,
+      "negative_count": 7,
+      "neutral_count": 6,
+      "moving_avg": -0.301
     },
     {
       "date": "2026-05-15",
-      "avg_sentiment": -0.056,
-      "article_count": 11,
-      "positive_count": 4,
-      "negative_count": 3,
+      "avg_sentiment": -0.078,
+      "article_count": 14,
+      "positive_count": 5,
+      "negative_count": 5,
       "neutral_count": 4,
-      "moving_avg": -0.193
+      "moving_avg": -0.256
+    },
+    {
+      "date": "2026-05-16",
+      "avg_sentiment": 0.117,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.194
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.008,
+      "avg_sentiment": -0.096,
+      "article_count": 10,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.194,
       "article_count": 9,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.089,
+      "article_count": 7,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.002,
+      "avg_sentiment": -0.039,
       "article_count": 6,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.012,
-      "article_count": 5,
-      "sentiment_label": "Neutral"
-    },
-    {
       "source": "The Verge",
-      "avg_sentiment": 0.006,
-      "article_count": 4,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.063,
-      "article_count": 3,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.138,
+      "article_count": 6,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.085,
-      "article_count": 2,
+      "avg_sentiment": -0.295,
+      "article_count": 3,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDh4dllxNlBxZHVoZ0sxdlpCZEZvWXhQOWRBTHEtWGFMR01EeUNxX3V5QjJ2NkU3M1JwRHJXaHJhMnJQclFuQk40UUdraVY2QjhrQ1YwQzRqc0VKT2swcWVnRlFFT3duaEJzTHNfb29GVEpZRW1YRmh6d2ZxdGNob1ZnUHNzT0Y4?oc=5",
+      "published": "2026-05-16T00:33:55",
+      "sentiment_score": 0.117,
+      "sentiment_label": "Neutral",
+      "confidence": 0.855
+    },
+    {
+      "headline": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5",
+      "published": "2026-05-15T21:49:00",
+      "sentiment_score": -0.176,
+      "sentiment_label": "Neutral",
+      "confidence": 0.758
+    },
+    {
+      "headline": "UK firms should take steps to limit risks from frontier AI models, UK says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZCdmdZVXJlMXctSXBOa0NlTW91TFhNdUlLMkpsN1Y0NTVvcWN1SjJNajdsYjFqNjY4b20xdHRBOExWUkRWMV9PNnNYZ1E0OWRtQXV6Vm9HYUptUUczSnVfVGFpUjYzSjlldXJmb21Rc3RGSUV6cl9rX010NGl2R3NyQ2g4NENWUHdVNmVMOEFGX0FEdkFNcVZITEhKSUVOeWJ3UWZuVWRGOXRvWm9FRFU2Ynl3QXl1VlE?oc=5",
+      "published": "2026-05-15T20:08:11",
+      "sentiment_score": 0.506,
+      "sentiment_label": "Positive",
+      "confidence": 0.53
+    },
     {
       "headline": "Richard Dawkins and the question of AI consciousness | Letters",
       "source": "The Guardian",
@@ -117,6 +153,15 @@
       "confidence": 0.926
     },
     {
+      "headline": "OpenAI, Plaid to Bring Tailored Financial Guidance to Masses",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXI0ZzZBelBqV1J6d2hRYWZmVFFYNlM1a2NXdXU2RlRvNlhPelR1MzZJVzdkQUJNWlpLcFlfMzdmRlc5UGxaZnBFeHVGaTl1TUFIUmpKVHIycFFHS1I5TVhQU0c2NFlVZ3lJeHhSZC1ER2ZsdGh3b2poZ1ByeHdLSVRmM1ZmQWRKSVB1N0ltMWVqMWREOV93SkRJbDBtc1dHYVhjV1FDcnE5Nnh5ZjNlS2tKYw?oc=5",
+      "published": "2026-05-15T16:00:00",
+      "sentiment_score": 0.191,
+      "sentiment_label": "Neutral",
+      "confidence": 0.789
+    },
+    {
       "headline": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFBfTXUxSDUyLUFUcnVFbEVfWlZuRGhiaURGem9NUm5VUkpsalpLeGVjWG1CQVd2RVVFTnZ6SnVVeEVYMVhhWl9KSV9BVmFrYXhzRUFYVzJyTmxNS2UwYmIzMWF1NGZkemdMOW1sSXpDekFxR2plYkFuN3FMeHRsWjZIbURTQjRLbDkyNlIzU0s1Z3VQUTB5SlJvaXFiUzZWRm15M1Vrc01qQnVWVHBXenhQMks?oc=5",
@@ -133,15 +178,6 @@
       "sentiment_score": 0.046,
       "sentiment_label": "Neutral",
       "confidence": 0.922
-    },
-    {
-      "headline": "UK firms should take steps to limit risks from frontier AI models, UK says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZCdmdZVXJlMXctSXBOa0NlTW91TFhNdUlLMkpsN1Y0NTVvcWN1SjJNajdsYjFqNjY4b20xdHRBOExWUkRWMV9PNnNYZ1E0OWRtQXV6Vm9HYUptUUczSnVfVGFpUjYzSjlldXJmb21Rc3RGSUV6cl9rX010NGl2R3NyQ2g4NENWUHdVNmVMOEFGX0FEdkFNcVZITEhKSUVOeWJ3UWZuVWRGOXRvWm9FRFU2Ynl3QXl1VlE?oc=5",
-      "published": "2026-05-15T15:42:59",
-      "sentiment_score": 0.506,
-      "sentiment_label": "Positive",
-      "confidence": 0.53
     },
     {
       "headline": "AI is not replacing workers on a large scale so far, says Bank of Canada",
@@ -162,15 +198,6 @@
       "confidence": 0.772
     },
     {
-      "headline": "At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmZOMzNGc0xYWm1RUG9OQndDUWxPeGZlSVM0T1hiR1ViRmFfMFhvTWVqUlB2RlgxQ0FSdjRWTVNzZWpXSXc3QmZxSzFRazBibExDXzlva29UcXJPWlhNNzVmdFExc0FEY1hkZlN5X3dhVW9Wa1NyWjVuMDNwUEdRSnZuUUhUSkt2cmljWTBxdUdrcEhCNG1fenJtNXFmTjZmTFNUaDhuNDNQZmVxdFdHZ2NpVmppUQ?oc=5",
-      "published": "2026-05-15T12:05:42",
-      "sentiment_score": -0.509,
-      "sentiment_label": "Negative",
-      "confidence": 0.561
-    },
-    {
       "headline": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
@@ -178,6 +205,24 @@
       "sentiment_score": 0.031,
       "sentiment_label": "Neutral",
       "confidence": 0.914
+    },
+    {
+      "headline": "Closing arguments conclude in Musk v. Altman, jury to deliberate next week",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/closing-arguments-jury-openai-musk-altman.html",
+      "published": "2026-05-15T01:02:39Z",
+      "sentiment_score": -0.085,
+      "sentiment_label": "Neutral",
+      "confidence": 0.867
+    },
+    {
+      "headline": "The Real Losers of the Musk v. Altman Trial",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+      "published": "2026-05-15T00:49:53Z",
+      "sentiment_score": -0.912,
+      "sentiment_label": "Negative",
+      "confidence": 0.926
     },
     {
       "headline": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
@@ -189,13 +234,76 @@
       "confidence": 0.843
     },
     {
+      "headline": "Cramer backs Nvidia selling AI chips in China \u2014 but says the stock can thrive either way",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/cramer-backs-nvidia-selling-ai-chips-in-china.html",
+      "published": "2026-05-14T23:15:07Z",
+      "sentiment_score": 0.052,
+      "sentiment_label": "Neutral",
+      "confidence": 0.821
+    },
+    {
       "headline": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OXY1V3RlUy1UcjhxTzdBanQ3SnlXWFkzeFJLbm5lXzZLMzhhamFKeTEwTzBnOEs3eHV0WTdaN203b20xTmo2eDk2Vkg0TU55WGJKdWp3Zk8zUQ?oc=5",
-      "published": "2026-05-14T23:01:20",
-      "sentiment_score": -0.861,
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/clypr8p2lewo",
+      "published": "2026-05-14T23:01:20Z",
+      "sentiment_score": -0.884,
       "sentiment_label": "Negative",
-      "confidence": 0.875
+      "confidence": 0.897
+    },
+    {
+      "headline": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "published": "2026-05-14T22:50:12Z",
+      "sentiment_score": -0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.932
+    },
+    {
+      "headline": "Cerebras is the hot new AI chipmaker. Here's Jim Cramer's advice on the stock",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/jim-cramers-advice-on-cerebras.html",
+      "published": "2026-05-14T22:36:36Z",
+      "sentiment_score": 0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.832
+    },
+    {
+      "headline": "Bose\u2019s new Lifestyle Ultra speakers are now available",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability",
+      "published": "2026-05-14T22:24:33Z",
+      "sentiment_score": 0.104,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
+      "headline": "Gemini surges after Winklevoss Capital Fund invests $100 million in the crypto exchange",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/gemini-surges-after-winklevoss-capital-invests-100-million-in-the-crypto-exchange.html",
+      "published": "2026-05-14T22:23:40Z",
+      "sentiment_score": -0.935,
+      "sentiment_label": "Negative",
+      "confidence": 0.962
+    },
+    {
+      "headline": "Cramer urges investors to be more selective in the AI frenzy",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/cramer-urges-investors-to-be-more-selective-in-the-ai-frenzy.html",
+      "published": "2026-05-14T22:22:42Z",
+      "sentiment_score": 0.099,
+      "sentiment_label": "Neutral",
+      "confidence": 0.869
+    },
+    {
+      "headline": "Closing time",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "published": "2026-05-14T22:21:46Z",
+      "sentiment_score": -0.719,
+      "sentiment_label": "Negative",
+      "confidence": 0.738
     },
     {
       "headline": "OpenAI explores legal options against Apple, source says",
@@ -205,6 +313,24 @@
       "sentiment_score": -0.063,
       "sentiment_label": "Neutral",
       "confidence": 0.883
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
+      "published": "2026-05-14T22:05:28Z",
+      "sentiment_score": 0.869,
+      "sentiment_label": "Positive",
+      "confidence": 0.915
+    },
+    {
+      "headline": "Cerebras IPO mints two billionaires, sets stage for potential AI wave",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/cerebras-ipo-mints-two-billionaires-sets-stage-for-potential-ai-wave.html",
+      "published": "2026-05-14T21:19:40Z",
+      "sentiment_score": 0.188,
+      "sentiment_label": "Neutral",
+      "confidence": 0.766
     },
     {
       "headline": "OpenAI brings Codex coding tool to ChatGPT mobile app",
@@ -225,6 +351,78 @@
       "confidence": 0.802
     },
     {
+      "headline": "OpenAI says Codex is coming to your phone | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "published": "2026-05-14T21:02:58Z",
+      "sentiment_score": 0.618,
+      "sentiment_label": "Positive",
+      "confidence": 0.628
+    },
+    {
+      "headline": "Behold, the Elon Musk jackass trophy",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+      "published": "2026-05-14T20:59:23Z",
+      "sentiment_score": 0.045,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
+    {
+      "headline": "AI research papers are getting better, and it\u2019s a big problem for scientists",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+      "published": "2026-05-14T20:57:56Z",
+      "sentiment_score": -0.744,
+      "sentiment_label": "Negative",
+      "confidence": 0.766
+    },
+    {
+      "headline": "Where Cerebras' monster debut puts in among tech's biggest IPOs",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-ipo-stock-meta-facebook-alibaba.html",
+      "published": "2026-05-14T20:51:30Z",
+      "sentiment_score": 0.658,
+      "sentiment_label": "Positive",
+      "confidence": 0.673
+    },
+    {
+      "headline": "SpaceX IPO prospectus could land as soon as next week, sources say",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/14/spacex-ipo-prospectus-could-land-as-soon-as-next-week-sources-say.html",
+      "published": "2026-05-14T20:43:06Z",
+      "sentiment_score": 0.857,
+      "sentiment_label": "Positive",
+      "confidence": 0.87
+    },
+    {
+      "headline": "Cerebras IPO makes billions for Benchmark but VC Eric\u00a0Vishria almost didn't take the meeting | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+      "published": "2026-05-14T20:25:48Z",
+      "sentiment_score": 0.003,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
+      "headline": "What happens when AI starts building itself? | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "published": "2026-05-14T19:58:32Z",
+      "sentiment_score": 0.04,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
+      "headline": "OpenAI\u2019s Codex is now in the ChatGPT mobile app",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "published": "2026-05-14T19:54:29Z",
+      "sentiment_score": 0.44,
+      "sentiment_label": "Neutral",
+      "confidence": 0.543
+    },
+    {
       "headline": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
@@ -232,24 +430,6 @@
       "sentiment_score": -0.41,
       "sentiment_label": "Neutral",
       "confidence": 0.522
-    },
-    {
-      "headline": "Microsoft starts canceling Claude Code licenses",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "published": "2026-05-14T18:52:52Z",
-      "sentiment_score": -0.022,
-      "sentiment_label": "Neutral",
-      "confidence": 0.849
-    },
-    {
-      "headline": "Some short sellers are seeing opportunity in this tech mania. How they're spotting fake AI stocks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/14/some-short-sellers-are-seeing-opportunity-in-this-tech-mania-how-theyre-spotting-fake-ai-stocks.html",
-      "published": "2026-05-14T18:35:22Z",
-      "sentiment_score": 0.167,
-      "sentiment_label": "Neutral",
-      "confidence": 0.499
     },
     {
       "headline": "Gurman Reports that OpenAI Is Unhappy With Apple Deal",
@@ -270,51 +450,6 @@
       "confidence": 0.92
     },
     {
-      "headline": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
-      "published": "2026-05-14T17:07:46Z",
-      "sentiment_score": 0.901,
-      "sentiment_label": "Positive",
-      "confidence": 0.911
-    },
-    {
-      "headline": "Musk lawyer apologizes to OpenAI jury for CEO's China trip during closing arguments",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html",
-      "published": "2026-05-14T16:51:22Z",
-      "sentiment_score": -0.879,
-      "sentiment_label": "Negative",
-      "confidence": 0.894
-    },
-    {
-      "headline": "Cerebras raises $5.5B, kicking off 2026's IPO season with a bang | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "published": "2026-05-14T16:33:27Z",
-      "sentiment_score": 0.801,
-      "sentiment_label": "Positive",
-      "confidence": 0.82
-    },
-    {
-      "headline": "OpenAI says hackers stole some data after latest code security issue | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "published": "2026-05-14T16:25:20Z",
-      "sentiment_score": -0.722,
-      "sentiment_label": "Negative",
-      "confidence": 0.741
-    },
-    {
-      "headline": "How companies weaponize the terms of service against you",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia",
-      "published": "2026-05-14T13:48:10Z",
-      "sentiment_score": -0.016,
-      "sentiment_label": "Neutral",
-      "confidence": 0.902
-    },
-    {
       "headline": "Uber to open 2 campuses in India to support product development, operations | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
@@ -322,15 +457,6 @@
       "sentiment_score": 0.321,
       "sentiment_label": "Neutral",
       "confidence": 0.661
-    },
-    {
-      "headline": "The Razr Fold is stuck in the middle",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery",
-      "published": "2026-05-14T11:24:19Z",
-      "sentiment_score": 0.017,
-      "sentiment_label": "Neutral",
-      "confidence": 0.874
     },
     {
       "headline": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
@@ -360,6 +486,15 @@
       "confidence": 0.944
     },
     {
+      "headline": "OpenAI faces lawsuit in California court claiming chatbot gave advice that led to fatal overdose",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM29QUTU4aVpUak5Zb1BydWUySzROUTdWNE9fMGNVekRlREpZQnBHdmpOUFFMendrQ0szbWdJRC1iQk03VGl6eEJxUm1nV3pRRmg1ZWMzVlF1M0I3TFRDTnJzMXJMdUp5VXdJbC00dWJ0dlo2VXhiamtFeWlpcHBMeTZoZlZhbzdnVE1FQ2xYMHF3bWxhVFdoVnFaWGFjMzZWb2tvOTUyQVRob3ZVU09QZjd0ejFSMFhWeUNuWkN5QVVyMW5ZNjk4?oc=5",
+      "published": "2026-05-12T19:47:50",
+      "sentiment_score": -0.731,
+      "sentiment_label": "Negative",
+      "confidence": 0.752
+    },
+    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
@@ -385,15 +520,6 @@
       "sentiment_score": -0.761,
       "sentiment_label": "Negative",
       "confidence": 0.786
-    },
-    {
-      "headline": "Start-Up Raises $1.3 Billion for an A.I. \u2018Grid\u2019",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFLUhMVDBJblJLbF9fOHJFcmt0anNlRnlXY2Z2VTVLanplMTd3LUFoQWhBejhFVjF6U2hSbEdKcG9wVUQwcE1vMlNpNnBZMFFjNGtTblVndjFKSS05aWRJZUl0ck9SaXRkNHRVem45aw?oc=5",
-      "published": "2026-05-12T09:03:29",
-      "sentiment_score": 0.656,
-      "sentiment_label": "Positive",
-      "confidence": 0.669
     },
     {
       "headline": "Tech Now",
