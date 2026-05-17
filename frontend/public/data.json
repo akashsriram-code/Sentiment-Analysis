@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-16T18:52:08.910367",
-  "total_articles": 38,
-  "overall_sentiment": 0.012,
-  "overall_label": "Neutral",
+  "last_updated": "2026-05-17T02:07:58.052947",
+  "total_articles": 44,
+  "overall_sentiment": -0.079,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-05-02",
@@ -33,54 +33,60 @@
     },
     {
       "date": "2026-05-14",
-      "avg_sentiment": 0.132,
-      "article_count": 6,
-      "positive_count": 3,
+      "avg_sentiment": 0.216,
+      "article_count": 8,
+      "positive_count": 5,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.186
+      "moving_avg": -0.165
     },
     {
       "date": "2026-05-15",
-      "avg_sentiment": 0.033,
-      "article_count": 19,
-      "positive_count": 7,
-      "negative_count": 4,
-      "neutral_count": 8,
-      "moving_avg": -0.142
+      "avg_sentiment": -0.157,
+      "article_count": 25,
+      "positive_count": 9,
+      "negative_count": 9,
+      "neutral_count": 7,
+      "moving_avg": -0.164
     },
     {
       "date": "2026-05-16",
-      "avg_sentiment": 0.102,
-      "article_count": 8,
-      "positive_count": 3,
+      "avg_sentiment": 0.086,
+      "article_count": 6,
+      "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 4,
-      "moving_avg": -0.102
+      "moving_avg": -0.122
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.092,
-      "article_count": 11,
+      "avg_sentiment": -0.163,
+      "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.026,
-      "article_count": 8,
+      "avg_sentiment": -0.047,
+      "article_count": 10,
       "sentiment_label": "Neutral"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.071,
+      "avg_sentiment": 0.143,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.216,
+      "avg_sentiment": -0.017,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.369,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
@@ -88,12 +94,6 @@
       "source": "Reuters",
       "avg_sentiment": 0.203,
       "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Bloomberg.com",
-      "avg_sentiment": 0.192,
-      "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
@@ -144,40 +144,76 @@
       "confidence": 0.556
     },
     {
-      "headline": "OpenAI and Khan Academy Made a Chatbot. What Can We Learn?",
+      "headline": "Josh Tyrangiel book excerpt: How OpenAI and Khan Academy Made a Chatbot",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEZ1N2lTLXBXNlB2UVlRR2hLOFVnSVBTdkRlZHZsWkViX1JxMXQzTzBpZ3k0VDEtX19ucEdJYzFJY3RSX2NBWGFLZGJTQ3VtWVI2Vm4yUWFlNUgwb3NGRk13RWE0OWdtcEYtUVhnS3ZyeVV4N3laaHpSYW5KXzJFSHlzZ1pQYXhxaUNUeFZxRzZ1RTE2d2RFX0RvTQ?oc=5",
       "published": "2026-05-16T09:01:00",
-      "sentiment_score": 0.022,
+      "sentiment_score": 0.033,
       "sentiment_label": "Neutral",
-      "confidence": 0.936
+      "confidence": 0.93
     },
     {
-      "headline": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHFxaTJGMUkwVWhWV3VjRnI2M2t5U3hySTlnWFVRQnRTU0trRmtMUzhVc3g0VUoxczliZU9CZllsejVxdWNyLTNGZmVZaEhXRVpyQVJ0Rm1WM3ZZLXpBRTVld0NRdzZKN0VqME1PblpZY0cxQk85eFZra2stc0hnYlJjYU14Y1paYkVuRnlYSUJlZ2YybmZxVEJqaHRQTlJVU3ZLZG9qcF9oUHRlbnJzUk1FVnVSdw?oc=5",
-      "published": "2026-05-16T05:00:00",
-      "sentiment_score": 0.192,
-      "sentiment_label": "Neutral",
-      "confidence": 0.769
+      "headline": "Jim Cramer fears SpaceX's IPO could be 'destructive' for the rest of market",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/15/jim-cramer-spacex-ipo-market-bubble.html",
+      "published": "2026-05-15T23:05:14Z",
+      "sentiment_score": -0.943,
+      "sentiment_label": "Negative",
+      "confidence": 0.952
     },
     {
-      "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDh4dllxNlBxZHVoZ0sxdlpCZEZvWXhQOWRBTHEtWGFMR01EeUNxX3V5QjJ2NkU3M1JwRHJXaHJhMnJQclFuQk40UUdraVY2QjhrQ1YwQzRqc0VKT2swcWVnRlFFT3duaEJzTHNfb29GVEpZRW1YRmh6d2ZxdGNob1ZnUHNzT0Y4?oc=5",
-      "published": "2026-05-16T00:33:56",
-      "sentiment_score": 0.117,
-      "sentiment_label": "Neutral",
-      "confidence": 0.855
+      "headline": "Jim Cramer: Why the bond market has become a thorn in the market's side",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/15/jim-cramer-why-the-bond-market-has-become-a-thorn-in-the-markets-side.html",
+      "published": "2026-05-15T22:42:38Z",
+      "sentiment_score": -0.93,
+      "sentiment_label": "Negative",
+      "confidence": 0.947
     },
     {
-      "headline": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5",
-      "published": "2026-05-15T21:49:00",
-      "sentiment_score": -0.176,
+      "headline": "Waymo driverless cars become trapped in Atlanta suburb after glitch",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/videos/czx20g00ly1o",
+      "published": "2026-05-15T21:14:20Z",
+      "sentiment_score": -0.944,
+      "sentiment_label": "Negative",
+      "confidence": 0.952
+    },
+    {
+      "headline": "ArXiv will ban researchers who upload papers full of AI slop",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "published": "2026-05-15T20:38:19Z",
+      "sentiment_score": -0.746,
+      "sentiment_label": "Negative",
+      "confidence": 0.764
+    },
+    {
+      "headline": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "published": "2026-05-15T20:30:20Z",
+      "sentiment_score": 0.335,
       "sentiment_label": "Neutral",
-      "confidence": 0.758
+      "confidence": 0.642
+    },
+    {
+      "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
+      "published": "2026-05-15T19:31:40Z",
+      "sentiment_score": 0.077,
+      "sentiment_label": "Neutral",
+      "confidence": 0.89
+    },
+    {
+      "headline": "What you need to know about Nvidia competitor Cerebras after wild IPO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
+      "published": "2026-05-15T19:11:02Z",
+      "sentiment_score": 0.321,
+      "sentiment_label": "Neutral",
+      "confidence": 0.652
     },
     {
       "headline": "The app you need to clean up your computer",
@@ -196,6 +232,15 @@
       "sentiment_score": 0.027,
       "sentiment_label": "Neutral",
       "confidence": 0.874
+    },
+    {
+      "headline": "OpenAI feels \u201cburned\u201d by Apple\u2019s crappy ChatGPT integration, insiders say",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRl9iTnlSU1Nnc2lYTEFIMHEweEJ0dTl2WkNKVHBhTmRJdEJOamE5eEYxNm9SVU91VlROSUNHVGM0UGk1cmJ2RXRvQlRvWTFPWC12STRVNFBueEo3cE5odEtRZEJwSWR2Rm8xLW5rVFNCUV9CQ1RPU1JVVnpNWTU5VzJEOHB1S1FjaWtaTFBwN0dHWEk2NG1ZdXVycWl6WEZxTzA4Y0QyYjNTVFFYenpaZGtfOTg?oc=5",
+      "published": "2026-05-15T18:13:33",
+      "sentiment_score": -0.935,
+      "sentiment_label": "Negative",
+      "confidence": 0.944
     },
     {
       "headline": "OpenAI, Plaid to Bring Tailored Financial Guidance to Masses",
@@ -232,15 +277,6 @@
       "sentiment_score": 0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.932
-    },
-    {
-      "headline": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html",
-      "published": "2026-05-15T17:02:06Z",
-      "sentiment_score": 0.788,
-      "sentiment_label": "Positive",
-      "confidence": 0.825
     },
     {
       "headline": "Does Trump Mobile know how many stripes are on the American flag?",
@@ -306,15 +342,6 @@
       "confidence": 0.772
     },
     {
-      "headline": "Osaurus brings both local and cloud AI models to your Mac | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-      "published": "2026-05-15T12:19:48Z",
-      "sentiment_score": 0.045,
-      "sentiment_label": "Neutral",
-      "confidence": 0.929
-    },
-    {
       "headline": "OpenAI now wants ChatGPT to access your bank accounts",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
@@ -333,13 +360,22 @@
       "confidence": 0.914
     },
     {
+      "headline": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5",
+      "published": "2026-05-15T00:52:40",
+      "sentiment_score": -0.176,
+      "sentiment_label": "Neutral",
+      "confidence": 0.758
+    },
+    {
       "headline": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFM3YXZtNFBFa0hWSWhqUWlpRE5wTFNlaDl6NVJtOWcwVlcweVZYR0hUSlV5X0FsS3lkWVZBdHlCRTQtcDFKTHo0c2xpdVZTTEhxV2J5SHFZQnFrV1dfalhHZjdfdERrMXNiR2hkY1lLaU1MMlVPQjhvNkkxVzJNenhn?oc=5",
       "published": "2026-05-15T00:48:16",
-      "sentiment_score": -0.827,
+      "sentiment_score": -0.793,
       "sentiment_label": "Negative",
-      "confidence": 0.843
+      "confidence": 0.809
     },
     {
       "headline": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
@@ -385,6 +421,24 @@
       "sentiment_score": 0.039,
       "sentiment_label": "Neutral",
       "confidence": 0.929
+    },
+    {
+      "headline": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kOW1FOE5TMUp6Y2xYZWdwV3pMaVBnR0Rwb2R4d2lsb0JsOVlDSm5SSV8tSVBDUjlkY3dXT0lCUmFIRmRfa0NVSDdaUzRNaVg4ZU9vV0VUOVZNVldHVUdxT2hENS03cnJCcUFvMUx1a3NiOVNV?oc=5",
+      "published": "2026-05-14T17:16:10",
+      "sentiment_score": 0.87,
+      "sentiment_label": "Positive",
+      "confidence": 0.897
+    },
+    {
+      "headline": "Netflix\u2019s new studio will produce animated shorts with generative AI",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53V01GOWY0UzJmeHRZR2dIRi1Ia3IwTy1IeFZKeUlLdzBraGxOSnJZazRVTlBBaDBvbmJFY3poV01JTzFETWEycjZjV0NjSFFPdmFCWVc1Wnk3YS02NmZxem84X0VBVHV0cXU3dGU4YXBEbkNqOGZveVlZM3NJQQ?oc=5",
+      "published": "2026-05-14T15:30:00",
+      "sentiment_score": 0.066,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
     },
     {
       "headline": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
