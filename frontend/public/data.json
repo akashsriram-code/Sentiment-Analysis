@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T02:07:58.052947",
-  "total_articles": 44,
+  "last_updated": "2026-05-17T08:11:36.983687",
+  "total_articles": 42,
   "overall_sentiment": -0.079,
   "overall_label": "Negative",
   "daily_stats": [
@@ -33,30 +33,39 @@
     },
     {
       "date": "2026-05-14",
-      "avg_sentiment": 0.216,
-      "article_count": 8,
-      "positive_count": 5,
+      "avg_sentiment": 0.237,
+      "article_count": 7,
+      "positive_count": 4,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.165
+      "moving_avg": -0.16
     },
     {
       "date": "2026-05-15",
-      "avg_sentiment": -0.157,
-      "article_count": 25,
-      "positive_count": 9,
-      "negative_count": 9,
-      "neutral_count": 7,
-      "moving_avg": -0.164
+      "avg_sentiment": -0.14,
+      "article_count": 23,
+      "positive_count": 7,
+      "negative_count": 8,
+      "neutral_count": 8,
+      "moving_avg": -0.156
     },
     {
       "date": "2026-05-16",
-      "avg_sentiment": 0.086,
+      "avg_sentiment": -0.039,
       "article_count": 6,
-      "positive_count": 1,
+      "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 4,
-      "moving_avg": -0.122
+      "neutral_count": 3,
+      "moving_avg": -0.136
+    },
+    {
+      "date": "2026-05-17",
+      "avg_sentiment": 0.282,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.077
     }
   ],
   "source_stats": [
@@ -68,8 +77,14 @@
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.047,
-      "article_count": 10,
+      "avg_sentiment": -0.072,
+      "article_count": 9,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.003,
+      "article_count": 5,
       "sentiment_label": "Neutral"
     },
     {
@@ -79,33 +94,27 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.017,
-      "article_count": 4,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.369,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Reuters",
       "avg_sentiment": 0.203,
       "article_count": 3,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.517,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "He\u2019s king of the AI boom. Why do former colleagues say he can\u2019t be trusted?",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5",
-      "published": "2026-05-16T16:00:00",
-      "sentiment_score": -0.097,
+      "headline": "Chinese AI groups pull ahead of US rivals in video generation race",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWi1iUlZHYUlDVFFjR2dheDd5dXFmRWhnOTVKTjJrelBtZUVJTEFOYTBkaUF3WEFPeVNGUG12dzdrbExkcEZRcWlvRFNBVDVLekpqYTFXQ0MxUUdmejlpYlp3bEVaZnI5LXZQQm1xYTgyRHE0dHRMZE1QbWlxSzViUW5yUng?oc=5",
+      "published": "2026-05-17T04:01:54",
+      "sentiment_score": 0.282,
       "sentiment_label": "Neutral",
-      "confidence": 0.855
+      "confidence": 0.536
     },
     {
       "headline": "Senate Democrats introduce bills to regulate artificial intelligence",
@@ -126,15 +135,6 @@
       "confidence": 0.949
     },
     {
-      "headline": "Pope creates artificial intelligence study group as Vatican prepares to release his first encyclical",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXo5aXNpejR6NzNSTlFibDg5Y3p5MVVLeGtJTU93aUxzOTNuWDV6Rm9hd3M1UjFRR3RGQVVDRy1nMTNvdEttMTNwZWY3b2V0V2lyNnJyWjFpXzZyX29zX2phZ0lGMTNJc2lnS0REYVlvb0ozVDAtdlZZR2VmT2pxYzZSN0N0aldpMmxVbk9HR3FGN3VZUk9LTnNJT2JOYUhEa0dpbWg4RUIwUUo4TTVLb2VZZi0?oc=5",
-      "published": "2026-05-16T11:49:00",
-      "sentiment_score": -0.0,
-      "sentiment_label": "Neutral",
-      "confidence": 0.934
-    },
-    {
       "headline": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
@@ -151,6 +151,24 @@
       "sentiment_score": 0.033,
       "sentiment_label": "Neutral",
       "confidence": 0.93
+    },
+    {
+      "headline": "Stocks fall as inflation jitters lift bond yields: Markets wrap",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-14/asian-stocks-to-rise-as-ai-rally-spurs-wall-street-markets-wrap",
+      "published": "2026-05-16T04:37:56Z",
+      "sentiment_score": -0.96,
+      "sentiment_label": "Negative",
+      "confidence": 0.972
+    },
+    {
+      "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDh4dllxNlBxZHVoZ0sxdlpCZEZvWXhQOWRBTHEtWGFMR01EeUNxX3V5QjJ2NkU3M1JwRHJXaHJhMnJQclFuQk40UUdraVY2QjhrQ1YwQzRqc0VKT2swcWVnRlFFT3duaEJzTHNfb29GVEpZRW1YRmh6d2ZxdGNob1ZnUHNzT0Y4?oc=5",
+      "published": "2026-05-16T00:33:56",
+      "sentiment_score": 0.117,
+      "sentiment_label": "Neutral",
+      "confidence": 0.855
     },
     {
       "headline": "Jim Cramer fears SpaceX's IPO could be 'destructive' for the rest of market",
@@ -198,15 +216,6 @@
       "confidence": 0.642
     },
     {
-      "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
-      "published": "2026-05-15T19:31:40Z",
-      "sentiment_score": 0.077,
-      "sentiment_label": "Neutral",
-      "confidence": 0.89
-    },
-    {
       "headline": "What you need to know about Nvidia competitor Cerebras after wild IPO",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
@@ -232,15 +241,6 @@
       "sentiment_score": 0.027,
       "sentiment_label": "Neutral",
       "confidence": 0.874
-    },
-    {
-      "headline": "OpenAI feels \u201cburned\u201d by Apple\u2019s crappy ChatGPT integration, insiders say",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRl9iTnlSU1Nnc2lYTEFIMHEweEJ0dTl2WkNKVHBhTmRJdEJOamE5eEYxNm9SVU91VlROSUNHVGM0UGk1cmJ2RXRvQlRvWTFPWC12STRVNFBueEo3cE5odEtRZEJwSWR2Rm8xLW5rVFNCUV9CQ1RPU1JVVnpNWTU5VzJEOHB1S1FjaWtaTFBwN0dHWEk2NG1ZdXVycWl6WEZxTzA4Y0QyYjNTVFFYenpaZGtfOTg?oc=5",
-      "published": "2026-05-15T18:13:33",
-      "sentiment_score": -0.935,
-      "sentiment_label": "Negative",
-      "confidence": 0.944
     },
     {
       "headline": "OpenAI, Plaid to Bring Tailored Financial Guidance to Masses",
@@ -306,6 +306,15 @@
       "confidence": 0.939
     },
     {
+      "headline": "OpenAI now wants ChatGPT to access your bank accounts",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzF2ekdKT3hxelI4eG9RX3BFa1YtVTUxN2FDNmxmYmx3cUtCQlV6cDBoSXFBTjhJdm1BNHdGVXd5QmdIQi04NnBfcDZXcGpvVmotLXFsa1B2QWxEZUhqcUJyMzY4RktTN0RfZTRSUjdETzJoTTB0a1VpOUNRT3BSbVlvZEdCMG5qU3JHSW5iRlFGaDZGR0VUZ3hPeDktZ3N4UVRoSUZxNHJ5aW03b3c?oc=5",
+      "published": "2026-05-15T16:00:00",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
+    {
       "headline": "Watch: What was argued at the Musk-Altman trial?",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/videos/cp8pj6rplygo",
@@ -342,15 +351,6 @@
       "confidence": 0.772
     },
     {
-      "headline": "OpenAI now wants ChatGPT to access your bank accounts",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "published": "2026-05-15T12:19:32Z",
-      "sentiment_score": 0.157,
-      "sentiment_label": "Neutral",
-      "confidence": 0.826
-    },
-    {
       "headline": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
@@ -373,9 +373,9 @@
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFM3YXZtNFBFa0hWSWhqUWlpRE5wTFNlaDl6NVJtOWcwVlcweVZYR0hUSlV5X0FsS3lkWVZBdHlCRTQtcDFKTHo0c2xpdVZTTEhxV2J5SHFZQnFrV1dfalhHZjdfdERrMXNiR2hkY1lLaU1MMlVPQjhvNkkxVzJNenhn?oc=5",
       "published": "2026-05-15T00:48:16",
-      "sentiment_score": -0.793,
+      "sentiment_score": -0.827,
       "sentiment_label": "Negative",
-      "confidence": 0.809
+      "confidence": 0.843
     },
     {
       "headline": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
@@ -430,15 +430,6 @@
       "sentiment_score": 0.87,
       "sentiment_label": "Positive",
       "confidence": 0.897
-    },
-    {
-      "headline": "Netflix\u2019s new studio will produce animated shorts with generative AI",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53V01GOWY0UzJmeHRZR2dIRi1Ia3IwTy1IeFZKeUlLdzBraGxOSnJZazRVTlBBaDBvbmJFY3poV01JTzFETWEycjZjV0NjSFFPdmFCWVc1Wnk3YS02NmZxem84X0VBVHV0cXU3dGU4YXBEbkNqOGZveVlZM3NJQQ?oc=5",
-      "published": "2026-05-14T15:30:00",
-      "sentiment_score": 0.066,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
     },
     {
       "headline": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
