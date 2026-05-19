@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-19T02:29:45.977388",
-  "total_articles": 36,
-  "overall_sentiment": -0.164,
+  "last_updated": "2026-05-19T08:59:44.914813",
+  "total_articles": 39,
+  "overall_sentiment": -0.215,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,92 +51,143 @@
     },
     {
       "date": "2026-05-16",
-      "avg_sentiment": 0.634,
+      "avg_sentiment": 0.275,
       "article_count": 2,
-      "positive_count": 2,
+      "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.019
+      "neutral_count": 1,
+      "moving_avg": -0.079
     },
     {
       "date": "2026-05-17",
-      "avg_sentiment": -0.188,
-      "article_count": 5,
+      "avg_sentiment": -0.231,
+      "article_count": 4,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 4,
-      "moving_avg": -0.043
-    },
-    {
-      "date": "2026-05-18",
-      "avg_sentiment": -0.353,
-      "article_count": 15,
-      "positive_count": 3,
-      "negative_count": 11,
-      "neutral_count": 1,
+      "neutral_count": 3,
       "moving_avg": -0.1
     },
     {
+      "date": "2026-05-18",
+      "avg_sentiment": -0.315,
+      "article_count": 14,
+      "positive_count": 2,
+      "negative_count": 11,
+      "neutral_count": 1,
+      "moving_avg": -0.152
+    },
+    {
       "date": "2026-05-19",
-      "avg_sentiment": -0.043,
-      "article_count": 3,
-      "positive_count": 1,
-      "negative_count": 2,
+      "avg_sentiment": -0.347,
+      "article_count": 8,
+      "positive_count": 2,
+      "negative_count": 6,
       "neutral_count": 0,
-      "moving_avg": -0.112
+      "moving_avg": -0.208
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.037,
+      "avg_sentiment": 0.035,
       "article_count": 11,
       "sentiment_label": "Neutral"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.128,
-      "article_count": 5,
+      "avg_sentiment": -0.231,
+      "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.013,
+      "avg_sentiment": 0.017,
       "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.136,
+      "source": "BBC",
+      "avg_sentiment": -0.674,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.896,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "BBC",
-      "avg_sentiment": -0.891,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Bloomberg Law News",
-      "avg_sentiment": -0.178,
-      "article_count": 2,
+      "source": "The New York Times",
+      "avg_sentiment": -0.122,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.086,
-      "article_count": 2,
+      "avg_sentiment": -0.653,
+      "article_count": 3,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-19T08:45:23",
+      "sentiment_score": -0.118,
+      "sentiment_label": "Neutral",
+      "confidence": 0.554
+    },
+    {
+      "headline": "Helsing and OHB join forces on space-based reconnaissance venture",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDd6NUpvVnNKSUc3VzZGTE9abkd0dE9CSUZuNkptSmx5elBBY2p3Y3hSQmN2eUdCVlFfTTZHTnM1TlVEOVROOHpSUExlWk16RlQ4TlVSM0ZIOHhVTGoyREVkOUlqZ1BHZ3pXOFRfUlJpUkJyLWRaa0k0eUFyWF8xSUVkdi1QWkRvS0RORVg0ZUM4X01VTThXanJWMFE4aThqS3VXaQ?oc=5",
+      "published": "2026-05-19T08:11:18",
+      "sentiment_score": 0.254,
+      "sentiment_label": "Neutral",
+      "confidence": 0.718
+    },
+    {
+      "headline": "StanChart to cut more than 7,000 jobs as bank steps up AI adoption",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXJQZk93RWZSZTBqb1VETW85REtQeE5ycmdtZXMxUnFXejBxMnFfNjJxM21PZHRxWHdLWXM0a0tMU2x6Tk9qYmNNU1dzdl9pUHZEaE5yT1pPb2dSWXRpVUk1ejAzRzRORlg4S2RWUGdxdy02V3pSUDloaUZuXzhLV1IzNHpyd3hBTjUtdDBSc2R4WGJVNUhURGxxNndpMWlLbE8wOW1iWkZJMmFrYmwwUS0weVU1UFBjRHc?oc=5",
+      "published": "2026-05-19T06:50:53",
+      "sentiment_score": -0.932,
+      "sentiment_label": "Negative",
+      "confidence": 0.947
+    },
+    {
+      "headline": "All of Musk\u2019s claims in lawsuit against OpenAI dismissed in federal trial",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa210ajBTak5xUjhqWGNIVGJwVlo3aDVLRXRmdHpTeTgyQ1lRSXFwbG5kOWpOWmJiX3NpOUhMZnFVT0dOSVdCaGVRSDVQemxVM1g5aWMxa05TVExGQlM2OTFuWmhwODlyaWZGOWVjU1FvbTVHbVJuVWNaVWFoRXNCbWZocTZROERhTC1TVjMzQV9RUUJlQ1pOV1hINmFqanFFSWdPNUxzTXY4eUcyT3B5RUt0ZnlqRkFuR3c?oc=5",
+      "published": "2026-05-19T05:29:20",
+      "sentiment_score": -0.177,
+      "sentiment_label": "Neutral",
+      "confidence": 0.755
+    },
+    {
+      "headline": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3llYm4zUjBVYkVEMjhyYUdOTHJTRWpKT3NJUGVURVZHVkJRbW5HTG04RVd3S2h3SDBodk5SOTBQRXFwdHk0UGdxb2Vma1lXQ09XdnFtMTlhN090cWkzdm10TWtsMGJyVGx6OE1VUEkwYWY2NDBoMEZ5a0x4aUhoSzRKY3p0U1U0OEVCa3JuUGlIUHBXV1VoV2IzZmhPc0FqQ0U2MXZHbEV3RXgxdjJXbjBXUjVfaUt2Nk85VG93?oc=5",
+      "published": "2026-05-19T04:11:00",
+      "sentiment_score": -0.921,
+      "sentiment_label": "Negative",
+      "confidence": 0.932
+    },
+    {
+      "headline": "Standard Chartered to cut thousands of roles as AI use increases",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51WXgzbG5MWHRWRmExQl9ZeTJNQ3JrMElqd3hOU2tGY1JiSFNrT3I5UzdvZUZFNUx4MzFJc2ItVjFmSUZZMXRBa3IwMVlUTTA0YVloajBYX1BVZw?oc=5",
+      "published": "2026-05-19T02:50:55",
+      "sentiment_score": -0.907,
+      "sentiment_label": "Negative",
+      "confidence": 0.921
+    },
+    {
+      "headline": "Exclusive | Google and Blackstone to Create New AI Cloud Company",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanVETXBuREY3VEdSekgyX1h4WmltRlVSNGpsdXh3cnIyVUVGN3k4Ylg5bzl4UXBLb1NJQzNPZFpNZ0pQVE9MejBFWE9oNWtRcE4wS1hqMURRbzZoTFFEX0J2UGlfZWx0d1JMcFdsMHpyR0NHWFcyTHAzbDZnTWdFRVpRakdkdGNhV1BRUDlzNkY0S00?oc=5",
+      "published": "2026-05-19T01:37:00",
+      "sentiment_score": 0.098,
+      "sentiment_label": "Neutral",
+      "confidence": 0.882
+    },
     {
       "headline": "Meta Reassigns 7,000 Employees to Focus on A.I.",
       "source": "The New York Times",
@@ -145,24 +196,6 @@
       "sentiment_score": -0.071,
       "sentiment_label": "Neutral",
       "confidence": 0.863
-    },
-    {
-      "headline": "Google, Blackstone plan AI cloud venture with $5 billion backing, WSJ reports",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
-      "published": "2026-05-19T00:13:00",
-      "sentiment_score": 0.066,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
-    },
-    {
-      "headline": "After Elon Musk\u2019s Court Loss Comes the Long Hot A.I. Summer",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDc0ZReW8xTEdPQm5mTFFfaE1kMl9aNTZnZHhZal9tU2I0Wm5MREFnTlVJeEtkNDJSRU1IQ1VjTEhDVGhtMWlSa3g0a0V5bnY3Z0F4OFg2aVltYllYcG11bkl2ZHh1T0dFdEYzUkRLRGJWVXpyU2g4NGJEdkl1QQ?oc=5",
-      "published": "2026-05-19T00:12:22",
-      "sentiment_score": -0.123,
-      "sentiment_label": "Neutral",
-      "confidence": 0.757
     },
     {
       "headline": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
@@ -174,15 +207,6 @@
       "confidence": 0.549
     },
     {
-      "headline": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3llYm4zUjBVYkVEMjhyYUdOTHJTRWpKT3NJUGVURVZHVkJRbW5HTG04RVd3S2h3SDBodk5SOTBQRXFwdHk0UGdxb2Vma1lXQ09XdnFtMTlhN090cWkzdm10TWtsMGJyVGx6OE1VUEkwYWY2NDBoMEZ5a0x4aUhoSzRKY3p0U1U0OEVCa3JuUGlIUHBXV1VoV2IzZmhPc0FqQ0U2MXZHbEV3RXgxdjJXbjBXUjVfaUt2Nk85VG93?oc=5",
-      "published": "2026-05-18T23:01:00",
-      "sentiment_score": -0.921,
-      "sentiment_label": "Negative",
-      "confidence": 0.932
-    },
-    {
       "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pVnp2ZkRZbkt6SGhFRzdhUnphVVpnRkJyLU8zNDhnUWZZa2diRkFOREZPZkRZTVRrcElDTUhpSmRIUmtXVkpmT194WXNjdjRnX3kteUI1UXhaZw?oc=5",
@@ -190,6 +214,15 @@
       "sentiment_score": -0.893,
       "sentiment_label": "Negative",
       "confidence": 0.909
+    },
+    {
+      "headline": "Why Elon Musk lost in the OpenAI court battle against Sam Altman",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PeWxvZDdZLWZzMnJUT3ZCTTN1cjQxWmJJVWVCbDh5OWlpdmpBd2VXdWZZSnZpekxlWWs5M3BiQ3lIU1RSR011TEJ0V1BFMTVNdklNX0F6QQ?oc=5",
+      "published": "2026-05-18T22:00:24",
+      "sentiment_score": -0.222,
+      "sentiment_label": "Neutral",
+      "confidence": 0.712
     },
     {
       "headline": "Lawyer apologizes for 'phantom' AI quotes in Trump layoffs case",
@@ -201,13 +234,13 @@
       "confidence": 0.874
     },
     {
-      "headline": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-18T20:44:57",
-      "sentiment_score": -0.909,
-      "sentiment_label": "Negative",
-      "confidence": 0.923
+      "headline": "OpenAI Lawsuit Live Updates: Jury Rejects Elon Musk's Claim in Unanimous Verdict",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVpBeVdfWi14YlZLSmpQbjlZcXJHNVBHMFNvRTJLdVFGSjJGRDg2QkFjNEVfdlpDVUhGWXcyR1ZKMTFnR0diQ0FBZ0dTU3hlS00wbHZaWU90THNuRXYwTi1hTHRZTEFIcjNUZWVXV09UQlFraW1UeEgyd0VaNHZid0ktM2F5QXI3dTBV?oc=5",
+      "published": "2026-05-18T21:07:32",
+      "sentiment_score": -0.081,
+      "sentiment_label": "Neutral",
+      "confidence": 0.802
     },
     {
       "headline": "OpenAI Dismissal Motion Says ChatGPT Is Mere Tool, Not Attorney",
@@ -228,15 +261,6 @@
       "confidence": 0.629
     },
     {
-      "headline": "Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBuZjNSbnJqbHE1ekVIeUxNSVNtSld4UlRrazVDb3FGZGM2T1ZCM25OTEYzbnhoV2VBVVpZQkM3LVU2R2NZaEpjd19yOTMwSkg0enpPZDY0Y0s0OE9Qdkdob3FuaWRUX01jWnF2eHZfSFpwMzQ5VDJXdXBjVVZVQ0h1Q2FDbHRSMG12bkZlLW1GS3RsR1RyOUNQTW5jMHRpSFE?oc=5",
-      "published": "2026-05-18T17:02:00",
-      "sentiment_score": -0.871,
-      "sentiment_label": "Negative",
-      "confidence": 0.886
-    },
-    {
       "headline": "50 classes of graphic design or 50 seconds of artificial intelligence",
       "source": "The UCSD Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1ZzV3B2dXdONXRrMnkxb3hZT0UxVHkzeHFZQ29iRjBGdl83a3FaY213SnBpTjlzbGc2Vl9sNWIwRUp5WWg4TmZxNHVMUEw5TTBXaFJvcGtKaEJIaGdidDVKR0JxSnMxcmlMVTJVT3p2eTZORXZHaURlNkR1YXltVHNLWW1LSi1fSjVvUVp3YWYyYTdXakM3UmdGaWNpb2QwQkJ2UU5CWHBnUQ?oc=5",
@@ -255,15 +279,6 @@
       "confidence": 0.865
     },
     {
-      "headline": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZDJscEdEYXVvNUEwQVQwTjRFbFBSMmRsTlBXanRMc2V1dHhWYU5LbVNtNmI4UG1KbHFuRFVEME4wSkViRnhQYUkxazUzV3dnMEdpZ2pQVGswUQ?oc=5",
-      "published": "2026-05-18T15:16:00",
-      "sentiment_score": -0.889,
-      "sentiment_label": "Negative",
-      "confidence": 0.902
-    },
-    {
       "headline": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
@@ -271,15 +286,6 @@
       "sentiment_score": 0.076,
       "sentiment_label": "Neutral",
       "confidence": 0.85
-    },
-    {
-      "headline": "AI-Assisted Pro Se Litigation Requires Early In-House Scrutiny",
-      "source": "Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE0wYktYZE5OWEhJSXhxNlJiT1VwQmxnTTNCVENOWURrSHhTSUdNWEVDUlN6ZDFtQzJQbWpWU0dSV0dzZm5HWmx6QnJ1MjZGSGk1Zjd5ek8yUmhOSGJUSkNlZmRkcnd3dzhWbzVuSURQeGtTZDlHcEk4elozM3dacVVYYkkydjQzN05KODRoYU9ONFhxbWFmUEwzS0ZiOHI4aTVhRk9IWkNuNFNxRHJ1eVh3SmhNamV5ZFEyYXFKQ0xoUk8xM2FISlF1UQ?oc=5",
-      "published": "2026-05-18T08:30:00",
-      "sentiment_score": -0.108,
-      "sentiment_label": "Neutral",
-      "confidence": 0.842
     },
     {
       "headline": "Opinion | Tech Workers Have Fears About A.I., Too. They Can Do Something About It.",
@@ -291,13 +297,31 @@
       "confidence": 0.708
     },
     {
-      "headline": "Elizabeth Economy: China's Energy Boom Could Give It The AI Edge",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video",
-      "published": "2026-05-18T00:00:00Z",
-      "sentiment_score": 0.518,
-      "sentiment_label": "Positive",
-      "confidence": 0.583
+      "headline": "How Elon Musk and Sam Altman went from besties to bitter rivals",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
+      "published": "2026-05-18T05:00:01Z",
+      "sentiment_score": -0.239,
+      "sentiment_label": "Neutral",
+      "confidence": 0.59
+    },
+    {
+      "headline": "High energy prices could derail Europe\u2019s AI race with U.S. and China",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html",
+      "published": "2026-05-18T05:00:01Z",
+      "sentiment_score": -0.828,
+      "sentiment_label": "Negative",
+      "confidence": 0.868
+    },
+    {
+      "headline": "Asian shares slip and oil prices gain as Iran talks stall",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/stocks-markets-china-trump-iran-e7b781e8e2394be6486fa5f006e5e06e",
+      "published": "2026-05-18T04:49:40Z",
+      "sentiment_score": -0.937,
+      "sentiment_label": "Negative",
+      "confidence": 0.959
     },
     {
       "headline": "Apple\u2019s Siri revamp could include auto-deleting chats",
@@ -318,15 +342,6 @@
       "confidence": 0.886
     },
     {
-      "headline": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "published": "2026-05-17T16:32:04Z",
-      "sentiment_score": -0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.944
-    },
-    {
       "headline": "AI-related layoffs a boost for stocks? Not necessarily",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
@@ -345,13 +360,13 @@
       "confidence": 0.915
     },
     {
-      "headline": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
-      "published": "2026-05-16T12:00:01Z",
-      "sentiment_score": 0.721,
-      "sentiment_label": "Positive",
-      "confidence": 0.762
+      "headline": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTJrcFA0dldEMTV1dkNXamJLOHA0eUhSd2drWWhZU243QkpkSEZMVXVVQmw4cDhyRUJtQmNYRzN0aHdsQ1FYTHF5LXQ2ZXpzdk9qc0Faa043bThwOHFzeFFySmNwemV4R1ZrdHNvcEE4TVhqVnJKM2FuWnFhLXZPTXBlTks2VG5JNE8wSFJvUTNwSThBRmJIeVpBclhkMEhIOUgxV3J6aWtyRkFzNDZ3?oc=5",
+      "published": "2026-05-16T15:33:33",
+      "sentiment_score": 0.002,
+      "sentiment_label": "Neutral",
+      "confidence": 0.949
     },
     {
       "headline": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
