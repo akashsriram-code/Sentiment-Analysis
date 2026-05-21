@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-21T08:57:33.471415",
-  "total_articles": 44,
-  "overall_sentiment": -0.027,
+  "last_updated": "2026-05-21T14:43:12.192762",
+  "total_articles": 42,
+  "overall_sentiment": -0.023,
   "overall_label": "Neutral",
   "daily_stats": [
     {
@@ -33,30 +33,30 @@
     },
     {
       "date": "2026-05-19",
-      "avg_sentiment": 0.16,
-      "article_count": 14,
-      "positive_count": 10,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": 0.024
+      "avg_sentiment": 0.099,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": 0.009
     },
     {
       "date": "2026-05-20",
-      "avg_sentiment": -0.195,
-      "article_count": 17,
-      "positive_count": 7,
-      "negative_count": 7,
-      "neutral_count": 3,
-      "moving_avg": -0.02
+      "avg_sentiment": 0.001,
+      "article_count": 22,
+      "positive_count": 6,
+      "negative_count": 8,
+      "neutral_count": 8,
+      "moving_avg": 0.007
     },
     {
       "date": "2026-05-21",
-      "avg_sentiment": 0.073,
-      "article_count": 5,
-      "positive_count": 3,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.004
+      "avg_sentiment": -0.115,
+      "article_count": 8,
+      "positive_count": 2,
+      "negative_count": 3,
+      "neutral_count": 3,
+      "moving_avg": -0.013
     }
   ],
   "source_stats": [
@@ -68,36 +68,78 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.113,
-      "article_count": 8,
+      "avg_sentiment": 0.31,
+      "article_count": 10,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.508,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": -0.021,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.009,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.624,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.224,
-      "article_count": 6,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.092,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.639,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.297,
-      "article_count": 3,
+      "avg_sentiment": -0.4,
+      "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "The White House tore down AI rules. Now it\u2019s building new defenses.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHhraVdVR1lSNWxJWlVqVkxKMktkcmZua1I4Q1I4dHZuNHl2MzhVWWFnWG1zZ1NSaVBPSzR2anpXendaUHhRN3V1WW1SYzN2eFJQZ25JSURWZEluUnZWSmNGTFUxaUNmeWNLemt0Z2ZIT2FOWHN2TF9hREpiY193SnVaWnhhYzNXMnFFbXhDWDRwVFVVTHRINVY2Q1hCZnBzSmV4TFVpRUpYZmVFNG1ibUE4aHE?oc=5",
+      "published": "2026-05-21T14:31:44",
+      "sentiment_score": -0.009,
+      "sentiment_label": "Neutral",
+      "confidence": 0.851
+    },
+    {
+      "headline": "California\u2019s Governor to Sign A.I. Order Aimed at Protecting Workers",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2ZucEtVWTZFOVIzczhnSklJTVhxNUN2eWNqeHBZMnhEVVFjMHQtTE9DVjJ5N2cwbkJhbC1sa1I4c01mLXFVaG1BcjNUQTQ5Y3ZfNlZkUWdza0psWTY0cW1VWFZSRFJ1MmxHWlJDRWVpdlZHS3lZTVZtbmlValQ1bWN5SlZ2YjdGRXBvTE9wWFo?oc=5",
+      "published": "2026-05-21T14:02:02",
+      "sentiment_score": -0.146,
+      "sentiment_label": "Neutral",
+      "confidence": 0.569
+    },
+    {
+      "headline": "Bone is a wonder material. Scientists are defying physics to mimic it for longer-lasting hip replacements",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWi10Zlo2Ti1hRXJ2UVREbExoakxVbGRpQjNweEV3bk13Uy1RN2t3WHN1UkFEQ1FPeGZIVjlSbEJTa3RpV1ZtMjE2QkVEd2ZWNXE2ei10N2tvbzQ5Q3JwZWlqb1FYNTBqb3lxSkV2WXlhOE5jbXNMSTEtaGJzZmUyUUNSZGxlSDU1WHA2Ql82N241YnAxdk9PMHpVeGtiNzc4bndXUTF3?oc=5",
+      "published": "2026-05-21T10:00:00",
+      "sentiment_score": 0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.921
+    },
+    {
+      "headline": "Thousands of N.Y.C. Jobs Could Be Lost to A.I. Boom, Report Says",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aX2NuNTFrckhjWEl0WmtWSGJuVjZ3bDQ0QnYyZDZhMHp6TXFpSkczTzBySEluM2J3ak0xSUQwVEdWT3RiQ0FQa3l6MW1NVG1LVV9uTXRfbzRTQUx4ZWhscEx2T255Tk9idE83WGtFbEotZw?oc=5",
+      "published": "2026-05-21T09:05:40",
+      "sentiment_score": -0.93,
+      "sentiment_label": "Negative",
+      "confidence": 0.939
+    },
     {
       "headline": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
       "source": "BBC News",
@@ -126,15 +168,6 @@
       "confidence": 0.943
     },
     {
-      "headline": "AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUk9EUG8zYmNKdXpxY21HRl9SZjhJVzNQcmtqbUk3UDV1bS1PUGZOWEJUTS1XVk9vOUlEc0lIXzU5eXlFOE1lYm0xM19scUg1bmtNdFZIQTlyQWZfM2lTY3hpZnItR3BRVDB5WHAyMmUyX2o0bzltSFVhNE9iUzRaZUNCTUhNTG0ycEtUM0RsZ0IxRDNUaWF2SWNKSUFvN1FGekExSGdoaGduaTdadlN1Qg?oc=5",
-      "published": "2026-05-21T04:14:00",
-      "sentiment_score": 0.217,
-      "sentiment_label": "Neutral",
-      "confidence": 0.764
-    },
-    {
       "headline": "SoftBank Group shares soar 20% as Nvidia earnings signal strong AI momentum",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWE3blBGMHNDZlNabE93WnRDRTFKcTk4Zjd1dEV2UkhCdl8xSTBxaEI5Mnl5bE9qQ0Y0ZXRRcG4xOUZNdEowaDBOTG5ROEthdF8teXM1dkJ1UDR5VC1FQ0VHMWJkWlAzZVdpOXFVazhmaDk0RzNlT25ycmg5a1R5SG51ZVnSAYoBQVVfeXFMTXdTZjFHSzNFRGNPeS0yTWZtX3d5YnJMZTlQU1hPN2h6ZWJNVWtMam9wRjlSY1VrS3RLZHlMTXl3dFpKa0xscTY0OVMzSnQ1RENYd292T1A1NjN6T0xfSmxQa1JHRW43Und4TUpGb0otRkVUNjNYZ1VkY1JVdW1aRkZWWkw4N2RON0p3?oc=5",
@@ -142,33 +175,6 @@
       "sentiment_score": 0.909,
       "sentiment_label": "Positive",
       "confidence": 0.935
-    },
-    {
-      "headline": "Intuit CEO: Job cuts were not driven by artificial intelligence",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGlOQTNvLWhtWE1GNUlfWDRTN2JkOFdMelh4amRUdmdwZXhsVUhSQ3h1UlRjdjgzckdJVC00eDU3ZEk2MkxWeEl6bFlpTzBBOU9WOWRnTkFUUFZMWHo2d0Jqc0Fvam56eEtwcjB6UmxNVlRiUTJpeVdyOU5QcmxyUVctV2lySVlPa0QwSUpJVndnSVhQV3VkZ1RLbjNOYXZyOGNxQXA2b3k?oc=5",
-      "published": "2026-05-20T23:38:49",
-      "sentiment_score": -0.856,
-      "sentiment_label": "Negative",
-      "confidence": 0.872
-    },
-    {
-      "headline": "Was a Story That Just Won a Literary Prize A.I.-Generated?",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fYTZVQlJvU0F0TkIxcy1NenNsdldwQTNfcnRjaG43QXU1MFVZeE1XTnRfWkNRRkRiaU92alBZUVl2aXVyZDNuVzlBYUttMW5JU19pSE03b3EyTmp1eTQzb0F0Um0yRmhUYzZtR0QxUm0xZlBBWUMwOXVLQQ?oc=5",
-      "published": "2026-05-20T22:44:02",
-      "sentiment_score": 0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.88
-    },
-    {
-      "headline": "Trump to sign order on AI oversight as security fears mount among supporters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkpmNFRzTzUwaVB0M1FjQnV3N1UzN3ZsNUVRR0xPcXdkM2hIYWdGd1kyUVg0bzBMZlNmZTV0QTJPNUVDWk1nZEFPQ2NCS3NaYlhZSFUxcUtOLWVWS0hUa0l4cGVXUE9ST2ZhUmx5eGJQWHJsRTN4NnAwS3NobS1QR2RUd2FKTDNqdWpQVjV5aEFWR0UyTV9EQ0JHdW84UlhWUmZTZkxMcE5fNXFSS3hRVlV1RDZvU3VTczg5eA?oc=5",
-      "published": "2026-05-20T22:26:00",
-      "sentiment_score": -0.669,
-      "sentiment_label": "Negative",
-      "confidence": 0.703
     },
     {
       "headline": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
@@ -189,15 +195,6 @@
       "confidence": 0.936
     },
     {
-      "headline": "OpenAI claims it solved an 80-year-old math problem \u2014 for real this time",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTRhR2hrbkZhMlN0V2ZmMFVDQ0oxY1FxVU03SXdhbkpqUTJ3WTRNZzlhZkVKT09VT3VBdng4Z1hyYWFsVVlkdmYtS192emE4OUc4X0FRcC1YS2NGQ0pPeGNabGpxTE15QWdpeXEzQ183ekx1Zzg3N0h0eE1RZ1pZNTJoQjhhenlLcnZyX3FiaVg3VkVUOUFIcmczZGthcEdkWjFYM1FZSDc?oc=5",
-      "published": "2026-05-20T20:28:27",
-      "sentiment_score": 0.064,
-      "sentiment_label": "Neutral",
-      "confidence": 0.859
-    },
-    {
       "headline": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVN6cWNQajcyeVJ3YlZucmpYNURPaU5LTXZwM3ZKRVNjQlNZZHpGY1ZhelFmVVhRX2dGemZDdTNtSzcweVlPWGdnYmo2RFZHcFhpRUhobjhXSHlvNDV3bjc4ZjdNN0E5bTlJVDg2cDBSbUpGaTZ4S296OF9GVVdKSmhreVhMVTBqejM3SkdaczVvMjBLTVlIQTV0WnNqMVotWHlxUzlBWnNwNmxyNjJpaGxIVTY2SUxOd2dsQlZjZjBWU2xvYzhrYtIBzgFBVV95cUxPbnFwZm9YTW5QSGtpSXNsWTV3WUVQTmxaN2x5b1NOcEI0a013U1FKMTN6YWF3NDNOaFZudThmRWpZUk9tdF9fbzdjRkVGWjh6Wms0LUtHZjVTWGZRQURjdkhLOFVTbjNZR2NwQURCbWtWdkJyeDJVX3VPLXBwOXZQaG9PYXVsNVpZdmg1RV9Kemp3ZjBIX2F6NUJoVmw2TVR5Yi1YOFllZjNjQnNYdkRwcGFCMmVXTW5Qc2FpN0x3ZnhvTEU4dUpIX3g2RVdmQQ?oc=5",
@@ -216,15 +213,6 @@
       "confidence": 0.921
     },
     {
-      "headline": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa2l2WmMtRWg0NTlTdV9LM2RnVllTMFd2aUJkWVhHR05Nb1lidnBoQWp1OGV0RWpUaVVIaEJKSjBETzdlU3p2eUx3S0YweVB5QWlPNGFXMFhHVllENGxURzJ2RFFROEFtUE81cHNTdUt5eVhYLVJSUjR0ZWtYQzEtR2dXVUk1Qk5kbXN0YWZ0c0V1blJLS0M2SnlVSFNfUER5OExGVk40TQ?oc=5",
-      "published": "2026-05-20T17:31:04",
-      "sentiment_score": 0.079,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
-    },
-    {
       "headline": "OpenAI Prepares to File for an I.P.O. in Coming Weeks",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qcklkTzJFdzZvREs4Ukc2SWM1X1J2dVE1MTUxcU90a1N1NUFWR3ZtOWt6SFZKekthZ2huSlpXRnJ1TDViY1NlcWQ2NUMxaU9tcHUzLUVhRnl6R0pkR1plZHhPVW5WWEhfSTVJZEhn?oc=5",
@@ -234,13 +222,112 @@
       "confidence": 0.942
     },
     {
-      "headline": "Congrats, new grads! Welcome to job market hell.",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXlpNzBlYXZObFI5X3Y1QkJUSlZqZ2hTYjhjbjdrVEhpNkZCNWRJeFBlekp0SXlDVm1HRWV2Uno1R1lpejJhQ01GTFVqWTY5eWtWX2lrTVdMdEc1WUJFUnE0QWIzb05MRzlQcHlmeDV4WmtsNnpiRHZNTER0dkZWNlR0OXJzUUt2aUV2dko0cXRZVlh0UUxNTHhmVVh0OElPWWlqQk9lNTdiZkZPOXpCQW9pSWtEYTV2dzYzYlRnX3hzYnc?oc=5",
-      "published": "2026-05-20T16:00:00",
-      "sentiment_score": -0.273,
+      "headline": "OpenAI to confidentially file for IPO as soon as Friday: Source",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoSXI0c21qQ1U0Tk5aWFRCNXhSNlg0Ri1xZmJOUDU1ZjFWbzRlZy1KdTZIcThTUV9TUnlNZ2JKYndiamJVN01KTFc1ZDhGVEQyeHVjRnEySjZHNjRZbV90SjBuTzLSAWpBVV95cUxPdnlfa3I2LXdqX05WRVdUekdBM25RZFdnaFhWU3VSd0R4Y212NEVidVJqdDhSM2hydENEN0RFQS1vNHNUWkFpb2hmQVI1czc3bWVCSjNWZnZfR3AtbG03Y2x4N3p6S2tGd3dn?oc=5",
+      "published": "2026-05-20T16:58:44",
+      "sentiment_score": -0.012,
       "sentiment_label": "Neutral",
-      "confidence": 0.57
+      "confidence": 0.937
+    },
+    {
+      "headline": "These 5 charts show how ChatGPT is flooding our lives",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnBxTUs3aXJZRldBRFJXX1VxcEZBLV91N19PbS1xZ3dtNkhTWDJ5Skc4WEIzM2JFRDAzUGpIRXZma3g5WE5GUEt4ZzdIQUo0OHlwNzc3RlAzTDNDVEg1WkNxc0QtdXpvWENjcUpaV2tSS2ZrTkY5TmVabkdlYjlPOXlnQVczbGR3c1otcE8tVzAtTlpmNVZydGdnZ0pJWjZEZVNDN1ZCdkEwTExjQ0lDV3UzNEkxWk5INmxqVEF3?oc=5",
+      "published": "2026-05-20T16:00:00",
+      "sentiment_score": 0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.883
+    },
+    {
+      "headline": "It\u2019s make or break time for AI labeling systems",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+      "published": "2026-05-20T14:17:20Z",
+      "sentiment_score": 0.034,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
+    },
+    {
+      "headline": "Fintech firm Mercury hits $5.2 billion valuation after funding round, up 49% in 14 months",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
+      "published": "2026-05-20T14:00:01Z",
+      "sentiment_score": 0.935,
+      "sentiment_label": "Positive",
+      "confidence": 0.948
+    },
+    {
+      "headline": "Elon Musk AKA Phony Stark Takes An L In Court Trying To Stop OpenAI",
+      "source": "Hip-Hop Wired",
+      "link": "https://hiphopwired.com/3054621/elon-musk-openai-lawsuit/",
+      "published": "2026-05-20T13:50:24Z",
+      "sentiment_score": -0.308,
+      "sentiment_label": "Neutral",
+      "confidence": 0.614
+    },
+    {
+      "headline": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "published": "2026-05-20T13:31:24Z",
+      "sentiment_score": -0.107,
+      "sentiment_label": "Neutral",
+      "confidence": 0.742
+    },
+    {
+      "headline": "GitHub says hackers stole data from thousands of internal repositories | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+      "published": "2026-05-20T13:28:53Z",
+      "sentiment_score": -0.826,
+      "sentiment_label": "Negative",
+      "confidence": 0.843
+    },
+    {
+      "headline": "Jeff Bezos brushes off concerns of an AI bubble 'you shouldn't worry about it'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/20/bezos-ai-bubble-concerns-amazon-prometheum-blue-origin.html",
+      "published": "2026-05-20T13:11:47Z",
+      "sentiment_score": 0.525,
+      "sentiment_label": "Positive",
+      "confidence": 0.596
+    },
+    {
+      "headline": "Figma adds an AI assistant to its collaborative canvas | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "published": "2026-05-20T13:02:40Z",
+      "sentiment_score": 0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
+      "headline": "Jeff Bezos says 2-3 year timeline for space data centers is a 'little ambitious'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/20/bezos-blue-origin-space-data-centers.html",
+      "published": "2026-05-20T12:55:07Z",
+      "sentiment_score": 0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.562
+    },
+    {
+      "headline": "College career path \u2018over\u2019 as skilled trade get 30% pay bump, recruitment giant says",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/20/ai-skills-randstad-college-trades-jobs-pay-bump.html",
+      "published": "2026-05-20T12:07:23Z",
+      "sentiment_score": 0.695,
+      "sentiment_label": "Positive",
+      "confidence": 0.714
+    },
+    {
+      "headline": "Treasury yields surge, Target earnings, 'doomjobbing' and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/20/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-05-20T11:57:44Z",
+      "sentiment_score": -0.052,
+      "sentiment_label": "Neutral",
+      "confidence": 0.885
     },
     {
       "headline": "US groups urge investigation into child safety and spending on Roblox",
@@ -252,6 +339,24 @@
       "confidence": 0.876
     },
     {
+      "headline": "Congrats, new grads! Welcome to job market hell.",
+      "source": "The Washington Post",
+      "link": "https://washingtonpost.com/technology/2026/05/20/ai-upends-job-market-new-college-graduates-who-studied-computer-science/",
+      "published": "2026-05-20T09:00:00Z",
+      "sentiment_score": -0.057,
+      "sentiment_label": "Neutral",
+      "confidence": 0.847
+    },
+    {
+      "headline": "Data Brokers\u2019 and AI Firms\u2019 Opt-Out Forms Are Built to Fail, Report Finds",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
+      "published": "2026-05-20T09:00:00Z",
+      "sentiment_score": -0.847,
+      "sentiment_label": "Negative",
+      "confidence": 0.859
+    },
+    {
       "headline": "Moburst Secures $11.8M Investment from Chrysalis Holdings to Accelerate Digital Capabilities and Client Growth",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/globenewswire-mobile/moburst-secures-11-8m-investment-from-chrysalis-holdings-to-accelerate-digital-capabilities-and-client-growth-57f9c5797caaf22ddf07e4572402a43d",
@@ -261,24 +366,6 @@
       "confidence": 0.886
     },
     {
-      "headline": "CNBC Daily Open: Stocks yield to bond market pressure",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/20/daily-open-stocks-yield-to-bond-market-pressure.html",
-      "published": "2026-05-20T05:57:06Z",
-      "sentiment_score": -0.943,
-      "sentiment_label": "Negative",
-      "confidence": 0.958
-    },
-    {
-      "headline": "'Ask YouTube' brings AI-powered conversational search to video, adds Gemini Omni to Shorts | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-      "published": "2026-05-20T05:48:57Z",
-      "sentiment_score": 0.062,
-      "sentiment_label": "Neutral",
-      "confidence": 0.911
-    },
-    {
       "headline": "Singapore inks AI deals with Google, OpenAI as ChatGPT-maker commits $234 million to local ecosystem",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/05/20/singapore-google-openai-ai-partnerships-lab-investment-chatgpt-ai-agents-atxsummit-mddi.html",
@@ -286,33 +373,6 @@
       "sentiment_score": 0.933,
       "sentiment_label": "Positive",
       "confidence": 0.947
-    },
-    {
-      "headline": "CNBC Daily Open: Bond markets and the Senate rebuke Trump as Iran war worries linger",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/20/cnbc-daily-open-bond-markets-and-the-senate-rebuke-trump-as-iran-war-worries-linger-.html",
-      "published": "2026-05-20T01:46:48Z",
-      "sentiment_score": -0.85,
-      "sentiment_label": "Negative",
-      "confidence": 0.913
-    },
-    {
-      "headline": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-      "published": "2026-05-19T22:53:04Z",
-      "sentiment_score": -0.743,
-      "sentiment_label": "Negative",
-      "confidence": 0.766
-    },
-    {
-      "headline": "OpenAI announces new Guaranteed Capacity offering for customers to secure compute",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html",
-      "published": "2026-05-19T21:56:12Z",
-      "sentiment_score": 0.746,
-      "sentiment_label": "Positive",
-      "confidence": 0.754
     },
     {
       "headline": "Google to release first smart glasses since Google Glass flop",
@@ -331,78 +391,6 @@
       "sentiment_score": 0.047,
       "sentiment_label": "Neutral",
       "confidence": 0.922
-    },
-    {
-      "headline": "The 13 biggest announcements at Google I/O 2026",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-      "published": "2026-05-19T18:04:04Z",
-      "sentiment_score": 0.186,
-      "sentiment_label": "Neutral",
-      "confidence": 0.785
-    },
-    {
-      "headline": "Google search updates: Company is making its biggest change to the search bar in years",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/05/19/tech/google-search-bar-updates-2026",
-      "published": "2026-05-19T17:59:32Z",
-      "sentiment_score": 0.302,
-      "sentiment_label": "Neutral",
-      "confidence": 0.675
-    },
-    {
-      "headline": "Google Search is getting its biggest changes ever",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-      "published": "2026-05-19T17:50:57Z",
-      "sentiment_score": 0.135,
-      "sentiment_label": "Neutral",
-      "confidence": 0.842
-    },
-    {
-      "headline": "Inside Google\u2019s Beam Lab, an AI face appears",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/933253/exclusive-google-beam-ai-video-agent-tour-group-chat-meet-zoom",
-      "published": "2026-05-19T17:49:14Z",
-      "sentiment_score": 0.0,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
-    },
-    {
-      "headline": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "published": "2026-05-19T17:48:39Z",
-      "sentiment_score": 0.198,
-      "sentiment_label": "Neutral",
-      "confidence": 0.781
-    },
-    {
-      "headline": "Google Search as you know it is over | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "published": "2026-05-19T17:48:01Z",
-      "sentiment_score": 0.294,
-      "sentiment_label": "Neutral",
-      "confidence": 0.677
-    },
-    {
-      "headline": "Google updates its Gemini app to take on ChatGPT and Claude | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
-      "published": "2026-05-19T17:45:34Z",
-      "sentiment_score": 0.541,
-      "sentiment_label": "Positive",
-      "confidence": 0.554
-    },
-    {
-      "headline": "Google's AI now lets you talk to your Gmail inbox | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
-      "published": "2026-05-19T17:45:00Z",
-      "sentiment_score": 0.182,
-      "sentiment_label": "Neutral",
-      "confidence": 0.795
     },
     {
       "headline": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
