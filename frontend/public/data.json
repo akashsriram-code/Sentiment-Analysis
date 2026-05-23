@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-23T02:07:05.682340",
+  "last_updated": "2026-05-23T08:08:38.024975",
   "total_articles": 38,
-  "overall_sentiment": 0.058,
+  "overall_sentiment": 0.141,
   "overall_label": "Positive",
   "daily_stats": [
     {
@@ -51,53 +51,56 @@
     },
     {
       "date": "2026-05-21",
-      "avg_sentiment": 0.01,
-      "article_count": 16,
-      "positive_count": 8,
-      "negative_count": 5,
-      "neutral_count": 3,
-      "moving_avg": -0.012
+      "avg_sentiment": 0.094,
+      "article_count": 12,
+      "positive_count": 7,
+      "negative_count": 3,
+      "neutral_count": 2,
+      "moving_avg": 0.002
     },
     {
       "date": "2026-05-22",
-      "avg_sentiment": 0.167,
-      "article_count": 10,
-      "positive_count": 6,
+      "avg_sentiment": 0.316,
+      "article_count": 12,
+      "positive_count": 8,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": 0.013
+      "moving_avg": 0.047
+    },
+    {
+      "date": "2026-05-23",
+      "avg_sentiment": 0.03,
+      "article_count": 2,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.045
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": 0.018,
+      "avg_sentiment": 0.029,
       "article_count": 12,
       "sentiment_label": "Neutral"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.29,
-      "article_count": 12,
+      "avg_sentiment": 0.444,
+      "article_count": 10,
       "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.23,
-      "article_count": 4,
+      "avg_sentiment": 0.219,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": 0.124,
+      "avg_sentiment": 0.123,
       "article_count": 2,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": -0.45,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
@@ -114,13 +117,31 @@
   ],
   "articles": [
     {
-      "headline": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+      "headline": "Marwell Zoo and University of Surrey launch AI camera project",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaR2hZMEd2UUZDWi1MY0ozcVc0dE5acVZRWlN1b0UzaHg3VGh4SGNWTm91bzA0aDFnZGVvMUg1aG9Ub2dOMVZSZkoyNHhJTjdBS3V3UWdnbGxmdw?oc=5",
+      "published": "2026-05-23T06:01:16",
+      "sentiment_score": 0.077,
+      "sentiment_label": "Neutral",
+      "confidence": 0.886
+    },
+    {
+      "headline": "The impact of artificial intelligence",
+      "source": "Thomson Reuters tax and accounting",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHpfU0RZWVh3anBRV0dNSi0zSU54U0UtaWcxV0NmVnprdHlnNVNfOTRWVFpvd21EelV2T2tWYll0emtEUTN1UGxHVnJpVHdLYTJhdHJfNl9tNjlHdWZGZ2lKb0NIaEZvaENUemFhMEVtS1VXZEVrVUtpa1M1Q3ZoVHlNUWFBazlKNDA3SUQ3LUdIcllT?oc=5",
+      "published": "2026-05-23T03:33:45",
+      "sentiment_score": -0.016,
+      "sentiment_label": "Neutral",
+      "confidence": 0.938
+    },
+    {
+      "headline": "AI may speed up search for drugs to treat brain conditions",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-22T21:30:06",
-      "sentiment_score": 0.758,
+      "sentiment_score": 0.893,
       "sentiment_label": "Positive",
-      "confidence": 0.767
+      "confidence": 0.902
     },
     {
       "headline": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
@@ -168,22 +189,40 @@
       "confidence": 0.57
     },
     {
-      "headline": "Lenovo shares jump nearly 20% on record earnings as AI revenue nearly doubles",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGx3VHhxOEs3QTFPLUZ5YUtKVkYyQS1qLUpuVWJob2N4SERLeFltUFRDMEtYaHBrdXpEU0FwMl9nd01pSzF0c2VpanpQZEptb05vb0JibWtwQk5yZmtIdHRvX1duVmVtN2FidER0c0lHRFl2NzVXa3hXNjdoZVM2Z2dSTjRyUXBVand4TEtKNHdHLWJmcW40RjFSaXRzWnpmMUdFaGMya2JmQVRxdHhiQkV6TdIBuAFBVV95cUxQRXV6QTM2bWREaG5PS2RpeDVCRHljTlZ2YVItRzREeDJLMGFsVGpkVXpUa1B5aHMxaGMxTng1dXJBVHFodHI1ZC1Ec1lveFAtb0pOR29rVGI2clZrSjJ3ZldMdHRhMUFOeVRRVlB2TGthektuRzdqRFk5VHdiN0FCNHVWdHdCR3pBWGRuZW4xam5Uc01fRlRSbkhlNm5ZTEZla2NMUUQzdFNmNHJJd195YlhxdzhCekJL?oc=5",
-      "published": "2026-05-22T05:00:42",
-      "sentiment_score": 0.541,
+      "headline": "Capital Group increases Adani bets while reducing Reliance exposure",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-22/capital-group-builds-2-billion-adani-bet-in-pivot-from-reliance",
+      "published": "2026-05-22T06:49:09Z",
+      "sentiment_score": 0.938,
       "sentiment_label": "Positive",
-      "confidence": 0.727
+      "confidence": 0.953
     },
     {
-      "headline": "CNBC Daily Open: Dow at all-time high as Iran reviews peace deal",
+      "headline": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "published": "2026-05-22T06:43:59Z",
+      "sentiment_score": 0.171,
+      "sentiment_label": "Neutral",
+      "confidence": 0.794
+    },
+    {
+      "headline": "CNBC Daily Open: Wall Street set for a winning week",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/22/oil-markets-ease-after-trump-gives-tehran-more-time.html",
-      "published": "2026-05-22T01:32:47Z",
-      "sentiment_score": 0.33,
+      "link": "https://www.cnbc.com/2026/05/22/cnbc-daily-open-wall-street-set-for-a-winning-week.html",
+      "published": "2026-05-22T05:59:17Z",
+      "sentiment_score": 0.833,
       "sentiment_label": "Positive",
-      "confidence": 0.637
+      "confidence": 0.897
+    },
+    {
+      "headline": "Lenovo shares jump 15% on record earnings as AI revenue nearly doubles",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/22/lenovo-shares-jump-15percent-on-record-earnings-as-ai-revenue-nearly-doubles.html",
+      "published": "2026-05-22T05:00:42Z",
+      "sentiment_score": 0.919,
+      "sentiment_label": "Positive",
+      "confidence": 0.948
     },
     {
       "headline": "SoftBank extends scorching rally, surging over 12%, as investors crowd into AI trade",
@@ -213,24 +252,6 @@
       "confidence": 0.914
     },
     {
-      "headline": "Artera Presents Multiple ASCO 2026 Abstracts on Multimodal AI (MMAI) Risk Stratification and Treatment Decisions in Cancer",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/artera-presents-multiple-asco-2026-abstracts-on-multimodal-ai-mmai-risk-stratification-and-treatment-decisions-in-cancer-ba4e1d892fa142f3acd88dce72f40c71",
-      "published": "2026-05-21T21:16:28Z",
-      "sentiment_score": 0.045,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
-    },
-    {
-      "headline": "Job training for robots: China is getting machines ready to work",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html",
-      "published": "2026-05-21T21:13:10Z",
-      "sentiment_score": 0.38,
-      "sentiment_label": "Neutral",
-      "confidence": 0.591
-    },
-    {
       "headline": "Meta settles social media addiction case with US school district",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
@@ -238,15 +259,6 @@
       "sentiment_score": -0.075,
       "sentiment_label": "Neutral",
       "confidence": 0.741
-    },
-    {
-      "headline": "Trump calls off AI executive order over concern it could weaken US tech edge",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/trump-ai-executive-order-ee318f35acc8a2c43e47f3ebf26cb459",
-      "published": "2026-05-21T20:28:00Z",
-      "sentiment_score": -0.946,
-      "sentiment_label": "Negative",
-      "confidence": 0.956
     },
     {
       "headline": "Workday jumps 10% as it bumps up margin forecast on AI strength",
@@ -283,15 +295,6 @@
       "sentiment_score": 0.029,
       "sentiment_label": "Neutral",
       "confidence": 0.9
-    },
-    {
-      "headline": "Oura, smart ring maker, confidentially files for IPO",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/21/oura-smart-ring-ipo-filing.html",
-      "published": "2026-05-21T18:31:34Z",
-      "sentiment_score": -0.453,
-      "sentiment_label": "Neutral",
-      "confidence": 0.504
     },
     {
       "headline": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
@@ -357,13 +360,13 @@
       "confidence": 0.899
     },
     {
-      "headline": "OpenAI Prepares to File for an I.P.O. in Coming Weeks",
+      "headline": "OpenAI Prepares to File to Go Public in Coming Weeks",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qcklkTzJFdzZvREs4Ukc2SWM1X1J2dVE1MTUxcU90a1N1NUFWR3ZtOWt6SFZKekthZ2huSlpXRnJ1TDViY1NlcWQ2NUMxaU9tcHUzLUVhRnl6R0pkR1plZHhPVW5WWEhfSTVJZEhn?oc=5",
       "published": "2026-05-20T17:10:47",
-      "sentiment_score": -0.002,
+      "sentiment_score": -0.003,
       "sentiment_label": "Neutral",
-      "confidence": 0.942
+      "confidence": 0.944
     },
     {
       "headline": "OpenAI to confidentially file for IPO as soon as Friday: Source",
