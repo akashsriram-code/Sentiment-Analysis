@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-23T08:08:38.024975",
+  "last_updated": "2026-05-23T13:02:19.850812",
   "total_articles": 38,
-  "overall_sentiment": 0.141,
-  "overall_label": "Positive",
+  "overall_sentiment": 0.05,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-05-02",
@@ -42,39 +42,39 @@
     },
     {
       "date": "2026-05-20",
-      "avg_sentiment": 0.04,
-      "article_count": 5,
+      "avg_sentiment": -0.119,
+      "article_count": 6,
       "positive_count": 2,
-      "negative_count": 0,
+      "negative_count": 1,
       "neutral_count": 3,
-      "moving_avg": -0.017
+      "moving_avg": -0.048
     },
     {
       "date": "2026-05-21",
-      "avg_sentiment": 0.094,
+      "avg_sentiment": 0.025,
+      "article_count": 9,
+      "positive_count": 3,
+      "negative_count": 3,
+      "neutral_count": 3,
+      "moving_avg": -0.036
+    },
+    {
+      "date": "2026-05-22",
+      "avg_sentiment": 0.18,
       "article_count": 12,
       "positive_count": 7,
       "negative_count": 3,
       "neutral_count": 2,
-      "moving_avg": 0.002
-    },
-    {
-      "date": "2026-05-22",
-      "avg_sentiment": 0.316,
-      "article_count": 12,
-      "positive_count": 8,
-      "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": 0.047
+      "moving_avg": -0.005
     },
     {
       "date": "2026-05-23",
-      "avg_sentiment": 0.03,
-      "article_count": 2,
+      "avg_sentiment": 0.011,
+      "article_count": 4,
       "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": 0.045
+      "neutral_count": 3,
+      "moving_avg": -0.01
     }
   ],
   "source_stats": [
@@ -86,20 +86,20 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.444,
+      "avg_sentiment": 0.239,
       "article_count": 10,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.219,
-      "article_count": 5,
-      "sentiment_label": "Positive"
+      "source": "The New York Times",
+      "avg_sentiment": -0.008,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.123,
-      "article_count": 2,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.323,
+      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
@@ -117,19 +117,37 @@
   ],
   "articles": [
     {
-      "headline": "Marwell Zoo and University of Surrey launch AI camera project",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaR2hZMEd2UUZDWi1MY0ozcVc0dE5acVZRWlN1b0UzaHg3VGh4SGNWTm91bzA0aDFnZGVvMUg1aG9Ub2dOMVZSZkoyNHhJTjdBS3V3UWdnbGxmdw?oc=5",
-      "published": "2026-05-23T06:01:16",
-      "sentiment_score": 0.077,
+      "headline": "\u2018Remove illegals,\u2019 the campaign ad said. Its funder: The AI lobby.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmd2cmJYU1g5cmVWd2NlbnYtdC1YUV9xUUdhMVlrSnNfR0djeWxfY1ZvdGxkb2pwVHJubE9FaGdEeVVGSGN5M2tsRjFYelBGa1k0LWJjSzFEM244dS0ycFptYzNyQ1hYT3ZwR1JTZFVkdDlrUkpBVmotVGQ2a1VPck1kbGtBRlRBam9BRmItZmpSaF9aWnJqUmtVeG9ScVVtOTRSYWU3b1ZTTGRrWmRmZlF1M3QzcTVudEN3Ug?oc=5",
+      "published": "2026-05-23T12:03:52",
+      "sentiment_score": -0.017,
       "sentiment_label": "Neutral",
-      "confidence": 0.886
+      "confidence": 0.874
+    },
+    {
+      "headline": "Opinion | The New A.I. Money Should Be Spent on Beauty",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXNMQkxvMHdHQ201OU1QRVZrZlJOcmVyemhnWkM2cDF5UDRpZDFkNDBHUl9ia0tDT2N1YjJ5WXlKeFo5QzVEaUNoSGNkcjNzeWFYTnRZV29md2RaSnJ6OWhTTTBNWmQzRmZyems4LV9LeUpycDBINUtCRDFUR284Y2dwTFFKMG1IeE0zMnNQSFlrSmVKREE?oc=5",
+      "published": "2026-05-23T11:00:10",
+      "sentiment_score": 0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.869
+    },
+    {
+      "headline": "\u2018You can\u2019t control everything\u2019: the rise in plastic surgeons asked to create \u2018AI face\u2019",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0stY2o2clZIVjFPZlBSRzRobzhyZUliYk95STJWNWFEQXRKVWpVSlVUcFA5YXc2Smc5R2NmUFZHSG9CbmJyQUdkZnVMbjd6U2Y0ZGpEMlhuRG9ONUluMWE1eVRMTG9aUHU3LUhibGdnRG1Xd1k5QlJHZXJTMjhVMGU0cHlDaEpfajl1QTNqLVk1NDZEbDBuc3NaVnRFZjRJOVRJYnZwbEhiM3kxQVdZYUJvUFMyUmM?oc=5",
+      "published": "2026-05-23T11:00:00",
+      "sentiment_score": -0.015,
+      "sentiment_label": "Neutral",
+      "confidence": 0.839
     },
     {
       "headline": "The impact of artificial intelligence",
       "source": "Thomson Reuters tax and accounting",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHpfU0RZWVh3anBRV0dNSi0zSU54U0UtaWcxV0NmVnprdHlnNVNfOTRWVFpvd21EelV2T2tWYll0emtEUTN1UGxHVnJpVHdLYTJhdHJfNl9tNjlHdWZGZ2lKb0NIaEZvaENUemFhMEVtS1VXZEVrVUtpa1M1Q3ZoVHlNUWFBazlKNDA3SUQ3LUdIcllT?oc=5",
-      "published": "2026-05-23T03:33:45",
+      "published": "2026-05-23T03:36:57",
       "sentiment_score": -0.016,
       "sentiment_label": "Neutral",
       "confidence": 0.938
@@ -142,15 +160,6 @@
       "sentiment_score": 0.893,
       "sentiment_label": "Positive",
       "confidence": 0.902
-    },
-    {
-      "headline": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFd6ZjZtTlZRWTlNSGVJRThxbnBOTDdLT1hybWdYYW9MdS1TcG9rTTlBc1d2MmxNdE5NT0pEM192d1B1cE8ydGN3dkZXUHpTMXYzYVlxS0pDRlhNTjE4MndqaXNRQWZadHBlOVppUjJ1R0ZJa0RzSVlkNXFNM2JhNUdjcGZUZ1h1Rnc?oc=5",
-      "published": "2026-05-22T21:27:29",
-      "sentiment_score": 0.25,
-      "sentiment_label": "Neutral",
-      "confidence": 0.715
     },
     {
       "headline": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
@@ -171,6 +180,24 @@
       "confidence": 0.92
     },
     {
+      "headline": "Opinion | A.I. Is a Job Creator",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQREhDYnI2N05oSUlpU25vNkJUWFpKQ2o0bHI0MEh4enMzaFJHdGdJUldMRjNaa0V3MmZDWDN3LWM1UU1wTGFEcTRlWDZocmplQzB4N05NRTBBUTdxQ2VlaWY5N2preVBxaTZzNkRhNE52eTUtZXM1Wmgzd0Izek1TeQ?oc=5",
+      "published": "2026-05-22T15:00:07",
+      "sentiment_score": -0.113,
+      "sentiment_label": "Neutral",
+      "confidence": 0.823
+    },
+    {
+      "headline": "Microsoft\u2019s GitHub was positioned to win the AI coding race. Outages got in the way",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html",
+      "published": "2026-05-22T12:20:58Z",
+      "sentiment_score": 0.326,
+      "sentiment_label": "Positive",
+      "confidence": 0.573
+    },
+    {
       "headline": "'At a loss for words' - Destiny 2 fans react to news support is ending",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
@@ -180,22 +207,31 @@
       "confidence": 0.689
     },
     {
-      "headline": "Microsoft\u2019s GitHub was positioned to win the AI coding race. Outages got in the way",
+      "headline": "Stellantis' turnaround plan, prediction market regulation, Oura's IPO filing and more in Morning Squawk",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUJKSUdnR29SaU9DTDRzVmFmeHFLeWJBWEo1cmkwMjhFNVc4bk1WUlhCLUZkdFJlcjR0SkR0OUpZcE8wX2VnNWZuZExmWHhDQk00VWhuakp4US12RnJwTDFrbng0REVRMks1QWtPSFh0TjRfNmw0UlFZLVZqNnpVYUVqNEI1RmdvWlVwai0wTEtGaFlKSkhTcEhwMkUzckt5WGRKZTZTTdIBrAFBVV95cUxQWDJkRmhkMC1iNmdrTzJzR0J3N19GNkdleklHbk9OZGwzVjRQd0w2X3JCSEM0Y0dfbl9jc2dSNGJxWWtIWHdlY1l6Y09iaEFwVHdYSzNYRXlJTkRyNFV1TWxqLXZrM1dQOG1uOXgwRGJvUVZBQnNGaVZfMG9BLUVrWXlpQ0p4N01jcnhJZVE1MXdfWTJFeElOU3lPTE82d2JfU09RcWt6Q2x1bGgx?oc=5",
-      "published": "2026-05-22T12:00:01",
-      "sentiment_score": -0.163,
+      "link": "https://www.cnbc.com/2026/05/22/5-thing-to-know-before-the-market-opens.html",
+      "published": "2026-05-22T12:02:56Z",
+      "sentiment_score": -0.022,
       "sentiment_label": "Neutral",
-      "confidence": 0.57
+      "confidence": 0.919
     },
     {
-      "headline": "Capital Group increases Adani bets while reducing Reliance exposure",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-22/capital-group-builds-2-billion-adani-bet-in-pivot-from-reliance",
-      "published": "2026-05-22T06:49:09Z",
-      "sentiment_score": 0.938,
+      "headline": "The Tech Download: What you might have missed in Nvidia\u2019s earnings \u2014 a $200 billion opportunity and edge computing",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/22/the-tech-download-what-you-might-have-missed-in-nvidias-earnings.html",
+      "published": "2026-05-22T11:00:01Z",
+      "sentiment_score": 0.733,
       "sentiment_label": "Positive",
-      "confidence": 0.953
+      "confidence": 0.848
+    },
+    {
+      "headline": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
+      "published": "2026-05-22T10:20:05Z",
+      "sentiment_score": 0.211,
+      "sentiment_label": "Neutral",
+      "confidence": 0.754
     },
     {
       "headline": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market | TechCrunch",
@@ -205,24 +241,6 @@
       "sentiment_score": 0.171,
       "sentiment_label": "Neutral",
       "confidence": 0.794
-    },
-    {
-      "headline": "CNBC Daily Open: Wall Street set for a winning week",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/22/cnbc-daily-open-wall-street-set-for-a-winning-week.html",
-      "published": "2026-05-22T05:59:17Z",
-      "sentiment_score": 0.833,
-      "sentiment_label": "Positive",
-      "confidence": 0.897
-    },
-    {
-      "headline": "Lenovo shares jump 15% on record earnings as AI revenue nearly doubles",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/22/lenovo-shares-jump-15percent-on-record-earnings-as-ai-revenue-nearly-doubles.html",
-      "published": "2026-05-22T05:00:42Z",
-      "sentiment_score": 0.919,
-      "sentiment_label": "Positive",
-      "confidence": 0.948
     },
     {
       "headline": "SoftBank extends scorching rally, surging over 12%, as investors crowd into AI trade",
@@ -241,15 +259,6 @@
       "sentiment_score": 0.126,
       "sentiment_label": "Neutral",
       "confidence": 0.729
-    },
-    {
-      "headline": "Who will benefit most from SpaceX IPO? Mostly Elon \u2014 and a few from his inner circle | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-      "published": "2026-05-21T21:40:37Z",
-      "sentiment_score": 0.065,
-      "sentiment_label": "Neutral",
-      "confidence": 0.914
     },
     {
       "headline": "Meta settles social media addiction case with US school district",
@@ -297,33 +306,6 @@
       "confidence": 0.9
     },
     {
-      "headline": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
-      "published": "2026-05-21T18:26:35Z",
-      "sentiment_score": 0.32,
-      "sentiment_label": "Neutral",
-      "confidence": 0.644
-    },
-    {
-      "headline": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
-      "published": "2026-05-21T18:02:33Z",
-      "sentiment_score": 0.469,
-      "sentiment_label": "Neutral",
-      "confidence": 0.513
-    },
-    {
-      "headline": "This young startup is taking on a fragrance industry that hasn't changed in a almost half century | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-      "published": "2026-05-21T16:00:00Z",
-      "sentiment_score": 0.06,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
-    },
-    {
       "headline": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
@@ -351,6 +333,15 @@
       "confidence": 0.943
     },
     {
+      "headline": "Watch The Next Phase of Artificial Intelligence",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHNtS1JreDRkcmpQN3dReFp6WTJzaGhQYklQRzl2VW9EUFkxNEZxcDZzbmlqMUxZdDJ1RS0tXzhwREt6RkFjLUNndVBnblZCMWs2dk8xWmlZbk1sZVA2VU9TZVhyMEJaZ3I0Q3dPaGpSZmh3WUVtQjM4UlJsUlEtODFqeFFUYnZ6eUdHakU5OVktejZD?oc=5",
+      "published": "2026-05-21T00:00:00",
+      "sentiment_score": 0.01,
+      "sentiment_label": "Neutral",
+      "confidence": 0.946
+    },
+    {
       "headline": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVN6cWNQajcyeVJ3YlZucmpYNURPaU5LTXZwM3ZKRVNjQlNZZHpGY1ZhelFmVVhRX2dGemZDdTNtSzcweVlPWGdnYmo2RFZHcFhpRUhobjhXSHlvNDV3bjc4ZjdNN0E5bTlJVDg2cDBSbUpGaTZ4S296OF9GVVdKSmhreVhMVTBqejM3SkdaczVvMjBLTVlIQTV0WnNqMVotWHlxUzlBWnNwNmxyNjJpaGxIVTY2SUxOd2dsQlZjZjBWU2xvYzhrYtIBzgFBVV95cUxPbnFwZm9YTW5QSGtpSXNsWTV3WUVQTmxaN2x5b1NOcEI0a013U1FKMTN6YWF3NDNOaFZudThmRWpZUk9tdF9fbzdjRkVGWjh6Wms0LUtHZjVTWGZRQURjdkhLOFVTbjNZR2NwQURCbWtWdkJyeDJVX3VPLXBwOXZQaG9PYXVsNVpZdmg1RV9Kemp3ZjBIX2F6NUJoVmw2TVR5Yi1YOFllZjNjQnNYdkRwcGFCMmVXTW5Qc2FpN0x3ZnhvTEU4dUpIX3g2RVdmQQ?oc=5",
@@ -358,6 +349,15 @@
       "sentiment_score": 0.064,
       "sentiment_label": "Neutral",
       "confidence": 0.899
+    },
+    {
+      "headline": "Cheap AI could derail OpenAI and Anthropic's IPOs",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekJtc1JqLXF1WHcxb3RSc2Q0QjRvZEoyeVdILVVjcmhCck5pd19wcFZNTkZnSEJWY1V0Zk50S2htWEJzRXU2eXp0akgyQzgyVWhfWFU5dzFOVlpLR2RTaTNLNlExcENLNThDTUUyVHZuWHhOUHhrVlR3a0pyc3ByX0FRZVptZGdWSW0za2hB0gGTAUFVX3lxTE45NDQ2anpvc01lU0NwMDRzX3UwZVFMWXlFaTB2cWM2NEpoNUVOU0lLMmN6ME5WQVFLVXNQaFprWXVfWnpCWXpiY0lMWjFUdl9DakQtRGV3enRBdXU0d2FNUXVIb1NVdExFV1owbDZfS3pHajdGNzdKeXFMcENiYmZ5VmJUbkx5NDlXSmZ3dkItRldXOA?oc=5",
+      "published": "2026-05-20T17:42:11",
+      "sentiment_score": -0.91,
+      "sentiment_label": "Negative",
+      "confidence": 0.921
     },
     {
       "headline": "OpenAI Prepares to File to Go Public in Coming Weeks",
