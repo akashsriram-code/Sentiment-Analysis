@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-05-24T02:15:38.168128",
-  "total_articles": 42,
-  "overall_sentiment": -0.049,
+  "last_updated": "2026-05-24T08:18:12.410834",
+  "total_articles": 41,
+  "overall_sentiment": -0.005,
   "overall_label": "Neutral",
   "daily_stats": [
-    {
-      "date": "2026-02-11",
-      "avg_sentiment": -0.878,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.878
-    },
     {
       "date": "2026-05-02",
       "avg_sentiment": 0.044,
@@ -20,7 +11,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.417
+      "moving_avg": 0.044
     },
     {
       "date": "2026-05-15",
@@ -29,7 +20,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.259
+      "moving_avg": 0.05
     },
     {
       "date": "2026-05-19",
@@ -38,50 +29,59 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.169
+      "moving_avg": 0.067
     },
     {
       "date": "2026-05-20",
-      "avg_sentiment": -0.113,
-      "article_count": 6,
+      "avg_sentiment": -0.14,
+      "article_count": 5,
       "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 3,
-      "moving_avg": -0.158
+      "neutral_count": 2,
+      "moving_avg": 0.015
     },
     {
       "date": "2026-05-21",
-      "avg_sentiment": -0.166,
-      "article_count": 5,
+      "avg_sentiment": 0.027,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.16
+      "moving_avg": 0.017
     },
     {
       "date": "2026-05-22",
-      "avg_sentiment": 0.042,
-      "article_count": 16,
+      "avg_sentiment": -0.015,
+      "article_count": 17,
       "positive_count": 5,
-      "negative_count": 5,
+      "negative_count": 6,
       "neutral_count": 6,
-      "moving_avg": -0.131
+      "moving_avg": 0.012
     },
     {
       "date": "2026-05-23",
-      "avg_sentiment": -0.127,
+      "avg_sentiment": -0.003,
       "article_count": 7,
-      "positive_count": 2,
-      "negative_count": 2,
-      "neutral_count": 3,
-      "moving_avg": -0.023
+      "positive_count": 3,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": 0.01
+    },
+    {
+      "date": "2026-05-24",
+      "avg_sentiment": 0.095,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.017
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": 0.029,
-      "article_count": 12,
+      "avg_sentiment": 0.022,
+      "article_count": 13,
       "sentiment_label": "Neutral"
     },
     {
@@ -98,14 +98,20 @@
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.302,
-      "article_count": 4,
+      "avg_sentiment": -0.111,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "WSJ",
-      "avg_sentiment": 0.019,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.333,
       "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": 0.017,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
@@ -113,15 +119,18 @@
       "avg_sentiment": -0.761,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.035,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "\u2018AI washing\u2019: firms are scrambling to rebrand themselves as tech-focused",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtoZ2dmNnRiVU1CWElsR21TY3JaZThucU1aRWpmeDZQRm1uUGxqcXR0ZVFibTRENEtwUGNRcnZkWXk1Yk43Q21BUXZvX0tjSG15QzB0S3JLa051OGI1LTVNR3dmZk5XNl96OTNXU2FFb0tpQVFtWGZoeEV4VXpGTUpnTE50X1lOM1NZTVJnUEs1Ync?oc=5",
+      "published": "2026-05-24T06:00:00",
+      "sentiment_score": 0.095,
+      "sentiment_label": "Neutral",
+      "confidence": 0.821
+    },
     {
       "headline": "Video: Opinion | Graduating Into A.I. Pessimism",
       "source": "The New York Times",
@@ -130,15 +139,6 @@
       "sentiment_score": -0.396,
       "sentiment_label": "Neutral",
       "confidence": 0.536
-    },
-    {
-      "headline": "\u2018It\u2019s called winning\u2019: Why a tech industry super PAC is running ads about ICE",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmd2cmJYU1g5cmVWd2NlbnYtdC1YUV9xUUdhMVlrSnNfR0djeWxfY1ZvdGxkb2pwVHJubE9FaGdEeVVGSGN5M2tsRjFYelBGa1k0LWJjSzFEM244dS0ycFptYzNyQ1hYT3ZwR1JTZFVkdDlrUkpBVmotVGQ2a1VPck1kbGtBRlRBam9BRmItZmpSaF9aWnJqUmtVeG9ScVVtOTRSYWU3b1ZTTGRrWmRmZlF1M3QzcTVudEN3Ug?oc=5",
-      "published": "2026-05-23T16:00:00",
-      "sentiment_score": 0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.918
     },
     {
       "headline": "Venture Capitalist John Doerr Says AI Is the Biggest Tech \u2018Tsunami\u2019 Ever",
@@ -168,13 +168,22 @@
       "confidence": 0.895
     },
     {
-      "headline": "\u2018You can\u2019t control everything\u2019: the rise in plastic surgeons asked to create \u2018AI face\u2019",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0stY2o2clZIVjFPZlBSRzRobzhyZUliYk95STJWNWFEQXRKVWpVSlVUcFA5YXc2Smc5R2NmUFZHSG9CbmJyQUdkZnVMbjd6U2Y0ZGpEMlhuRG9ONUluMWE1eVRMTG9aUHU3LUhibGdnRG1Xd1k5QlJHZXJTMjhVMGU0cHlDaEpfajl1QTNqLVk1NDZEbDBuc3NaVnRFZjRJOVRJYnZwbEhiM3kxQVdZYUJvUFMyUmM?oc=5",
-      "published": "2026-05-23T11:00:00",
-      "sentiment_score": -0.015,
+      "headline": "Peec, one of Berlin\u2019s rising startups, more than doubled annualized revenue in months to $10M, sources say | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+      "published": "2026-05-23T07:02:48Z",
+      "sentiment_score": 0.928,
+      "sentiment_label": "Positive",
+      "confidence": 0.944
+    },
+    {
+      "headline": "SpaceX launches massive Starship V3 rocket on test flight",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c62d65y16nno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-05-23T04:21:05Z",
+      "sentiment_score": -0.07,
       "sentiment_label": "Neutral",
-      "confidence": 0.839
+      "confidence": 0.749
     },
     {
       "headline": "The impact of artificial intelligence",
@@ -330,6 +339,15 @@
       "confidence": 0.919
     },
     {
+      "headline": "Breakingviews - OpenAI\u2019s IPO has a Sam Altman problem",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDVqZUpkbHdkWXFXNzZRcmE0LTlFeVpmTHZZaXM1TWM3dTdoUEM2MVZINVp0UnptV0djWTNZbGwtOV9qZWpUUTljOGQ2VDRBVE5nVkc5d2V4ZlRLdHZQeFM1Y3ZZdVVSR1dtMWtudTNDeDVSQlNaYjF6VjhjNml3al9HZVBLbVppQzJsWklBT0h0d1FSTUVTUU0tTQ?oc=5",
+      "published": "2026-05-22T07:00:00",
+      "sentiment_score": -0.935,
+      "sentiment_label": "Negative",
+      "confidence": 0.943
+    },
+    {
       "headline": "Meta settles social media addiction case with US school district",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
@@ -357,17 +375,8 @@
       "confidence": 0.934
     },
     {
-      "headline": "Breakingviews - OpenAI\u2019s IPO has a Sam Altman problem",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDVqZUpkbHdkWXFXNzZRcmE0LTlFeVpmTHZZaXM1TWM3dTdoUEM2MVZINVp0UnptV0djWTNZbGwtOV9qZWpUUTljOGQ2VDRBVE5nVkc5d2V4ZlRLdHZQeFM1Y3ZZdVVSR1dtMWtudTNDeDVSQlNaYjF6VjhjNml3al9HZVBLbVppQzJsWklBT0h0d1FSTUVTUU0tTQ?oc=5",
-      "published": "2026-05-21T05:00:00",
-      "sentiment_score": -0.935,
-      "sentiment_label": "Negative",
-      "confidence": 0.943
-    },
-    {
       "headline": "Watch The Next Phase of Artificial Intelligence",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHNtS1JreDRkcmpQN3dReFp6WTJzaGhQYklQRzl2VW9EUFkxNEZxcDZzbmlqMUxZdDJ1RS0tXzhwREt6RkFjLUNndVBnblZCMWs2dk8xWmlZbk1sZVA2VU9TZVhyMEJaZ3I0Q3dPaGpSZmh3WUVtQjM4UlJsUlEtODFqeFFUYnZ6eUdHakU5OVktejZD?oc=5",
       "published": "2026-05-21T00:00:00",
       "sentiment_score": 0.01,
@@ -382,15 +391,6 @@
       "sentiment_score": 0.064,
       "sentiment_label": "Neutral",
       "confidence": 0.899
-    },
-    {
-      "headline": "Exclusive | OpenAI Is Preparing to File for an IPO Very Soon",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRenYyMXEyVGhlMnlXNi1pb2xaVlRURFNaYW5NUGdERVB4WVdQa2dfYWVoNjdJYXcwUVRjQ0FpTzZBdnVMUHZQRktvYUROdWdEYVRGbm1TNDJraGVXYkpiQ3ZrZ21oM25wVkpZ?oc=5",
-      "published": "2026-05-20T17:43:00",
-      "sentiment_score": 0.023,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
     },
     {
       "headline": "Cheap AI could derail OpenAI and Anthropic's IPOs",
@@ -490,15 +490,6 @@
       "sentiment_score": 0.044,
       "sentiment_label": "Neutral",
       "confidence": 0.915
-    },
-    {
-      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
-      "published": "2026-02-11T08:00:00",
-      "sentiment_score": -0.878,
-      "sentiment_label": "Negative",
-      "confidence": 0.891
     }
   ]
 }
