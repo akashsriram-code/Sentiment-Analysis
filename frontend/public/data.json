@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-05-23T18:57:26.166472",
-  "total_articles": 41,
-  "overall_sentiment": -0.01,
+  "last_updated": "2026-05-24T02:15:38.168128",
+  "total_articles": 42,
+  "overall_sentiment": -0.049,
   "overall_label": "Neutral",
   "daily_stats": [
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.878
+    },
     {
       "date": "2026-05-02",
       "avg_sentiment": 0.044,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.044
+      "moving_avg": -0.417
     },
     {
       "date": "2026-05-15",
@@ -20,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.05
+      "moving_avg": -0.259
     },
     {
       "date": "2026-05-19",
@@ -29,7 +38,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": 0.067
+      "moving_avg": -0.169
     },
     {
       "date": "2026-05-20",
@@ -38,7 +47,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 3,
-      "moving_avg": 0.022
+      "moving_avg": -0.158
     },
     {
       "date": "2026-05-21",
@@ -47,25 +56,25 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.016
+      "moving_avg": -0.16
     },
     {
       "date": "2026-05-22",
-      "avg_sentiment": 0.059,
-      "article_count": 18,
-      "positive_count": 7,
+      "avg_sentiment": 0.042,
+      "article_count": 16,
+      "positive_count": 5,
       "negative_count": 5,
       "neutral_count": 6,
-      "moving_avg": -0.003
+      "moving_avg": -0.131
     },
     {
       "date": "2026-05-23",
-      "avg_sentiment": -0.11,
-      "article_count": 5,
-      "positive_count": 1,
-      "negative_count": 1,
+      "avg_sentiment": -0.127,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 3,
-      "moving_avg": -0.019
+      "moving_avg": -0.023
     }
   ],
   "source_stats": [
@@ -76,28 +85,28 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.076,
-      "article_count": 8,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "The Verge",
-      "avg_sentiment": -0.22,
-      "article_count": 6,
+      "avg_sentiment": -0.189,
+      "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.105,
-      "article_count": 3,
+      "source": "CNBC",
+      "avg_sentiment": 0.094,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.08,
+      "source": "The New York Times",
+      "avg_sentiment": -0.302,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": 0.019,
       "article_count": 3,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     },
     {
       "source": "Reuters",
@@ -106,13 +115,22 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "WSJ",
-      "avg_sentiment": 0.001,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.035,
       "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "Video: Opinion | Graduating Into A.I. Pessimism",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdlRRY3JQRzM2a3N5WnhoczN3bl9zbW9tVUY4S3lwUUpKbThzYjRMdGZ3bkF3RWNQMWUwR1VVREtLQ21EVUdFU3RROTdqcDIta0JOOXJpOWxqNzBxanZpRk9oUEF6NGViaDVZRGVIQVgwZnQ0OFEwd3ctVjk4aWJXV1Q4eWtDVHlaRGJVOVJvVFY?oc=5",
+      "published": "2026-05-23T21:29:16",
+      "sentiment_score": -0.396,
+      "sentiment_label": "Neutral",
+      "confidence": 0.536
+    },
     {
       "headline": "\u2018It\u2019s called winning\u2019: Why a tech industry super PAC is running ads about ICE",
       "source": "The Washington Post",
@@ -121,6 +139,15 @@
       "sentiment_score": 0.003,
       "sentiment_label": "Neutral",
       "confidence": 0.918
+    },
+    {
+      "headline": "Venture Capitalist John Doerr Says AI Is the Biggest Tech \u2018Tsunami\u2019 Ever",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nTVFscU9rVklYRE1EQ0k2SnR3MURkV0IyeUUxTEtXX1hzdmNfcUlvN3RfX2ZjcnVtVXpXZXVlTTJOQ0c5ZXFkZmJBR0UyUnVkSzdzUnpxQ1A0R1lqdTVUZWVMTkEzQ21PaFE?oc=5",
+      "published": "2026-05-23T15:00:00",
+      "sentiment_score": 0.054,
+      "sentiment_label": "Neutral",
+      "confidence": 0.885
     },
     {
       "headline": "China's DeepSeek to make permanent 75% price cut on flagship V4\u2011Pro AI model",
@@ -159,6 +186,33 @@
       "confidence": 0.938
     },
     {
+      "headline": "Google\u2019s new anything-to-anything AI model is wild",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "published": "2026-05-22T23:49:26Z",
+      "sentiment_score": -0.002,
+      "sentiment_label": "Neutral",
+      "confidence": 0.921
+    },
+    {
+      "headline": "UMG, TikTok Announce New Global Licensing Partnership",
+      "source": "Hip-Hop Wired",
+      "link": "https://hiphopwired.com/3054882/umg-tiktok-announce-new-global-licensing-partnership/",
+      "published": "2026-05-22T22:25:37Z",
+      "sentiment_score": 0.89,
+      "sentiment_label": "Positive",
+      "confidence": 0.9
+    },
+    {
+      "headline": "SpaceX will retry Starship test flight after scrubbing prior launch",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+      "published": "2026-05-22T21:52:11Z",
+      "sentiment_score": 0.117,
+      "sentiment_label": "Neutral",
+      "confidence": 0.84
+    },
+    {
       "headline": "AI may speed up search for drugs to treat brain conditions",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
@@ -168,13 +222,13 @@
       "confidence": 0.902
     },
     {
-      "headline": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFd6ZjZtTlZRWTlNSGVJRThxbnBOTDdLT1hybWdYYW9MdS1TcG9rTTlBc1d2MmxNdE5NT0pEM192d1B1cE8ydGN3dkZXUHpTMXYzYVlxS0pDRlhNTjE4MndqaXNRQWZadHBlOVppUjJ1R0ZJa0RzSVlkNXFNM2JhNUdjcGZUZ1h1Rnc?oc=5",
-      "published": "2026-05-22T21:27:29",
-      "sentiment_score": 0.25,
-      "sentiment_label": "Neutral",
-      "confidence": 0.715
+      "headline": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
+      "published": "2026-05-22T20:52:39Z",
+      "sentiment_score": 0.912,
+      "sentiment_label": "Positive",
+      "confidence": 0.929
     },
     {
       "headline": "Meta\u2019s Forum is part Reddit, part Facebook, and part Google AI Overview",
@@ -193,15 +247,6 @@
       "sentiment_score": -0.439,
       "sentiment_label": "Neutral",
       "confidence": 0.489
-    },
-    {
-      "headline": "S&P 500 Nears Longest Winning Streak Since 2023",
-      "source": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/oil-climbs-on-u-s-iran-uncertainty-stock-market-rally-holds-da96d8f3",
-      "published": "2026-05-22T16:34:00Z",
-      "sentiment_score": 0.915,
-      "sentiment_label": "Positive",
-      "confidence": 0.942
     },
     {
       "headline": "Google appeals search monopoly ruling, says it won business \u2018fair and square\u2019",
@@ -238,15 +283,6 @@
       "sentiment_score": -0.02,
       "sentiment_label": "Neutral",
       "confidence": 0.92
-    },
-    {
-      "headline": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
-      "published": "2026-05-22T15:29:39Z",
-      "sentiment_score": 0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
     },
     {
       "headline": "Why would you disrespect your favorite artist with an AI remix?",
@@ -292,33 +328,6 @@
       "sentiment_score": -0.022,
       "sentiment_label": "Neutral",
       "confidence": 0.919
-    },
-    {
-      "headline": "The Tech Download: What you might have missed in Nvidia\u2019s earnings \u2014 a $200 billion opportunity and edge computing",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/22/the-tech-download-what-you-might-have-missed-in-nvidias-earnings.html",
-      "published": "2026-05-22T11:00:01Z",
-      "sentiment_score": 0.733,
-      "sentiment_label": "Positive",
-      "confidence": 0.848
-    },
-    {
-      "headline": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
-      "published": "2026-05-22T10:20:05Z",
-      "sentiment_score": 0.211,
-      "sentiment_label": "Neutral",
-      "confidence": 0.754
-    },
-    {
-      "headline": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-      "published": "2026-05-22T06:43:59Z",
-      "sentiment_score": 0.171,
-      "sentiment_label": "Neutral",
-      "confidence": 0.794
     },
     {
       "headline": "Meta settles social media addiction case with US school district",
@@ -481,6 +490,15 @@
       "sentiment_score": 0.044,
       "sentiment_label": "Neutral",
       "confidence": 0.915
+    },
+    {
+      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
+      "published": "2026-02-11T08:00:00",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     }
   ]
 }
