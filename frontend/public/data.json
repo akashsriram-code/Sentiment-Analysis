@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-26T14:46:39.110603",
-  "total_articles": 25,
-  "overall_sentiment": -0.101,
+  "last_updated": "2026-05-26T19:58:15.898966",
+  "total_articles": 26,
+  "overall_sentiment": -0.164,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -32,13 +32,22 @@
       "moving_avg": -0.474
     },
     {
+      "date": "2026-05-05",
+      "avg_sentiment": 0.139,
+      "article_count": 2,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.321
+    },
+    {
       "date": "2026-05-13",
       "avg_sentiment": 0.034,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.347
+      "moving_avg": -0.25
     },
     {
       "date": "2026-05-15",
@@ -47,16 +56,16 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.269
+      "moving_avg": -0.201
     },
     {
       "date": "2026-05-19",
-      "avg_sentiment": 0.09,
-      "article_count": 2,
+      "avg_sentiment": 0.134,
+      "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.209
+      "neutral_count": 0,
+      "moving_avg": -0.153
     },
     {
       "date": "2026-05-20",
@@ -65,7 +74,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.182
+      "moving_avg": -0.031
     },
     {
       "date": "2026-05-21",
@@ -74,7 +83,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.052
+      "moving_avg": 0.058
     },
     {
       "date": "2026-05-22",
@@ -83,125 +92,116 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": 0.024
+      "moving_avg": 0.044
     },
     {
       "date": "2026-05-25",
-      "avg_sentiment": -0.425,
-      "article_count": 5,
-      "positive_count": 1,
-      "negative_count": 3,
+      "avg_sentiment": -0.327,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.043
+      "moving_avg": -0.023
     },
     {
       "date": "2026-05-26",
-      "avg_sentiment": 0.14,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.028
+      "avg_sentiment": -0.24,
+      "article_count": 4,
+      "positive_count": 0,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.062
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": 0.014,
-      "article_count": 10,
+      "avg_sentiment": -0.016,
+      "article_count": 11,
       "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.371,
-      "article_count": 6,
+      "avg_sentiment": -0.573,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.242,
+      "source": "The Verge",
+      "avg_sentiment": 0.086,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.429,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.071,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
+      "headline": "Berkeley Law\u2019s AI crackdown highlights chatbot concerns",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHQ2YzVHM0tWOFNvcUh5X0ktNGo2VnMyM3hrYnowU2VEUUt5ZkQ3Z3NuZkR3ZlhuYXp4TDN0UlREbkVBQUkxVG95OVFlTllsejBJVmNaNW5wSjB6T1p1S3JGUEVoQmItZk1jMzVPOVFPTmFnbUtmRXJFVDktSDVMQnZqWTVXYjhvT0FyMGRmNHpITkxBWFA5S0ZfSDZZYVozSDhqV0VRVGNUbms?oc=5",
+      "published": "2026-05-26T19:41:44",
+      "sentiment_score": -0.747,
+      "sentiment_label": "Negative",
+      "confidence": 0.771
+    },
+    {
+      "headline": "Tech Life",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-26T19:30:00",
+      "sentiment_score": -0.111,
+      "sentiment_label": "Neutral",
+      "confidence": 0.84
+    },
+    {
       "headline": "Opinion | The next Darwin moment has arrived",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb29hV1FVdlQ3Umw1RW5vTi1QQWliVllvTjFUU2QzclBtQTFXNWtael9SNDd4NXVuRjB3M0VoenZMVzVxRUhTbXZpRFh1R3BvazZ1YWdQZHhKR21tSVZnNEczWldFNlZtb3I4QzdYLUp6N0Ixbl9XWnJjbWJwX2wwcVdPVV81SlVYUThhNA?oc=5",
-      "published": "2026-05-26T14:28:34",
+      "published": "2026-05-26T17:30:30",
       "sentiment_score": 0.05,
       "sentiment_label": "Neutral",
       "confidence": 0.863
     },
     {
-      "headline": "I Squared bets on AI inference with $225 million data center buy from Cogent",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXVEd1U1Y3hud0FBdHJlWTZkcTZIMlR5MXoyU1RvVUN2SVNvejROQWJ3UFpUaXdDaHNJZTBJX1Q2SXQwd1Uyb3Zqd3NMWWZiQlFOQ1lOUERHRHJJcDZjMV95Z0Vkb2NTcVk5eXg0c3ZwNWE4YkxfOS1IU0htY0ZuN01sOXRWRFNicmI2MDRCa1RkWkdCT19Yc1AxdFg4LUpXWHFtTkpGV2xSSmR1QS1TRWpncEVPQjhCZnM5d0pLY1lLRlhT?oc=5",
-      "published": "2026-05-26T12:52:10",
-      "sentiment_score": 0.093,
+      "headline": "Starmer vows to act on social media after meeting bereaved parents",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-26T16:29:53",
+      "sentiment_score": -0.151,
       "sentiment_label": "Neutral",
-      "confidence": 0.852
+      "confidence": 0.543
     },
     {
-      "headline": "To Understand Pope Leo\u2019s Efforts on A.I., Look at the Man 3 Seats Away",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0Z09CV0NlTHFKV09XWTluZ1JJdUFHY0VzWDNfQmVXUEJOaHRwTGh3NXg0elJaR1A5dzM3RjBQMlA5MEs1SFVkNUV3QmJ0Y2xZM3ZjTjNTOXVRd0ZlMklkOTZYUmc3MW96YzVkd3R6eGxTZw?oc=5",
-      "published": "2026-05-26T12:49:10",
-      "sentiment_score": 0.009,
+      "headline": "These AI Gurus Are Charging Wall Street Banks $25,000 a Day",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclhjUEVpNWVCc1NGZEIyMU1mZTFWWS1uc3BfSkM2WEVoQjkycjV2OE1xdXpYWTNUQTlFVTE2R3pwWEFqSDVscktVcmwtOE8wa0VfZHQ0Q2JabTREbmdabWNNLWRTa2x5Y21FdHNKTjY0TFR0MHZwWFZycnZHSTJTbmJBaThBa0ZORXNLRy03bmhVQ1VSdlpFUi1tQW9NMVFsUktEdVVJb2drNmhhdnJlVnVWX285X0VKQWJuM1FBQnRndw?oc=5",
+      "published": "2026-05-25T23:00:03",
+      "sentiment_score": -0.196,
       "sentiment_label": "Neutral",
-      "confidence": 0.9
+      "confidence": 0.75
     },
     {
-      "headline": "The Vatican Takes on Silicon Valley With an A.I. Warning",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWi1tVzFBelBxNDBCVTBDRnZ4cFNCSE5oYjJDemNjTUlIWmNsaFRWRWRRSjlDblJybmdMbFZIZUlkcFVqOHBfdmVhLS1PQnNzVVpySTZNUU8ybUFoeHE4NTFnRFg0UE9BclY5c2ctWnhMRTZLU05QTWRiSGRQR2RGQi1QR1Y0WDVUWXRZ?oc=5",
-      "published": "2026-05-26T12:16:13",
-      "sentiment_score": 0.057,
+      "headline": "The pope\u2019s AI encyclical isn\u2019t really about AI | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "published": "2026-05-25T15:11:06Z",
+      "sentiment_score": -0.004,
       "sentiment_label": "Neutral",
-      "confidence": 0.893
+      "confidence": 0.925
     },
     {
-      "headline": "BNP Paribas steps up Mistral partnership to bolster rapid AI defences",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzBqRHFuVWNGUG9Tdkl6THlFQnZIUFFQY2RHelVERkY0X2RNSUhvcTREQ2hCSnVXWDVPOFRILUNjcFl2MmJTUlJTSDRxa3YzcHJlTEU0cERwQmxGT20zQlNsYmZ1OGdrZFNncFBGNXZCbV9jS2swb3ExMVJrWnpYUFVWdFhVUExKVm1GRS00dndZU3FZWUxoeDJOR0kxa3g1TG9XeHNGUkQyV29ScWxYSXM3bUFma3lNX0Jv?oc=5",
-      "published": "2026-05-26T11:53:05",
-      "sentiment_score": 0.751,
-      "sentiment_label": "Positive",
-      "confidence": 0.76
-    },
-    {
-      "headline": "South Africa targets January 2027 for revised AI policy after earlier withdrawal",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1JLdHdHZ1FPc2FHUlZhWUVuOWljWDNsdU1CQndwOG9RcUNrQnNWeUNtZWNWdklqYkJJVnhQSnBOcG1XYjY4U00tYkdDU1FmNXhXeTFvVmpJM0pHYjJTdE9tS2dlRENoUGxWR2JWY2FnX3daWl9USE5GMVNQZ242RDA3NVFCaXQxZGUtRHVNNHNqY0k5ME1QcUJnSFFPMlI5MHRwdGlLWU5WN0gtZUFqS1pmV1BYcmJRTFhnU21mRTBfcVE?oc=5",
-      "published": "2026-05-26T09:45:43",
-      "sentiment_score": -0.117,
+      "headline": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "published": "2026-05-25T15:05:07Z",
+      "sentiment_score": 0.08,
       "sentiment_label": "Neutral",
-      "confidence": 0.753
-    },
-    {
-      "headline": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZk1GU1R3R1lXb1ZMYnJ3S3N1RlBnR0c0Y1FWbU54d2dUd1RjREdpeUY3TGNvM1VQYjNxcmprRmkwX3BPcVZQakVVb0pFTXBFMHlUWEJoOTRsUEp0SXN0YTlwRGh2Sm5UQjhfbElLOWpkcTBsUkticW1ZVU0?oc=5",
-      "published": "2026-05-25T15:14:03",
-      "sentiment_score": -0.778,
-      "sentiment_label": "Negative",
-      "confidence": 0.807
-    },
-    {
-      "headline": "Pope Leo issues warnings about AI and autonomous weapons",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/25/pope-leo-issues-warnings-about-ai-and-autonomous-weapons.html",
-      "published": "2026-05-25T12:25:39Z",
-      "sentiment_score": 0.041,
-      "sentiment_label": "Neutral",
-      "confidence": 0.892
+      "confidence": 0.86
     },
     {
       "headline": "Pope Leo XIV urges AI regulation for the common good",
@@ -211,6 +211,15 @@
       "sentiment_score": 0.179,
       "sentiment_label": "Neutral",
       "confidence": 0.781
+    },
+    {
+      "headline": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZk1GU1R3R1lXb1ZMYnJ3S3N1RlBnR0c0Y1FWbU54d2dUd1RjREdpeUY3TGNvM1VQYjNxcmprRmkwX3BPcVZQakVVb0pFTXBFMHlUWEJoOTRsUEp0SXN0YTlwRGh2Sm5UQjhfbElLOWpkcTBsUkticW1ZVU0?oc=5",
+      "published": "2026-05-25T09:30:42",
+      "sentiment_score": -0.778,
+      "sentiment_label": "Negative",
+      "confidence": 0.807
     },
     {
       "headline": "Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits",
@@ -303,15 +312,6 @@
       "confidence": 0.844
     },
     {
-      "headline": "Tech Life",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-19T20:00:00",
-      "sentiment_score": 0.047,
-      "sentiment_label": "Neutral",
-      "confidence": 0.922
-    },
-    {
       "headline": "OpenAI now wants ChatGPT to access your bank accounts",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzF2ekdKT3hxelI4eG9RX3BFa1YtVTUxN2FDNmxmYmx3cUtCQlV6cDBoSXFBTjhJdm1BNHdGVXd5QmdIQi04NnBfcDZXcGpvVmotLXFsa1B2QWxEZUhqcUJyMzY4RktTN0RfZTRSUjdETzJoTTB0a1VpOUNRT3BSbVlvZEdCMG5qU3JHSW5iRlFGaDZGR0VUZ3hPeDktZ3N4UVRoSUZxNHJ5aW03b3c?oc=5",
@@ -328,6 +328,24 @@
       "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
       "confidence": 0.84
+    },
+    {
+      "headline": "OpenAI is reportedly launching a phone for ChatGPT",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHRIWGdFMlpkdEx0R1dSV3otMnlwU3R2WFNWUW9aMHVsNzg3UjJOSkc1a042NUQzWEJvQ3dLcTRDNnNTQ3Jtdl9ONGVnVFRMaGNzR2U5REpxX0lpeUZFSXVrdFVsT0pIYWY5T1JXdjJ2VkRsdVJCNTZHTUlxcHJ4bEZWSVZhaVFtMGVKNXNid3V6ZDNBNVdVZmxfc0Q?oc=5",
+      "published": "2026-05-05T07:00:00",
+      "sentiment_score": 0.131,
+      "sentiment_label": "Neutral",
+      "confidence": 0.85
+    },
+    {
+      "headline": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5",
+      "published": "2026-05-05T07:00:00",
+      "sentiment_score": 0.147,
+      "sentiment_label": "Neutral",
+      "confidence": 0.833
     },
     {
       "headline": "Tech Now",
