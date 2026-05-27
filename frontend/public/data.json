@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-27T02:34:18.278976",
-  "total_articles": 21,
-  "overall_sentiment": -0.111,
+  "last_updated": "2026-05-27T09:30:05.965995",
+  "total_articles": 20,
+  "overall_sentiment": -0.079,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,22 +14,13 @@
       "moving_avg": -0.878
     },
     {
-      "date": "2026-05-01",
-      "avg_sentiment": -0.589,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.734
-    },
-    {
       "date": "2026-05-02",
       "avg_sentiment": 0.044,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.474
+      "moving_avg": -0.417
     },
     {
       "date": "2026-05-13",
@@ -38,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.347
+      "moving_avg": -0.267
     },
     {
       "date": "2026-05-15",
@@ -47,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.269
+      "moving_avg": -0.188
     },
     {
       "date": "2026-05-21",
@@ -56,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.218
+      "moving_avg": -0.144
     },
     {
       "date": "2026-05-22",
@@ -65,71 +56,77 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.195
+      "moving_avg": -0.129
     },
     {
       "date": "2026-05-25",
-      "avg_sentiment": -0.491,
-      "article_count": 3,
-      "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.14
-    },
-    {
-      "date": "2026-05-26",
-      "avg_sentiment": 0.233,
-      "article_count": 6,
-      "positive_count": 2,
-      "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.022
-    },
-    {
-      "date": "2026-05-27",
-      "avg_sentiment": -0.854,
+      "avg_sentiment": -0.669,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.151
+      "moving_avg": -0.206
+    },
+    {
+      "date": "2026-05-26",
+      "avg_sentiment": -0.035,
+      "article_count": 6,
+      "positive_count": 2,
+      "negative_count": 4,
+      "neutral_count": 0,
+      "moving_avg": -0.086
+    },
+    {
+      "date": "2026-05-27",
+      "avg_sentiment": 0.04,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.087
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.114,
+      "avg_sentiment": -0.075,
       "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.504,
-      "article_count": 3,
+      "avg_sentiment": -0.387,
+      "article_count": 4,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.025,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": 0.487,
-      "article_count": 2,
-      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "headline": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeDJycW5NVWNOVkl3RWN4dFFENTJQQTNhTUxqNjl2S01Hb2lJak5PZW1KVm1yaVZWX09nM3htVU9LUFVELUxjcklRZVJ0aHNRbU5SdS1JWjVHZUpZeWxjYU1tTmQ2Z3JRdHJHejlfUXpnUW1EdHZtWHNvWjRPMjZvX1FoSEdBUQ?oc=5",
+      "published": "2026-05-27T09:00:11",
+      "sentiment_score": -0.033,
+      "sentiment_label": "Neutral",
+      "confidence": 0.916
+    },
+    {
+      "headline": "S. Korea well positioned to lead next phase of AI adoption: OpenAI",
+      "source": "Yonhap News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWS1VZTk5UG8xQXBOclNGWUdMSmFqaVZxQUUwRUl2SGNTbHpSN3dBSXRMb201Q1ZINEE2S0xWV19uUF8wanJBY1F2XzlDY2V0bjNPVUVlMzR3Zw?oc=5",
+      "published": "2026-05-27T06:23:28",
+      "sentiment_score": 0.568,
+      "sentiment_label": "Positive",
+      "confidence": 0.577
+    },
+    {
+      "headline": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-27T00:43:55",
-      "sentiment_score": -0.854,
-      "sentiment_label": "Negative",
-      "confidence": 0.87
+      "sentiment_score": -0.416,
+      "sentiment_label": "Neutral",
+      "confidence": 0.478
     },
     {
       "headline": "Instagram betting ads featuring Kane and Haaland banned",
@@ -150,15 +147,6 @@
       "confidence": 0.84
     },
     {
-      "headline": "Opinion | The next Darwin moment has arrived",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb29hV1FVdlQ3Umw1RW5vTi1QQWliVllvTjFUU2QzclBtQTFXNWtael9SNDd4NXVuRjB3M0VoenZMVzVxRUhTbXZpRFh1R3BvazZ1YWdQZHhKR21tSVZnNEczWldFNlZtb3I4QzdYLUp6N0Ixbl9XWnJjbWJwX2wwcVdPVV81SlVYUThhNA?oc=5",
-      "published": "2026-05-26T18:00:00",
-      "sentiment_score": 0.05,
-      "sentiment_label": "Neutral",
-      "confidence": 0.863
-    },
-    {
       "headline": "Starmer vows to act on social media after meeting bereaved parents",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
@@ -166,6 +154,24 @@
       "sentiment_score": -0.151,
       "sentiment_label": "Neutral",
       "confidence": 0.543
+    },
+    {
+      "headline": "Qualcomm Strikes AI Chip Deal With TikTok Owner ByteDance",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVdTeEYtOVpZcWhrcjVIaEpSMHZVdDEwQ3hRbjVUN05CNHRPMGo1TzdtQk12RDA1dmx5S0duQm1mZUQtSHNOU3N2dUhUSWh2NmF0Ynpabzhsd3FISWJabmtvSmZCT2M3aEZYUWIyNk1KSVlIT0djeEVORUZvcGEwalRMamxUYVI3WjY0d2F3aEo1am9OZlNrNGd0d0VNR3VvNjFva1psOUczWEVN?oc=5",
+      "published": "2026-05-26T14:49:55",
+      "sentiment_score": 0.286,
+      "sentiment_label": "Positive",
+      "confidence": 0.441
+    },
+    {
+      "headline": "Bitcoin volatility hits 9-month low as crypto takes breather",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-26/bitcoin-btc-volatility-hits-nine-month-low-as-crypto-takes-breather",
+      "published": "2026-05-26T07:29:19Z",
+      "sentiment_score": -0.965,
+      "sentiment_label": "Negative",
+      "confidence": 0.975
     },
     {
       "headline": "CNBC Daily Open: Faith in markets, doubts in diplomacy",
@@ -177,24 +183,6 @@
       "confidence": 0.897
     },
     {
-      "headline": "Odina Industries Set for Growth After Avetta Helps Reduce Contractor Approval Times by Half",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/odina-industries-set-for-growth-after-avetta-helps-reduce-contractor-approval-times-by-half-4c7218a59e134bf78530829796472df9",
-      "published": "2026-05-26T00:08:16Z",
-      "sentiment_score": 0.879,
-      "sentiment_label": "Positive",
-      "confidence": 0.89
-    },
-    {
-      "headline": "HISTORIC SLAVERY APOLOGY",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/pope-apologizes-slavery-role-holy-see-vatican-78df993c5604eb098b19f255b89b3155",
-      "published": "2026-05-25T20:00:14Z",
-      "sentiment_score": 0.095,
-      "sentiment_label": "Neutral",
-      "confidence": 0.813
-    },
-    {
       "headline": "Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVVRiRk1rampoT2JhdVhkZDA1Y2laRW1XdUFyZ3gwV1FLcWxSUVUtRHd0VkZuSjNXLXJZVWpDMnVuc3duc3VLSll4SnhCUjI1c2JUVEp6Y3RHVFlrdDlTRDFoQmVsME92bGpZLWRfTjF0c0ZxQ0FpSnJ0TDItdE1DdVZXNWw5WFRZMUk4?oc=5",
@@ -202,15 +190,6 @@
       "sentiment_score": -0.669,
       "sentiment_label": "Negative",
       "confidence": 0.687
-    },
-    {
-      "headline": "Beware the boom and bust cycle of memory stocks, investors warn amid AI boom",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/25/memory-stocks-cyclical-boom-bust-samsung-sk-hynix.html",
-      "published": "2026-05-25T05:00:01Z",
-      "sentiment_score": -0.899,
-      "sentiment_label": "Negative",
-      "confidence": 0.914
     },
     {
       "headline": "AI may speed up search for drugs to treat brain conditions",
@@ -292,15 +271,6 @@
       "sentiment_score": 0.044,
       "sentiment_label": "Neutral",
       "confidence": 0.915
-    },
-    {
-      "headline": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3YzRU84RUFjYy1CT3FINVRrMC1xamZfWTVIbXhBVkVJWGE4SEdaNWdhVHktamFzejd2cFZRblpJdmcxclFoLXFweHloUm8yYzU4WUhnYURKTVkxd2dXQ1lCdFJ3QVhSTnR2MFJGSzdEMGs0ZGpYemZlNmo0cFNGeExXOGtnLVNqejNXY3FuUlNTaWFfZE5zWWQtT05fWVNRSm41OGwtMS0?oc=5",
-      "published": "2026-05-01T07:00:00",
-      "sentiment_score": -0.589,
-      "sentiment_label": "Negative",
-      "confidence": 0.611
     },
     {
       "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
