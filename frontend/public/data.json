@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-27T09:30:05.965995",
-  "total_articles": 20,
-  "overall_sentiment": -0.079,
+  "last_updated": "2026-05-27T14:56:55.206581",
+  "total_articles": 30,
+  "overall_sentiment": -0.164,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,12 +42,12 @@
     },
     {
       "date": "2026-05-21",
-      "avg_sentiment": 0.032,
-      "article_count": 3,
+      "avg_sentiment": 0.029,
+      "article_count": 2,
       "positive_count": 1,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.144
+      "neutral_count": 0,
+      "moving_avg": -0.145
     },
     {
       "date": "2026-05-22",
@@ -56,56 +56,125 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.129
+      "moving_avg": -0.13
     },
     {
       "date": "2026-05-25",
-      "avg_sentiment": -0.669,
-      "article_count": 1,
+      "avg_sentiment": -0.724,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.206
+      "moving_avg": -0.215
     },
     {
       "date": "2026-05-26",
-      "avg_sentiment": -0.035,
-      "article_count": 6,
-      "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 0,
-      "moving_avg": -0.086
+      "avg_sentiment": -0.098,
+      "article_count": 11,
+      "positive_count": 3,
+      "negative_count": 6,
+      "neutral_count": 2,
+      "moving_avg": -0.103
     },
     {
       "date": "2026-05-27",
-      "avg_sentiment": 0.04,
-      "article_count": 3,
-      "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.087
+      "avg_sentiment": -0.193,
+      "article_count": 8,
+      "positive_count": 2,
+      "negative_count": 4,
+      "neutral_count": 2,
+      "moving_avg": -0.137
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.075,
+      "avg_sentiment": -0.163,
       "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.387,
-      "article_count": 4,
+      "avg_sentiment": -0.513,
+      "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.007,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.023,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.202,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.394,
+      "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Global firms use AI at Indian hubs to bring more ad work in-house",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1ZDRU5na3FKOEZTNGdBdGZ2Q1U0WTEzRzZpMkNrOUpXOFE3cHpIT2djS2hFMTJOMmxjUzRzaGVmaWdlTjdYNmFlYTl3aVc1RDJldlBRTFY4WGFwNUJ6V1VzdHU1ZlB6UllSQkt5Nk0yMkxXRzc5QTVDZnVucFhpMEtYMUlEcmZVbGNJR2FxdHFQYWN5ek03MEFobm1CZjF2ZzNiZjBCNG55akwtX1UtcUlJVmZrU3pybVE?oc=5",
+      "published": "2026-05-27T14:34:56",
+      "sentiment_score": 0.077,
+      "sentiment_label": "Neutral",
+      "confidence": 0.894
+    },
+    {
+      "headline": "Investors stay calm as AI capex boom eclipses dotcom mania",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHduSXhpVDRyZk1KaktVUHFlX3JqWmhPTUI1dldCVmpNMEU3dGhTVVpucmRHN3JCemdXazJPR3ZXVWNFRTN5SjFCT1VQTUZFNzN0WTF0S0ctMk9Wbjd0bW1HLVNKWVNieTd2WnVxaDF5WlZ1XzYtMHFZaWNmRlhxSXMtY3g3VHRkYzFIWDdpLXNtOVJ5dGd2YzNDT1ZpQzZUenUxX0hTSzVBNlNGMUFBQVZZN2gxbDZaQjNtMFBTaG1YUQ?oc=5",
+      "published": "2026-05-27T13:03:11",
+      "sentiment_score": 0.003,
+      "sentiment_label": "Neutral",
+      "confidence": 0.835
+    },
+    {
+      "headline": "Teachers\u2019 Union Urges Schools to Curb A.I. Chatbots and Screen Time",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzdZXzVhT0d2Ul9YSFV1Tk9fUTJIRFpYZEhZZDRlTl9QWUJYcmN4SndMdWNfcGNHVjV0Z2dDMFB1Nlh0RUlaSW16WG1XWUszZkFHcExnSzJqdm9VQ0FVWDloaHpzZTNCUXAyNnU5bnpWY2YyRkJFNnFPbFlYbVNTSUVDQzlGck0?oc=5",
+      "published": "2026-05-27T12:58:05",
+      "sentiment_score": -0.754,
+      "sentiment_label": "Negative",
+      "confidence": 0.769
+    },
+    {
+      "headline": "Porn company fined \u00a3600,000 by Ofcom over age check failings",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-27T10:33:46",
+      "sentiment_score": -0.931,
+      "sentiment_label": "Negative",
+      "confidence": 0.943
+    },
+    {
+      "headline": "Investors hunt for AI winners in small-cap US tech stocks",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFdBRGM1U3NfTDNZcmpzYjZVdF8tOXVIX2Rhbm53cmotQUZDMk56eWowdzRTMEphWk9RN0VSTnY0SWRFOTgtdUJabUNUNjhCUVl3clA3R3Q4eE8zVExSX0NMdUM4NC1uS3NRc3R5VkZZUnZrX204OWc4d1VkZmc4ZXhjNDNnMmRreVZ0d3VTcFhjZ2N2LWJaRGZxaw?oc=5",
+      "published": "2026-05-27T10:28:49",
+      "sentiment_score": -0.06,
+      "sentiment_label": "Neutral",
+      "confidence": 0.805
+    },
+    {
       "headline": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeDJycW5NVWNOVkl3RWN4dFFENTJQQTNhTUxqNjl2S01Hb2lJak5PZW1KVm1yaVZWX09nM3htVU9LUFVELUxjcklRZVJ0aHNRbU5SdS1JWjVHZUpZeWxjYU1tTmQ2Z3JRdHJHejlfUXpnUW1EdHZtWHNvWjRPMjZvX1FoSEdBUQ?oc=5",
-      "published": "2026-05-27T09:00:11",
+      "published": "2026-05-27T09:00:12",
       "sentiment_score": -0.033,
       "sentiment_label": "Neutral",
       "confidence": 0.916
@@ -156,6 +225,15 @@
       "confidence": 0.543
     },
     {
+      "headline": "Micron hits $1 trillion market cap for the first time as stock surges 18%",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
+      "published": "2026-05-26T14:50:15Z",
+      "sentiment_score": 0.666,
+      "sentiment_label": "Positive",
+      "confidence": 0.762
+    },
+    {
       "headline": "Qualcomm Strikes AI Chip Deal With TikTok Owner ByteDance",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVdTeEYtOVpZcWhrcjVIaEpSMHZVdDEwQ3hRbjVUN05CNHRPMGo1TzdtQk12RDA1dmx5S0duQm1mZUQtSHNOU3N2dUhUSWh2NmF0Ynpabzhsd3FISWJabmtvSmZCT2M3aEZYUWIyNk1KSVlIT0djeEVORUZvcGEwalRMamxUYVI3WjY0d2F3aEo1am9OZlNrNGd0d0VNR3VvNjFva1psOUczWEVN?oc=5",
@@ -165,22 +243,67 @@
       "confidence": 0.441
     },
     {
-      "headline": "Bitcoin volatility hits 9-month low as crypto takes breather",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-26/bitcoin-btc-volatility-hits-nine-month-low-as-crypto-takes-breather",
-      "published": "2026-05-26T07:29:19Z",
-      "sentiment_score": -0.965,
+      "headline": "AI Tools Are Transforming Muslim Worship. Religious Scholars Are Conflicted",
+      "source": "Time",
+      "link": "https://time.com/article/2026/05/26/ai-muslim-worship/",
+      "published": "2026-05-26T14:37:40Z",
+      "sentiment_score": -0.623,
       "sentiment_label": "Negative",
-      "confidence": 0.975
+      "confidence": 0.646
     },
     {
-      "headline": "CNBC Daily Open: Faith in markets, doubts in diplomacy",
+      "headline": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "published": "2026-05-26T13:25:34Z",
+      "sentiment_score": -0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
+    {
+      "headline": "Dropbox CEO Drew Houston to step down after 19 years at helm of cloud storage pioneer",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/26/cnbc-daily-open-faith-in-markets-doubts-in-diplomacy-.html",
-      "published": "2026-05-26T01:01:17Z",
-      "sentiment_score": 0.85,
-      "sentiment_label": "Positive",
-      "confidence": 0.897
+      "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "published": "2026-05-26T13:15:01Z",
+      "sentiment_score": -0.262,
+      "sentiment_label": "Neutral",
+      "confidence": 0.701
+    },
+    {
+      "headline": "AI warfare is already here",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "published": "2026-05-26T11:56:47Z",
+      "sentiment_score": 0.03,
+      "sentiment_label": "Neutral",
+      "confidence": 0.921
+    },
+    {
+      "headline": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+      "published": "2026-05-26T10:00:00Z",
+      "sentiment_score": 0.052,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
+    },
+    {
+      "headline": "US Law Enforcement Warns of \u2018Anti-Tech Extremism\u2019 as AI Hatred Grows",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+      "published": "2026-05-26T09:30:00Z",
+      "sentiment_score": -0.841,
+      "sentiment_label": "Negative",
+      "confidence": 0.874
+    },
+    {
+      "headline": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZk1GU1R3R1lXb1ZMYnJ3S3N1RlBnR0c0Y1FWbU54d2dUd1RjREdpeUY3TGNvM1VQYjNxcmprRmkwX3BPcVZQakVVb0pFTXBFMHlUWEJoOTRsUEp0SXN0YTlwRGh2Sm5UQjhfbElLOWpkcTBsUkticW1ZVU0?oc=5",
+      "published": "2026-05-25T09:30:42",
+      "sentiment_score": -0.778,
+      "sentiment_label": "Negative",
+      "confidence": 0.807
     },
     {
       "headline": "Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits",
@@ -235,15 +358,6 @@
       "sentiment_score": 0.132,
       "sentiment_label": "Positive",
       "confidence": 0.512
-    },
-    {
-      "headline": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-21T06:00:32",
-      "sentiment_score": 0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.934
     },
     {
       "headline": "OpenAI now wants ChatGPT to access your bank accounts",
