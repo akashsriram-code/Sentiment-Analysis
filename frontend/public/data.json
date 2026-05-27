@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-27T14:56:55.206581",
+  "last_updated": "2026-05-27T20:01:46.376502",
   "total_articles": 30,
-  "overall_sentiment": -0.164,
+  "overall_sentiment": -0.221,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,22 +14,22 @@
       "moving_avg": -0.878
     },
     {
+      "date": "2026-05-01",
+      "avg_sentiment": -0.589,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.734
+    },
+    {
       "date": "2026-05-02",
       "avg_sentiment": 0.044,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.417
-    },
-    {
-      "date": "2026-05-13",
-      "avg_sentiment": 0.034,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.267
+      "moving_avg": -0.474
     },
     {
       "date": "2026-05-15",
@@ -38,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.188
+      "moving_avg": -0.344
     },
     {
       "date": "2026-05-21",
@@ -47,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.145
+      "moving_avg": -0.27
     },
     {
       "date": "2026-05-22",
@@ -56,34 +56,25 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.13
-    },
-    {
-      "date": "2026-05-25",
-      "avg_sentiment": -0.724,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.215
+      "moving_avg": -0.234
     },
     {
       "date": "2026-05-26",
-      "avg_sentiment": -0.098,
-      "article_count": 11,
-      "positive_count": 3,
-      "negative_count": 6,
+      "avg_sentiment": -0.299,
+      "article_count": 13,
+      "positive_count": 2,
+      "negative_count": 9,
       "neutral_count": 2,
-      "moving_avg": -0.103
+      "moving_avg": -0.243
     },
     {
       "date": "2026-05-27",
-      "avg_sentiment": -0.193,
+      "avg_sentiment": -0.159,
       "article_count": 8,
       "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.137
+      "negative_count": 2,
+      "neutral_count": 4,
+      "moving_avg": -0.14
     }
   ],
   "source_stats": [
@@ -94,42 +85,75 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.513,
-      "article_count": 6,
+      "source": "Reuters",
+      "avg_sentiment": -0.159,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.007,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
       "source": "The Verge",
-      "avg_sentiment": 0.023,
+      "avg_sentiment": 0.024,
       "article_count": 3,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.202,
+      "source": "The New York Times",
+      "avg_sentiment": -0.448,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Time",
+      "avg_sentiment": -0.784,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.463,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.394,
+      "source": "CNBC",
+      "avg_sentiment": -0.562,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Huawei looks beyond Moore's Law",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGx1TWVoSzFZYm05dy1YM1RiMHVFTkxWQnl1c284ZHk5ZXZEd0VGT00wVnJWQjdVckNJbGR6REYtdy1RMHlQdGUwWE5CNFpKaU5GMEY3OC1mUUE2TG9rdXdXWjVLRFNuak5YaVBXaGZZSmxmT0pyanhtWk9MRkxkYzlFR1U2V3VQM1ZQU3U1c1JZaWZBb01BY25UTHdDZjJucjVj?oc=5",
+      "published": "2026-05-27T19:42:40",
+      "sentiment_score": 0.079,
+      "sentiment_label": "Neutral",
+      "confidence": 0.879
+    },
+    {
+      "headline": "AI, privilege, and discovery in view of 'Heppner' and 'Morgan'",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU25TZlFDZWxIT1NaVlNDTnVlNnRTenZzX0NERThteHBFN3Y1OTN0cGgtb3JlTjBWQnZmbzZua2ktVjlmUk55LUhBZlVQanhyWm80aDBRZ3BGWEdIQk44ZXB2eVMtZGFiTnBVdVQ1SFRwaVYxVGUxYlQtWmF5em9EYnFSczZzUUFzQkkzd1RpNjRtZXRTTWp2TkQxWFMxa3E4bDJzZWptRHcwZw?oc=5",
+      "published": "2026-05-27T17:17:19",
+      "sentiment_score": -0.038,
+      "sentiment_label": "Neutral",
+      "confidence": 0.918
+    },
+    {
+      "headline": "How states seek to protect users turning to AI for mental health advice",
+      "source": "Hopkins Bloomberg Center",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3c0FIekh5QVVlcklOeE1mZl94VW1uY3UwNVhLSGstb20xOGpQbllBdW4tRWtIb0JPSFRyVm9mWFBwZjd3bkxLc3FZcWlndUxXV1lGX2E2VDRyaTVXekZTSWY1MnRJNmxQVEJld21uaVlaQ1phLWc?oc=5",
+      "published": "2026-05-27T17:08:16",
+      "sentiment_score": -0.03,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
+    {
       "headline": "Global firms use AI at Indian hubs to bring more ad work in-house",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1ZDRU5na3FKOEZTNGdBdGZ2Q1U0WTEzRzZpMkNrOUpXOFE3cHpIT2djS2hFMTJOMmxjUzRzaGVmaWdlTjdYNmFlYTl3aVc1RDJldlBRTFY4WGFwNUJ6V1VzdHU1ZlB6UllSQkt5Nk0yMkxXRzc5QTVDZnVucFhpMEtYMUlEcmZVbGNJR2FxdHFQYWN5ek03MEFobm1CZjF2ZzNiZjBCNG55akwtX1UtcUlJVmZrU3pybVE?oc=5",
-      "published": "2026-05-27T14:34:56",
+      "published": "2026-05-27T14:47:59",
       "sentiment_score": 0.077,
       "sentiment_label": "Neutral",
       "confidence": 0.894
@@ -144,15 +168,6 @@
       "confidence": 0.835
     },
     {
-      "headline": "Teachers\u2019 Union Urges Schools to Curb A.I. Chatbots and Screen Time",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzdZXzVhT0d2Ul9YSFV1Tk9fUTJIRFpYZEhZZDRlTl9QWUJYcmN4SndMdWNfcGNHVjV0Z2dDMFB1Nlh0RUlaSW16WG1XWUszZkFHcExnSzJqdm9VQ0FVWDloaHpzZTNCUXAyNnU5bnpWY2YyRkJFNnFPbFlYbVNTSUVDQzlGck0?oc=5",
-      "published": "2026-05-27T12:58:05",
-      "sentiment_score": -0.754,
-      "sentiment_label": "Negative",
-      "confidence": 0.769
-    },
-    {
       "headline": "Porn company fined \u00a3600,000 by Ofcom over age check failings",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
@@ -162,31 +177,13 @@
       "confidence": 0.943
     },
     {
-      "headline": "Investors hunt for AI winners in small-cap US tech stocks",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFdBRGM1U3NfTDNZcmpzYjZVdF8tOXVIX2Rhbm53cmotQUZDMk56eWowdzRTMEphWk9RN0VSTnY0SWRFOTgtdUJabUNUNjhCUVl3clA3R3Q4eE8zVExSX0NMdUM4NC1uS3NRc3R5VkZZUnZrX204OWc4d1VkZmc4ZXhjNDNnMmRreVZ0d3VTcFhjZ2N2LWJaRGZxaw?oc=5",
-      "published": "2026-05-27T10:28:49",
-      "sentiment_score": -0.06,
-      "sentiment_label": "Neutral",
-      "confidence": 0.805
-    },
-    {
-      "headline": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
+      "headline": "Opinion | What 370,000 College Essays Tell Us About A.I.\u2019s Effects on Creativity",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeDJycW5NVWNOVkl3RWN4dFFENTJQQTNhTUxqNjl2S01Hb2lJak5PZW1KVm1yaVZWX09nM3htVU9LUFVELUxjcklRZVJ0aHNRbU5SdS1JWjVHZUpZeWxjYU1tTmQ2Z3JRdHJHejlfUXpnUW1EdHZtWHNvWjRPMjZvX1FoSEdBUQ?oc=5",
-      "published": "2026-05-27T09:00:12",
-      "sentiment_score": -0.033,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMW53WVdEdkthT0ZkaGYtc0RLcXFzTnZMendDYTFuYmNmTlhTbXM5RVlfZzN3QXFhLWQwaUdhRDBHaUUxSEF2Z2pORjBFUFJSM1VfV040MjlNZkt6TVZ2elJDNUdLS0NCRjJ6dDU4anFEalBpZVRGcw?oc=5",
+      "published": "2026-05-27T09:02:01",
+      "sentiment_score": -0.017,
       "sentiment_label": "Neutral",
-      "confidence": 0.916
-    },
-    {
-      "headline": "S. Korea well positioned to lead next phase of AI adoption: OpenAI",
-      "source": "Yonhap News Agency",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWS1VZTk5UG8xQXBOclNGWUdMSmFqaVZxQUUwRUl2SGNTbHpSN3dBSXRMb201Q1ZINEE2S0xWV19uUF8wanJBY1F2XzlDY2V0bjNPVUVlMzR3Zw?oc=5",
-      "published": "2026-05-27T06:23:28",
-      "sentiment_score": 0.568,
-      "sentiment_label": "Positive",
-      "confidence": 0.577
+      "confidence": 0.913
     },
     {
       "headline": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
@@ -209,11 +206,38 @@
     {
       "headline": "Tech Life",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-26T19:30:00",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS",
+      "published": "2026-05-26T19:30:00Z",
       "sentiment_score": -0.111,
       "sentiment_label": "Neutral",
       "confidence": 0.84
+    },
+    {
+      "headline": "Sam Altman Says AI \u2018Jobs Apocalypse\u2019 He Once Predicted Probably Won\u2019t Happen. What Changed?",
+      "source": "Time",
+      "link": "https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/",
+      "published": "2026-05-26T19:28:15Z",
+      "sentiment_score": -0.945,
+      "sentiment_label": "Negative",
+      "confidence": 0.956
+    },
+    {
+      "headline": "OpenRouter more than doubles valuation to $1.3B in a year | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "published": "2026-05-26T18:33:01Z",
+      "sentiment_score": 0.828,
+      "sentiment_label": "Positive",
+      "confidence": 0.836
+    },
+    {
+      "headline": "Pope Leo is concerned about AI replacing human work. Traders share his concern long term",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/26/traders-share-pope-leos-worries-on-ais-job-market-impact.html",
+      "published": "2026-05-26T16:31:37Z",
+      "sentiment_score": -0.863,
+      "sentiment_label": "Negative",
+      "confidence": 0.898
     },
     {
       "headline": "Starmer vows to act on social media after meeting bereaved parents",
@@ -225,22 +249,22 @@
       "confidence": 0.543
     },
     {
-      "headline": "Micron hits $1 trillion market cap for the first time as stock surges 18%",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
-      "published": "2026-05-26T14:50:15Z",
-      "sentiment_score": 0.666,
-      "sentiment_label": "Positive",
-      "confidence": 0.762
+      "headline": "This startup is betting India's gig economy can train the world's robots | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "published": "2026-05-26T16:03:29Z",
+      "sentiment_score": 0.098,
+      "sentiment_label": "Neutral",
+      "confidence": 0.878
     },
     {
-      "headline": "Qualcomm Strikes AI Chip Deal With TikTok Owner ByteDance",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVdTeEYtOVpZcWhrcjVIaEpSMHZVdDEwQ3hRbjVUN05CNHRPMGo1TzdtQk12RDA1dmx5S0duQm1mZUQtSHNOU3N2dUhUSWh2NmF0Ynpabzhsd3FISWJabmtvSmZCT2M3aEZYUWIyNk1KSVlIT0djeEVORUZvcGEwalRMamxUYVI3WjY0d2F3aEo1am9OZlNrNGd0d0VNR3VvNjFva1psOUczWEVN?oc=5",
-      "published": "2026-05-26T14:49:55",
-      "sentiment_score": 0.286,
-      "sentiment_label": "Positive",
-      "confidence": 0.441
+      "headline": "Govee included a book on \u2018White Supremacy\u2019 in its website imagery",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
+      "published": "2026-05-26T15:07:40Z",
+      "sentiment_score": 0.031,
+      "sentiment_label": "Neutral",
+      "confidence": 0.887
     },
     {
       "headline": "AI Tools Are Transforming Muslim Worship. Religious Scholars Are Conflicted",
@@ -250,6 +274,15 @@
       "sentiment_score": -0.623,
       "sentiment_label": "Negative",
       "confidence": 0.646
+    },
+    {
+      "headline": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5",
+      "published": "2026-05-26T14:20:08",
+      "sentiment_score": -0.915,
+      "sentiment_label": "Negative",
+      "confidence": 0.932
     },
     {
       "headline": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web",
@@ -270,24 +303,6 @@
       "confidence": 0.701
     },
     {
-      "headline": "AI warfare is already here",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "published": "2026-05-26T11:56:47Z",
-      "sentiment_score": 0.03,
-      "sentiment_label": "Neutral",
-      "confidence": 0.921
-    },
-    {
-      "headline": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
-      "published": "2026-05-26T10:00:00Z",
-      "sentiment_score": 0.052,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
-    },
-    {
       "headline": "US Law Enforcement Warns of \u2018Anti-Tech Extremism\u2019 as AI Hatred Grows",
       "source": "Wired",
       "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
@@ -295,24 +310,6 @@
       "sentiment_score": -0.841,
       "sentiment_label": "Negative",
       "confidence": 0.874
-    },
-    {
-      "headline": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZk1GU1R3R1lXb1ZMYnJ3S3N1RlBnR0c0Y1FWbU54d2dUd1RjREdpeUY3TGNvM1VQYjNxcmprRmkwX3BPcVZQakVVb0pFTXBFMHlUWEJoOTRsUEp0SXN0YTlwRGh2Sm5UQjhfbElLOWpkcTBsUkticW1ZVU0?oc=5",
-      "published": "2026-05-25T09:30:42",
-      "sentiment_score": -0.778,
-      "sentiment_label": "Negative",
-      "confidence": 0.807
-    },
-    {
-      "headline": "Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVVRiRk1rampoT2JhdVhkZDA1Y2laRW1XdUFyZ3gwV1FLcWxSUVUtRHd0VkZuSjNXLXJZVWpDMnVuc3duc3VLSll4SnhCUjI1c2JUVEp6Y3RHVFlrdDlTRDFoQmVsME92bGpZLWRfTjF0c0ZxQ0FpSnJ0TDItdE1DdVZXNWw5WFRZMUk4?oc=5",
-      "published": "2026-05-25T09:00:44",
-      "sentiment_score": -0.669,
-      "sentiment_label": "Negative",
-      "confidence": 0.687
     },
     {
       "headline": "AI may speed up search for drugs to treat brain conditions",
@@ -369,15 +366,6 @@
       "confidence": 0.922
     },
     {
-      "headline": "After Deaths, Lawsuits Against A.I. Companies Test a New Strategy",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcF9BWnVjNHBqSUJ0a1NLcHlKR1NwSW9yQjVrVENOZU1aYThfeWZqc3ZyZU5XS19NcVRnUmRRRklvVVR3cU5jU1NEcExfMnBCVG51WmJlb0c4dDFQN1pLd0hWTXVDMlJUQmk3YllGUWVaWTVleGRScFFMN0pZMnJLZ0cxMl8zc3lk?oc=5",
-      "published": "2026-05-13T07:00:00",
-      "sentiment_score": 0.034,
-      "sentiment_label": "Neutral",
-      "confidence": 0.84
-    },
-    {
       "headline": "Tech Now",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
@@ -385,6 +373,15 @@
       "sentiment_score": 0.044,
       "sentiment_label": "Neutral",
       "confidence": 0.915
+    },
+    {
+      "headline": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3YzRU84RUFjYy1CT3FINVRrMC1xamZfWTVIbXhBVkVJWGE4SEdaNWdhVHktamFzejd2cFZRblpJdmcxclFoLXFweHloUm8yYzU4WUhnYURKTVkxd2dXQ1lCdFJ3QVhSTnR2MFJGSzdEMGs0ZGpYemZlNmo0cFNGeExXOGtnLVNqejNXY3FuUlNTaWFfZE5zWWQtT05fWVNRSm41OGwtMS0?oc=5",
+      "published": "2026-05-01T07:00:00",
+      "sentiment_score": -0.589,
+      "sentiment_label": "Negative",
+      "confidence": 0.611
     },
     {
       "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
