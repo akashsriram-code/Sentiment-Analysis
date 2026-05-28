@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-28T02:09:09.372654",
-  "total_articles": 31,
-  "overall_sentiment": -0.101,
+  "last_updated": "2026-05-28T09:46:17.715547",
+  "total_articles": 27,
+  "overall_sentiment": -0.201,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -41,13 +41,13 @@
       "moving_avg": -0.16
     },
     {
-      "date": "2026-05-21",
-      "avg_sentiment": 0.029,
-      "article_count": 2,
+      "date": "2026-05-19",
+      "avg_sentiment": 0.173,
+      "article_count": 1,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.122
+      "moving_avg": -0.094
     },
     {
       "date": "2026-05-22",
@@ -56,78 +56,123 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.111
+      "moving_avg": -0.087
+    },
+    {
+      "date": "2026-05-25",
+      "avg_sentiment": -0.669,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.17
     },
     {
       "date": "2026-05-26",
-      "avg_sentiment": -0.151,
-      "article_count": 15,
-      "positive_count": 3,
-      "negative_count": 9,
-      "neutral_count": 3,
-      "moving_avg": -0.117
+      "avg_sentiment": -0.086,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 5,
+      "neutral_count": 0,
+      "moving_avg": -0.057
     },
     {
       "date": "2026-05-27",
-      "avg_sentiment": -0.019,
-      "article_count": 7,
-      "positive_count": 3,
+      "avg_sentiment": -0.382,
+      "article_count": 6,
+      "positive_count": 1,
+      "negative_count": 4,
+      "neutral_count": 1,
+      "moving_avg": -0.118
+    },
+    {
+      "date": "2026-05-28",
+      "avg_sentiment": -0.249,
+      "article_count": 5,
+      "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": 0.006
+      "neutral_count": 3,
+      "moving_avg": -0.174
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.163,
+      "avg_sentiment": -0.256,
       "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.042,
+      "source": "Reuters",
+      "avg_sentiment": -0.28,
       "article_count": 4,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.278,
-      "article_count": 3,
+      "source": "The New York Times",
+      "avg_sentiment": -0.402,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.393,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.358,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.024,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.438,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.374,
+      "avg_sentiment": 0.487,
       "article_count": 2,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Time",
-      "avg_sentiment": -0.784,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Mistral rejects Pope Leo criticism of AI military use",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGpwbVBydXdPY0ROcGdKZFp1X21lenBkOVBqT3k3Ui1tLW5JcE5QZjBQTG5XX0VWMWlPT2FOVF9CYjBOT3dfYTZiekF4bUdGUi1Da0xBZUE4UmxxcXVZU1Y1dk1lMHZncHdqY0o1VURsQkRpWDBfMFhUMVRWQWpLOVN0aURkdXdFWlRaYm9WM3h5clFLQU9vcnh5X3V4TmttSGhMRkhxLUN4ZU10U2tvYg?oc=5",
+      "published": "2026-05-28T09:14:53",
+      "sentiment_score": -0.286,
+      "sentiment_label": "Neutral",
+      "confidence": 0.613
+    },
+    {
+      "headline": "Online Scams Have Evolved in the A.I. Era. Here\u2019s What to Do.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjZJdHlCS2xmOWVxV3NtX3drZC1DVEhFNGY2eDJ1ZlJISUYzam5FekUycHQ1Y1BXMlpWb1hKNGdocDZITnRKVjVIeDBsZnVBOE44UUdUc2FNUTI5ZllheDZ4dDd3M2J6bmlqUWM1NHlkQl9kOGxQVFNFR1ppWmY1WVp4LXR4RkhFaEZCYkIyS2V3V2hlMHlGY1dMcjhvR19VSVhldkhGUWxQUWNUNFhwTDI2S0VBcHI1ajdyVQ?oc=5",
+      "published": "2026-05-28T09:06:12",
+      "sentiment_score": -0.034,
+      "sentiment_label": "Neutral",
+      "confidence": 0.924
+    },
+    {
+      "headline": "Plots, love letters and remedies: The medieval secrets being revealed by AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0JidEJDOUVYRDF0UWhvbGcxbFhoT1lFNjAtbXdiQzFxME5mU283S3BKVTRNd1Q3THd6M2t2a2p6VG4wZ0JzbDhRMmlxUVlwYUtzY1pQckZ5THVWU29UTS1wZ3pBN3JHRk1CcWtURFlJSlV0dThqb2VabXdJWmhQTXcxZkc0S1N6dVY5cnBNcGlWamZMb0NlS3RpN2hTSlNTb2wzb3RjWDBmaWJtdjVOdV9zLTd0MzAtMkE?oc=5",
+      "published": "2026-05-28T09:00:58",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.934
+    },
+    {
+      "headline": "I Tried to Sell My House With a Chatbot",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnVpSE44ZEdqRWc0QnhENHRCa1p0YWpNQ2FyN2lEd2k4Wk9YWHdHbWU0eENsbDAyU1c5TENKWlF1NWZsLS1UbXU0S0ljRXBTWEpacEdBN1ZqQUR3dmFVNXR5LVdJampjVVBkX284VkJRcmtwaWliNGpIOEc2SU5TSjJzNy1JLU0?oc=5",
+      "published": "2026-05-28T09:00:06",
+      "sentiment_score": -0.026,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
+    },
+    {
+      "headline": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-28T08:28:43",
+      "sentiment_score": -0.898,
+      "sentiment_label": "Negative",
+      "confidence": 0.909
+    },
     {
       "headline": "Investors stay calm as AI capex boom eclipses dotcom mania",
       "source": "Reuters",
@@ -141,7 +186,7 @@
       "headline": "Global firms use AI at Indian hubs to bring more ad work in-house",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1ZDRU5na3FKOEZTNGdBdGZ2Q1U0WTEzRzZpMkNrOUpXOFE3cHpIT2djS2hFMTJOMmxjUzRzaGVmaWdlTjdYNmFlYTl3aVc1RDJldlBRTFY4WGFwNUJ6V1VzdHU1ZlB6UllSQkt5Nk0yMkxXRzc5QTVDZnVucFhpMEtYMUlEcmZVbGNJR2FxdHFQYWN5ek03MEFobm1CZjF2ZzNiZjBCNG55akwtX1UtcUlJVmZrU3pybVE?oc=5",
-      "published": "2026-05-27T21:12:49",
+      "published": "2026-05-27T14:33:00",
       "sentiment_score": 0.077,
       "sentiment_label": "Neutral",
       "confidence": 0.894
@@ -156,22 +201,22 @@
       "confidence": 0.943
     },
     {
-      "headline": "Opinion | Writing Is Fundamental to How We Think",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZMW53WVdEdkthT0ZkaGYtc0RLcXFzTnZMendDYTFuYmNmTlhTbXM5RVlfZzN3QXFhLWQwaUdhRDBHaUUxSEF2Z2pORjBFUFJSM1VfV040MjlNZkt6TVZ2elJDNUdLS0NCRjJ6dDU4anFEalBpZVRGcw?oc=5",
-      "published": "2026-05-27T09:02:01",
-      "sentiment_score": 0.002,
-      "sentiment_label": "Neutral",
-      "confidence": 0.935
+      "headline": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html",
+      "published": "2026-05-27T09:41:14Z",
+      "sentiment_score": -0.959,
+      "sentiment_label": "Negative",
+      "confidence": 0.968
     },
     {
-      "headline": "Semtech Announces First Quarter of Fiscal Year 2027 Results",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/semtech-announces-first-quarter-of-fiscal-year-2027-results-7138ff586949417a9a10941527ff0e94",
-      "published": "2026-05-27T01:51:55Z",
-      "sentiment_score": 0.208,
+      "headline": "How I won fantasy football in my first ever season - without using AI",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c8jvvvwepj1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-05-27T09:18:38Z",
+      "sentiment_score": -0.066,
       "sentiment_label": "Neutral",
-      "confidence": 0.776
+      "confidence": 0.838
     },
     {
       "headline": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
@@ -183,15 +228,6 @@
       "confidence": 0.478
     },
     {
-      "headline": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
-      "published": "2026-05-27T00:35:59Z",
-      "sentiment_score": 0.924,
-      "sentiment_label": "Positive",
-      "confidence": 0.946
-    },
-    {
       "headline": "Instagram betting ads featuring Kane and Haaland banned",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
@@ -199,33 +235,6 @@
       "sentiment_score": -0.121,
       "sentiment_label": "Negative",
       "confidence": 0.425
-    },
-    {
-      "headline": "Pope Leo Schooled the Tech Bros on Tolkien",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-      "published": "2026-05-26T23:19:03Z",
-      "sentiment_score": -0.067,
-      "sentiment_label": "Neutral",
-      "confidence": 0.808
-    },
-    {
-      "headline": "Jim Cramer previews SpaceX's IPO: 3 catalysts to watch and 1 big reservation",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/26/jim-cramer-previews-spacexs-ipo-3-catalysts-to-watch-and-1-big-reservation.html",
-      "published": "2026-05-26T22:45:39Z",
-      "sentiment_score": 0.024,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
-    },
-    {
-      "headline": "Trump officials split over Pope Leo\u2019s AI warning as Vatican feud enters new front",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html",
-      "published": "2026-05-26T21:18:58Z",
-      "sentiment_score": -0.855,
-      "sentiment_label": "Negative",
-      "confidence": 0.886
     },
     {
       "headline": "Why the Vatican Invited Anthropic to the Pope\u2019s AI Encyclical Presentation",
@@ -273,33 +282,6 @@
       "confidence": 0.543
     },
     {
-      "headline": "This startup is betting India's gig economy can train the world's robots | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-      "published": "2026-05-26T16:03:29Z",
-      "sentiment_score": 0.098,
-      "sentiment_label": "Neutral",
-      "confidence": 0.878
-    },
-    {
-      "headline": "Govee included a book on \u2018White Supremacy\u2019 in its website imagery",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
-      "published": "2026-05-26T15:07:40Z",
-      "sentiment_score": 0.031,
-      "sentiment_label": "Neutral",
-      "confidence": 0.887
-    },
-    {
-      "headline": "AI Tools Are Transforming Muslim Worship. Religious Scholars Are Conflicted",
-      "source": "Time",
-      "link": "https://time.com/article/2026/05/26/ai-muslim-worship/",
-      "published": "2026-05-26T14:37:40Z",
-      "sentiment_score": -0.623,
-      "sentiment_label": "Negative",
-      "confidence": 0.646
-    },
-    {
       "headline": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5",
@@ -309,22 +291,13 @@
       "confidence": 0.932
     },
     {
-      "headline": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-      "published": "2026-05-26T13:25:34Z",
-      "sentiment_score": -0.006,
-      "sentiment_label": "Neutral",
-      "confidence": 0.922
-    },
-    {
-      "headline": "Dropbox CEO Drew Houston to step down after 19 years at helm of cloud storage pioneer",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "published": "2026-05-26T13:15:01Z",
-      "sentiment_score": -0.262,
-      "sentiment_label": "Neutral",
-      "confidence": 0.701
+      "headline": "Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVVRiRk1rampoT2JhdVhkZDA1Y2laRW1XdUFyZ3gwV1FLcWxSUVUtRHd0VkZuSjNXLXJZVWpDMnVuc3duc3VLSll4SnhCUjI1c2JUVEp6Y3RHVFlrdDlTRDFoQmVsME92bGpZLWRfTjF0c0ZxQ0FpSnJ0TDItdE1DdVZXNWw5WFRZMUk4?oc=5",
+      "published": "2026-05-25T09:00:44",
+      "sentiment_score": -0.669,
+      "sentiment_label": "Negative",
+      "confidence": 0.687
     },
     {
       "headline": "AI may speed up search for drugs to treat brain conditions",
@@ -354,22 +327,13 @@
       "confidence": 0.689
     },
     {
-      "headline": "Meta settles social media addiction case with US school district",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-21T20:34:59",
-      "sentiment_score": -0.075,
+      "headline": "Singapore inks AI deals with Google, OpenAI as ChatGPT-maker commits $234 million to local ecosystem",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVZZN3JJb1lRZmdVR08tdkNvZWZUWTlOY0tUMzZERVlmVWZzUWhiQmFVdlJKb1dKSWlvdE8wQjRVNWNzandfSWRFb3ZYb2E5Wkx2N2dZRWliWEZqY2ZIeHZPelVmRGZTTHliZUVSSUw0NkkxbkdpaXBMYWxHQVJZVEItWVhBazZ5VW42bjFxTE92UjhhUnhSa3RuV21JRE14WlotV3ljMDJHdWRDU3JIVndDZ2tvV2JzRWlpZlhPYUpOZ9IBxwFBVV95cUxQODBYWkh5VnJZQ2tMcXJIeVZUMHF5dnFYUlZKdjh5ME5rd3d2ekZTYVo1T2xNWkNpQXJCd09BYXhUWWxfVkNjbms2X29USEs3VEtscERfdWRNZkdVRE8xNUJvekNWTFBGX3hpamxISWF0QWRmM0Mya2QwdlFwM1VoN1JQMm5LRHlFbU11cG1SSDBuQVQyYTVlUGxxZGI5ZWVCcWFwRTAzVFk2bjZqN2tGeG1vbmNEQVNfTUFsc3FLanNxTWJ2UHdZ?oc=5",
+      "published": "2026-05-19T07:00:00",
+      "sentiment_score": 0.173,
       "sentiment_label": "Neutral",
-      "confidence": 0.741
-    },
-    {
-      "headline": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-21T07:10:42",
-      "sentiment_score": 0.132,
-      "sentiment_label": "Positive",
-      "confidence": 0.512
+      "confidence": 0.772
     },
     {
       "headline": "OpenAI now wants ChatGPT to access your bank accounts",
