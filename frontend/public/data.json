@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-30T08:17:35.463600",
-  "total_articles": 29,
-  "overall_sentiment": -0.115,
+  "last_updated": "2026-05-30T13:04:56.289275",
+  "total_articles": 33,
+  "overall_sentiment": -0.195,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,21 +51,30 @@
     },
     {
       "date": "2026-05-28",
-      "avg_sentiment": -0.179,
-      "article_count": 8,
-      "positive_count": 2,
+      "avg_sentiment": -0.373,
+      "article_count": 6,
+      "positive_count": 1,
       "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.153
+      "neutral_count": 2,
+      "moving_avg": -0.186
     },
     {
       "date": "2026-05-29",
-      "avg_sentiment": -0.017,
-      "article_count": 13,
-      "positive_count": 5,
-      "negative_count": 3,
+      "avg_sentiment": -0.112,
+      "article_count": 18,
+      "positive_count": 7,
+      "negative_count": 6,
       "neutral_count": 5,
-      "moving_avg": -0.134
+      "moving_avg": -0.175
+    },
+    {
+      "date": "2026-05-30",
+      "avg_sentiment": -0.52,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.124
     }
   ],
   "source_stats": [
@@ -76,37 +85,55 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.103,
+      "source": "CNBC",
+      "avg_sentiment": -0.131,
       "article_count": 5,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.059,
+      "source": "The New York Times",
+      "avg_sentiment": -0.729,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.139,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.283,
+      "source": "The Verge",
+      "avg_sentiment": -0.441,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.004,
+      "avg_sentiment": 0.093,
       "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.441,
-      "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "My Partner\u2019s Dependence on Chatbots Is Becoming a Problem. How Do I Tell Him?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWEQyVW0zaFV5aVdHNTg2a3JWaW44RUR2WkdOWW5fZjM1UXNTMHo3QWpoRkFkTW1USWszdmExZ1d3Ni1GRGlxcDdScVNGVzFUSmlGQjdGUmVyNHYwMkFRWUprajY3X1Boak1lcmVCYk1oZXBVYkFUSjNxOUtzSUhzU0psdjdHNzBORlE?oc=5",
+      "published": "2026-05-30T10:00:11",
+      "sentiment_score": -0.52,
+      "sentiment_label": "Negative",
+      "confidence": 0.54
+    },
+    {
+      "headline": "AI Used to Be Generative. Now It\u2019s All About Agents",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGF5T2dtNDhyUmRtMWpVdnBGTDFMN1JUUjV0OGlIX2ZNb3VDLXhzX1MyeDU4cURvOFpjcWxKMmxIdHp4WF9fdWlod3hyeFRqQUkyYXlFWDlKcURCUnB4X3JHN1E4VjltTUtIVlBwbWRlbnVYWU9BS0k2VHg0OGNSODNmY2o4NHEwWVV2dkNyLWlwZW1ZQlJJd21wTnZ2ZGE3VC1VbHZTRkNFaWRicXZxLXVnUE1BRXZfWDltSA?oc=5",
+      "published": "2026-05-29T23:05:17",
+      "sentiment_score": -0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
+    },
     {
       "headline": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings",
       "source": "Reuters",
@@ -115,15 +142,6 @@
       "sentiment_score": -0.005,
       "sentiment_label": "Neutral",
       "confidence": 0.775
-    },
-    {
-      "headline": "Software stocks wrap up best month since 2001 as talk of 'SaaSpocalypse' subsides",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFFtQW9BR0ZwbnVFNG1zVElxMWN3cFV0S0Rfdmt4RERTcFNmcVJueXkyeXN3Z0JYUWVEYjlUVmxhLXotZ1hBd21UU0R1RDRDMjgtOVFacENkellwNTZwRFZtZ1FSQlZYYVdEcXJLcUI1Ny1nMURISTVEM0dDWkdrbEtKRk1yeUEwZkRVb3lRNzVxa2dfcUk5ZHFnVEN1MTgtMUQ1MWJJQzLSAa4BQVVfeXFMTlNlYmFlSXBHYjQxTXJiX0ZpUDB3UlpENHZzaDExUkRfZnYzZjJCQWJXeGY3b1dWWEFUdW4tM2RzeW9RSmp6Q3YwdTFsTE5GVk1wOFRYYTZ4eWxwbVVCcEx1YlJWYUNsak1DbVdzLVNLWEtaaFhHUHVaMjhoUlllQjdDbS1FVU1qTW5TSHNjdzUtMmEyUzZ1V2NpSmlSZ2pKS0dnQ3ZrbVZwYnI1MFpn?oc=5",
-      "published": "2026-05-29T21:03:37",
-      "sentiment_score": -0.497,
-      "sentiment_label": "Negative",
-      "confidence": 0.692
     },
     {
       "headline": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
@@ -144,6 +162,15 @@
       "confidence": 0.853
     },
     {
+      "headline": "Global equity funds draw weekly inflows as AI rally boosts sentiment",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTJocy1LUnhXclUxU3BfZTVEeGY3WGZieGRfS0JfbG43YWRUMGI3ZkctM0JFTnR3cjhBdHZEMVFvS05iNjE5T3AtOEpReEg5RUw3WlZmY21FUFFNNGlDb195NF9zSldRZUdEdm54REVVeEl2NWxVQmJteTU0VnFBeV8yY1I2Zw?oc=5",
+      "published": "2026-05-29T17:15:55",
+      "sentiment_score": 0.192,
+      "sentiment_label": "Positive",
+      "confidence": 0.508
+    },
+    {
       "headline": "Permission to Splurge: Gen AI Is Changing How Consumers Treat Themselves",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWW1JcnVJYjhscG5zVG9tb1lxcFFDWEMyQURjWkIyOUk5SDF1T1hzc3RHZW4xSG4xdGU5LUNyb1J4cGlhckhyMjZLTWhxcTY0R3NlTUhmS2RNaV9XOTY0SmR4ZzF2V3hWMUZLV2pTS3ZSdXJ0NlZZdV92NE0wd0txRWtMTU5fdmt3dHR1YzNXSVB0MHgyR1BjWFNIWHUxNXVMQUh2S1l2U0FmalB6dXc?oc=5",
@@ -162,22 +189,76 @@
       "confidence": 0.876
     },
     {
-      "headline": "Lawyers, meet your AI 'twin'",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3VFQ0ptcHpYblF6Tk5XeWlpUkFXbUszTjh6X1B1bFpEdUF3RU1ISDVaQTM0RVVRdnJvYmNyWDU1SkJMYld4S1NWQ2JxclV3UWE5VWc4bXJjV1pFOEFrX1dYY0ZBNTAxbWNsWmFfQzRVY1VJQ2hTUUdmbGs0NDE1UllPVmU?oc=5",
-      "published": "2026-05-29T11:49:05",
-      "sentiment_score": 0.012,
+      "headline": "Dan Ives: Anthropic\u2019s growth is 'just the tip of the sphere' for AI rally",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/29/dan-ives-anthropic-growth-tip-of-the-sphere-ai-theme.html",
+      "published": "2026-05-29T12:15:29Z",
+      "sentiment_score": 0.155,
       "sentiment_label": "Neutral",
-      "confidence": 0.923
+      "confidence": 0.809
     },
     {
-      "headline": "AI Used to Be Generative. Now It\u2019s All About Agents",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGF5T2dtNDhyUmRtMWpVdnBGTDFMN1JUUjV0OGlIX2ZNb3VDLXhzX1MyeDU4cURvOFpjcWxKMmxIdHp4WF9fdWlod3hyeFRqQUkyYXlFWDlKcURCUnB4X3JHN1E4VjltTUtIVlBwbWRlbnVYWU9BS0k2VHg0OGNSODNmY2o4NHEwWVV2dkNyLWlwZW1ZQlJJd21wTnZ2ZGE3VC1VbHZTRkNFaWRicXZxLXVnUE1BRXZfWDltSA?oc=5",
-      "published": "2026-05-29T11:02:01",
-      "sentiment_score": -0.032,
+      "headline": "SpaceX skeptics have added reason for concern after Musk comments diverge from IPO filing",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/29/spacex-skeptics-concerned-as-musk-comments-diverge-from-ipo-filing.html",
+      "published": "2026-05-29T12:00:01Z",
+      "sentiment_score": -0.349,
       "sentiment_label": "Neutral",
-      "confidence": 0.927
+      "confidence": 0.582
+    },
+    {
+      "headline": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute -- it's memory | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "published": "2026-05-29T12:00:00Z",
+      "sentiment_score": 0.417,
+      "sentiment_label": "Neutral",
+      "confidence": 0.554
+    },
+    {
+      "headline": "'You can't just leave it to the market': Frontrunner to replace UK PM Starmer calls for 'strong public control' over industry and AI",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/29/andy-burnham-makerfield-byelection-keir-starmer-tony-blair-ai.html",
+      "published": "2026-05-29T11:25:46Z",
+      "sentiment_score": -0.835,
+      "sentiment_label": "Negative",
+      "confidence": 0.851
+    },
+    {
+      "headline": "The Tech Download: How chip companies are looking to use light to solve this major AI bottleneck",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/29/tech-download-photonics-nvidia-ai-bottleneck.html",
+      "published": "2026-05-29T11:00:01Z",
+      "sentiment_score": 0.559,
+      "sentiment_label": "Positive",
+      "confidence": 0.571
+    },
+    {
+      "headline": "SpaceX IPO hype spurs crypto shadow market for pre-listing bets",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-ipo-hype-spurs-crypto-shadow-market-for-pre-listing-bets",
+      "published": "2026-05-29T10:35:33Z",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.891
+    },
+    {
+      "headline": "A.I. Doesn\u2019t Have to Mean Layoffs",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXZ3cWNGY01ZMWl5LWoxWnFRa0tpcHZ2TmotSVZUY1ZTdmxPR2hyaEdDMHJtRGo4UklCR1RzY3ZpUEItOG1RWmctWm04LUYta2FoeVRJZk5NYjNLdnloZTJHN0ttUFJCMlR6NDJGZ0I4R1VQMjRybVlmQXNsWXpWck14RQ?oc=5",
+      "published": "2026-05-29T09:11:19",
+      "sentiment_score": -0.847,
+      "sentiment_label": "Negative",
+      "confidence": 0.86
+    },
+    {
+      "headline": "Adobe\u2019s conversational AI agent is a mediocre design intern",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "published": "2026-05-29T08:56:45Z",
+      "sentiment_score": -0.441,
+      "sentiment_label": "Neutral",
+      "confidence": 0.511
     },
     {
       "headline": "Hundreds of prolific Wikipedia editors are threatening to go on strike",
@@ -198,24 +279,6 @@
       "confidence": 0.645
     },
     {
-      "headline": "CNBC Daily Open: Tech earnings defy Iran strikes and inflation concerns",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/29/cnbc-daily-open-tech-outshines-geopolitical-tensions-on-wall-street.html",
-      "published": "2026-05-29T01:11:59Z",
-      "sentiment_score": 0.858,
-      "sentiment_label": "Positive",
-      "confidence": 0.913
-    },
-    {
-      "headline": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "published": "2026-05-29T00:44:37Z",
-      "sentiment_score": 0.263,
-      "sentiment_label": "Neutral",
-      "confidence": 0.697
-    },
-    {
       "headline": "UiPath Reports First Quarter Fiscal 2027 Financial Results",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/business-wire/uipath-reports-first-quarter-fiscal-2027-financial-results-f65eeeec818147538cf56833f399cbaa",
@@ -225,31 +288,13 @@
       "confidence": 0.821
     },
     {
-      "headline": "Asana acquires no-code agent-builder Stack AI | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "published": "2026-05-28T20:07:56Z",
-      "sentiment_score": 0.228,
+      "headline": "Meeting the pope\u2019s call to put humanity first in a world of artificial intelligence | Letter",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHQxNjAyR0hvSzNBeWVlM0xEWDhUUmxsZG01TDltZXlXVHljQUxhbXJwVTNXR2RzSlJ0Mmh5S1dMa3VERlZsZ01oUENMX0xHYlk4eWQ0VEJRcGhBQlZBYUdubXZlWVBtX0NxeUFkMzJoWDc1bGYxeEhuMFBCQk1uVW04QnFBWFRtRlk3eHBqZGE3dDQyYzlSSEFiQjVIVWhqM1R6RVRhZ3pzMkRSU3l3TTdtYWFJNGtDckt5VjZydWFsVVE0RXdTdGw3M1Ytdw?oc=5",
+      "published": "2026-05-28T17:24:00",
+      "sentiment_score": 0.141,
       "sentiment_label": "Neutral",
-      "confidence": 0.756
-    },
-    {
-      "headline": "Anthropic Tops OpenAI to Become the World\u2019s Most Valuable A.I. Start-Up",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSi1XZmpReGJ1X3dWZ0JsQ1BHXzloYm93YjV2N09HX0VlRTFDa2huRE9jX3h6cWxQSDJDdVhnR1Awc01WZDRtVW13Zk50T3dINkJvSS13RkQ3WTM3d2NhRWpZWDV5VEhwV0FQMGRwNEJCdy1idFhIZXBqR3hUX0RHOHdEOU9lZU1GNXc?oc=5",
-      "published": "2026-05-28T17:00:09",
-      "sentiment_score": 0.698,
-      "sentiment_label": "Positive",
-      "confidence": 0.71
-    },
-    {
-      "headline": "At Disrupt 2026: Databricks\u2019 co-founder on what kills enterprise AI deals | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-      "published": "2026-05-28T14:34:59Z",
-      "sentiment_score": 0.026,
-      "sentiment_label": "Neutral",
-      "confidence": 0.936
+      "confidence": 0.83
     },
     {
       "headline": "RSI is the new AGI \u2014 and it\u2019s just as hard to pin down",
