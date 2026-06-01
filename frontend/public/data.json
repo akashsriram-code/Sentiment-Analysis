@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-01T17:18:46.512980",
+  "last_updated": "2026-06-01T21:22:55.536844",
   "total_articles": 34,
-  "overall_sentiment": -0.118,
+  "overall_sentiment": -0.216,
   "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-05-26",
-      "avg_sentiment": -0.128,
-      "article_count": 3,
+      "avg_sentiment": -0.116,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 3,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.128
+      "moving_avg": -0.116
     },
     {
       "date": "2026-05-27",
@@ -20,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.4
+      "moving_avg": -0.394
     },
     {
       "date": "2026-05-28",
@@ -29,84 +29,165 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.551
+      "moving_avg": -0.547
     },
     {
       "date": "2026-05-29",
-      "avg_sentiment": 0.207,
-      "article_count": 5,
-      "positive_count": 3,
+      "avg_sentiment": 0.302,
+      "article_count": 3,
+      "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.362
+      "neutral_count": 1,
+      "moving_avg": -0.335
     },
     {
       "date": "2026-05-30",
-      "avg_sentiment": 0.444,
-      "article_count": 5,
-      "positive_count": 5,
+      "avg_sentiment": 0.393,
+      "article_count": 4,
+      "positive_count": 4,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.2
+      "moving_avg": -0.189
     },
     {
       "date": "2026-05-31",
-      "avg_sentiment": 0.036,
-      "article_count": 6,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": -0.017,
+      "article_count": 4,
+      "positive_count": 1,
+      "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.161
+      "moving_avg": -0.16
     },
     {
       "date": "2026-06-01",
-      "avg_sentiment": -0.369,
-      "article_count": 11,
+      "avg_sentiment": -0.382,
+      "article_count": 17,
       "positive_count": 3,
-      "negative_count": 7,
-      "neutral_count": 1,
-      "moving_avg": -0.191
+      "negative_count": 11,
+      "neutral_count": 3,
+      "moving_avg": -0.192
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.472,
+      "avg_sentiment": -0.522,
       "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.278,
+      "avg_sentiment": 0.222,
       "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.302,
-      "article_count": 5,
-      "sentiment_label": "Positive"
+      "avg_sentiment": 0.022,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.241,
-      "article_count": 3,
+      "avg_sentiment": -0.156,
+      "article_count": 4,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.048,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
     },
     {
       "source": "WSJ",
       "avg_sentiment": -0.357,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": 0.026,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
+      "published": "2026-06-01T21:11:00",
+      "sentiment_score": -0.849,
+      "sentiment_label": "Negative",
+      "confidence": 0.864
+    },
+    {
+      "headline": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEhKM2VqMGUweGdtYjBzWHJVUVNBTUo0QWV0eEpPVmtDNkZHN0twdVNVenlWVElxVWtSUEc0eTNzWFlUV1hjWm9sc2k5U0t4cWM5QkpSMS1sVEJIR3pjY3VfRGtuRkN6QW1FVmFneXZNMndFUFYxMi00NjlUNFdudXBUVVVVTUFWSGlRRXRxMW5IZFpyTTFEb3dfV0xjRmo1Yl8xWG5uTTM1aTVW?oc=5",
+      "published": "2026-06-01T20:52:47",
+      "sentiment_score": -0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.854
+    },
+    {
+      "headline": "Microsoft and Google are late to AI coding, but 'absolutely critical' they compete for growth",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmdvMkc0RTNiVlR1NENhNjZjUXR6bk56bDFvR1R2ODV6NGt0bjVEMDR0LTF6YlYxWVFhaDdpT0tCemtjOWNxdVNNUTFjSEhzcHpoejlab3ZtMVd4QkVZRkgzZFZUZFcya0FmSUhKblQwVHo1RE5Ebk9zSXRTcVptNVVhM0p1dUozc29JaEZ6OGh5MkMwTkFKdnVfUjFpMFViNWRCNXRHUkViUdIBrwFBVV95cUxPZGl2M1JmMTFZdVE4X1VIOXJHNndwZi15dHBXVEZ5cUI0UkpRUVZvdE82b2UwdGRCeU5HRkVYaE1HMEFpTUt0NWgycXZfdHdwY2dUOFNLUnRac3VqOHM4MkxFdG04NXVUSm9uZWNlYjh5T0J1T2w5UkhWb3NKa2VGajhqUWlJR2syeU5TN290N0ZoZkl4dWRKeWVUTG10MktwMWl2R2NGUHpGd2Jwa2Ew?oc=5",
+      "published": "2026-06-01T20:18:21",
+      "sentiment_score": 0.066,
+      "sentiment_label": "Neutral",
+      "confidence": 0.874
+    },
+    {
+      "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0hyNGRfbjMybWROU1RXc2dTX2wyQzJHekNyUi1qYTRWMnBGR2xxQ1NBTVM2eFJYZnJPZ2V0Yk80N2dnX1VWQ2ZEdG9aaURQZlk3aHhfcnhodlE2MUR1X1g4R3ZOV0hPbWR4ZjQ4amEtV1lNel9raUkycXFJOUp4OV9yYks3NndIRjR6T0NUMjJla2ZpWVJFcF9wQzJyN0lqMHVLRjJheW5RcG0wUVBSYUJiUDE1VE5J?oc=5",
+      "published": "2026-06-01T20:03:40",
+      "sentiment_score": -0.736,
+      "sentiment_label": "Negative",
+      "confidence": 0.763
+    },
+    {
+      "headline": "AI-driven labor displacement risks to remain low in near term, Bridgewater says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbU1JNjRaSVhvR0x4a2dfVS1vN055MWZ3LXF6WTcxSW9aNVBlVjNHRGFET3BVRVNJM2dmOXc0cktxV3lEN0lIVV9lS0hKUGdKOC13cjQ1cS1DbkpwVDhueE9ZVWt2NzRQM2hSaWtHNFhTVWs3a3VMS3cwRkh0bnRUTXJtRlVCS3FTdlBxSm5ROTFFZThpMTFScTN1YWFObEQtQll6QXFNelltVDNmMjJrQk5Kb1Q2ZlRDM2p2RjdQdDhVbHhDOHNBZFNHNA?oc=5",
+      "published": "2026-06-01T19:55:36",
+      "sentiment_score": -0.609,
+      "sentiment_label": "Negative",
+      "confidence": 0.679
+    },
+    {
+      "headline": "OpenAI Sued by Florida\u2019s Attorney General Over AI Harms",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkVMZVNDTFdMZDJBNmd6R2xEakI2XzF6WnZCN0FhaE9odTVlaHYzR0NkeG5meGROOVNTbkljWU9BYlRMXzNiLW1GdE02NTBkcno2MUlBT3pVMkhKRGxlbDEyTzJTZnltejRqYm1idlpKNklhSWpBMUJBN3lxMktYWEhjQkFqc2hLaEVGZl9HVEdUSWowZXc?oc=5",
+      "published": "2026-06-01T19:11:00",
+      "sentiment_score": -0.729,
+      "sentiment_label": "Negative",
+      "confidence": 0.759
+    },
+    {
+      "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-01T18:58:26",
+      "sentiment_score": -0.601,
+      "sentiment_label": "Negative",
+      "confidence": 0.632
+    },
+    {
+      "headline": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUi02cDNYZFZuSk04X0FYVTV0TFJpc1VtMUxncmd5Y1FNeUtpYlVTRjA5YUxRX01TeFF0TUt5V0lBaEs0X1pxeXBqY0w1SzBUQXg0RGh5MUxzY0xHckFhOG5HdXZtZHNKOGRtOGU0S1VXeml5QUhHMHVjZTRwTVFGQmNMWm9tWS1OWmREWVptRWJqMDBDS19qSVNlNXM3UzlaUmNfRDRiRkN3cGVHWU8yVGxOQQ?oc=5",
+      "published": "2026-06-01T18:52:19",
+      "sentiment_score": -0.642,
+      "sentiment_label": "Negative",
+      "confidence": 0.672
+    },
+    {
+      "headline": "Decoding AI: How the political ad campaign world is being shaped by artificial intelligence",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb25nLU5Xc0hMbmZpd1NZdEpySDFCcWtiQ0Z6MFpPLWRnRUoxWG9Ub0RXLWxEZ3JmaC1qeXZRTy1SYi0yVFc3UVlNYXViTVpzamxpQ1QxeGgtX3pkMU5oSWRmTDFmb0ZzNTd6Tk1RMDhlZTJMM1A1WGFxb3NPbUpmYVlINEkxQmJMUXl1MXRac1FlSWotOFJRMldGNUhZS3JrazFaand5dldWMWJaMEpBNW1oOFRuOU5aTUIxeXlneWh2ZW5ia0NaTEVGOWRnZTZXazlOcnhYazI?oc=5",
+      "published": "2026-06-01T18:43:47",
+      "sentiment_score": -0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.94
+    },
     {
       "headline": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
       "source": "CNBC",
@@ -126,24 +207,6 @@
       "confidence": 0.917
     },
     {
-      "headline": "Florida lawsuit accuses OpenAI and CEO Sam Altman of endangering children",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnRneFRWckpKelZ1MXlBdm04NzNVXzA3aWw2QWF2YXdfWWpaRVBFWnEyc0w4R2ZmNUNMcndOVlcyUWxTQk11eTRvd3lmUXdaWV8zdjBjbnBSZ3dQXzlwYXRsV1c4TlU1MFVkUXJtb1hja2t0VWNQU2V4RUZrWU5wZS1hNlJoT1VfUDBnZWZ4d3UtakNrX21CYjFFZ1B6TGthUExzS2FrOVowSGV6bzFicU9Jd25WY1c0V0t4dw?oc=5",
-      "published": "2026-06-01T16:57:21",
-      "sentiment_score": -0.743,
-      "sentiment_label": "Negative",
-      "confidence": 0.762
-    },
-    {
-      "headline": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUZOYlJLUVZMbFBZckp5YXRlTjg3eEp1QnB6ZUFRUUJOVkxjTjZtSnpSRm83ZzR2WVM3SlNEWFBBalZMNnJNakI4SmJBUHZDcE9JN1gwaWNJbjZ4VTJ1Z3FMb19oa01PeGdtS241N1YtVjFoem5JdlI1blZTTUxQdGVkYW1PQW9GdTdDYll3?oc=5",
-      "published": "2026-06-01T16:38:28",
-      "sentiment_score": -0.894,
-      "sentiment_label": "Negative",
-      "confidence": 0.907
-    },
-    {
       "headline": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtS2E3dFVudU1ONHh4UFlOZG1reXp3WXhXZlNNZnpUOTd0YzRRaVVMUk9xMUNyekFrOGh5Yjh1Zi0xZlJNQTF2bGVfQ2lTQkJucmZWRG5tRDVYUldpZWRXeFNrR3hxLTRfLWQ3WjNZU3hKdw?oc=5",
@@ -153,24 +216,6 @@
       "confidence": 0.794
     },
     {
-      "headline": "Investment firm Permira taps Thoma Bravo veteran Mike Hoffmann as part of AI dealmaking push",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFd5Q3pQMUxKYW53ZExBMUdHQ0tEWm1HSGU4Rno2bkJoc3NoRnM5UHlyTlBqbDZCN3dLc3Z5VjY2MnlDYnF6eXRHbUlQT2VnWnRfNmFoQnlrSG4zOFpLQWlvUGVtbVp4TXRiVWVsQUdPWjczdm5YZ3lhSHZQczNDN2YzVDJIb2o1NHN1Nmt6dFpuS0Fad1lQd0ZlLUhJd1otd3daSUdjZU11R2tTZHlrVVRFYUtKa25DLU4ya1pPTlNseVpI?oc=5",
-      "published": "2026-06-01T14:58:09",
-      "sentiment_score": 0.567,
-      "sentiment_label": "Positive",
-      "confidence": 0.585
-    },
-    {
-      "headline": "OpenAI Sued by Florida\u2019s Attorney General Over AI Harms",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkVMZVNDTFdMZDJBNmd6R2xEakI2XzF6WnZCN0FhaE9odTVlaHYzR0NkeG5meGROOVNTbkljWU9BYlRMXzNiLW1GdE02NTBkcno2MUlBT3pVMkhKRGxlbDEyTzJTZnltejRqYm1idlpKNklhSWpBMUJBN3lxMktYWEhjQkFqc2hLaEVGZl9HVEdUSWowZXc?oc=5",
-      "published": "2026-06-01T14:55:00",
-      "sentiment_score": -0.729,
-      "sentiment_label": "Negative",
-      "confidence": 0.759
-    },
-    {
       "headline": "AI is blowing up music. How should the Grammys handle it?",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTEdxQVdXYm9FZVYzNktUcS1KQ21EM0NVa0RIVjBfXy1QWHNoRVdjU19HSjNELUVJU1FocU9oajJ3VktfTmotZ2EyZDZDUXFNY2hpaU1CQUk5MGo4NXNScW1zZGhSaU5SZkZwa21aX3EtMWdEaUJZYXBEUW5ZVEQxZktKZ2NWUQ?oc=5",
@@ -178,6 +223,15 @@
       "sentiment_score": -0.182,
       "sentiment_label": "Neutral",
       "confidence": 0.779
+    },
+    {
+      "headline": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Yc0ozZ2pHY0VSZnh0WlBPanFiUDhIaHliX3JvUmYzb1dJNkpFd2dXTExnN0dTbjFSbjBOYTgwV05YS2pYWmhIU29saE00V3FTSjE1bWZ6b1g2ajNQUUlhYWNqTndVVHJzTzFRbHFnU25zTUV3QVE?oc=5",
+      "published": "2026-06-01T14:14:27",
+      "sentiment_score": -0.847,
+      "sentiment_label": "Negative",
+      "confidence": 0.864
     },
     {
       "headline": "Nvidia announces new AI chip for personal computers",
@@ -198,13 +252,13 @@
       "confidence": 0.93
     },
     {
-      "headline": "\u2018More harmful than helpful\u2019: young people sour on AI",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzdqTTdVcDJQUGJ1Qkl0cjVtYXAwSTAwcHE3RDN3czB0ejdpTFBXUFdtbXg4TTlIcXoxYllMNFlEcm9NVnZRbEY1SWtnaG5HWW5jOW83RHRyR1pva2VXTUdERTl2QnJ2QWU1cmozYzh0WXpUVTE1eGpIb210dGR2WFdTckk?oc=5",
-      "published": "2026-06-01T04:00:21",
-      "sentiment_score": -0.777,
-      "sentiment_label": "Negative",
-      "confidence": 0.798
+      "headline": "Nvidia Has a Plan to Put Its Chips in Personal Computers",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSERUUl8wUUw4VHhfQ2dyVHBVNEQxeFEzVzVidnJGSXREbi1hVUZvVnFPMTNFRDgzOXJQSkFxcDhPTnJRYWZxQmtXM2VGd3FBRm1pc25TbU1QWUJfaFlFd2ZDR3g2eTRfbGJRZUtLVnhmR2kzUTBJZ29PeWw2ZnJGaHpHcXJNbERodWc?oc=5",
+      "published": "2026-06-01T05:16:40",
+      "sentiment_score": 0.049,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
     },
     {
       "headline": "The Pope's Take on Artificial Intelligence",
@@ -214,24 +268,6 @@
       "sentiment_score": 0.014,
       "sentiment_label": "Neutral",
       "confidence": 0.935
-    },
-    {
-      "headline": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMk95c0QtU0VUeVJsaXVkQ25WaFctV1RuZmxILU01RmdITmdaeUF6SmhMUkF5aVpXM1ZmUXk3bDFqdXhiVGlPWXdGeHVmQzF4NEdjNTBua3JBR1pQVnFPSXlBUnZ1M1pwY19JN0k5QldZZEhJd3BkZWhNaHliMWRVQUpmSFlTQUdsR1BIV0ZtQnVSeG16UlE?oc=5",
-      "published": "2026-05-31T13:01:00",
-      "sentiment_score": -0.06,
-      "sentiment_label": "Neutral",
-      "confidence": 0.887
-    },
-    {
-      "headline": "Top Wall Street analysts see robust growth potential in these 3 stocks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/31/top-wall-street-analysts-see-robust-growth-potential-in-these-3-stocks.html",
-      "published": "2026-05-31T11:50:08Z",
-      "sentiment_score": 0.342,
-      "sentiment_label": "Neutral",
-      "confidence": 0.634
     },
     {
       "headline": "SoftBank plans 75 billion euros of AI investments in France, as Europe struggles to catch up with U.S. and China",
@@ -259,15 +295,6 @@
       "sentiment_score": -0.376,
       "sentiment_label": "Neutral",
       "confidence": 0.465
-    },
-    {
-      "headline": "SoftBank says it will invest up to \u20ac75 billion to build French data centers | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "published": "2026-05-30T21:45:00Z",
-      "sentiment_score": 0.648,
-      "sentiment_label": "Positive",
-      "confidence": 0.656
     },
     {
       "headline": "Snap alums unveil Ghost Angels fund | TechCrunch",
@@ -306,15 +333,6 @@
       "confidence": 0.767
     },
     {
-      "headline": "24 Best Father\u2019s Day Gifts for Dads (2026)",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
-      "published": "2026-05-29T22:44:00Z",
-      "sentiment_score": 0.093,
-      "sentiment_label": "Neutral",
-      "confidence": 0.874
-    },
-    {
       "headline": "Software stocks wrap up best month since 2001 as talk of 'SaaSpocalypse' subsides",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
@@ -331,15 +349,6 @@
       "sentiment_score": 0.017,
       "sentiment_label": "Neutral",
       "confidence": 0.93
-    },
-    {
-      "headline": "So you've heard these AI terms and nodded along; let's fix that | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published": "2026-05-29T18:51:14Z",
-      "sentiment_score": 0.037,
-      "sentiment_label": "Neutral",
-      "confidence": 0.917
     },
     {
       "headline": "'Controversial' North Korean invasion setting for next Call of Duty game",
@@ -403,15 +412,6 @@
       "sentiment_score": -0.111,
       "sentiment_label": "Neutral",
       "confidence": 0.84
-    },
-    {
-      "headline": "Starmer vows to act on social media after meeting bereaved parents",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-26T16:29:53",
-      "sentiment_score": -0.151,
-      "sentiment_label": "Neutral",
-      "confidence": 0.543
     }
   ]
 }
