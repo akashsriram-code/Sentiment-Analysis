@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-31T19:05:06.718416",
-  "total_articles": 37,
-  "overall_sentiment": -0.051,
+  "last_updated": "2026-06-01T02:44:26.998218",
+  "total_articles": 36,
+  "overall_sentiment": -0.059,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,13 +14,22 @@
       "moving_avg": -0.878
     },
     {
+      "date": "2026-05-15",
+      "avg_sentiment": 0.046,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.416
+    },
+    {
       "date": "2026-05-22",
       "avg_sentiment": 0.893,
       "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.008
+      "moving_avg": 0.02
     },
     {
       "date": "2026-05-26",
@@ -29,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.038
+      "moving_avg": -0.017
     },
     {
       "date": "2026-05-27",
@@ -38,43 +47,52 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.196
+      "moving_avg": -0.148
     },
     {
       "date": "2026-05-28",
-      "avg_sentiment": -0.588,
+      "avg_sentiment": -0.548,
       "article_count": 4,
-      "positive_count": 0,
+      "positive_count": 1,
       "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.275
+      "neutral_count": 0,
+      "moving_avg": -0.215
     },
     {
       "date": "2026-05-29",
-      "avg_sentiment": -0.032,
-      "article_count": 13,
+      "avg_sentiment": -0.039,
+      "article_count": 12,
       "positive_count": 5,
       "negative_count": 2,
-      "neutral_count": 6,
-      "moving_avg": -0.234
+      "neutral_count": 5,
+      "moving_avg": -0.19
     },
     {
       "date": "2026-05-30",
-      "avg_sentiment": 0.353,
-      "article_count": 8,
-      "positive_count": 7,
+      "avg_sentiment": 0.387,
+      "article_count": 6,
+      "positive_count": 6,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.15
+      "neutral_count": 0,
+      "moving_avg": -0.009
     },
     {
       "date": "2026-05-31",
-      "avg_sentiment": -0.048,
+      "avg_sentiment": -0.017,
       "article_count": 5,
       "positive_count": 0,
-      "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.032
+      "negative_count": 1,
+      "neutral_count": 4,
+      "moving_avg": -0.018
+    },
+    {
+      "date": "2026-06-01",
+      "avg_sentiment": -0.035,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.15
     }
   ],
   "source_stats": [
@@ -86,83 +104,92 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.141,
+      "avg_sentiment": 0.231,
       "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.338,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.176,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.793,
+      "source": "The Guardian",
+      "avg_sentiment": 0.053,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.032,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "Bloomberg.com",
-      "avg_sentiment": 0.001,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
+      "source": "Wired",
+      "avg_sentiment": -0.245,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.357,
+      "avg_sentiment": -0.222,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.009,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.782,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.774,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "This model is not a real person: how AI is shaking up fashion \u2013 video",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTh4aHlvWnhzRENaVjE3ZEtRMVduZkZBNER2d3BwakdzUFR4N3M2ZGpoSW1MckhENy1jM2J2Z0ZZYzRmTzFRTnI1U3lsT2xyb0xsLVlWVXQ3ZHd3b2FwalRpMVBvVXZDYURmSXlpRzV2Z1JObElmenlFZjRTdU9sWnZMa1BnaS1QWmY0RTdWOFprZw?oc=5",
-      "published": "2026-05-31T15:05:47",
-      "sentiment_score": -0.059,
+      "headline": "Kate Kallot, AI founder: A global digital divide?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sXzFLQjgtQV9WZWxQTlU5cEpibHN0Zm80MkhJSkxTYWprT2NjVS04eXNLd1JrZHlfckp4a09yTUV0QklUa1VSMzBfT2tLWXpW?oc=5",
+      "published": "2026-06-01T00:54:38",
+      "sentiment_score": -0.035,
       "sentiment_label": "Neutral",
-      "confidence": 0.897
+      "confidence": 0.902
     },
     {
-      "headline": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHFpZEp6NWljOUNlRmpmcVJJcHI2YVZsbFQya1B1RTZVWGV0YUFERG40Tl9xMlEzTFRBX0t3NWVXUGFJMUpNQ040M1ZFNVhCVmhwSkFwSWt3c2NGUzZ2QVdZcEtZUHdtbEJjLUVWeHVObXBKaU9sMFVFaWJLWnczdy1YdDBKTkZmMzNjbjBfQTR1U3B2ekVnYW9MWkdDdm1LTUxUR29waW9OT0R1ZXZOZlN4UQ?oc=5",
-      "published": "2026-05-31T13:00:07",
-      "sentiment_score": 0.033,
+      "headline": "This model is not a real person: how AI is changing online shopping up \u2013 video",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTh4aHlvWnhzRENaVjE3ZEtRMVduZkZBNER2d3BwakdzUFR4N3M2ZGpoSW1MckhENy1jM2J2Z0ZZYzRmTzFRTnI1U3lsT2xyb0xsLVlWVXQ3ZHd3b2FwalRpMVBvVXZDYURmSXlpRzV2Z1JObElmenlFZjRTdU9sWnZMa1BnaS1QWmY0RTdWOFprZw?oc=5",
+      "published": "2026-05-31T23:20:00",
+      "sentiment_score": -0.016,
       "sentiment_label": "Neutral",
-      "confidence": 0.846
+      "confidence": 0.933
+    },
+    {
+      "headline": "The Pope's Take on Artificial Intelligence",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWJjOG9HeS1nS0ZITkcxa3oxY0lPOHN4MmdUOVRTSDdVR2tIQ0lJSGoxVHZqazJyZFdKT2ZTRG9YS1dVQ1ExZ1FEUTZYVEdrU3hOS2ExS0NRSFYtY1dhWGFkRmY5WGhjdEdIRVRBOTVHeWxWTmNBTURmRHdDSVBmdk5zaEpsX2Nzb2hoamV3NlJSNC16TzV5SUFPc1VCd1VWczcyWUlXZnp1eHE5RjRONzF3VGdMd2JRbU4wMlFvaEtNLWZKWnQwY0pIei1CeU5QTDl1RVVuZlY1MGw1UmtkeA?oc=5",
+      "published": "2026-05-31T22:59:46",
+      "sentiment_score": 0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.935
+    },
+    {
+      "headline": "The Week in Breakingviews: The AI backlash arrives",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnN6WFptcjZtemE1Nkd6TmlHSmxSWlJCTVhrMUd4SEtNdXp6cS1kakNTeWl3VWFUR1ZjallBem5nSWVfaFJJT3pOZVhRSGVvWFdleXEyWmFBS3MzX3FHdXg4NHBBZ2RQU0hoM293TDFUeWpGTGJnTFJZY0Z5dGdfTDJJbXltbUFqVGk5WkNtOGJETnM?oc=5",
+      "published": "2026-05-31T22:45:23",
+      "sentiment_score": 0.026,
+      "sentiment_label": "Neutral",
+      "confidence": 0.851
     },
     {
       "headline": "Are \u2018mind children\u2019 the future of reproduction?",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0U4aFhnQmFobmR4MUN4UEdWMjVuSDAyeG94OHRJZzZ5VGEwRTNMRGR3NEZsNXpPNmo4a2NCTkZwblVkOTdmdHN5ZHphMEd3X3FKZjNLbXJVMjUwb19lSzhHVFRfZ2QwZlp6LVZhQmlWMTBZdGRfcDNaaEdVLUN3WDZqRHhDdTlvODhvMDZFNHN2Qjk2?oc=5",
-      "published": "2026-05-31T12:17:00",
+      "published": "2026-05-31T20:45:00",
       "sentiment_score": -0.005,
       "sentiment_label": "Neutral",
       "confidence": 0.927
-    },
-    {
-      "headline": "Opinion | There\u2019s Something Else We Should Be Worrying About",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVFsUEZFZmU2alpLWWxaRVhKMDJuWVA5b2o1QmRKSHZQanU5VjdlRG1sVmVOdERqYzFOOG11Rms5OFRQYy1mdmV1TmJkMnFuZmxvb0VLbmdfNzdTZzdxTUZ2MzB0MENpTkJFeDAzVHJVaHY2dTlmcUhVS2liU01OTE85T1dNT001RGx3?oc=5",
-      "published": "2026-05-31T11:00:13",
-      "sentiment_score": -0.107,
-      "sentiment_label": "Neutral",
-      "confidence": 0.837
     },
     {
       "headline": "How Turkey Hacked the Hair-Transplant Industry",
@@ -172,6 +199,15 @@
       "sentiment_score": -0.103,
       "sentiment_label": "Neutral",
       "confidence": 0.842
+    },
+    {
+      "headline": "SoftBank says it will invest up to \u20ac75 billion to build French data centers | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "published": "2026-05-30T21:45:00Z",
+      "sentiment_score": 0.648,
+      "sentiment_label": "Positive",
+      "confidence": 0.656
     },
     {
       "headline": "Snap alums unveil Ghost Angels fund | TechCrunch",
@@ -210,15 +246,6 @@
       "confidence": 0.839
     },
     {
-      "headline": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
-      "published": "2026-05-30T12:00:01Z",
-      "sentiment_score": 0.814,
-      "sentiment_label": "Positive",
-      "confidence": 0.876
-    },
-    {
       "headline": "Meta has struggled at selling anything other than ads. Will AI be different?",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
@@ -226,24 +253,6 @@
       "sentiment_score": 0.75,
       "sentiment_label": "Positive",
       "confidence": 0.767
-    },
-    {
-      "headline": "Opinion | The First A.I. High School in the U.S. Is Surprisingly Human",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeVFBOU9acF82bzFULVA3dVh1MTdmcUVEYVgzbGFKaWQ3eEFMZGNTOE9TR1VvTS12V0hKMnBkdXJEX2U1LThGcjM3a3FCb2p6RzQwNXMwZHp0U2FBS3BCVU5aNHBBM3pybFJrN3A3cw?oc=5",
-      "published": "2026-05-30T11:00:09",
-      "sentiment_score": 0.304,
-      "sentiment_label": "Neutral",
-      "confidence": 0.656
-    },
-    {
-      "headline": "Do You Actually Need to Pay for Transcription Software?",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
-      "published": "2026-05-30T09:30:00Z",
-      "sentiment_score": 0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.911
     },
     {
       "headline": "AI Used to Be Generative. Now It\u2019s All About Agents",
@@ -345,15 +354,6 @@
       "confidence": 0.851
     },
     {
-      "headline": "A Microcap Just Staked a Claim in the AI Agent Security Land Grab",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/a-microcap-just-staked-a-claim-in-the-ai-agent-security-land-grab-efc94c1a3f78a3f2a6a5d8175f428a09",
-      "published": "2026-05-29T14:55:57Z",
-      "sentiment_score": 0.045,
-      "sentiment_label": "Neutral",
-      "confidence": 0.925
-    },
-    {
       "headline": "'Controversial' North Korean invasion setting for next Call of Duty game",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
@@ -363,13 +363,13 @@
       "confidence": 0.876
     },
     {
-      "headline": "The internet is being rebuilt for machines",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORkt0Uk1FSEk0d202VDFpbzZYZklWZy16MjFLX29LVGF1Ny10bmU2aEZ6MjlCMk5qdmtvZ3kwOHVOWF9YWXYwbDZJU2JpWkRxNkpIelJVVFJlenphQU1Tck5FNEdacF9LVWd2REtRSE1NeE9iU2FXR2dZRnVNLXQtdmJmcw?oc=5",
-      "published": "2026-05-28T21:24:01",
-      "sentiment_score": 0.022,
+      "headline": "Meeting the pope\u2019s call to put humanity first in a world of artificial intelligence | Letter",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHQxNjAyR0hvSzNBeWVlM0xEWDhUUmxsZG01TDltZXlXVHljQUxhbXJwVTNXR2RzSlJ0Mmh5S1dMa3VERlZsZ01oUENMX0xHYlk4eWQ0VEJRcGhBQlZBYUdubXZlWVBtX0NxeUFkMzJoWDc1bGYxeEhuMFBCQk1uVW04QnFBWFRtRlk3eHBqZGE3dDQyYzlSSEFiQjVIVWhqM1R6RVRhZ3pzMkRSU3l3TTdtYWFJNGtDckt5VjZydWFsVVE0RXdTdGw3M1Ytdw?oc=5",
+      "published": "2026-05-28T17:24:00",
+      "sentiment_score": 0.179,
       "sentiment_label": "Neutral",
-      "confidence": 0.935
+      "confidence": 0.792
     },
     {
       "headline": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
@@ -451,6 +451,15 @@
       "sentiment_score": 0.893,
       "sentiment_label": "Positive",
       "confidence": 0.902
+    },
+    {
+      "headline": "OpenAI now wants ChatGPT to access your bank accounts",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzF2ekdKT3hxelI4eG9RX3BFa1YtVTUxN2FDNmxmYmx3cUtCQlV6cDBoSXFBTjhJdm1BNHdGVXd5QmdIQi04NnBfcDZXcGpvVmotLXFsa1B2QWxEZUhqcUJyMzY4RktTN0RfZTRSUjdETzJoTTB0a1VpOUNRT3BSbVlvZEdCMG5qU3JHSW5iRlFGaDZGR0VUZ3hPeDktZ3N4UVRoSUZxNHJ5aW03b3c?oc=5",
+      "published": "2026-05-15T07:00:00",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
     },
     {
       "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
