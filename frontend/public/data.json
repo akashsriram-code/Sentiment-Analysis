@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-03T16:45:50.696483",
-  "total_articles": 36,
-  "overall_sentiment": -0.19,
+  "last_updated": "2026-06-03T20:48:27.963225",
+  "total_articles": 37,
+  "overall_sentiment": -0.22,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,30 +24,30 @@
     },
     {
       "date": "2026-06-01",
-      "avg_sentiment": -0.584,
-      "article_count": 12,
+      "avg_sentiment": -0.714,
+      "article_count": 10,
       "positive_count": 0,
       "negative_count": 9,
-      "neutral_count": 3,
-      "moving_avg": -0.207
+      "neutral_count": 1,
+      "moving_avg": -0.25
     },
     {
       "date": "2026-06-02",
-      "avg_sentiment": 0.062,
-      "article_count": 17,
-      "positive_count": 10,
-      "negative_count": 3,
-      "neutral_count": 4,
-      "moving_avg": -0.14
+      "avg_sentiment": 0.003,
+      "article_count": 19,
+      "positive_count": 12,
+      "negative_count": 4,
+      "neutral_count": 3,
+      "moving_avg": -0.187
     },
     {
       "date": "2026-06-03",
-      "avg_sentiment": -0.17,
-      "article_count": 5,
+      "avg_sentiment": -0.171,
+      "article_count": 6,
       "positive_count": 2,
-      "negative_count": 2,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.146
+      "moving_avg": -0.184
     }
   ],
   "source_stats": [
@@ -59,42 +59,72 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.052,
-      "article_count": 6,
+      "avg_sentiment": -0.373,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.214,
+      "source": "CNN",
+      "avg_sentiment": 0.001,
       "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.075,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.303,
-      "article_count": 4,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": -0.668,
-      "article_count": 2,
+      "avg_sentiment": -0.468,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "WSJ",
-      "avg_sentiment": -0.374,
+      "avg_sentiment": -0.233,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.236,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.102,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.199,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.399,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "What do UK watchdog\u2019s new rules on Google AI results mean for publishers?",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2dqU3g0eF9hQmpMQjNiQmlLUU1raEtST3FzN0cxVjVFcmU1TnlORFJURnplSkRQdV9yeEZNREdMMEtTanRtNUZVaXRkRUxYN3plRDloSEJEZkl2dXZaVlhWczlYU20wNnM5aHJBX3R3R1NNY1BvSFVzR1E3SG4yMGZ5WkZIeEplTllRclhCcWdHaXNpeXNKZWJEYUFNNE9ZZEJZaDI1Si15cTd1blZKU3ZLN0s?oc=5",
+      "published": "2026-06-03T17:44:00",
+      "sentiment_score": -0.069,
+      "sentiment_label": "Neutral",
+      "confidence": 0.887
+    },
+    {
+      "headline": "Cisco Chief Automation Officer: \u2018Generative AI Is a Generational Technology\u2019",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmtxeTRVNjFDR1FCNVZqbzkwMFBDYnp2Y1dLR2ROTjhfaWt4Rzg1VXBMSVY2ek5KM19hYm9ScVZZSmN4WVQycXc0MGlHYlJhX0ppZ0ZsS1R5QXE2dWZBaFdqcGFITG02Rl81Nl9LUExDM0F6S1ZZZjExNjRCcnlMSmZ2cUprVDhvcmNUR1BJMGs3dmxjbTg2MFZNQzQzc2tPWTB4S3Z0R01ackFkMFBTdQ?oc=5",
+      "published": "2026-06-03T16:00:00",
+      "sentiment_score": -0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.92
+    },
     {
       "headline": "Phone signal on trains not good enough most of the time, research says",
       "source": "BBC News",
@@ -105,13 +135,13 @@
       "confidence": 0.937
     },
     {
-      "headline": "What\u2019s Driving Trump\u2019s Big A.I. Pivot",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtZnh3c3RUeDlPc2F0ekxLbjdNS3JTS3dFYWYtZXZUdVI5SUwxRXNZS3RWLTczb1ZFb2JkMHg3VlNncm52dTdOazlkQWo0TVBiWV9raWxkajVmdWRDTkZ6eWxmZVpETUtkUEc3ZHlfWFRxY3lmSEdNVE81TmY?oc=5",
-      "published": "2026-06-03T12:15:10",
-      "sentiment_score": -0.046,
+      "headline": "Mark Zuckerberg Wants Meta\u2019s New AI Agents to Run Your Whole Business",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkthUlJlSTFOV29kR1A4S3ZMTmEzMDluY1pIampKY3RZUkxQX1NKajFwaVRnLVkwSzFHdTJ5aERYVWhHNGFOWlNtRWV1SXlpaXVLeXI0c18wcUhBNU1HRzYwRlZDWUhBeGk3S1hmcGV1LTBBS3dmSm1tX2g4eFdvSVJDcHp5QkdSNFZ3Y291MHlZTlN4Qzg5Ty05UEpWYUVPNEcxSQ?oc=5",
+      "published": "2026-06-03T13:56:00",
+      "sentiment_score": 0.051,
       "sentiment_label": "Neutral",
-      "confidence": 0.887
+      "confidence": 0.926
     },
     {
       "headline": "As the tech mega-IPO race heats up, has OpenAI missed its moment?",
@@ -121,15 +151,6 @@
       "sentiment_score": -0.651,
       "sentiment_label": "Negative",
       "confidence": 0.681
-    },
-    {
-      "headline": "Private infra, real estate capital to play larger financing role in AI data center boom, Goldman says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEsxN1FwX28wYlE5SDg0WW5RZFpQajFCR1ctQjhZUTFoVXNUclcwUV9weFBmUU8tb01HcHFFOWV4SGYxaGI4YzFtcXNEU01aV3lhaUdzOExadkMwelp4dEVxdHBNbUJOQVgzeE03WW4zTERrMVZoTFdkb0lpMmNsLWV5WE91ZGoxTTRPalpLYUYxZ2ZsNzlfVl9vcmFuRDdXa0pNWmZhc25xZEpDVW5yb0pibktGNnVycVJyckZTbEZXZ1Y0VU5DRWJzSEtJdw?oc=5",
-      "published": "2026-06-03T08:46:12",
-      "sentiment_score": 0.183,
-      "sentiment_label": "Neutral",
-      "confidence": 0.797
     },
     {
       "headline": "Publishers in UK can opt out of Google AI search results",
@@ -168,6 +189,105 @@
       "confidence": 0.893
     },
     {
+      "headline": "Palo Alto Networks pops 12% on earnings beat, rosy guidance",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html",
+      "published": "2026-06-02T20:20:12Z",
+      "sentiment_score": 0.187,
+      "sentiment_label": "Positive",
+      "confidence": 0.583
+    },
+    {
+      "headline": "Microsoft Build 2026: the 7 biggest announcements",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "published": "2026-06-02T19:25:30Z",
+      "sentiment_score": 0.086,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
+      "headline": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "published": "2026-06-02T18:34:34Z",
+      "sentiment_score": 0.573,
+      "sentiment_label": "Positive",
+      "confidence": 0.593
+    },
+    {
+      "headline": "Trump signs executive order to review AI models before they\u2019re released",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "published": "2026-06-02T18:33:42Z",
+      "sentiment_score": 0.475,
+      "sentiment_label": "Neutral",
+      "confidence": 0.497
+    },
+    {
+      "headline": "People are flooding AI chatbots with health questions. Microsoft is teaming up with Mayo Clinic to help | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/06/02/tech/ai-for-healthcare-microsoft-mayo-clinic",
+      "published": "2026-06-02T18:30:07Z",
+      "sentiment_score": -0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
+      "headline": "Microsoft launches Scout, an OpenClaw-inspired personal assistant | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "published": "2026-06-02T18:04:23Z",
+      "sentiment_score": 0.297,
+      "sentiment_label": "Neutral",
+      "confidence": 0.682
+    },
+    {
+      "headline": "Microsoft offers devs a better way to control AI agent behavior | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "published": "2026-06-02T18:02:40Z",
+      "sentiment_score": 0.101,
+      "sentiment_label": "Neutral",
+      "confidence": 0.877
+    },
+    {
+      "headline": "Trump signs executive order asking for access to new AI models before they launch | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/06/02/tech/executive-order-trump-ai",
+      "published": "2026-06-02T17:44:50Z",
+      "sentiment_score": 0.785,
+      "sentiment_label": "Positive",
+      "confidence": 0.796
+    },
+    {
+      "headline": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+      "published": "2026-06-02T17:39:32Z",
+      "sentiment_score": -0.898,
+      "sentiment_label": "Negative",
+      "confidence": 0.916
+    },
+    {
+      "headline": "Decoding AI: Is the technology an existential risk to humanity? This expert says it\u2019s not",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFFENGRNcE5wYW84UDE5UElrVGQ1bnpPRFhMd1NlWlgwUHJjRElfSFF0Zk9rZkFkSDR1enFvbTc3ZWViSWlSVzV0UlBMNW5uN1cxb1A0eXZ5aE11UFRxRlZOVnltZE44aFFaNWJucW1aSnNxU3VoZVU1cVRUZzFXVGN1OC10VmJ3RTBRUmE2X3N4c090SVpOcHpLblRVQUMwMUZ2N3VtaUdqdUpBU1VZN2FzTmlwcXVoTlk0cXRPc3laeFc0bm9JTQ?oc=5",
+      "published": "2026-06-02T17:35:18",
+      "sentiment_score": -0.049,
+      "sentiment_label": "Neutral",
+      "confidence": 0.9
+    },
+    {
+      "headline": "Microsoft\u2019s Project Solara is an OS for AI agent gadgets",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "published": "2026-06-02T17:31:02Z",
+      "sentiment_score": 0.148,
+      "sentiment_label": "Neutral",
+      "confidence": 0.834
+    },
+    {
       "headline": "AI beats law professors in Stanford tutoring study",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzRRS2ZtUUdIeEpEajdVZ3B3akotWVNxTnBIZUdmUDhpTkJDdmpJTzdJQkFTRWZYSXE3MDRKWHdEWHhoWXRGem94TVFKUVF2YVJYS251TDh3OVdRcU1TOWhyejd2N3I3MjdRN0NNa0E0b3J5bUdiR0YtSTdUaG92d04yNDYtdk5JbFZ1dHB0dWNPMHZRUUlPVVh2YUczRzRCZXNCUjB3?oc=5",
@@ -175,33 +295,6 @@
       "sentiment_score": 0.022,
       "sentiment_label": "Neutral",
       "confidence": 0.913
-    },
-    {
-      "headline": "Martin Scorsese Is Embracing A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHZhNVdqXzUzbHloU2FxVlZzX2dRM1hidUJ3NlR5ZlMyam1ibUVpaHZVRkQzU2dXTHBWMTcwd0wwdU1LUTZodk9VZll5cFRsY1I4SU8wMnY1aFF5QUxVNUgwNGtCbTlzMW1ycHN6MEVKcFk5UFRCUW53aVRMTFdnekJ2dVZQZUFacjhWUjlYZVpac1IzR1VQc3JB?oc=5",
-      "published": "2026-06-02T16:38:05",
-      "sentiment_score": 0.076,
-      "sentiment_label": "Neutral",
-      "confidence": 0.883
-    },
-    {
-      "headline": "OpenAI launches new Codex tools for white-collar work | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "published": "2026-06-02T16:00:54Z",
-      "sentiment_score": 0.235,
-      "sentiment_label": "Neutral",
-      "confidence": 0.745
-    },
-    {
-      "headline": "Trump signs AI executive order asking companies to give government early access to models",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
-      "published": "2026-06-02T15:49:33Z",
-      "sentiment_score": 0.036,
-      "sentiment_label": "Neutral",
-      "confidence": 0.907
     },
     {
       "headline": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
@@ -213,67 +306,13 @@
       "confidence": 0.786
     },
     {
-      "headline": "How Europe\u2019s AI strategy diverges from Silicon Valley\u2019s | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/",
-      "published": "2026-06-02T15:05:00Z",
-      "sentiment_score": 0.015,
+      "headline": "Martin Scorsese Is Embracing A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHZhNVdqXzUzbHloU2FxVlZzX2dRM1hidUJ3NlR5ZlMyam1ibUVpaHZVRkQzU2dXTHBWMTcwd0wwdU1LUTZodk9VZll5cFRsY1I4SU8wMnY1aFF5QUxVNUgwNGtCbTlzMW1ycHN6MEVKcFk5UFRCUW53aVRMTFdnekJ2dVZQZUFacjhWUjlYZVpac1IzR1VQc3JB?oc=5",
+      "published": "2026-06-02T13:00:07",
+      "sentiment_score": 0.076,
       "sentiment_label": "Neutral",
-      "confidence": 0.915
-    },
-    {
-      "headline": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "published": "2026-06-02T14:46:06Z",
-      "sentiment_score": 0.775,
-      "sentiment_label": "Positive",
-      "confidence": 0.782
-    },
-    {
-      "headline": "Job openings in April surged to 7.6 million, the highest in nearly two years",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/02/job-openings-april-2026.html",
-      "published": "2026-06-02T14:40:59Z",
-      "sentiment_score": 0.859,
-      "sentiment_label": "Positive",
-      "confidence": 0.918
-    },
-    {
-      "headline": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/02/anthropic-mythos-ai-project-glasswing.html",
-      "published": "2026-06-02T13:34:57Z",
-      "sentiment_score": 0.542,
-      "sentiment_label": "Positive",
-      "confidence": 0.551
-    },
-    {
-      "headline": "Gemini Spark is the most impressive and terrifying AI experience I\u2019ve had yet",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-      "published": "2026-06-02T12:38:08Z",
-      "sentiment_score": 0.06,
-      "sentiment_label": "Neutral",
-      "confidence": 0.891
-    },
-    {
-      "headline": "ZeroDrift raises $10 million to protect AI models from themselves | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "published": "2026-06-02T12:34:04Z",
-      "sentiment_score": 0.189,
-      "sentiment_label": "Neutral",
-      "confidence": 0.742
-    },
-    {
-      "headline": "Alphabet's stock sale, Iran negotiations, Anthropic's IPO plans and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/02/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-06-02T12:09:05Z",
-      "sentiment_score": -0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.921
+      "confidence": 0.883
     },
     {
       "headline": "Nvidia's new PC chips represent CEO Huang's bid to win at every layer of AI stack",
@@ -312,13 +351,13 @@
       "confidence": 0.713
     },
     {
-      "headline": "Florida becomes first state to sue OpenAI over child safety risks",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1RxMnp2ak1OekQtTWRjdXR1QjBsX1poVlRjVklwSWotT3FfUDNsdUFIdVhYa1A0ZlFHS3NSSlZrOWt4bEU2MzFEaENuWG1CZFkyNkZ5al9HU1o0VmQtRDJhUzIwOVBRQThldTNUdmZUeVdvN0dmdFVLa2NDZHFxb0ZIWVRxcHpyTk9GOVUweUV4bXdvYkNtamotMm5oYW5LRnQxZ1c2S1QwWEhldnhTMnhuVG5kUQ?oc=5",
-      "published": "2026-06-01T21:08:06",
-      "sentiment_score": -0.686,
+      "headline": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
+      "published": "2026-06-01T21:37:00",
+      "sentiment_score": -0.849,
       "sentiment_label": "Negative",
-      "confidence": 0.714
+      "confidence": 0.864
     },
     {
       "headline": "OpenAI Sued by Florida\u2019s Attorney General Over AI Harms",
@@ -382,24 +421,6 @@
       "sentiment_score": -0.874,
       "sentiment_label": "Negative",
       "confidence": 0.887
-    },
-    {
-      "headline": "Cisco Chief Automation Officer: \u2018Generative AI Is a Generational Technology\u2019",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2J3MVlzWVd0aHJTUmx6RzZyaHozS1NtbG1sV3NxTFhVMFhKcFdlNXFvQVpwNWQ3NVVxbnhQSWlWQ3c3TlBEamhoRGtZSnJFcWhFSkRDZWVNREQzb0ZzWG1IVzRmbVVVTXdrU1liMVhnc213Tm1jR3lQcGEzeWRsWkRmSHR4WU1QUW83cU5DLUlTa1BDVEtPdi0tMXN0Qy1mNE9DYXBIREp4NVl2V21DbQ?oc=5",
-      "published": "2026-06-01T16:00:00",
-      "sentiment_score": -0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.92
-    },
-    {
-      "headline": "China Aims A.I. at Predicting Who Could Pose a Political Risk",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdThIS1REZUZJeFRGZzYzcGFNRnNnNFBnTlhoR1BaR2k1WGJ6Q1ZVZ3NlTEtuOTdqRVVaYmpfT0dpbG5RclJNMkkzWmFmeVN0U180X1pyYVF1c185cl9SOU5NZjd2d3BORWEzblcyZkJybG9YaHlVZTFuRHJuby1JZGgtN2xfdw?oc=5",
-      "published": "2026-06-01T09:01:55",
-      "sentiment_score": -0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
     },
     {
       "headline": "'Controversial' North Korean invasion setting for next Call of Duty game",
