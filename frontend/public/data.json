@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-05T02:33:01.802890",
-  "total_articles": 37,
-  "overall_sentiment": -0.117,
+  "last_updated": "2026-06-05T09:31:41.233642",
+  "total_articles": 30,
+  "overall_sentiment": -0.176,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-06-01",
-      "avg_sentiment": -0.758,
+      "avg_sentiment": -0.303,
       "article_count": 2,
       "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.434
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.207
     },
     {
       "date": "2026-06-02",
@@ -29,63 +29,66 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.371
+      "moving_avg": -0.219
     },
     {
       "date": "2026-06-03",
-      "avg_sentiment": 0.009,
-      "article_count": 14,
-      "positive_count": 8,
+      "avg_sentiment": -0.403,
+      "article_count": 7,
+      "positive_count": 2,
       "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.276
+      "neutral_count": 1,
+      "moving_avg": -0.265
     },
     {
       "date": "2026-06-04",
-      "avg_sentiment": -0.116,
-      "article_count": 16,
+      "avg_sentiment": 0.006,
+      "article_count": 12,
       "positive_count": 5,
-      "negative_count": 5,
-      "neutral_count": 6,
-      "moving_avg": -0.244
+      "negative_count": 4,
+      "neutral_count": 3,
+      "moving_avg": -0.211
+    },
+    {
+      "date": "2026-06-05",
+      "avg_sentiment": -0.213,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.211
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.283,
-      "article_count": 9,
+      "avg_sentiment": -0.242,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.517,
-      "article_count": 6,
+      "avg_sentiment": -0.557,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Bloomberg",
-      "avg_sentiment": 0.189,
-      "article_count": 4,
-      "sentiment_label": "Positive"
+      "source": "Reuters",
+      "avg_sentiment": -0.272,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.071,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "BBC",
-      "avg_sentiment": 0.043,
+      "avg_sentiment": 0.045,
       "article_count": 2,
       "sentiment_label": "Neutral"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.043,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "CNN",
-      "avg_sentiment": 0.258,
-      "article_count": 2,
-      "sentiment_label": "Positive"
     },
     {
       "source": "Wired",
@@ -94,21 +97,51 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.559,
+      "source": "WSJ",
+      "avg_sentiment": 0.015,
       "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.204,
-      "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
-      "headline": "'World-first' vaccine designed by Artificial Intelligence",
+      "headline": "Opinion | Why Those Commencement Speakers Deserved Those Boos",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTjM2WTQ1S1VlMFdkTHFwV3lKNkdUelRWcldGZHdvWG9qQXJIX0puaGcwS3AySmdqWi1aRm9PRFVDM1FSc2p4WktZS1NNY0paM19TQ0RQR2ZZOF9ycDlCaE0xendfeEVMSXFVRVZOSy1GMEhiY1Q1VF9GMEN4eXJKbG1aNFJFcTlSZ0d5TksyOHFZd0xvS3c?oc=5",
+      "published": "2026-06-05T09:04:35",
+      "sentiment_score": -0.197,
+      "sentiment_label": "Neutral",
+      "confidence": 0.716
+    },
+    {
+      "headline": "At the Ambitious New A.I Museum, You Feel the Art, and It Feels You Right Back",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVltelExaDhjeWNnTU1QQXl2RmlBOWVxWTcxZ3JNN0R0YlhsckY0eGVoeUFSRG9hdV9TZVhtS0xGdDA2LXYxcF9zWGY3LThiLWZIQjhGeTFvX0xnVnZmRUh1bnFXOTBuTzliS0FnUV9DODd1VnhzQUhtc2RVVXM4MUpFYVNFM3R5V0M4VTBYRndMTUFldjRMUHgyRk9HOHVvTmlJQUthQVlOWFRhaURz?oc=5",
+      "published": "2026-06-05T09:01:10",
+      "sentiment_score": 0.056,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
+      "headline": "We need to stop AI developing without human input, says Anthropic co-founder",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-05T07:17:39",
+      "sentiment_score": 0.192,
+      "sentiment_label": "Neutral",
+      "confidence": 0.767
+    },
+    {
+      "headline": "Japan could end up an 'AI colony' if it falls behind, digital minister warns",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0tsNGx5MmtYTGNpT2RxdkU2dEcyYzU2dU5MdGpRMVhVTzhWaHRGQWx6SmpOcjIyaW1aRDlXUjI5dndobV9zdV9ocGR1bU9nTzFJYW1RaWJsb3pJelBIcG4xU0tONEYyQnhZNUtBZmxMWDBKYWJJZlhTcmgxN2JPX2lHYWI5d0wzeE5ZMWNGS2RMclk2WTRaYk44T3FWYko0Z1dnUlN0dG9sdmIxWndqZzVOS0ZLOEFmd0tHSlNPaXBfSmtmOTQ0YW1iLV8?oc=5",
+      "published": "2026-06-05T05:04:09",
+      "sentiment_score": -0.901,
+      "sentiment_label": "Negative",
+      "confidence": 0.917
+    },
+    {
+      "headline": "'World-first' vaccine designed by artificial intelligence",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ic1pqaHNzUkFQcDFQT00zc2dNdl9zcmt5bFl3X204VHJlMDVfdS1hVDRwdV9PQW9WaWpxdDdnVkhTa0l3bTloRjlGdTBSRU1jNENxOVd5VXp2QQ?oc=5",
       "published": "2026-06-04T23:29:06",
@@ -126,15 +159,6 @@
       "confidence": 0.809
     },
     {
-      "headline": "AI needs a 'brake pedal', warns Anthropic co-founder",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-04T21:53:25",
-      "sentiment_score": 0.056,
-      "sentiment_label": "Neutral",
-      "confidence": 0.867
-    },
-    {
       "headline": "US House lawmakers release draft bill to prohibit state AI rules",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG5Sb0owaXRhbUlnSGpYRWV3c3lYOTRva2FsdE1ZYjZDYTRmU2FYS0wwa2VNYTBSblB3cHRsbjJOXzNMQllnU1QzNjU0THJmZ0ZhVmllV2hGZllQU2NZaEVhOTlYWTJxeVZPa2psOG5kOFdEaEx0MU9vSzlhemRycGotbkJUWE95aElJbjVweFhMaXZGS0tMdFRn?oc=5",
@@ -142,24 +166,6 @@
       "sentiment_score": -0.097,
       "sentiment_label": "Neutral",
       "confidence": 0.813
-    },
-    {
-      "headline": "Carney Picks a Middle (Powers) Ground With Canada\u2019s AI Strategy",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW43eldnaXdNTkN2bWhWUEdiV2dEaXJqR0I4ejFYOGJBX1Z5bC1HaWdWZ202U3pFSTgtLVNEUXh4Snh6Z0dhUHVKbUJFaXZ3Rk9QYTliN0sxMURaRjlYSkF2UGtpZWt1Nl9FWnAwcGdlRU9pdE53bDByRUp5OHprcW1pT2FrcFlNYlhFTk54Z1hYdEsyRjFZMkhaM0NHVE41X1FiS0VMazFsSmh1TVQwWUtfVjQ3ZS0wYTJJc1lkVWE?oc=5",
-      "published": "2026-06-04T21:12:48",
-      "sentiment_score": 0.202,
-      "sentiment_label": "Neutral",
-      "confidence": 0.76
-    },
-    {
-      "headline": "Airbnb CEO Brian Chesky Plans to Start a New AI Company",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXlqMEE1S3VTbWJyNTVKcWMzVDRuMFRlMkRRc2dHUXJJRWhLMFdwUWRDM05ZVnJiZGZKZEZnc0FyeFYwdXdOYzBKSzVxWDQ2ekxvWHZpZU43QlRQbVhTMFVZakRMY2Y4M08zLS1RMmNhWDNzWE1rZ1JxTmh4TFRTMnFWbGxheHJ2aGJJV0dBTERWOUhQbmlPdVFHeldndzhUWjhyQ2Jnajl5Zw?oc=5",
-      "published": "2026-06-04T19:12:11",
-      "sentiment_score": 0.016,
-      "sentiment_label": "Neutral",
-      "confidence": 0.945
     },
     {
       "headline": "Decoding AI: How artificial intelligence is being utilized in the housing and rental market",
@@ -171,31 +177,13 @@
       "confidence": 0.943
     },
     {
-      "headline": "What to know about Canada's new AI strategy",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MeGRHX1FVWVRZWGg5R21hMjduaTRvUXBkbEI4ZHlyLVhOM3ExOXRwVzhMd3ZIaHIycGxIbERPYnNmU1dqX1hqRnVCdWNpZmZXVzRjbXU5TUk1Zw?oc=5",
-      "published": "2026-06-04T17:04:47",
-      "sentiment_score": -0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.937
-    },
-    {
       "headline": "Generative AI Market Poised to Reach $2.3 Trillion by 2032 as Agentic Systems Proliferate and Infrastructure Demand Surges, According to Bloomberg Intelligence | Press | Bloomberg LP",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxORlpKOU5xc2NWUlVGTTctUVVPM0ZBRnNUR0w2bTlBZ2NyVlp0WnZjam94SXhCNkFrSEF1eVFTWVE2Y2xBWjFsT2tCY0hDQlNaNmM5MEtBLW9mSC1NaHlYaGNMSFNSbXhUeVRQdG9UOThzNk5tZXdJTXpUOVJHWVliMXdWSmQ5U2lmOTd3RUlQYXY5a0Y0V1JLdG9BV2tySVAwekxQb2QxWTVRTnVjenROX2UzNXR2UEV3bko4XzIyWWFmWmxDRzNKRjY0dmQ2NUFhZEtUQ01Dd1pIZ1ZNa2otUGpfTVdKMzBPZWwtR1VBbnVzSHN2eEJZN1hma2RtOXlZbl9FLTZyaTRhRS0xS2JtRTVPUGpFYTEycG50WmhGdko5YWZp?oc=5",
       "published": "2026-06-04T15:05:48",
       "sentiment_score": 0.548,
       "sentiment_label": "Positive",
       "confidence": 0.566
-    },
-    {
-      "headline": "Why You Can\u2019t Stop Investing in Artificial Intelligence",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkZLckV2R0x1VE95a2R2YXo1Nnc3YVZJTTNmTFBvZi1yZTVxZ2hWb0pMaGY3UHl0dm1Fcm9NSHVuMmx4dzNDZktCSXhYUFdRbkVrOVRNT01tV0NpYk9UNmFwTGRIaV9lVE1uXzJDWFBxdzVwbUxyU3pyTmI3bWNDYXQyXzJRZ2F2NDlSZFZGeUF5UGFkeXBha1ZXWWFPN05mTDM1Qk1oTG1CN3M5aWJOWkJIbTZiRmhXVGZNMFNQcHEtOWVWUVE?oc=5",
-      "published": "2026-06-04T14:50:58",
-      "sentiment_score": -0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.923
     },
     {
       "headline": "America Needs One National Framework for Artificial Intelligence",
@@ -216,13 +204,40 @@
       "confidence": 0.912
     },
     {
-      "headline": "My year with the robots: how Joanna Stern let AI into her home, work \u2013 and heart",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObElKQkRYYnFkX3R3eDlkMUhvV1czaUtQaTBGRHpTckhyWjU2YzFWd3NrazRzTE91bUdiOVZrZnlBM2l1WDNJbk9oQlZCMHRYNkllZlJYYVJBeFd5ZXJDYUlkdkhabUlHNExEcUViSDFQeEl2RlpPNnN2N3pKS2sweHh4ZW9IUFFLZHNKNnYzTQ?oc=5",
-      "published": "2026-06-04T04:00:00",
-      "sentiment_score": 0.013,
+      "headline": "Plater's 'annual pilgrimage' to the Isle of Man TT",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/sport/motorsport/articles/c0j2xeqxnn5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-06-04T08:20:11Z",
+      "sentiment_score": -0.01,
       "sentiment_label": "Neutral",
-      "confidence": 0.901
+      "confidence": 0.919
+    },
+    {
+      "headline": "CNBC Daily Open: Stock markets sense a shift",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-stock-markets-sense-a-shift.html",
+      "published": "2026-06-04T06:35:10Z",
+      "sentiment_score": 0.527,
+      "sentiment_label": "Positive",
+      "confidence": 0.738
+    },
+    {
+      "headline": "Benchmark raises its first-ever growth fund as part of $2B capital raise | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+      "published": "2026-06-04T03:52:15Z",
+      "sentiment_score": 0.578,
+      "sentiment_label": "Positive",
+      "confidence": 0.598
+    },
+    {
+      "headline": "SoftBank\u2019s OpenAI bet and rising debt are raising liquidity crunch concerns",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/04/softbank-openai-liquidity-crunch-arm-son.html",
+      "published": "2026-06-04T02:47:13Z",
+      "sentiment_score": -0.833,
+      "sentiment_label": "Negative",
+      "confidence": 0.908
     },
     {
       "headline": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
@@ -234,33 +249,6 @@
       "confidence": 0.754
     },
     {
-      "headline": "Inside India newsletter: Why Taiwan and South Korea's stock markets have surged past India within a week",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/04/why-taiwan-and-south-koreas-stock-markets-have-surged-past-india.html",
-      "published": "2026-06-04T00:24:11Z",
-      "sentiment_score": -0.962,
-      "sentiment_label": "Negative",
-      "confidence": 0.97
-    },
-    {
-      "headline": "Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
-      "published": "2026-06-04T00:00:02Z",
-      "sentiment_score": -0.953,
-      "sentiment_label": "Negative",
-      "confidence": 0.962
-    },
-    {
-      "headline": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/03/elon-musks-net-worth-poised-to-sail-past-1-trillion-in-spacex-ipo.html",
-      "published": "2026-06-03T22:58:33Z",
-      "sentiment_score": 0.187,
-      "sentiment_label": "Neutral",
-      "confidence": 0.792
-    },
-    {
       "headline": "Jim Cramer warns excess supply could be the next biggest threat to the bull market",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/06/03/jim-cramer-warns-excess-supply-could-be-the-next-biggest-threat-to-the-bull-market.html",
@@ -268,15 +256,6 @@
       "sentiment_score": -0.958,
       "sentiment_label": "Negative",
       "confidence": 0.969
-    },
-    {
-      "headline": "SpaceX sets the stage for a record $75 billion IPO | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/06/03/business/spacex-ipo-valuation-musk",
-      "published": "2026-06-03T20:56:51Z",
-      "sentiment_score": 0.503,
-      "sentiment_label": "Positive",
-      "confidence": 0.515
     },
     {
       "headline": "Broadcom stock slips on disappointing software revenue",
@@ -288,15 +267,6 @@
       "confidence": 0.974
     },
     {
-      "headline": "Alphabet's record-breaking $85B raise for Google's AI business is a helluva good signal | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "published": "2026-06-03T19:40:43Z",
-      "sentiment_score": 0.879,
-      "sentiment_label": "Positive",
-      "confidence": 0.888
-    },
-    {
       "headline": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
       "source": "Wired",
       "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
@@ -304,24 +274,6 @@
       "sentiment_score": -0.591,
       "sentiment_label": "Negative",
       "confidence": 0.618
-    },
-    {
-      "headline": "AdLift's Tesseract Launches Claude AI Integration and AI Traffic Analytics",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/adlifts-tesseract-launches-claude-ai-integration-and-ai-traffic-analytics-6428517564b490a85d81e4e7aa0ae846",
-      "published": "2026-06-03T17:46:55Z",
-      "sentiment_score": 0.233,
-      "sentiment_label": "Neutral",
-      "confidence": 0.751
-    },
-    {
-      "headline": "Amazon\u2019s search bar will invent AI-generated products you can\u2019t buy",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "published": "2026-06-03T16:07:31Z",
-      "sentiment_score": 0.024,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
     },
     {
       "headline": "Cisco Chief Automation Officer: \u2018Generative AI Is a Generational Technology\u2019",
@@ -333,24 +285,6 @@
       "confidence": 0.92
     },
     {
-      "headline": "OpenAI CEO Sam Altman to meet with lawmakers, Trump officials in D.C.",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html",
-      "published": "2026-06-03T15:19:17Z",
-      "sentiment_score": 0.549,
-      "sentiment_label": "Positive",
-      "confidence": 0.59
-    },
-    {
-      "headline": "Publishers will be able to opt out of AI Search, thanks to new regulation | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "published": "2026-06-03T14:59:33Z",
-      "sentiment_score": 0.24,
-      "sentiment_label": "Neutral",
-      "confidence": 0.738
-    },
-    {
       "headline": "Phone signal on trains not good enough most of the time, research says",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&at_campaign=rss",
@@ -360,13 +294,13 @@
       "confidence": 0.937
     },
     {
-      "headline": "Microsoft and OpenAI broke up \u2014\u00a0now they\u2019re ready to fight",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "published": "2026-06-03T14:04:28Z",
-      "sentiment_score": 0.383,
+      "headline": "Mark Zuckerberg Wants Meta\u2019s New AI Agents to Run Your Whole Business",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkthUlJlSTFOV29kR1A4S3ZMTmEzMDluY1pIampKY3RZUkxQX1NKajFwaVRnLVkwSzFHdTJ5aERYVWhHNGFOWlNtRWV1SXlpaXVLeXI0c18wcUhBNU1HRzYwRlZDWUhBeGk3S1hmcGV1LTBBS3dmSm1tX2g4eFdvSVJDcHp5QkdSNFZ3Y291MHlZTlN4Qzg5Ty05UEpWYUVPNEcxSQ?oc=5",
+      "published": "2026-06-03T13:56:00",
+      "sentiment_score": 0.051,
       "sentiment_label": "Neutral",
-      "confidence": 0.59
+      "confidence": 0.926
     },
     {
       "headline": "Publishers in UK can opt out of Google AI search results",
@@ -414,22 +348,22 @@
       "confidence": 0.836
     },
     {
+      "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IUFN4T3VUZFhlSnZ4eVVWaEJqVE1mUFNJaC1vU01jcmU5VFplNE81WkhKYnRKclUyV0Vtb2J5Ykh6LXVJcHJySUZ0UWQteC1OSkg4NmJEeWxjQQ?oc=5",
+      "published": "2026-06-01T18:58:26",
+      "sentiment_score": -0.016,
+      "sentiment_label": "Neutral",
+      "confidence": 0.872
+    },
+    {
       "headline": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
       "source": "Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUi02cDNYZFZuSk04X0FYVTV0TFJpc1VtMUxncmd5Y1FNeUtpYlVTRjA5YUxRX01TeFF0TUt5V0lBaEs0X1pxeXBqY0w1SzBUQXg0RGh5MUxzY0xHckFhOG5HdXZtZHNKOGRtOGU0S1VXeml5QUhHMHVjZTRwTVFGQmNMWm9tWS1OWmREWVptRWJqMDBDS19qSVNlNXM3UzlaUmNfRDRiRkN3cGVHWU8yVGxOQQ?oc=5",
       "published": "2026-06-01T18:52:19",
-      "sentiment_score": -0.642,
+      "sentiment_score": -0.591,
       "sentiment_label": "Negative",
-      "confidence": 0.672
-    },
-    {
-      "headline": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUZOYlJLUVZMbFBZckp5YXRlTjg3eEp1QnB6ZUFRUUJOVkxjTjZtSnpSRm83ZzR2WVM3SlNEWFBBalZMNnJNakI4SmJBUHZDcE9JN1gwaWNJbjZ4VTJ1Z3FMb19oa01PeGdtS241N1YtVjFoem5JdlI1blZTTUxQdGVkYW1PQW9GdTdDYll3?oc=5",
-      "published": "2026-06-01T16:38:28",
-      "sentiment_score": -0.874,
-      "sentiment_label": "Negative",
-      "confidence": 0.887
+      "confidence": 0.636
     },
     {
       "headline": "Tech Life",
