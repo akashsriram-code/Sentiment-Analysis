@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T02:42:45.023884",
-  "total_articles": 28,
-  "overall_sentiment": -0.092,
+  "last_updated": "2026-06-08T10:18:43.324406",
+  "total_articles": 26,
+  "overall_sentiment": -0.051,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-06-01",
-      "avg_sentiment": -0.445,
-      "article_count": 2,
+      "avg_sentiment": -0.016,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.278
+      "moving_avg": -0.064
     },
     {
       "date": "2026-06-03",
@@ -29,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.241
+      "moving_avg": -0.098
     },
     {
       "date": "2026-06-04",
@@ -38,34 +38,43 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.256
+      "moving_avg": -0.148
     },
     {
       "date": "2026-06-05",
-      "avg_sentiment": 0.108,
-      "article_count": 7,
+      "avg_sentiment": 0.126,
+      "article_count": 6,
       "positive_count": 4,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.183
+      "neutral_count": 1,
+      "moving_avg": -0.094
     },
     {
       "date": "2026-06-06",
-      "avg_sentiment": -0.13,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 3,
+      "avg_sentiment": -0.158,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.174
+      "moving_avg": -0.104
     },
     {
       "date": "2026-06-07",
-      "avg_sentiment": -0.044,
-      "article_count": 7,
+      "avg_sentiment": -0.042,
+      "article_count": 8,
       "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 4,
-      "moving_avg": -0.156
+      "neutral_count": 5,
+      "moving_avg": -0.095
+    },
+    {
+      "date": "2026-06-08",
+      "avg_sentiment": 0.05,
+      "article_count": 2,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.072
     }
   ],
   "source_stats": [
@@ -77,15 +86,21 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.024,
-      "article_count": 4,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.144,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.131,
+      "avg_sentiment": -0.124,
       "article_count": 3,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.05,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Washington Post",
@@ -102,6 +117,24 @@
   ],
   "articles": [
     {
+      "headline": "Apple Has Another Go at A.I., but Don\u2019t Call It a Reinvention",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGlGMkdXWFVzMkh3ODdyaUQxMUZ5cE5VdVA5TkZhc19iTE9LRjU4X1dyYy1xY0M2SUxGZHFaVG5pYXBVVVhMTHU1RWNDNXRJZ19Oc2tVSXZINkYxUnZIVmt0UlBUYjRHWlhNWi15MEk4WWF3TU1fbFhyZHNJTDNwa3Z3N01FVG5qSDhHUnJaZkxjUQ?oc=5",
+      "published": "2026-06-08T09:01:51",
+      "sentiment_score": 0.087,
+      "sentiment_label": "Neutral",
+      "confidence": 0.881
+    },
+    {
+      "headline": "Why Your Next Diagnosis May Be Guided by an A.I. Helper",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KV2hFX3JBVWE3ZHFOandpWGcwell0Rl9fZXo4azhWS1ltNXg5VVBNVXlUZW9KM2FSZ0lab1FzNTlZSlBoOHlrUmZ5YVloT2tQMnJSdS04eG8zMkZaYkQ5M3IxWFFyY0dkYWI2anh4dlRBMS1EVlow?oc=5",
+      "published": "2026-06-08T09:00:39",
+      "sentiment_score": 0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
+    {
       "headline": "Opinion | Human intelligence will win out over artificial intelligence",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREJsN2RmaFVCN1VFNU14WVpnTnhHOGE5WUp1aWNJdU5aQzZXREh2NHczM285cGNZVnlOSXlFRHNsX2otMWFtaDBDQ1FFVmZIbUZQT1VHQkNIYWhvM2RhUllncVBienFUeklWcU9vbGZzZnc3VEdKQl9tXzhVSXhsc2hvUVBrOU1rQ0cwWXFJU0d0ZEltT3lkVkVjZw?oc=5",
@@ -111,40 +144,49 @@
       "confidence": 0.828
     },
     {
-      "headline": "Diplomacy in the Age of Artificial Intelligence",
+      "headline": "AI Can Analyze a Crisis. It Can\u2019t Broker Peace",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2hmR0p4UE9tbG9iVUR3WnlIMF8tclNDQ0h3TklNdWZDM0gzWFpRX0NMUzFCY0xPWXU5QWFZMkV2U3lUUF9qT3JLdlhjcU42TGF1ams4MUltSVpjV1FyY1NpRG0wRW1CM0dYUHNibHE4YlF2MGdJejBVeTBnR1FkRlVkM19JbTBIYVFzNUE4NXBIdHRzOGlTZHNZTFczX1J1eUJv?oc=5",
       "published": "2026-06-07T18:00:32",
-      "sentiment_score": 0.015,
+      "sentiment_score": -0.021,
       "sentiment_label": "Neutral",
-      "confidence": 0.936
+      "confidence": 0.913
+    },
+    {
+      "headline": "OpenAI is still working on that \u2018super app\u2019",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWRzbzVCSHBQWjhOWFV3MGlmMC04Uzd2V2t4SlFGNnRsdl9tWm53QnNfVXBkcVZHRWVFX0VZX1FGOGV5dDFTd2o4R3FpUWlhRHBpejZtb2RvWmxvblcxQkZVTUVRUkRLNzVLaHJ0bXN5c1JKdXFxcFg2Szl3SDJRTVpR?oc=5",
+      "published": "2026-06-07T16:23:22",
+      "sentiment_score": 0.09,
+      "sentiment_label": "Neutral",
+      "confidence": 0.88
     },
     {
       "headline": "The Artificial Intelligence Backlash",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VpUEs3SF9PQmVDdjVIS3BwQ09CODNIR0w5SXRvcnUwbE1PTHk4a3dRNnRYOUhBMElidDRoazJ4ZTgzNjVlU0I5WTVYQUZBWm9WXzNzY2p0U244Q1I1bUFJTlBMWnREcGVnUFZyOGRsSjIxenRrUDRzTk5QUXQzN2w3S2hYZmtfb0pnVXlkM0d0QlVCQ3JSUjgzS05Cb3BVRDlUUmdVVWJBeWluMVVNVkF3a1QweDBLc2RFRk9DSjBDMTd2VllpSndqMDJHbVlaUmVJX2VaVFhGTDQ?oc=5",
-      "published": "2026-06-07T13:24:21",
+      "published": "2026-06-07T13:54:21",
       "sentiment_score": -0.008,
       "sentiment_label": "Neutral",
       "confidence": 0.944
     },
     {
-      "headline": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2xHTDYxZVZuTExBeGRfM3psWmk5Z3hGVXlsa3lubU5fLWRYbmdnSnRxWW9Wd3Q1WFM2Z3NXOVpBSk5mT0QyLUlLZnFFMWphMmlaOVZQejFHX3VIbUZ2RGM2bENZN3AtU3I0Wk9rTDNpalcwRHJOU0pBLURaQlpPMXhHQUtQUnJNNEl5SFZUcElJaVR2aTF0ZWFCM1phWWxGQzhrZkVGMTFocHVKSFliT2d0aDA1Nm9RcEdIcVBuWWxoUQ?oc=5",
-      "published": "2026-06-07T11:00:00",
-      "sentiment_score": 0.052,
+      "headline": "How to Watch Apple\u2019s WWDC 2026 Keynote\u2014and What to Expect",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
+      "published": "2026-06-07T09:30:00Z",
+      "sentiment_score": -0.003,
       "sentiment_label": "Neutral",
-      "confidence": 0.895
+      "confidence": 0.929
     },
     {
-      "headline": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
-      "published": "2026-06-07T04:21:00",
-      "sentiment_score": 0.048,
+      "headline": "Global week ahead: Soccer isn't the only thing that's kicking off",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/07/investors-watch-world-cup-ai-stocks-spacex-ipo.html",
+      "published": "2026-06-07T05:00:01Z",
+      "sentiment_score": 0.017,
       "sentiment_label": "Neutral",
-      "confidence": 0.892
+      "confidence": 0.847
     },
     {
       "headline": "OpenAI plots biggest ChatGPT overhaul since launch",
@@ -181,33 +223,6 @@
       "sentiment_score": 0.069,
       "sentiment_label": "Neutral",
       "confidence": 0.906
-    },
-    {
-      "headline": "Is USA ready?",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/world-cup-fifa-security-secret-service-trump-32f04baf3a242395f26816292a9dc7e2",
-      "published": "2026-06-06T18:00:17Z",
-      "sentiment_score": -0.061,
-      "sentiment_label": "Neutral",
-      "confidence": 0.871
-    },
-    {
-      "headline": "Sriram Krishnan is leaving his role as White House AI advisor | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "published": "2026-06-06T17:42:15Z",
-      "sentiment_score": -0.534,
-      "sentiment_label": "Negative",
-      "confidence": 0.554
-    },
-    {
-      "headline": "The Trump administration might take an equity stake in OpenAI | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "published": "2026-06-06T16:19:04Z",
-      "sentiment_score": 0.288,
-      "sentiment_label": "Neutral",
-      "confidence": 0.693
     },
     {
       "headline": "Missing American student found dead in Japan after dayslong search | CNN",
@@ -273,15 +288,6 @@
       "confidence": 0.8
     },
     {
-      "headline": "China poaches more AI talent from the U.S. as it eyes the next 'super-app'",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDg5MGRSTmZVdnlPcUJ5TzRoS2FhVkpldVY4dzAzZDdlV0Z6NGhhc0IzVGxiRmxDa3huZ1F3aUJCVWQwYVZZV2JWdkFPZDVkT1k3czNNZ2FhcTdFR0NYRWR3UllHa2RHbnBlQUJXUDVGZEdqQUtoQTZlcWxSWHFzcVRtWVNiRk82WDh0ZU0xWW5LN3Jzem5fQ2phME1uZ9IBowFBVV95cUxNSHdrMXJiMi1QemJtb2hEVmtTVWpjMV9zSXdRTjFXYzlVbFUwX1lmVjhaTURLVTBwTEtpTWttMnRYWVBiY1k1WEhFOTEyNmxzcEthay1qN3E5QThYalgzQ1YtYVJZbTNUeDhNUnc3T0czcURWUFlFd3BWMjZwNURhY25yNWljUzRTTzNUeHNlT3A3WVJZYURDU0VEUDhmSVpTLVNJ?oc=5",
-      "published": "2026-06-05T05:46:04",
-      "sentiment_score": -0.002,
-      "sentiment_label": "Neutral",
-      "confidence": 0.867
-    },
-    {
       "headline": "'World-first' vaccine designed by artificial intelligence",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ic1pqaHNzUkFQcDFQT00zc2dNdl9zcmt5bFl3X204VHJlMDVfdS1hVDRwdV9PQW9WaWpxdDdnVkhTa0l3bTloRjlGdTBSRU1jNENxOVd5VXp2QQ?oc=5",
@@ -334,15 +340,6 @@
       "sentiment_score": -0.016,
       "sentiment_label": "Neutral",
       "confidence": 0.872
-    },
-    {
-      "headline": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUZOYlJLUVZMbFBZckp5YXRlTjg3eEp1QnB6ZUFRUUJOVkxjTjZtSnpSRm83ZzR2WVM3SlNEWFBBalZMNnJNakI4SmJBUHZDcE9JN1gwaWNJbjZ4VTJ1Z3FMb19oa01PeGdtS241N1YtVjFoem5JdlI1blZTTUxQdGVkYW1PQW9GdTdDYll3?oc=5",
-      "published": "2026-06-01T16:38:28",
-      "sentiment_score": -0.874,
-      "sentiment_label": "Negative",
-      "confidence": 0.887
     },
     {
       "headline": "Tech Life",
