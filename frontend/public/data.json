@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-06-10T14:55:02.823606",
-  "total_articles": 35,
-  "overall_sentiment": 0.02,
+  "last_updated": "2026-06-10T20:13:35.617187",
+  "total_articles": 45,
+  "overall_sentiment": 0.011,
   "overall_label": "Neutral",
   "daily_stats": [
-    {
-      "date": "2026-06-04",
-      "avg_sentiment": 0.038,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": 0.038
-    },
     {
       "date": "2026-06-05",
       "avg_sentiment": 0.33,
@@ -20,43 +11,43 @@
       "positive_count": 2,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.184
+      "moving_avg": 0.33
     },
     {
       "date": "2026-06-07",
-      "avg_sentiment": 0.014,
+      "avg_sentiment": 0.027,
       "article_count": 2,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": 0.127
+      "moving_avg": 0.179
     },
     {
       "date": "2026-06-08",
-      "avg_sentiment": 0.078,
-      "article_count": 7,
-      "positive_count": 3,
+      "avg_sentiment": 0.011,
+      "article_count": 6,
+      "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": 0.115
+      "moving_avg": 0.123
     },
     {
       "date": "2026-06-09",
-      "avg_sentiment": 0.043,
-      "article_count": 18,
-      "positive_count": 8,
-      "negative_count": 3,
-      "neutral_count": 7,
-      "moving_avg": 0.101
+      "avg_sentiment": 0.018,
+      "article_count": 24,
+      "positive_count": 12,
+      "negative_count": 6,
+      "neutral_count": 6,
+      "moving_avg": 0.096
     },
     {
       "date": "2026-06-10",
-      "avg_sentiment": -0.423,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": 0.013
+      "avg_sentiment": -0.105,
+      "article_count": 10,
+      "positive_count": 6,
+      "negative_count": 4,
+      "neutral_count": 0,
+      "moving_avg": 0.056
     }
   ],
   "source_stats": [
@@ -68,38 +59,119 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.086,
-      "article_count": 7,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.301,
-      "article_count": 3,
+      "avg_sentiment": -0.098,
+      "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.1,
-      "article_count": 3,
-      "sentiment_label": "Positive"
+      "avg_sentiment": 0.045,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.261,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.47,
-      "article_count": 2,
+      "avg_sentiment": -0.221,
+      "article_count": 4,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.213,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "AP News",
+      "avg_sentiment": 0.122,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": 0.239,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
+      "headline": "Trump says he thinks AI companies will agree to 'giving back' to the public",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaERpOFcyS1d2bXVmY2xlNkZDY2p6WXVwbEVCeFRnZkVQNnNJV25LSXNFNGhpMmYzMGk1anRxblJ1TXQxN2h4YTZZWlJXSzRuZGxnOTk0UDlwZkZXb18zdER0YVhUUEJiSU1YQURqNXhBa3gzUWVzU29iZkJ5V3RSZmx6NGk3S3d0bkxrcjVjSlZQSVZ2TXJZV0lwcklmZEZucG9LSnROVm9fX1R6Y1k0Tng2VFd1LXRYcWk3aUViSQ?oc=5",
+      "published": "2026-06-10T19:14:19",
+      "sentiment_score": 0.105,
+      "sentiment_label": "Neutral",
+      "confidence": 0.866
+    },
+    {
+      "headline": "Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEtRbUVBNldBSEl0bTBVeHdGYWUzdi1TQ256RTVnbWhwaEFTYXpQLVdWZ1V6MkpwYXh1TXZydlUxWHpncW5SYlhJaXJNWXJsSXVBUFd1ZGZJWnhBMndDTUhST0dmYUoybGFMdUlWSjM3MGtPM3NkSW9tZ3BsZng1akc3UURSWkNHVGZSQ3dpOUFJZVBKOVktV0w2TTB1TzMxTFYwd2g2Wl9SZw?oc=5",
+      "published": "2026-06-10T18:40:00",
+      "sentiment_score": 0.516,
+      "sentiment_label": "Positive",
+      "confidence": 0.532
+    },
+    {
+      "headline": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHZtakxXSFE2bHJoc3JueEthUlNFc2drdW44YkEzWW5VQlNDakRWRUpRM2V6dEs3RldsQkhQLUlMVGRIeGVSYjRMVHJYOHZNbDBuX2tpTzVOVUlXVl9BU3VuREVfeGtzSVlPUEVEV3JRc3NGSkFsbHFqdjVTS3l5R2c4c1JWVGpKSmEwc1N6bWlvMVQwMlhyWlRUUWs5MUtf?oc=5",
+      "published": "2026-06-10T18:01:00",
+      "sentiment_score": 0.065,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
+      "headline": "Why the Real A.I. Threat Is in the Back Office",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHVtb1p4TEx2TDNkenFNQlV0ekZfSkd5amJMc0NyNld4ZTBFUGc3WlNYWGJfUjJ1dDVtTTJyVnkwV1BGOTRIaGxNb1Q5VFB6bFZrVkRYOElOR1NvRl9qeXl4X3RiOVNQYkVYZnpXakFBTndJMkpCX0wwV09xeVU0NGdHTkVTZw?oc=5",
+      "published": "2026-06-10T18:00:08",
+      "sentiment_score": -0.19,
+      "sentiment_label": "Neutral",
+      "confidence": 0.752
+    },
+    {
+      "headline": "OpenAI, Visa Team Up to Let AI Agents Make Purchases Online",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGlhZk1BRURkMG0xTlhaeXRuYklNZWNSeWZBdFdpZlA1NHMwcXhIS3dWaTU3dlIyUGdZVlRyMG1kZ3hBYVVBb2l1S0pqOG5oLUVVbm9PRmRaTTZ2cXdTbUpiUG5qR2k2OUczcG44eXVkRmJHUXZUQmpnQXctSGR5Q013dDNteWd6b1R2WmhqenFCLVBXNVF6LUYzNnhOdVI1NmpGQUJBck8zMVNqZFE?oc=5",
+      "published": "2026-06-10T17:45:00",
+      "sentiment_score": 0.172,
+      "sentiment_label": "Neutral",
+      "confidence": 0.805
+    },
+    {
+      "headline": "Investors Feed A.I. Firms\u2019 Voracious Appetite for New Money",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVmp0aV9fcTlidTJ4MFVhSkQyVzN2OFphWWpzZFZGMnZEZjFlRTlKZVZ5YmhITWZmc0JwWm5HWU5Mc2MzbmIwY3J5OEZNUWIzNEhzNmZ4amxGWF9ObmxFLURrZ0R4Y0tOYUkyZEVqQWg4Zkt4S2ZHcjNCaG5vUVh1bjZOMFB3Qi1vbFE?oc=5",
+      "published": "2026-06-10T17:25:49",
+      "sentiment_score": 0.246,
+      "sentiment_label": "Neutral",
+      "confidence": 0.654
+    },
+    {
       "headline": "Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. in Lawsuit",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTNuQVo3aGo1WDN3ZGptTEFNSWdlX3QxYTlWVlpzZXZJZHVwYWhrVGFlZThUUjVueVZpZTB1YUg1cHZRN1hFaVpGcFFxTzdnTEFsajhCOXI2Nl9MS1B6TWI1QUhwOUVNN19XaDV5SlY0cmp6RGFxVGRLeXNoT1FkTi1B?oc=5",
-      "published": "2026-06-10T12:35:00",
+      "published": "2026-06-10T17:05:00",
       "sentiment_score": -0.862,
       "sentiment_label": "Negative",
       "confidence": 0.885
+    },
+    {
+      "headline": "US shortens cyber fix window to three days as AI threats rise",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUJ0Y3ZPOE9IbWdjS0xqd20zczBOanREM3JhNmk5bVpDYlhkbFlhMTBwTWkxZ080TTEwcHJKVnhocTU3UTdBTGVmQUhrUDhqbE40bGpqS0tpQWI1RmNUMVhNTF9Kb09OYkZIanduaEN5ek1PUkdyZVRJOWxORW9fWFI4Q1Y0OWxYMk9XelRpWmJDVURweXBLT19ORl9RaWh2eWcyVkhmcGNqZ0tn?oc=5",
+      "published": "2026-06-10T16:54:09",
+      "sentiment_score": -0.284,
+      "sentiment_label": "Neutral",
+      "confidence": 0.638
     },
     {
       "headline": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
@@ -109,15 +181,6 @@
       "sentiment_score": 0.096,
       "sentiment_label": "Neutral",
       "confidence": 0.875
-    },
-    {
-      "headline": "Global watchdog calls for tighter controls on agentic AI in finance",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjQ0MVEtX0xuUUFuYl90T1RVeVZ1RzZUMXR4a3kzQjFsR2tKSTRWVU9fUUpkZkNfZUgwT0ltWGg2VE1OeUVDTjVMRzdWUE1iTkJUdTRIQ1BVc1l6blRQUUc4dXZxNG1nTUd1R3NLRGhaYWZIRHBrQlRtckxDSUxEbFRuNlA0RDVtUjFkRkpubVVBNTN0SWQ4dVJHbGZkNFMwN3ZrTWdGajhCaDBUdGRJM2d1OA?oc=5",
-      "published": "2026-06-10T08:10:16",
-      "sentiment_score": -0.015,
-      "sentiment_label": "Neutral",
-      "confidence": 0.851
     },
     {
       "headline": "China Inc deploys 'quiet' layoffs as Beijing promotes AI adoption",
@@ -147,13 +210,13 @@
       "confidence": 0.891
     },
     {
-      "headline": "OpenAI confidentially files for initial public offering on US stock market",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2V6emZ1aTdkOUFrMExWai1vR2lFSkstYXdTRldTZXpId2doa2VqdG5vQk5QSDM4OHFpYXdEcVJaRmtmcFNvVFdWdVJxb1hET0h0amttZUVNQzFyeDVOZVNJZ3JGR0NBZ0JONmp1Q1psanFFQ1l6LUh0aHlUenJGZ2xyS2tzUENoSEtfdGd3SWhzQWRUbVE?oc=5",
-      "published": "2026-06-09T19:35:00",
-      "sentiment_score": 0.004,
+      "headline": "Can tech companies learn to love cheaper AI models?\u00a0 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "published": "2026-06-09T18:58:01Z",
+      "sentiment_score": -0.09,
       "sentiment_label": "Neutral",
-      "confidence": 0.935
+      "confidence": 0.756
     },
     {
       "headline": "Version of AI tool 'too powerful for public' released to public",
@@ -165,13 +228,76 @@
       "confidence": 0.892
     },
     {
+      "headline": "Semiconductor shorts pile on as winning trade reverses",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/09/semiconductor-shorts-pile-on-as-winning-trade-reverses.html",
+      "published": "2026-06-09T18:26:25Z",
+      "sentiment_score": -0.384,
+      "sentiment_label": "Neutral",
+      "confidence": 0.549
+    },
+    {
+      "headline": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "published": "2026-06-09T18:04:24Z",
+      "sentiment_score": 0.845,
+      "sentiment_label": "Positive",
+      "confidence": 0.853
+    },
+    {
+      "headline": "MacOS 27 Golden Gate: Top New Features",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+      "published": "2026-06-09T17:33:21Z",
+      "sentiment_score": 0.22,
+      "sentiment_label": "Neutral",
+      "confidence": 0.762
+    },
+    {
+      "headline": "SpaceX IPO explained: The price is set, but retail allocation still up in the air",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+      "published": "2026-06-09T17:28:35Z",
+      "sentiment_score": 0.08,
+      "sentiment_label": "Neutral",
+      "confidence": 0.9
+    },
+    {
+      "headline": "Apple wants Europe to blink",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+      "published": "2026-06-09T17:13:14Z",
+      "sentiment_score": -0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.849
+    },
+    {
       "headline": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqd1hkdnpwejJ6QzlJemxSRkZtTWRTeFNFLUpmaGFRekZpVF9VOXR4a3hHQlVLU29yS1dibUhDMHdfeGpiTk9PZXR0aUlGTHE1Zld2aXl5S2Y2V1FXdUFwUHNvd3Y2WjVmRXcyeWFodkY4MFh1TE1B0gF8QVVfeXFMTnE5TEtyeWVsVjdmVXZsNGRLMkpxRE5iQzlGdzQ4V1N2d0gxQk5xMGRJdjZ5ckRSRFhZeFFDYk1odkZLdWE5Uk15R3VlWnV3MzRvRms2Tm14T1lxVE1Wc2t0a1FUUm8yYWVwXzA3TDIwWVRUTGctVENYTHpZUg?oc=5",
-      "published": "2026-06-09T17:00:01",
-      "sentiment_score": 0.044,
+      "link": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "published": "2026-06-09T17:03:52Z",
+      "sentiment_score": 0.058,
       "sentiment_label": "Neutral",
-      "confidence": 0.917
+      "confidence": 0.887
+    },
+    {
+      "headline": "The Top New Features in Apple\u2019s iOS 27 and iPadOS 27",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+      "published": "2026-06-09T17:03:37Z",
+      "sentiment_score": 0.259,
+      "sentiment_label": "Neutral",
+      "confidence": 0.709
+    },
+    {
+      "headline": "Anthropic's Claude Fable is a version of Mythos the public can access today | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "published": "2026-06-09T17:01:05Z",
+      "sentiment_score": 0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.938
     },
     {
       "headline": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
@@ -185,11 +311,38 @@
     {
       "headline": "EU orders Meta to open WhatsApp to rival AI chatbots",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-09T16:16:12",
+      "link": "https://www.bbc.com/news/articles/cn8qj8wjgxwo",
+      "published": "2026-06-09T16:16:12Z",
       "sentiment_score": -0.829,
       "sentiment_label": "Negative",
       "confidence": 0.861
+    },
+    {
+      "headline": "Apple is embracing the fantasy of AI photo editing",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "published": "2026-06-09T16:13:14Z",
+      "sentiment_score": -0.073,
+      "sentiment_label": "Neutral",
+      "confidence": 0.831
+    },
+    {
+      "headline": "It's not FAANG anymore. It's MANGOS. | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "published": "2026-06-09T16:11:44Z",
+      "sentiment_score": 0.095,
+      "sentiment_label": "Neutral",
+      "confidence": 0.879
+    },
+    {
+      "headline": "enso Introduces Agentic Growth Hacking, a New Category for the AI Era",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/marketersmedia/press-release-6eecd1ad9ff522ecc031968d16ca789e",
+      "published": "2026-06-09T14:57:53Z",
+      "sentiment_score": 0.084,
+      "sentiment_label": "Neutral",
+      "confidence": 0.892
     },
     {
       "headline": "Apple\u2019s AI promises are finally, almost, sort of, here",
@@ -219,24 +372,6 @@
       "confidence": 0.927
     },
     {
-      "headline": "Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/09/rivian-r2-suv-tesla-competition.html",
-      "published": "2026-06-09T13:00:01Z",
-      "sentiment_score": 0.517,
-      "sentiment_label": "Positive",
-      "confidence": 0.527
-    },
-    {
-      "headline": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
-      "published": "2026-06-09T13:00:01Z",
-      "sentiment_score": 0.399,
-      "sentiment_label": "Neutral",
-      "confidence": 0.565
-    },
-    {
       "headline": "Apple\u2019s AI pitch will live or die by its privacy promise",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
@@ -244,24 +379,6 @@
       "sentiment_score": 0.097,
       "sentiment_label": "Neutral",
       "confidence": 0.866
-    },
-    {
-      "headline": "OpenAI's IPO filing, Apple updates Siri, new screwworm cases and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/09/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-06-09T12:21:31Z",
-      "sentiment_score": -0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.924
-    },
-    {
-      "headline": "OpenAI plans stock market debut, setting up new race with Anthropic",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5",
-      "published": "2026-06-09T08:02:43",
-      "sentiment_score": 0.494,
-      "sentiment_label": "Positive",
-      "confidence": 0.507
     },
     {
       "headline": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
@@ -300,18 +417,9 @@
       "confidence": 0.873
     },
     {
-      "headline": "Apple plays catch-up at WWDC | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-      "published": "2026-06-08T21:15:42Z",
-      "sentiment_score": 0.483,
-      "sentiment_label": "Neutral",
-      "confidence": 0.495
-    },
-    {
       "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZ9IBrwFBVV95cUxNYmdiVHBYUUVMODVqaDh4ZjJmV3RyXzNJa1BtblRDRWRFbEIzb2tQNURabU1hSmEtQkZCSDhva3JCVWFIYV9leDVYaVFxWXBQeTNpeHoxbVQzRk5vMVdsa1dpZW0tLXVNRXhuVzZtLVBCSTU2U0pBRDE2NzFKOFRqT041anVxS0RfamwtcEpqeHhiTnNxZ3ZIZWotSzZsSHQ5eTRJcW8xRGdMRkdjWmxF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZw?oc=5",
       "published": "2026-06-08T21:14:27",
       "sentiment_score": -0.331,
       "sentiment_label": "Neutral",
@@ -357,10 +465,10 @@
       "headline": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
-      "published": "2026-06-07T05:10:30",
-      "sentiment_score": 0.022,
+      "published": "2026-06-07T04:21:00",
+      "sentiment_score": 0.048,
       "sentiment_label": "Neutral",
-      "confidence": 0.91
+      "confidence": 0.892
     },
     {
       "headline": "OpenAI plots biggest ChatGPT overhaul since launch",
@@ -397,15 +505,6 @@
       "sentiment_score": -0.009,
       "sentiment_label": "Neutral",
       "confidence": 0.889
-    },
-    {
-      "headline": "America Needs One National Framework for Artificial Intelligence",
-      "source": "Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTduSlBwZ2JyMGFiVmE2RVlYbmRUeVJ4akd2TlFNRjZzNENzOU41SGZzc2pFZmxEdHlxZ19iNWlEVkNIeUNEblFmZExLN0NnWDd3V2tYSGRkZHI2RC1DempJZW8xOVZCdWZQOFpkemVNY1AxdjRSWGxfZUJ0YjNQTGh2d19NQnFmTDk0cG9JYTFMTjFRQTJTU3R5SzJNNGZuY3VITWNBbGVfMTRWaVZXalZtaWc0YWFFb0pTRlpsamtvdnZiamM1U243YVdzZw?oc=5",
-      "published": "2026-06-04T14:38:00",
-      "sentiment_score": 0.038,
-      "sentiment_label": "Neutral",
-      "confidence": 0.927
     }
   ]
 }
