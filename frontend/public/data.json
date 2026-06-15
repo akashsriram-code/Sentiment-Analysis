@@ -1,26 +1,35 @@
 {
-  "last_updated": "2026-06-15T16:58:43.523043",
-  "total_articles": 42,
-  "overall_sentiment": -0.088,
+  "last_updated": "2026-06-15T20:47:16.745701",
+  "total_articles": 38,
+  "overall_sentiment": -0.115,
   "overall_label": "Negative",
   "daily_stats": [
     {
-      "date": "2026-02-11",
-      "avg_sentiment": -0.878,
-      "article_count": 1,
+      "date": "2026-06-01",
+      "avg_sentiment": -0.445,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.878
+      "neutral_count": 1,
+      "moving_avg": -0.445
+    },
+    {
+      "date": "2026-06-06",
+      "avg_sentiment": 0.022,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.212
     },
     {
       "date": "2026-06-08",
-      "avg_sentiment": 0.191,
-      "article_count": 2,
+      "avg_sentiment": 0.538,
+      "article_count": 1,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.344
+      "moving_avg": 0.038
     },
     {
       "date": "2026-06-09",
@@ -29,7 +38,7 @@
       "positive_count": 3,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.27
+      "moving_avg": -0.002
     },
     {
       "date": "2026-06-11",
@@ -38,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.274
+      "moving_avg": -0.059
     },
     {
       "date": "2026-06-12",
@@ -47,7 +56,7 @@
       "positive_count": 4,
       "negative_count": 4,
       "neutral_count": 2,
-      "moving_avg": -0.253
+      "moving_avg": -0.078
     },
     {
       "date": "2026-06-13",
@@ -56,43 +65,49 @@
       "positive_count": 1,
       "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.273
+      "moving_avg": -0.119
     },
     {
       "date": "2026-06-14",
-      "avg_sentiment": 0.159,
-      "article_count": 8,
-      "positive_count": 4,
+      "avg_sentiment": 0.162,
+      "article_count": 7,
+      "positive_count": 3,
       "negative_count": 1,
       "neutral_count": 3,
-      "moving_avg": -0.211
+      "moving_avg": -0.033
     },
     {
       "date": "2026-06-15",
-      "avg_sentiment": 0.146,
-      "article_count": 6,
-      "positive_count": 4,
+      "avg_sentiment": 0.098,
+      "article_count": 2,
+      "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.065
+      "neutral_count": 0,
+      "moving_avg": -0.022
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.068,
-      "article_count": 11,
+      "avg_sentiment": -0.059,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.118,
-      "article_count": 7,
-      "sentiment_label": "Positive"
+      "avg_sentiment": 0.024,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.134,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.351,
+      "avg_sentiment": -0.349,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
@@ -101,12 +116,6 @@
       "avg_sentiment": 0.073,
       "article_count": 3,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.212,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
@@ -141,24 +150,6 @@
   ],
   "articles": [
     {
-      "headline": "Analysis | How AI is changing political advertising",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0puYlpka1ZFLUlaeGlUN1UxbDEyMG9ONGJjLWs3Z0dkRkhaUUh1MGJCdkZGaE43SGpXbHZVc3pmTUdBd0o0eGpXckp1Y3h2Q0ZRTzdoYjZmeTgzdjM3eFZvUHd0NFY3dmFDVmF1TUVlWWxTNFZkZ2o1OUEwSmtSdE9xc2gyMm84V1FOSzZLMGVLV2s1MGww?oc=5",
-      "published": "2026-06-15T15:46:53",
-      "sentiment_score": -0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.93
-    },
-    {
-      "headline": "Shopify board fighting shareholder push to create AI policy",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcG5MNm9WZHd1cGd2LXFjYmNOVDFwNUozX3JtTUJKemlzMTZkZkItakVIQ1FFdlpOdjFwWlhKX0lya2t1dDNJVVRaSGpVZkhhMk1EYUczWDFtMmFuUXQ5ajZFNW1Ed3NzaFJhdDJkRmNrYnVoekhCS2ROY1VSRkk1UXViWHpmOGRVUXJfeDd0Tk1DMmdlb3dDTGo0UDhXQVZsMzNHcWEtZFFTeWlB?oc=5",
-      "published": "2026-06-15T15:12:06",
-      "sentiment_score": -0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.864
-    },
-    {
       "headline": "Strategic change management in the age of generative AI",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ050VXhKd0U0LS1sSVU3T2ZkNGR1ZWVrS1YzWnMtN3I4MjBUdkxXVUlsZ2FxVWtkb2NoS0lHbl9wTTJIY2JwUjI3VmtwUWV3VnVobTBUajJJVUtoc09sa3RXQVc0TEpvS3dQMVBrYlQtR2xqUkVDTXpDU0RBRFhMQjkxUVJBeVpKNlJYRm9lSEdjVU04d1hiVnZXdm45TnJ3VlE4ZkNrTTBxbU9FQ2c?oc=5",
@@ -177,24 +168,6 @@
       "confidence": 0.833
     },
     {
-      "headline": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUdFaUFxYVdoVWxNc2tVU21pdmVGZUhHc0M0UlRZV0VxU0kyWUxiQmY0TDc1aTNlRFJxLXNiSWczbF9HSG1wNG1Ubkp2eGFXM2oyaHNESnBIa2ZHV0lmVXRtbnMycDVGNkt4OTNvTC0ya2VYYkRPaTZSZE1VU1lfNW55OF8xMkJNeGhzTWF4cXhHODMwbzBpZndQd09iYThoRm5TY3lZdG5fdk9tZURPcWI0ZThTUdIBuwFBVV95cUxNTUVnWFBIa3BfWS1YYnhzOVMwS2Q3U3gyMmVFTEtSWE0tQmpOT2R3aTRuNkxwRWpPS3B0aGZVQk9BTEk1R2RDSXhISW84NUNPU0FlSXZreThiakp6d3phQU5tOC1wQU5WcE5fNkVGYzhUaTJGb3dyaXl4Qy1sYkRPamR0aTc0UzhYQ1Z1bTVMQVBXTUExOGFjb3Biamh1cklfd0M5QUI4eVR4TnVCSVFhS2pUQjZPY3lnQU1V?oc=5",
-      "published": "2026-06-15T06:14:41",
-      "sentiment_score": 0.561,
-      "sentiment_label": "Positive",
-      "confidence": 0.743
-    },
-    {
-      "headline": "The skills young financiers will need to thrive in the age of AI",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Rb21YcGVKRFdCMnY2cE84dEVrbS1wT29EZHlmX0l6QmxMckJjaFBKZktpTjd1b0phRmdIY2lfTFNmTXA2dng1eGVJQlEyTkUyZ1ZNcTFzUG9sYk5vRFN2ejF3SzZpQXVSQlNDWGNEVTE?oc=5",
-      "published": "2026-06-15T03:30:07",
-      "sentiment_score": 0.158,
-      "sentiment_label": "Neutral",
-      "confidence": 0.817
-    },
-    {
       "headline": "As AI companies race to go public, who else is along for the ride? | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
@@ -211,15 +184,6 @@
       "sentiment_score": 0.741,
       "sentiment_label": "Positive",
       "confidence": 0.751
-    },
-    {
-      "headline": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
-      "published": "2026-06-14T14:03:30Z",
-      "sentiment_score": 0.142,
-      "sentiment_label": "Neutral",
-      "confidence": 0.827
     },
     {
       "headline": "Trump heads to G7 summit in France as world awaits Iran deal",
@@ -501,22 +465,31 @@
       "confidence": 0.587
     },
     {
-      "headline": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-08T17:18:21",
-      "sentiment_score": -0.157,
+      "headline": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
+      "published": "2026-06-06T07:00:00",
+      "sentiment_score": 0.022,
       "sentiment_label": "Neutral",
-      "confidence": 0.501
+      "confidence": 0.91
     },
     {
-      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IUFN4T3VUZFhlSnZ4eVVWaEJqVE1mUFNJaC1vU01jcmU5VFplNE81WkhKYnRKclUyV0Vtb2J5Ykh6LXVJcHJySUZ0UWQteC1OSkg4NmJEeWxjQQ?oc=5",
+      "published": "2026-06-01T07:00:00",
+      "sentiment_score": -0.016,
+      "sentiment_label": "Neutral",
+      "confidence": 0.872
+    },
+    {
+      "headline": "Florida Sues OpenAI Over Chatbot Safety Concerns",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
-      "published": "2026-02-11T08:00:00",
-      "sentiment_score": -0.878,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUZOYlJLUVZMbFBZckp5YXRlTjg3eEp1QnB6ZUFRUUJOVkxjTjZtSnpSRm83ZzR2WVM3SlNEWFBBalZMNnJNakI4SmJBUHZDcE9JN1gwaWNJbjZ4VTJ1Z3FMb19oa01PeGdtS241N1YtVjFoem5JdlI1blZTTUxQdGVkYW1PQW9GdTdDYll3?oc=5",
+      "published": "2026-06-01T07:00:00",
+      "sentiment_score": -0.874,
       "sentiment_label": "Negative",
-      "confidence": 0.891
+      "confidence": 0.887
     }
   ]
 }
