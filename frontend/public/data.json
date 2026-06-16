@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-16T16:25:23.616194",
-  "total_articles": 31,
-  "overall_sentiment": -0.086,
+  "last_updated": "2026-06-16T20:39:09.507802",
+  "total_articles": 28,
+  "overall_sentiment": -0.057,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,12 +42,12 @@
     },
     {
       "date": "2026-06-09",
-      "avg_sentiment": -0.173,
-      "article_count": 6,
+      "avg_sentiment": -0.202,
+      "article_count": 5,
       "positive_count": 2,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.176
+      "neutral_count": 1,
+      "moving_avg": -0.182
     },
     {
       "date": "2026-06-12",
@@ -56,54 +56,54 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.14
+      "moving_avg": -0.145
     },
     {
       "date": "2026-06-13",
-      "avg_sentiment": -0.907,
+      "avg_sentiment": -0.604,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.25
+      "moving_avg": -0.211
     },
     {
       "date": "2026-06-15",
-      "avg_sentiment": -0.022,
-      "article_count": 9,
+      "avg_sentiment": 0.183,
+      "article_count": 5,
       "positive_count": 5,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.128
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.059
     },
     {
       "date": "2026-06-16",
-      "avg_sentiment": 0.011,
-      "article_count": 9,
-      "positive_count": 4,
+      "avg_sentiment": -0.024,
+      "article_count": 11,
+      "positive_count": 5,
       "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.124
+      "neutral_count": 3,
+      "moving_avg": -0.06
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.206,
-      "article_count": 9,
+      "avg_sentiment": -0.126,
+      "article_count": 8,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.015,
-      "article_count": 5,
-      "sentiment_label": "Neutral"
+      "source": "Reuters",
+      "avg_sentiment": 0.258,
+      "article_count": 4,
+      "sentiment_label": "Positive"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.043,
-      "article_count": 4,
-      "sentiment_label": "Neutral"
+      "source": "TechCrunch",
+      "avg_sentiment": -0.502,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Financial Times",
@@ -113,24 +113,60 @@
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.257,
+      "avg_sentiment": -0.385,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.288,
+      "source": "CNBC",
+      "avg_sentiment": 0.296,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
-      "source": "AP News",
-      "avg_sentiment": -0.364,
+      "source": "The Verge",
+      "avg_sentiment": 0.05,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "Tech Life",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-16T19:30:00",
+      "sentiment_score": -0.079,
+      "sentiment_label": "Neutral",
+      "confidence": 0.866
+    },
+    {
+      "headline": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1d2b1BZblBGblBxdXFYbExWSU12Q3FLTkliVGJxYmtRVF82QU10VWNyY3VIalVGdTg5MFBwVnhCYTItanh4NHB0aXNGczhRaHoyc2JBWUhWTE82TmVSQzFTVWJ0TUhEWnMtbWdtY1A2VkFCeElXTkF2Nzd3T05rcnIyeTZYR1Eya1JCbXNGLXpUTU5wMF81ZkF5R2hsOTV0LWhF?oc=5",
+      "published": "2026-06-16T18:11:05",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.901
+    },
+    {
+      "headline": "Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON25FOUs0djE2eWU5Q0hta1lFSk9aT1NpbHk1ZnBROHN3RjhjMWVCTjdJblE4RHd3eHhjblFNdjQzZkk1TmVmZkhhSzdzc0pGM1VhQ2VCRndJZ2JZRFdjNVF0Tm42ZnRocmRscG1Pc0V5Ti1Xb2tRUEZVUEhXZ1E4ZXpMSQ?oc=5",
+      "published": "2026-06-16T17:59:54",
+      "sentiment_score": 0.109,
+      "sentiment_label": "Neutral",
+      "confidence": 0.859
+    },
+    {
+      "headline": "Fast-tracked power plants fuel AI boom, with little public scrutiny",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUZxc09sd2xKN09WUkpMa3NWYWg3Z2EweGxkTm4yanRDZEFjZDZ4U1UxWFlaWWlDMjJwVHpWQmp1aG45S0tCaTRLcF9hRU5zMzk0enBHQWIwMjJvaXBDYnNjbjRvOThRT3lNY1JhcWY4NmRqY1ViOV9ldnRlWVdyZXlXdllxM0UyRThVY1BpYVBNRGRGdmVKZFEtd1Nwb1R2cHE1SDBQX18tbzJLS0lDaUI4aS1xRWpHaUE?oc=5",
+      "published": "2026-06-16T15:51:20",
+      "sentiment_score": 0.067,
+      "sentiment_label": "Neutral",
+      "confidence": 0.888
+    },
     {
       "headline": "AI defensibility \u2014 What it means, why it matters, and how diligence and deal documents are catching up",
       "source": "Reuters",
@@ -159,15 +195,6 @@
       "confidence": 0.927
     },
     {
-      "headline": "Riding High After I.P.O., SpaceX to Buy A.I. Start-Up for $60 Billion",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON25FOUs0djE2eWU5Q0hta1lFSk9aT1NpbHk1ZnBROHN3RjhjMWVCTjdJblE4RHd3eHhjblFNdjQzZkk1TmVmZkhhSzdzc0pGM1VhQ2VCRndJZ2JZRFdjNVF0Tm42ZnRocmRscG1Pc0V5Ti1Xb2tRUEZVUEhXZ1E4ZXpMSQ?oc=5",
-      "published": "2026-06-16T12:41:38",
-      "sentiment_score": 0.364,
-      "sentiment_label": "Neutral",
-      "confidence": 0.58
-    },
-    {
       "headline": "AI in Hungary could unlock productivity gains of \u20ac15 billion, McKinsey says",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWFsSEZyZEtuYkFJOVpEcXJpNnllMDNNWXlKdW1mdjNRdU5XaW13UEpCOWtvNmpyaS1mWXl6cE4wS1VBcFpuY3BBT2J1ZG4tcjdjeGVKTm9tR210eFVvZVRubEdUUm40d0RrejZKNEZTYV9tY2JfSUtUcXhFb3dWVV9nbU8xUXl4cFM4Q0xtVVlrSzdpWWtlNGFVdl9vWkthTnpaUGwwZVZqT1Q5ZWdmYWwtODF1TzluYVB0SQ?oc=5",
@@ -177,28 +204,19 @@
       "confidence": 0.882
     },
     {
-      "headline": "\u2018Pretty Crazy\u2019 Token Usage Is Testing Bosses\u2019 Bet on AI",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04dXVyX2tjS3JqWV9Sc1R5bGxWRHlIQV81OUtyMHlqQ2VEU3BqWE9DT3pUUUNFMklOVEU0OXhMNmxabDd6WURIWlJWbFRZS3VaeERQUFU1bEdXb0VEVUF3VVhONlMxSDhaT3VJU2xwYTNTQQ?oc=5",
-      "published": "2026-06-16T09:30:00",
-      "sentiment_score": -0.062,
-      "sentiment_label": "Neutral",
-      "confidence": 0.82
-    },
-    {
-      "headline": "French domestic spy agency ditches Palantir for local rival, PM says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDhBdFc3RnlUUzV4RHFVRVNNRm9BUF9nN0d2UENOcnhWMkc4VTA0em1xRU10SHcwNzltSG04OVZDTl9iS3BFcjV6TlI2NnQxNzBzSGRPa1pFSXJWc2Q5clpWQVZDR3g5c1o1Q2hocUhMQXluZmJ0a1p2TFVodGtRUEdNdk1rb2xPXzdDNGZ3ZVZqbWxxcHdlbmdXejJoV3dnQlR5UGRLLXNqSTBFa3M0Yl9R?oc=5",
-      "published": "2026-06-16T06:58:00",
-      "sentiment_score": -0.793,
+      "headline": "ChatGPT\u2019s market share slips below 50% for first time",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzJUMmlQOUlIWVVXUWJpUTJxem1pb1NNYjR5NG81TDB5WTdfeXhjOUlyZm15eElhOU5rdUJmb3Y2MUZWbUNFV1Y1N1lrRWJZVWpOOHBqNzNlMjRIWndla0NOMWpFckNDTUtGS0RfLUhfNUp4T3dMVFZGenVweU94QmVfUGp3MDZWQ0JjVEpZUQ?oc=5",
+      "published": "2026-06-16T10:30:00",
+      "sentiment_score": -0.955,
       "sentiment_label": "Negative",
-      "confidence": 0.808
+      "confidence": 0.964
     },
     {
       "headline": "Europe\u2019s AI champion Mistral vulnerable to Russian disinformation, study finds",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlBsRWNxeGhtSEFleElNVThtWTgxVkpDT0hMVEwtT00wVG44LTRzQ1VBV2VVS01yMnZ1Ry1jd2dDTjMxS2VsSUU4WTVHU3RJRkVLVHRZVklIQVkyZ1Q2dEs4OFBUSWVsWFk1RDNhZ1Q2UkRja3EwbGNqMlhrWUtGYlFqWEM?oc=5",
-      "published": "2026-06-16T04:01:44",
+      "published": "2026-06-16T04:00:25",
       "sentiment_score": -0.772,
       "sentiment_label": "Negative",
       "confidence": 0.806
@@ -207,19 +225,28 @@
       "headline": "OpenAI spending hit $34bn last year ahead of planned IPO",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5",
-      "published": "2026-06-16T03:28:59",
+      "published": "2026-06-16T03:30:14",
       "sentiment_score": 0.252,
       "sentiment_label": "Neutral",
       "confidence": 0.661
     },
     {
-      "headline": "Trump is giving Warsh room to reshape the Fed",
+      "headline": "Nvidia plans to raise about $20 billion in first debt sale since start of AI boom",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/15/trump-warsh-fed-reshape.html",
-      "published": "2026-06-15T16:09:02Z",
-      "sentiment_score": 0.021,
+      "link": "https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html",
+      "published": "2026-06-15T19:43:39Z",
+      "sentiment_score": 0.418,
       "sentiment_label": "Neutral",
-      "confidence": 0.844
+      "confidence": 0.561
+    },
+    {
+      "headline": "Big Tech\u2019s desperate last push at AI regulation",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "published": "2026-06-15T17:44:10Z",
+      "sentiment_score": 0.073,
+      "sentiment_label": "Neutral",
+      "confidence": 0.86
     },
     {
       "headline": "Strategic change management in the age of generative AI",
@@ -231,42 +258,6 @@
       "confidence": 0.901
     },
     {
-      "headline": "Anthropic to meet with Trump administration over Mythos dispute",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
-      "published": "2026-06-15T14:49:44Z",
-      "sentiment_score": -0.827,
-      "sentiment_label": "Negative",
-      "confidence": 0.843
-    },
-    {
-      "headline": "Dozens walk out as Google boss Pichai addresses Stanford graduates",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cqx10gg2r2vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "published": "2026-06-15T14:44:32Z",
-      "sentiment_score": -0.896,
-      "sentiment_label": "Negative",
-      "confidence": 0.909
-    },
-    {
-      "headline": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe' overallotment option",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
-      "published": "2026-06-15T14:16:47Z",
-      "sentiment_score": 0.563,
-      "sentiment_label": "Positive",
-      "confidence": 0.582
-    },
-    {
-      "headline": "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "published": "2026-06-15T13:46:08Z",
-      "sentiment_score": 0.523,
-      "sentiment_label": "Positive",
-      "confidence": 0.535
-    },
-    {
       "headline": "Allstream Energy Partners a Leading AI GEO/AEO Marketing Agency to Host 6th Executive Networking After 2026 EPC Show",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-bcfcf6b5b6e847f80aaff01ed460facb",
@@ -274,15 +265,6 @@
       "sentiment_score": 0.315,
       "sentiment_label": "Neutral",
       "confidence": 0.669
-    },
-    {
-      "headline": "U.S.-Iran deal, the world's first trillionaire, JetBlue's Florida plans and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/15/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-06-15T12:27:23Z",
-      "sentiment_score": -0.007,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
     },
     {
       "headline": "A satellite just learned to find things on its own \u2014 here's what that means | TechCrunch",
@@ -294,13 +276,13 @@
       "confidence": 0.917
     },
     {
-      "headline": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDJsQlNzM0JtUFpBTUJkalVSS3htd0ZEUVVsOFhYOGhYbFBkNkV6RkZfcERSWV9ZVngzRUYyN29uUXgycFBrek1ZUllLM3MtVzNCY1BUNXBoXzVWbEYtS2pzTFNBUVFKOXZRWlBCN2VoNkxFa0FSWEVGN18xZmRyM3N1ODNwOERDd0ZFa2ozQTNrM3o1Mjc2M3JRODlxN2t6cWsxOUI1WE5QNWc?oc=5",
-      "published": "2026-06-13T19:17:00",
-      "sentiment_score": -0.907,
+      "headline": "OpenAI faces investigation from state attorneys general",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDRYZW1PWUNBbUJuMWVSUlpUb191cVRVZ1FfbFhoSmFhWURockw1R3hPUlVkQld6OUJqdWNhOURhb1JMdXpGT3JkRmZRNlVsQVR6UFdvaFlIWmF0T1VrVWpVaVJ4YnAyQlNWSDVxNWdMbEM2RzZtRGxJVGgzZGNCT3RxWGNRVGFjeGd0bmZRTFRYeERT?oc=5",
+      "published": "2026-06-13T16:47:18",
+      "sentiment_score": -0.604,
       "sentiment_label": "Negative",
-      "confidence": 0.923
+      "confidence": 0.63
     },
     {
       "headline": "Elon Musk's stratospheric rise to trillionaire status - in charts",
@@ -328,15 +310,6 @@
       "sentiment_score": 0.151,
       "sentiment_label": "Neutral",
       "confidence": 0.822
-    },
-    {
-      "headline": "Tech Life",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxz?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-09T20:00:00",
-      "sentiment_score": -0.027,
-      "sentiment_label": "Neutral",
-      "confidence": 0.891
     },
     {
       "headline": "Version of AI tool 'too powerful for public' released to public",
