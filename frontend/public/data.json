@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-18T14:48:42.375901",
-  "total_articles": 26,
-  "overall_sentiment": -0.12,
+  "last_updated": "2026-06-18T20:12:45.730276",
+  "total_articles": 34,
+  "overall_sentiment": -0.092,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,30 +42,30 @@
     },
     {
       "date": "2026-06-16",
-      "avg_sentiment": -0.335,
-      "article_count": 3,
-      "positive_count": 0,
+      "avg_sentiment": -0.189,
+      "article_count": 4,
+      "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.017
+      "moving_avg": 0.012
     },
     {
       "date": "2026-06-17",
-      "avg_sentiment": -0.226,
-      "article_count": 9,
-      "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 3,
-      "moving_avg": -0.052
+      "avg_sentiment": -0.151,
+      "article_count": 16,
+      "positive_count": 8,
+      "negative_count": 6,
+      "neutral_count": 2,
+      "moving_avg": -0.015
     },
     {
       "date": "2026-06-18",
-      "avg_sentiment": -0.041,
+      "avg_sentiment": -0.029,
       "article_count": 9,
       "positive_count": 5,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.05
+      "moving_avg": -0.017
     }
   ],
   "source_stats": [
@@ -77,33 +77,39 @@
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.09,
-      "article_count": 4,
+      "avg_sentiment": -0.094,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.189,
-      "article_count": 3,
+      "avg_sentiment": -0.359,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Washington Post",
-      "avg_sentiment": 0.213,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.389,
-      "article_count": 2,
+      "source": "The Verge",
+      "avg_sentiment": -0.172,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.399,
-      "article_count": 2,
+      "avg_sentiment": -0.051,
+      "article_count": 3,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": 0.123,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Financial Times",
+      "avg_sentiment": 0.129,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
@@ -111,16 +117,34 @@
       "headline": "Bernie Sanders pitches $1,000 annual payout from public ownership of AI",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWh3R2pldGFITk9ReUVuUHExd3FPNHg5eTR5dDZxU3JabkN0SjBOZnEtdjgxbm5rRlNhSU9LU2pjMzBjeG1TV2VuRlg3bEZBb0tJcUlLa3BUSkJFU1BnejVmWkNNTGZKRnNWR19KdTVmRWVmendEc1VSTnlYdmxFZG1oNGNQeWVxOElXYVo4aHdFdTJQUTVQb0NlRG9ydHpDMy1LcTZwai1yejlpZFFFWg?oc=5",
-      "published": "2026-06-18T14:32:22",
+      "published": "2026-06-18T19:41:26",
       "sentiment_score": 0.642,
       "sentiment_label": "Positive",
       "confidence": 0.675
     },
     {
+      "headline": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEsyOXlNZ1hlb2FRM2NxcGVPd3VBYmt2S0pfbmFYZDkxbDVwczZzMkUyWmhIY0J3bGtHVnJMcVppRFFXbExzWXRCYWJzYTIzZklXYmhMSG9qUkJOY3V2WFBIRTVnT1U1NEk4cjVOWmNEMUZ4bnl2YlhZWEJSM3NGQURyMTRwY1g0MkFVMkw1c1lLdHQwaFhPYUVTVC1MYzBVcmtZVENGaWtFNEtEdHVSOUZ6c1AzZFhnN1kxb05XYlBLV2Z3Rl92X19HaWotUQ?oc=5",
+      "published": "2026-06-18T16:20:47",
+      "sentiment_score": -0.953,
+      "sentiment_label": "Negative",
+      "confidence": 0.963
+    },
+    {
+      "headline": "ChapsVision says ethics panel can veto deals deemed risky",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEpJVmY1SGNkYW1ZTVdibTd6ekg0SWNUU18tOFFFUHd6N012aWVqOWFMWm9QdG0xbVh6SnJIZmJqNWV5YmxtMUlvamJhZEgyZlQzXzRTU2JWRHEzcEdyam9zOFBDa3RGY1NBMDhORTNaUVJkMTdSU2pqMWtJUFdMYW1UdVE5Sk94ZnYwU2RzamMyQWdjcHJqemhOakNhaDJRcy1GcTVhaFJnQQ?oc=5",
+      "published": "2026-06-18T15:56:23",
+      "sentiment_score": -0.108,
+      "sentiment_label": "Neutral",
+      "confidence": 0.793
+    },
+    {
       "headline": "Tech Workers Maxed Out Their A.I. Use. Now They\u2019re Trying to Minimize It.",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRm1lOHB5ZFVPa2tSb3h1M2U0Qi10dkRtM3doLTcxN0JyUkV1c1RzTDU3b0JMS0QzUmsxcTRnOXdBWk42TkJtSGl2OGE4TDhkbWNUM1VnWlNfdUhkdUlZNFd0MEt6bnBieVE2elktSExORVZrajV0ZHZR?oc=5",
-      "published": "2026-06-18T14:17:25",
+      "published": "2026-06-18T15:19:00",
       "sentiment_score": -0.099,
       "sentiment_label": "Neutral",
       "confidence": 0.815
@@ -144,15 +168,6 @@
       "confidence": 0.548
     },
     {
-      "headline": "The White House said Anthropic\u2019s powerful AI was \u2018jailbroken.\u2019 Here\u2019s what that means.",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUo4WlNqc1Q2TU00M0lZVmZfZG9iMkVRZkU3cjBPdHFtQnFlcGVJajZmOGlRdGU0Z1ZTWTRseU5uQTVEbFdvUDdmNFhxakpQbUFsMENGVy1tOVBzdEh2QVVPbk02ZjJNem1uMUlOREhnTERQeU1ydjlMWmk2aHFGYzZDUGl0NjBicVJKTkx3UVJ4NlJ1cmtGX1lYSVpFY2kwZVEzcEdfQUM0RXBvYlg0RFlvOTVqOUpuMG5CQkZiUkU0UQ?oc=5",
-      "published": "2026-06-18T13:32:09",
-      "sentiment_score": -0.217,
-      "sentiment_label": "Neutral",
-      "confidence": 0.687
-    },
-    {
       "headline": "China announces measures to promote AI integration with consumption",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnlocThjRE80VDlzbnFpU05Lc1FfdGZ2V21rS2dveUp4ZEFBaG85WG1nR3hZbGxvTWNScWZNOFpsdm9CaEdoOE9TY1p4NktQRENzbklzWXVaOXBra0x0LWtqT1JCUU5lak95a1dvWEdrOXdwUkIzeS1zTDNzcTBxMTNpcHh0djg1eExKSllkWTdYRXBzNHlnMFdyVUZIeFVXRzhuNDVTZURuR0lWeVl1QkJ6emw0T0JGcHd1ZEZfNms?oc=5",
@@ -160,15 +175,6 @@
       "sentiment_score": 0.462,
       "sentiment_label": "Neutral",
       "confidence": 0.505
-    },
-    {
-      "headline": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEsyOXlNZ1hlb2FRM2NxcGVPd3VBYmt2S0pfbmFYZDkxbDVwczZzMkUyWmhIY0J3bGtHVnJMcVppRFFXbExzWXRCYWJzYTIzZklXYmhMSG9qUkJOY3V2WFBIRTVnT1U1NEk4cjVOWmNEMUZ4bnl2YlhZWEJSM3NGQURyMTRwY1g0MkFVMkw1c1lLdHQwaFhPYUVTVC1MYzBVcmtZVENGaWtFNEtEdHVSOUZ6c1AzZFhnN1kxb05XYlBLV2Z3Rl92X19HaWotUQ?oc=5",
-      "published": "2026-06-18T07:45:15",
-      "sentiment_score": -0.953,
-      "sentiment_label": "Negative",
-      "confidence": 0.963
     },
     {
       "headline": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator",
@@ -198,13 +204,67 @@
       "confidence": 0.754
     },
     {
+      "headline": "Bernie Sanders unveils plan for public ownership of AI companies",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/bernie-sanders-ai-public-ownership-57b9f20d96490083e2749adba0f13977",
+      "published": "2026-06-17T20:02:53Z",
+      "sentiment_score": 0.073,
+      "sentiment_label": "Neutral",
+      "confidence": 0.896
+    },
+    {
+      "headline": "Epic wants to let you bring your Fortnite skins to other games",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
+      "published": "2026-06-17T19:09:00Z",
+      "sentiment_score": 0.176,
+      "sentiment_label": "Neutral",
+      "confidence": 0.804
+    },
+    {
+      "headline": "World leaders want American AI. They just don't want America to be able to turn it off. | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "published": "2026-06-17T19:03:39Z",
+      "sentiment_score": -0.912,
+      "sentiment_label": "Negative",
+      "confidence": 0.931
+    },
+    {
+      "headline": "Anthropic got hit by export rules nobody understands",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "published": "2026-06-17T18:31:01Z",
+      "sentiment_score": -0.949,
+      "sentiment_label": "Negative",
+      "confidence": 0.958
+    },
+    {
+      "headline": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/17/amazon-ai-frontier-openai-anthropic.html",
+      "published": "2026-06-17T17:37:30Z",
+      "sentiment_score": 0.693,
+      "sentiment_label": "Positive",
+      "confidence": 0.713
+    },
+    {
       "headline": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5",
-      "published": "2026-06-17T17:29:55",
-      "sentiment_score": 0.042,
+      "link": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+      "published": "2026-06-17T17:30:07Z",
+      "sentiment_score": 0.11,
       "sentiment_label": "Neutral",
-      "confidence": 0.907
+      "confidence": 0.859
+    },
+    {
+      "headline": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "published": "2026-06-17T17:01:27Z",
+      "sentiment_score": -0.38,
+      "sentiment_label": "Negative",
+      "confidence": 0.568
     },
     {
       "headline": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
@@ -216,6 +276,24 @@
       "confidence": 0.848
     },
     {
+      "headline": "Google bets on Gemini to reinvent the smart home speaker | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "published": "2026-06-17T16:30:09Z",
+      "sentiment_score": 0.305,
+      "sentiment_label": "Neutral",
+      "confidence": 0.669
+    },
+    {
+      "headline": "Less than one-third of global workers feel their jobs are safe, ADP survey data shows",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/17/less-than-one-third-of-global-workers-feel-their-jobs-are-safe-adp-survey-data-shows.html",
+      "published": "2026-06-17T16:00:01Z",
+      "sentiment_score": -0.955,
+      "sentiment_label": "Negative",
+      "confidence": 0.965
+    },
+    {
       "headline": "What to study in the AI age - from big tech bosses",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
@@ -225,31 +303,22 @@
       "confidence": 0.939
     },
     {
-      "headline": "Anthropic Employees Accuse Trump Administration of Targeting Them",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5",
-      "published": "2026-06-17T14:14:03",
-      "sentiment_score": -0.679,
-      "sentiment_label": "Negative",
-      "confidence": 0.697
-    },
-    {
-      "headline": "Canadian pension giant joins race to fund India's AI-fueled data center boom | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "published": "2026-06-17T12:38:09Z",
-      "sentiment_score": 0.241,
+      "headline": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "published": "2026-06-17T15:40:06Z",
+      "sentiment_score": 0.055,
       "sentiment_label": "Neutral",
-      "confidence": 0.742
+      "confidence": 0.908
     },
     {
-      "headline": "Anthropic asked for regulation. Washington went much further",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html",
-      "published": "2026-06-17T12:32:58Z",
-      "sentiment_score": -0.841,
-      "sentiment_label": "Negative",
-      "confidence": 0.865
+      "headline": "Centersky Launches Centersky Secure, the Continuous Compliance Operating System Built for the AI Era",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/pr-newswire/press-release-22fa1d7bc6bad4b2ed1e6bea374bd3af",
+      "published": "2026-06-17T15:33:24Z",
+      "sentiment_score": 0.174,
+      "sentiment_label": "Neutral",
+      "confidence": 0.8
     },
     {
       "headline": "Pinterest launches an experimental AI shopping app called 'Ask Pinterest' | TechCrunch",
@@ -295,6 +364,15 @@
       "sentiment_score": -0.955,
       "sentiment_label": "Negative",
       "confidence": 0.964
+    },
+    {
+      "headline": "OpenAI spending hit $34bn last year ahead of planned IPO",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5",
+      "published": "2026-06-16T03:30:14",
+      "sentiment_score": 0.252,
+      "sentiment_label": "Neutral",
+      "confidence": 0.661
     },
     {
       "headline": "Strategic change management in the age of generative AI",
