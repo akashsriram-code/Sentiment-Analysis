@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-18T10:06:21.000334",
-  "total_articles": 28,
-  "overall_sentiment": -0.014,
-  "overall_label": "Neutral",
+  "last_updated": "2026-06-18T14:48:42.375901",
+  "total_articles": 26,
+  "overall_sentiment": -0.12,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-06-06",
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-06-09",
-      "avg_sentiment": 0.063,
-      "article_count": 2,
+      "avg_sentiment": 0.151,
+      "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": 0.034
+      "neutral_count": 0,
+      "moving_avg": 0.078
     },
     {
       "date": "2026-06-12",
@@ -29,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.036
+      "moving_avg": 0.066
     },
     {
       "date": "2026-06-15",
@@ -38,86 +38,128 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.041
+      "moving_avg": 0.063
     },
     {
       "date": "2026-06-16",
-      "avg_sentiment": 0.142,
-      "article_count": 6,
-      "positive_count": 3,
+      "avg_sentiment": -0.335,
+      "article_count": 3,
+      "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": 0.061
+      "moving_avg": -0.017
     },
     {
       "date": "2026-06-17",
-      "avg_sentiment": -0.062,
-      "article_count": 11,
-      "positive_count": 4,
-      "negative_count": 3,
-      "neutral_count": 4,
-      "moving_avg": 0.04
+      "avg_sentiment": -0.226,
+      "article_count": 9,
+      "positive_count": 2,
+      "negative_count": 4,
+      "neutral_count": 3,
+      "moving_avg": -0.052
     },
     {
       "date": "2026-06-18",
-      "avg_sentiment": -0.167,
-      "article_count": 5,
-      "positive_count": 3,
-      "negative_count": 2,
+      "avg_sentiment": -0.041,
+      "article_count": 9,
+      "positive_count": 5,
+      "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": 0.011
+      "moving_avg": -0.05
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.097,
+      "avg_sentiment": -0.082,
       "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.342,
-      "article_count": 5,
+      "avg_sentiment": -0.09,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.189,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": 0.213,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.389,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.226,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Associated Press",
-      "avg_sentiment": 0.804,
+      "avg_sentiment": -0.399,
       "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Financial Times",
-      "avg_sentiment": 0.129,
-      "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.",
+      "headline": "Bernie Sanders pitches $1,000 annual payout from public ownership of AI",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWh3R2pldGFITk9ReUVuUHExd3FPNHg5eTR5dDZxU3JabkN0SjBOZnEtdjgxbm5rRlNhSU9LU2pjMzBjeG1TV2VuRlg3bEZBb0tJcUlLa3BUSkJFU1BnejVmWkNNTGZKRnNWR19KdTVmRWVmendEc1VSTnlYdmxFZG1oNGNQeWVxOElXYVo4aHdFdTJQUTVQb0NlRG9ydHpDMy1LcTZwai1yejlpZFFFWg?oc=5",
+      "published": "2026-06-18T14:32:22",
+      "sentiment_score": 0.642,
+      "sentiment_label": "Positive",
+      "confidence": 0.675
+    },
+    {
+      "headline": "Tech Workers Maxed Out Their A.I. Use. Now They\u2019re Trying to Minimize It.",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZ2NjVuRWRPaE9OUmt0eEhUelhzNHRSQllkWXBRUVhoM3l5SDB1SmNkeExRdDFVbi1kR3hLVGlIazdka3JkSlBudXlUU2hGWEU2RV9QRloyeVVzOUY3U2Z3QVFCelhVQVlWNmVsNmpNaUhrSXJXemlIVTk4aUtfNnc4MkZEcGdpRWJ3?oc=5",
-      "published": "2026-06-18T09:02:31",
-      "sentiment_score": 0.405,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRm1lOHB5ZFVPa2tSb3h1M2U0Qi10dkRtM3doLTcxN0JyUkV1c1RzTDU3b0JMS0QzUmsxcTRnOXdBWk42TkJtSGl2OGE4TDhkbWNUM1VnWlNfdUhkdUlZNFd0MEt6bnBieVE2elktSExORVZrajV0ZHZR?oc=5",
+      "published": "2026-06-18T14:17:25",
+      "sentiment_score": -0.099,
       "sentiment_label": "Neutral",
-      "confidence": 0.555
+      "confidence": 0.815
+    },
+    {
+      "headline": "GTA 6 pre-order date and cover art revealed by Rockstar",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-18T14:06:48",
+      "sentiment_score": 0.082,
+      "sentiment_label": "Neutral",
+      "confidence": 0.892
     },
     {
       "headline": "Gig workers are endlessly exploited. AI could make more of us share their fate",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGF6akdqei1tVmlibDEyMUtscGNtYzFqOVRsM0l1ajJSRVdXaUhKdWNGY0s2X2RHZnI0TmM0SFVjWGI1NjJfRkgwUHUyODQ4U052S0VmTjRxblowelZWcUl2MHg3S0RrR0xmXzNoTk01V3FXS1hrYkFYMDNUQlRJVk40OA?oc=5",
-      "published": "2026-06-18T08:01:00",
+      "published": "2026-06-18T13:43:00",
       "sentiment_score": -0.523,
       "sentiment_label": "Negative",
       "confidence": 0.548
+    },
+    {
+      "headline": "The White House said Anthropic\u2019s powerful AI was \u2018jailbroken.\u2019 Here\u2019s what that means.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUo4WlNqc1Q2TU00M0lZVmZfZG9iMkVRZkU3cjBPdHFtQnFlcGVJajZmOGlRdGU0Z1ZTWTRseU5uQTVEbFdvUDdmNFhxakpQbUFsMENGVy1tOVBzdEh2QVVPbk02ZjJNem1uMUlOREhnTERQeU1ydjlMWmk2aHFGYzZDUGl0NjBicVJKTkx3UVJ4NlJ1cmtGX1lYSVpFY2kwZVEzcEdfQUM0RXBvYlg0RFlvOTVqOUpuMG5CQkZiUkU0UQ?oc=5",
+      "published": "2026-06-18T13:32:09",
+      "sentiment_score": -0.217,
+      "sentiment_label": "Neutral",
+      "confidence": 0.687
+    },
+    {
+      "headline": "China announces measures to promote AI integration with consumption",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnlocThjRE80VDlzbnFpU05Lc1FfdGZ2V21rS2dveUp4ZEFBaG85WG1nR3hZbGxvTWNScWZNOFpsdm9CaEdoOE9TY1p4NktQRENzbklzWXVaOXBra0x0LWtqT1JCUU5lak95a1dvWEdrOXdwUkIzeS1zTDNzcTBxMTNpcHh0djg1eExKSllkWTdYRXBzNHlnMFdyVUZIeFVXRzhuNDVTZURuR0lWeVl1QkJ6emw0T0JGcHd1ZEZfNms?oc=5",
+      "published": "2026-06-18T08:39:22",
+      "sentiment_score": 0.462,
+      "sentiment_label": "Neutral",
+      "confidence": 0.505
     },
     {
       "headline": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks",
@@ -141,7 +183,7 @@
       "headline": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
-      "published": "2026-06-18T01:31:23",
+      "published": "2026-06-18T00:25:00",
       "sentiment_score": 0.077,
       "sentiment_label": "Neutral",
       "confidence": 0.898
@@ -156,30 +198,12 @@
       "confidence": 0.754
     },
     {
-      "headline": "French president urges US to share cutting-edge AI and democracies to cooperate on regulation",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEthanlWb0x3bXcteVRGODdpR3p2by11eldKVzNMVWdldndDSDBHOWsxUkVMVmlnVEt0YzV2UXFTQTB6bGtiLW1pcVllMi1WXzdid2lZeUlBbTRGYXNzNFBXSXQxN2VycGo5eHZhM212d1Z3a0FtX2xXN01XWHNnbXpZY3EtUlgwaThnaA?oc=5",
-      "published": "2026-06-17T22:18:00",
-      "sentiment_score": 0.246,
+      "headline": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5",
+      "published": "2026-06-17T17:29:55",
+      "sentiment_score": 0.042,
       "sentiment_label": "Neutral",
-      "confidence": 0.728
-    },
-    {
-      "headline": "Rhode Island joins states issuing AI rules for lawyers",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWRVU0piQy1sRTBhaERjb0xUaEVpNU00V0RRY3hMbjA0WkVXcS12cDZuUE1ueFdzTUFFLXIya1gxNFZBenVxSEtVNUlUT3FraUtBY0ZoekRNMkw3U3o2UUxiUnlsVnlKanF3NzV1UzdFYlpUR29EaWUzaWtkQW1lZEpET1NobHBZLUdGNTl1U3RwNTdFQTAzMFFlWG1oYlFPMGwzWktn?oc=5",
-      "published": "2026-06-17T21:02:53",
-      "sentiment_score": 0.004,
-      "sentiment_label": "Neutral",
-      "confidence": 0.911
-    },
-    {
-      "headline": "Legal AI startup Eve hit with patent infringement lawsuit",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5",
-      "published": "2026-06-17T17:37:44",
-      "sentiment_score": -0.894,
-      "sentiment_label": "Negative",
       "confidence": 0.907
     },
     {
@@ -201,6 +225,42 @@
       "confidence": 0.939
     },
     {
+      "headline": "Anthropic Employees Accuse Trump Administration of Targeting Them",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5",
+      "published": "2026-06-17T14:14:03",
+      "sentiment_score": -0.679,
+      "sentiment_label": "Negative",
+      "confidence": 0.697
+    },
+    {
+      "headline": "Canadian pension giant joins race to fund India's AI-fueled data center boom | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "published": "2026-06-17T12:38:09Z",
+      "sentiment_score": 0.241,
+      "sentiment_label": "Neutral",
+      "confidence": 0.742
+    },
+    {
+      "headline": "Anthropic asked for regulation. Washington went much further",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html",
+      "published": "2026-06-17T12:32:58Z",
+      "sentiment_score": -0.841,
+      "sentiment_label": "Negative",
+      "confidence": 0.865
+    },
+    {
+      "headline": "Pinterest launches an experimental AI shopping app called 'Ask Pinterest' | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "published": "2026-06-17T11:00:00Z",
+      "sentiment_score": 0.146,
+      "sentiment_label": "Neutral",
+      "confidence": 0.833
+    },
+    {
       "headline": "Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV",
       "source": "Wired",
       "link": "https://www.wired.com/story/interactive-violent-gross-inside-fishtank-the-unhinged-future-of-reality-tv/",
@@ -210,67 +270,13 @@
       "confidence": 0.931
     },
     {
-      "headline": "China pushes for AI safety as G7 summit wraps up without Beijing",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html",
-      "published": "2026-06-17T08:04:21Z",
-      "sentiment_score": 0.62,
-      "sentiment_label": "Positive",
-      "confidence": 0.634
-    },
-    {
-      "headline": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html",
-      "published": "2026-06-17T07:09:54Z",
-      "sentiment_score": 0.07,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
-    },
-    {
-      "headline": "CNBC Daily Open: AI protectionism opens new front for G7",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/17/cnbc-daily-open-ai-protectionism-opens-new-front-for-g7.html",
-      "published": "2026-06-17T06:12:13Z",
-      "sentiment_score": 0.028,
-      "sentiment_label": "Positive",
-      "confidence": 0.351
-    },
-    {
-      "headline": "The City of London's vanishing analysts",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/17/extel-survey-equity-analysts-uk-stocks-small-mid-caps-smid.html",
-      "published": "2026-06-17T05:30:01Z",
-      "sentiment_score": 0.185,
-      "sentiment_label": "Neutral",
-      "confidence": 0.718
-    },
-    {
-      "headline": "Onco-Innovations Completes Project with Kuano, Using Their Quantum-Based Platform to Deliver Insights for PNKP Inhibitor Technology Optimization",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/access-newswire/press-release-35392814edc7111b0b0fd62c441d31fb",
-      "published": "2026-06-16T23:34:51Z",
-      "sentiment_score": 0.766,
-      "sentiment_label": "Positive",
-      "confidence": 0.773
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_campaign=rss",
-      "published": "2026-06-16T19:30:00Z",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-16T19:30:00",
       "sentiment_score": -0.079,
       "sentiment_label": "Neutral",
       "confidence": 0.866
-    },
-    {
-      "headline": "Reveal Expands European Offerings with Private Deployment, AI-Powered Review and Logikcull\u2019s Government Transparency Solutions",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/business-wire/press-release-978db25abe0746f2861ccea0fd7bfc00",
-      "published": "2026-06-16T17:15:00Z",
-      "sentiment_score": 0.842,
-      "sentiment_label": "Positive",
-      "confidence": 0.849
     },
     {
       "headline": "Epic lays out how it uses generative AI in Fortnite.",
@@ -289,15 +295,6 @@
       "sentiment_score": -0.955,
       "sentiment_label": "Negative",
       "confidence": 0.964
-    },
-    {
-      "headline": "OpenAI spending hit $34bn last year ahead of planned IPO",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBESmc4M2kxa1Rjdk9GeVdqYU5CblkxS0hqWl9Oc0ExZXZXWE5hakVOQWMzbGdIV0dyV1psT0FMek4wNkthQXFKXy1jdGo1T1pLWml6Q1VnakJkQ2lCRm5XaFF5R1VyMzAyU2xOcDBsRlhJYTNPS1hkQTdPdUs0dW1LSVY?oc=5",
-      "published": "2026-06-16T03:30:14",
-      "sentiment_score": 0.252,
-      "sentiment_label": "Neutral",
-      "confidence": 0.661
     },
     {
       "headline": "Strategic change management in the age of generative AI",
@@ -334,15 +331,6 @@
       "sentiment_score": 0.151,
       "sentiment_label": "Neutral",
       "confidence": 0.822
-    },
-    {
-      "headline": "Version of AI tool 'too powerful for public' released to public",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-09T18:35:59",
-      "sentiment_score": -0.025,
-      "sentiment_label": "Neutral",
-      "confidence": 0.892
     },
     {
       "headline": "OpenAI plots biggest ChatGPT overhaul since launch",
