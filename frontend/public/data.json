@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19T19:27:12.039255",
-  "total_articles": 30,
-  "overall_sentiment": -0.112,
+  "last_updated": "2026-06-20T02:31:32.327930",
+  "total_articles": 28,
+  "overall_sentiment": -0.144,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,31 +14,22 @@
       "moving_avg": 0.006
     },
     {
-      "date": "2026-06-12",
-      "avg_sentiment": 0.07,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.038
-    },
-    {
       "date": "2026-06-15",
       "avg_sentiment": 0.054,
       "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.043
+      "moving_avg": 0.03
     },
     {
       "date": "2026-06-16",
-      "avg_sentiment": -0.517,
-      "article_count": 2,
+      "avg_sentiment": -0.344,
+      "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.097
+      "neutral_count": 1,
+      "moving_avg": -0.095
     },
     {
       "date": "2026-06-17",
@@ -47,48 +38,99 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.142
+      "moving_avg": -0.152
     },
     {
       "date": "2026-06-18",
-      "avg_sentiment": 0.045,
-      "article_count": 17,
-      "positive_count": 10,
+      "avg_sentiment": 0.032,
+      "article_count": 13,
+      "positive_count": 7,
       "negative_count": 4,
-      "neutral_count": 3,
-      "moving_avg": -0.111
+      "neutral_count": 2,
+      "moving_avg": -0.115
     },
     {
       "date": "2026-06-19",
-      "avg_sentiment": -0.449,
-      "article_count": 5,
-      "positive_count": 0,
+      "avg_sentiment": -0.448,
+      "article_count": 6,
+      "positive_count": 1,
       "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.159
+      "moving_avg": -0.17
+    },
+    {
+      "date": "2026-06-20",
+      "avg_sentiment": 0.185,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.12
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.222,
+      "avg_sentiment": -0.207,
       "article_count": 8,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.044,
-      "article_count": 6,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.131,
+      "article_count": 5,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.002,
+      "avg_sentiment": -0.108,
       "article_count": 4,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Financial Times",
+      "avg_sentiment": -0.426,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "New video game console aims to get kids moving",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-20T01:10:51",
+      "sentiment_score": 0.185,
+      "sentiment_label": "Neutral",
+      "confidence": 0.797
+    },
+    {
+      "headline": "Letter: Artificial intelligence is giving diversification a bad name",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mVFlqUDV5TkhFeGJiTzdEdk5vN2ctWUs2OXMtMkp5MTZjVXVWOHZUaWZyN3huYnlVLXJIbXVjVHJ6TFdxODVvdjFHTnRnZVBCaDRzRENjTVdzY1QxSjI1Wm4yY2NhY0UtVzAxaHF3Q0Y?oc=5",
+      "published": "2026-06-19T23:14:04",
+      "sentiment_score": -0.858,
+      "sentiment_label": "Negative",
+      "confidence": 0.87
+    },
+    {
+      "headline": "UK's top data and AI regulator quits after 'inappropriate' humour",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-19T20:28:33",
+      "sentiment_score": -0.859,
+      "sentiment_label": "Negative",
+      "confidence": 0.872
+    },
+    {
+      "headline": "Norway imposes near ban on AI in elementary school",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5",
+      "published": "2026-06-19T15:41:56",
+      "sentiment_score": -0.735,
+      "sentiment_label": "Negative",
+      "confidence": 0.752
+    },
     {
       "headline": "What accounting firms fear about GenAI \u2014 and what\u2019s worth worrying about",
       "source": "Thomson Reuters tax and accounting",
@@ -97,15 +139,6 @@
       "sentiment_score": -0.094,
       "sentiment_label": "Neutral",
       "confidence": 0.864
-    },
-    {
-      "headline": "UK's top data and AI regulator quits after 'inappropriate' humour",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-19T12:45:06",
-      "sentiment_score": -0.859,
-      "sentiment_label": "Negative",
-      "confidence": 0.872
     },
     {
       "headline": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
@@ -117,22 +150,13 @@
       "confidence": 0.861
     },
     {
-      "headline": "Breakingviews - Galbraith\u2019s bezzle lurks beneath the AI frenzy",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb0owMDBkZ0Rac2dDbXdST1dNVFJHY1I1azFzcFJhVkt0eURsWDFkbFJzaFFTNG1kZ19hQXdQSFBCbEhLX0tHbHhWY3d6ZGh3a2xBNUpBNHlPUFJLUjJTQldtaUN3UXNUenRlZXQ4eGdFU3htT3BxOEhSMUNWZDBSa25nSmJUWVZlVEdzVlV4TkhLUjkzVlRQVk9ZRFYzOWZwdlVtTg?oc=5",
-      "published": "2026-06-19T05:01:00",
-      "sentiment_score": -0.312,
-      "sentiment_label": "Neutral",
-      "confidence": 0.633
-    },
-    {
-      "headline": "Lawmakers demand answers on the administration\u2019s Anthropic restrictions",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1dqNGlzRkwxYnEtVHlOUmMxTlVkRkIxNGFMNlk0SjFmRE9OdGhZSDFCWjJ5cXJaVWx3ZHZ6YWNfWVR0Sy1OSzZJMmRSWXNzNUdHTkE4c2xlZ05xSENBUmhBcGxDSzNEOWNnamg1d1duWHRnMjY2REZBblA5MmxiMFJqSlBQQThXSldzUlB2S0V6WmJQYXI3bHJ1RGItQ2g1TUdxbUY0TWRPYUJoeHNkT0dld2dIdGtiMGNR?oc=5",
-      "published": "2026-06-19T01:20:02",
-      "sentiment_score": -0.138,
-      "sentiment_label": "Neutral",
-      "confidence": 0.773
+      "headline": "Wpromote x Giant Spoon Partners with Smartly to Accelerate AI-Powered Client Outcomes",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/business-wire/press-release-99dc3a33d091484983797f257c8a5c3d",
+      "published": "2026-06-19T02:21:33Z",
+      "sentiment_score": 0.699,
+      "sentiment_label": "Positive",
+      "confidence": 0.707
     },
     {
       "headline": "The artificial ice pyramids saving India's mountain villages",
@@ -142,6 +166,33 @@
       "sentiment_score": 0.051,
       "sentiment_label": "Neutral",
       "confidence": 0.864
+    },
+    {
+      "headline": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+      "published": "2026-06-18T22:12:45Z",
+      "sentiment_score": -0.064,
+      "sentiment_label": "Neutral",
+      "confidence": 0.895
+    },
+    {
+      "headline": "Snap spins off AI video team into new company, Dotmo, due to costs | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "published": "2026-06-18T20:32:02Z",
+      "sentiment_score": -0.758,
+      "sentiment_label": "Negative",
+      "confidence": 0.77
+    },
+    {
+      "headline": "OpenAI is bringing on some big guns in the lead-up to its IPO\u00a0 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "published": "2026-06-18T19:59:22Z",
+      "sentiment_score": 0.216,
+      "sentiment_label": "Neutral",
+      "confidence": 0.744
     },
     {
       "headline": "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
@@ -162,15 +213,6 @@
       "confidence": 0.822
     },
     {
-      "headline": "Federal regulators back Trump's plan to speed power to energy-hungry AI data centers",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/18/federal-regulators-trump-plan-ai-data-centers.html",
-      "published": "2026-06-18T16:27:41Z",
-      "sentiment_score": -0.942,
-      "sentiment_label": "Negative",
-      "confidence": 0.953
-    },
-    {
       "headline": "Man who made girl self-harm over Discord jailed",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/crel9wx70dqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -180,24 +222,6 @@
       "confidence": 0.695
     },
     {
-      "headline": "Regulators back Trump plan to speed power to energy-hungry AI data centers",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "published": "2026-06-18T15:30:24Z",
-      "sentiment_score": 0.724,
-      "sentiment_label": "Positive",
-      "confidence": 0.797
-    },
-    {
-      "headline": "General Intuition in talks to raise $300M at around $2B valuation | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "published": "2026-06-18T15:20:37Z",
-      "sentiment_score": 0.092,
-      "sentiment_label": "Neutral",
-      "confidence": 0.888
-    },
-    {
       "headline": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight\u00a0 | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
@@ -205,15 +229,6 @@
       "sentiment_score": 0.028,
       "sentiment_label": "Neutral",
       "confidence": 0.909
-    },
-    {
-      "headline": "Silicon Valley\u2019s Elite Financial Advisers Say This Era of Wealth Is Different",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/silicon-valleys-elite-financial-advisers-say-this-era-of-wealth-is-different/",
-      "published": "2026-06-18T15:00:00Z",
-      "sentiment_score": 0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.923
     },
     {
       "headline": "MorganMyers Surveys AI Use on the Farm",
@@ -241,33 +256,6 @@
       "sentiment_score": 0.082,
       "sentiment_label": "Neutral",
       "confidence": 0.892
-    },
-    {
-      "headline": "Who decides when AI is too dangerous?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "published": "2026-06-18T13:23:34Z",
-      "sentiment_score": -0.419,
-      "sentiment_label": "Neutral",
-      "confidence": 0.529
-    },
-    {
-      "headline": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
-      "published": "2026-06-18T13:00:00Z",
-      "sentiment_score": 0.179,
-      "sentiment_label": "Neutral",
-      "confidence": 0.8
-    },
-    {
-      "headline": "Pixi's new iOS app turns text messages into interactive AR experiences | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-      "published": "2026-06-18T12:00:00Z",
-      "sentiment_score": 0.106,
-      "sentiment_label": "Neutral",
-      "confidence": 0.873
     },
     {
       "headline": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator",
@@ -324,6 +312,15 @@
       "confidence": 0.866
     },
     {
+      "headline": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1d2b1BZblBGblBxdXFYbExWSU12Q3FLTkliVGJxYmtRVF82QU10VWNyY3VIalVGdTg5MFBwVnhCYTItanh4NHB0aXNGczhRaHoyc2JBWUhWTE82TmVSQzFTVWJ0TUhEWnMtbWdtY1A2VkFCeElXTkF2Nzd3T05rcnIyeTZYR1Eya1JCbXNGLXpUTU5wMF81ZkF5R2hsOTV0LWhF?oc=5",
+      "published": "2026-06-16T18:11:05",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.901
+    },
+    {
       "headline": "ChatGPT\u2019s market share slips below 50% for first time",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzJUMmlQOUlIWVVXUWJpUTJxem1pb1NNYjR5NG81TDB5WTdfeXhjOUlyZm15eElhOU5rdUJmb3Y2MUZWbUNFV1Y1N1lrRWJZVWpOOHBqNzNlMjRIWndla0NOMWpFckNDTUtGS0RfLUhfNUp4T3dMVFZGenVweU94QmVfUGp3MDZWQ0JjVEpZUQ?oc=5",
@@ -340,15 +337,6 @@
       "sentiment_score": 0.054,
       "sentiment_label": "Neutral",
       "confidence": 0.901
-    },
-    {
-      "headline": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-12T23:05:39",
-      "sentiment_score": 0.07,
-      "sentiment_label": "Neutral",
-      "confidence": 0.891
     },
     {
       "headline": "OpenAI plots biggest ChatGPT overhaul since launch",
