@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-20T08:41:28.776008",
-  "total_articles": 22,
-  "overall_sentiment": -0.263,
+  "last_updated": "2026-06-20T13:29:29.925505",
+  "total_articles": 34,
+  "overall_sentiment": -0.153,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,13 +23,13 @@
       "moving_avg": 0.048
     },
     {
-      "date": "2026-06-15",
-      "avg_sentiment": 0.054,
+      "date": "2026-06-09",
+      "avg_sentiment": -0.007,
       "article_count": 1,
-      "positive_count": 1,
+      "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.05
+      "neutral_count": 1,
+      "moving_avg": 0.03
     },
     {
       "date": "2026-06-16",
@@ -38,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.092
+      "moving_avg": -0.107
     },
     {
       "date": "2026-06-17",
@@ -47,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.138
+      "moving_avg": -0.15
     },
     {
       "date": "2026-06-18",
@@ -56,44 +56,56 @@
       "positive_count": 6,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.115
+      "moving_avg": -0.125
     },
     {
       "date": "2026-06-19",
-      "avg_sentiment": -0.679,
-      "article_count": 5,
-      "positive_count": 0,
+      "avg_sentiment": -0.247,
+      "article_count": 12,
+      "positive_count": 2,
       "negative_count": 5,
-      "neutral_count": 0,
-      "moving_avg": -0.195
+      "neutral_count": 5,
+      "moving_avg": -0.142
     },
     {
       "date": "2026-06-20",
-      "avg_sentiment": -0.271,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": -0.045,
+      "article_count": 7,
+      "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.235
+      "neutral_count": 4,
+      "moving_avg": -0.15
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.204,
-      "article_count": 7,
+      "avg_sentiment": -0.123,
+      "article_count": 8,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.007,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.281,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.108,
+      "avg_sentiment": -0.123,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.352,
-      "article_count": 4,
+      "source": "The New York Times",
+      "avg_sentiment": -0.23,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -101,9 +113,60 @@
       "avg_sentiment": -0.426,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.464,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "AI buildout gives tech investors new reasons to watch bond market",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZThQaEV6U2RJaHpxdFU4Tkg5dzRlSTBzSTd1MUt3Y29zelNfVVdHUXRrR3FYYW5TdmswM1lFTjMzLUFwM2Z6cmw0TlY1RFFFc3ZXWWVGdWRta1hvcldob2FVeTYwcUxjbXctYkptdTJDSFNadElWd0lQeXhKaTNiMEtJNDRpTHJkRXhfblpuZ0VqRHFGRzNPU0M0SW0xOVFncFlVZEtR0gGrAUFVX3lxTE9XQXVvb0NrTDhsQ2VNYlVpQno5VlFSN1JsSXktbXhwZlhxbXUxZzVQLWp5TUtjWGVzSHhtNWEtQk9DUjBrQlFzZFUwOHVQV0FhaUpwUXhEdnJSaE1QVnBzQW5YRWM5Ui1Sa3NsNU1qSTJveHM5Y2ROSjg3V3JqTkxwaWplX0R3ajdpZlo2amNYNUJVRnFoaEZrRl9MZHlXQkJMZlhtUUlVQVFwcw?oc=5",
+      "published": "2026-06-20T12:00:01",
+      "sentiment_score": 0.122,
+      "sentiment_label": "Neutral",
+      "confidence": 0.841
+    },
+    {
+      "headline": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR01YUUNDaXhKRlNQUXE2eHA4bGFsMlZWT1BVT0dGUXN0dG5ON0Jmb0I1X3BmdUNPLTE5X3U3dFgxNzI0SjJsZmxlYm4zOEw0R3lOUks2N29FUzlBZmUtVGdEQS1idkZCRTJSVUowX2FadDRpcjFad3J5bkVrUV9FY1BVVS14QWJ2bUtzQWhfX0dnSXJVNGc?oc=5",
+      "published": "2026-06-20T11:17:00",
+      "sentiment_score": 0.037,
+      "sentiment_label": "Neutral",
+      "confidence": 0.678
+    },
+    {
+      "headline": "Here\u2019s who\u2019ll win the World Cup, according to science",
+      "source": "BBC Science Focus Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XclpfWlF0T2lHQlVzZGdyaUdqUVhpdWtDU1BrMzhEczRJU1pVUTZoN3h0T0E0T05SNXhkclRIX25GNXVoMXY0VkJwdENlUWhQbUxSM2gyZ3B6czQ2UWNaZUlwMXVxd2dyWlE?oc=5",
+      "published": "2026-06-20T11:00:00",
+      "sentiment_score": 0.028,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
+    },
+    {
+      "headline": "The Giant Test Kitchen Where Cooks Battle A.I. Slop",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFhqZUFleVNyZWRBM2gxT2xad19iU2pRUmpIbXRtb256QjY1TkZhMi1uQUNpM0NXYmIxbTZ4cnI4N2hYWXdFUTVJWUNTbHQtSXlmYW1taWpEdFBKeFY0RnRNbTBmWjZrT1pFMm9ucHJWMFdOTjZidjdKOTc3N2FzYUFpWjBMZjRO?oc=5",
+      "published": "2026-06-20T09:00:43",
+      "sentiment_score": -0.007,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
+    },
+    {
+      "headline": "Book Review: \u2018The Reverse Centaur\u2019s Guide to Life After AI,\u2019 by Cory Doctorow",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUpBNDRyTzUyeEFac2lDZGxDVlAxMW4tamFMeTljMFo2SDRXVG5RNlNTM244aVNTbmVzdkdHX2hVanFLenNJT3gtdl9YdDhBc0lkSFVYRG1hNE40ZjFaUE5XcExEc3BuOS1iTGFDSVV6LWc1YUpzbUJyc0tMcWoyRjlwU0FBLXpiZVhDbllXQjB5MW10RC1VY05jMmc?oc=5",
+      "published": "2026-06-20T09:00:16",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.897
+    },
     {
       "headline": "New video game console aims to get kids moving",
       "source": "BBC News",
@@ -150,22 +213,85 @@
       "confidence": 0.752
     },
     {
-      "headline": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHhKeUpCUG1Zc2NBQUFVMHR5b0VTUmNRazBrX3h5ZGl2WkhiM21CZ3hqS053Y2pSanpfRWNFc1cydUZvRE12WkxPVFc1VjRoUnFHUHMyQ2RsZXBWQkNaMkFtVDJPZ0dEcG9Qd3B5UlNqdVMycGt4bGg2endwM29oaW9ucmphQmtR?oc=5",
-      "published": "2026-06-19T11:02:00",
-      "sentiment_score": -0.843,
-      "sentiment_label": "Negative",
-      "confidence": 0.861
+      "headline": "The CEO of Allbirds' new AI biz has a plan, but no employees | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "published": "2026-06-19T13:00:00Z",
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "confidence": 0.937
     },
     {
-      "headline": "Barret Zoph is out at OpenAI again after just five months",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "published": "2026-06-19T04:49:33Z",
-      "sentiment_score": -0.101,
+      "headline": "Struggling to find a job? Try looking in Nevada",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
+      "published": "2026-06-19T12:33:45Z",
+      "sentiment_score": -0.04,
       "sentiment_label": "Neutral",
-      "confidence": 0.83
+      "confidence": 0.764
+    },
+    {
+      "headline": "iCapture by Cvent Now Powered by ZoomInfo's GTM.AI as the GTM Context Layer for Event Lead Capture",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-6626bf03e623f72e051669b8c41a90eb",
+      "published": "2026-06-19T12:29:03Z",
+      "sentiment_score": 0.064,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
+    },
+    {
+      "headline": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+      "published": "2026-06-19T12:00:02Z",
+      "sentiment_score": 0.035,
+      "sentiment_label": "Positive",
+      "confidence": 0.474
+    },
+    {
+      "headline": "Qualcomm CEO Cristiano Amon on the new world of AI agents",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/19/tech-download-qualcomm-ai-agents-amon.html",
+      "published": "2026-06-19T11:00:01Z",
+      "sentiment_score": -0.082,
+      "sentiment_label": "Neutral",
+      "confidence": 0.878
+    },
+    {
+      "headline": "Americast",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz7?at_campaign=rss",
+      "published": "2026-06-19T11:00:00Z",
+      "sentiment_score": 0.44,
+      "sentiment_label": "Neutral",
+      "confidence": 0.526
+    },
+    {
+      "headline": "Try One of macOS 27\u2019s Best Features Right Now",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
+      "published": "2026-06-19T10:30:00Z",
+      "sentiment_score": 0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.932
+    },
+    {
+      "headline": "Prediction Market Philosophers Got What They Wanted. They\u2019re Not Happy About It",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/",
+      "published": "2026-06-19T09:30:00Z",
+      "sentiment_score": -0.934,
+      "sentiment_label": "Negative",
+      "confidence": 0.943
+    },
+    {
+      "headline": "India's largest telecom and digital service Jio Platforms files for IPO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html",
+      "published": "2026-06-19T09:19:58Z",
+      "sentiment_score": -0.002,
+      "sentiment_label": "Neutral",
+      "confidence": 0.948
     },
     {
       "headline": "The artificial ice pyramids saving India's mountain villages",
@@ -225,7 +351,7 @@
       "headline": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
-      "published": "2026-06-18T00:25:00",
+      "published": "2026-06-18T01:31:23",
       "sentiment_score": 0.077,
       "sentiment_label": "Neutral",
       "confidence": 0.898
@@ -260,7 +386,7 @@
     {
       "headline": "Tech Life",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
       "published": "2026-06-16T19:30:00",
       "sentiment_score": -0.079,
       "sentiment_label": "Neutral",
@@ -276,13 +402,13 @@
       "confidence": 0.964
     },
     {
-      "headline": "Strategic change management in the age of generative AI",
+      "headline": "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ050VXhKd0U0LS1sSVU3T2ZkNGR1ZWVrS1YzWnMtN3I4MjBUdkxXVUlsZ2FxVWtkb2NoS0lHbl9wTTJIY2JwUjI3VmtwUWV3VnVobTBUajJJVUtoc09sa3RXQVc0TEpvS3dQMVBrYlQtR2xqUkVDTXpDU0RBRFhMQjkxUVJBeVpKNlJYRm9lSEdjVU04d1hiVnZXdm45TnJ3VlE4ZkNrTTBxbU9FQ2c?oc=5",
-      "published": "2026-06-15T14:55:54",
-      "sentiment_score": 0.054,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
+      "published": "2026-06-09T07:00:00",
+      "sentiment_score": -0.007,
       "sentiment_label": "Neutral",
-      "confidence": 0.901
+      "confidence": 0.887
     },
     {
       "headline": "OpenAI is still working on that \u2018super app\u2019",
