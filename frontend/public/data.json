@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-06-21T02:46:53.706483",
-  "total_articles": 29,
-  "overall_sentiment": -0.102,
+  "last_updated": "2026-06-21T09:37:01.057112",
+  "total_articles": 27,
+  "overall_sentiment": -0.111,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.878
+    },
     {
       "date": "2026-06-06",
       "avg_sentiment": 0.006,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.006
+      "moving_avg": -0.436
     },
     {
       "date": "2026-06-07",
@@ -20,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.048
+      "moving_avg": -0.261
     },
     {
       "date": "2026-06-08",
@@ -29,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.032
+      "moving_avg": -0.195
     },
     {
       "date": "2026-06-15",
@@ -38,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.038
+      "moving_avg": -0.145
     },
     {
       "date": "2026-06-16",
@@ -47,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.014
+      "moving_avg": -0.134
     },
     {
       "date": "2026-06-17",
@@ -56,40 +65,49 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.042
+      "moving_avg": -0.161
     },
     {
       "date": "2026-06-18",
-      "avg_sentiment": 0.073,
-      "article_count": 6,
+      "avg_sentiment": 0.108,
+      "article_count": 5,
       "positive_count": 5,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.025
+      "moving_avg": -0.02
     },
     {
       "date": "2026-06-19",
-      "avg_sentiment": -0.265,
-      "article_count": 11,
-      "positive_count": 4,
-      "negative_count": 5,
-      "neutral_count": 2,
-      "moving_avg": -0.064
+      "avg_sentiment": -0.285,
+      "article_count": 7,
+      "positive_count": 3,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.062
     },
     {
       "date": "2026-06-20",
-      "avg_sentiment": 0.1,
-      "article_count": 4,
+      "avg_sentiment": 0.055,
+      "article_count": 5,
       "positive_count": 2,
-      "negative_count": 0,
+      "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.063
+      "moving_avg": -0.067
+    },
+    {
+      "date": "2026-06-21",
+      "avg_sentiment": -0.04,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.073
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.138,
+      "avg_sentiment": -0.156,
       "article_count": 9,
       "sentiment_label": "Negative"
     },
@@ -100,20 +118,8 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.246,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.057,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.368,
+      "source": "The New York Times",
+      "avg_sentiment": -0.416,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -126,6 +132,15 @@
   ],
   "articles": [
     {
+      "headline": "Brands using AI-generated influencers to promote products on social media",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkVNRzhNUHEwbTVyRUYwTHZveVJ4Qy0wanVnYmFRQTNIZ0x3Nmk2dDcyWVJKMXk2dXJuMjNoY0JrTjlyM2Iwc2piYUdCMkZ0dVhVOWZVMkVZMFVzZWVrQXNlbVBrNjYwaTJJZ0RGMG5pMlAwWXJfZzFJdlJMQ2N3cTJHdGQzbTBRS0UtRDNqZnQxeUZPNzdkX09wMU0tS2s4Z2xDMl9LNGRTbF84UXgzbFlWQnV2bDVDUFg0dGg5RXh3UQ?oc=5",
+      "published": "2026-06-21T06:01:00",
+      "sentiment_score": -0.04,
+      "sentiment_label": "Neutral",
+      "confidence": 0.914
+    },
+    {
       "headline": "Why an AI company cleaned my New York City apartment for free",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
@@ -135,13 +150,13 @@
       "confidence": 0.864
     },
     {
-      "headline": "Why the social media ban is about so much more than social media",
+      "headline": "How the social media ban could reshape how all of us use the internet",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-06-20T23:18:12",
-      "sentiment_score": 0.045,
+      "sentiment_score": -0.125,
       "sentiment_label": "Neutral",
-      "confidence": 0.89
+      "confidence": 0.809
     },
     {
       "headline": "Here\u2019s who\u2019ll win the World Cup, according to science",
@@ -151,6 +166,15 @@
       "sentiment_score": 0.028,
       "sentiment_label": "Neutral",
       "confidence": 0.926
+    },
+    {
+      "headline": "Book Review: \u2018The Reverse Centaur\u2019s Guide to Life After AI,\u2019 by Cory Doctorow",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUpBNDRyTzUyeEFac2lDZGxDVlAxMW4tamFMeTljMFo2SDRXVG5RNlNTM244aVNTbmVzdkdHX2hVanFLenNJT3gtdl9YdDhBc0lkSFVYRG1hNE40ZjFaUE5XcExEc3BuOS1iTGFDSVV6LWc1YUpzbUJyc0tMcWoyRjlwU0FBLXpiZVhDbllXQjB5MW10RC1VY05jMmc?oc=5",
+      "published": "2026-06-20T09:00:16",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.897
     },
     {
       "headline": "New video game console aims to get kids moving",
@@ -180,15 +204,6 @@
       "confidence": 0.872
     },
     {
-      "headline": "Trump tells Axios he no longer views Anthropic as a national security threat",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/19/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat.html",
-      "published": "2026-06-19T20:19:20Z",
-      "sentiment_score": -0.64,
-      "sentiment_label": "Negative",
-      "confidence": 0.684
-    },
-    {
       "headline": "Norway imposes near ban on AI in elementary school",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5",
@@ -196,33 +211,6 @@
       "sentiment_score": -0.735,
       "sentiment_label": "Negative",
       "confidence": 0.752
-    },
-    {
-      "headline": "The riskiest SpaceX stock trade of all had a big first week",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
-      "published": "2026-06-19T15:39:12Z",
-      "sentiment_score": 0.531,
-      "sentiment_label": "Positive",
-      "confidence": 0.567
-    },
-    {
-      "headline": "Billionaire Ambani wants AI in every call, app, and home | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "published": "2026-06-19T15:23:28Z",
-      "sentiment_score": 0.024,
-      "sentiment_label": "Neutral",
-      "confidence": 0.94
-    },
-    {
-      "headline": "The film about Sam Altman has been dropped by Amazon MGM",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "published": "2026-06-19T14:15:29Z",
-      "sentiment_score": -0.842,
-      "sentiment_label": "Negative",
-      "confidence": 0.852
     },
     {
       "headline": "Toy Story has the right take on tech",
@@ -277,15 +265,6 @@
       "sentiment_score": 0.171,
       "sentiment_label": "Neutral",
       "confidence": 0.81
-    },
-    {
-      "headline": "Tech Workers Maxed Out Their A.I. Use. Now They\u2019re Trying to Minimize It.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRm1lOHB5ZFVPa2tSb3h1M2U0Qi10dkRtM3doLTcxN0JyUkV1c1RzTDU3b0JMS0QzUmsxcTRnOXdBWk42TkJtSGl2OGE4TDhkbWNUM1VnWlNfdUhkdUlZNFd0MEt6bnBieVE2elktSExORVZrajV0ZHZR?oc=5",
-      "published": "2026-06-18T14:17:26",
-      "sentiment_score": -0.099,
-      "sentiment_label": "Neutral",
-      "confidence": 0.815
     },
     {
       "headline": "GTA 6 pre-order date and cover art revealed by Rockstar",
@@ -385,6 +364,15 @@
       "sentiment_score": 0.006,
       "sentiment_label": "Neutral",
       "confidence": 0.835
+    },
+    {
+      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
+      "published": "2026-02-11T08:00:00",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     }
   ]
 }
