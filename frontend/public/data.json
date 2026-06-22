@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-06-22T11:36:13.892759",
-  "total_articles": 33,
-  "overall_sentiment": -0.082,
+  "last_updated": "2026-06-22T16:30:08.393790",
+  "total_articles": 31,
+  "overall_sentiment": -0.105,
   "overall_label": "Negative",
   "daily_stats": [
-    {
-      "date": "2026-06-01",
-      "avg_sentiment": -0.016,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.016
-    },
     {
       "date": "2026-06-06",
       "avg_sentiment": 0.006,
@@ -20,7 +11,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.005
+      "moving_avg": 0.006
     },
     {
       "date": "2026-06-07",
@@ -29,7 +20,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.027
+      "moving_avg": 0.048
     },
     {
       "date": "2026-06-08",
@@ -38,16 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.02
-    },
-    {
-      "date": "2026-06-11",
-      "avg_sentiment": 0.202,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.057
+      "moving_avg": 0.032
     },
     {
       "date": "2026-06-16",
@@ -56,25 +38,25 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.034
+      "moving_avg": 0.005
     },
     {
       "date": "2026-06-17",
-      "avg_sentiment": -0.322,
-      "article_count": 3,
+      "avg_sentiment": -0.402,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.017
+      "moving_avg": -0.077
     },
     {
       "date": "2026-06-18",
-      "avg_sentiment": 0.101,
-      "article_count": 3,
-      "positive_count": 3,
+      "avg_sentiment": 0.067,
+      "article_count": 2,
+      "positive_count": 2,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.0
+      "moving_avg": -0.053
     },
     {
       "date": "2026-06-19",
@@ -83,34 +65,34 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.115
+      "moving_avg": -0.159
     },
     {
       "date": "2026-06-20",
-      "avg_sentiment": 0.033,
-      "article_count": 7,
+      "avg_sentiment": 0.037,
+      "article_count": 6,
       "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 4,
-      "moving_avg": -0.123
+      "neutral_count": 3,
+      "moving_avg": -0.155
     },
     {
       "date": "2026-06-21",
-      "avg_sentiment": -0.29,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.165
+      "avg_sentiment": -0.133,
+      "article_count": 8,
+      "positive_count": 3,
+      "negative_count": 3,
+      "neutral_count": 2,
+      "moving_avg": -0.187
     },
     {
       "date": "2026-06-22",
-      "avg_sentiment": 0.08,
+      "avg_sentiment": -0.023,
       "article_count": 7,
-      "positive_count": 3,
-      "negative_count": 1,
-      "neutral_count": 3,
-      "moving_avg": -0.182
+      "positive_count": 4,
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.19
     }
   ],
   "source_stats": [
@@ -122,71 +104,68 @@
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.229,
-      "article_count": 5,
+      "avg_sentiment": -0.308,
+      "article_count": 4,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.254,
-      "article_count": 3,
-      "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.02,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.063,
+      "article_count": 4,
+      "sentiment_label": "Positive"
     },
     {
-      "source": "Bloomberg.com",
-      "avg_sentiment": -0.186,
+      "source": "CNBC",
+      "avg_sentiment": 0.052,
       "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "BBC",
-      "avg_sentiment": -0.088,
-      "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "US curbs on AI spur European firms to spread the risk",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0lWU2NUd05hc2JpNFpiQWtvUGJ5RjNYZnVTMHBYbmxVSE5kVW53N1hjeGJlQUZzLVVOZ2dnNDc4UDdxWkZIR005X1VIWnBBdEtJQWxscW9wdEs2aS11ZENmMzB2TFFzUkVzcUk2M0RfendOOUcxUF93dHBzaFdMWnI5NFBuV2I5RVNuYUgycDF6dk8tWFRpenZKTFk?oc=5",
-      "published": "2026-06-22T10:58:09",
-      "sentiment_score": 0.044,
-      "sentiment_label": "Neutral",
-      "confidence": 0.632
-    },
-    {
-      "headline": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PUkZjTzJzNDlwUHRtV1MycUsySkpWQTI0aUg4dkhLQUZRTzNTdW1aM3Y3LWJRbFhqcTRaMEFvZGR1ZGlhZGtqUjI4QktvUHV1UEVxbHl4dkY2VHV3S0tTNXFMTGJkZTQ5dy03SHdQd1JtQ2hjWXl0MFdn0gF_QVVfeXFMTlR0dUZ0ekRPYko2TUh3UnZBd3h4ZV9PQ3ZOclZoUTVVdDA0TGx6cWJmeU0yaWVUb29FdTFGZkxHai01UUxNbEVfS1Z6MDNoNm03T0dMaTdJTlFwWERFVU5sdTZXaGxQOGI4MUZHaDdySHZkS2NYUDRaV0xBemVZcw?oc=5",
-      "published": "2026-06-22T10:43:06",
-      "sentiment_score": 0.658,
-      "sentiment_label": "Positive",
-      "confidence": 0.671
-    },
-    {
-      "headline": "She helped plan the Jan. 6 rally. Now she\u2019s fighting to rein in AI companies.",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjkzNFVudlkwa21wcjg1eWNaSF9xQ2d2MnpQVVpYb0tNZVd0NUlYSU1DN29nY0ZiQWlyQy1fb3FWOWstc0dJZ0wybXFuaXVzT240Wml6dlNQajR2a2VOMGVWNWxwWjd4OXBzT09nMGpYZF9aRnFpdGZKYmpCTDB0T05vdTRJNmF5Y20tUlotcXIxUXc2MjMtRXlkTVQ1RjZBbDNtYWNSazVNSVZUYmJWY2ZxeHdEMTlN?oc=5",
-      "published": "2026-06-22T10:32:22",
-      "sentiment_score": 0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.894
-    },
-    {
       "headline": "Three ways Trump could get a stake in AI firms for the US",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYk1wdmpHWjNYX1l2SVBUajlPZ1RxTXNvRXFzbkRLV3E1ZmR3TDhJdkROTnY3WDVvOUd0MVFaNFNlRjVfczBMazlsTDFidVduY1g4aVM2YmNnUzE4U0FCVzVyeUM3V0h6WTJxSzdDNDMtbW5rTkE4aHNva005T2twMjZqNV9EQjMzcDVBSDNvOUVudVdIRTZ1Zm15ZWJUV3VGT3c?oc=5",
-      "published": "2026-06-22T10:28:23",
+      "published": "2026-06-22T15:43:27",
       "sentiment_score": 0.075,
       "sentiment_label": "Neutral",
       "confidence": 0.902
+    },
+    {
+      "headline": "Is China Closing the A.I. Gap Faster Than Expected?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlYxMkNJY1pGUTRDN1lnQWhoTjZicFkxalJrS1hJTFhYSjh1bzJyTXV3RGZmcjlmNTB4Sl9UcElfRWZBZFVsUEttUlNkc3hoRndnY0tXSGVOTkJXQkRTdE5NelJnc2lnY1JyckR6QlRZbDdEQTVYZGIzTmpSZnp6d01RaW0?oc=5",
+      "published": "2026-06-22T15:06:31",
+      "sentiment_score": -0.197,
+      "sentiment_label": "Neutral",
+      "confidence": 0.642
+    },
+    {
+      "headline": "Exclusive | Google Investing in \u2018Backrooms\u2019 Studio A24",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajN0RDZiN1Y0UFBWSVFYUDEtaHlpTWp3ZGh5SWFqNE94WWFqaUlKLWstVjlzeGwxVWhBWWJQc2t2X2NaQXdUN0wzalNiU1VadTdGWjVOb0ktTkdHYXBId1E5Ukd0amVGZXVzOG5xSFdVcW95a0FjdHFxUDVEcmp5WUJTZw?oc=5",
+      "published": "2026-06-22T14:00:00",
+      "sentiment_score": 0.07,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
+    {
+      "headline": "Upscale AI valued at $2 billion after funding extension",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejN6UXVxNng1TXNSYl9aWlB4dktLdDlMWlpUVlJGeXhhSHJEN3BoSzR4UHlsUDh1T1lvT1JVOGk5Y095WGxUcmxVNzhiTFdlX1JuOXRuaEJpSS1YYlh6SnNOTHhjSkdjMnBPek1VNS1NOGkwQ3Frczkza2VMaXVsc2NpWGhrN2poMm9QdmIzckFUQXBCVHJ0eUMtZ2g?oc=5",
+      "published": "2026-06-22T13:44:01",
+      "sentiment_score": 0.128,
+      "sentiment_label": "Neutral",
+      "confidence": 0.823
+    },
+    {
+      "headline": "AI boom's US employment, wage impact muted so far, ECB study finds",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdieHpxZWJqRENDWDBoSGVMWlhYUTliQlVTSHpfV0FHSFNnUXd4QzM2TTcwYTF5aDM4TW42U1gwYjNQMlZKalMyTlF0S3pndWtEU2RESnc5UXVsS2xaUjlPa053ZTFoYnB4VFNZWHJlQTczSkRqU1pCcmY0ZmZvVDJfSWpqMGpFVGhoUDhEQzNRd3ZnLTQzcm1MUXRwQkpsQWZzRlk1NkJXUmlUZktFYlRUV25LV2syTlcyNUlsWQ?oc=5",
+      "published": "2026-06-22T10:48:28",
+      "sentiment_score": -0.699,
+      "sentiment_label": "Negative",
+      "confidence": 0.74
     },
     {
       "headline": "Getty Images Soars 200% in Early Trading After OpenAI Deal",
@@ -196,15 +175,6 @@
       "sentiment_score": 0.462,
       "sentiment_label": "Positive",
       "confidence": 0.546
-    },
-    {
-      "headline": "AI boom's US employment, wage impact muted so far, ECB study finds",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdieHpxZWJqRENDWDBoSGVMWlhYUTliQlVTSHpfV0FHSFNnUXd4QzM2TTcwYTF5aDM4TW42U1gwYjNQMlZKalMyTlF0S3pndWtEU2RESnc5UXVsS2xaUjlPa053ZTFoYnB4VFNZWHJlQTczSkRqU1pCcmY0ZmZvVDJfSWpqMGpFVGhoUDhEQzNRd3ZnLTQzcm1MUXRwQkpsQWZzRlk1NkJXUmlUZktFYlRUV25LV2syTlcyNUlsWQ?oc=5",
-      "published": "2026-06-22T08:05:23",
-      "sentiment_score": -0.699,
-      "sentiment_label": "Negative",
-      "confidence": 0.74
     },
     {
       "headline": "The Reverse Centaur\u2019s Guide to Life After AI by Cory Doctorow review \u2013 the real price of artificial intelligence",
@@ -225,13 +195,40 @@
       "confidence": 0.8
     },
     {
-      "headline": "The \u2018Mass Affluent\u2019 Are Losing Their Allure for Wealth Managers Navigating AI",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUV5dFM3N2VfUGdCOU1lNFdLMkt4QkVSeldDREpBSHJIalh1QXRjczVUeXJRNWVOZ0ZqSzd1aVhDUWhHc1B5aVRycmwtOVFCanMxTkU1RWFrb2NyMlNvUXhCdF9oUFVuYndOaUthNWdpUWItQnFEb0FJR05jUW1VT3p0QWVOSzF1MzVHU2FmQl9hampxUTN1NW5aRmtrUUxpWWZ4UFBBSGwwN1M0S2Vv?oc=5",
-      "published": "2026-06-21T12:00:00",
-      "sentiment_score": -0.834,
-      "sentiment_label": "Negative",
-      "confidence": 0.851
+      "headline": "Opinion | AI backlash threatens to hold back kids",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckJqT21hRkZWaFhoSnpSSGp3SEYwZGE3dmJZbUNjc05OZzZ4ZERMYTd2YXNXc2RWbU1pbnlyMWNJdW80YncyaFZVYjI3eHdpNmFmN0E1b1V4VHE3bFFCVHBjRkJjOW5LMWZsTjdEeHFHdTRSQng5ZzdhbzBjb1F3czN4S1F3cldrX0w1eXZLMWJSc2xDTS1WNVpMWmJzc0hZSk9ReU4wOA?oc=5",
+      "published": "2026-06-21T22:00:10",
+      "sentiment_score": -0.423,
+      "sentiment_label": "Neutral",
+      "confidence": 0.522
+    },
+    {
+      "headline": "TechCrunch Mobility: A new robotaxi scorecard shows China's dominance | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "published": "2026-06-21T16:06:15Z",
+      "sentiment_score": 0.191,
+      "sentiment_label": "Neutral",
+      "confidence": 0.79
+    },
+    {
+      "headline": "A vengeful arsonist or a convenient scapegoat? What we\u2019ve learned from testimony in the Palisades Fire trial",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/06/21/us/palisades-fire-jonathan-rinderknecht-trial",
+      "published": "2026-06-21T16:00:25Z",
+      "sentiment_score": -0.23,
+      "sentiment_label": "Neutral",
+      "confidence": 0.685
+    },
+    {
+      "headline": "When the Trump administration cracks down on Anthropic, who benefits? | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "published": "2026-06-21T15:30:02Z",
+      "sentiment_score": 0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.918
     },
     {
       "headline": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
@@ -288,15 +285,6 @@
       "confidence": 0.915
     },
     {
-      "headline": "In the Weights is your new AI-centric vanity search | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "published": "2026-06-20T19:42:03Z",
-      "sentiment_score": 0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.952
-    },
-    {
       "headline": "Read this before you vibe-code another app",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
@@ -351,15 +339,6 @@
       "confidence": 0.864
     },
     {
-      "headline": "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWxRY2ZwTklKSnpiaGg3QVJFZ21wUk5CT3VMaF92S0ROaW1WS09RYmM5YzEtMzVwRmpCWDdUT20wTFRncENqek1YQk83ekNhM1R2aUU3UzZRZi1HQ0hwVVdxS2VsMmxKS2lLb3d3YmloTkZkOTNTNFRxS2RjbjhpVUdDYmgzcVI0S1B4cDF6UUxFQTlaaG9rcGxMVTM5VWlhcWg3V2NhSVhCeF9lZzdVMUtHVk9aUzhwalE?oc=5",
-      "published": "2026-06-18T19:53:43",
-      "sentiment_score": 0.171,
-      "sentiment_label": "Neutral",
-      "confidence": 0.81
-    },
-    {
       "headline": "GTA 6 pre-order date and cover art revealed by Rockstar",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
@@ -367,15 +346,6 @@
       "sentiment_score": 0.082,
       "sentiment_label": "Neutral",
       "confidence": 0.892
-    },
-    {
-      "headline": "OpenAI works to stop ChatGPT generating 'sex crime scene' images",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eXBuNDNvMXpxR0RYOEdOTTdac29maUEyQWxhU2h1MUlOMDhOM1pkNnpVRU8yZVFKV2tQSmJremlCOHF2azdrY1dnT0V1UXY4UEVMZkNQZGl1QQ?oc=5",
-      "published": "2026-06-17T23:07:40",
-      "sentiment_score": -0.16,
-      "sentiment_label": "Neutral",
-      "confidence": 0.754
     },
     {
       "headline": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
@@ -405,15 +375,6 @@
       "confidence": 0.866
     },
     {
-      "headline": "Meet the OpenAI Engineer Leading ChatGPT\u2019s Biggest Transformation Yet",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmthVnRyUjlsaDZRdkZzSWgydEpjd3ZtTXBPTUFwUlJ0VjdoaUNUdWdRNGtyUDN5X2ZkMFdVUGVXSTQ3TGY5dVlhZmh6LVVuV2N2S3lveVlSUEluZ2psLWtKbF9ZX3huajF6dmxJeUlndWo0cy1yUkNtNzlIZ1A1REJBNUtBd043a1BteFI1SWYxVVhN?oc=5",
-      "published": "2026-06-11T07:00:00",
-      "sentiment_score": 0.202,
-      "sentiment_label": "Neutral",
-      "confidence": 0.77
-    },
-    {
       "headline": "Generative and agentic AI in professional-grade legal AI",
       "source": "Thomson Reuters Legal Solutions",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZWQkxJRUw0OVdnMUVfOW5QSjZlNEFTUzVUaG9VejF5TS0ySFhLeUdQVzVvWjEzX1VNQ1UwMjhmLXJZbWYwd0hkaUVwV2hrYnRvekdseEE1SWpZQ1hyRHhXckRtamFQZ0R5c3FWd2thS3BqNjdQNlU2ck1kX0hxZEJtTEFuSzk3ZkFIbDNtMXhZZWQ3ZnBPRmJrd1QxanpMTGxYUVA3OEJ6eWJXaEp0NlRRaw?oc=5",
@@ -439,15 +400,6 @@
       "sentiment_score": 0.006,
       "sentiment_label": "Neutral",
       "confidence": 0.835
-    },
-    {
-      "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IUFN4T3VUZFhlSnZ4eVVWaEJqVE1mUFNJaC1vU01jcmU5VFplNE81WkhKYnRKclUyV0Vtb2J5Ykh6LXVJcHJySUZ0UWQteC1OSkg4NmJEeWxjQQ?oc=5",
-      "published": "2026-06-01T07:00:00",
-      "sentiment_score": -0.016,
-      "sentiment_label": "Neutral",
-      "confidence": 0.872
     }
   ]
 }
