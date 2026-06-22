@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-21T19:17:03.911236",
-  "total_articles": 30,
-  "overall_sentiment": -0.143,
+  "last_updated": "2026-06-22T02:49:33.547155",
+  "total_articles": 32,
+  "overall_sentiment": -0.187,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-06-07",
-      "avg_sentiment": 0.09,
-      "article_count": 1,
-      "positive_count": 1,
+      "avg_sentiment": 0.117,
+      "article_count": 2,
+      "positive_count": 2,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.048
+      "moving_avg": 0.062
     },
     {
       "date": "2026-06-08",
@@ -29,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.032
+      "moving_avg": 0.041
     },
     {
       "date": "2026-06-15",
@@ -38,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.038
+      "moving_avg": 0.045
     },
     {
       "date": "2026-06-16",
@@ -47,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.014
+      "moving_avg": 0.02
     },
     {
       "date": "2026-06-17",
@@ -56,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.042
+      "moving_avg": -0.037
     },
     {
       "date": "2026-06-18",
@@ -65,41 +65,47 @@
       "positive_count": 5,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.02
+      "moving_avg": -0.016
     },
     {
       "date": "2026-06-19",
-      "avg_sentiment": -0.286,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": -0.612,
+      "article_count": 4,
+      "positive_count": 0,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.062
+      "moving_avg": -0.105
     },
     {
       "date": "2026-06-20",
-      "avg_sentiment": -0.183,
-      "article_count": 7,
+      "avg_sentiment": -0.146,
+      "article_count": 9,
       "positive_count": 2,
       "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.101
+      "neutral_count": 3,
+      "moving_avg": -0.142
     },
     {
       "date": "2026-06-21",
-      "avg_sentiment": -0.248,
+      "avg_sentiment": -0.406,
       "article_count": 5,
       "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.137
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.2
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.156,
-      "article_count": 9,
+      "avg_sentiment": -0.219,
+      "article_count": 10,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.062,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
@@ -109,19 +115,43 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "The Washington Post",
+      "avg_sentiment": -0.139,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
       "source": "Bloomberg.com",
       "avg_sentiment": -0.337,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.108,
+      "source": "Financial Times",
+      "avg_sentiment": -0.426,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "It's not just about nudity warns actress - the complex reality of images and online abuse",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-21T23:21:05",
+      "sentiment_score": -0.786,
+      "sentiment_label": "Negative",
+      "confidence": 0.8
+    },
+    {
+      "headline": "Opinion | AI backlash threatens to hold back kids",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckJqT21hRkZWaFhoSnpSSGp3SEYwZGE3dmJZbUNjc05OZzZ4ZERMYTd2YXNXc2RWbU1pbnlyMWNJdW80YncyaFZVYjI3eHdpNmFmN0E1b1V4VHE3bFFCVHBjRkJjOW5LMWZsTjdEeHFHdTRSQng5ZzdhbzBjb1F3czN4S1F3cldrX0w1eXZLMWJSc2xDTS1WNVpMWmJzc0hZSk9ReU4wOA?oc=5",
+      "published": "2026-06-21T22:00:10",
+      "sentiment_score": -0.423,
+      "sentiment_label": "Neutral",
+      "confidence": 0.522
+    },
     {
       "headline": "Brands using AI-generated influencers to promote products on social media",
       "source": "The Guardian",
@@ -130,24 +160,6 @@
       "sentiment_score": -0.04,
       "sentiment_label": "Neutral",
       "confidence": 0.914
-    },
-    {
-      "headline": "Opinion | AI backlash threatens to hold back kids",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckJqT21hRkZWaFhoSnpSSGp3SEYwZGE3dmJZbUNjc05OZzZ4ZERMYTd2YXNXc2RWbU1pbnlyMWNJdW80YncyaFZVYjI3eHdpNmFmN0E1b1V4VHE3bFFCVHBjRkJjOW5LMWZsTjdEeHFHdTRSQng5ZzdhbzBjb1F3czN4S1F3cldrX0w1eXZLMWJSc2xDTS1WNVpMWmJzc0hZSk9ReU4wOA?oc=5",
-      "published": "2026-06-21T18:02:08",
-      "sentiment_score": -0.423,
-      "sentiment_label": "Neutral",
-      "confidence": 0.522
-    },
-    {
-      "headline": "What AI Can\u2019t\u2014or Shouldn\u2019t\u2014Do for You",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nRzV2akVNa2JweGRJUnB1eHVNclQxdS1ZUm1OTEN6SnpzTHFVcWF2dGdWUGhiXzBqSDRzNXlqNU5PMUJmZWp3OUxWQjBKWmlwRk16Mi0zUVJvWWhNQWN2ZHgzcFpIWTF1bXZuc1I3VVZzdw?oc=5",
-      "published": "2026-06-21T15:00:00",
-      "sentiment_score": 0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.927
     },
     {
       "headline": "The \u2018Mass Affluent\u2019 Are Losing Their Allure for Wealth Managers Navigating AI",
@@ -184,6 +196,24 @@
       "sentiment_score": -0.125,
       "sentiment_label": "Neutral",
       "confidence": 0.809
+    },
+    {
+      "headline": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "published": "2026-06-20T20:35:02Z",
+      "sentiment_score": -0.042,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
+    },
+    {
+      "headline": "In the Weights is your new AI-centric vanity search | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "published": "2026-06-20T19:42:03Z",
+      "sentiment_score": 0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.952
     },
     {
       "headline": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic | TechCrunch",
@@ -231,6 +261,15 @@
       "confidence": 0.762
     },
     {
+      "headline": "Letter: Artificial intelligence is giving diversification a bad name",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mVFlqUDV5TkhFeGJiTzdEdk5vN2ctWUs2OXMtMkp5MTZjVXVWOHZUaWZyN3huYnlVLXJIbXVjVHJ6TFdxODVvdjFHTnRnZVBCaDRzRENjTVdzY1QxSjI1Wm4yY2NhY0UtVzAxaHF3Q0Y?oc=5",
+      "published": "2026-06-19T23:14:04",
+      "sentiment_score": -0.858,
+      "sentiment_label": "Negative",
+      "confidence": 0.87
+    },
+    {
       "headline": "UK's top data and AI regulator quits after 'inappropriate' humour",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
@@ -247,24 +286,6 @@
       "sentiment_score": -0.735,
       "sentiment_label": "Negative",
       "confidence": 0.752
-    },
-    {
-      "headline": "Toy Story has the right take on tech",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
-      "published": "2026-06-19T13:42:16Z",
-      "sentiment_score": 0.106,
-      "sentiment_label": "Neutral",
-      "confidence": 0.869
-    },
-    {
-      "headline": "Dust Now Powered by ZoomInfo's GTM.AI as the GTM Context Layer for Enterprise AI Agents",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-72309b4b4818d687177c4181087b9c0f",
-      "published": "2026-06-19T13:32:32Z",
-      "sentiment_score": 0.054,
-      "sentiment_label": "Neutral",
-      "confidence": 0.925
     },
     {
       "headline": "Try One of macOS 27\u2019s Best Features Right Now",
@@ -373,6 +394,15 @@
       "sentiment_score": 0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.925
+    },
+    {
+      "headline": "Opinion | Human intelligence will win out over artificial intelligence",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREJsN2RmaFVCN1VFNU14WVpnTnhHOGE5WUp1aWNJdU5aQzZXREh2NHczM285cGNZVnlOSXlFRHNsX2otMWFtaDBDQ1FFVmZIbUZQT1VHQkNIYWhvM2RhUllncVBienFUeklWcU9vbGZzZnc3VEdKQl9tXzhVSXhsc2hvUVBrOU1rQ0cwWXFJU0d0ZEltT3lkVkVjZw?oc=5",
+      "published": "2026-06-07T07:00:00",
+      "sentiment_score": 0.145,
+      "sentiment_label": "Neutral",
+      "confidence": 0.828
     },
     {
       "headline": "OpenAI is still working on that \u2018super app\u2019",
