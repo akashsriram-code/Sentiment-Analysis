@@ -1,17 +1,53 @@
 {
-  "last_updated": "2026-06-24T02:16:25.213997",
-  "total_articles": 33,
-  "overall_sentiment": -0.148,
+  "last_updated": "2026-06-24T08:53:56.754539",
+  "total_articles": 36,
+  "overall_sentiment": -0.087,
   "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-06-01",
-      "avg_sentiment": -0.445,
-      "article_count": 2,
+      "avg_sentiment": -0.016,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.445
+      "moving_avg": -0.016
+    },
+    {
+      "date": "2026-06-06",
+      "avg_sentiment": 0.006,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.005
+    },
+    {
+      "date": "2026-06-07",
+      "avg_sentiment": 0.022,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.004
+    },
+    {
+      "date": "2026-06-10",
+      "avg_sentiment": 0.516,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.132
+    },
+    {
+      "date": "2026-06-11",
+      "avg_sentiment": 0.202,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.146
     },
     {
       "date": "2026-06-16",
@@ -20,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.262
+      "moving_avg": 0.108
     },
     {
       "date": "2026-06-19",
@@ -29,7 +65,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.461
+      "moving_avg": -0.03
     },
     {
       "date": "2026-06-20",
@@ -38,7 +74,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.329
+      "moving_avg": -0.018
     },
     {
       "date": "2026-06-21",
@@ -47,47 +83,44 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.336
+      "moving_avg": -0.071
     },
     {
       "date": "2026-06-22",
-      "avg_sentiment": -0.034,
-      "article_count": 9,
+      "avg_sentiment": 0.176,
+      "article_count": 8,
       "positive_count": 4,
-      "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.286
+      "negative_count": 2,
+      "neutral_count": 2,
+      "moving_avg": -0.049
     },
     {
       "date": "2026-06-23",
-      "avg_sentiment": -0.154,
-      "article_count": 14,
+      "avg_sentiment": -0.238,
+      "article_count": 16,
       "positive_count": 5,
-      "negative_count": 7,
+      "negative_count": 9,
       "neutral_count": 2,
-      "moving_avg": -0.267
-    },
-    {
-      "date": "2026-06-24",
-      "avg_sentiment": -0.049,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.211
+      "moving_avg": -0.157
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.27,
-      "article_count": 10,
+      "avg_sentiment": -0.333,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.117,
-      "article_count": 4,
+      "avg_sentiment": 0.567,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": -0.488,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -109,28 +142,31 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.37,
+      "source": "Reuters",
+      "avg_sentiment": -0.139,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.144,
+      "source": "Financial Times",
+      "avg_sentiment": 0.019,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.043,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "WIRED",
+      "avg_sentiment": 0.128,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
-    {
-      "headline": "Opinion | Cartoon by Jimmy Margulies",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUxYQ3JkWnlPTVJUeEFMeU0tX21yVzVKaEJIU19UNWRPMDMtQXJaZjZZcjM2SkIyeGJjNmkxLUxRcG5CWU90cDZkYVlKNDN5Y1hTZV9MVzI4RUhXN0xSZFB0MHBnRzgxQW1OdlllYURnQU02WUYycTJpRFEwRzJkNDBtMEFtdTZWbGsxejQ1U3k3emh1aDVpYW55X2ZiNEU3R3lzS0VvbEFJWVk1WnlTd0R3?oc=5",
-      "published": "2026-06-24T00:47:25",
-      "sentiment_score": -0.049,
-      "sentiment_label": "Neutral",
-      "confidence": 0.905
-    },
     {
       "headline": "Google's YouTube settles social media addiction case with teen",
       "source": "BBC News",
@@ -148,24 +184,6 @@
       "sentiment_score": -0.023,
       "sentiment_label": "Neutral",
       "confidence": 0.873
-    },
-    {
-      "headline": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
-      "published": "2026-06-23T21:45:20",
-      "sentiment_score": 0.134,
-      "sentiment_label": "Neutral",
-      "confidence": 0.626
-    },
-    {
-      "headline": "Judge allows US search warrant targeting executive's AI chatbot records",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeU4xY3NnSWNjaUFUTVZra2xZVXBlNUdXVFQ3WEY2QlZNWjgzTno3dDV1NGtyMkdNSHRjTjR2VVp3QmJIdkJoemNYV3NQZGVLTDNXZUZiZk1VRTRCdzE2LVFjTXBjOFQzTkg3d2xkdWJNNDBKblNhc1NvMU1Pb0psZWtIODY2UmR3MjZfQS12MW1zMGZIbkdIajNiVWwwUXhJczJ3RldzWWRldWZkV3lVYWNjWGhCUkZqVHNsWm1hUTM?oc=5",
-      "published": "2026-06-23T20:31:15",
-      "sentiment_score": -0.45,
-      "sentiment_label": "Neutral",
-      "confidence": 0.488
     },
     {
       "headline": "Meta halts worker tracking for AI training due to privacy fears",
@@ -195,13 +213,13 @@
       "confidence": 0.437
     },
     {
-      "headline": "Netherlands to join US-led Pax Silica AI initiative despite ASML dispute",
+      "headline": "Dutch official presses US lawmakers over China chip export bill",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXpYRm4zZWhFOWRuUUk3eUNjZ1pBYm1ZR3pGQXBFODZPamc5Rm9HeC01U3V0bXcxT000SHNrakxaVTQ2N1dXWUJrazZwakw0T0s5OFhqVTNTblFpNWxKWkxBbVlZWTBYZk9iNExrOEpSNThfb2ZWVjNZZFRSd2lWR1h4anBZQ1h6TnFfT2RiX1N2RDZsTURGX2R5bE1zRWx0YktuTXRaYmhDbVhXN0NEMl9MdnVmdUdx?oc=5",
-      "published": "2026-06-23T11:35:51",
-      "sentiment_score": 0.163,
+      "published": "2026-06-23T11:34:00",
+      "sentiment_score": -0.3,
       "sentiment_label": "Neutral",
-      "confidence": 0.804
+      "confidence": 0.605
     },
     {
       "headline": "Steam Machine launches with \u00a3879 price tag as Valve cites component costs",
@@ -213,13 +231,31 @@
       "confidence": 0.588
     },
     {
-      "headline": "Law School Externships Without AI Policy Is Risky for Students",
-      "source": "Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVNTVmxYWS1VWnJCNzlqWW0yanhnbFRVbDVSYTZjVHRweC11MkNjbmtWNHlzbDY5NEQwMTFpSVdkU2xhb3NYdTRJMDdPMjNvRjcxNW93N3V1MzQyRThfSEVadHBPdHh5bUN4UGpWM2VxMXI3dDNnV2M4YXZUcml2bmJFSU8wU0FBRjZqQXY4QWYwT2EyOXJ6Wl9BUUNnbFhOZzdXRlp0TzVUWTlCLWpQX3RnX0xjbzNjTGVVUWZCTDBZVFUxOGo1b3JaUQ?oc=5",
-      "published": "2026-06-23T08:30:00",
-      "sentiment_score": -0.355,
+      "headline": "Best Prime Day Tech Deals (2026): Phones, Watches, and More",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/best-prime-day-tech-deals-2026/",
+      "published": "2026-06-23T08:11:47Z",
+      "sentiment_score": 0.12,
       "sentiment_label": "Neutral",
-      "confidence": 0.598
+      "confidence": 0.858
+    },
+    {
+      "headline": "Getty Images surges 145% after announcing OpenAI deal",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
+      "published": "2026-06-23T05:15:38Z",
+      "sentiment_score": -0.961,
+      "sentiment_label": "Negative",
+      "confidence": 0.97
+    },
+    {
+      "headline": "Global M&A deal value on track to reach $4 trillion this year: PwC",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/23/global-ma-deal-value-on-track-to-reach-4-trillion-this-year-pwc-.html",
+      "published": "2026-06-23T04:49:12Z",
+      "sentiment_score": 0.911,
+      "sentiment_label": "Positive",
+      "confidence": 0.93
     },
     {
       "headline": "OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO",
@@ -229,6 +265,24 @@
       "sentiment_score": 0.033,
       "sentiment_label": "Neutral",
       "confidence": 0.927
+    },
+    {
+      "headline": "SpaceX falls for third day, erases $600 billion in market value",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-shares-poised-to-slide-again-as-us-market-reopens",
+      "published": "2026-06-23T03:32:18Z",
+      "sentiment_score": -0.965,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
+    },
+    {
+      "headline": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo",
+      "published": "2026-06-23T02:21:14Z",
+      "sentiment_score": -0.961,
+      "sentiment_label": "Negative",
+      "confidence": 0.968
     },
     {
       "headline": "The running list: major tech layoffs in 2026 where employers cited AI | TechCrunch",
@@ -258,22 +312,13 @@
       "confidence": 0.561
     },
     {
-      "headline": "Beijing is summoning executives again, but here's why that's causing less worry than in 2021",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
-      "published": "2026-06-22T23:15:40Z",
-      "sentiment_score": -0.3,
-      "sentiment_label": "Neutral",
-      "confidence": 0.543
-    },
-    {
-      "headline": "Stock market today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/22/stock-market-today-live-updates.html",
-      "published": "2026-06-22T22:05:10Z",
-      "sentiment_score": -0.959,
+      "headline": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUtTQS1taTZnZ3Vma2JIanZaOV80RTREV0d5NzdkbU9LdmZHYWdiM1AyZVJtOUJ4U2hMdG0xVW9GeElRMl9TWmItSmNVNzZibDlRQWJrdHVoSUhybTJ1QU5LbExIU25HejEyM0kzVEZaY3BiSkE5NHlla3Nmc1FpMUsxU1hRT053bHVN?oc=5",
+      "published": "2026-06-22T21:00:06",
+      "sentiment_score": -0.513,
       "sentiment_label": "Negative",
-      "confidence": 0.97
+      "confidence": 0.55
     },
     {
       "headline": "The AI world is getting 'loopy' | TechCrunch",
@@ -303,15 +348,6 @@
       "confidence": 0.622
     },
     {
-      "headline": "Why Alphabet Inc Class C Down Today? GOOG Stock Falls 3.77% on June 22 Amid Reassessing Google's AI Future - What Investors Need to Know",
-      "source": "The Sunday Guardian",
-      "link": "https://sundayguardianlive.com/business/why-alphabet-inc-class-c-down-today-goog-stock-falls-377-on-june-22-amid-reassessing-googles-ai-future-what-investors-need-to-know-211417/",
-      "published": "2026-06-22T17:43:00Z",
-      "sentiment_score": -0.967,
-      "sentiment_label": "Negative",
-      "confidence": 0.975
-    },
-    {
       "headline": "Google invests in A24 to build AI movie tools",
       "source": "The Verge",
       "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
@@ -337,6 +373,15 @@
       "sentiment_score": 0.694,
       "sentiment_label": "Positive",
       "confidence": 0.702
+    },
+    {
+      "headline": "The Reverse Centaur\u2019s Guide to Life After AI by Cory Doctorow review \u2013 the real price of artificial intelligence",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa2hsOTc5ZVlXTmFRRE9hSGg4NGc3eE1MRXJqTUJ4c0RFclRFdjlmeGR2OWdjWElRdUVHeW1vLTZWMUo3Uno1c3I1a0IyYjl2U0NIeFc0MGo2Y3ZpbXpTVFVfWXcxejJoVW90Wi1pNUMzUFZCbWZVTUZjc1pkaF95d2RXQnVMYmQzWWpLOEZER1JaVkxLRDFqZ0Z1M3JaUnFSTVRoOXhOSEZJcG96ellkUW1lUDJSZkZpN19aNWtzUDduWFltVkFVeHlvTkFtUmw3RWFEeVlFbkx1ZE5aTTBSN1MxYUF2NXFmWUdj?oc=5",
+      "published": "2026-06-22T06:00:00",
+      "sentiment_score": -0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.875
     },
     {
       "headline": "It's not just about nudity warns actress - the complex reality of images and online abuse",
@@ -402,6 +447,42 @@
       "confidence": 0.866
     },
     {
+      "headline": "Meet the OpenAI Engineer Leading ChatGPT\u2019s Biggest Transformation Yet",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmthVnRyUjlsaDZRdkZzSWgydEpjd3ZtTXBPTUFwUlJ0VjdoaUNUdWdRNGtyUDN5X2ZkMFdVUGVXSTQ3TGY5dVlhZmh6LVVuV2N2S3lveVlSUEluZ2psLWtKbF9ZX3huajF6dmxJeUlndWo0cy1yUkNtNzlIZ1A1REJBNUtBd043a1BteFI1SWYxVVhN?oc=5",
+      "published": "2026-06-11T07:00:00",
+      "sentiment_score": 0.202,
+      "sentiment_label": "Neutral",
+      "confidence": 0.77
+    },
+    {
+      "headline": "Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEtRbUVBNldBSEl0bTBVeHdGYWUzdi1TQ256RTVnbWhwaEFTYXpQLVdWZ1V6MkpwYXh1TXZydlUxWHpncW5SYlhJaXJNWXJsSXVBUFd1ZGZJWnhBMndDTUhST0dmYUoybGFMdUlWSjM3MGtPM3NkSW9tZ3BsZng1akc3UURSWkNHVGZSQ3dpOUFJZVBKOVktV0w2TTB1TzMxTFYwd2g2Wl9SZw?oc=5",
+      "published": "2026-06-10T07:00:00",
+      "sentiment_score": 0.516,
+      "sentiment_label": "Positive",
+      "confidence": 0.532
+    },
+    {
+      "headline": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
+      "published": "2026-06-07T07:00:00",
+      "sentiment_score": 0.022,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
+    {
+      "headline": "OpenAI plots biggest ChatGPT overhaul since launch",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ0WEREdmV6SGUyOG5rbWU2ZFA5Z2Z4Wjg5MTZiQ0V5SGk5RFVHYnZuSXJ3QjZpQXpvRXNwN2s3bXNBZlNkRThwc2hxTG1oQnBkakxnOHBuOUE0NGN3Y0h0R084ZXRKeTBOM1BUaTg1TXRHX1BOU3M4TWFnOHR2bW1ER1Y?oc=5",
+      "published": "2026-06-06T07:00:00",
+      "sentiment_score": 0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.835
+    },
+    {
       "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IUFN4T3VUZFhlSnZ4eVVWaEJqVE1mUFNJaC1vU01jcmU5VFplNE81WkhKYnRKclUyV0Vtb2J5Ykh6LXVJcHJySUZ0UWQteC1OSkg4NmJEeWxjQQ?oc=5",
@@ -409,15 +490,6 @@
       "sentiment_score": -0.016,
       "sentiment_label": "Neutral",
       "confidence": 0.872
-    },
-    {
-      "headline": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUZOYlJLUVZMbFBZckp5YXRlTjg3eEp1QnB6ZUFRUUJOVkxjTjZtSnpSRm83ZzR2WVM3SlNEWFBBalZMNnJNakI4SmJBUHZDcE9JN1gwaWNJbjZ4VTJ1Z3FMb19oa01PeGdtS241N1YtVjFoem5JdlI1blZTTUxQdGVkYW1PQW9GdTdDYll3?oc=5",
-      "published": "2026-06-01T07:00:00",
-      "sentiment_score": -0.874,
-      "sentiment_label": "Negative",
-      "confidence": 0.887
     }
   ]
 }
