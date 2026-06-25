@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-25T02:28:26.732303",
-  "total_articles": 32,
-  "overall_sentiment": -0.042,
-  "overall_label": "Neutral",
+  "last_updated": "2026-06-25T08:48:56.757802",
+  "total_articles": 26,
+  "overall_sentiment": -0.084,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-06-16",
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-06-20",
-      "avg_sentiment": 0.067,
-      "article_count": 3,
-      "positive_count": 2,
+      "avg_sentiment": -0.009,
+      "article_count": 2,
+      "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.006
+      "moving_avg": -0.044
     },
     {
       "date": "2026-06-21",
@@ -29,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.266
+      "moving_avg": -0.291
     },
     {
       "date": "2026-06-22",
@@ -38,57 +38,45 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.206
+      "moving_avg": -0.225
     },
     {
       "date": "2026-06-23",
-      "avg_sentiment": -0.015,
-      "article_count": 16,
-      "positive_count": 7,
-      "negative_count": 6,
-      "neutral_count": 3,
-      "moving_avg": -0.168
+      "avg_sentiment": -0.204,
+      "article_count": 9,
+      "positive_count": 3,
+      "negative_count": 4,
+      "neutral_count": 2,
+      "moving_avg": -0.221
     },
     {
       "date": "2026-06-24",
-      "avg_sentiment": -0.044,
-      "article_count": 9,
-      "positive_count": 4,
+      "avg_sentiment": 0.053,
+      "article_count": 11,
+      "positive_count": 6,
       "negative_count": 3,
       "neutral_count": 2,
-      "moving_avg": -0.147
+      "moving_avg": -0.175
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.191,
-      "article_count": 13,
+      "avg_sentiment": -0.253,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.168,
-      "article_count": 6,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.041,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.035,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "CNN",
-      "avg_sentiment": 0.314,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Financial Times",
-      "avg_sentiment": 0.034,
+      "avg_sentiment": -0.228,
       "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
@@ -102,10 +90,19 @@
       "confidence": 0.948
     },
     {
+      "headline": "A24 Knows You\u2019re Mad About the Google AI Collab",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbVg1ZUx6TWI2Rkw3SGV1NmJTQ3kxS1ItV0cyZElqNWlkS2E2NUJwM3NtZWlQb3FPOUY4MHo3TWNDd2REYVdJSGVCaEFEWS1MYXdrRGFROEItZ0haRXN0UmxFYjhWb1JVU19vN0drVUVOYUNOUkhEMDgwdmVaQmhUXw?oc=5",
+      "published": "2026-06-24T21:05:00",
+      "sentiment_score": -0.364,
+      "sentiment_label": "Neutral",
+      "confidence": 0.581
+    },
+    {
       "headline": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeERob2VfOXFNZFNqbnZRM3AyTWgtdFlfWjl0amlQYWNlNmVnX0VOcHpYb3RNV2ZJNGttNW1TRkNGUmh5ODJ2VVNoTkxGbWRaS3IxVzZ0blRVdUQwSmp4bGRqNjl1VXRlWmFLeUxSRDFGcmZzOEJYdlRzTXlnUzdTbnlMbjI5VkE?oc=5",
-      "published": "2026-06-24T21:41:41",
+      "published": "2026-06-24T18:45:05",
       "sentiment_score": 0.058,
       "sentiment_label": "Neutral",
       "confidence": 0.91
@@ -118,6 +115,15 @@
       "sentiment_score": -0.189,
       "sentiment_label": "Neutral",
       "confidence": 0.734
+    },
+    {
+      "headline": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjNqUkg0OC1TeUp0bjdkWmk1aWJkdl96ck5MZk1ta29wTFdXSnFrOUk0ekQxdDBrRUx2Y19wMjVndjZOc0VTYmJ3RE1sRGtOYTZxb1hLUTdxeDMwMnVFMzF3MFZ4UjJEYkZ1VktleENHTWN3V1FCWVVLazFObHpKdGN0M0lkdzdLbTlYZS1HNHJGREhHS3FSb3BTWUdrZw?oc=5",
+      "published": "2026-06-24T15:37:00",
+      "sentiment_score": -0.035,
+      "sentiment_label": "Neutral",
+      "confidence": 0.858
     },
     {
       "headline": "OpenAI just announced its first custom chip to help ChatGPT run better",
@@ -147,31 +153,31 @@
       "confidence": 0.862
     },
     {
-      "headline": "How AI is transforming natural disaster prediction",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUIyQTFmWWFJM3dPTHBGc19LRzVldGhFc0lVNGNHNWdISmpxTWdaTW5Nc3RuY3pQNzIzRW9Kc0FYU1BrT2t6dmFqakxkNnZULTctMUtPOXQ4dldyUTdYY3pCUzVZdWNRZVByRG5LbzQ1OTRUSU9vRTB5cURSMldmYVVIZjA?oc=5",
-      "published": "2026-06-24T11:00:07",
-      "sentiment_score": 0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.926
+      "headline": "Stocks to Watch today: TCS, Vodafone, Bharat Electronics, IRFC, Yes Bank, Bajaj Auto, Infosys & More in Focus",
+      "source": "The Sunday Guardian",
+      "link": "https://sundayguardianlive.com/business/stocks-to-watch-today-tcs-vodafone-bharat-electronics-irfc-yes-bank-bajaj-auto-infosys-more-in-focus-212122/",
+      "published": "2026-06-24T08:16:20Z",
+      "sentiment_score": 0.465,
+      "sentiment_label": "Positive",
+      "confidence": 0.497
     },
     {
-      "headline": "Your Home Could Help Solve AI\u2019s Growing Power Demand",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTR2aWlKRWlpck9zcU9KVC1uNFVRbGRacmM5SmsxSmJOLTFEMGw1bkpVSExJdmNGN1h6aFdKclVuT1VrcnF1Rk5OMHRQNE9MV0RTRXQxazVhcTR0djBaTFJ4dWE3aVF2ZEs1MGotd1oxaV9oLW5mclhUeDBJVjRja01ESVFoZ2x2UGJJTXVQNGhLQXc?oc=5",
-      "published": "2026-06-24T09:02:13",
-      "sentiment_score": 0.35,
-      "sentiment_label": "Neutral",
-      "confidence": 0.622
-    },
-    {
-      "headline": "Anthropic\u2019s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP",
+      "headline": "Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/23/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says.html",
-      "published": "2026-06-24T00:52:29Z",
-      "sentiment_score": -0.21,
+      "link": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
+      "published": "2026-06-24T06:39:10Z",
+      "sentiment_score": 0.913,
+      "sentiment_label": "Positive",
+      "confidence": 0.946
+    },
+    {
+      "headline": "How to invest when everything is moving too fast | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "published": "2026-06-24T06:26:11Z",
+      "sentiment_score": 0.17,
       "sentiment_label": "Neutral",
-      "confidence": 0.668
+      "confidence": 0.795
     },
     {
       "headline": "Google's YouTube settles social media addiction case with teen",
@@ -181,15 +187,6 @@
       "sentiment_score": -0.141,
       "sentiment_label": "Neutral",
       "confidence": 0.744
-    },
-    {
-      "headline": "Live updates: New York\u2019s primaries test Mamdani\u2019s influence with voters | CNN Politics",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/06/23/politics/live-news/elections-new-york-maryland-south-carolina-utah",
-      "published": "2026-06-23T23:33:29Z",
-      "sentiment_score": 0.037,
-      "sentiment_label": "Neutral",
-      "confidence": 0.924
     },
     {
       "headline": "Stanford was their golden ticket - could AI help or hinder that?",
@@ -219,46 +216,10 @@
       "confidence": 0.827
     },
     {
-      "headline": "Kunal Shah: The Indian entrepreneur taking charge of WhatsApp",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c0my4n38myjo",
-      "published": "2026-06-23T21:57:05Z",
-      "sentiment_score": 0.084,
-      "sentiment_label": "Neutral",
-      "confidence": 0.882
-    },
-    {
-      "headline": "Cerebras reports 92% revenue growth in chipmaker's first earnings report since IPO",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
-      "published": "2026-06-23T21:04:53Z",
-      "sentiment_score": 0.63,
-      "sentiment_label": "Positive",
-      "confidence": 0.64
-    },
-    {
-      "headline": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-      "published": "2026-06-23T19:52:03Z",
-      "sentiment_score": 0.914,
-      "sentiment_label": "Positive",
-      "confidence": 0.925
-    },
-    {
-      "headline": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
-      "published": "2026-06-23T18:56:13Z",
-      "sentiment_score": 0.198,
-      "sentiment_label": "Neutral",
-      "confidence": 0.688
-    },
-    {
       "headline": "Meta halts worker tracking for AI training due to privacy fears",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po",
-      "published": "2026-06-23T17:51:30Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-23T17:51:30",
       "sentiment_score": -0.868,
       "sentiment_label": "Negative",
       "confidence": 0.878
@@ -273,22 +234,13 @@
       "confidence": 0.494
     },
     {
-      "headline": "Meta is now designing its own, cheaper AI smart glasses | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/06/23/tech/meta-glasses-price",
-      "published": "2026-06-23T13:00:25Z",
-      "sentiment_score": 0.698,
-      "sentiment_label": "Positive",
-      "confidence": 0.707
-    },
-    {
-      "headline": "Google\u2019s online dominance Is showing signs of cracking in AI era",
+      "headline": "Google\u2019s online dominance is showing signs of cracking in AI era",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
-      "published": "2026-06-23T12:00:01Z",
-      "sentiment_score": -0.784,
-      "sentiment_label": "Negative",
-      "confidence": 0.861
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUERMWjd0MkpWcElJTnVhd3dJMkVVbUFRa3pJSFVaYjBJRHdsT3VqSm5KU1lXMDJoYXBCTnNOa0puaVlubTFib1ZERkZDd3VDdm1VcVV0R3h6R2Fnb2FnV3lyci04dzZsU3BkaThEbDJ4eW9HRHRQOHRPNkxKZm9aRkQ0Q2dQVHRBSDBteW1ldlVKc09LeUNDc0Qtd0tDb1gxalHSAacBQVVfeXFMTTMtckNOUU1yWlZpQWtYdDlGSjEyejZzWkEtZHVfcnlLdEVoSGYtODlqbG96NUYxRFgyekd2cjBwVDhVVld5UWJHNTdkQTNFVkhzNmxNaS0wbkRIWGVPOXpYcTZLY1lxM2JJUS1sYzE2YmJ0LWFaOTJqX2o2RWMycDBUenEyZTd3dlZGLWdZeFRsendiN2hXay1NZkNmalc3WXdmbkxPMTQ?oc=5",
+      "published": "2026-06-23T12:00:01",
+      "sentiment_score": 0.096,
+      "sentiment_label": "Positive",
+      "confidence": 0.437
     },
     {
       "headline": "Steam Machine launches with \u00a3879 price tag as Valve cites component costs",
@@ -307,15 +259,6 @@
       "sentiment_score": 0.033,
       "sentiment_label": "Neutral",
       "confidence": 0.927
-    },
-    {
-      "headline": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
-      "published": "2026-06-23T01:09:00",
-      "sentiment_score": -0.084,
-      "sentiment_label": "Neutral",
-      "confidence": 0.829
     },
     {
       "headline": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem.",
@@ -361,15 +304,6 @@
       "sentiment_score": -0.125,
       "sentiment_label": "Neutral",
       "confidence": 0.809
-    },
-    {
-      "headline": "New video game console aims to get kids moving",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-20T01:10:51",
-      "sentiment_score": 0.22,
-      "sentiment_label": "Neutral",
-      "confidence": 0.762
     },
     {
       "headline": "Tech Life",
