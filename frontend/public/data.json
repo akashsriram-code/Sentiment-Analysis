@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-25T08:48:56.757802",
-  "total_articles": 26,
-  "overall_sentiment": -0.084,
-  "overall_label": "Negative",
+  "last_updated": "2026-06-25T14:05:01.420985",
+  "total_articles": 27,
+  "overall_sentiment": -0.026,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-06-16",
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-06-20",
-      "avg_sentiment": -0.009,
-      "article_count": 2,
+      "avg_sentiment": 0.107,
+      "article_count": 1,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.044
+      "moving_avg": 0.014
     },
     {
       "date": "2026-06-21",
@@ -29,47 +29,68 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.291
+      "moving_avg": -0.253
     },
     {
       "date": "2026-06-22",
-      "avg_sentiment": -0.025,
+      "avg_sentiment": -0.257,
       "article_count": 2,
-      "positive_count": 1,
+      "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.225
+      "neutral_count": 1,
+      "moving_avg": -0.254
     },
     {
       "date": "2026-06-23",
-      "avg_sentiment": -0.204,
-      "article_count": 9,
-      "positive_count": 3,
-      "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.221
+      "avg_sentiment": -0.23,
+      "article_count": 5,
+      "positive_count": 1,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.249
     },
     {
       "date": "2026-06-24",
-      "avg_sentiment": 0.053,
+      "avg_sentiment": 0.07,
       "article_count": 11,
       "positive_count": 6,
       "negative_count": 3,
       "neutral_count": 2,
-      "moving_avg": -0.175
+      "moving_avg": -0.196
+    },
+    {
+      "date": "2026-06-25",
+      "avg_sentiment": 0.158,
+      "article_count": 6,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.145
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.253,
-      "article_count": 11,
+      "avg_sentiment": -0.213,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
+      "source": "Reuters",
+      "avg_sentiment": 0.335,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "CNBC",
-      "avg_sentiment": 0.041,
-      "article_count": 4,
+      "avg_sentiment": 0.361,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Financial Times",
+      "avg_sentiment": 0.011,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
@@ -80,6 +101,60 @@
     }
   ],
   "articles": [
+    {
+      "headline": "Why aren\u2019t more companies adopting AI?",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LQkEzY3VxZ0hmbFpoNWpraVc1aWdlb0JyeThrYjZKNEFqbnU3LUZ3cUFmZVdVeTAwQXZPZWtlelZZYUNNVUZWUU0za01wcmNoOFRuNXhVR3QtYmpFM1R0dG43ZVFYVk5mdXhaeWkzV1A?oc=5",
+      "published": "2026-06-25T11:30:04",
+      "sentiment_score": -0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
+    },
+    {
+      "headline": "US Customs Broadens AI Use in Push to Strengthen Enforcement",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVB3WVFwQkNxTlBSSkRXSF9iWlhLc0Z0b0c0MFlWSXMweDVwMDV0bVlEMklzb1pYOGN0ZE13TmNkdVU2RklPVUkwSkpvUDh4TnpQMi1OVERJZ1ZLNUlRcjNQR1oxTGZBemNkMmUtR0lyTlNrdzA4T0xVZlJVMHJPUEVwUVZ4MzhpaURzV0VfV2sxMlhzVjI5UUNXN2JuZGJraDMyY0l6THp6VkwwRzJtZlg4Q2ZCU1luMUVnRmc4blVLZw?oc=5",
+      "published": "2026-06-25T11:27:32",
+      "sentiment_score": 0.757,
+      "sentiment_label": "Positive",
+      "confidence": 0.776
+    },
+    {
+      "headline": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW5QYklqRjJ5MXFhOUlxOFdUMGREVHpiSUJrY3VSM2xsVVA5Z1dIb3BBV2pmVEthRF9wZU9MU3VvSE1VOGtwNkh3amwxdDh3eU1ZNTBUYUpINVRMN0dDSzBwTGppSWc0aGNwa2RzVEhtLXVzak5Gd2lBUUZHaDFXVWxQQVRIZnd2TzZSTm53N0QyTjBZVXl4dTdLYXh1OVQ5NVBieUZMS0xNMGFMZUtKSlZ2aXBDbjRvVThwY2pST0U3MlNDLUQ5aUNISlk?oc=5",
+      "published": "2026-06-25T10:37:58",
+      "sentiment_score": -0.16,
+      "sentiment_label": "Neutral",
+      "confidence": 0.76
+    },
+    {
+      "headline": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-25T10:04:43",
+      "sentiment_score": 0.566,
+      "sentiment_label": "Positive",
+      "confidence": 0.58
+    },
+    {
+      "headline": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXprM002YjdFdGFsajMzUzIzOE11VjRJejM2Qk1meFJWR3B0d1g5RHdZQndCWU9MVlRkd29mOUxmdEQzdzBDT2ZIaUpuTzlQU1ByR0lBbUFhcnRleE9ubFViSlRxTnJQRmluVUhpOXZNaW5HOEJGbWFiak5jRlBZQV8tNmNhWEhtOXdjOUZYM3c2d181cnFlT0VrZ1Q2WGZJVDgzNDRwVmEzUXpqeVREZmd6dXE5LUZRT1VLV3BFcXY?oc=5",
+      "published": "2026-06-25T10:01:24",
+      "sentiment_score": 0.603,
+      "sentiment_label": "Positive",
+      "confidence": 0.634
+    },
+    {
+      "headline": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsR0dJZ2hQS0JUbl9SYV9XVExWd1g1RzlKSnY4cW56NGc2SzNXTEVIM3RzVzR1cGlUVThlcmVEM25hRUxfb0pqaFhoR0RJcmk3TzBQNk9zbTV6Zw?oc=5",
+      "published": "2026-06-25T03:12:17",
+      "sentiment_score": -0.804,
+      "sentiment_label": "Negative",
+      "confidence": 0.82
+    },
     {
       "headline": "GTA 6 will cost \u00a370 - and physical edition will not contain a disc",
       "source": "BBC News",
@@ -117,15 +192,6 @@
       "confidence": 0.734
     },
     {
-      "headline": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjNqUkg0OC1TeUp0bjdkWmk1aWJkdl96ck5MZk1ta29wTFdXSnFrOUk0ekQxdDBrRUx2Y19wMjVndjZOc0VTYmJ3RE1sRGtOYTZxb1hLUTdxeDMwMnVFMzF3MFZ4UjJEYkZ1VktleENHTWN3V1FCWVVLazFObHpKdGN0M0lkdzdLbTlYZS1HNHJGREhHS3FSb3BTWUdrZw?oc=5",
-      "published": "2026-06-24T15:37:00",
-      "sentiment_score": -0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.858
-    },
-    {
       "headline": "OpenAI just announced its first custom chip to help ChatGPT run better",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUXB6aWNVTGpySTB4VTZkTnhvR29QZDdFVThwM1JucTkxQVRWc3VkOE9Ec2plRVdWaFlfY0dZb1lOb1hpaHd3MU1uMjRhTHJ1dHhzdzBrYlZVSUhMVjJZVFgyRG5pLWpSb3VDUXF1MjRyQmtMQ2ww?oc=5",
@@ -144,31 +210,40 @@
       "confidence": 0.876
     },
     {
+      "headline": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center buildout",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
+      "published": "2026-06-24T13:29:23Z",
+      "sentiment_score": 0.933,
+      "sentiment_label": "Positive",
+      "confidence": 0.947
+    },
+    {
+      "headline": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdThteGtwZVZweXpUZTNQR0djS0ViNGhlZjNacUlpaG5KZ2M2SGdLckxXcEV5T3Z5UDhhRjJ5OUh5LTAxQThQVjNGUG1xWGIwM1VLeUNxNjY2N0RfbnFySTY1d0txYjdlNUVWY1lFbFZhRHcyTV9XRWFkRWZjdzM1Mk1QUWVhTmRRYi1IVklHdlJJeThoMUloTlNFTm4yQ29YTUFXRDUtZjZOeVh2cThIazdhUWd1bjdKcXJsamNqN01VR3RMZUtvLXI3SXpvNGV6?oc=5",
+      "published": "2026-06-24T13:22:09",
+      "sentiment_score": 0.562,
+      "sentiment_label": "Positive",
+      "confidence": 0.572
+    },
+    {
       "headline": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw0gGoAUFVX3lxTE02Y0xJN1hadWJmbzdjcEpjNElldENrREJGa3UtQ2lLNTRsVDFTYmhfTkRGZTFqT21HLWdFXzBzYVpjVjc1X0NiVTF5SDFoa3BVbUxEZVZoZnZDZDFlU1Vpc0dCWDZFbjZiVFJVMHR0c0Q0U2JSYXZrb1FqQnJlMVFFNTctUm81QTc4aDN5NHpQQVZ3c180TGZOTGppdlZyZWNwUzExSXBVVw?oc=5",
-      "published": "2026-06-24T13:03:28",
-      "sentiment_score": 0.118,
+      "link": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
+      "published": "2026-06-24T13:05:43Z",
+      "sentiment_score": 0.169,
       "sentiment_label": "Neutral",
-      "confidence": 0.862
+      "confidence": 0.813
     },
     {
-      "headline": "Stocks to Watch today: TCS, Vodafone, Bharat Electronics, IRFC, Yes Bank, Bajaj Auto, Infosys & More in Focus",
-      "source": "The Sunday Guardian",
-      "link": "https://sundayguardianlive.com/business/stocks-to-watch-today-tcs-vodafone-bharat-electronics-irfc-yes-bank-bajaj-auto-infosys-more-in-focus-212122/",
-      "published": "2026-06-24T08:16:20Z",
-      "sentiment_score": 0.465,
-      "sentiment_label": "Positive",
-      "confidence": 0.497
-    },
-    {
-      "headline": "Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates",
+      "headline": "The global chip rout, Cerebras earnings, the PGA Tour's next chapter and more in Morning Squawk",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
-      "published": "2026-06-24T06:39:10Z",
-      "sentiment_score": 0.913,
-      "sentiment_label": "Positive",
-      "confidence": 0.946
+      "link": "https://www.cnbc.com/2026/06/24/5-things-to-know-before-the-stock-market-opens.html",
+      "published": "2026-06-24T12:37:22Z",
+      "sentiment_score": -0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.92
     },
     {
       "headline": "How to invest when everything is moving too fast | TechCrunch",
@@ -189,33 +264,6 @@
       "confidence": 0.744
     },
     {
-      "headline": "Stanford was their golden ticket - could AI help or hinder that?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo",
-      "published": "2026-06-23T23:16:37Z",
-      "sentiment_score": 0.043,
-      "sentiment_label": "Neutral",
-      "confidence": 0.918
-    },
-    {
-      "headline": "Stock market today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
-      "published": "2026-06-23T22:12:25Z",
-      "sentiment_score": -0.963,
-      "sentiment_label": "Negative",
-      "confidence": 0.973
-    },
-    {
-      "headline": "Hollywood is bending the knee to OpenAI",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "published": "2026-06-23T22:03:18Z",
-      "sentiment_score": 0.139,
-      "sentiment_label": "Neutral",
-      "confidence": 0.827
-    },
-    {
       "headline": "Meta halts worker tracking for AI training due to privacy fears",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
@@ -232,15 +280,6 @@
       "sentiment_score": -0.429,
       "sentiment_label": "Negative",
       "confidence": 0.494
-    },
-    {
-      "headline": "Google\u2019s online dominance is showing signs of cracking in AI era",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUERMWjd0MkpWcElJTnVhd3dJMkVVbUFRa3pJSFVaYjBJRHdsT3VqSm5KU1lXMDJoYXBCTnNOa0puaVlubTFib1ZERkZDd3VDdm1VcVV0R3h6R2Fnb2FnV3lyci04dzZsU3BkaThEbDJ4eW9HRHRQOHRPNkxKZm9aRkQ0Q2dQVHRBSDBteW1ldlVKc09LeUNDc0Qtd0tDb1gxalHSAacBQVVfeXFMTTMtckNOUU1yWlZpQWtYdDlGSjEyejZzWkEtZHVfcnlLdEVoSGYtODlqbG96NUYxRFgyekd2cjBwVDhVVld5UWJHNTdkQTNFVkhzNmxNaS0wbkRIWGVPOXpYcTZLY1lxM2JJUS1sYzE2YmJ0LWFaOTJqX2o2RWMycDBUenEyZTd3dlZGLWdZeFRsendiN2hXay1NZkNmalc3WXdmbkxPMTQ?oc=5",
-      "published": "2026-06-23T12:00:01",
-      "sentiment_score": 0.096,
-      "sentiment_label": "Positive",
-      "confidence": 0.437
     },
     {
       "headline": "Steam Machine launches with \u00a3879 price tag as Valve cites component costs",
@@ -270,13 +309,13 @@
       "confidence": 0.55
     },
     {
-      "headline": "Getty Images Soars 200% in Early Trading After OpenAI Deal",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFVMOFVKWEVZOWdxa3BGckJpSC1uODdteFdmdHZSZVc3RjgxU2lfSHh3SmpZR0x4bU9UNG1oTWFJMll0N0lCMVUxeXlJVkRHRk9jcXhJT2x5NHNaU2J4Rk1jR1JDb2o0MDNvM0RHdHVKRmFteVNPaWNJc3hGMG1SRW5MYWhJMTZzLXRpY1NBcjljbzY3a3pCdER2bExjOEw0czJiRXBaZWtTeXhr?oc=5",
-      "published": "2026-06-22T20:21:31",
-      "sentiment_score": 0.462,
-      "sentiment_label": "Positive",
-      "confidence": 0.546
+      "headline": "The Reverse Centaur\u2019s Guide to Life After AI by Cory Doctorow review \u2013 the real price of artificial intelligence",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa2hsOTc5ZVlXTmFRRE9hSGg4NGc3eE1MRXJqTUJ4c0RFclRFdjlmeGR2OWdjWElRdUVHeW1vLTZWMUo3Uno1c3I1a0IyYjl2U0NIeFc0MGo2Y3ZpbXpTVFVfWXcxejJoVW90Wi1pNUMzUFZCbWZVTUZjc1pkaF95d2RXQnVMYmQzWWpLOEZER1JaVkxLRDFqZ0Z1M3JaUnFSTVRoOXhOSEZJcG96ellkUW1lUDJSZkZpN19aNWtzUDduWFltVkFVeHlvTkFtUmw3RWFEeVlFbkx1ZE5aTTBSN1MxYUF2NXFmWUdj?oc=5",
+      "published": "2026-06-22T06:00:00",
+      "sentiment_score": -0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.875
     },
     {
       "headline": "It's not just about nudity warns actress - the complex reality of images and online abuse",
@@ -295,15 +334,6 @@
       "sentiment_score": 0.107,
       "sentiment_label": "Neutral",
       "confidence": 0.864
-    },
-    {
-      "headline": "How the social media ban could reshape how all of us use the internet",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-20T23:18:12",
-      "sentiment_score": -0.125,
-      "sentiment_label": "Neutral",
-      "confidence": 0.809
     },
     {
       "headline": "Tech Life",
