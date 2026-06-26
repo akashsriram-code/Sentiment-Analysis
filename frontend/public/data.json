@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-26T08:52:03.098734",
-  "total_articles": 36,
-  "overall_sentiment": -0.038,
-  "overall_label": "Neutral",
+  "last_updated": "2026-06-26T14:04:39.425539",
+  "total_articles": 35,
+  "overall_sentiment": -0.138,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-06-16",
@@ -14,13 +14,22 @@
       "moving_avg": -0.079
     },
     {
+      "date": "2026-06-19",
+      "avg_sentiment": -0.735,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.407
+    },
+    {
       "date": "2026-06-20",
       "avg_sentiment": 0.028,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.026
+      "moving_avg": -0.262
     },
     {
       "date": "2026-06-23",
@@ -29,81 +38,114 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.094
+      "moving_avg": -0.254
     },
     {
       "date": "2026-06-24",
-      "avg_sentiment": -0.002,
-      "article_count": 17,
-      "positive_count": 10,
-      "negative_count": 6,
+      "avg_sentiment": -0.061,
+      "article_count": 9,
+      "positive_count": 5,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.071
+      "moving_avg": -0.215
     },
     {
       "date": "2026-06-25",
-      "avg_sentiment": -0.011,
-      "article_count": 11,
+      "avg_sentiment": -0.19,
+      "article_count": 14,
       "positive_count": 6,
-      "negative_count": 5,
+      "negative_count": 8,
       "neutral_count": 0,
-      "moving_avg": -0.059
+      "moving_avg": -0.211
     },
     {
       "date": "2026-06-26",
-      "avg_sentiment": -0.014,
-      "article_count": 1,
-      "positive_count": 0,
+      "avg_sentiment": 0.077,
+      "article_count": 4,
+      "positive_count": 2,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.051
+      "neutral_count": 2,
+      "moving_avg": -0.17
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.195,
-      "article_count": 11,
+      "avg_sentiment": -0.235,
+      "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": 0.207,
-      "article_count": 5,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.167,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.29,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.253,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNN",
       "avg_sentiment": 0.141,
-      "article_count": 2,
+      "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.201,
+      "avg_sentiment": -0.055,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.214,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": 0.036,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "CNN",
+      "avg_sentiment": -0.123,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": -0.022,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.39,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "In AI race vs. U.S., China eyes a come-from-behind victory",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUgxRTBIYjZLN2ZoaUNzX2xfa0ZLVEZUVlFFYXpKZWQ2MFByS0FsWkdLdG5wTndJS0ZodG5FQXcyNnNVX3FPTGgwN0M3ZzM1bl9QVzJ2eDlWcUFXN3J0SFFGWHpYNDcxWDNHUnJPMFhGSHpnazFJMU50OHczYU4tX2ttWDY5d3pKd0RDTWExeVFVYkZNei1yMGt1RExJSVlSVjg0cVpwak1nbW5mN0RnUTUwYw?oc=5",
+      "published": "2026-06-26T13:32:03",
+      "sentiment_score": 0.26,
+      "sentiment_label": "Neutral",
+      "confidence": 0.686
+    },
+    {
+      "headline": "Financial regulators scramble to counter AI rise with own tools",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenFteWtWdVg0ZldTaXlPbzI5WlJjOTNrZXB0MDVBcDdRLWxGVVVKd2JNYzZpREhPaW5NblJCYXJSLU5WQWFzLVJlcnRVUWtSWjJ0Q0ZHTzlRdU1sMEJWSHFHd0QwMUhsa3A1X195dU9Nc0xCaE9IQkllc25DcnM5M2tMSDVlMVpiRE9PRVhzaWxTdklGdkVnUF9RRTFCdFNEbWREZnZPUk0yZUVGVU9DaXN3OA?oc=5",
+      "published": "2026-06-26T11:34:36",
+      "sentiment_score": 0.009,
+      "sentiment_label": "Neutral",
+      "confidence": 0.897
+    },
+    {
+      "headline": "OpenAI Makes Its Advertising Pitch at Cannes Festival",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGE2S2tmdlZDb2VTZWp4Q0t5THVBMWRTZnhlcGRCYkhoOUVsaFZNNzFFamlWYnhZamdOdkF4NnV2a0xYSkM0ZzFEd1VMUU0tVE5QR1lGZkZDd1czLVpIYzdKaTdyTDU1U212SmhVNk9WNm5EZ08wclZNYzBYRlZBeEd2R2VBdGI1SmM2QlhmLUN3U1N6Z2VKeHVxczdJdDBqQWt5Y3d0eXZZUXFK?oc=5",
+      "published": "2026-06-26T11:05:37",
+      "sentiment_score": 0.053,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
     {
       "headline": "How a Niche Technology Became a Choke Point for A.I.",
       "source": "The New York Times",
@@ -141,13 +183,22 @@
       "confidence": 0.505
     },
     {
-      "headline": "OpenAI Leans Toward Waiting Until Next Year for I.P.O.",
+      "headline": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIbElaaWZlRDNuZ2hrSnU5cTVrcjduamt1SWRDb1VhUmt5c3lFa0dDWWJwVXBMeHFHTndiZ2s0UmZLblRERG04b3M2V3o3ZXVtZXE5SFlFUjZXcFU1Q3EteURPMXNadHhFSm01YlNHOVN4cnRfZFE3M1d1Y9IBgAFBVV95cUxNc3VMcElMaUdCdXFrV1ZURnJ4WVZHckdlVFd0TkdTNzZsUnFiV1Y4bEI1VW45OGVCMEI2b1g1XzY1NFA2RGN1aWg5Ry1QSUVvM090ZlcwRW5MZzdvM0JvMXJyWkZVUld5SU1GWlFlWjNNSXVockVVVmRMZVduUjBKVw?oc=5",
+      "published": "2026-06-25T21:07:56",
+      "sentiment_score": 0.164,
+      "sentiment_label": "Neutral",
+      "confidence": 0.81
+    },
+    {
+      "headline": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5",
       "published": "2026-06-25T20:31:22",
-      "sentiment_score": 0.096,
+      "sentiment_score": 0.115,
       "sentiment_label": "Neutral",
-      "confidence": 0.873
+      "confidence": 0.856
     },
     {
       "headline": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
@@ -159,22 +210,49 @@
       "confidence": 0.885
     },
     {
-      "headline": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
-      "published": "2026-06-25T15:34:41",
-      "sentiment_score": 0.545,
-      "sentiment_label": "Positive",
-      "confidence": 0.576
+      "headline": "EverQuest Legends is a powerful nostalgia machine",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/954841/everquest-legends-nostalgia",
+      "published": "2026-06-25T13:49:37Z",
+      "sentiment_score": -0.112,
+      "sentiment_label": "Neutral",
+      "confidence": 0.816
     },
     {
-      "headline": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW5QYklqRjJ5MXFhOUlxOFdUMGREVHpiSUJrY3VSM2xsVVA5Z1dIb3BBV2pmVEthRF9wZU9MU3VvSE1VOGtwNkh3amwxdDh3eU1ZNTBUYUpINVRMN0dDSzBwTGppSWc0aGNwa2RzVEhtLXVzak5Gd2lBUUZHaDFXVWxQQVRIZnd2TzZSTm53N0QyTjBZVXl4dTdLYXh1OVQ5NVBieUZMS0xNMGFMZUtKSlZ2aXBDbjRvVThwY2pST0U3MlNDLUQ5aUNISlk?oc=5",
-      "published": "2026-06-25T10:37:58",
-      "sentiment_score": -0.16,
+      "headline": "Commerce upgrades US Q1 growth to 2.1% as consumer spending cools",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/economy-gdp-consumer-spending-trump-iran-war-a3ecd4459a091458fd9b61772d79b7da",
+      "published": "2026-06-25T12:52:32Z",
+      "sentiment_score": 0.919,
+      "sentiment_label": "Positive",
+      "confidence": 0.948
+    },
+    {
+      "headline": "US jobless aid filings fall to 215,000 last week as layoffs remain low despite economic headwinds",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-6c38e6c91415403252f242c42cdfbc3e",
+      "published": "2026-06-25T12:47:56Z",
+      "sentiment_score": -0.964,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
+    },
+    {
+      "headline": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+      "published": "2026-06-25T12:42:17Z",
+      "sentiment_score": -0.925,
+      "sentiment_label": "Negative",
+      "confidence": 0.951
+    },
+    {
+      "headline": "World Cup Teams Are in a Race for AI Dominance",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+      "published": "2026-06-25T11:00:00Z",
+      "sentiment_score": 0.163,
       "sentiment_label": "Neutral",
-      "confidence": 0.76
+      "confidence": 0.816
     },
     {
       "headline": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
@@ -186,22 +264,13 @@
       "confidence": 0.58
     },
     {
-      "headline": "Asian investors look past Trump trade rhetoric to keep investing in U.S., Cantor says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/25/asian-investors-us-exposure-eric-cantor-trump-trade-singapore-moelis.html",
-      "published": "2026-06-25T05:55:33Z",
-      "sentiment_score": 0.127,
-      "sentiment_label": "Neutral",
-      "confidence": 0.812
-    },
-    {
-      "headline": "CNBC Daily Open: Micron steals Nvidia's margin king crown",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/25/cnbc-daily-open-micron-steals-nvidias-margin-king-crown.html",
-      "published": "2026-06-25T05:46:26Z",
-      "sentiment_score": 0.625,
-      "sentiment_label": "Positive",
-      "confidence": 0.641
+      "headline": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cwyklykn5dwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-06-25T04:15:45Z",
+      "sentiment_score": -0.671,
+      "sentiment_label": "Negative",
+      "confidence": 0.694
     },
     {
       "headline": "Anthropic accuses Alibaba of illicitly extracting AI capabilities",
@@ -213,15 +282,6 @@
       "confidence": 0.65
     },
     {
-      "headline": "Former Infosys chief has a new startup that wants to challenge the IT services world | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "published": "2026-06-24T23:30:43Z",
-      "sentiment_score": 0.335,
-      "sentiment_label": "Neutral",
-      "confidence": 0.648
-    },
-    {
       "headline": "GTA 6 will cost \u00a370 - and physical edition will not contain a disc",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
@@ -229,15 +289,6 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.948
-    },
-    {
-      "headline": "AI researchers continue to leave Google for its rivals | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "published": "2026-06-24T21:43:59Z",
-      "sentiment_score": -0.797,
-      "sentiment_label": "Negative",
-      "confidence": 0.81
     },
     {
       "headline": "A24 Knows You\u2019re Mad About the Google AI Collab",
@@ -249,24 +300,6 @@
       "confidence": 0.953
     },
     {
-      "headline": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
-      "published": "2026-06-24T20:54:57Z",
-      "sentiment_score": -0.642,
-      "sentiment_label": "Negative",
-      "confidence": 0.672
-    },
-    {
-      "headline": "Congresswoman denies staff used AI to write defense funding amendment",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "published": "2026-06-24T19:36:46Z",
-      "sentiment_score": -0.276,
-      "sentiment_label": "Neutral",
-      "confidence": 0.669
-    },
-    {
       "headline": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeERob2VfOXFNZFNqbnZRM3AyTWgtdFlfWjl0amlQYWNlNmVnX0VOcHpYb3RNV2ZJNGttNW1TRkNGUmh5ODJ2VVNoTkxGbWRaS3IxVzZ0blRVdUQwSmp4bGRqNjl1VXRlWmFLeUxSRDFGcmZzOEJYdlRzTXlnUzdTbnlMbjI5VkE?oc=5",
@@ -274,33 +307,6 @@
       "sentiment_score": 0.058,
       "sentiment_label": "Neutral",
       "confidence": 0.91
-    },
-    {
-      "headline": "Runpod Raises $100M Led by Summit Partners to Accelerate the AI Developer Cloud",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/press-release-05a980963072baf5ee4526bd0890919d",
-      "published": "2026-06-24T18:16:35Z",
-      "sentiment_score": 0.863,
-      "sentiment_label": "Positive",
-      "confidence": 0.871
-    },
-    {
-      "headline": "Facebook rolls out an AI companion app for creators | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "published": "2026-06-24T17:19:27Z",
-      "sentiment_score": 0.171,
-      "sentiment_label": "Neutral",
-      "confidence": 0.81
-    },
-    {
-      "headline": "Figma now has AI motion graphics and shader tools",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "published": "2026-06-24T16:18:13Z",
-      "sentiment_score": 0.159,
-      "sentiment_label": "Neutral",
-      "confidence": 0.816
     },
     {
       "headline": "Are ChatGPT and other AI chatbots politically biased? We tested them.",
@@ -312,13 +318,13 @@
       "confidence": 0.734
     },
     {
-      "headline": "OpenAI just announced its first custom chip to help ChatGPT run better | CNN Business",
+      "headline": "OpenAI just announced its first custom chip to help ChatGPT run better",
       "source": "CNN",
-      "link": "https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip",
-      "published": "2026-06-24T15:55:29Z",
-      "sentiment_score": 0.734,
-      "sentiment_label": "Positive",
-      "confidence": 0.742
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUXB6aWNVTGpySTB4VTZkTnhvR29QZDdFVThwM1JucTkxQVRWc3VkOE9Ec2plRVdWaFlfY0dZb1lOb1hpaHd3MU1uMjRhTHJ1dHhzdzBrYlZVSUhMVjJZVFgyRG5pLWpSb3VDUXF1MjRyQmtMQ2ww?oc=5",
+      "published": "2026-06-24T15:11:04",
+      "sentiment_score": 0.206,
+      "sentiment_label": "Neutral",
+      "confidence": 0.772
     },
     {
       "headline": "Scientist publishes fresh doubts over Microsoft's quantum claims",
@@ -328,15 +334,6 @@
       "sentiment_score": -0.782,
       "sentiment_label": "Negative",
       "confidence": 0.876
-    },
-    {
-      "headline": "OpenAI unveils its first custom chip, built by Broadcom | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "published": "2026-06-24T14:55:40Z",
-      "sentiment_score": 0.227,
-      "sentiment_label": "Neutral",
-      "confidence": 0.758
     },
     {
       "headline": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure",
@@ -357,13 +354,13 @@
       "confidence": 0.862
     },
     {
-      "headline": "Your Home Could Help Solve AI\u2019s Growing Power Demand",
+      "headline": "A Solution to A.I.\u2019s Growing Power Demand: Homes",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTR2aWlKRWlpck9zcU9KVC1uNFVRbGRacmM5SmsxSmJOLTFEMGw1bkpVSExJdmNGN1h6aFdKclVuT1VrcnF1Rk5OMHRQNE9MV0RTRXQxazVhcTR0djBaTFJ4dWE3aVF2ZEs1MGotd1oxaV9oLW5mclhUeDBJVjRja01ESVFoZ2x2UGJJTXVQNGhLQXc?oc=5",
       "published": "2026-06-24T09:02:13",
-      "sentiment_score": 0.35,
+      "sentiment_score": 0.404,
       "sentiment_label": "Neutral",
-      "confidence": 0.622
+      "confidence": 0.563
     },
     {
       "headline": "Google's YouTube settles social media addiction case with teen",
@@ -418,6 +415,15 @@
       "sentiment_score": 0.028,
       "sentiment_label": "Neutral",
       "confidence": 0.926
+    },
+    {
+      "headline": "Norway imposes near ban on AI in elementary school",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5",
+      "published": "2026-06-19T15:41:56",
+      "sentiment_score": -0.735,
+      "sentiment_label": "Negative",
+      "confidence": 0.752
     },
     {
       "headline": "Tech Life",
