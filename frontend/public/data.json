@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-25T19:47:14.431926",
-  "total_articles": 33,
-  "overall_sentiment": -0.064,
-  "overall_label": "Negative",
+  "last_updated": "2026-06-26T02:30:06.674766",
+  "total_articles": 38,
+  "overall_sentiment": 0.015,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-06-16",
@@ -14,13 +14,22 @@
       "moving_avg": -0.079
     },
     {
-      "date": "2026-06-21",
-      "avg_sentiment": -0.786,
+      "date": "2026-06-20",
+      "avg_sentiment": 0.028,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.026
+    },
+    {
+      "date": "2026-06-22",
+      "avg_sentiment": -0.513,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.432
+      "moving_avg": -0.188
     },
     {
       "date": "2026-06-23",
@@ -29,80 +38,119 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.365
+      "moving_avg": -0.198
     },
     {
       "date": "2026-06-24",
-      "avg_sentiment": -0.085,
-      "article_count": 21,
-      "positive_count": 10,
-      "negative_count": 9,
-      "neutral_count": 2,
-      "moving_avg": -0.295
+      "avg_sentiment": 0.034,
+      "article_count": 19,
+      "positive_count": 11,
+      "negative_count": 7,
+      "neutral_count": 1,
+      "moving_avg": -0.152
     },
     {
       "date": "2026-06-25",
-      "avg_sentiment": 0.337,
-      "article_count": 5,
-      "positive_count": 4,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.169
+      "avg_sentiment": 0.25,
+      "article_count": 10,
+      "positive_count": 7,
+      "negative_count": 3,
+      "neutral_count": 0,
+      "moving_avg": -0.085
+    },
+    {
+      "date": "2026-06-26",
+      "avg_sentiment": -0.838,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.193
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.287,
-      "article_count": 11,
+      "avg_sentiment": -0.152,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.136,
-      "article_count": 4,
-      "sentiment_label": "Negative"
+      "avg_sentiment": -0.017,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.289,
-      "article_count": 3,
+      "avg_sentiment": 0.081,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": 0.227,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.095,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "CNN",
-      "avg_sentiment": 0.04,
-      "article_count": 2,
+      "avg_sentiment": 0.047,
+      "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.153,
+      "avg_sentiment": 0.636,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "CNN",
+      "avg_sentiment": 0.141,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "Apple hikes prices on some products by nearly 20% while Xbox raises console cost",
+      "headline": "Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUkgzcWZENUVwRTV3T2YwNGFFczQ4Ym1ZeC14YXVJZVRXREY5SWJGc0hEbFhVZjM5LVRNWXEzS3ptVTJ2WG5mWmF6Z3FsRVpGcjVFSXo0MFNnOXp4dGl3QVNOMkpPbDQ5WHR2TDhOMklLSkZicHNvSV9sZ0xIalltREdnMU5qOEdNU2NWNlIyTEFPX0xCTnduNzU5RXpBcl9IYVhhQVVfLTJDM3AwaGQwRVhiSnhQZ1ZKOXNvQVNlSjFMd2NpbFh5bkRSSWk5MHEy?oc=5",
+      "published": "2026-06-26T01:09:00",
+      "sentiment_score": -0.838,
+      "sentiment_label": "Negative",
+      "confidence": 0.867
+    },
+    {
+      "headline": "Teens who hacked TfL were known to police years before cyber-attack",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-25T23:19:48",
+      "sentiment_score": -0.888,
+      "sentiment_label": "Negative",
+      "confidence": 0.905
+    },
+    {
+      "headline": "White House asks OpenAI to limit its next model release",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5",
+      "published": "2026-06-25T22:40:54",
+      "sentiment_score": -0.452,
+      "sentiment_label": "Neutral",
+      "confidence": 0.505
+    },
+    {
+      "headline": "OpenAI Leans Toward Waiting Until Next Year for I.P.O.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5",
+      "published": "2026-06-25T20:58:38",
+      "sentiment_score": 0.096,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
+      "headline": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
       "published": "2026-06-25T19:41:22",
-      "sentiment_score": 0.026,
+      "sentiment_score": 0.82,
       "sentiment_label": "Positive",
-      "confidence": 0.474
+      "confidence": 0.885
     },
     {
       "headline": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
@@ -114,22 +162,22 @@
       "confidence": 0.504
     },
     {
-      "headline": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI",
+      "headline": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
       "published": "2026-06-25T15:34:41",
-      "sentiment_score": 0.059,
-      "sentiment_label": "Neutral",
-      "confidence": 0.831
+      "sentiment_score": 0.545,
+      "sentiment_label": "Positive",
+      "confidence": 0.576
     },
     {
-      "headline": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT05zYldCa2c1bFhnTnY1VDRvTWZzVkZMUkZmYjRBUHJ5QTRrTVFuYjA1b2Z0WHFydjBSQVdBTHhTcnFkdEtmTVJMYlNIQ2dPRW5vRUwwNElUMkVDczZDaHVxYnpqLVoyRVozS1ppRlRLRDB6RHlqRHlwa1RwajFhN2xKd1I?oc=5",
-      "published": "2026-06-25T14:58:49",
-      "sentiment_score": 0.565,
-      "sentiment_label": "Positive",
-      "confidence": 0.752
+      "headline": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW5QYklqRjJ5MXFhOUlxOFdUMGREVHpiSUJrY3VSM2xsVVA5Z1dIb3BBV2pmVEthRF9wZU9MU3VvSE1VOGtwNkh3amwxdDh3eU1ZNTBUYUpINVRMN0dDSzBwTGppSWc0aGNwa2RzVEhtLXVzak5Gd2lBUUZHaDFXVWxQQVRIZnd2TzZSTm53N0QyTjBZVXl4dTdLYXh1OVQ5NVBieUZMS0xNMGFMZUtKSlZ2aXBDbjRvVThwY2pST0U3MlNDLUQ5aUNISlk?oc=5",
+      "published": "2026-06-25T10:37:58",
+      "sentiment_score": -0.16,
+      "sentiment_label": "Neutral",
+      "confidence": 0.76
     },
     {
       "headline": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
@@ -141,6 +189,33 @@
       "confidence": 0.58
     },
     {
+      "headline": "CNBC Daily Open: Nvidia may still be tech\u2019s king, but Micron just stole a scene",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/25/nvidia-tech-micron-margin.html",
+      "published": "2026-06-25T01:46:35Z",
+      "sentiment_score": 0.598,
+      "sentiment_label": "Positive",
+      "confidence": 0.614
+    },
+    {
+      "headline": "SK Hynix surges 11% after filing for blockbuster Nasdaq listing",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+      "published": "2026-06-25T00:34:10Z",
+      "sentiment_score": 0.901,
+      "sentiment_label": "Positive",
+      "confidence": 0.936
+    },
+    {
+      "headline": "Former Infosys chief has a new startup that wants to challenge the IT services world | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "published": "2026-06-24T23:30:43Z",
+      "sentiment_score": 0.335,
+      "sentiment_label": "Neutral",
+      "confidence": 0.648
+    },
+    {
       "headline": "GTA 6 will cost \u00a370 - and physical edition will not contain a disc",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
@@ -150,22 +225,58 @@
       "confidence": 0.948
     },
     {
-      "headline": "A24 Knows You\u2019re Mad About the Google AI Collab",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbVg1ZUx6TWI2Rkw3SGV1NmJTQ3kxS1ItV0cyZElqNWlkS2E2NUJwM3NtZWlQb3FPOUY4MHo3TWNDd2REYVdJSGVCaEFEWS1MYXdrRGFROEItZ0haRXN0UmxFYjhWb1JVU19vN0drVUVOYUNOUkhEMDgwdmVaQmhUXw?oc=5",
-      "published": "2026-06-24T21:05:00",
-      "sentiment_score": -0.364,
-      "sentiment_label": "Neutral",
-      "confidence": 0.581
+      "headline": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
+      "published": "2026-06-24T22:33:45Z",
+      "sentiment_score": 0.928,
+      "sentiment_label": "Positive",
+      "confidence": 0.952
     },
     {
-      "headline": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "published": "2026-06-24T20:45:00",
-      "sentiment_score": -0.373,
+      "headline": "AI researchers continue to leave Google for its rivals | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "published": "2026-06-24T21:43:59Z",
+      "sentiment_score": -0.797,
+      "sentiment_label": "Negative",
+      "confidence": 0.81
+    },
+    {
+      "headline": "Charlie Kirk\u2019s legacy is a 30-year sentence for moving zines",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa",
+      "published": "2026-06-24T21:40:26Z",
+      "sentiment_score": -0.383,
       "sentiment_label": "Neutral",
-      "confidence": 0.548
+      "confidence": 0.535
+    },
+    {
+      "headline": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "published": "2026-06-24T21:27:04Z",
+      "sentiment_score": 0.785,
+      "sentiment_label": "Positive",
+      "confidence": 0.822
+    },
+    {
+      "headline": "A24 Knows You\u2019re Mad About the Google AI Collab",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+      "published": "2026-06-24T21:05:51Z",
+      "sentiment_score": -0.944,
+      "sentiment_label": "Negative",
+      "confidence": 0.953
+    },
+    {
+      "headline": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+      "published": "2026-06-24T20:54:57Z",
+      "sentiment_score": -0.642,
+      "sentiment_label": "Negative",
+      "confidence": 0.672
     },
     {
       "headline": "Congresswoman denies staff used AI to write defense funding amendment",
@@ -186,24 +297,6 @@
       "confidence": 0.91
     },
     {
-      "headline": "I Met With China's Top AI Experts. They're Freaking Out, Too",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-      "published": "2026-06-24T18:45:00Z",
-      "sentiment_score": -0.901,
-      "sentiment_label": "Negative",
-      "confidence": 0.917
-    },
-    {
-      "headline": "A member of the cultlike Zizians group is charged in the killings of her parents in Pennsylvania | CNN",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/06/24/us/zizians-group-michelle-zajko-charged-killings",
-      "published": "2026-06-24T18:19:55Z",
-      "sentiment_score": -0.654,
-      "sentiment_label": "Negative",
-      "confidence": 0.695
-    },
-    {
       "headline": "Runpod Raises $100M Led by Summit Partners to Accelerate the AI Developer Cloud",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/pr-newswire/press-release-05a980963072baf5ee4526bd0890919d",
@@ -213,24 +306,6 @@
       "confidence": 0.871
     },
     {
-      "headline": "Elon Musk loses trillionaire status as global tech rout hits SpaceX",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2m2p8dgmo",
-      "published": "2026-06-24T17:45:13Z",
-      "sentiment_score": -0.941,
-      "sentiment_label": "Negative",
-      "confidence": 0.954
-    },
-    {
-      "headline": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "published": "2026-06-24T17:20:32Z",
-      "sentiment_score": -0.683,
-      "sentiment_label": "Negative",
-      "confidence": 0.741
-    },
-    {
       "headline": "Facebook rolls out an AI companion app for creators | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
@@ -238,15 +313,6 @@
       "sentiment_score": 0.171,
       "sentiment_label": "Neutral",
       "confidence": 0.81
-    },
-    {
-      "headline": "Micron earnings are set to send the market on a wild ride \u2014 and a new ETF may add to the volatility",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/24/micron-earnings-could-jolt-markets-and-a-new-etf-may-fuel-volatility.html",
-      "published": "2026-06-24T16:57:24Z",
-      "sentiment_score": 0.137,
-      "sentiment_label": "Neutral",
-      "confidence": 0.844
     },
     {
       "headline": "Figma now has AI motion graphics and shader tools",
@@ -276,15 +342,6 @@
       "confidence": 0.742
     },
     {
-      "headline": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption | AI (artificial intelligence)",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjNqUkg0OC1TeUp0bjdkWmk1aWJkdl96ck5MZk1ta29wTFdXSnFrOUk0ekQxdDBrRUx2Y19wMjVndjZOc0VTYmJ3RE1sRGtOYTZxb1hLUTdxeDMwMnVFMzF3MFZ4UjJEYkZ1VktleENHTWN3V1FCWVVLazFObHpKdGN0M0lkdzdLbTlYZS1HNHJGREhHS3FSb3BTWUdrZw?oc=5",
-      "published": "2026-06-24T15:37:00",
-      "sentiment_score": 0.028,
-      "sentiment_label": "Neutral",
-      "confidence": 0.894
-    },
-    {
       "headline": "Scientist publishes fresh doubts over Microsoft's quantum claims",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
@@ -312,22 +369,13 @@
       "confidence": 0.727
     },
     {
-      "headline": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdThteGtwZVZweXpUZTNQR0djS0ViNGhlZjNacUlpaG5KZ2M2SGdLckxXcEV5T3Z5UDhhRjJ5OUh5LTAxQThQVjNGUG1xWGIwM1VLeUNxNjY2N0RfbnFySTY1d0txYjdlNUVWY1lFbFZhRHcyTV9XRWFkRWZjdzM1Mk1QUWVhTmRRYi1IVklHdlJJeThoMUloTlNFTm4yQ29YTUFXRDUtZjZOeVh2cThIazdhUWd1bjdKcXJsamNqN01VR3RMZUtvLXI3SXpvNGV6?oc=5",
-      "published": "2026-06-24T13:22:09",
-      "sentiment_score": 0.562,
-      "sentiment_label": "Positive",
-      "confidence": 0.572
-    },
-    {
       "headline": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-      "published": "2026-06-24T13:05:43Z",
-      "sentiment_score": 0.169,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw0gGoAUFVX3lxTE02Y0xJN1hadWJmbzdjcEpjNElldENrREJGa3UtQ2lLNTRsVDFTYmhfTkRGZTFqT21HLWdFXzBzYVpjVjc1X0NiVTF5SDFoa3BVbUxEZVZoZnZDZDFlU1Vpc0dCWDZFbjZiVFJVMHR0c0Q0U2JSYXZrb1FqQnJlMVFFNTctUm81QTc4aDN5NHpQQVZ3c180TGZOTGppdlZyZWNwUzExSXBVVw?oc=5",
+      "published": "2026-06-24T13:03:28",
+      "sentiment_score": 0.118,
       "sentiment_label": "Neutral",
-      "confidence": 0.813
+      "confidence": 0.862
     },
     {
       "headline": "Google's YouTube settles social media addiction case with teen",
@@ -375,13 +423,22 @@
       "confidence": 0.927
     },
     {
-      "headline": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-21T23:21:05",
-      "sentiment_score": -0.786,
+      "headline": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUtTQS1taTZnZ3Vma2JIanZaOV80RTREV0d5NzdkbU9LdmZHYWdiM1AyZVJtOUJ4U2hMdG0xVW9GeElRMl9TWmItSmNVNzZibDlRQWJrdHVoSUhybTJ1QU5LbExIU25HejEyM0kzVEZaY3BiSkE5NHlla3Nmc1FpMUsxU1hRT053bHVN?oc=5",
+      "published": "2026-06-22T21:00:06",
+      "sentiment_score": -0.513,
       "sentiment_label": "Negative",
-      "confidence": 0.8
+      "confidence": 0.55
+    },
+    {
+      "headline": "Here\u2019s who\u2019ll win the World Cup, according to science",
+      "source": "BBC Science Focus Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XclpfWlF0T2lHQlVzZGdyaUdqUVhpdWtDU1BrMzhEczRJU1pVUTZoN3h0T0E0T05SNXhkclRIX25GNXVoMXY0VkJwdENlUWhQbUxSM2gyZ3B6czQ2UWNaZUlwMXVxd2dyWlE?oc=5",
+      "published": "2026-06-20T11:00:00",
+      "sentiment_score": 0.028,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
     },
     {
       "headline": "Tech Life",
