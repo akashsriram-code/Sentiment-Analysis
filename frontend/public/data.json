@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-26T19:29:12.570457",
-  "total_articles": 32,
-  "overall_sentiment": 0.051,
-  "overall_label": "Positive",
+  "last_updated": "2026-06-27T02:14:17.414661",
+  "total_articles": 30,
+  "overall_sentiment": -0.164,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-06-16",
@@ -33,30 +33,39 @@
     },
     {
       "date": "2026-06-24",
-      "avg_sentiment": -0.047,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 2,
+      "avg_sentiment": -0.234,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.098
+      "moving_avg": -0.145
     },
     {
       "date": "2026-06-25",
-      "avg_sentiment": 0.241,
-      "article_count": 15,
-      "positive_count": 10,
-      "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.03
+      "avg_sentiment": -0.02,
+      "article_count": 11,
+      "positive_count": 5,
+      "negative_count": 5,
+      "neutral_count": 1,
+      "moving_avg": -0.12
     },
     {
       "date": "2026-06-26",
-      "avg_sentiment": -0.092,
-      "article_count": 5,
+      "avg_sentiment": -0.291,
+      "article_count": 8,
       "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.041
+      "negative_count": 4,
+      "neutral_count": 3,
+      "moving_avg": -0.148
+    },
+    {
+      "date": "2026-06-27",
+      "avg_sentiment": -0.214,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.158
     }
   ],
   "source_stats": [
@@ -67,45 +76,75 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.427,
-      "article_count": 5,
-      "sentiment_label": "Positive"
+      "source": "The New York Times",
+      "avg_sentiment": -0.075,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.192,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.238,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Washington Post",
-      "avg_sentiment": -0.059,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNN",
-      "avg_sentiment": -0.123,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "CNBC",
-      "avg_sentiment": 0.529,
+      "avg_sentiment": -0.934,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.223,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "U.S. government will decide who gets to use latest upgrade to ChatGPT",
+      "headline": "The U.S. government will decide who gets to use the latest American AI technology",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXc2OG91ajlMZGxyMk1kSk43SmRsTFFUU0RQRngtRGxlN3NDbWZyUXJJNzcxRnJpR1V4WUREOFRXZXFPencyOW50b1U3Wk5GNy1lNzhQRWI3cjBnaDJXTGNZS04xTUt2Z2lCWFlrSFNtRGQzd1R0a0J2X1JlRmxZdXJBWVZ1TzR6aVk3ZWVMTlFCY0F1S2VOVUFoS2dXZjBrR0I2TVplcFpXUE5jaVppMU1faFA?oc=5",
-      "published": "2026-06-26T19:20:01",
-      "sentiment_score": 0.072,
+      "published": "2026-06-27T01:20:01",
+      "sentiment_score": 0.029,
       "sentiment_label": "Neutral",
-      "confidence": 0.904
+      "confidence": 0.937
+    },
+    {
+      "headline": "U.S. Loosens Restrictions on Anthropic\u2019s Mythos A.I. Model",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkdJMUZvMnhzbVVDM2xoUWNlLWdVT3p2VlBqUHFpMEE1dWhjdGdsWGE5RWdQSUF4WTdsZ0V2N3drTEstS0dWd0xEMDhQX1Zkejc0TmdLZmZIMkRGUWNKU3FzYlBrUVNvdnNoM3AyTzYweVhxNVF3aU5iMDhCRzVKeVU5RFJpMy1Jdll0alJVZ3Q4VVZhSUE?oc=5",
+      "published": "2026-06-27T00:54:06",
+      "sentiment_score": -0.458,
+      "sentiment_label": "Negative",
+      "confidence": 0.552
+    },
+    {
+      "headline": "OpenAI staggers AI model release after Trump administration request",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5",
+      "published": "2026-06-26T21:26:00",
+      "sentiment_score": -0.461,
+      "sentiment_label": "Negative",
+      "confidence": 0.489
+    },
+    {
+      "headline": "OpenAI limits its latest ChatGPT product to Trump-approved customers during cybersecurity review",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmF5MEZucTFsVmZudmVjU0RpalFGZHdteVFrN2dZM1F0elpFYy1xQ0x5elRSVXE3VTdueTZpdFZNdWZybFFqV1pVTkhfVlpBcC03MFZGS2RZQ0ZLNDV3a3Z2eVZVS3Bnc1NBaTJQLTVXZ213YkkzdTd0djVNNkRLclJ2YTFVeU9sUXJ1Y3FLcUVXODhVbTUxOEhtTVNfS1l5cktra0xxWXlqZw?oc=5",
+      "published": "2026-06-26T21:13:00",
+      "sentiment_score": -0.096,
+      "sentiment_label": "Neutral",
+      "confidence": 0.86
+    },
+    {
+      "headline": "How a Niche Technology Became a Choke Point for A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWR0RnpqZnpUN2NoVktOR05SWTVHZVd1UkRRanFQVk51czB6bWF3VGR6VWRLMEw2UUk2bmJGSUNweC1BZi1tTFVoUmlRaVM3d1h5ZnhiemJkUkFYNGlDTUFQR2ZJMjBrcmZ3b25LWUJEYndlODVEdjMtd2JmY2JObzg3U0pIbjVQR2c?oc=5",
+      "published": "2026-06-26T18:55:00",
+      "sentiment_score": -0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.887
     },
     {
       "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
@@ -117,24 +156,6 @@
       "confidence": 0.909
     },
     {
-      "headline": "OpenAI staggers AI model release after Trump administration request",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5",
-      "published": "2026-06-26T18:06:00",
-      "sentiment_score": -0.461,
-      "sentiment_label": "Negative",
-      "confidence": 0.489
-    },
-    {
-      "headline": "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmF5MEZucTFsVmZudmVjU0RpalFGZHdteVFrN2dZM1F0elpFYy1xQ0x5elRSVXE3VTdueTZpdFZNdWZybFFqV1pVTkhfVlpBcC03MFZGS2RZQ0ZLNDV3a3Z2eVZVS3Bnc1NBaTJQLTVXZ213YkkzdTd0djVNNkRLclJ2YTFVeU9sUXJ1Y3FLcUVXODhVbTUxOEhtTVNfS1l5cktra0xxWXlqZw?oc=5",
-      "published": "2026-06-26T17:08:00",
-      "sentiment_score": -0.07,
-      "sentiment_label": "Neutral",
-      "confidence": 0.877
-    },
-    {
       "headline": "Financial regulators scramble to counter AI rise with own tools",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenFteWtWdVg0ZldTaXlPbzI5WlJjOTNrZXB0MDVBcDdRLWxGVVVKd2JNYzZpREhPaW5NblJCYXJSLU5WQWFzLVJlcnRVUWtSWjJ0Q0ZHTzlRdU1sMEJWSHFHd0QwMUhsa3A1X195dU9Nc0xCaE9IQkllc25DcnM5M2tMSDVlMVpiRE9PRVhzaWxTdklGdkVnUF9RRTFCdFNEbWREZnZPUk0yZUVGVU9DaXN3OA?oc=5",
@@ -142,6 +163,42 @@
       "sentiment_score": 0.009,
       "sentiment_label": "Neutral",
       "confidence": 0.897
+    },
+    {
+      "headline": "CNBC Daily Open: Oil worries flare as tech's winners split from the pack",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/cnbc-daily-open-oil-worries-flare-as-techs-winners-split-from-the-pack.html",
+      "published": "2026-06-26T01:49:50Z",
+      "sentiment_score": -0.914,
+      "sentiment_label": "Negative",
+      "confidence": 0.937
+    },
+    {
+      "headline": "SoftBank sinks 11% as Asia tech rout tracks declines in the U.S.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
+      "published": "2026-06-26T01:05:17Z",
+      "sentiment_score": -0.954,
+      "sentiment_label": "Negative",
+      "confidence": 0.972
+    },
+    {
+      "headline": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "published": "2026-06-26T00:49:13Z",
+      "sentiment_score": 0.11,
+      "sentiment_label": "Neutral",
+      "confidence": 0.846
+    },
+    {
+      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "published": "2026-06-25T23:34:39Z",
+      "sentiment_score": -0.069,
+      "sentiment_label": "Neutral",
+      "confidence": 0.874
     },
     {
       "headline": "Teens who hacked TfL were known to police years before cyber-attack",
@@ -153,6 +210,15 @@
       "confidence": 0.905
     },
     {
+      "headline": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "published": "2026-06-25T23:13:45Z",
+      "sentiment_score": -0.555,
+      "sentiment_label": "Negative",
+      "confidence": 0.578
+    },
+    {
       "headline": "White House asks OpenAI to limit its next model release",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5",
@@ -162,19 +228,28 @@
       "confidence": 0.505
     },
     {
-      "headline": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIbElaaWZlRDNuZ2hrSnU5cTVrcjduamt1SWRDb1VhUmt5c3lFa0dDWWJwVXBMeHFHTndiZ2s0UmZLblRERG04b3M2V3o3ZXVtZXE5SFlFUjZXcFU1Q3EteURPMXNadHhFSm01YlNHOVN4cnRfZFE3M1d1Y9IBgAFBVV95cUxNc3VMcElMaUdCdXFrV1ZURnJ4WVZHckdlVFd0TkdTNzZsUnFiV1Y4bEI1VW45OGVCMEI2b1g1XzY1NFA2RGN1aWg5Ry1QSUVvM090ZlcwRW5MZzdvM0JvMXJyWkZVUld5SU1GWlFlWjNNSXVockVVVmRMZVduUjBKVw?oc=5",
-      "published": "2026-06-25T21:07:56",
-      "sentiment_score": 0.164,
+      "headline": "Eckuity Capital Launches Fund II and Backs Automata Technologies",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/business-wire/press-release-e642c4e2160648f49a0aba689ad46f85",
+      "published": "2026-06-25T22:34:12Z",
+      "sentiment_score": 0.1,
       "sentiment_label": "Neutral",
-      "confidence": 0.81
+      "confidence": 0.882
+    },
+    {
+      "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "published": "2026-06-25T21:57:57Z",
+      "sentiment_score": -0.688,
+      "sentiment_label": "Negative",
+      "confidence": 0.71
     },
     {
       "headline": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5",
-      "published": "2026-06-25T20:58:38",
+      "published": "2026-06-25T20:31:22",
       "sentiment_score": 0.115,
       "sentiment_label": "Neutral",
       "confidence": 0.856
@@ -189,15 +264,6 @@
       "confidence": 0.885
     },
     {
-      "headline": "Hunter Biden Gives Democrats Sound Advice Following Shocking DSA Primary Wins",
-      "source": "Hip-Hop Wired",
-      "link": "https://hiphopwired.com/3058090/hunter-biden-democrats-dsa-political-analysis-reactions/",
-      "published": "2026-06-25T18:13:44Z",
-      "sentiment_score": 0.037,
-      "sentiment_label": "Neutral",
-      "confidence": 0.899
-    },
-    {
       "headline": "Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
@@ -207,67 +273,13 @@
       "confidence": 0.835
     },
     {
-      "headline": "Microsoft lifts price of Xbox consoles due to soaring component costs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
-      "published": "2026-06-25T17:34:13Z",
-      "sentiment_score": 0.895,
-      "sentiment_label": "Positive",
-      "confidence": 0.937
-    },
-    {
-      "headline": "General Intuition's $2.3B bet that video games can train AI agents for the real world | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "published": "2026-06-25T16:55:50Z",
-      "sentiment_score": 0.53,
-      "sentiment_label": "Positive",
-      "confidence": 0.539
-    },
-    {
-      "headline": "Cetera Acquires Marmo Financial Group, Expanding Its National Employee-Advisor RIA",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/press-release-34f4b50b8ed0f4bbbf838d586109e2e8",
-      "published": "2026-06-25T16:54:50Z",
-      "sentiment_score": 0.157,
+      "headline": "When AI Puts Gen Z in the C-Suite",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LdU44YUpGVWxseHBRbVA3T0JGOXNZTEp2cm8wQmZqTzNiWEhiZDJDekUtZ0owWThZMUVEVTFGWW1iVXN0OHR1RS0za2ZQTVhfcl9ZTm83azhqclduQ3ZtWFRCYUFuQjgwd1RNbFZfMVJOdzN4dE5haTJBRzFaMEk?oc=5",
+      "published": "2026-06-25T16:13:00",
+      "sentiment_score": 0.035,
       "sentiment_label": "Neutral",
-      "confidence": 0.824
-    },
-    {
-      "headline": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
-      "published": "2026-06-25T16:04:52Z",
-      "sentiment_score": 0.03,
-      "sentiment_label": "Neutral",
-      "confidence": 0.917
-    },
-    {
-      "headline": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "published": "2026-06-25T16:01:33Z",
-      "sentiment_score": 0.793,
-      "sentiment_label": "Positive",
-      "confidence": 0.802
-    },
-    {
-      "headline": "EverQuest Legends is a powerful nostalgia machine",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/954841/everquest-legends-nostalgia",
-      "published": "2026-06-25T13:49:37Z",
-      "sentiment_score": -0.112,
-      "sentiment_label": "Neutral",
-      "confidence": 0.816
-    },
-    {
-      "headline": "World Cup Teams Are in a Race for AI Dominance",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-      "published": "2026-06-25T11:00:00Z",
-      "sentiment_score": 0.163,
-      "sentiment_label": "Neutral",
-      "confidence": 0.816
+      "confidence": 0.931
     },
     {
       "headline": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
@@ -297,24 +309,6 @@
       "confidence": 0.91
     },
     {
-      "headline": "Are ChatGPT and other AI chatbots politically biased? We tested them.",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjNMZk5ZYVBRRHlTbDJrZl85THhCTHJvczVHMzlPcnpUdndRdkV1NGZoNFdvMzNBLVdZaHZpS0tEY1dfWFBYTWtKUXpnQzhFa09vMXBHYmNuOEV3TmJuRWVXeTFvQW1adlNBRDg2R0NBUEhQLXlwdWZHVHNLRUVXYjdRUk9FTjFXSDRGenUyZkZxMkdZelk4OWF5VGI4S2Q4U3lyQUpEWEROTFJLUlM3alNwaEQtV1FveVU4bjV1dW1SM3ZvenFZ?oc=5",
-      "published": "2026-06-24T16:00:00",
-      "sentiment_score": -0.189,
-      "sentiment_label": "Neutral",
-      "confidence": 0.734
-    },
-    {
-      "headline": "OpenAI just announced its first custom chip to help ChatGPT run better",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KMlpXQlJHZy03Z184ZzBqNmh0aFg3VGVrZXhVOTU4Yms1LUhyaUs2UTFITUFQMkx0MHVQTDBjdnRGX2FYMUI4TDBySVBtMWdFSmU2T1MyOWtaS1prLWhtZVQyNXpRUG41T3IxcVFWWjdUelk1RW1hbGY0eUU?oc=5",
-      "published": "2026-06-24T15:11:04",
-      "sentiment_score": 0.206,
-      "sentiment_label": "Neutral",
-      "confidence": 0.772
-    },
-    {
       "headline": "Scientist publishes fresh doubts over Microsoft's quantum claims",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
@@ -322,15 +316,6 @@
       "sentiment_score": -0.782,
       "sentiment_label": "Negative",
       "confidence": 0.876
-    },
-    {
-      "headline": "A Solution to A.I.\u2019s Growing Power Demand: Homes",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTR2aWlKRWlpck9zcU9KVC1uNFVRbGRacmM5SmsxSmJOLTFEMGw1bkpVSExJdmNGN1h6aFdKclVuT1VrcnF1Rk5OMHRQNE9MV0RTRXQxazVhcTR0djBaTFJ4dWE3aVF2ZEs1MGotd1oxaV9oLW5mclhUeDBJVjRja01ESVFoZ2x2UGJJTXVQNGhLQXc?oc=5",
-      "published": "2026-06-24T09:02:13",
-      "sentiment_score": 0.404,
-      "sentiment_label": "Neutral",
-      "confidence": 0.563
     },
     {
       "headline": "Google's YouTube settles social media addiction case with teen",
