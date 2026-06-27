@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-27T08:27:34.298580",
-  "total_articles": 28,
-  "overall_sentiment": -0.094,
+  "last_updated": "2026-06-27T13:11:17.949246",
+  "total_articles": 33,
+  "overall_sentiment": -0.186,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,44 +42,44 @@
     },
     {
       "date": "2026-06-25",
-      "avg_sentiment": 0.115,
-      "article_count": 8,
-      "positive_count": 4,
+      "avg_sentiment": 0.015,
+      "article_count": 6,
+      "positive_count": 3,
       "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.073
+      "neutral_count": 0,
+      "moving_avg": -0.093
     },
     {
       "date": "2026-06-26",
-      "avg_sentiment": -0.294,
-      "article_count": 6,
-      "positive_count": 0,
-      "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.11
+      "avg_sentiment": -0.336,
+      "article_count": 13,
+      "positive_count": 1,
+      "negative_count": 7,
+      "neutral_count": 5,
+      "moving_avg": -0.133
     },
     {
       "date": "2026-06-27",
-      "avg_sentiment": 0.037,
+      "avg_sentiment": 0.01,
       "article_count": 3,
-      "positive_count": 1,
+      "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.089
+      "neutral_count": 3,
+      "moving_avg": -0.113
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.225,
-      "article_count": 11,
+      "avg_sentiment": -0.152,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.238,
-      "article_count": 3,
-      "sentiment_label": "Positive"
+      "source": "CNBC",
+      "avg_sentiment": -0.59,
+      "article_count": 8,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
@@ -94,6 +94,18 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "Reuters",
+      "avg_sentiment": -0.032,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.04,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
       "source": "CNN",
       "avg_sentiment": -0.115,
       "article_count": 2,
@@ -101,6 +113,15 @@
     }
   ],
   "articles": [
+    {
+      "headline": "How GE Vernova builds the massive gas turbines powering the AI data center boom",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWJyakJOOHU5STZ2dnNwNGVZazRKczFHNnlZZnZzaUpzRnhZTUMxOW9zNUE1TExrakpTVlVTRU9HNWZtNEFwemVGWEd4RTg1Y2szV1lmMnBkQVNEYTlGOElDOThJbUYxUXlxdkMtWVVEOHEyY0gzVkc1UHBLUjVQbS1B0gGHAUFVX3lxTFBMUWE0MS01eHJPWEtBU0lDYV9fSlloY095dEFnUXJXd2RSa0ZKT253bUpUaExmRXQ5blZsSzRRT0J1SkQ1NTVwYTh4WlhEOUEwSEp4Rkl2S2xXNXJ5aFpaWTVhUDVpZFZyVFNlSnNRaXJjYkNrSERxekc3a0xqZGVPQzdjOW1yVQ?oc=5",
+      "published": "2026-06-27T12:00:01",
+      "sentiment_score": 0.029,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
+    },
     {
       "headline": "The U.S. government will decide who gets to use the latest American AI technology",
       "source": "The Washington Post",
@@ -120,13 +141,22 @@
       "confidence": 0.899
     },
     {
-      "headline": "Anthropic\u2019s Mythos 5 AI Model Cleared by US for Wider Use",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1VSZnJiMmlhMUJKbENJSDIwenoyd1IyeWczZzBDVDNNSDhNWW1zem9yVndQWVZ1V3Iya3plMnVEMXVxNVo1LXRtSHhKNXptQkEtOHh5NHFWc2w2OGhRczd0TXgwNG11QnlaNFBjNnB1N0lGby0wV1QxT3pNVmdKQ21ISmcyVHdsSnRlRDJ5ZGJSckZYemNral9PVmszWjIzUmxTekZuaEVnczhlQnlMQ0Q3SDE?oc=5",
-      "published": "2026-06-27T00:39:00",
-      "sentiment_score": 0.11,
+      "headline": "OpenAI defers public rollout of GPT\u20115.6 as US seeks early access to frontier AI models",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnFfdzFOMEtRZ2xQYThDMDl3OFlWUDVFQ3VFelowLVVHUGt0TktoUHMzamJDekMzS09jaGR5RU9EaVNsNmdKR1JYSzVwbGNneUVaWWlnQzM4YnUxZGp3ZkthVlYyUGhXMUtDSjNZVC1YSGlpeDYxVjBOTkdSeGltaC15TjRqYVJiQnlxVlhjY01ZODRVQURFMjZEbVdaUHRJV2JlNklyRXRpNzAxbnVDS1dETk82WjJxLXZFdFRrSk8tTDJJZTJF?oc=5",
+      "published": "2026-06-26T22:22:46",
+      "sentiment_score": -0.072,
       "sentiment_label": "Neutral",
-      "confidence": 0.866
+      "confidence": 0.616
+    },
+    {
+      "headline": "How a Niche Technology Became a Choke Point for A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWR0RnpqZnpUN2NoVktOR05SWTVHZVd1UkRRanFQVk51czB6bWF3VGR6VWRLMEw2UUk2bmJGSUNweC1BZi1tTFVoUmlRaVM3d1h5ZnhiemJkUkFYNGlDTUFQR2ZJMjBrcmZ3b25LWUJEYndlODVEdjMtd2JmY2JObzg3U0pIbjVQR2c?oc=5",
+      "published": "2026-06-26T18:55:00",
+      "sentiment_score": -0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.887
     },
     {
       "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
@@ -156,31 +186,76 @@
       "confidence": 0.489
     },
     {
-      "headline": "How a Niche Technology Became a Choke Point for A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWR0RnpqZnpUN2NoVktOR05SWTVHZVd1UkRRanFQVk51czB6bWF3VGR6VWRLMEw2UUk2bmJGSUNweC1BZi1tTFVoUmlRaVM3d1h5ZnhiemJkUkFYNGlDTUFQR2ZJMjBrcmZ3b25LWUJEYndlODVEdjMtd2JmY2JObzg3U0pIbjVQR2c?oc=5",
-      "published": "2026-06-26T07:34:44",
-      "sentiment_score": -0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.887
-    },
-    {
-      "headline": "Asia stock markets slide as tech shares slump",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro",
-      "published": "2026-06-26T07:33:10Z",
-      "sentiment_score": -0.954,
-      "sentiment_label": "Negative",
-      "confidence": 0.961
-    },
-    {
-      "headline": "CNBC Daily Open: One session, two major sell-offs",
+      "headline": "The brands winning with World Cup advertising may not be the sponsors",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/26/cnbc-daily-open-one-session-two-major-sell-offs.html",
-      "published": "2026-06-26T06:00:37Z",
-      "sentiment_score": -0.334,
+      "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
+      "published": "2026-06-26T12:30:01Z",
+      "sentiment_score": -0.029,
       "sentiment_label": "Neutral",
-      "confidence": 0.452
+      "confidence": 0.884
+    },
+    {
+      "headline": "Imposter scams led fraud reports to the FTC for fifth straight year in 2025, causing $3.5 billion in losses",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/imposter-scams-led-fraud-reports-to-ftc-in-2025-3point5-billion-losses.html",
+      "published": "2026-06-26T12:21:26Z",
+      "sentiment_score": -0.868,
+      "sentiment_label": "Negative",
+      "confidence": 0.881
+    },
+    {
+      "headline": "The memory crunch, Supreme Court rulings, 'inheritourism' and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/5-things-to-know-before-the-stock-market-opens.html",
+      "published": "2026-06-26T12:18:19Z",
+      "sentiment_score": -0.049,
+      "sentiment_label": "Neutral",
+      "confidence": 0.896
+    },
+    {
+      "headline": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "published": "2026-06-26T12:10:01Z",
+      "sentiment_score": -0.913,
+      "sentiment_label": "Negative",
+      "confidence": 0.938
+    },
+    {
+      "headline": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
+      "published": "2026-06-26T12:00:01Z",
+      "sentiment_score": -0.959,
+      "sentiment_label": "Negative",
+      "confidence": 0.968
+    },
+    {
+      "headline": "'The cult of Elon': SpaceX investors grapple with volatility amid big swings",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/spacex-volatility.html",
+      "published": "2026-06-26T11:02:43Z",
+      "sentiment_score": -0.965,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
+    },
+    {
+      "headline": "Micron falls 5% in premarket, paring earlier gains amid tech rout",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/micron-stock-earnings-tech-selloff-ai.html",
+      "published": "2026-06-26T10:18:44Z",
+      "sentiment_score": -0.963,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
+    },
+    {
+      "headline": "India to resume Bangladesh tourist visas after two-year pause",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/india-to-resume-bangladesh-tourist-visas-after-two-year-pause",
+      "published": "2026-06-26T09:52:26Z",
+      "sentiment_score": 0.922,
+      "sentiment_label": "Positive",
+      "confidence": 0.941
     },
     {
       "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns | TechCrunch",
@@ -226,24 +301,6 @@
       "sentiment_score": 0.82,
       "sentiment_label": "Positive",
       "confidence": 0.885
-    },
-    {
-      "headline": "Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "published": "2026-06-25T17:40:02Z",
-      "sentiment_score": 0.794,
-      "sentiment_label": "Positive",
-      "confidence": 0.835
-    },
-    {
-      "headline": "When AI Puts Gen Z in the C-Suite",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LdU44YUpGVWxseHBRbVA3T0JGOXNZTEp2cm8wQmZqTzNiWEhiZDJDekUtZ0owWThZMUVEVTFGWW1iVXN0OHR1RS0za2ZQTVhfcl9ZTm83azhqclduQ3ZtWFRCYUFuQjgwd1RNbFZfMVJOdzN4dE5haTJBRzFaMEk?oc=5",
-      "published": "2026-06-25T16:13:00",
-      "sentiment_score": 0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.931
     },
     {
       "headline": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
