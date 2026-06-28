@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-06-27T19:05:38.750374",
-  "total_articles": 37,
-  "overall_sentiment": -0.09,
-  "overall_label": "Negative",
+  "last_updated": "2026-06-28T02:35:53.996416",
+  "total_articles": 40,
+  "overall_sentiment": 0.004,
+  "overall_label": "Neutral",
   "daily_stats": [
+    {
+      "date": "2026-06-08",
+      "avg_sentiment": 0.001,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.001
+    },
     {
       "date": "2026-06-16",
       "avg_sentiment": -0.079,
@@ -11,7 +20,16 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.079
+      "moving_avg": -0.039
+    },
+    {
+      "date": "2026-06-19",
+      "avg_sentiment": -0.735,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.271
     },
     {
       "date": "2026-06-20",
@@ -20,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.026
+      "moving_avg": -0.196
     },
     {
       "date": "2026-06-23",
@@ -29,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.115
+      "moving_avg": -0.216
     },
     {
       "date": "2026-06-24",
@@ -38,60 +56,69 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.12
+      "moving_avg": -0.202
     },
     {
       "date": "2026-06-25",
-      "avg_sentiment": 0.08,
+      "avg_sentiment": -0.023,
       "article_count": 7,
       "positive_count": 4,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.08
+      "moving_avg": -0.177
     },
     {
       "date": "2026-06-26",
-      "avg_sentiment": -0.117,
-      "article_count": 17,
-      "positive_count": 7,
-      "negative_count": 8,
+      "avg_sentiment": 0.0,
+      "article_count": 11,
+      "positive_count": 5,
+      "negative_count": 4,
       "neutral_count": 2,
-      "moving_avg": -0.086
+      "moving_avg": -0.177
     },
     {
       "date": "2026-06-27",
-      "avg_sentiment": 0.001,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 0,
+      "avg_sentiment": 0.265,
+      "article_count": 8,
+      "positive_count": 4,
+      "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.074
+      "moving_avg": -0.128
+    },
+    {
+      "date": "2026-06-28",
+      "avg_sentiment": 0.814,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.094
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.211,
-      "article_count": 11,
+      "avg_sentiment": -0.235,
+      "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.118,
-      "article_count": 6,
+      "source": "CNN",
+      "avg_sentiment": 0.051,
+      "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.409,
+      "avg_sentiment": 0.039,
       "article_count": 4,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.053,
-      "article_count": 3,
-      "sentiment_label": "Positive"
+      "source": "TechCrunch",
+      "avg_sentiment": -0.0,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Washington Post",
@@ -100,19 +127,49 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Associated Press",
-      "avg_sentiment": 0.442,
+      "source": "Wired",
+      "avg_sentiment": 0.412,
       "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNN",
-      "avg_sentiment": -0.115,
+      "source": "Reuters",
+      "avg_sentiment": -0.403,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Associated Press",
+      "avg_sentiment": 0.822,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.077,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
+      "published": "2026-06-28T01:00:00",
+      "sentiment_score": 0.814,
+      "sentiment_label": "Positive",
+      "confidence": 0.845
+    },
+    {
+      "headline": "Tech firms are blaming AI for mega device and console price rises",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-27T23:10:47",
+      "sentiment_score": -0.493,
+      "sentiment_label": "Negative",
+      "confidence": 0.661
+    },
     {
       "headline": "The U.S. government will decide who gets to use the latest American AI technology",
       "source": "The Washington Post",
@@ -132,6 +189,60 @@
       "confidence": 0.899
     },
     {
+      "headline": "AI glasses are aiding cheating in exams. Test-obsessed Asia is ground zero",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/06/26/asia/ai-glasses-cheating-exams-intl-hnk",
+      "published": "2026-06-27T00:58:41Z",
+      "sentiment_score": -0.115,
+      "sentiment_label": "Neutral",
+      "confidence": 0.794
+    },
+    {
+      "headline": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/06/26/tech/anthropic-mythos-release",
+      "published": "2026-06-27T00:33:56Z",
+      "sentiment_score": 0.548,
+      "sentiment_label": "Positive",
+      "confidence": 0.573
+    },
+    {
+      "headline": "Anthropic\u2019s Mythos 5 is back",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "published": "2026-06-27T00:33:44Z",
+      "sentiment_score": 0.589,
+      "sentiment_label": "Positive",
+      "confidence": 0.602
+    },
+    {
+      "headline": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "published": "2026-06-27T00:26:14Z",
+      "sentiment_score": 0.856,
+      "sentiment_label": "Positive",
+      "confidence": 0.863
+    },
+    {
+      "headline": "SpaceX will join Nasdaq-100",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+      "published": "2026-06-27T00:21:45Z",
+      "sentiment_score": 0.735,
+      "sentiment_label": "Positive",
+      "confidence": 0.743
+    },
+    {
+      "headline": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies: Reports",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+      "published": "2026-06-26T23:06:01Z",
+      "sentiment_score": 0.114,
+      "sentiment_label": "Neutral",
+      "confidence": 0.868
+    },
+    {
       "headline": "OpenAI defers public rollout of GPT\u20115.6 as US seeks early access to frontier AI models",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnFfdzFOMEtRZ2xQYThDMDl3OFlWUDVFQ3VFelowLVVHUGt0TktoUHMzamJDekMzS09jaGR5RU9EaVNsNmdKR1JYSzVwbGNneUVaWWlnQzM4YnUxZGp3ZkthVlYyUGhXMUtDSjNZVC1YSGlpeDYxVjBOTkdSeGltaC15TjRqYVJiQnlxVlhjY01ZODRVQURFMjZEbVdaUHRJV2JlNklyRXRpNzAxbnVDS1dETk82WjJxLXZFdFRrSk8tTDJJZTJF?oc=5",
@@ -141,13 +252,40 @@
       "confidence": 0.616
     },
     {
-      "headline": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF8tdFFyWTE5OFFyMjdNdmRlLXhiWlI2UnNRTkp6d2N1bkJ5Y25VMXJ4bzE2aURDbnVKaUpnV1lvLVVGdW9US1oyZDVqYXNOYlEteHdtYVU5dHpmb1FaZ0xpaFJqM0xieTg5NTVrWkhYb3ZIdEZzRGlNWE9kYUt0RkNQM2NLUzdkMVFQbWNYbFVZd2tETTg4dnFzR3JuazlDWVdaWVlzNklVZ2JtMTI4Q2hJMA?oc=5",
-      "published": "2026-06-26T21:44:42",
-      "sentiment_score": 0.422,
+      "headline": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+      "published": "2026-06-26T22:11:33Z",
+      "sentiment_score": 0.273,
       "sentiment_label": "Neutral",
-      "confidence": 0.483
+      "confidence": 0.671
+    },
+    {
+      "headline": "How People in China Keep Outsmarting Anthropic\u2019s Geolocation Restrictions",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
+      "published": "2026-06-26T21:02:54Z",
+      "sentiment_score": -0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.637
+    },
+    {
+      "headline": "Kyivstar and VEON Partner with Ministry of Economy, Environment and Agriculture of Ukraine to Accelerate AI Infrastructure and Digital Economy Growth",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/globenewswire-mobile/press-release-51b8a012f372d3bec77452c6ae3fa909",
+      "published": "2026-06-26T20:36:36Z",
+      "sentiment_score": 0.883,
+      "sentiment_label": "Positive",
+      "confidence": 0.89
+    },
+    {
+      "headline": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+      "published": "2026-06-26T20:21:09Z",
+      "sentiment_score": -0.964,
+      "sentiment_label": "Negative",
+      "confidence": 0.972
     },
     {
       "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm | TechCrunch",
@@ -168,15 +306,6 @@
       "confidence": 0.717
     },
     {
-      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia) | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "published": "2026-06-26T17:43:22Z",
-      "sentiment_score": 0.081,
-      "sentiment_label": "Neutral",
-      "confidence": 0.893
-    },
-    {
       "headline": "Judge declares mistrial in California wildfire arson case",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cx2w0k5zzryo",
@@ -184,51 +313,6 @@
       "sentiment_score": -0.799,
       "sentiment_label": "Negative",
       "confidence": 0.814
-    },
-    {
-      "headline": "OpenAI Has New AI Models. Here\u2019s Why You Can't Use Them",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "published": "2026-06-26T17:05:40Z",
-      "sentiment_score": -0.689,
-      "sentiment_label": "Negative",
-      "confidence": 0.715
-    },
-    {
-      "headline": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
-      "published": "2026-06-26T17:02:44Z",
-      "sentiment_score": 0.304,
-      "sentiment_label": "Neutral",
-      "confidence": 0.678
-    },
-    {
-      "headline": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "published": "2026-06-26T17:01:03Z",
-      "sentiment_score": 0.072,
-      "sentiment_label": "Neutral",
-      "confidence": 0.878
-    },
-    {
-      "headline": "It\u2019s not about Anthropic vs. OpenAI anymore | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "published": "2026-06-26T16:25:37Z",
-      "sentiment_score": -0.073,
-      "sentiment_label": "Neutral",
-      "confidence": 0.779
-    },
-    {
-      "headline": "The AI Boom's Biggest Bottleneck Is Creating Billion-Dollar Opportunities",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/press-release-7cd970453a5d9cec9079e57c3fae688e",
-      "published": "2026-06-26T15:50:01Z",
-      "sentiment_score": 0.124,
-      "sentiment_label": "Neutral",
-      "confidence": 0.846
     },
     {
       "headline": "RADIN Health Expands National Footprint with Four Additional Hospitals Deployed at UHS Nevada Health System",
@@ -240,15 +324,6 @@
       "confidence": 0.772
     },
     {
-      "headline": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
-      "published": "2026-06-26T15:34:49Z",
-      "sentiment_score": -0.062,
-      "sentiment_label": "Neutral",
-      "confidence": 0.894
-    },
-    {
       "headline": "OpenAI staggers AI model release after Trump administration request",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5",
@@ -258,40 +333,13 @@
       "confidence": 0.489
     },
     {
-      "headline": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "published": "2026-06-26T12:10:01Z",
-      "sentiment_score": -0.913,
-      "sentiment_label": "Negative",
-      "confidence": 0.938
-    },
-    {
-      "headline": "'The cult of Elon': SpaceX investors grapple with volatility amid big swings",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/26/spacex-volatility.html",
-      "published": "2026-06-26T11:02:43Z",
-      "sentiment_score": -0.965,
-      "sentiment_label": "Negative",
-      "confidence": 0.973
-    },
-    {
-      "headline": "How a Niche Technology Became a Choke Point for A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWR0RnpqZnpUN2NoVktOR05SWTVHZVd1UkRRanFQVk51czB6bWF3VGR6VWRLMEw2UUk2bmJGSUNweC1BZi1tTFVoUmlRaVM3d1h5ZnhiemJkUkFYNGlDTUFQR2ZJMjBrcmZ3b25LWUJEYndlODVEdjMtd2JmY2JObzg3U0pIbjVQR2c?oc=5",
-      "published": "2026-06-26T07:34:44",
-      "sentiment_score": -0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.887
-    },
-    {
-      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns | TechCrunch",
+      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "published": "2026-06-25T23:34:39Z",
-      "sentiment_score": -0.069,
-      "sentiment_label": "Neutral",
-      "confidence": 0.874
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanItU1E3cmxGQnpYdFFSZlRNR3dqYXpLM2R1Z0s4bGRpZ1VMM29kUEk5XzRKZElXNnYwczd2OTM0R0ZpV2tWTVVxRm1wcExjeVNUeVRsNHV1QU8tUUVUSkl6eUtWZHluekJwVzJncFdER2dvZjkwaEROV0psSFNnNGVDdjlieF9uOFNEU3ZZcFAzUXA3V1I2bEtvZWh0TWpqQWd2blZUOVZ3cXE3NDFCODlmM0l5RHR5cjhDbjFrTzVOdEJaSUpHbmVB?oc=5",
+      "published": "2026-06-25T23:34:39",
+      "sentiment_score": -0.771,
+      "sentiment_label": "Negative",
+      "confidence": 0.786
     },
     {
       "headline": "Teens who hacked TfL were known to police years before cyber-attack",
@@ -312,13 +360,13 @@
       "confidence": 0.505
     },
     {
-      "headline": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
+      "headline": "OpenAI Leans Toward Waiting Until Next Year for I.P.O.",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5",
       "published": "2026-06-25T20:31:22",
-      "sentiment_score": 0.115,
+      "sentiment_score": 0.096,
       "sentiment_label": "Neutral",
-      "confidence": 0.856
+      "confidence": 0.873
     },
     {
       "headline": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
@@ -438,6 +486,15 @@
       "confidence": 0.926
     },
     {
+      "headline": "Norway imposes near ban on AI in elementary school",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5",
+      "published": "2026-06-19T07:00:00",
+      "sentiment_score": -0.735,
+      "sentiment_label": "Negative",
+      "confidence": 0.752
+    },
+    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
@@ -445,6 +502,15 @@
       "sentiment_score": -0.079,
       "sentiment_label": "Neutral",
       "confidence": 0.866
+    },
+    {
+      "headline": "Generative and agentic AI in professional-grade legal AI",
+      "source": "Thomson Reuters Legal Solutions",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZWQkxJRUw0OVdnMUVfOW5QSjZlNEFTUzVUaG9VejF5TS0ySFhLeUdQVzVvWjEzX1VNQ1UwMjhmLXJZbWYwd0hkaUVwV2hrYnRvekdseEE1SWpZQ1hyRHhXckRtamFQZ0R5c3FWd2thS3BqNjdQNlU2ck1kX0hxZEJtTEFuSzk3ZkFIbDNtMXhZZWQ3ZnBPRmJrd1QxanpMTGxYUVA3OEJ6eWJXaEp0NlRRaw?oc=5",
+      "published": "2026-06-08T07:00:00",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
     }
   ]
 }
