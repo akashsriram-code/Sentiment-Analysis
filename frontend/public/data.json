@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-06-30T02:30:44.586026",
-  "total_articles": 30,
-  "overall_sentiment": -0.24,
+  "last_updated": "2026-06-30T08:57:42.971564",
+  "total_articles": 33,
+  "overall_sentiment": -0.11,
   "overall_label": "Negative",
   "daily_stats": [
     {
-      "date": "2026-06-06",
+      "date": "2026-06-01",
+      "avg_sentiment": -0.016,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.016
+    },
+    {
+      "date": "2026-06-07",
       "avg_sentiment": 0.022,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.022
+      "moving_avg": 0.003
+    },
+    {
+      "date": "2026-06-10",
+      "avg_sentiment": 0.516,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.174
     },
     {
       "date": "2026-06-11",
@@ -20,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.112
+      "moving_avg": 0.181
     },
     {
       "date": "2026-06-16",
@@ -29,16 +47,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.048
-    },
-    {
-      "date": "2026-06-19",
-      "avg_sentiment": -0.735,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.148
+      "moving_avg": 0.129
     },
     {
       "date": "2026-06-20",
@@ -47,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.112
+      "moving_avg": 0.112
     },
     {
       "date": "2026-06-23",
@@ -56,7 +65,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.178
+      "moving_avg": 0.024
     },
     {
       "date": "2026-06-24",
@@ -65,7 +74,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.207
+      "moving_avg": -0.028
     },
     {
       "date": "2026-06-25",
@@ -74,16 +83,16 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.186
+      "moving_avg": -0.007
     },
     {
       "date": "2026-06-26",
-      "avg_sentiment": -0.236,
-      "article_count": 2,
+      "avg_sentiment": -0.461,
+      "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.249
+      "neutral_count": 0,
+      "moving_avg": -0.147
     },
     {
       "date": "2026-06-27",
@@ -92,51 +101,72 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.285
+      "moving_avg": -0.224
     },
     {
       "date": "2026-06-28",
-      "avg_sentiment": -0.007,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 3,
+      "avg_sentiment": 0.135,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.181
+      "moving_avg": -0.193
     },
     {
       "date": "2026-06-29",
-      "avg_sentiment": -0.585,
-      "article_count": 6,
-      "positive_count": 0,
+      "avg_sentiment": -0.191,
+      "article_count": 9,
+      "positive_count": 3,
       "negative_count": 4,
       "neutral_count": 2,
-      "moving_avg": -0.269
+      "moving_avg": -0.224
+    },
+    {
+      "date": "2026-06-30",
+      "avg_sentiment": -0.022,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "moving_avg": -0.155
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.205,
-      "article_count": 9,
+      "avg_sentiment": -0.112,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.133,
-      "article_count": 5,
+      "source": "The Guardian",
+      "avg_sentiment": -0.255,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Financial Times",
+      "avg_sentiment": -0.01,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.478,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.227,
-      "article_count": 3,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.028,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.817,
+      "source": "Associated Press",
+      "avg_sentiment": -0.014,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
@@ -149,9 +179,33 @@
       "avg_sentiment": -0.126,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.035,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "\u2018There\u2019s this deep mystery of what, actually, is this thing?\u2019: the philosopher inside Google DeepMind AI",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNmlqTGdtM2QyUHB1UE95blQ1TzNlNzhWb1dHTjZzN1FseFZ0X1djSTZYakJzNHpQWWxIOUtoWXUzQkxBX1k2YWI3WUZscmIwVXlLTUNxUjNfRzZtRjlONjNJLW0zcldJSkw4d2NmSDBvWnI4WnNKMHE0cDZpWXVnUlF2ZjZWMnFCWUd4dnltd1dLWXk3N0RtbHZlMm9Vcno0aS1YOVdVc0x0b216cnBaOExtYzlWMmtJaHU3V1AzaXp4eHBlMTlhTlhfcFZ5VkhfMGpvSURlU1htQU5IeU83Nnd0LXE0Vm9RNnc?oc=5",
+      "published": "2026-06-30T08:25:00",
+      "sentiment_score": -0.048,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
+    {
+      "headline": "Use of artificial intelligence for mental health splits opinion",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQzQ3bFdkQjZVd3pkeWVORW5mQURNaU1vOTBicUFESDZUa2Nkc0NXMEthTG5rZzVxNnJwcG82bXlUTVFOSk1zTGI0amx3c1BCLWlHSjJTMXlRT1NneTdtNU0zUGpKeDk4LTJ4MGN6VXQ?oc=5",
+      "published": "2026-06-30T03:31:24",
+      "sentiment_score": 0.005,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
+    },
     {
       "headline": "Ford rehires human engineers after AI fails to match quality checks",
       "source": "BBC",
@@ -180,22 +234,49 @@
       "confidence": 0.949
     },
     {
+      "headline": "AI-Driven Patient Detection Surfaces Approximately 1,200 Likely-Undiagnosed GEP-NET Patients in UK Primary Care",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-9883c17e85866adc5a8e4115d85a2d20",
+      "published": "2026-06-29T08:54:07Z",
+      "sentiment_score": -0.2,
+      "sentiment_label": "Neutral",
+      "confidence": 0.629
+    },
+    {
+      "headline": "South Korea unveils $1tn chip and AI investment plan",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c9q2pwzngjqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-06-29T06:46:44Z",
+      "sentiment_score": 0.723,
+      "sentiment_label": "Positive",
+      "confidence": 0.735
+    },
+    {
+      "headline": "Banks to retire high-cost funds with diaspora money, says Axis Bank chief",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/axis-ceo-sees-banks-retiring-high-cost-funds-with-diaspora-money",
+      "published": "2026-06-29T05:14:24Z",
+      "sentiment_score": 0.136,
+      "sentiment_label": "Neutral",
+      "confidence": 0.844
+    },
+    {
       "headline": "Artificial intelligence and Engels\u2019 Pause",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HclNINnBwTURrZ3lVQmxGV0tLT01uaE1FQUo5a2hRTHJRUmRlUUNrUFNlZU4yZnZmN2hmOTNhOUdHWFhUSEVBd3gxRzhSbFY1YjQxNjdJaXR1Q2UwODhhSGdYWnV0RHk0dl92NjNPbm0?oc=5",
-      "published": "2026-06-29T05:00:07",
+      "published": "2026-06-29T05:01:03",
       "sentiment_score": -0.025,
       "sentiment_label": "Neutral",
       "confidence": 0.927
     },
     {
-      "headline": "Samsung, SK Hynix shares fall as investors brace for reported $1.3 trillion spending plans",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
-      "published": "2026-06-29T01:35:51Z",
-      "sentiment_score": -0.961,
-      "sentiment_label": "Negative",
-      "confidence": 0.971
+      "headline": "Harbour BioMed Appoints Dr. Lloyd Klickstein as Scientific Advisor for Immunology",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/pr-newswire/press-release-80f03771796f50622f91ea62c4a1cd67",
+      "published": "2026-06-29T04:32:07Z",
+      "sentiment_score": 0.172,
+      "sentiment_label": "Neutral",
+      "confidence": 0.813
     },
     {
       "headline": "CNBC Daily Open: Another weekend escalation in Iran, another market shrug",
@@ -214,24 +295,6 @@
       "sentiment_score": 0.548,
       "sentiment_label": "Positive",
       "confidence": 0.562
-    },
-    {
-      "headline": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "published": "2026-06-28T19:05:39Z",
-      "sentiment_score": -0.76,
-      "sentiment_label": "Negative",
-      "confidence": 0.814
-    },
-    {
-      "headline": "TechCrunch Mobility: All eyes on Tesla FSD | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "published": "2026-06-28T16:05:00Z",
-      "sentiment_score": 0.178,
-      "sentiment_label": "Neutral",
-      "confidence": 0.802
     },
     {
       "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
@@ -263,8 +326,8 @@
     {
       "headline": "Tech firms are blaming AI for mega device and console price rises",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo",
-      "published": "2026-06-27T23:10:47Z",
+      "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-27T23:10:47",
       "sentiment_score": -0.493,
       "sentiment_label": "Negative",
       "confidence": 0.661
@@ -295,15 +358,6 @@
       "sentiment_score": -0.028,
       "sentiment_label": "Neutral",
       "confidence": 0.899
-    },
-    {
-      "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0pPdi1sUVJsblhuaFdVb2dxTG81cmRldnd3dl9HT0FKMmVXZXUzZ3FyLWlGcXJMcVB2ZmdlMWs0cmtpSkFLMnYzS3NTU0R1MEdNdGs2dVVYNXFMMkpUbTl3UVpfNy1iSEhtekdTN05xLUtuckdvQXpvcTVtQ2JNYm1lMVNtajJPTnduRE9McFNqNTZ2bC1vbmJjVkJNb3BKZEFpMTk5bUpncDZHQ1JPaTFWSGpjek5HQ1NPVFA4VHEtMGEwbTdJ?oc=5",
-      "published": "2026-06-26T18:32:14",
-      "sentiment_score": -0.011,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
     },
     {
       "headline": "OpenAI staggers AI model release after Trump administration request",
@@ -387,15 +441,6 @@
       "confidence": 0.926
     },
     {
-      "headline": "Norway imposes near ban on AI in elementary school",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5",
-      "published": "2026-06-19T07:00:00",
-      "sentiment_score": -0.735,
-      "sentiment_label": "Negative",
-      "confidence": 0.752
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
@@ -414,13 +459,31 @@
       "confidence": 0.77
     },
     {
+      "headline": "Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEtRbUVBNldBSEl0bTBVeHdGYWUzdi1TQ256RTVnbWhwaEFTYXpQLVdWZ1V6MkpwYXh1TXZydlUxWHpncW5SYlhJaXJNWXJsSXVBUFd1ZGZJWnhBMndDTUhST0dmYUoybGFMdUlWSjM3MGtPM3NkSW9tZ3BsZng1akc3UURSWkNHVGZSQ3dpOUFJZVBKOVktV0w2TTB1TzMxTFYwd2g2Wl9SZw?oc=5",
+      "published": "2026-06-10T07:00:00",
+      "sentiment_score": 0.516,
+      "sentiment_label": "Positive",
+      "confidence": 0.532
+    },
+    {
       "headline": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
-      "published": "2026-06-06T07:00:00",
+      "published": "2026-06-07T07:00:00",
       "sentiment_score": 0.022,
       "sentiment_label": "Neutral",
       "confidence": 0.91
+    },
+    {
+      "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IUFN4T3VUZFhlSnZ4eVVWaEJqVE1mUFNJaC1vU01jcmU5VFplNE81WkhKYnRKclUyV0Vtb2J5Ykh6LXVJcHJySUZ0UWQteC1OSkg4NmJEeWxjQQ?oc=5",
+      "published": "2026-06-01T07:00:00",
+      "sentiment_score": -0.016,
+      "sentiment_label": "Neutral",
+      "confidence": 0.872
     }
   ]
 }
