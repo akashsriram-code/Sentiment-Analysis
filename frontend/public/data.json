@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-07-04T01:59:12.554257",
-  "total_articles": 34,
-  "overall_sentiment": -0.037,
-  "overall_label": "Neutral",
+  "last_updated": "2026-07-04T08:25:20.867269",
+  "total_articles": 32,
+  "overall_sentiment": -0.172,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-06-01",
@@ -32,13 +32,22 @@
       "moving_avg": 0.036
     },
     {
+      "date": "2026-06-20",
+      "avg_sentiment": 0.028,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.034
+    },
+    {
       "date": "2026-06-25",
       "avg_sentiment": -0.452,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.086
+      "moving_avg": -0.063
     },
     {
       "date": "2026-06-27",
@@ -47,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.168
+      "moving_avg": -0.135
     },
     {
       "date": "2026-06-29",
@@ -56,7 +65,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.299
+      "moving_avg": -0.252
     },
     {
       "date": "2026-06-30",
@@ -65,7 +74,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.297
+      "moving_avg": -0.291
     },
     {
       "date": "2026-07-01",
@@ -74,25 +83,25 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.351
+      "moving_avg": -0.376
     },
     {
       "date": "2026-07-02",
-      "avg_sentiment": 0.253,
-      "article_count": 14,
-      "positive_count": 10,
+      "avg_sentiment": 0.113,
+      "article_count": 11,
+      "positive_count": 7,
       "negative_count": 1,
       "neutral_count": 3,
-      "moving_avg": -0.344
+      "moving_avg": -0.349
     },
     {
       "date": "2026-07-03",
-      "avg_sentiment": -0.125,
+      "avg_sentiment": -0.346,
       "article_count": 9,
-      "positive_count": 2,
-      "negative_count": 3,
+      "positive_count": 1,
+      "negative_count": 4,
       "neutral_count": 4,
-      "moving_avg": -0.351
+      "moving_avg": -0.402
     }
   ],
   "source_stats": [
@@ -104,14 +113,8 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.475,
-      "article_count": 6,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.016,
-      "article_count": 3,
+      "avg_sentiment": 0.041,
+      "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
@@ -121,10 +124,16 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.116,
+      "source": "The Guardian",
+      "avg_sentiment": 0.019,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": -0.339,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "BBC",
@@ -174,15 +183,6 @@
       "confidence": 0.846
     },
     {
-      "headline": "AI prey: why watchdogs are telling parents to protect children from nudification apps",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaF9maFpfZVhyc3RQM3lLSzhxeUxZZzRPMWZsQXRSY01QbWpNYi1COEhsNW5ydDRENC1Wa3Q4U3ctM1BqYk52X1UxeEVySVVDRFZGLWdXbkdTWjJIeFJ2bVJRa1RkQTBiLVBaYl9vYWY5eTdlWFBzenpLSWJmZXJsalFrazl2d09MV2NNVXJTZHF6YzR3c2h3bFlhVXpQZFJ3eFdITkVnVi1IOFYwT0Y0T2xZZWRFVUk?oc=5",
-      "published": "2026-07-03T12:00:00",
-      "sentiment_score": -0.086,
-      "sentiment_label": "Neutral",
-      "confidence": 0.859
-    },
-    {
       "headline": "Argentina's plan for AI-run companies can't avoid humans",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU9ZWGtkWXpRSEJsRFVXWGYyZ1p5R1lad04yMXFWcXNTRUxld1d2NXJhTDFaQ0M5bnY0ZUdQNlhIOTZYZTZFbDAyY0dRSHFoV3hsOXlPWm53ZGNHUGM1VnpQLTJMOHVraURnZXF6R2pGNGFSZExRMVZ6T01qb2FnWEVQZTlzYTFXelhET29GeWVpYVhmcWtOeTdzWnQ0VGF2X2Zv?oc=5",
@@ -190,6 +190,15 @@
       "sentiment_score": -0.032,
       "sentiment_label": "Neutral",
       "confidence": 0.906
+    },
+    {
+      "headline": "The AI trade is losing one of its key signals",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+      "published": "2026-07-03T07:16:42Z",
+      "sentiment_score": -0.965,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
     },
     {
       "headline": "Breakingviews - AI fight exposes Silicon Valley\u2019s mimetic flaw",
@@ -201,22 +210,22 @@
       "confidence": 0.66
     },
     {
-      "headline": "Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary",
+      "headline": "Kuaishou shares fall after Tencent joins $2.8 billion raise for Kling AI subsidiary",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0RHLWdyTjUzNHhJMjZ6bEFNekZETFlnNURjOWxWRzRVVXdZeFh6U1lFVjJ2akdlem9MSjNQdVRqaGZvQ2JXRUJUemxXa1F2b1hTTVVfWkdUUHBXU1JsbkxnMGJSY0drTm5tdk5yeWZSN0JSVXY4cVNmem9WUUswbmVPbWxNRVUtWUdnQ0pZNU9DRTJSWmRtMTBRdW5kYmtET3FZ0gGoAUFVX3lxTFAwRzBqWHA3Tm5JV01QYmhuVDdZN1JSdGRZMGsxZERNYkx4WU9CZWVud05YLXZ6Y1g0X045bXJBeWk2NGxueXNTV0RkcVpnUWppWDcya3dvaE5ONDh3WUt2ZGgzZjRubnBncU9rcnVDMFphd0RQeGdlc1Q3bVJRckU2MkEtZ2E4YkhGT0ZGX2llSHcwd1VXZkQ1Vlc0V0hZUE9iLVRFWkZkZA?oc=5",
-      "published": "2026-07-03T03:28:00",
-      "sentiment_score": 0.32,
-      "sentiment_label": "Positive",
-      "confidence": 0.587
+      "link": "https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html",
+      "published": "2026-07-03T03:28:45Z",
+      "sentiment_score": -0.96,
+      "sentiment_label": "Negative",
+      "confidence": 0.968
     },
     {
-      "headline": "AI is 'not smart' so what's next in artificial intelligence?",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-      "published": "2026-07-03T01:42:40Z",
-      "sentiment_score": 0.116,
+      "headline": "Microsoft forms 6,000-person unit to help businesses adopt AI",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai",
+      "published": "2026-07-03T02:50:04Z",
+      "sentiment_score": 0.287,
       "sentiment_label": "Neutral",
-      "confidence": 0.864
+      "confidence": 0.698
     },
     {
       "headline": "CNBC Daily Open: Trump's children, stock buying spree in the spotlight",
@@ -226,6 +235,15 @@
       "sentiment_score": -0.004,
       "sentiment_label": "Neutral",
       "confidence": 0.906
+    },
+    {
+      "headline": "AI is 'not smart' so what's next in artificial intelligence?",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-07-02T23:02:15Z",
+      "sentiment_score": 0.116,
+      "sentiment_label": "Neutral",
+      "confidence": 0.864
     },
     {
       "headline": "Artificial intelligence: Yann LeCun works on more flexible AI",
@@ -273,33 +291,6 @@
       "confidence": 0.911
     },
     {
-      "headline": "Anthropic is discussing a new custom chip with Samsung | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "published": "2026-07-02T18:33:30Z",
-      "sentiment_score": 0.213,
-      "sentiment_label": "Neutral",
-      "confidence": 0.766
-    },
-    {
-      "headline": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "published": "2026-07-02T18:01:20Z",
-      "sentiment_score": 0.798,
-      "sentiment_label": "Positive",
-      "confidence": 0.804
-    },
-    {
-      "headline": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
-      "published": "2026-07-02T16:58:36Z",
-      "sentiment_score": 0.64,
-      "sentiment_label": "Positive",
-      "confidence": 0.653
-    },
-    {
       "headline": "Excellent Webworld Powers New AI Mental Healthcare Platform Bringing Digital Therapy to Scale",
       "source": "Associated Press",
       "link": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-4e924865cd3f58abf5cc55a4bd89c327",
@@ -325,15 +316,6 @@
       "sentiment_score": 0.2,
       "sentiment_label": "Neutral",
       "confidence": 0.784
-    },
-    {
-      "headline": "Meta\u2019s push into cloud computing means Wall Street has to prepare for lower margins",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
-      "published": "2026-07-02T12:00:01Z",
-      "sentiment_score": 0.763,
-      "sentiment_label": "Positive",
-      "confidence": 0.779
     },
     {
       "headline": "Google must pay \u20ac4.1bn fine for using Android to 'block' rivals",
@@ -424,6 +406,15 @@
       "sentiment_score": -0.452,
       "sentiment_label": "Neutral",
       "confidence": 0.505
+    },
+    {
+      "headline": "Here\u2019s who\u2019ll win the World Cup, according to science",
+      "source": "BBC Science Focus Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XclpfWlF0T2lHQlVzZGdyaUdqUVhpdWtDU1BrMzhEczRJU1pVUTZoN3h0T0E0T05SNXhkclRIX25GNXVoMXY0VkJwdENlUWhQbUxSM2gyZ3B6czQ2UWNaZUlwMXVxd2dyWlE?oc=5",
+      "published": "2026-06-20T07:00:00",
+      "sentiment_score": 0.028,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
     },
     {
       "headline": "Tech Life",
