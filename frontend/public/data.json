@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-07-05T13:09:20.115119",
+  "last_updated": "2026-07-05T19:03:10.893342",
   "total_articles": 31,
-  "overall_sentiment": -0.242,
+  "overall_sentiment": -0.285,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-02-11",
+      "avg_sentiment": -0.878,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.878
+    },
     {
       "date": "2026-06-01",
       "avg_sentiment": -0.016,
@@ -11,16 +20,16 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.016
+      "moving_avg": -0.447
     },
     {
       "date": "2026-06-11",
-      "avg_sentiment": 0.023,
+      "avg_sentiment": 0.202,
       "article_count": 1,
-      "positive_count": 0,
+      "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": 0.003
+      "neutral_count": 0,
+      "moving_avg": -0.231
     },
     {
       "date": "2026-06-16",
@@ -29,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.024
+      "moving_avg": -0.193
     },
     {
       "date": "2026-06-19",
@@ -38,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.202
+      "moving_avg": -0.301
     },
     {
       "date": "2026-06-20",
@@ -47,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.156
+      "moving_avg": -0.246
     },
     {
       "date": "2026-06-27",
@@ -56,7 +65,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.212
+      "moving_avg": -0.282
     },
     {
       "date": "2026-06-29",
@@ -65,7 +74,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.318
+      "moving_avg": -0.293
     },
     {
       "date": "2026-06-30",
@@ -74,7 +83,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.357
+      "moving_avg": -0.331
     },
     {
       "date": "2026-07-01",
@@ -87,30 +96,39 @@
     },
     {
       "date": "2026-07-02",
-      "avg_sentiment": -0.106,
-      "article_count": 6,
-      "positive_count": 2,
+      "avg_sentiment": -0.14,
+      "article_count": 5,
+      "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 3,
-      "moving_avg": -0.421
+      "moving_avg": -0.425
     },
     {
       "date": "2026-07-03",
-      "avg_sentiment": -0.128,
-      "article_count": 10,
-      "positive_count": 3,
+      "avg_sentiment": -0.246,
+      "article_count": 9,
+      "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 4,
-      "moving_avg": -0.334
+      "moving_avg": -0.356
     },
     {
       "date": "2026-07-04",
-      "avg_sentiment": -0.494,
+      "avg_sentiment": -0.169,
       "article_count": 3,
       "positive_count": 1,
-      "negative_count": 2,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.384
+    },
+    {
+      "date": "2026-07-05",
+      "avg_sentiment": -0.619,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.408
+      "moving_avg": -0.402
     }
   ],
   "source_stats": [
@@ -121,16 +139,10 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.392,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "TechCrunch",
-      "avg_sentiment": 0.029,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.104,
+      "article_count": 5,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
@@ -139,14 +151,20 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": 0.065,
+      "source": "The New York Times",
+      "avg_sentiment": -0.748,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
       "avg_sentiment": -0.266,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.474,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -159,13 +177,31 @@
   ],
   "articles": [
     {
-      "headline": "Birdsong data from Merlin ID app to help global biodiversity project",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVMwZWlaXzZzbjRlRDAwU2tpOE02bGhMNDdiUVFBVEdua3QyV0x3WVBrMTA2b19JLU9VelViY0dMWFctLUMzZXJGY0ZreFVfTThId0RBSFR2V1dxTml1cXN3RDJ0RUszUm1pWTM3Y1hqVnJTbWlqYzgzNzNQekVvZ0NGUUZOejdsMkxyZEdEcWRqODBlaTFvVW44dTVvQU85M05EYjJUcFJVMmdudHo1Z3hmSzJFeUozbkE?oc=5",
-      "published": "2026-07-04T11:00:00",
-      "sentiment_score": 0.097,
+      "headline": "Philosophers Are the Latest Hiring Target for AI Companies",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56cmhySzBOdm1zNE84YTRmRm5rV05xeWstdEVVYjZyZWpPN1h0RzI2RTRpaDdPNTZVeF8ybUJEVmhXRU9Vc2FKV3loLXYzTDQ5TzRwTjg2aEVOdEpLMjhiSGctTFEyWFp1OFA5OTJfYlAtYlN6aEh4MzRUNUR2aHc?oc=5",
+      "published": "2026-07-05T13:25:06",
+      "sentiment_score": -0.619,
+      "sentiment_label": "Negative",
+      "confidence": 0.647
+    },
+    {
+      "headline": "Midjourney wants Hollywood studios to reveal the details of their AI usage | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published": "2026-07-04T18:00:05Z",
+      "sentiment_score": -0.013,
       "sentiment_label": "Neutral",
-      "confidence": 0.872
+      "confidence": 0.914
+    },
+    {
+      "headline": "What is Mistral AI? Everything to know about the OpenAI competitor | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published": "2026-07-04T15:51:32Z",
+      "sentiment_score": 0.447,
+      "sentiment_label": "Neutral",
+      "confidence": 0.538
     },
     {
       "headline": "Security Roundup: Apple\u2019s Hide My Email Service Fails to Hide Your Email",
@@ -175,15 +211,6 @@
       "sentiment_score": -0.94,
       "sentiment_label": "Negative",
       "confidence": 0.948
-    },
-    {
-      "headline": "Macron and Modi turn on personal charm offensives as France and India race to secure AI investment",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-      "published": "2026-07-04T05:00:01Z",
-      "sentiment_score": -0.64,
-      "sentiment_label": "Negative",
-      "confidence": 0.666
     },
     {
       "headline": "The only AI glossary you'll need this year | TechCrunch",
@@ -249,15 +276,6 @@
       "confidence": 0.906
     },
     {
-      "headline": "Top Textile Machinery Manufacturer Accelerates Innovation and Global Manufacturing Excellence",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-b7f2f0b16ce4b6486f4a9711d9789b22",
-      "published": "2026-07-03T09:01:58Z",
-      "sentiment_score": 0.933,
-      "sentiment_label": "Positive",
-      "confidence": 0.95
-    },
-    {
       "headline": "The fanfiction community is at war with AI \u2014 and itself",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
@@ -301,15 +319,6 @@
       "sentiment_score": 0.032,
       "sentiment_label": "Neutral",
       "confidence": 0.934
-    },
-    {
-      "headline": "Watch OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1dxSGV6c2haWnBuTEROV1RGal9ITWJVRXNmNE1MYjI1S0hwWWV3OHF2eUhlUXZ2Y3V4d0lhdmpzTFZCS09Gbm1IQzFWd05XWHBqOGQ2dHJ2RndOdE03TGNxdlB0ZjBNczI5MnU5Y18wYmpSdXRiTDViaU1sZGhRS2pGZGRyRmVDXzhWZ3otVE1JZms2b2s2UFNGZG5Dc0t3QkYzUzRlU1lFSXhh?oc=5",
-      "published": "2026-07-02T18:42:24",
-      "sentiment_score": 0.064,
-      "sentiment_label": "Neutral",
-      "confidence": 0.911
     },
     {
       "headline": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
@@ -420,13 +429,13 @@
       "confidence": 0.866
     },
     {
-      "headline": "Bezos opens up about AI startup Prometheus after $12 billion raise: 'We're not being secretive'",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFlKUWJPVTFGMU5WQ1ZyUzE2QmlRN21FYmNqV21QVlhNSHJ0d25PV2lRZTlnMzdIanhBaE5tdl9tRmFLZzNvNGVoZXhyUjdGS3ZyUEtfLUczejZ2bkFSNE9RY1ZoQ1B3MEgzWkRtczdoOTRNWUZIQmRXclMyamp1Y08yOWNWdkHSAYwBQVVfeXFMUHBubUdKazZwa25mQ1lrS0NKa2pHdU9HTU9TaUEtZzJUbkNmNUFCRXQ3NUk0VnVIdl9mUjNGOVRFaUNXcDRHQkE4Y2o3Q0FlQlkwWHlwNEl3ZmQwYkdLc3lzVW5Qd0FydHBCY0xTWVllb3RCTkpEdXM5SVBUSWNfMXRZV2RLV0tiTVF5RDU?oc=5",
+      "headline": "Meet the OpenAI Engineer Leading ChatGPT\u2019s Biggest Transformation Yet",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmthVnRyUjlsaDZRdkZzSWgydEpjd3ZtTXBPTUFwUlJ0VjdoaUNUdWdRNGtyUDN5X2ZkMFdVUGVXSTQ3TGY5dVlhZmh6LVVuV2N2S3lveVlSUEluZ2psLWtKbF9ZX3huajF6dmxJeUlndWo0cy1yUkNtNzlIZ1A1REJBNUtBd043a1BteFI1SWYxVVhN?oc=5",
       "published": "2026-06-11T07:00:00",
-      "sentiment_score": 0.023,
+      "sentiment_score": 0.202,
       "sentiment_label": "Neutral",
-      "confidence": 0.925
+      "confidence": 0.77
     },
     {
       "headline": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
@@ -436,6 +445,15 @@
       "sentiment_score": -0.016,
       "sentiment_label": "Neutral",
       "confidence": 0.872
+    },
+    {
+      "headline": "Opinion | OpenAI Is Making the Mistakes Facebook Made. I Quit.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQnY3cEhkMGhGbmtUQVVGb1lQSXN5RldlOGdBQm00aVA4dnB5QnNvVXV4TWF1UEwySENoUlNhNm9xUEpldEE1ZTZsNkl3dGRHaW1ZMU1ja2EwM1NaSGd5a0Utbll2RS16cDVoenJmTWIxSnhW?oc=5",
+      "published": "2026-02-11T08:00:00",
+      "sentiment_score": -0.878,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     }
   ]
 }
