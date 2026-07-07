@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-07T09:25:13.531634",
-  "total_articles": 23,
-  "overall_sentiment": -0.318,
+  "last_updated": "2026-07-07T14:08:32.576641",
+  "total_articles": 26,
+  "overall_sentiment": -0.271,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -87,48 +87,39 @@
     },
     {
       "date": "2026-07-03",
-      "avg_sentiment": -0.393,
-      "article_count": 2,
+      "avg_sentiment": -0.833,
+      "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.447
+      "neutral_count": 0,
+      "moving_avg": -0.51
     },
     {
-      "date": "2026-07-04",
-      "avg_sentiment": -0.013,
+      "date": "2026-07-05",
+      "avg_sentiment": 0.017,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.438
-    },
-    {
-      "date": "2026-07-05",
-      "avg_sentiment": 0.101,
-      "article_count": 2,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.318
+      "moving_avg": -0.496
     },
     {
       "date": "2026-07-06",
-      "avg_sentiment": -0.455,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.247
+      "avg_sentiment": 0.008,
+      "article_count": 7,
+      "positive_count": 3,
+      "negative_count": 1,
+      "neutral_count": 3,
+      "moving_avg": -0.39
     },
     {
       "date": "2026-07-07",
-      "avg_sentiment": -0.249,
-      "article_count": 2,
+      "avg_sentiment": -0.376,
+      "article_count": 5,
       "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.242
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.307
     }
   ],
   "source_stats": [
@@ -139,16 +130,16 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.879,
+      "source": "CNBC",
+      "avg_sentiment": -0.322,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.017,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
+      "source": "Reuters",
+      "avg_sentiment": -0.802,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "BBC",
@@ -161,35 +152,59 @@
       "avg_sentiment": -0.437,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.436,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
+      "headline": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3SjEwUWFEZ19JeVhLZlFRVGVWLWdQQV9QZk5vTEVZV1N4cmw0emNzNk10cnNlbkxoek5BOWh3MnFVWjh1azJwM3dIRFJsQ2hfcjl6RHZVd0d5YTNYR0pib3hhYnliUXBiT3A4aVFn0gFzQVVfeXFMTmJOOF9LTUtTWFNTZEZ1c1I4VFZoc2pkMXFGM0E5cGpyTExmbDY2YTVwVkQ3WjZWNGVxcmNNMzRmbXZvdmlPSWZkYlRwQ2FGTGpjeWpyTzFRZUpmNFNITm1XMEZPa1pWWTAwUksyX2diZk15OA?oc=5",
+      "published": "2026-07-07T13:37:45",
+      "sentiment_score": 0.01,
+      "sentiment_label": "Neutral",
+      "confidence": 0.935
+    },
+    {
+      "headline": "Most nurses say AI isn\u2019t good enough to trust with patient care: survey",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0RSVlRROEREYVBKN0RfOXB2V0JqRXV6OWZ0cnIwaGo4TXNHSWdwUzV5SDlnelZIVmRrWVIwUTU5UkEyQ2FQUk1mZTYtU3JJb1JEalJJQ1pSMmNpSjVPdldLLUZJcVQzY0NfbHVnRmhfcVBDNnVmTXRZX3JJTkxxS0lmU2lheTh1NldwRVd2SHRPbGFncGFBaVV2Z1VEVF85ZzZjaEhHcGRTczQxVzhHN29FMHJKbTlES2thWQ?oc=5",
+      "published": "2026-07-07T13:26:41",
+      "sentiment_score": -0.524,
+      "sentiment_label": "Negative",
+      "confidence": 0.558
+    },
+    {
       "headline": "Stymied datacentre projects threaten global AI revolution",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzVFeW9kTVRJQ3FyUmExcTNSbkJMejRqQUlRbGZ2NjVOVUM0eENtWXhIMXltR00taTQ0VGNNQXo1czBtblhFbnFWbUN4WFFydE1hWk94dlpXR3V3ajFmX2JtbUxYclpiYXJKTXc1UDF0eVVjZDVzczVGQ2N3NzY0eWFwY0oyU2ZhcktkRXY5VDA3cUdjdFhWMmRtVGRHSzhxdThHYXFfZEtPNE1t?oc=5",
-      "published": "2026-07-07T09:01:00",
+      "published": "2026-07-07T12:57:00",
       "sentiment_score": -0.746,
       "sentiment_label": "Negative",
       "confidence": 0.764
     },
     {
+      "headline": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5",
+      "published": "2026-07-07T12:09:22",
+      "sentiment_score": -0.869,
+      "sentiment_label": "Negative",
+      "confidence": 0.881
+    },
+    {
       "headline": "Samsung profits jump 1,800% as AI chip sales soar",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RSlZNMzN0UWtYc1BKa0lLeVB2M01ENGJTOUtaMDBDSEc4b1YzYnJQN1lwTzNCNFdqMEp6cVgzSklad2x1bVZTT1E2TmI3SFhydXBQLWJVVUNUdw?oc=5",
-      "published": "2026-07-07T03:24:14",
+      "published": "2026-07-07T07:28:10",
       "sentiment_score": 0.247,
       "sentiment_label": "Positive",
       "confidence": 0.465
-    },
-    {
-      "headline": "Companies cutting jobs as investments shift toward AI",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXJBRjJvS3ZTelBiejB5LThOTTVKblgzUzBxY2pPYkd6Q2dETWdQYXdKcXV0WjNYTkhaM3o1MXJXSXRlVjhKY0RUMXJvQllVMlhmYmRFTmFWcHRVSU1LSUdORHBZbVpPVlR1QXF4MzlWNFdnUm5YajlKZ3QxN0JGQlVZck1wLW5hMy12NFpFdVJ4RFlQOTE3UFFKTXUtNnRQWks2WjVVU21WTFA1T1E?oc=5",
-      "published": "2026-07-06T23:58:12",
-      "sentiment_score": -0.948,
-      "sentiment_label": "Negative",
-      "confidence": 0.956
     },
     {
       "headline": "Robots available for rent: But what can they do?",
@@ -210,13 +225,49 @@
       "confidence": 0.908
     },
     {
-      "headline": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2ZRa1Y5RXpRdWtNOGYwQlh1UlowNWdQYlJ0dEllUHZTMENCUnVJM2RXWGZiYXJ3S3VVWVQyd09tREJXNEdqUXVQYUZGQkliSXl1LUxhbWRPVVZDSkxkQUVGUUNRNlc2eFplOUxWMUU2S0ZyaVpTM1hHVUo4bWFDV1RHQkdZRGFOTjA4ckhyYWhvMW5oREstS2VpWndDRllveEdqYXE5Qm43ZWhjR2V1anRIUHg?oc=5",
-      "published": "2026-07-06T11:18:28",
-      "sentiment_score": -0.953,
+      "headline": "Inside the big business of the creator economy, with the agents making it happen",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
+      "published": "2026-07-06T13:50:22Z",
+      "sentiment_score": 0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.934
+    },
+    {
+      "headline": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+      "published": "2026-07-06T13:30:01Z",
+      "sentiment_score": -0.966,
       "sentiment_label": "Negative",
-      "confidence": 0.961
+      "confidence": 0.973
+    },
+    {
+      "headline": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "published": "2026-07-06T13:00:00Z",
+      "sentiment_score": 0.856,
+      "sentiment_label": "Positive",
+      "confidence": 0.863
+    },
+    {
+      "headline": "Quantum Cyber Addresses Short Seller Biased Report",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/globenewswire-mobile/press-release-d137a26da8e76b23f96996f91884cc3f",
+      "published": "2026-07-06T12:51:28Z",
+      "sentiment_score": 0.074,
+      "sentiment_label": "Neutral",
+      "confidence": 0.903
+    },
+    {
+      "headline": "Trump exclusive, prediction market activity soars, AI Alexander Hamilton and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/06/5-things-to-know-before-the-stock-market-opens.html",
+      "published": "2026-07-06T12:04:11Z",
+      "sentiment_score": -0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
     },
     {
       "headline": "Almost 90 new unicorns have been minted so far this year \u2014 here they are | TechCrunch",
@@ -226,33 +277,6 @@
       "sentiment_score": 0.017,
       "sentiment_label": "Neutral",
       "confidence": 0.939
-    },
-    {
-      "headline": "There\u2019s a Global Network of Fungi Under Your Feet. This Is the First Complete Map",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/",
-      "published": "2026-07-05T09:30:00Z",
-      "sentiment_score": 0.185,
-      "sentiment_label": "Neutral",
-      "confidence": 0.795
-    },
-    {
-      "headline": "Midjourney wants Hollywood studios to reveal the details of their AI usage | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "published": "2026-07-04T18:00:05Z",
-      "sentiment_score": -0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.914
-    },
-    {
-      "headline": "The only AI glossary you'll need this year | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published": "2026-07-03T21:21:01Z",
-      "sentiment_score": 0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
     },
     {
       "headline": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
