@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-13T14:06:48.102491",
+  "last_updated": "2026-07-13T19:13:22.962416",
   "total_articles": 32,
-  "overall_sentiment": -0.292,
+  "overall_sentiment": -0.316,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,12 +51,12 @@
     },
     {
       "date": "2026-07-09",
-      "avg_sentiment": -0.33,
-      "article_count": 5,
+      "avg_sentiment": -0.357,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 4,
+      "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.217
+      "moving_avg": -0.222
     },
     {
       "date": "2026-07-10",
@@ -65,34 +65,34 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.27
+      "moving_avg": -0.274
     },
     {
       "date": "2026-07-11",
-      "avg_sentiment": -0.445,
+      "avg_sentiment": -0.453,
       "article_count": 6,
       "positive_count": 1,
       "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.322
+      "moving_avg": -0.327
     },
     {
       "date": "2026-07-12",
-      "avg_sentiment": -0.314,
+      "avg_sentiment": -0.185,
       "article_count": 4,
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.248
+      "moving_avg": -0.234
     },
     {
       "date": "2026-07-13",
-      "avg_sentiment": -0.116,
-      "article_count": 9,
-      "positive_count": 3,
-      "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.275
+      "avg_sentiment": -0.248,
+      "article_count": 10,
+      "positive_count": 1,
+      "negative_count": 5,
+      "neutral_count": 4,
+      "moving_avg": -0.281
     }
   ],
   "source_stats": [
@@ -104,14 +104,14 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.352,
-      "article_count": 5,
+      "avg_sentiment": -0.369,
+      "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.266,
-      "article_count": 5,
+      "avg_sentiment": 0.316,
+      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
@@ -121,9 +121,15 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.051,
-      "article_count": 3,
+      "source": "The Washington Post",
+      "avg_sentiment": -0.361,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.307,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -131,17 +137,59 @@
       "avg_sentiment": -0.124,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.034,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
-      "headline": "Who\u2019s to blame when AI commits a crime?",
+      "headline": "Nobel economists, tech leaders warn how AI could threaten jobs",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlVGVF9nYnhzWkgxZ01GRlJZbENRYXQzNzU4ZlNiV01LNzFmUTlOWUdfTjIxbk9DMjRtLW56SWtxb0xENHE2NmloZ0JkM1VpLXNidVhBWEd0RG5INWJiNjFMNXRMRmszNUNXdFhkc1pudjVCS2toVXVUdGUtc3E5MFQ3WFl6U2o5VVJVV0U4NDFxaGprclNibGx1RTEweVlIUXAyLWUxMk1BSTczRHBNZ2o5S09DUQ?oc=5",
+      "published": "2026-07-13T18:02:06",
+      "sentiment_score": -0.751,
+      "sentiment_label": "Negative",
+      "confidence": 0.772
+    },
+    {
+      "headline": "Landmark AI Measure in Illinois Portends Impact Beyond Big Tech",
+      "source": "Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjNKNTE5S0RMVnl2WlJlMjJDSXN4QjRVRy1BeUo1bGZxRXNvcnZwb05nR0pIQlJRdEhSQm94aE5ITVpzVDRRdzNoUnY4Z2JVVzZOQmFVcVAxQ3VDdktyazdyVkM2UnRnS2FKUEdzbEFkcWQyYi0xOVRtUHU3RjRpUURiM0J1RGZqLUtaeWpVV2JaRTZjdDh6VFloUlNPY1ZXYkF4VjZwNjJRa2c0MHA3YkdtOE50TC1v?oc=5",
+      "published": "2026-07-13T17:35:00",
+      "sentiment_score": -0.681,
+      "sentiment_label": "Negative",
+      "confidence": 0.711
+    },
+    {
+      "headline": "Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkhnZjF5Ql9BYkFaQkNPQ2VuOG1TeV9xZlRVWnV5eGtCQ1NVUl9zUmkwLTJUSFdYVkVsaDRfaXQyaTE4VGs0YmN4cUlFV05fTnFtd3JJUWpRM25yS2pWeTVwaHVzRmxQMVRncGRYbzRHSWxOZVVIOUtxbUYzVnB1V183bGZJdw?oc=5",
+      "published": "2026-07-13T17:26:22",
+      "sentiment_score": 0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
+    },
+    {
+      "headline": "One of sci-fi\u2019s most difficult questions about AI is becoming real",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclloQ3paU3BDSS01bUVxOGt3dmx5dVJXSUVjNjN1aFZ0UXZoMVpjMnRzNkNWeHVPWE92b2s3dGxkZy1mXzlhaFYtYTl1b1I4NHk4UHhId1Rla2p5V3J6OXB0b0dheTBCWlV4a09QQ0poVlVldzhYeW5CSVF2bmhCcEZ4QTY4UEtkZjVUcWs5VEFYTVk5NVFoUnBmM05iTVFoSUJ1RzllU3pWa3VTVm9ONG8tSW5Nd2c?oc=5",
-      "published": "2026-07-13T13:32:13",
-      "sentiment_score": -0.295,
+      "published": "2026-07-13T16:00:00",
+      "sentiment_score": 0.028,
       "sentiment_label": "Neutral",
-      "confidence": 0.664
+      "confidence": 0.903
+    },
+    {
+      "headline": "Nobel laureates among more than 200 experts urging action on AI's economic impact",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUt1OTNadWljZVE1WXI3UzhWbC15R3h2eVpFWXFkY2wzeTcyWGNsaFZnYjc5TFhzTE1wX1RRQmdSRGJ5VkFRRzUxZUJ0N0tYdXBkZk1IdGlETTRfaDVXbUs2aTAtcjI3TU9UOFZKU1A3SEs0R25wWWNYTlFyZDZ2ejRGUkJiMjdYaFdOTE9zbmF5QTRxTTFzSmxGWHZqOUhYS1RfNFNGVFdYN00?oc=5",
+      "published": "2026-07-13T12:25:55",
+      "sentiment_score": 0.149,
+      "sentiment_label": "Neutral",
+      "confidence": 0.794
     },
     {
       "headline": "AI is changing older workers' careers, research finds \u2014 here's how",
@@ -153,24 +201,6 @@
       "confidence": 0.89
     },
     {
-      "headline": "White House to rally utilities, data centers for AI power cost pledge, sources say",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW9VcURIMWNFdXRxakJ3c3ZHcnJucDRjY0NZU3k2b2tJM1V4SnNYT0ZlVWZwQ3E0LUFIaXlJWnk2aDU1OTFIVkQzRVgxWmJDZXUtS09wZkFuUmhfbGVWOHNEbDA2azVBQXA3ZlZpR2Z5RHQyd1N5aC1GbWE2cUprZS16QzNrdFBRdHdvQlRJWDNRLWpKQkY5ZjBVWElWbVlmMmxFbUF5R3pDc1ZMc3FlTExHZw?oc=5",
-      "published": "2026-07-13T11:21:14",
-      "sentiment_score": 0.309,
-      "sentiment_label": "Neutral",
-      "confidence": 0.526
-    },
-    {
-      "headline": "Over 200 experts call for urgent action to tackle AI's economic impact",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUt1OTNadWljZVE1WXI3UzhWbC15R3h2eVpFWXFkY2wzeTcyWGNsaFZnYjc5TFhzTE1wX1RRQmdSRGJ5VkFRRzUxZUJ0N0tYdXBkZk1IdGlETTRfaDVXbUs2aTAtcjI3TU9UOFZKU1A3SEs0R25wWWNYTlFyZDZ2ejRGUkJiMjdYaFdOTE9zbmF5QTRxTTFzSmxGWHZqOUhYS1RfNFNGVFdYN00?oc=5",
-      "published": "2026-07-13T11:07:43",
-      "sentiment_score": 0.071,
-      "sentiment_label": "Neutral",
-      "confidence": 0.834
-    },
-    {
       "headline": "ChatGPT\u2019s Upgraded Voice Mode Captures the Imperfections of Real Conversations",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWs2V25sSnBjZk4tQXpxeWVyUE5tY2JOeFRScWpLSHFNYkJxTzBYZ1hYd3FsT3dsWElmQjNHZy1hNndZdTRQak9NX1Y0TFpIeS12WVU2QlJaR25sbzZyN0ZVS2ExWDhqTl9vWUdsT29SRVplb25vc21MR2lXNVR4cG1ocnNmdC1hSUhsb3RtXzNFd1AwS2dfaHRSMXlOZ0FPN3RScXlnMjNJYnJDclFNRERqWnFHVFJWcXZoeHln?oc=5",
@@ -180,13 +210,13 @@
       "confidence": 0.745
     },
     {
-      "headline": "Economists Warn of A.I. Threat",
+      "headline": "Nearly 200 Economists and Tech Leaders Warn of A.I. Threats",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PWHFybHBYa2pBTGg3WjE3T3Z3RHd0dzZGZ2FoRzFwd055cl9lalpsUUd2VHJrSDA1UjBWdHpGMmxoeFAxZTZwN2I1OV9GcGhUVGFCNm04cTRQeG1WYzFRWUEwNVNjSU1aQzh3OVpORUptVUoxUjZfUHFrTHRGUDA?oc=5",
-      "published": "2026-07-13T11:00:05",
-      "sentiment_score": -0.664,
+      "published": "2026-07-13T11:00:06",
+      "sentiment_score": -0.619,
       "sentiment_label": "Negative",
-      "confidence": 0.719
+      "confidence": 0.661
     },
     {
       "headline": "Is the most popular song played on Australian radio stations the product of generative AI?",
@@ -198,15 +228,6 @@
       "confidence": 0.91
     },
     {
-      "headline": "Breakingviews - AI giants revive the golden era of invention",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTZtSGgtWndyNG9ONnRjYWY1eHh5ZXpfT3p2Ujk3RGprcm5jZ1Axd0pvQkNyWVR3dHJiNDF2cHRCd3JRYUJMSXN0WUlHSTZ1RFRJU2t1ZUpvSzE2VlBVREk0UXBFbmI5eW9CUi1sVlZ3WUxvMHZjVFBaYXJPbTBlbkVqUUtDYTZ4VlpLVUdLMWlqdnNPd3lkd25ac190R0k?oc=5",
-      "published": "2026-07-13T05:00:00",
-      "sentiment_score": 0.149,
-      "sentiment_label": "Neutral",
-      "confidence": 0.818
-    },
-    {
       "headline": "Christopher Nolan says people \u2018disdain\u2019 AI and the idea it will replace humans is \u2018nonsense\u2019",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTll5RGR0Z3YzblNRUkFyVWZ1YUx3SUN1cGxqSXBaV0FZcmpMdmhkYl9tRnJHdEpIWnNpMzlHLUNycTJDSnRFMXZCVFFHcHp3M2kzN0gybEhWcEZONVJ1TVh2SlZHYVFKelliVU0yY29WcDhoaW5KR1A3VDhKMzJubXpqOWhCdy1tMGdLM3dnTGtncmZJdTR6ekRTUXhEMnBnbjNIMC1aYUJzeTNkcFU0RVRrWUMwQQ?oc=5",
@@ -214,6 +235,15 @@
       "sentiment_score": -0.44,
       "sentiment_label": "Neutral",
       "confidence": 0.501
+    },
+    {
+      "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "published": "2026-07-12T15:32:34Z",
+      "sentiment_score": -0.452,
+      "sentiment_label": "Negative",
+      "confidence": 0.506
     },
     {
       "headline": "Top Wall Street analysts are confident about these 3 stocks for the long haul",
@@ -232,15 +262,6 @@
       "sentiment_score": 0.297,
       "sentiment_label": "Neutral",
       "confidence": 0.678
-    },
-    {
-      "headline": "HDFC Bank workforce drops by over 3,300 as operations automated",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-12/hdfc-bank-workforce-drops-by-over-3-300-as-operations-automated",
-      "published": "2026-07-12T07:19:52Z",
-      "sentiment_score": -0.968,
-      "sentiment_label": "Negative",
-      "confidence": 0.975
     },
     {
       "headline": "\u2018Almost unlimited\u2019: Execs says AI demand remains strong even as enterprises move to \u2018valuemaxxing\u2019",
@@ -292,9 +313,9 @@
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2RSRWV0QjJvdUJ5WGR3LVZ4T01uU2tCZDh1V2kzM3p1WnlwbVdLdFE5ZENFMldsZVpvNk9YQTc5Qk5TdlRnb0tGeENUOGM0SjVUOTRtZEpnMHFVcmhLbHhTMnJOWGJfem1rSURRNFpQbFQwYlE5WHFrbjJRVE13YXRPZkVydVNsTGd3WjRiZklZVlJ1ZDRHWDZsNS1NcHl4NGc?oc=5",
       "published": "2026-07-11T00:22:00",
-      "sentiment_score": -0.733,
+      "sentiment_score": -0.776,
       "sentiment_label": "Negative",
-      "confidence": 0.75
+      "confidence": 0.794
     },
     {
       "headline": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
@@ -340,15 +361,6 @@
       "sentiment_score": 0.144,
       "sentiment_label": "Neutral",
       "confidence": 0.802
-    },
-    {
-      "headline": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGQ2djVLNDh1enQwZm41WEZqNkktSE0weHRxNW1fZnBIQ2lCUElFVldQQ0prMmM2M05Td2Z4LV8yYlBpZ0w1M2F4WlJjYXhjcV96RGFFMk00eEV0LVRzaE01dFdEbnZoLWZ6Ui1PeXlKeXFrTmV1VzFjZWpsVVBQLURySUlXa0dpRWVncENORVBSODFlUjFOM3hURVBpOG9pTUowcmwwUnlPQWhLMXF3NA?oc=5",
-      "published": "2026-07-09T22:03:54",
-      "sentiment_score": -0.221,
-      "sentiment_label": "Neutral",
-      "confidence": 0.73
     },
     {
       "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
