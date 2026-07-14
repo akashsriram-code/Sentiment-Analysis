@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-14T01:28:47.569423",
-  "total_articles": 30,
-  "overall_sentiment": -0.231,
+  "last_updated": "2026-07-14T07:48:05.585720",
+  "total_articles": 33,
+  "overall_sentiment": -0.192,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,12 +60,12 @@
     },
     {
       "date": "2026-07-11",
-      "avg_sentiment": -0.445,
-      "article_count": 6,
+      "avg_sentiment": -0.426,
+      "article_count": 5,
       "positive_count": 1,
-      "negative_count": 4,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.218
+      "moving_avg": -0.215
     },
     {
       "date": "2026-07-12",
@@ -74,29 +74,44 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.206
+      "moving_avg": -0.203
     },
     {
       "date": "2026-07-13",
-      "avg_sentiment": -0.107,
-      "article_count": 9,
-      "positive_count": 2,
-      "negative_count": 4,
+      "avg_sentiment": -0.076,
+      "article_count": 12,
+      "positive_count": 4,
+      "negative_count": 5,
       "neutral_count": 3,
-      "moving_avg": -0.232
+      "moving_avg": -0.225
+    },
+    {
+      "date": "2026-07-14",
+      "avg_sentiment": 0.014,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.316
     }
   ],
   "source_stats": [
     {
-      "source": "BBC News",
-      "avg_sentiment": -0.516,
-      "article_count": 8,
+      "source": "CNBC",
+      "avg_sentiment": -0.069,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.082,
-      "article_count": 7,
+      "source": "BBC News",
+      "avg_sentiment": -0.448,
+      "article_count": 9,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.2,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -112,18 +127,6 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.307,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.124,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "TechCrunch",
       "avg_sentiment": 0.034,
       "article_count": 2,
@@ -131,6 +134,15 @@
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI Is Showing Kalshi\u2019s World Cup Odds in ChatGPT",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHNEVm9GSWo0VjdPbHY5bmw5VTE4b1NyN1ZRT01aSkc3dkJGOG42VjltRTFZSWdrLUxuU1E2bXV6NUI2YmpRdXJlMjFZR3ZxaTR4VGdscEdVVy1QcXBBZ1B6VFpKMVc1Xy1MMjg2Y0dMNDZzcC1LTjk3Q18ybE56MDFVMkg1Rmo5LV8teVg0a3U?oc=5",
+      "published": "2026-07-14T03:34:35",
+      "sentiment_score": 0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
     {
       "headline": "Nobel economists, tech leaders warn how AI could threaten jobs",
       "source": "The Washington Post",
@@ -144,7 +156,7 @@
       "headline": "Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkhnZjF5Ql9BYkFaQkNPQ2VuOG1TeV9xZlRVWnV5eGtCQ1NVUl9zUmkwLTJUSFdYVkVsaDRfaXQyaTE4VGs0YmN4cUlFV05fTnFtd3JJUWpRM25yS2pWeTVwaHVzRmxQMVRncGRYbzRHSWxOZVVIOUtxbUYzVnB1V183bGZJdw?oc=5",
-      "published": "2026-07-13T18:18:01",
+      "published": "2026-07-13T17:26:22",
       "sentiment_score": 0.004,
       "sentiment_label": "Neutral",
       "confidence": 0.927
@@ -204,6 +216,24 @@
       "confidence": 0.91
     },
     {
+      "headline": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+      "published": "2026-07-13T05:49:07Z",
+      "sentiment_score": 0.92,
+      "sentiment_label": "Positive",
+      "confidence": 0.945
+    },
+    {
+      "headline": "The SpaceX IPO made history. Is the excitement still there?",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o",
+      "published": "2026-07-13T05:01:54Z",
+      "sentiment_score": 0.098,
+      "sentiment_label": "Neutral",
+      "confidence": 0.842
+    },
+    {
       "headline": "Christopher Nolan says people \u2018disdain\u2019 AI and the idea it will replace humans is \u2018nonsense\u2019",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTll5RGR0Z3YzblNRUkFyVWZ1YUx3SUN1cGxqSXBaV0FZcmpMdmhkYl9tRnJHdEpIWnNpMzlHLUNycTJDSnRFMXZCVFFHcHp3M2kzN0gybEhWcEZONVJ1TVh2SlZHYVFKelliVU0yY29WcDhoaW5KR1A3VDhKMzJubXpqOWhCdy1tMGdLM3dnTGtncmZJdTR6ekRTUXhEMnBnbjNIMC1aYUJzeTNkcFU0RVRrWUMwQQ?oc=5",
@@ -211,6 +241,15 @@
       "sentiment_score": -0.44,
       "sentiment_label": "Neutral",
       "confidence": 0.501
+    },
+    {
+      "headline": "SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+      "published": "2026-07-13T02:18:37Z",
+      "sentiment_score": -0.965,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
     },
     {
       "headline": "Khosla family to purchase Seattle Seahawks for $9.612 billion: AP",
@@ -265,15 +304,6 @@
       "sentiment_score": -0.966,
       "sentiment_label": "Negative",
       "confidence": 0.974
-    },
-    {
-      "headline": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
-      "published": "2026-07-11T10:30:00Z",
-      "sentiment_score": -0.545,
-      "sentiment_label": "Negative",
-      "confidence": 0.573
     },
     {
       "headline": "Meta pulls new AI image feature after days of backlash",
