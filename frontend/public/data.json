@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16T13:22:18.586174",
-  "total_articles": 38,
-  "overall_sentiment": -0.083,
+  "last_updated": "2026-07-16T18:57:58.386728",
+  "total_articles": 42,
+  "overall_sentiment": -0.218,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,77 +33,137 @@
     },
     {
       "date": "2026-07-14",
-      "avg_sentiment": 0.081,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "moving_avg": -0.355
+      "avg_sentiment": -0.139,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.41
     },
     {
       "date": "2026-07-15",
-      "avg_sentiment": 0.118,
+      "avg_sentiment": -0.083,
       "article_count": 17,
-      "positive_count": 10,
-      "negative_count": 4,
+      "positive_count": 9,
+      "negative_count": 5,
       "neutral_count": 3,
-      "moving_avg": -0.26
+      "moving_avg": -0.344
     },
     {
       "date": "2026-07-16",
-      "avg_sentiment": -0.291,
-      "article_count": 8,
-      "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.265
+      "avg_sentiment": -0.277,
+      "article_count": 14,
+      "positive_count": 3,
+      "negative_count": 7,
+      "neutral_count": 4,
+      "moving_avg": -0.333
     }
   ],
   "source_stats": [
     {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.015,
+      "article_count": 9,
+      "sentiment_label": "Neutral"
+    },
+    {
       "source": "BBC News",
-      "avg_sentiment": -0.712,
-      "article_count": 7,
+      "avg_sentiment": -0.743,
+      "article_count": 8,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.181,
-      "article_count": 7,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "CNBC",
-      "avg_sentiment": 0.127,
-      "article_count": 7,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.24,
+      "article_count": 5,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.086,
+      "avg_sentiment": -0.234,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Bloomberg.com",
-      "avg_sentiment": 0.056,
+      "source": "Reuters",
+      "avg_sentiment": 0.061,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.034,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": 0.136,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.097,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.139,
+      "source": "Bloomberg.com",
+      "avg_sentiment": 0.056,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "ChatGPT will show teens more frequent break reminders.",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeENyZFVFRlFwVTN5T2EyZ3hfd3lOSzNsT3Q3YjUyTk5yZ3ptT2l3aU51VTJiSWt3QUt1M0pYQ1p5XzRTQ3RXUW04czNIMXdkaXE5dWl5UEZaUno0amFsdkRrelZkUkVKMy1xVTF4UGhBSkhxaUpvVjE2N190NDlqU1VVbHlLS1RrNHpWS3hHbG1lcHlLeklsUnBobDROMGlSMGd2eHJiUnFMemZuQUdGakFR?oc=5",
+      "published": "2026-07-16T17:29:25",
+      "sentiment_score": -0.041,
+      "sentiment_label": "Neutral",
+      "confidence": 0.833
+    },
+    {
+      "headline": "MLB cracks down on using AI via dugout iPads to help shape in-game decisions",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlIxeG15ZnRPbWE3enRTbFZuRUxmbkFmZlUwdE9aZzlTU3RhVTBhSHhidFp1dlNXZEZoOTVNbFh5bmdldDBtcWw2aW9GY0pmOHRENWZoT3JjM0R1bVRfVkNOWjdjQW90VHFzNVdjekQ5UFk0VHpzUU5QcVFmd0RMdzVfZw?oc=5",
+      "published": "2026-07-16T17:27:54",
+      "sentiment_score": -0.419,
+      "sentiment_label": "Neutral",
+      "confidence": 0.518
+    },
+    {
+      "headline": "Musk\u2019s xAI sues user who allegedly used Grok to create child sexual abuse material",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGFrSTl2NmFzX1FpbEJxUEFUTzVJT0dtcTlqWExNOTNyOXhKbXIzZlZ4N2JoZ0lYVkMtcF9QVWxRTFJpMGVQeHBYcEdlSDh6elNrRWtXX3pUVHBXTzBoemVlcDVQQjFLN01jNEFtUlc4WVRkaUNMRzdrOGozVmZnTHRnX1d1NFNENHJ3?oc=5",
+      "published": "2026-07-16T15:53:00",
+      "sentiment_score": -0.668,
+      "sentiment_label": "Negative",
+      "confidence": 0.691
+    },
+    {
+      "headline": "Why is OpenAI selling a ChatGPT basketball?",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1VMYU1kczRhQVg2QWRGa29jOTFfNmdDX2lycFdXb0pna2ZpOTBNbGZTVTZYN1lGbHFZRTNjcmdGQjNremlHODJEM09TUjV0S2F3NlpGalJma2RaR2k4WkRXUEk1VXJXX29Iajl0Z2NTVEVqelR4WHZQaElwaXlHaWdoWQ?oc=5",
+      "published": "2026-07-16T15:31:09",
+      "sentiment_score": -0.023,
+      "sentiment_label": "Neutral",
+      "confidence": 0.924
+    },
+    {
+      "headline": "Twenty-nine countries sign agreement to establish global AI cooperation body",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+      "published": "2026-07-16T15:23:43",
+      "sentiment_score": 0.36,
+      "sentiment_label": "Neutral",
+      "confidence": 0.613
+    },
+    {
+      "headline": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjMtZE83T2lKYTFCczBkVmY2bXlCbS0zcFo0OUxiMFpnMHpzLXRGRFdEOHA5bGFKVVRHUmVJaVVqSktNX1BIcW03aXh5UmlQVWdtLXBwNDVYd2FGWTZnak1qMGJWSm9FMlkyWUV6VmdNN3h6NFZzQzc4TEtKTmplRmlFRVMySFItOERRZVQxTk9HWlA2Yi0xZU90WFVFWVJ1bDBPcFM2RGpXNS03TnprTlN1cFEyT09haE5vWQ?oc=5",
+      "published": "2026-07-16T14:10:00",
+      "sentiment_score": -0.735,
+      "sentiment_label": "Negative",
+      "confidence": 0.75
+    },
     {
       "headline": "Global 'FOMO' keeps fueling Wall Street\u2019s AI exceptionalism",
       "source": "Reuters",
@@ -114,24 +174,6 @@
       "confidence": 0.53
     },
     {
-      "headline": "The Quest for \u2018Technological Sovereignty\u2019 in Europe (and Why It\u2019s So Hard)",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5",
-      "published": "2026-07-16T12:10:18",
-      "sentiment_score": 0.051,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
-    },
-    {
-      "headline": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFQzY3VRNF9yU01qMmh1bkkzeVM3VTRRekg1QXRTczNOZXk3NDIwUU9KRnRYTDVjSk9zUlo0c1NXcnU3SlhYNWVVSW1tTmRRd2YwaGNtczExejZtbGlPY0JFNG1QMExSR0Z3MjBrS2xRNDhHR0xEaTFzOXFNZERFUG53Q1hyMVF0MFppZkotdnFCMEFfOVNyd0FnRXhuRXFSWU5RaXp2VXpkdW9UbzF6ZFlHZHNWcVR6bFE?oc=5",
-      "published": "2026-07-16T12:08:15",
-      "sentiment_score": 0.173,
-      "sentiment_label": "Neutral",
-      "confidence": 0.8
-    },
-    {
       "headline": "Teen hackers who live streamed cyber-attack on TfL jailed",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
@@ -139,15 +181,6 @@
       "sentiment_score": -0.901,
       "sentiment_label": "Negative",
       "confidence": 0.917
-    },
-    {
-      "headline": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjMtZE83T2lKYTFCczBkVmY2bXlCbS0zcFo0OUxiMFpnMHpzLXRGRFdEOHA5bGFKVVRHUmVJaVVqSktNX1BIcW03aXh5UmlQVWdtLXBwNDVYd2FGWTZnak1qMGJWSm9FMlkyWUV6VmdNN3h6NFZzQzc4TEtKTmplRmlFRVMySFItOERRZVQxTk9HWlA2Yi0xZU90WFVFWVJ1bDBPcFM2RGpXNS03TnprTlN1cFEyT09haE5vWQ?oc=5",
-      "published": "2026-07-16T10:36:00",
-      "sentiment_score": -0.735,
-      "sentiment_label": "Negative",
-      "confidence": 0.75
     },
     {
       "headline": "Please Stop Making Me Opt Out of AI",
@@ -177,6 +210,33 @@
       "confidence": 0.611
     },
     {
+      "headline": "The Quest for \u2018Technological Sovereignty\u2019 in Europe (and Why It\u2019s So Hard)",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5",
+      "published": "2026-07-16T04:01:09",
+      "sentiment_score": 0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.896
+    },
+    {
+      "headline": "China's Xi to outline AI diplomacy vision at key Shanghai forum",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1VkX0Npc2Jpc0tjRFVLQ0FlWFhZMlRrYzBWWTl2bFlzc0d3VXV6ZEVmNDY2TWRMQ2ZmVlJEeFp2WXVkY0dVYUJlWXJ5RTJhb2FlUDBESUFhZmNZbnExclllMWZUSGJDNmNwTGY1NzNEZTZBbm9YemJzU3RCUzI3eXRtcFNPSW1yUWwzVC1mVmtVVk5JenlpeURPYk45R3VUR3dQV2dqOA?oc=5",
+      "published": "2026-07-16T03:42:00",
+      "sentiment_score": 0.08,
+      "sentiment_label": "Neutral",
+      "confidence": 0.89
+    },
+    {
+      "headline": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5",
+      "published": "2026-07-16T01:03:00",
+      "sentiment_score": -0.657,
+      "sentiment_label": "Negative",
+      "confidence": 0.676
+    },
+    {
       "headline": "Training the Next Generation of AI/ML Researchers: Bloomberg & Columbia University Co-Host Machine Learning Summer School in NYC",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ01SUkQ1cDd0ZGd2LUY2dnlrTUloZ2JSbXRLak1jOVR1amljYXVtYnMwcUlsRkdNWlgxb05EYktKanlLQ3FNV2JEWUhfcElqQ3VsZDl6aVNRejVoc0NNcElkTWp0bV9BUnhJYzJmQi1IRXBaWXNOUkVlWnEtQWN1MmxhR3drY2tPeUJaal9ISXBRTkpEdHBXNTdud2lZMkhHRUc4ZGozNEh2bDYxaHVGLWdaNGVqQ2xDZnNFY3JVREtVclhvaTBudDRkS09vdS1hVm8tSzJPLVNhY19sMXFF?oc=5",
@@ -186,31 +246,121 @@
       "confidence": 0.884
     },
     {
-      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHhsTXhwRnhHblp6Y1g2MDRGZ1BNS0JTelZFYkhRNHlkZ09lcmdFZl9zQ0tsWnlPYUFKRVVFTWY3ZHJnU0pLV0hlSXVaT2lDLV8wMnhPal92ZVAxLXFhZ0kxcUJmOUpWelVsdFRvUmI3S2MtSjNXa1hVZ3h0eS1vb01tbkc4b2laX0tEWE9oVzZMVnp0ZXRPanFaeVpmMXV0OHBtdw?oc=5",
-      "published": "2026-07-15T19:41:38",
-      "sentiment_score": -0.104,
+      "headline": "AI Isn\u2019t Smarter Than a Baby\u2014Yet",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+      "published": "2026-07-15T18:30:00Z",
+      "sentiment_score": 0.08,
       "sentiment_label": "Neutral",
-      "confidence": 0.777
+      "confidence": 0.89
     },
     {
-      "headline": "Mira Murati\u2019s AI Startup Releases First Model in Bid to Loosen AI Giants\u2019 Grip",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5",
-      "published": "2026-07-15T18:50:00",
-      "sentiment_score": 0.111,
+      "headline": "Amazon senior cloud executive departs after 18 years",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/15/amazon-dave-brown-treadwell-aws.html",
+      "published": "2026-07-15T18:23:06Z",
+      "sentiment_score": -0.043,
       "sentiment_label": "Neutral",
-      "confidence": 0.799
+      "confidence": 0.903
     },
     {
-      "headline": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models | TechCrunch",
+      "headline": "SpaceX slips below its $135 IPO price ahead of Starship launch | TechCrunch",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "published": "2026-07-15T13:11:40Z",
-      "sentiment_score": 0.52,
+      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "published": "2026-07-15T18:07:32Z",
+      "sentiment_score": -0.965,
+      "sentiment_label": "Negative",
+      "confidence": 0.974
+    },
+    {
+      "headline": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "published": "2026-07-15T18:07:09Z",
+      "sentiment_score": 0.33,
+      "sentiment_label": "Neutral",
+      "confidence": 0.643
+    },
+    {
+      "headline": "Thinking Machines Lab Drops Its First Model",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "published": "2026-07-15T18:05:00Z",
+      "sentiment_score": 0.182,
+      "sentiment_label": "Neutral",
+      "confidence": 0.776
+    },
+    {
+      "headline": "SpaceX share price drops below stock market debut",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o",
+      "published": "2026-07-15T17:23:25Z",
+      "sentiment_score": -0.958,
+      "sentiment_label": "Negative",
+      "confidence": 0.967
+    },
+    {
+      "headline": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "published": "2026-07-15T17:22:51Z",
+      "sentiment_score": 0.605,
       "sentiment_label": "Positive",
-      "confidence": 0.531
+      "confidence": 0.623
+    },
+    {
+      "headline": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
+      "published": "2026-07-15T17:16:14Z",
+      "sentiment_score": 0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.902
+    },
+    {
+      "headline": "Whatnot acquires Shaped to power real-time live shopping recommendations | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "published": "2026-07-15T17:01:58Z",
+      "sentiment_score": 0.826,
+      "sentiment_label": "Positive",
+      "confidence": 0.833
+    },
+    {
+      "headline": "SpaceX stock sinks below $135 IPO price for the first time",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+      "published": "2026-07-15T16:11:38Z",
+      "sentiment_score": -0.967,
+      "sentiment_label": "Negative",
+      "confidence": 0.974
+    },
+    {
+      "headline": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "published": "2026-07-15T15:29:33Z",
+      "sentiment_score": 0.723,
+      "sentiment_label": "Positive",
+      "confidence": 0.731
+    },
+    {
+      "headline": "To avoid sounding 'artificial and rude,' follow these AI etiquette rules, experts say",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/15/to-avoid-sounding-artificial-and-rude-follow-these-ai-etiquette-rules-experts-say.html",
+      "published": "2026-07-15T14:22:42Z",
+      "sentiment_score": -0.812,
+      "sentiment_label": "Negative",
+      "confidence": 0.837
+    },
+    {
+      "headline": "OpenAI finally launches hardware\u2026 for Codex",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "published": "2026-07-15T13:30:33Z",
+      "sentiment_score": 0.082,
+      "sentiment_label": "Neutral",
+      "confidence": 0.872
     },
     {
       "headline": "Reelful's AI turns your camera roll into short-form videos for social media | TechCrunch",
@@ -222,42 +372,6 @@
       "confidence": 0.924
     },
     {
-      "headline": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
-      "published": "2026-07-15T12:50:50Z",
-      "sentiment_score": -0.648,
-      "sentiment_label": "Negative",
-      "confidence": 0.673
-    },
-    {
-      "headline": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-      "published": "2026-07-15T12:46:58Z",
-      "sentiment_score": -0.542,
-      "sentiment_label": "Negative",
-      "confidence": 0.624
-    },
-    {
-      "headline": "5 things to know before the stock market opens Wednesday",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/15/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-07-15T12:44:56Z",
-      "sentiment_score": 0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.931
-    },
-    {
-      "headline": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "published": "2026-07-15T12:02:03Z",
-      "sentiment_score": 0.833,
-      "sentiment_label": "Positive",
-      "confidence": 0.843
-    },
-    {
       "headline": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain",
       "source": "Wired",
       "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
@@ -265,24 +379,6 @@
       "sentiment_score": 0.145,
       "sentiment_label": "Neutral",
       "confidence": 0.836
-    },
-    {
-      "headline": "Alibaba\u2019s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html",
-      "published": "2026-07-15T11:55:31Z",
-      "sentiment_score": 0.71,
-      "sentiment_label": "Positive",
-      "confidence": 0.723
-    },
-    {
-      "headline": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html",
-      "published": "2026-07-15T11:51:55Z",
-      "sentiment_score": 0.035,
-      "sentiment_label": "Neutral",
-      "confidence": 0.938
     },
     {
       "headline": "Midnight social media curfew proposed for UK teens aged 16 and 17",
@@ -294,76 +390,31 @@
       "confidence": 0.776
     },
     {
-      "headline": "Morgan Stanley is set to report second-quarter earnings \u2014 here's what the Street expects",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
-      "published": "2026-07-15T11:05:14Z",
-      "sentiment_score": 0.938,
-      "sentiment_label": "Positive",
-      "confidence": 0.955
-    },
-    {
-      "headline": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-      "published": "2026-07-15T09:00:00Z",
-      "sentiment_score": 0.132,
-      "sentiment_label": "Neutral",
-      "confidence": 0.807
-    },
-    {
-      "headline": "CNBC Daily Open: A chip off the AI block",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html",
-      "published": "2026-07-15T06:15:19Z",
-      "sentiment_score": 0.398,
-      "sentiment_label": "Positive",
-      "confidence": 0.678
-    },
-    {
-      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "published": "2026-07-15T00:28:56Z",
-      "sentiment_score": 0.133,
-      "sentiment_label": "Neutral",
-      "confidence": 0.844
-    },
-    {
       "headline": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "published": "2026-07-14T22:22:24Z",
-      "sentiment_score": 0.015,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BNUnBVbTFTTUJEai1vQ19aSUdEYnBIbFl4NU9UVGhfX1o4dEdCNHVkVThYOC1KbVItRUladDdndkRYekFwWmgtcTFtcVBGV20tbDJROWRlc1lxamRZNFZRSEV4WDhpRjYyM2FWd0tpcXR5SExNVFEtckZOdk1SaWdOejV2MVNSVHhYR2dDdWplYXVYY2VadXB6UVJJYVVlU1NOZUFtY3BYbkZKM3MwOXJxUQ?oc=5",
+      "published": "2026-07-14T22:22:24",
+      "sentiment_score": 0.092,
       "sentiment_label": "Neutral",
-      "confidence": 0.922
+      "confidence": 0.885
+    },
+    {
+      "headline": "OpenAI\u2019s new flagship model deletes files on its own, people keep warning",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObF9lMjlURjVIZ2dfUnA0NmpOWENMRUZGamtRUFl0TGpNbzkzaDd6LUtKUWttS09UN2V1RnRaUUpKeU12bTdSVHMwSUk2ZHhWQ3pZRklDbmdULTAxYzU4N2RQanoxYUJ4dzVNeGotWjRrUGxIOHBWX2lORW5oMklrZ29TSV8yLXNtbHhzOVZ2UzNZQ3dCMGRxejQ0VFo0WDRQRWNsS25wN3Vjdw?oc=5",
+      "published": "2026-07-14T21:50:11",
+      "sentiment_score": -0.722,
+      "sentiment_label": "Negative",
+      "confidence": 0.735
     },
     {
       "headline": "OpenAI may announce a ChatGPT smart speaker this year",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "published": "2026-07-14T21:26:32Z",
-      "sentiment_score": 0.063,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkxuOXdGTUJ3RTJjc0dDVW9KUmJ4cFVUUzR1RThMZ1Y5bkxPVE9ucy1YbkwtcmNkYTVBU2dxckc4NVpTakZabjVjdklubldfdzlFY1lJQVFIZVlNemxfUHZOWkt6Y0RuMEtld2xKTGZnQ2hMaS1hUGZkQlNCV2xHYjBESFdHaUV2MUJ6eDdDRUlGUEV3eEFaUGFFWXBlTXp0akMxX3B6QW9EQQ?oc=5",
+      "published": "2026-07-14T21:26:32",
+      "sentiment_score": 0.06,
       "sentiment_label": "Neutral",
-      "confidence": 0.913
-    },
-    {
-      "headline": "OpenAI\u2019s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHphUl80MV93dEdWUTFUelkxbFd1QktjLWhTVjdnVk9yNXBrRkYyUTFYdGRSMXltRUhnRHJvYjF3eEk0b3BEU3ZscllTajVaSWE1NmxqNnluTGthNzRoTG1NVXV0bVNhRHU4ekxDUmRjdDFvTndaY3Uxdm9yVllJWXBSdmNlVnQ1V0xVM19NNHRmMkNvTE15OFdUa2pxSjVkcnlNekUzMmNjUEtpRmhaWmc0dG1wOEk5V3pZVkR5bTNybDZXU0Z2Wndn?oc=5",
-      "published": "2026-07-14T20:52:15",
-      "sentiment_score": 0.056,
-      "sentiment_label": "Neutral",
-      "confidence": 0.92
-    },
-    {
-      "headline": "New Flywheel Report Shows How Brands Can Turn Fragmentation into a Competitive Advantage",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/press-release-a08a339f84bdee3a41118b1971b1f7db",
-      "published": "2026-07-14T20:24:50Z",
-      "sentiment_score": 0.325,
-      "sentiment_label": "Neutral",
-      "confidence": 0.657
+      "confidence": 0.91
     },
     {
       "headline": "OpenAI Is Showing Kalshi\u2019s World Cup Odds in ChatGPT",
@@ -373,15 +424,6 @@
       "sentiment_score": 0.014,
       "sentiment_label": "Neutral",
       "confidence": 0.904
-    },
-    {
-      "headline": "Is the most popular song played on Australian radio stations the product of generative AI?",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkJBZlVxODJEbzY5d3REdEY1RGZmSWtTSTMyemc2c1hDUzMwVjlKYUFfX3NZTEJaOGtWeFpzVnRUQkFaanlsbWpmVFltS2lqOGhVSHZXTWVFXzZ5T1RLYXQtczYzNHp5Z1czZXFUblg0Q2k3WnNZZWw0TDMwek1ETU9QX08tZjlZakd0OUNldzA2R2lm?oc=5",
-      "published": "2026-07-14T03:19:00",
-      "sentiment_score": 0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
     },
     {
       "headline": "OpenAI bets on families as ChatGPT goes deeper into households",
