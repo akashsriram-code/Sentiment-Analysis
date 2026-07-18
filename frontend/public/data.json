@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17T18:54:35.720529",
-  "total_articles": 37,
-  "overall_sentiment": -0.109,
+  "last_updated": "2026-07-18T01:30:17.511260",
+  "total_articles": 47,
+  "overall_sentiment": -0.094,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,9 +24,9 @@
     },
     {
       "date": "2026-07-14",
-      "avg_sentiment": 0.053,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": 0.051,
+      "article_count": 4,
+      "positive_count": 3,
       "negative_count": 0,
       "neutral_count": 1,
       "moving_avg": -0.349
@@ -42,28 +42,37 @@
     },
     {
       "date": "2026-07-16",
-      "avg_sentiment": -0.05,
-      "article_count": 22,
-      "positive_count": 9,
-      "negative_count": 9,
-      "neutral_count": 4,
-      "moving_avg": -0.368
+      "avg_sentiment": -0.144,
+      "article_count": 28,
+      "positive_count": 10,
+      "negative_count": 13,
+      "neutral_count": 5,
+      "moving_avg": -0.387
     },
     {
       "date": "2026-07-17",
-      "avg_sentiment": 0.029,
-      "article_count": 7,
-      "positive_count": 4,
+      "avg_sentiment": 0.253,
+      "article_count": 8,
+      "positive_count": 6,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.302
+      "neutral_count": 0,
+      "moving_avg": -0.28
+    },
+    {
+      "date": "2026-07-18",
+      "avg_sentiment": 0.63,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.15
     }
   ],
   "source_stats": [
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.12,
-      "article_count": 13,
+      "avg_sentiment": 0.115,
+      "article_count": 14,
       "sentiment_label": "Positive"
     },
     {
@@ -73,39 +82,81 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.035,
+      "source": "CNBC",
+      "avg_sentiment": -0.79,
+      "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.02,
       "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.068,
+      "source": "The Verge",
+      "avg_sentiment": -0.099,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.311,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.465,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Wired",
-      "avg_sentiment": -0.373,
+      "avg_sentiment": -0.419,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "Opinion | People of faith are finding a new moral guide in AI",
+      "headline": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
       "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVdIZXVXX3kycWhld2RnS1VTVE1BemNZdFBNeWR4bjlKTC1rdW9DUERtZzZkSDVjS29jRXhxb0Y2TVpoSzBPOFkxLUhVc0wzbGV5ZDBObjVGRFhJV3B3a0N4WXhTSzJtNHJrRXd1ZTFjaEx4Smo3aEplLV9DNkI4NVNWRlBxdTBVQ1JoT05UWWRoQXl2RkpYT1Nxc29pSENFX1hkUTQ0T2g?oc=5",
-      "published": "2026-07-17T18:00:00",
-      "sentiment_score": 0.148,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFZFU1ZlVndwSWEyaGNHM1V5REtfY2lEQl8wdTRTemg4aUluSWo5VWFnZ3RQUXVuMU8yc0tLbG9zTUZhQkQ1d2pqYVF4UmtHT0d2V0xPN1psVFhvZGpuTl96WFpydUpSaTl3QUttN2Nyb1VQb3JhOUNSRkhZZ1JpUjExNEd0VlUxMy1FOVJ3dTgtVGN4YlFvV0Z5Q1VBY2F6UXFPalZmOGpnSkNleWY3S2owUURDZw?oc=5",
+      "published": "2026-07-18T00:44:17",
+      "sentiment_score": 0.63,
+      "sentiment_label": "Positive",
+      "confidence": 0.652
+    },
+    {
+      "headline": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EamIzaWIydk9pVTBlZmx5VTdoYUd1dUVSSGJPRzIxdzhEQjBUclRfejFpZDFKSWU1cFk5NzVTR0dwXzg0MWMzbEhzdEt3N0p3RnJMenR2XzVfMzNTRXI1bm5rRFF1YzlhQUl4U20tR0QxaW04blhr?oc=5",
+      "published": "2026-07-17T23:52:32",
+      "sentiment_score": 0.393,
       "sentiment_label": "Neutral",
-      "confidence": 0.818
+      "confidence": 0.578
+    },
+    {
+      "headline": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
+      "published": "2026-07-17T20:32:56",
+      "sentiment_score": 0.44,
+      "sentiment_label": "Positive",
+      "confidence": 0.532
+    },
+    {
+      "headline": "China\u2019s Moonshot AI Unveils Kimi Model, Threatening America\u2019s Lead",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5",
+      "published": "2026-07-17T20:04:57",
+      "sentiment_score": -0.125,
+      "sentiment_label": "Neutral",
+      "confidence": 0.739
+    },
+    {
+      "headline": "Exclusive | SpaceX in Talks to Provide Computing Power for Pentagon\u2019s AI Push",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjd5MTJmSFZmLU5FUmR1dDM1SUdRNVkzeFlZYXhIUXZLZHdMWDA3NFFjWDBfcXIwZnVpNllpbzd3VjE3T1ZBRHI3cHItM2tId0FNcE9mN3BkNTBCT3ZCNFFuNVFNX2lXTS1rcko0VHZwbmk0N2VRODZEMFpVanBkUC1GNFBtOTh4SGNEdTVqMUlmSmc1YkRnVkEtTG9DOE9hUUNB?oc=5",
+      "published": "2026-07-17T19:03:00",
+      "sentiment_score": 0.078,
+      "sentiment_label": "Neutral",
+      "confidence": 0.895
     },
     {
       "headline": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
@@ -117,13 +168,13 @@
       "confidence": 0.503
     },
     {
-      "headline": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EamIzaWIydk9pVTBlZmx5VTdoYUd1dUVSSGJPRzIxdzhEQjBUclRfejFpZDFKSWU1cFk5NzVTR0dwXzg0MWMzbEhzdEt3N0p3RnJMenR2XzVfMzNTRXI1bm5rRFF1YzlhQUl4U20tR0QxaW04blhr?oc=5",
-      "published": "2026-07-17T15:49:16",
-      "sentiment_score": 0.393,
-      "sentiment_label": "Neutral",
-      "confidence": 0.578
+      "headline": "Apple dethrones Nvidia to regain title of world\u2019s most valuable company",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NaM0lxTE84Z2p4R1gyRGxXa0Z4WFF6TEdKWGs5VDJXUktEVTR1QjJlWVhMX3RYbklYbmVvYlBaRmk1WW00T3I4RjJuNktHRTRLWmNwc1VrRWl0SnpOWUFTTnpKaHotWnBKNTZxZFpOaWhBRUpHck1UWE9fZDdOUE9RWVVMU2o1bzBJbmFn?oc=5",
+      "published": "2026-07-17T15:08:00",
+      "sentiment_score": 0.7,
+      "sentiment_label": "Positive",
+      "confidence": 0.73
     },
     {
       "headline": "Court orders expert witness AI prompt disclosure \u2014 What litigators need to know",
@@ -135,15 +186,6 @@
       "confidence": 0.89
     },
     {
-      "headline": "EXCLUSIVE: Indonesia's copyright rewrite puts Google, AI platforms on notice",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkowc3QtZ1pWX1JNa3Y1Q25uMk1xRGRUemxObDBhQ1lQRm1XVVFDWHhvZDdqZmJrZU9ZSkdZYXhkMkNtUl9GLVlkRVZQZWlCWktpOHFCNUZqUDlWZDluSDN1dmhhVkhsMlMxNHNxci1vQXZ0Vk1vWGQ1aWN4a3hSR2lpYmdPRi0xemdDSHJNQ2NuNmNOVmc2M25sV3RvRlpNLVJkYVp4M1M4X3E4LUVxRW14dw?oc=5",
-      "published": "2026-07-17T10:09:57",
-      "sentiment_score": -0.869,
-      "sentiment_label": "Negative",
-      "confidence": 0.882
-    },
-    {
       "headline": "Trump Media to sell instant access to 'market-moving' social posts",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
@@ -153,13 +195,40 @@
       "confidence": 0.875
     },
     {
-      "headline": "President Xi addresses an artificial intelligence conference in Shanghai",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnctTVo4ak1JSzduTnpMT0xCdDVhbHMySFlFSUZCb3d0TVdvdEJVT2MxR3FiTmcxZG03RXNVXzFHMC1KLXk3c3h2RzRvU0FaTEozbllpTlFhdUZjYjdFZUtUeG9qNWoxcXlqWloyX0swUVpsWS1FS2tXZWZNSzkxVWh0Vlhfa1ZYQ3B2UDI2ZUdCdldFMlgybTRPa1JwTjN3WUIyNFJjUGxnQUw1ejlCQmp4S1QtdWxkSnktRTRGeGR5eU80bTI2N29n?oc=5",
-      "published": "2026-07-17T05:58:00",
-      "sentiment_score": -0.002,
+      "headline": "One of China's top investors says finance, not AI, is the country's biggest bottleneck",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/17/primavera-capital-fred-hu-china-economy-wall-street-finance-private-equity-.html",
+      "published": "2026-07-16T23:47:27Z",
+      "sentiment_score": -0.924,
+      "sentiment_label": "Negative",
+      "confidence": 0.94
+    },
+    {
+      "headline": "Jim Cramer likes these 5 non-tech stocks Wall Street got wrong this earnings season",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/16/jim-cramer-stocks-wall-street-got-wrong.html",
+      "published": "2026-07-16T23:02:02Z",
+      "sentiment_score": -0.934,
+      "sentiment_label": "Negative",
+      "confidence": 0.948
+    },
+    {
+      "headline": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+      "published": "2026-07-16T22:51:12Z",
+      "sentiment_score": -0.101,
       "sentiment_label": "Neutral",
-      "confidence": 0.934
+      "confidence": 0.702
+    },
+    {
+      "headline": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "published": "2026-07-16T22:17:27Z",
+      "sentiment_score": -0.657,
+      "sentiment_label": "Negative",
+      "confidence": 0.691
     },
     {
       "headline": "MLB cracks down on using AI via dugout iPads to help shape in-game decisions - The Athletic",
@@ -171,22 +240,49 @@
       "confidence": 0.724
     },
     {
+      "headline": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+      "published": "2026-07-16T22:09:55Z",
+      "sentiment_score": -0.904,
+      "sentiment_label": "Negative",
+      "confidence": 0.916
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+      "published": "2026-07-16T22:02:57Z",
+      "sentiment_score": -0.919,
+      "sentiment_label": "Negative",
+      "confidence": 0.939
+    },
+    {
       "headline": "Netflix says around 300 titles used generative AI",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeHpGeDEyMFh2eENCSndEZUtLNWFjVnJma2M0eWpOTFgwUEFab05XRWF5ak9nTmhhdkZnMWY3MHpLa2ZXV01hbTRNOVc1LTJDT01RT3M1M3ZJQ3RZbC1QR2owTmJWempBSDlpZGN2ZjYwdDBsNHgyZ2tndXF2bzdtVmlB?oc=5",
-      "published": "2026-07-16T20:29:27",
-      "sentiment_score": -0.065,
+      "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "published": "2026-07-16T20:31:00Z",
+      "sentiment_score": -0.062,
       "sentiment_label": "Neutral",
-      "confidence": 0.898
+      "confidence": 0.878
+    },
+    {
+      "headline": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills) | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "published": "2026-07-16T20:07:50Z",
+      "sentiment_score": 0.068,
+      "sentiment_label": "Neutral",
+      "confidence": 0.902
     },
     {
       "headline": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcVo4dnRDMVczTlBUZWh5ZUhnaEZDUC1pQXZYbHlsRl9oMXZSa0dMZzB0SlMwaTNqdGZ2RnhmQ0FuYVFpQ0g2by1acFJqVVR3MlNhM21ZcEtfS0IxaU5vNDZnRXAtdmg4bnBlVG5aTDhhM0FUZFFmU9IBfkFVX3lxTE1SNmF1cjBfZGMxaC00STBqeGJjMFVEWFpnQzNab2Z2d0VtMHkxcXRnZkZyVEN2ZXY0RWNOMXA1ZlljTTdoR3RENWRZRWlROVlkenFiQkJMZ0dnQS1QeUt4Qm5ET1h6SXZOd3o1NG5GYkUwbnlvY3hremJEVEx6Zw?oc=5",
-      "published": "2026-07-16T19:07:42",
-      "sentiment_score": -0.952,
+      "link": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+      "published": "2026-07-16T19:07:42Z",
+      "sentiment_score": -0.959,
       "sentiment_label": "Negative",
-      "confidence": 0.96
+      "confidence": 0.967
     },
     {
       "headline": "Here\u2019s Why Anthropic Is Pushing States to Regulate AI Faster",
@@ -234,15 +330,6 @@
       "confidence": 0.929
     },
     {
-      "headline": "Google is better at playing this game",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-      "published": "2026-07-16T16:55:54Z",
-      "sentiment_score": 0.319,
-      "sentiment_label": "Neutral",
-      "confidence": 0.65
-    },
-    {
       "headline": "Google's AI Mode now lets you link and interact with select apps | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
@@ -277,6 +364,15 @@
       "sentiment_score": -0.023,
       "sentiment_label": "Neutral",
       "confidence": 0.924
+    },
+    {
+      "headline": "Twenty-nine countries sign agreement to establish global AI cooperation body",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+      "published": "2026-07-16T15:23:43",
+      "sentiment_score": 0.554,
+      "sentiment_label": "Positive",
+      "confidence": 0.568
     },
     {
       "headline": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product | TechCrunch",
@@ -343,21 +439,12 @@
     },
     {
       "headline": "Please Stop Making Me Opt Out of AI",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-      "published": "2026-07-16T10:00:00Z",
-      "sentiment_score": -0.565,
-      "sentiment_label": "Negative",
-      "confidence": 0.589
-    },
-    {
-      "headline": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWF3MHRzeHk0dmFpQkdJbzVlZEgtV2h2UmhoVzlrVHJEd1l5dDJTSEl4RF9LU3NVQS1fQmFteDNKZ2dtYjBvdU9fWjFycGJQZ2lDVnk4UnYyVHpWRXd2SE1MSGphRE11WEpHSDc5cktOeFo3YXB3b0VOWmlBbm9idjJnaFdVN1p6TGd1N0FQTEdBcGFxZHhFNlZMbUI?oc=5",
-      "published": "2026-07-16T01:03:00",
-      "sentiment_score": -0.657,
-      "sentiment_label": "Negative",
-      "confidence": 0.676
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRVFhTzN5eV9TUDRYYVYxODJCelpqSG12ZzhHcGlWWFF2R0JhdUZyamVnOUpNN2pfazNPQ0lRdm9BVThRVHV1Wl96cGppSlVTSUtSeldtbE95TUpfbFFfZWo3SjBRY3NaQmsyVmlHcVF2UQ?oc=5",
+      "published": "2026-07-16T10:00:00",
+      "sentiment_score": -0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.92
     },
     {
       "headline": "Midnight social media curfew proposed for UK teens aged 16 and 17",
@@ -373,9 +460,27 @@
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BNUnBVbTFTTUJEai1vQ19aSUdEYnBIbFl4NU9UVGhfX1o4dEdCNHVkVThYOC1KbVItRUladDdndkRYekFwWmgtcTFtcVBGV20tbDJROWRlc1lxamRZNFZRSEV4WDhpRjYyM2FWd0tpcXR5SExNVFEtckZOdk1SaWdOejV2MVNSVHhYR2dDdWplYXVYY2VadXB6UVJJYVVlU1NOZUFtY3BYbkZKM3MwOXJxUQ?oc=5",
       "published": "2026-07-14T22:22:24",
-      "sentiment_score": 0.092,
+      "sentiment_score": 0.075,
       "sentiment_label": "Neutral",
-      "confidence": 0.885
+      "confidence": 0.903
+    },
+    {
+      "headline": "OpenAI may announce a ChatGPT smart speaker this year",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkxuOXdGTUJ3RTJjc0dDVW9KUmJ4cFVUUzR1RThMZ1Y5bkxPVE9ucy1YbkwtcmNkYTVBU2dxckc4NVpTakZabjVjdklubldfdzlFY1lJQVFIZVlNemxfUHZOWkt6Y0RuMEtld2xKTGZnQ2hMaS1hUGZkQlNCV2xHYjBESFdHaUV2MUJ6eDdDRUlGUEV3eEFaUGFFWXBlTXp0akMxX3B6QW9EQQ?oc=5",
+      "published": "2026-07-14T21:26:32",
+      "sentiment_score": 0.06,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
+    {
+      "headline": "OpenAI\u2019s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHphUl80MV93dEdWUTFUelkxbFd1QktjLWhTVjdnVk9yNXBrRkYyUTFYdGRSMXltRUhnRHJvYjF3eEk0b3BEU3ZscllTajVaSWE1NmxqNnluTGthNzRoTG1NVXV0bVNhRHU4ekxDUmRjdDFvTndaY3Uxdm9yVllJWXBSdmNlVnQ1V0xVM19NNHRmMkNvTE15OFdUa2pxSjVkcnlNekUzMmNjUEtpRmhaWmc0dG1wOEk5V3pZVkR5bTNybDZXU0Z2Wndn?oc=5",
+      "published": "2026-07-14T20:52:15",
+      "sentiment_score": 0.056,
+      "sentiment_label": "Neutral",
+      "confidence": 0.92
     },
     {
       "headline": "OpenAI Is Showing Kalshi\u2019s World Cup Odds in ChatGPT",
