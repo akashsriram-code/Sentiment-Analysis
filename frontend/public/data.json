@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-19T08:00:30.170252",
-  "total_articles": 34,
-  "overall_sentiment": -0.001,
+  "last_updated": "2026-07-19T12:56:17.020167",
+  "total_articles": 32,
+  "overall_sentiment": -0.028,
   "overall_label": "Neutral",
   "daily_stats": [
     {
@@ -51,30 +51,39 @@
     },
     {
       "date": "2026-07-16",
-      "avg_sentiment": -0.142,
-      "article_count": 6,
+      "avg_sentiment": -0.157,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.23
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.232
     },
     {
       "date": "2026-07-17",
-      "avg_sentiment": 0.369,
-      "article_count": 11,
-      "positive_count": 9,
+      "avg_sentiment": 0.384,
+      "article_count": 9,
+      "positive_count": 7,
       "negative_count": 2,
       "neutral_count": 0,
       "moving_avg": -0.144
     },
     {
       "date": "2026-07-18",
-      "avg_sentiment": -0.115,
-      "article_count": 4,
+      "avg_sentiment": -0.041,
+      "article_count": 3,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 2,
+      "moving_avg": -0.17
+    },
+    {
+      "date": "2026-07-19",
+      "avg_sentiment": -0.268,
+      "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.181
+      "neutral_count": 1,
+      "moving_avg": -0.096
     }
   ],
   "source_stats": [
@@ -91,12 +100,6 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.06,
-      "article_count": 4,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "Reuters",
       "avg_sentiment": 0.25,
       "article_count": 4,
@@ -109,19 +112,52 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Bloomberg.com",
-      "avg_sentiment": -0.136,
+      "source": "The Guardian",
+      "avg_sentiment": -0.032,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.001,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.049,
+      "avg_sentiment": -0.035,
       "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "The biggest winners of the American economy fear they\u2019re sinking fast",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWZaZmJUVEZhUjR6MzNadFZLS1hhY1FqZlVxN3planU0WnpRZkVYMnNhZjcxTXFCQk04Q1YtSVB2ZVV5SHhqbks1U3o1V2tlZGY3dVpNcGRCYkEyNGk5czNzOWZrRnd3TGZ6Q0hlZVJZNjVoenk3R05iQkFTZERBSkxUUV9ZeTlSR0hFdURzSTRsandnWFFFVlEwWHRKMkh1SzQ4ZHpsQ2t4YjFKRm1jT0MyMUJYT2lESy1BUA?oc=5",
+      "published": "2026-07-19T12:47:29",
+      "sentiment_score": -0.718,
+      "sentiment_label": "Negative",
+      "confidence": 0.743
+    },
+    {
+      "headline": "Could AI be conscious?",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
+      "published": "2026-07-19T11:10:00",
+      "sentiment_score": -0.073,
+      "sentiment_label": "Neutral",
+      "confidence": 0.882
+    },
+    {
+      "headline": "Step Into the \u2018Zone of Genius\u2019 (Before A.I. Takes Your Job)",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzlSZ2pUZ0JXR1ZiSEx2Y3k0a1NOdHFMRDVDSmd6QTdPczdmRHlQTE04bGtGVXFDUnpuODdKUlo4SVI2eGxFQU1XZ3czd0R1V3JkR01VSlR0TGtKeFliaWNfVjBQeFhoQ0NrWlVNaVFua3pqd3A1dElvUXdxSzE3SFNqOWpXa0VsRGNPd293d2N6VDVBaWtvOTZ0dDFoR19ET1BsdA?oc=5",
+      "published": "2026-07-19T09:00:48",
+      "sentiment_score": -0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.892
+    },
     {
       "headline": "Dave Eggers told OpenAI staff that ChatGPT was \u2018silencing an entire generation\u2019",
       "source": "The Verge",
@@ -132,22 +168,13 @@
       "confidence": 0.801
     },
     {
-      "headline": "Opinion | China\u2019s A.I. Play Is Different From America\u2019s",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW4zTkUyUklDNncwMDluZTN0STloS0lvaVMzRFZTT2tFUVFPQ25SUkVweldKRk4yNE5HcDExU3lfZzYwdWZfMjNEay1FZXhfa3l2NXFMa1RLZVJhSFIwOWJjNURqNzBnUFlUWWQ1M2pOZG9vd0hyYmNhZDVvSlZ0d3FKa3F6VEJlR2xKcnQ0ODRWWUxtQ1E?oc=5",
-      "published": "2026-07-18T11:00:05",
-      "sentiment_score": 0.036,
+      "headline": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "published": "2026-07-18T11:31:03Z",
+      "sentiment_score": 0.045,
       "sentiment_label": "Neutral",
-      "confidence": 0.889
-    },
-    {
-      "headline": "Moonshot\u2019s Kimi Upends Conventional Wisdom on US Lead Over China",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFBpNEEzNVFPVXZfZzhkX19aZlM5Rmg4NGNITEFtRWRrNU5DMkg2aDExWGh0RzlpZTJZZHQxampaTGR5b2lqX0FUQnY2QWZyenQxT0pOd0NjbVA5UFVEUlBDcTlOU2xiUWFyOHBQRHdubEtvd1lNRnlvd2MtUGU0ZUxJR1Z5WU16bXIyUmlCQUZ4TnFUOXY4N21LcV83bHZ0cjFVakEtVFZOLWpMMmUyVVVHQXEyUQ?oc=5",
-      "published": "2026-07-18T11:00:00",
-      "sentiment_score": -0.328,
-      "sentiment_label": "Neutral",
-      "confidence": 0.58
+      "confidence": 0.906
     },
     {
       "headline": "Neil Rimer thinks the AI money is coming back out | TechCrunch",
@@ -157,15 +184,6 @@
       "sentiment_score": -0.015,
       "sentiment_label": "Neutral",
       "confidence": 0.887
-    },
-    {
-      "headline": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
-      "published": "2026-07-17T23:18:35Z",
-      "sentiment_score": 0.212,
-      "sentiment_label": "Neutral",
-      "confidence": 0.758
     },
     {
       "headline": "Databricks hits $188B valuation, extending its run as AI's favorite second act | TechCrunch",
@@ -240,15 +258,6 @@
       "confidence": 0.913
     },
     {
-      "headline": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EamIzaWIydk9pVTBlZmx5VTdoYUd1dUVSSGJPRzIxdzhEQjBUclRfejFpZDFKSWU1cFk5NzVTR0dwXzg0MWMzbEhzdEt3N0p3RnJMenR2XzVfMzNTRXI1bm5rRFF1YzlhQUl4U20tR0QxaW04blhr?oc=5",
-      "published": "2026-07-17T10:21:08",
-      "sentiment_score": 0.393,
-      "sentiment_label": "Neutral",
-      "confidence": 0.578
-    },
-    {
       "headline": "Trump Media to sell instant access to 'market-moving' social posts",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
@@ -256,15 +265,6 @@
       "sentiment_score": 0.106,
       "sentiment_label": "Neutral",
       "confidence": 0.875
-    },
-    {
-      "headline": "MLB cracks down on using AI via dugout iPads to help shape in-game decisions - The Athletic",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlIxeG15ZnRPbWE3enRTbFZuRUxmbkFmZlUwdE9aZzlTU3RhVTBhSHhidFp1dlNXZEZoOTVNbFh5bmdldDBtcWw2aW9GY0pmOHRENWZoT3JjM0R1bVRfVkNOWjdjQW90VHFzNVdjekQ5UFk0VHpzUU5QcVFmd0RMdzVfZw?oc=5",
-      "published": "2026-07-16T22:15:02",
-      "sentiment_score": -0.204,
-      "sentiment_label": "Neutral",
-      "confidence": 0.724
     },
     {
       "headline": "Netflix says around 300 titles used generative AI",
@@ -301,15 +301,6 @@
       "sentiment_score": -0.901,
       "sentiment_label": "Negative",
       "confidence": 0.917
-    },
-    {
-      "headline": "Please Stop Making Me Opt Out of AI",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRVFhTzN5eV9TUDRYYVYxODJCelpqSG12ZzhHcGlWWFF2R0JhdUZyamVnOUpNN2pfazNPQ0lRdm9BVThRVHV1Wl96cGppSlVTSUtSeldtbE95TUpfbFFfZWo3SjBRY3NaQmsyVmlHcVF2UQ?oc=5",
-      "published": "2026-07-16T10:00:00",
-      "sentiment_score": -0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.92
     },
     {
       "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
