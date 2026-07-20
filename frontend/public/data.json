@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-19T18:53:20.657456",
-  "total_articles": 32,
-  "overall_sentiment": -0.067,
+  "last_updated": "2026-07-20T02:03:52.054344",
+  "total_articles": 27,
+  "overall_sentiment": -0.108,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,30 +24,30 @@
     },
     {
       "date": "2026-07-11",
-      "avg_sentiment": -0.31,
-      "article_count": 3,
+      "avg_sentiment": -0.407,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.318
+      "moving_avg": -0.351
     },
     {
       "date": "2026-07-14",
-      "avg_sentiment": 0.043,
-      "article_count": 5,
+      "avg_sentiment": 0.051,
+      "article_count": 4,
       "positive_count": 3,
       "negative_count": 0,
-      "neutral_count": 2,
-      "moving_avg": -0.228
+      "neutral_count": 1,
+      "moving_avg": -0.25
     },
     {
       "date": "2026-07-15",
-      "avg_sentiment": -0.424,
-      "article_count": 2,
+      "avg_sentiment": -0.744,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.267
+      "moving_avg": -0.349
     },
     {
       "date": "2026-07-16",
@@ -56,34 +56,34 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.278
+      "moving_avg": -0.346
     },
     {
       "date": "2026-07-17",
-      "avg_sentiment": 0.417,
-      "article_count": 9,
-      "positive_count": 8,
-      "negative_count": 1,
+      "avg_sentiment": 0.531,
+      "article_count": 6,
+      "positive_count": 6,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.178
+      "moving_avg": -0.221
     },
     {
       "date": "2026-07-18",
-      "avg_sentiment": -0.277,
-      "article_count": 3,
+      "avg_sentiment": -0.397,
+      "article_count": 4,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.239
+      "neutral_count": 2,
+      "moving_avg": -0.298
     },
     {
       "date": "2026-07-19",
-      "avg_sentiment": -0.274,
+      "avg_sentiment": -0.188,
       "article_count": 4,
-      "positive_count": 0,
-      "negative_count": 3,
+      "positive_count": 1,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.165
+      "moving_avg": -0.212
     }
   ],
   "source_stats": [
@@ -95,14 +95,14 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.129,
-      "article_count": 6,
+      "avg_sentiment": 0.249,
+      "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.051,
-      "article_count": 4,
+      "source": "Reuters",
+      "avg_sentiment": 0.262,
+      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
@@ -113,24 +113,27 @@
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.052,
+      "avg_sentiment": -0.003,
       "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.032,
-      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.35,
+      "source": "The New York Times",
+      "avg_sentiment": 0.001,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "UK chief financial officers turn more hopeful about AI",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG42RUx6ZEtaa0VKSjJ1T2VHTktKOXFVLXZvLWFNTTl3a01zZWVmbDVsWW94aVl0S05JcF9qWTdqMlJWektYNVZMMUR6QWtZdmotaW4wSW0zYWlBN3FWR2FPRkRkd1JZNGNHc3FqbDBiYi1IaGJaUDd1RHNHVnFQM3JsNl9yUGRSN0ZDeTM2bWYwQXUyV24xa29DOFZYLXdi?oc=5",
+      "published": "2026-07-19T23:07:43",
+      "sentiment_score": 0.086,
+      "sentiment_label": "Neutral",
+      "confidence": 0.727
+    },
     {
       "headline": "Could AI be conscious?",
       "source": "The Guardian",
@@ -139,15 +142,6 @@
       "sentiment_score": -0.073,
       "sentiment_label": "Neutral",
       "confidence": 0.882
-    },
-    {
-      "headline": "Group warns against generative AI tools\u2019 role in Nigeria\u2019s elections",
-      "source": "The Guardian Nigeria News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVUwUnh6VG9SZ3B5czlNLWFLcWFVSFVYRzJyUmRhVi1Hc3RJVktST2ZkV3NZVlF5S2k1MEVqQ1lfR2dldUJXMnhzdXpzOVF5a2NuejhwT2VaVG5JS2M1bXNUSjdKSmtOdHlXRkZwRy1OZkd2VGY4LV9SaDhmaVo1NGFsN1h5SjdNaU9YVDJXTjZ3UkdpYmdv?oc=5",
-      "published": "2026-07-19T14:34:29",
-      "sentiment_score": -0.259,
-      "sentiment_label": "Neutral",
-      "confidence": 0.646
     },
     {
       "headline": "AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career",
@@ -170,11 +164,20 @@
     {
       "headline": "Dave Eggers told OpenAI staff that ChatGPT was \u2018silencing an entire generation\u2019",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDZLZURmSHJ3MmxUang2enVIeEdaT1pKRHNUUUNPYi16ZHR4YWdhMGFWcmZDVjdCc3M0TnZ1bGFTU0o2U0ZBTW94a2lhZmhUdUFCT001Q1FLYXNBb2NQd2M1N2JYYWpQcXF5Y2RkTW56aHYxeVp1dWE1SDBFMjBpa0xhZV9VQjljUlpSbjdtZmZhSXhFMVlYSURkcEE2MHkzVUczNGp6MUN2MmVWaG0zcW9Ea0lOaWc?oc=5",
-      "published": "2026-07-18T20:54:42",
-      "sentiment_score": -0.152,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "published": "2026-07-18T20:54:42Z",
+      "sentiment_score": -0.004,
       "sentiment_label": "Neutral",
-      "confidence": 0.801
+      "confidence": 0.924
+    },
+    {
+      "headline": "America In Focus: US inflation cooled in June, but AI build-out poses latest threat",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-ai-c8ed0b54d80fe1bdaa5edcef671e6608",
+      "published": "2026-07-18T19:02:58Z",
+      "sentiment_score": -0.905,
+      "sentiment_label": "Negative",
+      "confidence": 0.947
     },
     {
       "headline": "Two unexpected revelations in Warren Buffett's CNBC interview",
@@ -213,15 +216,6 @@
       "confidence": 0.898
     },
     {
-      "headline": "China\u2019s Moonshot AI Unveils Kimi Model, Threatening America\u2019s Lead",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5",
-      "published": "2026-07-17T19:13:57",
-      "sentiment_score": -0.125,
-      "sentiment_label": "Neutral",
-      "confidence": 0.739
-    },
-    {
       "headline": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
@@ -238,24 +232,6 @@
       "sentiment_score": 0.888,
       "sentiment_label": "Positive",
       "confidence": 0.913
-    },
-    {
-      "headline": "AI\u2019s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
-      "published": "2026-07-17T13:38:00",
-      "sentiment_score": 0.367,
-      "sentiment_label": "Neutral",
-      "confidence": 0.596
-    },
-    {
-      "headline": "China\u2019s Leader Pitches \u2018Openness\u2019 in Push to Shape A.I.\u2019s Future",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EamIzaWIydk9pVTBlZmx5VTdoYUd1dUVSSGJPRzIxdzhEQjBUclRfejFpZDFKSWU1cFk5NzVTR0dwXzg0MWMzbEhzdEt3N0p3RnJMenR2XzVfMzNTRXI1bm5rRFF1YzlhQUl4U20tR0QxaW04blhr?oc=5",
-      "published": "2026-07-17T10:21:08",
-      "sentiment_score": 0.325,
-      "sentiment_label": "Neutral",
-      "confidence": 0.637
     },
     {
       "headline": "Trump Media to sell instant access to 'market-moving' social posts",
@@ -303,15 +279,6 @@
       "confidence": 0.917
     },
     {
-      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHhsTXhwRnhHblp6Y1g2MDRGZ1BNS0JTelZFYkhRNHlkZ09lcmdFZl9zQ0tsWnlPYUFKRVVFTWY3ZHJnU0pLV0hlSXVaT2lDLV8wMnhPal92ZVAxLXFhZ0kxcUJmOUpWelVsdFRvUmI3S2MtSjNXa1hVZ3h0eS1vb01tbkc4b2laX0tEWE9oVzZMVnp0ZXRPanFaeVpmMXV0OHBtdw?oc=5",
-      "published": "2026-07-15T19:41:38",
-      "sentiment_score": -0.104,
-      "sentiment_label": "Neutral",
-      "confidence": 0.777
-    },
-    {
       "headline": "Midnight social media curfew proposed for UK teens aged 16 and 17",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
@@ -355,24 +322,6 @@
       "sentiment_score": 0.014,
       "sentiment_label": "Neutral",
       "confidence": 0.904
-    },
-    {
-      "headline": "Is the most popular song played on Australian radio stations the product of generative AI?",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkJBZlVxODJEbzY5d3REdEY1RGZmSWtTSTMyemc2c1hDUzMwVjlKYUFfX3NZTEJaOGtWeFpzVnRUQkFaanlsbWpmVFltS2lqOGhVSHZXTWVFXzZ5T1RLYXQtczYzNHp5Z1czZXFUblg0Q2k3WnNZZWw0TDMwek1ETU9QX08tZjlZakd0OUNldzA2R2lm?oc=5",
-      "published": "2026-07-14T03:19:00",
-      "sentiment_score": 0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
-    },
-    {
-      "headline": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejc4ZzlWMHg1UjR3UTJTWjFMRHcwNGVDV3FqbEg0R2UyMUVIaWJhOXZqSjJ3dlNlbkxRTXQ4ZDJ1eDhpdmdyaTJCUlZqa2wwWExoT2ZWemkzbHY1ejZxWk5pVlBHWGpYRlVFT29xY3B1S1IyNmNwMXo1THFxa3Q4aDU4OXpLRUVuTGtxbmtwUEVxSEg0Q0pzSG9paDFVdw?oc=5",
-      "published": "2026-07-11T07:00:00",
-      "sentiment_score": -0.115,
-      "sentiment_label": "Neutral",
-      "confidence": 0.746
     },
     {
       "headline": "Meta pulls new AI image feature after days of backlash",
