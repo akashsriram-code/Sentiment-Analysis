@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-20T13:49:46.536891",
-  "total_articles": 33,
-  "overall_sentiment": -0.101,
+  "last_updated": "2026-07-20T19:26:27.296345",
+  "total_articles": 37,
+  "overall_sentiment": -0.147,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "date": "2026-07-14",
-      "avg_sentiment": 0.05,
-      "article_count": 3,
-      "positive_count": 2,
+      "avg_sentiment": 0.037,
+      "article_count": 2,
+      "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.267
+      "moving_avg": -0.27
     },
     {
       "date": "2026-07-15",
@@ -47,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.362
+      "moving_avg": -0.365
     },
     {
       "date": "2026-07-16",
@@ -56,16 +56,16 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.357
+      "moving_avg": -0.359
     },
     {
       "date": "2026-07-17",
-      "avg_sentiment": 0.13,
-      "article_count": 4,
+      "avg_sentiment": 0.292,
+      "article_count": 3,
       "positive_count": 3,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.287
+      "moving_avg": -0.266
     },
     {
       "date": "2026-07-18",
@@ -74,37 +74,43 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.305
+      "moving_avg": -0.284
     },
     {
       "date": "2026-07-19",
-      "avg_sentiment": 0.122,
-      "article_count": 7,
-      "positive_count": 5,
-      "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.152
+      "avg_sentiment": 0.006,
+      "article_count": 9,
+      "positive_count": 4,
+      "negative_count": 4,
+      "neutral_count": 1,
+      "moving_avg": -0.147
     },
     {
       "date": "2026-07-20",
-      "avg_sentiment": -0.177,
-      "article_count": 8,
+      "avg_sentiment": -0.253,
+      "article_count": 12,
       "positive_count": 2,
-      "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.133
+      "negative_count": 4,
+      "neutral_count": 6,
+      "moving_avg": -0.139
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.373,
-      "article_count": 7,
+      "avg_sentiment": -0.47,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.092,
+      "source": "TechCrunch",
+      "avg_sentiment": -0.029,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.081,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
@@ -115,51 +121,105 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.014,
-      "article_count": 5,
+      "source": "Reuters",
+      "avg_sentiment": -0.168,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": -0.027,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.127,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.003,
-      "article_count": 3,
+      "avg_sentiment": 0.021,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
-      "headline": "Opinion | Open models for AI were inevitable",
+      "headline": "AI & Tech Brief: The open-source debate",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnNaNFpvWEY5d20tdXVIZDVXZGxWRkxubFlsTFNFMkctSUVfeUtJX0d4VXlOcjhDZElLY3d4dWN5SUE4eFVrak1RQl9ya09CNEhTLTJUbzlKcUMzYjRQVUNmZTVhZHhsWThSQnItcGpwNFFnV0NubThQX21paHRBOWVwNE5kZkowVGFmZUlLZTFvVXdnMVoyam04cklwT2Rnc1JORWdaRVY?oc=5",
+      "published": "2026-07-20T19:17:24",
+      "sentiment_score": -0.008,
+      "sentiment_label": "Neutral",
+      "confidence": 0.935
+    },
+    {
+      "headline": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
-      "published": "2026-07-20T12:46:40",
-      "sentiment_score": -0.067,
+      "published": "2026-07-20T19:14:53",
+      "sentiment_score": -0.046,
       "sentiment_label": "Neutral",
-      "confidence": 0.794
+      "confidence": 0.873
     },
     {
-      "headline": "Bristol Myers buys Nvidia's latest AI computing system for drug research",
+      "headline": "Head of US AI safety agency resigns",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGRmTWZOVGRTRWJYaTkzaWM1VzNVbl96dXFSQlpHc191TktCWTVZbC1fYUpmWFkwWkFJSXhRSmtLendkZXhBUGlMd0t3RUZvTFFwZjBma3l2N0UzSXlaa1FmUWZqSW81a1hMQmtCbkt4bjFZWlh1cVp5LUtPWmhKNFhtZUlCbnZyRzhjVGtaOUZ1Q3lwLXF3VmxZSHRjMVZxYmhSTkE5eVhMZ0J0VjFDVWljT2xaWlRKbkctTw?oc=5",
-      "published": "2026-07-20T11:02:39",
-      "sentiment_score": 0.197,
-      "sentiment_label": "Neutral",
-      "confidence": 0.769
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5",
+      "published": "2026-07-20T17:50:35",
+      "sentiment_score": -0.864,
+      "sentiment_label": "Negative",
+      "confidence": 0.875
     },
     {
-      "headline": "The Made-in-China Anxiety Gripping America\u2019s AI Industry",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGo4T2gyVGxsT29wNF96ZmEwMDRSU3Z1UDlTY2NGYmNlR1hMcllQbHdDUWdvUGpoNWNZdk5ZcHhWcUh2amRPRHg0SGdLMzlyNXlhdm5jenVJaEZqOVk5d2dmdnNRZHRjdFhjdk1qRkFCWUtWX05HX0pBS09BV1oxblVkMjhWWXo4SnJpVVVlM2cwb2VjY0R1Y0M5M1hxRmRWN0lWVEJ3dzM?oc=5",
-      "published": "2026-07-20T11:02:01",
-      "sentiment_score": -0.69,
+      "headline": "Ofcom unable to take further legal action against suicide forum",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-20T16:57:30",
+      "sentiment_score": -0.711,
       "sentiment_label": "Negative",
-      "confidence": 0.709
+      "confidence": 0.729
+    },
+    {
+      "headline": "State AGs are not waiting for new regulations to exercise authority over AI use",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc2JMaXd2T0NfQzd0RkpnOHpiNVVBNlhVZlByb2dHN20zUXkzUnFZS1FPMWJqeTc4SmFEVWxUSFJiMV9kME4xYWVydmRrUkVMSkp4SUtwUGpwdEh3d2R1Tkw2Z0xURE1HNjJ6S3ZLMnFNaGVSbGJWb1MxT1lJVW1fMGFHOTAxSUE0U3U2RW8yNGwtd3pmOW14ejA3NHFTQkFXQlRreU1jRHZpTjl5aGhBbTU1emtNQndZWXRKb04yT2lmMWJVVzRxYVJkZlEzQXVIZHc?oc=5",
+      "published": "2026-07-20T16:26:57",
+      "sentiment_score": 0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.934
+    },
+    {
+      "headline": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTR4RVp6UXNXcFhDT0tMc19fMERESVA1anhRaEZVQmVuckh2THFkN3B4ci1XOUtNZ1ZsXzAxeDRhWm94ZWNNaXhjalM1V01oOFNHLW5DcGdLeVVhV3gtLTNVdzdldmxBTmphQTlWanN4dGZSOGtJT1ZJbnhwRDI0aGNvS09NZmtv?oc=5",
+      "published": "2026-07-20T16:00:00",
+      "sentiment_score": 0.147,
+      "sentiment_label": "Neutral",
+      "confidence": 0.827
+    },
+    {
+      "headline": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEJpeEF5ZEZoV0VoZ3ctaVFqWDJjNnFiS1lTRVRjbnJ6ODZIZXNTWUczS2FqSzlCb19HX0g5UmhBVWZtcTRjaDVIbzJMcG9rQUZQZndqbTZxb0N6Zjh3d3ZIQXE4ZlprTEJOVTdEamRjNFhMV1lJQjhwbVZSZC1YNTBZUW9XemlnaXBMTUFEb29SSDQxLVd3SGFvN3RpSVRjYi04RHltUTBFdw?oc=5",
+      "published": "2026-07-20T15:59:18",
+      "sentiment_score": -0.783,
+      "sentiment_label": "Negative",
+      "confidence": 0.798
+    },
+    {
+      "headline": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-20T15:22:54",
+      "sentiment_score": -0.905,
+      "sentiment_label": "Negative",
+      "confidence": 0.921
+    },
+    {
+      "headline": "\u2018Vibecoded\u2019 Apps Are Flooding the App Store. Is That Good for Apple?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDZPbTVOX19kVWZjN190S3ZkekFBTFNLTU5Xd2c3OGEyZkF1Z2x0YVVCZmJTTDh6bmhMRmY3MGFrUDg2S0g2Rk9pSkRPYzVMQW5yS1ZvN2ZEZzFTWFNRQWphWU45bUlKci0tZ044U1FaVVVmUG8wVHE1c0dBTFkxUlNWTQ?oc=5",
+      "published": "2026-07-20T14:02:31",
+      "sentiment_score": 0.028,
+      "sentiment_label": "Neutral",
+      "confidence": 0.887
     },
     {
       "headline": "United Imaging Intelligence not undertaking an \"extreme\" AI rollout, says co-CEO",
@@ -180,15 +240,6 @@
       "confidence": 0.854
     },
     {
-      "headline": "Why Silicon Valley Can\u2019t Stop Looking Over Its Shoulder at China",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhTVBZMTdvSGliVWFXek1aR3FIcy0xcVVnY0pxSUlGcGVIMG1Ldi1DLUZWNWpNWm5OU0tKZGwwU0I1aHZyYjUxaV9nd0Y4eTQ4SDNoUDNGRWpBeW9qakp5M3NHQmVWZktjWUlnTHlfb0RjRHl5cXc?oc=5",
-      "published": "2026-07-20T09:02:12",
-      "sentiment_score": -0.036,
-      "sentiment_label": "Neutral",
-      "confidence": 0.88
-    },
-    {
       "headline": "Most Firms Say They Lead on AI. But They Can\u2019t Ignore Ford\u2019s GC",
       "source": "Bloomberg Law News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmRaZzVVT2plTGlVcFVheWlVTnY1V3BTVXlrcnpNdmNSV1RwTGdqNFJTZUIwekF4WTJFOF83SlZKVEdiOXhOU2xndFJkTGUxd1I0VEVULVlKc3FwOXRFMmlXVS1UZkRsUUNCOGU2OURmYVE4MDVvLVZ5WFMzR1pfNGc5aTNBMmpUeFJTMGNyOFRSdl9neU4xaWJfY1V0RGNYMFBBLVhBUkgyN2VnQjJaNzBnXy1MdlpZTno2NF9CRWRRa05OT1l4Yw?oc=5",
@@ -198,31 +249,22 @@
       "confidence": 0.91
     },
     {
-      "headline": "China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZy1MZ2F0c2lyb19ZWWJOOHNCeG1MWmJQdEFYTTJkVE5qWXVvY2FsVnFWT3V3SmRZdmtvTlNTUF9PbDBSaEFraEtOT09nY2RNZXZVLUxGakRlaWZGOVRKV3RBS2ZDV2hLVnJ2cHZIVEVFanpOMV9tNGUtMTRqYWNHa2VSNkNOWURuMlFmSl9XNjI1RWRWMFFONXo4V1VZdWQtaGtNaEdmNmw3VXpoQkNtVWJ5VEZBdGNNN3RqYzNsRQ?oc=5",
-      "published": "2026-07-20T08:07:34",
-      "sentiment_score": -0.922,
-      "sentiment_label": "Negative",
-      "confidence": 0.936
-    },
-    {
-      "headline": "UK chief financial officers turn more hopeful about AI",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG42RUx6ZEtaa0VKSjJ1T2VHTktKOXFVLXZvLWFNTTl3a01zZWVmbDVsWW94aVl0S05JcF9qWTdqMlJWektYNVZMMUR6QWtZdmotaW4wSW0zYWlBN3FWR2FPRkRkd1JZNGNHc3FqbDBiYi1IaGJaUDd1RHNHVnFQM3JsNl9yUGRSN0ZDeTM2bWYwQXUyV24xa29DOFZYLXdi?oc=5",
-      "published": "2026-07-19T23:07:43",
-      "sentiment_score": 0.086,
-      "sentiment_label": "Neutral",
-      "confidence": 0.727
-    },
-    {
-      "headline": "Netflix paid $587M for Ben Affleck\u2019s AI filmmaking startup",
+      "headline": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHA2WVpadmo4Q3B1Z3BHVV8tb3RjMWNNcVlWNXJ5SjNIcTREcm1LY1dWSEtVaGp3dmNuY1lSVUQ2X0h0YmxMeHZrWXJCTi1kazd0QmM4cU9wTm45OVRzdkVSX2xyNWVjMUdOM3pHZE42bWhvTGRRTllPbmNERzN1eWp5ZXFvUm90a09QRDhzZ1QzdWNramc?oc=5",
-      "published": "2026-07-19T21:45:00",
-      "sentiment_score": 0.055,
-      "sentiment_label": "Neutral",
-      "confidence": 0.901
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "published": "2026-07-19T19:24:45Z",
+      "sentiment_score": -0.869,
+      "sentiment_label": "Negative",
+      "confidence": 0.884
+    },
+    {
+      "headline": "I hate that I don\u2019t hate this song made with Suno",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "published": "2026-07-19T17:35:54Z",
+      "sentiment_score": -0.542,
+      "sentiment_label": "Negative",
+      "confidence": 0.564
     },
     {
       "headline": "Could AI be conscious?",
@@ -232,6 +274,24 @@
       "sentiment_score": -0.073,
       "sentiment_label": "Neutral",
       "confidence": 0.882
+    },
+    {
+      "headline": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "published": "2026-07-19T14:53:47Z",
+      "sentiment_score": -0.042,
+      "sentiment_label": "Neutral",
+      "confidence": 0.905
+    },
+    {
+      "headline": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "published": "2026-07-19T14:01:31Z",
+      "sentiment_score": 0.794,
+      "sentiment_label": "Positive",
+      "confidence": 0.803
     },
     {
       "headline": "AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career",
@@ -297,19 +357,10 @@
       "confidence": 0.898
     },
     {
-      "headline": "China\u2019s Latest A.I. Breakthrough Threatens America\u2019s Lead",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5",
-      "published": "2026-07-17T19:13:57",
-      "sentiment_score": -0.359,
-      "sentiment_label": "Neutral",
-      "confidence": 0.555
-    },
-    {
       "headline": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
-      "published": "2026-07-17T16:53:04Z",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-17T16:53:04",
       "sentiment_score": 0.693,
       "sentiment_label": "Positive",
       "confidence": 0.701
@@ -358,15 +409,6 @@
       "sentiment_score": -0.744,
       "sentiment_label": "Negative",
       "confidence": 0.776
-    },
-    {
-      "headline": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BNUnBVbTFTTUJEai1vQ19aSUdEYnBIbFl4NU9UVGhfX1o4dEdCNHVkVThYOC1KbVItRUladDdndkRYekFwWmgtcTFtcVBGV20tbDJROWRlc1lxamRZNFZRSEV4WDhpRjYyM2FWd0tpcXR5SExNVFEtckZOdk1SaWdOejV2MVNSVHhYR2dDdWplYXVYY2VadXB6UVJJYVVlU1NOZUFtY3BYbkZKM3MwOXJxUQ?oc=5",
-      "published": "2026-07-14T22:22:24",
-      "sentiment_score": 0.075,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
     },
     {
       "headline": "OpenAI may announce a ChatGPT smart speaker this year",
