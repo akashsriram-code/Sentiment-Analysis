@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-08T12:27:44.800415",
-  "total_articles": 34,
-  "overall_sentiment": -0.17,
+  "last_updated": "2026-08-08T18:23:36.927422",
+  "total_articles": 33,
+  "overall_sentiment": -0.208,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,39 +51,54 @@
     },
     {
       "date": "2026-08-06",
-      "avg_sentiment": -0.069,
-      "article_count": 15,
-      "positive_count": 5,
-      "negative_count": 5,
-      "neutral_count": 5,
-      "moving_avg": -0.451
+      "avg_sentiment": -0.173,
+      "article_count": 8,
+      "positive_count": 1,
+      "negative_count": 4,
+      "neutral_count": 3,
+      "moving_avg": -0.469
     },
     {
       "date": "2026-08-07",
       "avg_sentiment": -0.002,
-      "article_count": 10,
+      "article_count": 13,
       "positive_count": 5,
       "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.387
+      "neutral_count": 5,
+      "moving_avg": -0.402
+    },
+    {
+      "date": "2026-08-08",
+      "avg_sentiment": -0.248,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": -0.336
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.51,
-      "article_count": 12,
+      "avg_sentiment": -0.475,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
+      "source": "The Verge",
+      "avg_sentiment": 0.021,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
       "source": "CNBC",
-      "avg_sentiment": 0.093,
-      "article_count": 6,
+      "avg_sentiment": 0.075,
+      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": 0.04,
+      "source": "TechCrunch",
+      "avg_sentiment": -0.027,
       "article_count": 3,
       "sentiment_label": "Neutral"
     },
@@ -94,27 +109,60 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "The Guardian",
+      "avg_sentiment": -0.56,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
       "source": "WSJ",
       "avg_sentiment": -0.005,
       "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.087,
+      "source": "Time",
+      "avg_sentiment": -0.091,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "\u2018SaaSpocalypse\u2019 debate intensifies as software stocks swing wildly",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTJQeExfT19BZ29POG1GUkRSMXVnRFEyb2N2WFVILTI1S2tMSDZZNDc1SmVJMDgwLU1PeFo3RV9HRXY4MkVHc1RKYjMteURycUR0b1JCRmNjazlsLUMwc2Z2d2c2QW1ZeDJTcW5yOVVxZkdIcTR0LVZvX2N2enVtMHJSTExKMXd4MXByeUN0d216a1J6eUZ6WnVyYW55S09DcW9Z0gGoAUFVX3lxTFBwRmlOTVpHcjhhNmVYVHZxRTlmeWU5UmZCcUtqbFMyX0w3VzMtVFgyZ3lZemg2YWxxWXROeWlSWGNzWm5iWEw3YS0yZDFnWXU3TWdIcWVycF96VWtvbnp1NlZPcTlGcTZIbUtnZ0NaVkFha1JiWFJ6eUFqNG9VU1JKN1EzalRfVEpzNkN0WklrZTJuUjJhSXBBRXlLWWdtWVRGRWRzNjNDYw?oc=5",
-      "published": "2026-08-07T20:22:17",
-      "sentiment_score": -0.821,
+      "headline": "OpenAI to pause work on AI model Astra due to security concerns",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
+      "published": "2026-08-08T16:51:00",
+      "sentiment_score": -0.865,
       "sentiment_label": "Negative",
-      "confidence": 0.854
+      "confidence": 0.875
+    },
+    {
+      "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-08T13:41:32",
+      "sentiment_score": 0.01,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
+    },
+    {
+      "headline": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
+      "published": "2026-08-08T12:35:45",
+      "sentiment_score": 0.112,
+      "sentiment_label": "Neutral",
+      "confidence": 0.868
+    },
+    {
+      "headline": "Disney Plus tries a new AI-powered search",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "published": "2026-08-07T17:53:44Z",
+      "sentiment_score": 0.081,
+      "sentiment_label": "Neutral",
+      "confidence": 0.896
     },
     {
       "headline": "OpenAI\u2019s expensive smart speaker will use moving parts to seem \u201cmore alive\u201d",
@@ -126,6 +174,24 @@
       "confidence": 0.864
     },
     {
+      "headline": "What\u2019s behind the Google AI shakeup",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "published": "2026-08-07T16:45:14Z",
+      "sentiment_score": -0.042,
+      "sentiment_label": "Neutral",
+      "confidence": 0.838
+    },
+    {
+      "headline": "Chesky says Airbnb will spend \u2018a lot more\u2019 on AI as earnings beat and stock surges 15%",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
+      "published": "2026-08-07T16:28:54Z",
+      "sentiment_score": 0.794,
+      "sentiment_label": "Positive",
+      "confidence": 0.805
+    },
+    {
       "headline": "Opinion | Don't Anthropomorphize Artificial Intelligence",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
@@ -135,40 +201,49 @@
       "confidence": 0.927
     },
     {
-      "headline": "Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXNvQU55N1o3NEpVa2FmUlFhcmZBX2swNWstVXNpM0REc09OS0VDc0tJTkZWSGoxRm1VbTlnVkdnQlBCZG1XQi1YVEhuQTFwMFFiVXBwR25tdWNpenRkWm0ydDBhdmVfRHNYbEE3dkY2eXYycGxtX3ZZZWJSXzVCbVVHU3RMa3NORzlBQlBGTlgxdGRFSlg5VXdXRkFFbm5TbWdOTGMxaDN4c2NQeW5RMmln?oc=5",
-      "published": "2026-08-07T12:18:45",
-      "sentiment_score": 0.508,
-      "sentiment_label": "Positive",
-      "confidence": 0.587
-    },
-    {
-      "headline": "China is gaining ground in AI. But the U.S. still has a major advantage",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
-      "published": "2026-08-07T11:19:21Z",
-      "sentiment_score": 0.929,
-      "sentiment_label": "Positive",
-      "confidence": 0.94
-    },
-    {
-      "headline": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
-      "published": "2026-08-07T10:31:29Z",
-      "sentiment_score": 0.23,
-      "sentiment_label": "Positive",
-      "confidence": 0.601
-    },
-    {
-      "headline": "Who is liable when AI goes rogue? Lawyers see new risks",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
-      "published": "2026-08-07T10:19:08",
-      "sentiment_score": -0.127,
+      "headline": "AI Won\u2019t Fix American Education",
+      "source": "Time",
+      "link": "https://time.com/article/2026/08/07/ai-won-t-fix-american-education/",
+      "published": "2026-08-07T15:36:06Z",
+      "sentiment_score": -0.046,
       "sentiment_label": "Neutral",
-      "confidence": 0.803
+      "confidence": 0.795
+    },
+    {
+      "headline": "Crypto\u2019s infrastructure era arrives, with AI agents poised to reshape demand",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+      "published": "2026-08-07T14:57:29Z",
+      "sentiment_score": 0.252,
+      "sentiment_label": "Neutral",
+      "confidence": 0.725
+    },
+    {
+      "headline": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "published": "2026-08-07T14:29:33Z",
+      "sentiment_score": -0.214,
+      "sentiment_label": "Neutral",
+      "confidence": 0.48
+    },
+    {
+      "headline": "Inside the Race to Make AI Build Itself",
+      "source": "Time",
+      "link": "https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai/",
+      "published": "2026-08-07T14:09:26Z",
+      "sentiment_score": -0.137,
+      "sentiment_label": "Neutral",
+      "confidence": 0.762
+    },
+    {
+      "headline": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published": "2026-08-07T12:34:47Z",
+      "sentiment_score": 0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
     },
     {
       "headline": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
@@ -198,24 +273,6 @@
       "confidence": 0.86
     },
     {
-      "headline": "Gurman on OpenAI\u2019s Device: \u2018A Doughnut-Shaped Speaker That Costs Over $300\u2019",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting",
-      "published": "2026-08-06T23:47:32Z",
-      "sentiment_score": 0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.907
-    },
-    {
-      "headline": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "published": "2026-08-06T23:41:53Z",
-      "sentiment_score": 0.063,
-      "sentiment_label": "Neutral",
-      "confidence": 0.915
-    },
-    {
       "headline": "Why airlines are warning over lithium-ion batteries",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
@@ -225,49 +282,22 @@
       "confidence": 0.704
     },
     {
-      "headline": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300-$400",
+      "headline": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/",
-      "published": "2026-08-06T22:43:53Z",
-      "sentiment_score": 0.111,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVI3RU9CWC02X1pSSWM5ZUplVmlFQi1tVDZST0RKQmtOam1wWE5XNWlPbWR1Zkh6MUYzakVBejNWalRuaGZWYVNycDRWb0tMcU0tUHQ2R0lvVXNPSUJfcW9za05BTzhsTGNRalFMVm5tYXczTUozOWVSNmJ3MEhLLVhWeWtBMjd1V3BXZDZOOGxvWERIT1NRUVgyOV9WTzZZeTFNTFhiZHpGdnM2?oc=5",
+      "published": "2026-08-06T22:43:53",
+      "sentiment_score": 0.098,
       "sentiment_label": "Neutral",
-      "confidence": 0.864
+      "confidence": 0.878
     },
     {
       "headline": "Jony Ive\u2019s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "published": "2026-08-06T20:56:31Z",
-      "sentiment_score": 0.017,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzlsMFlLRzZVYjc1TThTRUpDMlV0NFlIeHpQTTZOQXVmQlVsR2tfYkJaejVBb0p2UjNhWWg0a3ZXU1NDUjctYnFCR1lLU3Y1aXVsR2tKZktLUmIyNDRWenE1Umx2MVNiNldpR0pzbTVMVkNYUE40TFVGUGhTNlVLZzlxS085Sm5lcFR0TGNLZkgyYXo4elBndXFlWmF3MHppcVZN?oc=5",
+      "published": "2026-08-06T20:55:39",
+      "sentiment_score": 0.025,
       "sentiment_label": "Neutral",
       "confidence": 0.934
-    },
-    {
-      "headline": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
-      "published": "2026-08-06T20:07:24Z",
-      "sentiment_score": 0.94,
-      "sentiment_label": "Positive",
-      "confidence": 0.956
-    },
-    {
-      "headline": "AMD buys chip startup that hardwires AI models into its silicon",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-      "published": "2026-08-06T20:05:37Z",
-      "sentiment_score": 0.097,
-      "sentiment_label": "Neutral",
-      "confidence": 0.882
-    },
-    {
-      "headline": "Why Normal People Aren\u2019t Using AI Agents",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "published": "2026-08-06T19:55:45Z",
-      "sentiment_score": 0.043,
-      "sentiment_label": "Neutral",
-      "confidence": 0.908
     },
     {
       "headline": "Safety fears as scientists make first viruses designed by AI",
@@ -280,21 +310,12 @@
     },
     {
       "headline": "Artificial Intelligence used to design brand new viruses",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c5y3j3ngevmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "published": "2026-08-06T18:44:17Z",
-      "sentiment_score": 0.05,
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxOFlLRVNUTFI1UGpzVk16V003ZnVMLUQ1ZjZSd2M3VVhmU0V5c3JVUUczMVhRVGVuUmdZRVo1R1RxampkUTRBdkhVeHlLZkZyOGFHX3RXZw?oc=5",
+      "published": "2026-08-06T18:01:52",
+      "sentiment_score": 0.006,
       "sentiment_label": "Neutral",
-      "confidence": 0.912
-    },
-    {
-      "headline": "Author 'devastated' after festival judges accuse her of using AI to write novel",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dnd9xypeo",
-      "published": "2026-08-06T18:06:19Z",
-      "sentiment_score": -0.926,
-      "sentiment_label": "Negative",
-      "confidence": 0.938
+      "confidence": 0.919
     },
     {
       "headline": "This A.I. Just Created Viruses Not Found in Nature",
@@ -304,15 +325,6 @@
       "sentiment_score": -0.02,
       "sentiment_label": "Neutral",
       "confidence": 0.921
-    },
-    {
-      "headline": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "published": "2026-08-06T16:23:04Z",
-      "sentiment_score": 0.016,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
     },
     {
       "headline": "First OpenAI, now Meta - why do AI hacks keep happening?",
