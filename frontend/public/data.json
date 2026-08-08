@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T18:41:02.820106",
-  "total_articles": 31,
-  "overall_sentiment": -0.216,
+  "last_updated": "2026-08-08T00:55:29.261805",
+  "total_articles": 38,
+  "overall_sentiment": -0.206,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,44 +42,50 @@
     },
     {
       "date": "2026-08-06",
-      "avg_sentiment": -0.094,
-      "article_count": 18,
-      "positive_count": 5,
-      "negative_count": 8,
-      "neutral_count": 5,
-      "moving_avg": -0.404
+      "avg_sentiment": -0.045,
+      "article_count": 23,
+      "positive_count": 10,
+      "negative_count": 7,
+      "neutral_count": 6,
+      "moving_avg": -0.394
     },
     {
       "date": "2026-08-07",
-      "avg_sentiment": -0.2,
-      "article_count": 5,
+      "avg_sentiment": -0.397,
+      "article_count": 7,
       "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 3,
-      "moving_avg": -0.37
+      "negative_count": 5,
+      "neutral_count": 2,
+      "moving_avg": -0.395
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.51,
-      "article_count": 12,
+      "avg_sentiment": -0.479,
+      "article_count": 13,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.063,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.233,
+      "avg_sentiment": 0.154,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.138,
+      "avg_sentiment": 0.135,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "WSJ",
+      "source": "wsj.com",
       "avg_sentiment": -0.005,
       "article_count": 2,
       "sentiment_label": "Neutral"
@@ -91,22 +97,37 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.056,
+      "source": "CNN",
+      "avg_sentiment": -0.193,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.83,
+      "source": "Wired",
+      "avg_sentiment": 0.029,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.055,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "\u2018SaaSpocalypse\u2019 debate intensifies as software stocks swing wildly",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTJQeExfT19BZ29POG1GUkRSMXVnRFEyb2N2WFVILTI1S2tMSDZZNDc1SmVJMDgwLU1PeFo3RV9HRXY4MkVHc1RKYjMteURycUR0b1JCRmNjazlsLUMwc2Z2d2c2QW1ZeDJTcW5yOVVxZkdIcTR0LVZvX2N2enVtMHJSTExKMXd4MXByeUN0d216a1J6eUZ6WnVyYW55S09DcW9Z0gGoAUFVX3lxTFBwRmlOTVpHcjhhNmVYVHZxRTlmeWU5UmZCcUtqbFMyX0w3VzMtVFgyZ3lZemg2YWxxWXROeWlSWGNzWm5iWEw3YS0yZDFnWXU3TWdIcWVycF96VWtvbnp1NlZPcTlGcTZIbUtnZ0NaVkFha1JiWFJ6eUFqNG9VU1JKN1EzalRfVEpzNkN0WklrZTJuUjJhSXBBRXlLWWdtWVRGRWRzNjNDYw?oc=5",
+      "published": "2026-08-07T20:22:17",
+      "sentiment_score": -0.821,
+      "sentiment_label": "Negative",
+      "confidence": 0.854
+    },
+    {
       "headline": "Opinion | Don't Anthropomorphize Artificial Intelligence",
-      "source": "WSJ",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
       "published": "2026-08-07T15:43:00",
       "sentiment_score": -0.007,
@@ -132,22 +153,67 @@
       "confidence": 0.931
     },
     {
-      "headline": "ByteDance targets mega AI model nearing Anthropic\u2019s Mythos",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5",
-      "published": "2026-08-07T04:36:57",
-      "sentiment_score": 0.043,
-      "sentiment_label": "Neutral",
-      "confidence": 0.919
-    },
-    {
       "headline": "Facing AI \u2018Apocalypse,\u2019 Once-Hot Software Companies Race to Reinvent Themselves",
-      "source": "WSJ",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlzQ3lWMFVjd1ZENnhjaTc5c0Y5Q2RmbWN0TTNJdlI4bWdwY1BPZFVLaTZPSE1vYUZlZXhGQkVIOEg0eDlwYmFFclRYRmk1NFBXcEt5dFVUdEZZbnNqckY0OHgzX25OWjg5b2laMHhVOTFoX0dkYkQxTGcwQW54eFU2MA?oc=5",
       "published": "2026-08-07T01:00:00",
       "sentiment_score": -0.004,
       "sentiment_label": "Neutral",
       "confidence": 0.86
+    },
+    {
+      "headline": "Trump imposes 15% tariff on key chip material to counter China",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo",
+      "published": "2026-08-07T00:44:12Z",
+      "sentiment_score": -0.112,
+      "sentiment_label": "Neutral",
+      "confidence": 0.43
+    },
+    {
+      "headline": "New Mexico judge orders Meta to pay $567 million into a child mental health fund | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/08/06/business/meta-new-mexico-child-health",
+      "published": "2026-08-07T00:23:36Z",
+      "sentiment_score": -0.804,
+      "sentiment_label": "Negative",
+      "confidence": 0.844
+    },
+    {
+      "headline": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTUpGN2hnUkdISjR6WWd3REJqWWtWVFBjZVBmM2VPUVF1ajBoNzdkVEZWVHl1T2RfaTJCZFF5am5YMlZJUUdkNzEwX19fMnJYMlVleEtPakZJY1JZWXBTNVdhVVo4NFpaR25Jc0JSSTQ?oc=5",
+      "published": "2026-08-06T23:52:33",
+      "sentiment_score": 0.419,
+      "sentiment_label": "Neutral",
+      "confidence": 0.517
+    },
+    {
+      "headline": "Court orders Meta to pay $567 million to address kids' mental health, safety on its platforms",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/meta-court-ruling-mental-health-online-platforms-21b425faf745d0f736b310ebd8bc6b89",
+      "published": "2026-08-06T23:48:32Z",
+      "sentiment_score": -0.879,
+      "sentiment_label": "Negative",
+      "confidence": 0.898
+    },
+    {
+      "headline": "Gurman on OpenAI\u2019s Device: \u2018A Doughnut-Shaped Speaker That Costs Over $300\u2019",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting",
+      "published": "2026-08-06T23:47:32Z",
+      "sentiment_score": 0.068,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
+    },
+    {
+      "headline": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "published": "2026-08-06T23:41:53Z",
+      "sentiment_score": 0.063,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
     },
     {
       "headline": "Why airlines are warning over lithium-ion batteries",
@@ -159,22 +225,67 @@
       "confidence": 0.704
     },
     {
-      "headline": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
+      "headline": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300-$400",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVI3RU9CWC02X1pSSWM5ZUplVmlFQi1tVDZST0RKQmtOam1wWE5XNWlPbWR1Zkh6MUYzakVBejNWalRuaGZWYVNycDRWb0tMcU0tUHQ2R0lvVXNPSUJfcW9za05BTzhsTGNRalFMVm5tYXczTUozOWVSNmJ3MEhLLVhWeWtBMjd1V3BXZDZOOGxvWERIT1NRUVgyOV9WTzZZeTFNTFhiZHpGdnM2?oc=5",
-      "published": "2026-08-06T22:43:53",
-      "sentiment_score": 0.098,
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/",
+      "published": "2026-08-06T22:43:53Z",
+      "sentiment_score": 0.111,
       "sentiment_label": "Neutral",
-      "confidence": 0.878
+      "confidence": 0.864
+    },
+    {
+      "headline": "Jim Cramer highlights 5 investing themes \u2014 and the stocks to buy for each",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/06/jim-cramer-5-investing-themes-stocks-to-buy.html",
+      "published": "2026-08-06T22:23:25Z",
+      "sentiment_score": 0.287,
+      "sentiment_label": "Neutral",
+      "confidence": 0.69
+    },
+    {
+      "headline": "Vogue just gave another nod of approval to the tech world | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+      "published": "2026-08-06T21:24:47Z",
+      "sentiment_score": 0.185,
+      "sentiment_label": "Neutral",
+      "confidence": 0.791
     },
     {
       "headline": "Jony Ive\u2019s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzlsMFlLRzZVYjc1TThTRUpDMlV0NFlIeHpQTTZOQXVmQlVsR2tfYkJaejVBb0p2UjNhWWg0a3ZXU1NDUjctYnFCR1lLU3Y1aXVsR2tKZktLUmIyNDRWenE1Umx2MVNiNldpR0pzbTVMVkNYUE40TFVGUGhTNlVLZzlxS085Sm5lcFR0TGNLZkgyYXo4elBndXFlWmF3MHppcVZN?oc=5",
-      "published": "2026-08-06T20:55:39",
-      "sentiment_score": 0.025,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "published": "2026-08-06T20:56:31Z",
+      "sentiment_score": 0.017,
       "sentiment_label": "Neutral",
       "confidence": 0.934
+    },
+    {
+      "headline": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
+      "published": "2026-08-06T20:07:24Z",
+      "sentiment_score": 0.94,
+      "sentiment_label": "Positive",
+      "confidence": 0.956
+    },
+    {
+      "headline": "AMD buys chip startup that hardwires AI models into its silicon",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+      "published": "2026-08-06T20:05:37Z",
+      "sentiment_score": 0.097,
+      "sentiment_label": "Neutral",
+      "confidence": 0.882
+    },
+    {
+      "headline": "Why Normal People Aren\u2019t Using AI Agents",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+      "published": "2026-08-06T19:55:45Z",
+      "sentiment_score": 0.043,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
     },
     {
       "headline": "Safety fears as scientists make first viruses designed by AI",
@@ -188,8 +299,8 @@
     {
       "headline": "Artificial Intelligence used to design brand new viruses",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/c5y3j3ngevmo",
-      "published": "2026-08-06T18:30:37Z",
+      "link": "https://www.bbc.com/news/articles/c5y3j3ngevmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-08-06T18:44:17Z",
       "sentiment_score": 0.05,
       "sentiment_label": "Neutral",
       "confidence": 0.912
@@ -208,9 +319,9 @@
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
       "published": "2026-08-06T18:00:05",
-      "sentiment_score": -0.023,
+      "sentiment_score": -0.02,
       "sentiment_label": "Neutral",
-      "confidence": 0.916
+      "confidence": 0.921
     },
     {
       "headline": "OpenAI brings unlimited ChatGPT text chats to free users | TechCrunch",
@@ -242,29 +353,11 @@
     {
       "headline": "First OpenAI, now Meta - why do AI hacks keep happening?",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo",
-      "published": "2026-08-06T15:59:34Z",
+      "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-06T15:59:34",
       "sentiment_score": -0.193,
       "sentiment_label": "Neutral",
       "confidence": 0.73
-    },
-    {
-      "headline": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "published": "2026-08-06T15:10:32Z",
-      "sentiment_score": -0.361,
-      "sentiment_label": "Neutral",
-      "confidence": 0.473
-    },
-    {
-      "headline": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
-      "published": "2026-08-06T14:26:30Z",
-      "sentiment_score": -0.84,
-      "sentiment_label": "Negative",
-      "confidence": 0.856
     },
     {
       "headline": "AI bots started a religion \u2014\u00a0humans immediately followed",
@@ -274,24 +367,6 @@
       "sentiment_score": -0.019,
       "sentiment_label": "Neutral",
       "confidence": 0.901
-    },
-    {
-      "headline": "SoftBank Uses OpenAI Stake to Borrow $10 Billion",
-      "source": "The Wall Street Journal",
-      "link": "https://www.wsj.com/business/earnings/softbank-group-reports-lower-quarterly-profit-2bca0889",
-      "published": "2026-08-06T12:55:00Z",
-      "sentiment_score": 0.838,
-      "sentiment_label": "Positive",
-      "confidence": 0.845
-    },
-    {
-      "headline": "Omilia raises $67M to scale its customer support platform | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "published": "2026-08-06T12:00:00Z",
-      "sentiment_score": 0.935,
-      "sentiment_label": "Positive",
-      "confidence": 0.948
     },
     {
       "headline": "OpenAI seeks dismissal of Apple's trade secrets lawsuit",
