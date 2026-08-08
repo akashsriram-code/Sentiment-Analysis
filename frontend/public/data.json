@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-08-08T00:55:29.261805",
+  "last_updated": "2026-08-08T06:36:30.015222",
   "total_articles": 38,
-  "overall_sentiment": -0.206,
+  "overall_sentiment": -0.224,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-07-26",
+      "avg_sentiment": 0.06,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.06
+    },
     {
       "date": "2026-07-28",
       "avg_sentiment": -0.005,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.005
+      "moving_avg": 0.028
     },
     {
       "date": "2026-08-03",
@@ -20,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.443
+      "moving_avg": -0.275
     },
     {
       "date": "2026-08-04",
@@ -29,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.381
+      "moving_avg": -0.271
     },
     {
       "date": "2026-08-05",
@@ -38,25 +47,34 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.482
+      "moving_avg": -0.373
     },
     {
       "date": "2026-08-06",
-      "avg_sentiment": -0.045,
-      "article_count": 23,
-      "positive_count": 10,
-      "negative_count": 7,
-      "neutral_count": 6,
-      "moving_avg": -0.394
+      "avg_sentiment": -0.07,
+      "article_count": 18,
+      "positive_count": 7,
+      "negative_count": 6,
+      "neutral_count": 5,
+      "moving_avg": -0.323
     },
     {
       "date": "2026-08-07",
-      "avg_sentiment": -0.397,
-      "article_count": 7,
-      "positive_count": 0,
-      "negative_count": 5,
+      "avg_sentiment": -0.325,
+      "article_count": 10,
+      "positive_count": 2,
+      "negative_count": 6,
       "neutral_count": 2,
-      "moving_avg": -0.395
+      "moving_avg": -0.323
+    },
+    {
+      "date": "2026-08-08",
+      "avg_sentiment": -0.062,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.341
     }
   ],
   "source_stats": [
@@ -68,7 +86,7 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.063,
+      "avg_sentiment": -0.109,
       "article_count": 5,
       "sentiment_label": "Negative"
     },
@@ -79,13 +97,13 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.135,
+      "source": "Wired",
+      "avg_sentiment": -0.29,
       "article_count": 3,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
-      "source": "wsj.com",
+      "source": "WSJ",
       "avg_sentiment": -0.005,
       "article_count": 2,
       "sentiment_label": "Neutral"
@@ -97,18 +115,6 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNN",
-      "avg_sentiment": -0.193,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.029,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
       "source": "The New York Times",
       "avg_sentiment": -0.055,
       "article_count": 2,
@@ -116,6 +122,15 @@
     }
   ],
   "articles": [
+    {
+      "headline": "Deepfake victim urges better regulation of 'dangerous' AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6UlM3OFBCN1ZRUFFJT2N5VFVBN1ZkOEQ2NlBtSzFXb2NiSTkwV1liSm02Ym1MT2dTb0FRb2pTRW1YWU9Qck1WNVRYWWdWM1FVSzhVSDVFYUxRZw?oc=5",
+      "published": "2026-08-08T06:18:58",
+      "sentiment_score": -0.062,
+      "sentiment_label": "Neutral",
+      "confidence": 0.759
+    },
     {
       "headline": "\u2018SaaSpocalypse\u2019 debate intensifies as software stocks swing wildly",
       "source": "CNBC",
@@ -126,13 +141,31 @@
       "confidence": 0.854
     },
     {
+      "headline": "OpenAI\u2019s expensive smart speaker will use moving parts to seem \u201cmore alive\u201d",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHdHRHlBTDUzN2RJTFo5azdHOXRNWFFDbkR1UFNncEFlVnY4dFFhUTh6WVQ4aVhtNnZ5NTM1djFkZHFseE93d2hoZmJWMGd3ZkZoYXhkaHBySzRfTXRORHVWZFh5RFF2bnNQcVY1aV80cHBEWTF6OVZoVzduMWxidld0VkNFaExRbnk1MGJVcEVycFhRbnhxSWk3VWd3R2hmNVNIcFg1X1FnWnJSb1NFdk1CTQ?oc=5",
+      "published": "2026-08-07T17:36:22",
+      "sentiment_score": 0.108,
+      "sentiment_label": "Neutral",
+      "confidence": 0.864
+    },
+    {
       "headline": "Opinion | Don't Anthropomorphize Artificial Intelligence",
-      "source": "wsj.com",
+      "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
       "published": "2026-08-07T15:43:00",
       "sentiment_score": -0.007,
       "sentiment_label": "Neutral",
       "confidence": 0.927
+    },
+    {
+      "headline": "Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun",
+      "source": "bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXNvQU55N1o3NEpVa2FmUlFhcmZBX2swNWstVXNpM0REc09OS0VDc0tJTkZWSGoxRm1VbTlnVkdnQlBCZG1XQi1YVEhuQTFwMFFiVXBwR25tdWNpenRkWm0ydDBhdmVfRHNYbEE3dkY2eXYycGxtX3ZZZWJSXzVCbVVHU3RMa3NORzlBQlBGTlgxdGRFSlg5VXdXRkFFbm5TbWdOTGMxaDN4c2NQeW5RMmln?oc=5",
+      "published": "2026-08-07T12:18:45",
+      "sentiment_score": 0.508,
+      "sentiment_label": "Positive",
+      "confidence": 0.587
     },
     {
       "headline": "Who is liable when AI goes rogue? Lawyers see new risks",
@@ -153,8 +186,26 @@
       "confidence": 0.931
     },
     {
+      "headline": "US job market sends mixed signals as layoffs stay low and hiring stays muted",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/economy-jobs-trump-unemployment-rate-jobseekers-9c2d147c14bc428458be5a1e83e54957",
+      "published": "2026-08-07T05:01:23Z",
+      "sentiment_score": -0.957,
+      "sentiment_label": "Negative",
+      "confidence": 0.97
+    },
+    {
+      "headline": "One of China\u2019s Most Powerful AI Models Has Also Broken Containment",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "published": "2026-08-07T01:16:55Z",
+      "sentiment_score": -0.93,
+      "sentiment_label": "Negative",
+      "confidence": 0.941
+    },
+    {
       "headline": "Facing AI \u2018Apocalypse,\u2019 Once-Hot Software Companies Race to Reinvent Themselves",
-      "source": "wsj.com",
+      "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlzQ3lWMFVjd1ZENnhjaTc5c0Y5Q2RmbWN0TTNJdlI4bWdwY1BPZFVLaTZPSE1vYUZlZXhGQkVIOEg0eDlwYmFFclRYRmk1NFBXcEt5dFVUdEZZbnNqckY0OHgzX25OWjg5b2laMHhVOTFoX0dkYkQxTGcwQW54eFU2MA?oc=5",
       "published": "2026-08-07T01:00:00",
       "sentiment_score": -0.004,
@@ -169,33 +220,6 @@
       "sentiment_score": -0.112,
       "sentiment_label": "Neutral",
       "confidence": 0.43
-    },
-    {
-      "headline": "New Mexico judge orders Meta to pay $567 million into a child mental health fund | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/08/06/business/meta-new-mexico-child-health",
-      "published": "2026-08-07T00:23:36Z",
-      "sentiment_score": -0.804,
-      "sentiment_label": "Negative",
-      "confidence": 0.844
-    },
-    {
-      "headline": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTUpGN2hnUkdISjR6WWd3REJqWWtWVFBjZVBmM2VPUVF1ajBoNzdkVEZWVHl1T2RfaTJCZFF5am5YMlZJUUdkNzEwX19fMnJYMlVleEtPakZJY1JZWXBTNVdhVVo4NFpaR25Jc0JSSTQ?oc=5",
-      "published": "2026-08-06T23:52:33",
-      "sentiment_score": 0.419,
-      "sentiment_label": "Neutral",
-      "confidence": 0.517
-    },
-    {
-      "headline": "Court orders Meta to pay $567 million to address kids' mental health, safety on its platforms",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/meta-court-ruling-mental-health-online-platforms-21b425faf745d0f736b310ebd8bc6b89",
-      "published": "2026-08-06T23:48:32Z",
-      "sentiment_score": -0.879,
-      "sentiment_label": "Negative",
-      "confidence": 0.898
     },
     {
       "headline": "Gurman on OpenAI\u2019s Device: \u2018A Doughnut-Shaped Speaker That Costs Over $300\u2019",
@@ -232,15 +256,6 @@
       "sentiment_score": 0.111,
       "sentiment_label": "Neutral",
       "confidence": 0.864
-    },
-    {
-      "headline": "Jim Cramer highlights 5 investing themes \u2014 and the stocks to buy for each",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/06/jim-cramer-5-investing-themes-stocks-to-buy.html",
-      "published": "2026-08-06T22:23:25Z",
-      "sentiment_score": 0.287,
-      "sentiment_label": "Neutral",
-      "confidence": 0.69
     },
     {
       "headline": "Vogue just gave another nod of approval to the tech world | TechCrunch",
@@ -333,15 +348,6 @@
       "confidence": 0.723
     },
     {
-      "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "published": "2026-08-06T16:48:33Z",
-      "sentiment_score": 0.407,
-      "sentiment_label": "Neutral",
-      "confidence": 0.57
-    },
-    {
       "headline": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
       "source": "Wired",
       "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
@@ -358,15 +364,6 @@
       "sentiment_score": -0.193,
       "sentiment_label": "Neutral",
       "confidence": 0.73
-    },
-    {
-      "headline": "AI bots started a religion \u2014\u00a0humans immediately followed",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "published": "2026-08-06T13:04:51Z",
-      "sentiment_score": -0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.901
     },
     {
       "headline": "OpenAI seeks dismissal of Apple's trade secrets lawsuit",
@@ -457,6 +454,15 @@
       "sentiment_score": -0.005,
       "sentiment_label": "Neutral",
       "confidence": 0.932
+    },
+    {
+      "headline": "How AI wealth could be distributed to all Americans",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVdJTnFxWVJxeTJkcVNJcmJoekVxVWVXOXh0RFgxWHFlWU9Va2kwZUVleERmQVBBcTN0N1gyaExJNnVPRzkyVHl3ejFLSHhhdW9PT3h5bGlJa0hLakp2cDdGdDRyOHVmVmZCTE9RSV9fRmh0cjF3NFNGYzBkV3hZRE9XQUhCTmM4X3Vn0gGQAUFVX3lxTE9fR0U5ckFnNWJvQk1sWjZ2UERhVUktSGtZRUFLalpKZUhMZ3phYlpIeExtYk1rdDQtSVl6RVJSUTdMU2ZBemFicC16aDBrbDN0a0JkVERhM09iN1labDE5Nl9zZG5SUzU4d05CVFozSkVWcElfRFRuVEdJTFBLYUN5VGtFX2t3NmxZaDVnQlU3dQ?oc=5",
+      "published": "2026-07-26T07:00:00",
+      "sentiment_score": 0.06,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
     }
   ]
 }
