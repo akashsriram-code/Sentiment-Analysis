@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-09T06:39:20.473974",
-  "total_articles": 33,
-  "overall_sentiment": -0.21,
+  "last_updated": "2026-08-09T12:30:40.798411",
+  "total_articles": 36,
+  "overall_sentiment": -0.241,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,56 +51,65 @@
     },
     {
       "date": "2026-08-06",
-      "avg_sentiment": -0.147,
-      "article_count": 9,
-      "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 3,
-      "moving_avg": -0.464
+      "avg_sentiment": -0.022,
+      "article_count": 10,
+      "positive_count": 4,
+      "negative_count": 2,
+      "neutral_count": 4,
+      "moving_avg": -0.444
     },
     {
       "date": "2026-08-07",
-      "avg_sentiment": -0.077,
-      "article_count": 13,
-      "positive_count": 5,
-      "negative_count": 3,
-      "neutral_count": 5,
-      "moving_avg": -0.409
+      "avg_sentiment": -0.086,
+      "article_count": 9,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 4,
+      "moving_avg": -0.392
     },
     {
       "date": "2026-08-08",
-      "avg_sentiment": 0.061,
+      "avg_sentiment": -0.302,
+      "article_count": 6,
+      "positive_count": 0,
+      "negative_count": 2,
+      "neutral_count": 4,
+      "moving_avg": -0.334
+    },
+    {
+      "date": "2026-08-09",
+      "avg_sentiment": -0.583,
       "article_count": 2,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.299
+      "positive_count": 0,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.416
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.475,
-      "article_count": 11,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.197,
-      "article_count": 4,
+      "avg_sentiment": -0.504,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.154,
+      "avg_sentiment": -0.048,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.188,
       "article_count": 4,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.225,
+      "avg_sentiment": 0.015,
       "article_count": 3,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
@@ -113,9 +122,57 @@
       "avg_sentiment": -0.005,
       "article_count": 2,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.534,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.022,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
+      "published": "2026-08-09T11:31:42",
+      "sentiment_score": -0.283,
+      "sentiment_label": "Neutral",
+      "confidence": 0.667
+    },
+    {
+      "headline": "Opinion | Universities are fighting AI cheating. But there\u2019s a deeper problem.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBmV0tHYUtmWW9rV0xCQXg4RThKVmxVN3l6bmRTVTNCb0p2M1BFLUhWTDN4Y29zaFg3eDB6Vm1ldHZISlhUS2tPYUMtZTRMZGstWjByMzdRZ3BObGhtWG1pVzMwNUlBOGVTR2JSUzFKckZfWHF1WkYtXzdJOU5uOVJfbkJZUUhINHU2elZkdmNWOXJHNzFZU0t4QjltTF9ZbnEwYnRURmhQTXZBU1E?oc=5",
+      "published": "2026-08-09T11:02:56",
+      "sentiment_score": -0.882,
+      "sentiment_label": "Negative",
+      "confidence": 0.898
+    },
+    {
+      "headline": "Facing AI \u2018Apocalypse,\u2019 Once-Hot Software Companies Race to Reinvent Themselves",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlzQ3lWMFVjd1ZENnhjaTc5c0Y5Q2RmbWN0TTNJdlI4bWdwY1BPZFVLaTZPSE1vYUZlZXhGQkVIOEg0eDlwYmFFclRYRmk1NFBXcEt5dFVUdEZZbnNqckY0OHgzX25OWjg5b2laMHhVOTFoX0dkYkQxTGcwQW54eFU2MA?oc=5",
+      "published": "2026-08-08T23:32:07",
+      "sentiment_score": -0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.86
+    },
+    {
+      "headline": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
+      "published": "2026-08-08T16:51:00",
+      "sentiment_score": -0.814,
+      "sentiment_label": "Negative",
+      "confidence": 0.825
+    },
     {
       "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
       "source": "BBC News",
@@ -126,13 +183,31 @@
       "confidence": 0.915
     },
     {
-      "headline": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
-      "published": "2026-08-08T12:35:45",
-      "sentiment_score": 0.112,
+      "headline": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "published": "2026-08-08T12:00:01Z",
+      "sentiment_score": -0.965,
+      "sentiment_label": "Negative",
+      "confidence": 0.972
+    },
+    {
+      "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "published": "2026-08-08T12:00:01Z",
+      "sentiment_score": -0.037,
       "sentiment_label": "Neutral",
-      "confidence": 0.868
+      "confidence": 0.864
+    },
+    {
+      "headline": "How to Disable Gemini in Gmail and Google Docs",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "published": "2026-08-08T10:00:00Z",
+      "sentiment_score": -0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
     },
     {
       "headline": "OpenAI says it slowed Astra model development over security concerns | TechCrunch",
@@ -153,31 +228,13 @@
       "confidence": 0.924
     },
     {
-      "headline": "\u2018SaaSpocalypse\u2019 debate intensifies as software stocks swing wildly",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-      "published": "2026-08-07T20:22:17Z",
-      "sentiment_score": 0.39,
-      "sentiment_label": "Neutral",
-      "confidence": 0.466
-    },
-    {
-      "headline": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful",
+      "headline": "AI detectors are creating a new era of distrust",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "published": "2026-08-07T18:40:34Z",
-      "sentiment_score": -0.781,
-      "sentiment_label": "Negative",
-      "confidence": 0.794
-    },
-    {
-      "headline": "Disney Plus tries a new AI-powered search",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "published": "2026-08-07T17:53:44Z",
-      "sentiment_score": 0.081,
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "published": "2026-08-07T19:23:17Z",
+      "sentiment_score": -0.049,
       "sentiment_label": "Neutral",
-      "confidence": 0.896
+      "confidence": 0.846
     },
     {
       "headline": "OpenAI\u2019s expensive smart speaker will use moving parts to seem \u201cmore alive\u201d",
@@ -201,7 +258,7 @@
       "headline": "Opinion | Don't Anthropomorphize Artificial Intelligence",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFc5eVQzSVU4T1Y5dWFsYy1md19COFhfVF9uRzVad19Kd2pQaGZuN042MTNJNDR3MHZkbUUwRGcyQm9fUkFOY0l4WTBqRnM3MVNLZzFPaEI3ZEJYN3F4OEM4aUNhenctM09FbWRzUTdnRXlXZk5vcXMxcVRWVnlKYlVGSzBXRzJ4T1Aw?oc=5",
-      "published": "2026-08-07T15:45:31",
+      "published": "2026-08-07T15:43:00",
       "sentiment_score": -0.007,
       "sentiment_label": "Neutral",
       "confidence": 0.927
@@ -225,15 +282,6 @@
       "confidence": 0.725
     },
     {
-      "headline": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "published": "2026-08-07T12:34:47Z",
-      "sentiment_score": 0.036,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
-    },
-    {
       "headline": "Meta fined $567m in largest child safety ruling against social media giant",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
@@ -241,15 +289,6 @@
       "sentiment_score": -0.903,
       "sentiment_label": "Negative",
       "confidence": 0.931
-    },
-    {
-      "headline": "Facing AI \u2018Apocalypse,\u2019 Once-Hot Software Companies Race to Reinvent Themselves",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlzQ3lWMFVjd1ZENnhjaTc5c0Y5Q2RmbWN0TTNJdlI4bWdwY1BPZFVLaTZPSE1vYUZlZXhGQkVIOEg0eDlwYmFFclRYRmk1NFBXcEt5dFVUdEZZbnNqckY0OHgzX25OWjg5b2laMHhVOTFoX0dkYkQxTGcwQW54eFU2MA?oc=5",
-      "published": "2026-08-07T01:00:00",
-      "sentiment_score": -0.004,
-      "sentiment_label": "Neutral",
-      "confidence": 0.86
     },
     {
       "headline": "Why airlines are warning over lithium-ion batteries",
@@ -315,22 +354,31 @@
       "confidence": 0.921
     },
     {
-      "headline": "First OpenAI, now Meta - why do AI hacks keep happening?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-06T15:59:34",
-      "sentiment_score": -0.193,
+      "headline": "ChatGPT brings unlimited text chats to free users",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzNVMXZROTVDcTFTS3lLWHFpQi1keDdsQnVoRm40NzcyQUNiYWlmYUVsaTN5WDRldFhTRl83RGpuWjh5TVlvVk5KLUY4aV82eHJHUlNGa3VXOWRGSkktRDM4YUFZWnVDU3FzcUR0X2lqc1lSd0ZhRW5BY1AyUnF6SVhOaEd2LTJSLUJkT0w0cmFXQTlNcEE?oc=5",
+      "published": "2026-08-06T17:34:42",
+      "sentiment_score": 0.074,
       "sentiment_label": "Neutral",
-      "confidence": 0.73
+      "confidence": 0.901
     },
     {
-      "headline": "Google is expanding its AI empire \u2014 and losing the people who built it",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWYzT056UVhPQURYS2lfZzFSa2QxUUVCTHQ3MHB1aUM5VmhnVEl0c25NYWI0ZVFXcjNkeTk5Ty1FUkc1QnJkQ1NkWkRhSHVxM2xkdEtMUGl6QWdOUGQ3VEl3eG9mYnE1eWZVd1V3TG1VUGswWlhWRGRSOEFIZ09jWVNsWTE2YlhLVVF6bWR5cDBIU0w2djA4dDJSeTF6bWh6dU1QWEhvYnLSAa4BQVVfeXFMUHh5V1RXLUl0OFdUdkNoOE1MLVJwNGF5VVRBQi1yYy1PMzAzWUtxTk9MQTh0T2VOWm4ySWhzdHo1YTNmVllQWWpwVjAyc0swRGdBdlNDNEdYRU9wVUJJaUVtNTVONXlUQlBCRERFV0RMbmh2UjBWaDdlUFJsaXpILVE4WFVkVVNxRFRkMnpHM3VHNXVnTVBYTXd5cGtJWGlYZWh5X1NfMklwZGxRWnlB?oc=5",
-      "published": "2026-08-06T06:06:18",
-      "sentiment_score": -0.82,
-      "sentiment_label": "Negative",
-      "confidence": 0.834
+      "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMURSSGNRbFd4OVlvTUFGOWpuTktDVXVLaVQ2dUdnUVBycTF2bUIxV1Ftb0pQUU55S0FjYmFrUlVNeEVicVJKQjh2OHA0a0R3MGZmdnhldmdxbXpZblpBc2hRNE93dVRYeWFQc2drQVYwdHltVmRsRE41elI0YkZvUFdYVVhJWnNEaGdHUlBtVV9MZ20zcGJJ?oc=5",
+      "published": "2026-08-06T17:00:00",
+      "sentiment_score": 0.069,
+      "sentiment_label": "Neutral",
+      "confidence": 0.906
+    },
+    {
+      "headline": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5",
+      "published": "2026-08-06T15:59:34",
+      "sentiment_score": -0.05,
+      "sentiment_label": "Neutral",
+      "confidence": 0.902
     },
     {
       "headline": "AI or real? BBC analyses viral China disaster videos",
