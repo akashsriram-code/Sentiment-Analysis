@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-11T18:48:07.398305",
-  "total_articles": 29,
-  "overall_sentiment": -0.023,
-  "overall_label": "Neutral",
+  "last_updated": "2026-08-12T01:06:16.930650",
+  "total_articles": 35,
+  "overall_sentiment": -0.06,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-07-28",
@@ -14,22 +14,13 @@
       "moving_avg": -0.005
     },
     {
-      "date": "2026-08-04",
-      "avg_sentiment": 0.128,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.062
-    },
-    {
       "date": "2026-08-05",
       "avg_sentiment": -0.784,
       "article_count": 3,
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.22
+      "moving_avg": -0.394
     },
     {
       "date": "2026-08-06",
@@ -38,7 +29,7 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.182
+      "moving_avg": -0.286
     },
     {
       "date": "2026-08-07",
@@ -47,57 +38,117 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.326
+      "moving_avg": -0.44
     },
     {
       "date": "2026-08-10",
-      "avg_sentiment": 0.201,
-      "article_count": 14,
-      "positive_count": 8,
-      "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.239
+      "avg_sentiment": 0.187,
+      "article_count": 15,
+      "positive_count": 10,
+      "negative_count": 1,
+      "neutral_count": 4,
+      "moving_avg": -0.315
     },
     {
       "date": "2026-08-11",
-      "avg_sentiment": -0.013,
-      "article_count": 5,
-      "positive_count": 3,
-      "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.206
+      "avg_sentiment": -0.14,
+      "article_count": 10,
+      "positive_count": 5,
+      "negative_count": 4,
+      "neutral_count": 1,
+      "moving_avg": -0.286
+    },
+    {
+      "date": "2026-08-12",
+      "avg_sentiment": 0.012,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.243
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.367,
-      "article_count": 11,
+      "avg_sentiment": -0.387,
+      "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.196,
-      "article_count": 8,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.186,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.046,
-      "article_count": 2,
+      "source": "CNBC",
+      "avg_sentiment": 0.271,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.03,
+      "article_count": 3,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.15,
+      "source": "cnbc.com",
+      "avg_sentiment": -0.042,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
+      "headline": "\u2018Everything about me is good in his eyes\u2019: the women in China choosing AI boyfriends over human men",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc25Pano2cWtnMUkyejJZaUdnTUt4ak51SjRKR0lpeFF6LVIxdEJDWmNYYlE0aG0yTGJaZ0RLS1Vxb3NvTXpZYU1DWUlOZUJsNlJRejJpXzdQc3pVTWtKd1otYUJzMW8wNlJfSVBIcXM5aGNIWnNPYy1YSWY4VU4wQ3RjUXlpZTYxQ2V1N0h1T3k1dlNZSWFsdzJLV2JjMnNKa0xtUm93?oc=5",
+      "published": "2026-08-12T00:03:07",
+      "sentiment_score": 0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.913
+    },
+    {
+      "headline": "Tokenomics: Why making AI pay is tricky",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-11T23:03:52",
+      "sentiment_score": -0.881,
+      "sentiment_label": "Negative",
+      "confidence": 0.895
+    },
+    {
+      "headline": "ChatGPT and Gemini both just passed 1 billion users",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEdzTkFtVkZiVHVUMF9rQ3gzNTJickYzYllkSWNfTkl0TFZvQXNWc2xPRE1BdUZwTWZ5VVpNM3E1OE9QbEZKdVFZQUlwQ2VDcnR3NHByU21JNGRuZDdTdEdmOGRYOVN3bnFTTm1CYU1Oc3dtOG0teWlScjZDSDNKdElPU3Rxbl9kQmtLYW4wMEZieVU?oc=5",
+      "published": "2026-08-11T19:41:42",
+      "sentiment_score": 0.059,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
+    },
+    {
+      "headline": "OpenAI launches ChatGPT desktop app for Linux",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUNZR2RvNEZJMGJXLUtEbG1xMkFHRV9PRTBTTEEzdlpnY294eFlRT0Y0OGw0VEc1TjF1aUJvUG5scjZxc3Y3QXlKVG1tYlZoTUZlY0xGd1Q0Q05jUEtpQ0Y2djFfVjExaFphcWl5UW1OdG5tbWhEbUViVFVYa0txZzRMOFhKYTg?oc=5",
+      "published": "2026-08-11T19:15:35",
+      "sentiment_score": 0.07,
+      "sentiment_label": "Neutral",
+      "confidence": 0.902
+    },
+    {
+      "headline": "Opinion | Hollywood is hiring \u2018slop janitors.\u2019 The price is visible.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXdSaFcyVENkYktDUy03d2M0aVZSanYyTGxWWUdkVjFZVFpjQWstU3ZzN3BnMF95QUxmR1dPMjhSdmpza20wMV9uYVhHT2xiclNEOHFSOGdSTmVlb2g4aHlvWWJJQUtnM3NsT1hwT1pqUDVOREpiU3F5TUFPUzBEZ2plMV92UmtCaFNHeHNGc2syZFdVSVhsbTljak41ZmtBaGR0VE1QMA?oc=5",
+      "published": "2026-08-11T18:00:00",
+      "sentiment_score": -0.881,
+      "sentiment_label": "Negative",
+      "confidence": 0.896
+    },
+    {
       "headline": "Target appoints its first chief AI officer as big retailers bet on AI",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEpIcG4xZnFvVnI1RDRmS2NJYzM4WG1YV3ZBUDVvX1Y3dVlBOElhNElfYVV4eFJGQlJSMWFBdTExMV9ySURpdFFUR3VScGtrS0F3OHJrRjVMX1pYeWRaeC1GcG91QXhMTEV5dTAyOWpvUnlXYk1qZUFqMG5ZNF9vUGVsMjExMTNsSWfSAY8BQVVfeXFMTVp2bFlOZjduRU56WG9uLUxhelFuMTdzRlM3RzZ3NVRyOVYyaEtjNzBCVUduc0dNQ3pMMHNDNE5maEJfRUx1cUNQZXl6V2cxcHczY29rQnZVMlQ1Yk5BT0t5eFdPaGJMQXI0cHlfdk8wZ1poZ2UtMWk1b3VEM3R4ZU43elV6SE5yNnhZeUJsZTA?oc=5",
       "published": "2026-08-11T15:44:43",
       "sentiment_score": -0.501,
@@ -105,22 +156,22 @@
       "confidence": 0.531
     },
     {
-      "headline": "His Start-Up\u2019s Goal: A.I. That Is Trainable and Not Controlled by a Big Company",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVl9aRkNka2lrQ2RYZE1IZll6Mzd2RGZ6S1ZxYVlSTjZEN1RLN0VhSnpMd2RpLXUyNTJ2eFRDc2dZYmNIcXR4ODRFZGJxakI3VllRVE93WExsRjQ3TDZjRk1tdUFDM3UyT0ZvWkc4a1NNTWN4eXhUYkpxZm5JcFIzUk9CRlFPQQ?oc=5",
-      "published": "2026-08-11T13:50:25",
-      "sentiment_score": 0.078,
-      "sentiment_label": "Neutral",
-      "confidence": 0.898
-    },
-    {
       "headline": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5",
       "published": "2026-08-11T13:19:43",
       "sentiment_score": 0.695,
       "sentiment_label": "Positive",
       "confidence": 0.705
+    },
+    {
+      "headline": "Humans cannot remain passengers in the back of the AGI car",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2FFenlqTEVLRC00ajZRa3Q3dXFnNWdGM0xuYWE3d01FZEt0RWRtaE95WEhoZUVRSVptdjdsZlFrSWxmekNKZXMySlBtQUk4bjJwM1ZySzlaT3d3Vy1ZdXFCRUhycVlROE1xX3FjaGRjRWpMelZZSTA0UmNnbmphRUQtZnI?oc=5",
+      "published": "2026-08-11T12:44:32",
+      "sentiment_score": -0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
     },
     {
       "headline": "AI agent hacks gym to get its user a spot in pilates class",
@@ -141,26 +192,80 @@
       "confidence": 0.585
     },
     {
-      "headline": "OpenAI wraps $7 billion share sale ahead of potential IPO",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTks4emg2RHNjcWNnN3VfdzZWbU14cXdMT2VzbnlnX0VLNEVCUEM1R2FkV1p5R3cwZ1ZTRGZmSUFkYTNVS1JoYVNxdWlNRmlVQnRSRlA1dnNCSmh5UU5IampSbFV6VU1wY0tTbjVqeU5XTXk3ZW9CTlhOelk1TmFsLUVRZm9pY09sLWNFRG5FN0QwTUQ1NXl1eEpn0gGfAUFVX3lxTFBQSlFVcGFVMkEzOExGdzJGLWxNZS1Mcmd3YWJLdkhrWUd1V0tLM2NrdWtKcTVOOC1aRllzQTBybDcySGJXcW9hV1lUU3Z6dE95NnpJRW0xTGVnMGRuMWExRWo4SFp4WVlYbE9EbHF1SmQzNnl4aWVRcXo1dnEwM3VXc0p5NER5SVVtRUJ1TFgxSUtNdk5OTDBQakhuNEJHaw?oc=5",
-      "published": "2026-08-10T22:15:31",
-      "sentiment_score": 0.029,
+      "headline": "OpenAI reportedly completed a $7 billion employee tender offer | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "published": "2026-08-11T00:03:18Z",
+      "sentiment_score": 0.412,
       "sentiment_label": "Neutral",
-      "confidence": 0.934
+      "confidence": 0.551
     },
     {
-      "headline": "Five Takeaways From Zuckerberg\u2019s 6,500-Word Manifesto on AI",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUJhZFE0bDlRNnhDLWVRWWhvQUN1cHRqbDZ0T2RRZDBubEZ6eHAtc0MyOGtiN3dhdC0ycXdTUWtNT0IySXRhNnlYMjQ5NzVIajRiUHlyNjRGelo5MUs0eWZKZnBaX1Jid2w3a2VZYTlkWUNvMHhpR2ZXbXJQV1FtRXl5VENfQXlZQXhNR3BaeTZiczZyY0x4azR2VWtRc1huYXh1OE8wa2pEbFM3WmZR?oc=5",
-      "published": "2026-08-10T20:40:23",
-      "sentiment_score": -0.054,
+      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "published": "2026-08-10T23:58:31Z",
+      "sentiment_score": 0.436,
       "sentiment_label": "Neutral",
-      "confidence": 0.874
+      "confidence": 0.547
+    },
+    {
+      "headline": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
+      "published": "2026-08-10T23:00:14Z",
+      "sentiment_score": 0.532,
+      "sentiment_label": "Positive",
+      "confidence": 0.559
+    },
+    {
+      "headline": "Nvidia gets $500bn from major banks for AI build out",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
+      "published": "2026-08-10T22:31:42Z",
+      "sentiment_score": 0.397,
+      "sentiment_label": "Neutral",
+      "confidence": 0.584
+    },
+    {
+      "headline": "OpenAI wraps $7 billion share sale ahead of potential IPO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+      "published": "2026-08-10T22:15:31Z",
+      "sentiment_score": 0.188,
+      "sentiment_label": "Neutral",
+      "confidence": 0.778
+    },
+    {
+      "headline": "Mark Zuckerberg doesn\u2019t understand how to live",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "published": "2026-08-10T21:54:46Z",
+      "sentiment_score": -0.037,
+      "sentiment_label": "Neutral",
+      "confidence": 0.901
+    },
+    {
+      "headline": "Mark Zuckerberg's AI manifesto is exactly why people don't like AI | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "published": "2026-08-10T20:53:02Z",
+      "sentiment_score": 0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
+    },
+    {
+      "headline": "Tech industry is buzzing after a Claude agent hacked into a gym | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "published": "2026-08-10T20:04:24Z",
+      "sentiment_score": 0.079,
+      "sentiment_label": "Neutral",
+      "confidence": 0.816
     },
     {
       "headline": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkc0VE5DYXlTRVNaYU1DRElZUVVwNDR3VG5aQ0pUTzlGS0c1UFNzUVA5Z3NIdFktV3hscktUVnVsS0UtR2RxZ0JQOWJZcElRZDNZRGNncXBWSTZFWFp3NWdwM054MFJ2OHVkWkpSdVJjVGFxbmNIQjdKanlZVFdmRkJvUFdzZkVlN0pCMEdqbzNCX1Yy0gGaAUFVX3lxTE90YzhwRlVTdmQ1aTNHZzl6elRlR2FJTDJTd2llX3d6Ym1yNnR1bUtRbjRjWXVkTGlZZVloanNKTDdMdmdZUFZma2hlMnYwNjNicDZUOTF6emxlaXRSbXhUejFId01ib1lyaVBnelVWRjhfTVg1ek45QjJPSlEwcWFSZm9faVB0WS1XLXlMOGR1UUNWcHVGWnBqN3c?oc=5",
       "published": "2026-08-10T18:58:47",
       "sentiment_score": 0.418,
@@ -175,24 +280,6 @@
       "sentiment_score": 0.514,
       "sentiment_label": "Positive",
       "confidence": 0.523
-    },
-    {
-      "headline": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
-      "published": "2026-08-10T17:49:27Z",
-      "sentiment_score": 0.808,
-      "sentiment_label": "Positive",
-      "confidence": 0.835
-    },
-    {
-      "headline": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-      "published": "2026-08-10T16:36:44Z",
-      "sentiment_score": 0.181,
-      "sentiment_label": "Neutral",
-      "confidence": 0.734
     },
     {
       "headline": "Iran negotiations, Berkshire's stock purchases, Shein's tariff troubles and more in Morning Squawk",
@@ -240,15 +327,6 @@
       "confidence": 0.901
     },
     {
-      "headline": "Advice: He told ChatGPT he\u2019s not proposing because of my weight gain",
-      "source": "The Washington Post",
-      "link": "https://www.washingtonpost.com/advice/2026/08/06/say-more-he-told-chatgpt-hes-not-proposing-because-i-gained-weight/",
-      "published": "2026-08-10T06:00:00Z",
-      "sentiment_score": -0.206,
-      "sentiment_label": "Neutral",
-      "confidence": 0.618
-    },
-    {
       "headline": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
@@ -256,15 +334,6 @@
       "sentiment_score": -0.148,
       "sentiment_label": "Neutral",
       "confidence": 0.762
-    },
-    {
-      "headline": "India\u2019s NPCI targets 15-20 overseas markets to expand UPI globally",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/india-s-upi-payments-developer-targets-diaspora-for-growth",
-      "published": "2026-08-10T03:09:55Z",
-      "sentiment_score": 0.849,
-      "sentiment_label": "Positive",
-      "confidence": 0.855
     },
     {
       "headline": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -337,15 +406,6 @@
       "sentiment_score": -0.754,
       "sentiment_label": "Negative",
       "confidence": 0.771
-    },
-    {
-      "headline": "How tech is helping in the battle against wildfires",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-04T23:21:47",
-      "sentiment_score": 0.128,
-      "sentiment_label": "Neutral",
-      "confidence": 0.849
     },
     {
       "headline": "Tech Life",
