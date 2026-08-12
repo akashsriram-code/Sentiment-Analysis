@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12T07:09:45.875016",
-  "total_articles": 34,
-  "overall_sentiment": -0.136,
+  "last_updated": "2026-08-12T12:46:08.646799",
+  "total_articles": 35,
+  "overall_sentiment": -0.167,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,50 +51,104 @@
     },
     {
       "date": "2026-08-10",
-      "avg_sentiment": 0.135,
-      "article_count": 12,
-      "positive_count": 7,
-      "negative_count": 1,
-      "neutral_count": 4,
-      "moving_avg": -0.241
+      "avg_sentiment": -0.181,
+      "article_count": 5,
+      "positive_count": 1,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.294
     },
     {
       "date": "2026-08-11",
-      "avg_sentiment": -0.237,
-      "article_count": 13,
-      "positive_count": 6,
-      "negative_count": 7,
+      "avg_sentiment": -0.105,
+      "article_count": 18,
+      "positive_count": 9,
+      "negative_count": 6,
+      "neutral_count": 3,
+      "moving_avg": -0.267
+    },
+    {
+      "date": "2026-08-12",
+      "avg_sentiment": 0.037,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.24
+      "moving_avg": -0.261
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.341,
-      "article_count": 13,
+      "avg_sentiment": -0.445,
+      "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.186,
-      "article_count": 7,
+      "avg_sentiment": 0.041,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.065,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": 0.006,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "cnbc.com",
+      "avg_sentiment": 0.086,
+      "article_count": 2,
       "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.174,
-      "article_count": 5,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.188,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.03,
-      "article_count": 3,
+      "source": "Bloomberg",
+      "avg_sentiment": -0.022,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+      "source": "cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbG55ODQ1MkFvUG1lN1VpX2RiZlFkYUJLenJBaURVamhSSi1jUVRvT0VRTVI5c2tJN2xMUlhjM3dzMFJZbGo4ZUpLM2ZkYTQ4UW5CRi1aMlpUTi01TUpIYWV5N1UwdzlTUGpOTkhkdTc2TjA3Q211OHNwcHNKRk3SAYQBQVVfeXFMTTNJdG5JRE9Ca044b2JZemp6NVZuNW5ORFo0SnFveEhYWHhOYjc3WWlLY2l6SXctS2dTRjdwRlBnbDV4Z3h1ajYxVDR3SHZ1dXdDMm4xc1RzNnhvTDBXNEx5bTEtdnRnVEd3cnNZc0hKV3otZFZGQ3p1MUZ4RmJNT3lXT0hh?oc=5",
+      "published": "2026-08-12T12:00:01",
+      "sentiment_score": 0.672,
+      "sentiment_label": "Positive",
+      "confidence": 0.693
+    },
+    {
+      "headline": "Spotify to introduce AI badge after listeners make feelings 'clear'",
+      "source": "bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KMHUwUDkwd284a0ZJNENieExLRzJVOTV5OFpzSDcyVHlEdUsta25mSTJqRVhIR09vcEtWTG1HM2pSZkU0SGQ5QkNKUFpLd0FRNC14SWFNNmhIUQ?oc=5",
+      "published": "2026-08-12T10:53:54",
+      "sentiment_score": 0.113,
+      "sentiment_label": "Neutral",
+      "confidence": 0.853
+    },
+    {
+      "headline": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
+      "source": "theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
+      "published": "2026-08-12T10:01:00",
+      "sentiment_score": -0.675,
+      "sentiment_label": "Negative",
+      "confidence": 0.692
+    },
     {
       "headline": "Tokenomics: Why making AI pay is tricky",
       "source": "BBC News",
@@ -103,15 +157,6 @@
       "sentiment_score": -0.881,
       "sentiment_label": "Negative",
       "confidence": 0.895
-    },
-    {
-      "headline": "CoreWeave Revenue Surges on Booming Demand for AI Computing",
-      "source": "bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2R6SEdTZzE5dVJKRGZUWmJrZjFSWTVJTE9qc29iSkdLWnVZY0FkUXR1MVRHTXYzVEpwbXNHcUdCLVRIVU5nRFdJTWFramFOVDdJY0dOcUF2aGhfRm56VlRKbk5hcXBUTFlpT19zeHZSaU9SOTZHZ25MWDhyandTai1rMktIMzNVSDZmUWhlVzVkOHNTNHlPMUhTZWVLYjBzdkliT1d1aDRCYlB6ck9J?oc=5",
-      "published": "2026-08-11T20:21:32",
-      "sentiment_score": 0.88,
-      "sentiment_label": "Positive",
-      "confidence": 0.91
     },
     {
       "headline": "ChatGPT and Gemini both just passed 1 billion users",
@@ -132,22 +177,49 @@
       "confidence": 0.902
     },
     {
-      "headline": "Opinion | Hollywood is hiring \u2018slop janitors.\u2019 The price is visible.",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXdSaFcyVENkYktDUy03d2M0aVZSanYyTGxWWUdkVjFZVFpjQWstU3ZzN3BnMF95QUxmR1dPMjhSdmpza20wMV9uYVhHT2xiclNEOHFSOGdSTmVlb2g4aHlvWWJJQUtnM3NsT1hwT1pqUDVOREpiU3F5TUFPUzBEZ2plMV92UmtCaFNHeHNGc2syZFdVSVhsbTljak41ZmtBaGR0VE1QMA?oc=5",
-      "published": "2026-08-11T18:00:00",
-      "sentiment_score": -0.881,
-      "sentiment_label": "Negative",
-      "confidence": 0.896
-    },
-    {
       "headline": "Target appoints its first chief AI officer as big retailers bet on AI",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEpIcG4xZnFvVnI1RDRmS2NJYzM4WG1YV3ZBUDVvX1Y3dVlBOElhNElfYVV4eFJGQlJSMWFBdTExMV9ySURpdFFUR3VScGtrS0F3OHJrRjVMX1pYeWRaeC1GcG91QXhMTEV5dTAyOWpvUnlXYk1qZUFqMG5ZNF9vUGVsMjExMTNsSWfSAY8BQVVfeXFMTVp2bFlOZjduRU56WG9uLUxhelFuMTdzRlM3RzZ3NVRyOVYyaEtjNzBCVUduc0dNQ3pMMHNDNE5maEJfRUx1cUNQZXl6V2cxcHczY29rQnZVMlQ1Yk5BT0t5eFdPaGJMQXI0cHlfdk8wZ1poZ2UtMWk1b3VEM3R4ZU43elV6SE5yNnhZeUJsZTA?oc=5",
       "published": "2026-08-11T15:44:43",
       "sentiment_score": -0.501,
       "sentiment_label": "Negative",
       "confidence": 0.531
+    },
+    {
+      "headline": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026\u00a0 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
+      "published": "2026-08-11T12:31:23Z",
+      "sentiment_score": 0.008,
+      "sentiment_label": "Neutral",
+      "confidence": 0.949
+    },
+    {
+      "headline": "Claude will apply invisible watermarks to AI text and images",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "published": "2026-08-11T12:22:20Z",
+      "sentiment_score": 0.096,
+      "sentiment_label": "Neutral",
+      "confidence": 0.883
+    },
+    {
+      "headline": "Anthropic says it will watermark text generated by its AI models | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "published": "2026-08-11T12:15:30Z",
+      "sentiment_score": 0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.93
+    },
+    {
+      "headline": "AI agent hacks gym to get its owner spot in pilates class",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o",
+      "published": "2026-08-11T12:09:26Z",
+      "sentiment_score": -0.646,
+      "sentiment_label": "Negative",
+      "confidence": 0.668
     },
     {
       "headline": "AI agent hacks gym to get its user a spot in pilates class",
@@ -159,6 +231,60 @@
       "confidence": 0.752
     },
     {
+      "headline": "A New Trick Reveals AI Models\u2019 Inner Thoughts",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "published": "2026-08-11T11:00:00Z",
+      "sentiment_score": 0.098,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
+      "headline": "Elon Musk, Sam Altman, and the Misreading of Science Fiction",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/",
+      "published": "2026-08-11T10:30:00Z",
+      "sentiment_score": -0.239,
+      "sentiment_label": "Neutral",
+      "confidence": 0.659
+    },
+    {
+      "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "published": "2026-08-11T10:00:01Z",
+      "sentiment_score": 0.188,
+      "sentiment_label": "Neutral",
+      "confidence": 0.792
+    },
+    {
+      "headline": "AI Is Dead. Organoids Are Alive",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "published": "2026-08-11T10:00:00Z",
+      "sentiment_score": 0.06,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
+      "headline": "Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/",
+      "published": "2026-08-11T10:00:00Z",
+      "sentiment_score": 0.104,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
+      "headline": "The AI takeover of mathematics has begun",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "published": "2026-08-11T09:37:49Z",
+      "sentiment_score": 0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.912
+    },
+    {
       "headline": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
@@ -168,67 +294,22 @@
       "confidence": 0.585
     },
     {
-      "headline": "RBI chief urges lenders to accelerate AI spend",
+      "headline": "Nvidia taps Wall Street for $500 billion funding commitment",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
-      "published": "2026-08-11T06:48:31Z",
-      "sentiment_score": -0.907,
+      "link": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
+      "published": "2026-08-11T07:39:28Z",
+      "sentiment_score": 0.855,
+      "sentiment_label": "Positive",
+      "confidence": 0.864
+    },
+    {
+      "headline": "Wipro\u2019s Nifty exit reflects waning clout of IT giants",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/wipro-s-nifty-exit-reflects-waning-clout-of-indian-it-giants",
+      "published": "2026-08-11T07:21:00Z",
+      "sentiment_score": -0.898,
       "sentiment_label": "Negative",
-      "confidence": 0.922
-    },
-    {
-      "headline": "Following Guardiola and captaincy dilemma - Maresca on life at Man City",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/sport/football/articles/cz970w31k75o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "published": "2026-08-11T06:00:47Z",
-      "sentiment_score": -0.14,
-      "sentiment_label": "Neutral",
-      "confidence": 0.81
-    },
-    {
-      "headline": "As AI keeps tight grip on world, the thrill of collecting vintage computers is growing",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
-      "published": "2026-08-11T01:42:44Z",
-      "sentiment_score": 0.105,
-      "sentiment_label": "Neutral",
-      "confidence": 0.866
-    },
-    {
-      "headline": "CNBC Daily Open: Markets caught between oil jitters and AI optimism",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/11/cnbc-daily-open-oil-markets-us-iran-deal.html",
-      "published": "2026-08-11T01:19:11Z",
-      "sentiment_score": -0.953,
-      "sentiment_label": "Negative",
-      "confidence": 0.962
-    },
-    {
-      "headline": "OpenAI reportedly completed a $7 billion employee tender offer | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "published": "2026-08-11T00:03:18Z",
-      "sentiment_score": 0.412,
-      "sentiment_label": "Neutral",
-      "confidence": 0.551
-    },
-    {
-      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "published": "2026-08-10T23:58:31Z",
-      "sentiment_score": 0.436,
-      "sentiment_label": "Neutral",
-      "confidence": 0.547
-    },
-    {
-      "headline": "Nvidia gets $500bn from major banks for AI build out",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
-      "published": "2026-08-10T22:31:42Z",
-      "sentiment_score": 0.397,
-      "sentiment_label": "Neutral",
-      "confidence": 0.584
+      "confidence": 0.918
     },
     {
       "headline": "OpenAI wraps $7 billion share sale ahead of potential IPO",
@@ -240,15 +321,6 @@
       "confidence": 0.778
     },
     {
-      "headline": "Mark Zuckerberg doesn\u2019t understand how to live",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "published": "2026-08-10T21:54:46Z",
-      "sentiment_score": -0.037,
-      "sentiment_label": "Neutral",
-      "confidence": 0.901
-    },
-    {
       "headline": "Mark Zuckerberg's AI manifesto is exactly why people don't like AI | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
@@ -258,58 +330,22 @@
       "confidence": 0.933
     },
     {
-      "headline": "Tech industry is buzzing after a Claude agent hacked into a gym | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "published": "2026-08-10T20:04:24Z",
-      "sentiment_score": 0.079,
-      "sentiment_label": "Neutral",
-      "confidence": 0.816
-    },
-    {
-      "headline": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkc0VE5DYXlTRVNaYU1DRElZUVVwNDR3VG5aQ0pUTzlGS0c1UFNzUVA5Z3NIdFktV3hscktUVnVsS0UtR2RxZ0JQOWJZcElRZDNZRGNncXBWSTZFWFp3NWdwM054MFJ2OHVkWkpSdVJjVGFxbmNIQjdKanlZVFdmRkJvUFdzZkVlN0pCMEdqbzNCX1Yy0gGaAUFVX3lxTE90YzhwRlVTdmQ1aTNHZzl6elRlR2FJTDJTd2llX3d6Ym1yNnR1bUtRbjRjWXVkTGlZZVloanNKTDdMdmdZUFZma2hlMnYwNjNicDZUOTF6emxlaXRSbXhUejFId01ib1lyaVBnelVWRjhfTVg1ek45QjJPSlEwcWFSZm9faVB0WS1XLXlMOGR1UUNWcHVGWnBqN3c?oc=5",
-      "published": "2026-08-10T18:58:47",
-      "sentiment_score": 0.418,
-      "sentiment_label": "Neutral",
-      "confidence": 0.541
-    },
-    {
-      "headline": "Iran negotiations, Berkshire's stock purchases, Shein's tariff troubles and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/10/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-08-10T12:31:20Z",
-      "sentiment_score": -0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.915
-    },
-    {
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "published": "2026-08-10T12:02:11Z",
-      "sentiment_score": 0.227,
-      "sentiment_label": "Neutral",
-      "confidence": 0.755
+      "headline": "How the AI Trade Is Stealing Crypto\u2019s Thunder",
+      "source": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/currencies/retail-traders-crypto-cash-0d303c92",
+      "published": "2026-08-10T20:40:00Z",
+      "sentiment_score": -0.557,
+      "sentiment_label": "Negative",
+      "confidence": 0.577
     },
     {
       "headline": "The AI Slop Backlash Is Actually Having an Impact",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-      "published": "2026-08-10T11:30:00Z",
-      "sentiment_score": 0.061,
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVA5NEphTVNfMmh6WEdxMlBwanZ5Y1hWQzZFUWFudmxoNkRBQ1lzWlJyaWJSeXlyOUxwbm8yQml2d0lzazM2RVJZNE1uRmFBbU4tbTR5TnB4U0huZC1tcDdCUXZ0UWxmdnBWVFFaeEo5Mkx4eHpEb2Rpc2V0VWxqUHc5Z1U?oc=5",
+      "published": "2026-08-10T11:30:00",
+      "sentiment_score": -0.396,
       "sentiment_label": "Neutral",
-      "confidence": 0.861
-    },
-    {
-      "headline": "Opinion | I\u2019ve Seen How A.I. Changes Young People\u2019s Social Lives",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlMxM0hfLTFyTUxHTXA4eXJOUklfcFBKekFfSlotX3N6SVZxcWVtQ05CbmNwdnBiQ2tzV3FXRHNWMHlsSHV5YTlzY1h5ZXZxZDhSWUk4ck9LcV81VDg3a0ROZTlHV0dGWHR4NnRxcGVzUXN4RlQyOXpxMFpWbzhnZ3hQbGhYa3U1dGowMXlnLXlwQQ?oc=5",
-      "published": "2026-08-10T09:02:11",
-      "sentiment_score": 0.015,
-      "sentiment_label": "Neutral",
-      "confidence": 0.901
+      "confidence": 0.494
     },
     {
       "headline": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
