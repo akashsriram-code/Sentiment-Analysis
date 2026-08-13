@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-13T07:13:33.991273",
-  "total_articles": 39,
-  "overall_sentiment": -0.202,
+  "last_updated": "2026-08-13T12:47:35.012893",
+  "total_articles": 46,
+  "overall_sentiment": -0.109,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,74 +51,116 @@
     },
     {
       "date": "2026-08-11",
-      "avg_sentiment": 0.045,
-      "article_count": 11,
+      "avg_sentiment": 0.132,
+      "article_count": 8,
       "positive_count": 6,
-      "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.357
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.342
     },
     {
       "date": "2026-08-12",
-      "avg_sentiment": -0.221,
-      "article_count": 13,
-      "positive_count": 2,
-      "negative_count": 7,
-      "neutral_count": 4,
-      "moving_avg": -0.337
+      "avg_sentiment": -0.036,
+      "article_count": 22,
+      "positive_count": 6,
+      "negative_count": 8,
+      "neutral_count": 8,
+      "moving_avg": -0.298
     },
     {
       "date": "2026-08-13",
-      "avg_sentiment": -0.237,
-      "article_count": 5,
-      "positive_count": 1,
+      "avg_sentiment": -0.162,
+      "article_count": 6,
+      "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.37
+      "moving_avg": -0.321
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.452,
-      "article_count": 9,
+      "avg_sentiment": -0.373,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.166,
-      "article_count": 7,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.144,
-      "article_count": 5,
+      "avg_sentiment": 0.126,
+      "article_count": 8,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.033,
-      "article_count": 5,
+      "avg_sentiment": 0.043,
+      "article_count": 6,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "BBC",
-      "avg_sentiment": -0.305,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.34,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.005,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "bbc.com",
+      "avg_sentiment": -0.446,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.132,
+      "source": "Wired",
+      "avg_sentiment": 0.011,
       "article_count": 3,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
+      "headline": "Courts shield AI prompts and outputs from discovery",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkpwOUNMeDFxUXJEcWlSVTcyLVNRLWU5WVNyNF9CWDJwTDh2d2lPeUMwbGhibElfUndxS2tDRWhkNkNWWTM0c0pGMXFjdjV6T1pGMGFKRXQ3XzY3N09jeUZlbVNvWV9ucEJHbzZOc3dSaU12OTBQVGZFMWdNYkwyMXp4QThsc2FtTFoycHBfOXFaaElGQjdpLUVGcHUzaDRDd3hxS2ozaWVKUQ?oc=5",
+      "published": "2026-08-13T12:13:31",
+      "sentiment_score": -0.074,
+      "sentiment_label": "Neutral",
+      "confidence": 0.875
+    },
+    {
+      "headline": "AI boom is starting to show in UK economy's performance",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
+      "published": "2026-08-13T12:06:38",
+      "sentiment_score": -0.256,
+      "sentiment_label": "Negative",
+      "confidence": 0.487
+    },
+    {
+      "headline": "Twitch faces backlash over Amazon using content to train AI",
+      "source": "bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5",
+      "published": "2026-08-13T10:39:02",
+      "sentiment_score": -0.879,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
+    },
+    {
+      "headline": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13T10:39:02",
+      "sentiment_score": 0.067,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
       "headline": "Amazon is using Twitch to train generative AI",
-      "source": "BBC",
+      "source": "bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCeWEyN0s5Ri1MbzZOUXBKWF9LWFBIeUk1WlA2RnhOSEM2S2pEb0g0YVNMV0xMU0hQNmV5OHFoVV9ick1zQnVTVERHYTRuc21DLThMbjRUaw?oc=5",
       "published": "2026-08-13T07:04:31",
       "sentiment_score": 0.134,
@@ -135,42 +177,6 @@
       "confidence": 0.933
     },
     {
-      "headline": "Twitch users can now block Amazon from using their content to train AI",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5",
-      "published": "2026-08-13T02:46:04",
-      "sentiment_score": -0.457,
-      "sentiment_label": "Neutral",
-      "confidence": 0.511
-    },
-    {
-      "headline": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUtseDZqY0hRMjBVZkU0Tm15Z3U5eFlfYmFja2JGbGw1RjJVWVhOZ1RmRW55SUVYZWt2QlhlZjk2SjljNm5aY1lHamFHXzh3NWpvZHBWLWhZb0dXWTl4cEJhUWtoZVY2UDN6WkQzU09NbVdIQ2RJSFAyTGIwQjg1ekV0ZFFjZDVXZk5VQmcyZEN6bDVBcEtJ0gGcAUFVX3lxTE9fdEg3X1lIX1ZZbUJXRWFrX3lQeDBTQUJadFo5anVoMDlER0JvcHB6MDYyU3NZenRVYmpXdExOaEpMcjJnXzBEZUE0cHp5cjgtb1BWNi12encxNU5RamVNSWFGS1pnZGNNZzZ0R2h4N3JIT2d2R0JvRDhXZ3p3VFdqTTVtMk52MGhYT0I4OEN1ZGtfN2JWUG91MzNieg?oc=5",
-      "published": "2026-08-13T01:19:00",
-      "sentiment_score": -0.845,
-      "sentiment_label": "Negative",
-      "confidence": 0.888
-    },
-    {
-      "headline": "Exclusive | DeepMind\u2019s Hassabis Pitched AI-Oversight Body Before Shake-Up",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1hMYl8zT1FZbnp5dmhSUzAyX0dKd1R3Z1Y2TjlzTTlhM253aHVTeVpkcXBkWTBJZVVHXzFJczlrMG9XVlpHVHFvdkQxdDE4YkVUcGUxelBLVGs2c3VJQ2lnTDA4MHJlMFk5aUZBWE12MWYtZVM1NHc0RncyMUJ2Z2kyNDlnbXNfVjJYNl9YbEtwRXI0UjFraklKQWxzUQ?oc=5",
-      "published": "2026-08-13T01:01:04",
-      "sentiment_score": -0.053,
-      "sentiment_label": "Neutral",
-      "confidence": 0.895
-    },
-    {
-      "headline": "Soaring AI hyperscaler default hedges aren't what they seem",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFFnWUNMaWpDeWFxYlNzUndyNi16SWZKVmEyZ3hDckhWTlJNMGROV2VfMngxbzljVDhkRE9YTFluaVJQbVBJb1FvREFmREZlVGl1TjAtZzNmMjFnNm1HdW5lM3ZOellSMHA2M1lXYklvSVRKdWJ5Tk1abnZyZ2V4WWlZZGtrOW9GelhCZlV6dGpIamZzWFZ0djNfY0lIcXRsYTdtSExzZ2ZMWHN2NHRkMC1OajNEOW1qeFZpNzZndmpXUnZHblE?oc=5",
-      "published": "2026-08-12T23:30:38",
-      "sentiment_score": -0.707,
-      "sentiment_label": "Negative",
-      "confidence": 0.733
-    },
-    {
       "headline": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekllTVFtYmFKdy1HY1ZRWllGSmZLTDUtN3M1cVFOd0taZEZVNF9pcHhIX3czN1JXS0Jzb0RqTl9NWURjWlVFOUo2RDFEQUVtU1phN1pUc2p1ekdmLXYwUVo3RDYtX1NFZnNOa0s4ZE1wQnNZcFE2N2tmRjZWaUYzUGZseFo3OUV2bWJ6OGFGXzdaa3M4UUZhSEpsUjVreEFfWlRlSXNNRzd0OUZDTUo3Zw?oc=5",
@@ -181,21 +187,12 @@
     },
     {
       "headline": "Why Japanese firms are being so slow to use AI",
-      "source": "BBC",
+      "source": "bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uX242OGh2amdJQ0Y3THpURy0wZTV6N0RCc1hkV1VVNzMwVVh2eTRsLWdzY2FZY21yUjd4LU9CV2NQUWpFdjVRZm8tUU84czQyQkxOTi1xcVd6UQ?oc=5",
       "published": "2026-08-12T23:00:47",
       "sentiment_score": -0.592,
       "sentiment_label": "Negative",
       "confidence": 0.61
-    },
-    {
-      "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmNHZHFuQzlaMzBfbHFJLU4wdWZURHkyR21LcVJ0bUZvMGI1bEhRXy0yZjkzeWNITzBHRldvNzdFaVBPT2FRSE1hLXgzTDBXT2pDakNLbTR3cUJBM3NZbzItUnZfVzdSRGRaUXhvYlhmY01nVmxZbDB6TDJ2M21zd0M2VzVkZ1lOOXl1RklhSkpWUXk3bk1jM0VOSG5wVHJxRU1QcmgtMk5GZzhZ?oc=5",
-      "published": "2026-08-12T21:00:30",
-      "sentiment_score": 0.0,
-      "sentiment_label": "Neutral",
-      "confidence": 0.916
     },
     {
       "headline": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
@@ -217,7 +214,7 @@
     },
     {
       "headline": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
       "published": "2026-08-12T18:57:00",
       "sentiment_score": -0.675,
@@ -234,6 +231,114 @@
       "confidence": 0.889
     },
     {
+      "headline": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDZUZzE4MkduRW16Y1oyVHEweDhFTlowWVBxSENNeS01RVMzT3JzX2pocW1zRlVhTXhncVVEN3Y4RDM4eXhnNGRtaVZ0SzR4NXF2LTVQQ0pFUWxtb2FuclpjZU15YWx5VGZoSWtEZWJMME5YcFlmY2pPZjgyNWVtQ0hFMUh2QVZXUS1LQTQ0d2pHcm5Lb3dNckxhLVZCSXg2d29LYnJEQnBGendHTzUyU0RtYUREQ253cDJjbk1CRU4wQlE?oc=5",
+      "published": "2026-08-12T15:56:13",
+      "sentiment_score": 0.359,
+      "sentiment_label": "Neutral",
+      "confidence": 0.612
+    },
+    {
+      "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "published": "2026-08-12T12:09:34Z",
+      "sentiment_score": 0.105,
+      "sentiment_label": "Neutral",
+      "confidence": 0.86
+    },
+    {
+      "headline": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+      "published": "2026-08-12T12:00:01Z",
+      "sentiment_score": 0.868,
+      "sentiment_label": "Positive",
+      "confidence": 0.877
+    },
+    {
+      "headline": "Grok is now an AI \u2018teammate\u2019 you can assign work",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "published": "2026-08-12T11:58:54Z",
+      "sentiment_score": 0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.934
+    },
+    {
+      "headline": "Inflation data, CoreWeave's revenue surge, election betting and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/12/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-08-12T11:55:58Z",
+      "sentiment_score": -0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.915
+    },
+    {
+      "headline": "CENTRISTS STRIKE BACK",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/wisconsin-primary-governor-hong-socialist-acd872f6cf113e741291b9b47f9d9111",
+      "published": "2026-08-12T11:52:37Z",
+      "sentiment_score": -0.394,
+      "sentiment_label": "Negative",
+      "confidence": 0.518
+    },
+    {
+      "headline": "AI\u2019s costly buildout complicates the Fed\u2019s inflation fight",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+      "published": "2026-08-12T11:00:01Z",
+      "sentiment_score": -0.931,
+      "sentiment_label": "Negative",
+      "confidence": 0.947
+    },
+    {
+      "headline": "Spotify to add label for AI-generated artists and remove them from recommendations",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o",
+      "published": "2026-08-12T10:53:54Z",
+      "sentiment_score": -0.104,
+      "sentiment_label": "Neutral",
+      "confidence": 0.849
+    },
+    {
+      "headline": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "published": "2026-08-12T10:30:00Z",
+      "sentiment_score": 0.007,
+      "sentiment_label": "Neutral",
+      "confidence": 0.875
+    },
+    {
+      "headline": "McDonald\u2019s Built a 515-Page Dossier on Me. It Says I\u2019ll Never Stop Eating There",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "published": "2026-08-12T10:15:00Z",
+      "sentiment_score": 0.027,
+      "sentiment_label": "Neutral",
+      "confidence": 0.917
+    },
+    {
+      "headline": "Big Tech Wants to Harvest Your Thoughts",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/",
+      "published": "2026-08-12T10:00:00Z",
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "confidence": 0.937
+    },
+    {
+      "headline": "CNBC Daily Open: Chips, ships and a sliding yen",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/12/cnbc-daily-open-chips-hormuz-yen.html",
+      "published": "2026-08-12T08:07:06Z",
+      "sentiment_score": 0.522,
+      "sentiment_label": "Positive",
+      "confidence": 0.539
+    },
+    {
       "headline": "Google\u2019s new AI boss inherits a race to catch OpenAI and Anthropic",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
@@ -241,15 +346,6 @@
       "sentiment_score": 0.039,
       "sentiment_label": "Neutral",
       "confidence": 0.924
-    },
-    {
-      "headline": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-      "published": "2026-08-12T03:37:00Z",
-      "sentiment_score": -0.899,
-      "sentiment_label": "Negative",
-      "confidence": 0.931
     },
     {
       "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
@@ -286,15 +382,6 @@
       "sentiment_score": -0.881,
       "sentiment_label": "Negative",
       "confidence": 0.895
-    },
-    {
-      "headline": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "published": "2026-08-11T21:39:11Z",
-      "sentiment_score": -0.621,
-      "sentiment_label": "Negative",
-      "confidence": 0.649
     },
     {
       "headline": "CoreWeave stock pops 8% as revenue doubles on accelerating AI infrastructure demand",
@@ -340,24 +427,6 @@
       "sentiment_score": 0.926,
       "sentiment_label": "Positive",
       "confidence": 0.944
-    },
-    {
-      "headline": "Apple could help you prove your iPhone photos aren\u2019t deepfakes",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "published": "2026-08-11T16:19:15Z",
-      "sentiment_score": 0.048,
-      "sentiment_label": "Neutral",
-      "confidence": 0.923
-    },
-    {
-      "headline": "Target appoints its first chief AI officer as big retailers bet on AI",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
-      "published": "2026-08-11T15:44:43Z",
-      "sentiment_score": 0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.89
     },
     {
       "headline": "AI agent hacks gym to get its user a spot in pilates class",
