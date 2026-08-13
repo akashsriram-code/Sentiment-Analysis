@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-13T12:47:35.012893",
-  "total_articles": 46,
-  "overall_sentiment": -0.109,
+  "last_updated": "2026-08-13T18:49:28.935927",
+  "total_articles": 39,
+  "overall_sentiment": -0.165,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,22 +14,13 @@
       "moving_avg": -0.005
     },
     {
-      "date": "2026-08-05",
-      "avg_sentiment": -0.799,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.402
-    },
-    {
       "date": "2026-08-06",
       "avg_sentiment": -0.062,
       "article_count": 2,
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.289
+      "moving_avg": -0.034
     },
     {
       "date": "2026-08-07",
@@ -38,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.442
+      "moving_avg": -0.323
     },
     {
       "date": "2026-08-10",
@@ -47,81 +38,99 @@
       "positive_count": 0,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.437
+      "moving_avg": -0.346
     },
     {
       "date": "2026-08-11",
-      "avg_sentiment": 0.132,
-      "article_count": 8,
-      "positive_count": 6,
+      "avg_sentiment": -0.218,
+      "article_count": 5,
+      "positive_count": 3,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.342
+      "moving_avg": -0.321
     },
     {
       "date": "2026-08-12",
-      "avg_sentiment": -0.036,
-      "article_count": 22,
+      "avg_sentiment": -0.062,
+      "article_count": 20,
       "positive_count": 6,
-      "negative_count": 8,
-      "neutral_count": 8,
-      "moving_avg": -0.298
+      "negative_count": 7,
+      "neutral_count": 7,
+      "moving_avg": -0.278
     },
     {
       "date": "2026-08-13",
-      "avg_sentiment": -0.162,
+      "avg_sentiment": -0.236,
       "article_count": 6,
       "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.321
+      "moving_avg": -0.272
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.373,
-      "article_count": 11,
+      "avg_sentiment": -0.323,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.126,
-      "article_count": 8,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.295,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.043,
+      "avg_sentiment": -0.023,
       "article_count": 6,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.34,
+      "source": "Wired",
+      "avg_sentiment": -0.025,
       "article_count": 5,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.005,
-      "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "bbc.com",
-      "avg_sentiment": -0.446,
+      "source": "CNBC",
+      "avg_sentiment": -0.39,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": 0.011,
-      "article_count": 3,
+      "source": "Reuters",
+      "avg_sentiment": 0.043,
+      "article_count": 2,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.736,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
+      "published": "2026-08-13T14:39:18",
+      "sentiment_score": 0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
+    },
+    {
+      "headline": "DeepSeek releases official V4 Pro model as it steps up expansion",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5",
+      "published": "2026-08-13T12:56:28",
+      "sentiment_score": 0.159,
+      "sentiment_label": "Neutral",
+      "confidence": 0.816
+    },
     {
       "headline": "Courts shield AI prompts and outputs from discovery",
       "source": "Reuters",
@@ -132,17 +141,8 @@
       "confidence": 0.875
     },
     {
-      "headline": "AI boom is starting to show in UK economy's performance",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
-      "published": "2026-08-13T12:06:38",
-      "sentiment_score": -0.256,
-      "sentiment_label": "Negative",
-      "confidence": 0.487
-    },
-    {
       "headline": "Twitch faces backlash over Amazon using content to train AI",
-      "source": "bbc.com",
+      "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5",
       "published": "2026-08-13T10:39:02",
       "sentiment_score": -0.879,
@@ -160,34 +160,16 @@
     },
     {
       "headline": "Amazon is using Twitch to train generative AI",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCeWEyN0s5Ri1MbzZOUXBKWF9LWFBIeUk1WlA2RnhOSEM2S2pEb0g0YVNMV0xMU0hQNmV5OHFoVV9ick1zQnVTVERHYTRuc21DLThMbjRUaw?oc=5",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-13T07:04:31",
-      "sentiment_score": 0.134,
-      "sentiment_label": "Neutral",
-      "confidence": 0.845
-    },
-    {
-      "headline": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
-      "published": "2026-08-13T04:58:00",
-      "sentiment_score": 0.034,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
-    },
-    {
-      "headline": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekllTVFtYmFKdy1HY1ZRWllGSmZLTDUtN3M1cVFOd0taZEZVNF9pcHhIX3czN1JXS0Jzb0RqTl9NWURjWlVFOUo2RDFEQUVtU1phN1pUc2p1ekdmLXYwUVo3RDYtX1NFZnNOa0s4ZE1wQnNZcFE2N2tmRjZWaUYzUGZseFo3OUV2bWJ6OGFGXzdaa3M4UUZhSEpsUjVreEFfWlRlSXNNRzd0OUZDTUo3Zw?oc=5",
-      "published": "2026-08-12T23:10:57",
-      "sentiment_score": 0.026,
-      "sentiment_label": "Neutral",
-      "confidence": 0.908
+      "sentiment_score": -0.727,
+      "sentiment_label": "Negative",
+      "confidence": 0.746
     },
     {
       "headline": "Why Japanese firms are being so slow to use AI",
-      "source": "bbc.com",
+      "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uX242OGh2amdJQ0Y3THpURy0wZTV6N0RCc1hkV1VVNzMwVVh2eTRsLWdzY2FZY21yUjd4LU9CV2NQUWpFdjVRZm8tUU84czQyQkxOTi1xcVd6UQ?oc=5",
       "published": "2026-08-12T23:00:47",
       "sentiment_score": -0.592,
@@ -204,17 +186,8 @@
       "confidence": 0.94
     },
     {
-      "headline": "NEWSLETTER: American AI model makers smell an opportunity",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjdFeGZSYlRfS0Z2ajQwNkNMQm1vUDE2SFJiRkF2NlNMTnVMRjdDaWlSOG9BTDZhWXZ5R3M3MENRbGpBaUFrRVptYmxEbmstQXBhdEVIYmhYQUJSQmRONzcxTG9MVlhmOFRxc0Y5QUdKMF9wRkZvaS10VUc4WFNuWjNPdlE3YVV5cjRoNnUtZ3VvSnJWd3BpVWl6X1BFMUptNzBTNDBYTGNCLXhFLUZ4YkVFMHpRNFE?oc=5",
-      "published": "2026-08-12T19:15:00",
-      "sentiment_score": 0.284,
-      "sentiment_label": "Neutral",
-      "confidence": 0.693
-    },
-    {
       "headline": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
       "published": "2026-08-12T18:57:00",
       "sentiment_score": -0.675,
@@ -222,22 +195,94 @@
       "confidence": 0.692
     },
     {
-      "headline": "Twitch streamers can now opt out from training Amazon\u2019s AI",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDBrWGtZUEd3Ukw2M0hJamJjeTN2SjFSSFNBQ0dtT3ZOSDNNRFlNT0xld3JvQUNyRzJOd3RqMkt1OVBDUEh5WlB6bGFNRTU1Ump1VjFGRThDaF9iM0FYdHBrTGxqNktVYXd6enRhaUhQSkxaQnNDalpZNGpHU1gyUlpCUk5oNzJJSnBNR3VJR0NIOUlWeFQzUWln?oc=5",
-      "published": "2026-08-12T17:29:10",
-      "sentiment_score": -0.063,
+      "headline": "Rogue AI Agents Aren\u2019t Evil. They\u2019re Just Eager to Please",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "published": "2026-08-12T18:45:00Z",
+      "sentiment_score": -0.188,
       "sentiment_label": "Neutral",
-      "confidence": 0.889
+      "confidence": 0.751
     },
     {
-      "headline": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+      "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise | TechCrunch",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDZUZzE4MkduRW16Y1oyVHEweDhFTlowWVBxSENNeS01RVMzT3JzX2pocW1zRlVhTXhncVVEN3Y4RDM4eXhnNGRtaVZ0SzR4NXF2LTVQQ0pFUWxtb2FuclpjZU15YWx5VGZoSWtEZWJMME5YcFlmY2pPZjgyNWVtQ0hFMUh2QVZXUS1LQTQ0d2pHcm5Lb3dNckxhLVZCSXg2d29LYnJEQnBGendHTzUyU0RtYUREQ253cDJjbk1CRU4wQlE?oc=5",
-      "published": "2026-08-12T15:56:13",
-      "sentiment_score": 0.359,
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "published": "2026-08-12T17:41:29Z",
+      "sentiment_score": 0.785,
+      "sentiment_label": "Positive",
+      "confidence": 0.793
+    },
+    {
+      "headline": "Twitch streamers can now opt out from training Amazon\u2019s AI",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "published": "2026-08-12T17:29:10Z",
+      "sentiment_score": 0.026,
       "sentiment_label": "Neutral",
-      "confidence": 0.612
+      "confidence": 0.931
+    },
+    {
+      "headline": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "published": "2026-08-12T15:56:13Z",
+      "sentiment_score": 0.206,
+      "sentiment_label": "Neutral",
+      "confidence": 0.773
+    },
+    {
+      "headline": "Guitar company D\u2019Addario admits that AI music was used in a promotional video",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "published": "2026-08-12T15:52:07Z",
+      "sentiment_score": -0.431,
+      "sentiment_label": "Negative",
+      "confidence": 0.489
+    },
+    {
+      "headline": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+      "published": "2026-08-12T15:37:25Z",
+      "sentiment_score": -0.447,
+      "sentiment_label": "Negative",
+      "confidence": 0.485
+    },
+    {
+      "headline": "Silkroad Innovation Hub\u2019s Road to Battlefield competition continues | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
+      "published": "2026-08-12T15:03:47Z",
+      "sentiment_score": 0.445,
+      "sentiment_label": "Neutral",
+      "confidence": 0.539
+    },
+    {
+      "headline": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "published": "2026-08-12T14:01:41Z",
+      "sentiment_score": 0.255,
+      "sentiment_label": "Neutral",
+      "confidence": 0.725
+    },
+    {
+      "headline": "Google\u2019s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "published": "2026-08-12T14:00:01Z",
+      "sentiment_score": 0.207,
+      "sentiment_label": "Neutral",
+      "confidence": 0.75
+    },
+    {
+      "headline": "4 New Camera Tricks on Google\u2019s Latest Pixel 11 Smartphones",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+      "published": "2026-08-12T14:00:00Z",
+      "sentiment_score": 0.03,
+      "sentiment_label": "Neutral",
+      "confidence": 0.929
     },
     {
       "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
@@ -249,15 +294,6 @@
       "confidence": 0.86
     },
     {
-      "headline": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
-      "published": "2026-08-12T12:00:01Z",
-      "sentiment_score": 0.868,
-      "sentiment_label": "Positive",
-      "confidence": 0.877
-    },
-    {
       "headline": "Grok is now an AI \u2018teammate\u2019 you can assign work",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
@@ -265,24 +301,6 @@
       "sentiment_score": 0.036,
       "sentiment_label": "Neutral",
       "confidence": 0.934
-    },
-    {
-      "headline": "Inflation data, CoreWeave's revenue surge, election betting and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/12/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-08-12T11:55:58Z",
-      "sentiment_score": -0.02,
-      "sentiment_label": "Neutral",
-      "confidence": 0.915
-    },
-    {
-      "headline": "CENTRISTS STRIKE BACK",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/wisconsin-primary-governor-hong-socialist-acd872f6cf113e741291b9b47f9d9111",
-      "published": "2026-08-12T11:52:37Z",
-      "sentiment_score": -0.394,
-      "sentiment_label": "Negative",
-      "confidence": 0.518
     },
     {
       "headline": "AI\u2019s costly buildout complicates the Fed\u2019s inflation fight",
@@ -330,51 +348,6 @@
       "confidence": 0.937
     },
     {
-      "headline": "CNBC Daily Open: Chips, ships and a sliding yen",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/12/cnbc-daily-open-chips-hormuz-yen.html",
-      "published": "2026-08-12T08:07:06Z",
-      "sentiment_score": 0.522,
-      "sentiment_label": "Positive",
-      "confidence": 0.539
-    },
-    {
-      "headline": "Google\u2019s new AI boss inherits a race to catch OpenAI and Anthropic",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-      "published": "2026-08-12T05:00:01Z",
-      "sentiment_score": 0.039,
-      "sentiment_label": "Neutral",
-      "confidence": 0.924
-    },
-    {
-      "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
-      "published": "2026-08-12T02:58:04Z",
-      "sentiment_score": -0.404,
-      "sentiment_label": "Negative",
-      "confidence": 0.516
-    },
-    {
-      "headline": "CNBC Daily Open: Big Tech wants to tap Wall Street's big wallets",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/12/cnbc-daily-open-big-tech-wants-to-tap-wall-streets-big-wallets.html",
-      "published": "2026-08-12T00:53:44Z",
-      "sentiment_score": 0.549,
-      "sentiment_label": "Positive",
-      "confidence": 0.565
-    },
-    {
-      "headline": "Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "published": "2026-08-12T00:40:27Z",
-      "sentiment_score": -0.442,
-      "sentiment_label": "Neutral",
-      "confidence": 0.502
-    },
-    {
       "headline": "Tokenomics: Why making AI pay is tricky",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
@@ -384,31 +357,13 @@
       "confidence": 0.895
     },
     {
-      "headline": "CoreWeave stock pops 8% as revenue doubles on accelerating AI infrastructure demand",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-      "published": "2026-08-11T20:24:29Z",
-      "sentiment_score": 0.387,
-      "sentiment_label": "Positive",
-      "confidence": 0.667
-    },
-    {
       "headline": "ChatGPT and Gemini both just passed 1 billion users",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "published": "2026-08-11T19:41:42Z",
-      "sentiment_score": 0.553,
-      "sentiment_label": "Positive",
-      "confidence": 0.567
-    },
-    {
-      "headline": "OpenAI launches ChatGPT desktop app for Linux | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "published": "2026-08-11T19:15:35Z",
-      "sentiment_score": 0.338,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEdzTkFtVkZiVHVUMF9rQ3gzNTJickYzYllkSWNfTkl0TFZvQXNWc2xPRE1BdUZwTWZ5VVpNM3E1OE9QbEZKdVFZQUlwQ2VDcnR3NHByU21JNGRuZDdTdEdmOGRYOVN3bnFTTm1CYU1Oc3dtOG0teWlScjZDSDNKdElPU3Rxbl9kQmtLYW4wMEZieVU?oc=5",
+      "published": "2026-08-11T19:41:42",
+      "sentiment_score": 0.059,
       "sentiment_label": "Neutral",
-      "confidence": 0.644
+      "confidence": 0.899
     },
     {
       "headline": "OpenAI launches ChatGPT desktop app for Linux",
@@ -418,15 +373,6 @@
       "sentiment_score": 0.07,
       "sentiment_label": "Neutral",
       "confidence": 0.902
-    },
-    {
-      "headline": "Google\u2019s Gemini app surges to one billion users | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "published": "2026-08-11T18:53:01Z",
-      "sentiment_score": 0.926,
-      "sentiment_label": "Positive",
-      "confidence": 0.944
     },
     {
       "headline": "AI agent hacks gym to get its user a spot in pilates class",
@@ -457,7 +403,7 @@
     },
     {
       "headline": "The AI Slop Backlash Is Actually Having an Impact",
-      "source": "WIRED",
+      "source": "wired.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVA5NEphTVNfMmh6WEdxMlBwanZ5Y1hWQzZFUWFudmxoNkRBQ1lzWlJyaWJSeXlyOUxwbm8yQml2d0lzazM2RVJZNE1uRmFBbU4tbTR5TnB4U0huZC1tcDdCUXZ0UWxmdnBWVFFaeEo5Mkx4eHpEb2Rpc2V0VWxqUHc5Z1U?oc=5",
       "published": "2026-08-10T11:30:00",
       "sentiment_score": -0.396,
@@ -508,24 +454,6 @@
       "sentiment_score": -0.193,
       "sentiment_label": "Neutral",
       "confidence": 0.73
-    },
-    {
-      "headline": "AI or real? BBC analyses viral China disaster videos",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-05T22:00:32",
-      "sentiment_score": -0.641,
-      "sentiment_label": "Negative",
-      "confidence": 0.659
-    },
-    {
-      "headline": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-05T14:04:43",
-      "sentiment_score": -0.957,
-      "sentiment_label": "Negative",
-      "confidence": 0.967
     },
     {
       "headline": "Tech Life",
