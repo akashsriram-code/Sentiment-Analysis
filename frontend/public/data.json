@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-15T00:40:42.970292",
-  "total_articles": 34,
-  "overall_sentiment": -0.154,
-  "overall_label": "Negative",
+  "last_updated": "2026-08-15T06:21:57.176817",
+  "total_articles": 39,
+  "overall_sentiment": -0.015,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-07-28",
@@ -14,13 +14,22 @@
       "moving_avg": -0.005
     },
     {
+      "date": "2026-08-06",
+      "avg_sentiment": 0.069,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.032
+    },
+    {
       "date": "2026-08-07",
       "avg_sentiment": -0.903,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.454
+      "moving_avg": -0.28
     },
     {
       "date": "2026-08-10",
@@ -29,84 +38,102 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.352
+      "moving_avg": -0.247
     },
     {
       "date": "2026-08-11",
-      "avg_sentiment": -0.263,
-      "article_count": 5,
-      "positive_count": 2,
+      "avg_sentiment": -0.21,
+      "article_count": 6,
+      "positive_count": 3,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.33
+      "moving_avg": -0.239
     },
     {
       "date": "2026-08-12",
-      "avg_sentiment": -0.331,
-      "article_count": 4,
-      "positive_count": 1,
+      "avg_sentiment": -0.536,
+      "article_count": 3,
+      "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.33
+      "moving_avg": -0.289
     },
     {
       "date": "2026-08-13",
-      "avg_sentiment": -0.104,
-      "article_count": 17,
-      "positive_count": 8,
-      "negative_count": 8,
+      "avg_sentiment": 0.04,
+      "article_count": 13,
+      "positive_count": 7,
+      "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.292
+      "moving_avg": -0.242
     },
     {
       "date": "2026-08-14",
-      "avg_sentiment": 0.047,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 1,
+      "avg_sentiment": 0.224,
+      "article_count": 12,
+      "positive_count": 8,
+      "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.244
+      "moving_avg": -0.209
+    },
+    {
+      "date": "2026-08-15",
+      "avg_sentiment": 0.076,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.208
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.437,
-      "article_count": 11,
+      "avg_sentiment": -0.231,
+      "article_count": 10,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.169,
-      "article_count": 8,
-      "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.055,
-      "article_count": 5,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.105,
+      "article_count": 7,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.186,
+      "article_count": 7,
+      "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.203,
-      "article_count": 3,
+      "avg_sentiment": 0.188,
+      "article_count": 4,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.344,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Washington Post",
       "avg_sentiment": -0.179,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "BBC",
-      "avg_sentiment": -0.554,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Amazon is using Twitch to train generative AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOG5SQjh3dFdQa2pUSk9wZ0Utb2lGdUZXUUtsSWZhYzlCMnVZOXBuX3FvQ2ZJVjlRbmFma0J3ek1jcXRKVlJiWWYyZllCd1Y2LVlpZlF0UVU2UQ?oc=5",
+      "published": "2026-08-15T03:18:48",
+      "sentiment_score": 0.076,
+      "sentiment_label": "Neutral",
+      "confidence": 0.895
+    },
     {
       "headline": "Why tech bosses keep sharing their manifestos about AI",
       "source": "BBC News",
@@ -115,6 +142,15 @@
       "sentiment_score": -0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.904
+    },
+    {
+      "headline": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
+      "published": "2026-08-14T21:53:39",
+      "sentiment_score": 0.061,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
     },
     {
       "headline": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
@@ -135,6 +171,51 @@
       "confidence": 0.578
     },
     {
+      "headline": "Amazon and Alphabet\u2019s Profits Reveal Circular Nature of A.I. Boom",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
+      "published": "2026-08-14T14:44:23",
+      "sentiment_score": -0.111,
+      "sentiment_label": "Neutral",
+      "confidence": 0.812
+    },
+    {
+      "headline": "Apple trained its own AI model for China with help from Alibaba",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2dfVHdQNVhGUFpMek5sVXRkajd3cHREWjZVOUMxaEtRVWhqZlpMSEVha2dDaUdBLV9GS2hDR1M1T1p0S2xoRUV4MDJ2WkpzQnlneGNIeURBMi1QaHVYdkpsTEVkeEVvVzNNWkVLRzlNM01wTFNNRTdNd3djNmZkZHIwaVdmeWFmOXp0cTZhZHVlVU9lMUtGT0dZSzRHbmpZYWZWUUwyelJTdGs?oc=5",
+      "published": "2026-08-14T09:21:17",
+      "sentiment_score": 0.201,
+      "sentiment_label": "Neutral",
+      "confidence": 0.78
+    },
+    {
+      "headline": "Datavault AI Appoints IP Industry Pioneer Dean Becker as Chief Licensing Officer",
+      "source": "Associated Press",
+      "link": "https://apnews.com/press-release/access-newswire/press-release-942f4e50fae4efb97b99ea81fa4409fd",
+      "published": "2026-08-14T05:26:46Z",
+      "sentiment_score": 0.406,
+      "sentiment_label": "Neutral",
+      "confidence": 0.575
+    },
+    {
+      "headline": "Asian stocks rise as US inflation, tech spur gains",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+      "published": "2026-08-14T04:32:24Z",
+      "sentiment_score": 0.915,
+      "sentiment_label": "Positive",
+      "confidence": 0.943
+    },
+    {
+      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o",
+      "published": "2026-08-14T03:09:48Z",
+      "sentiment_score": 0.838,
+      "sentiment_label": "Positive",
+      "confidence": 0.858
+    },
+    {
       "headline": "AI & Tech Brief: AI persuasion and marketing",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWFNTnBpQXF6aTBvaTNOUFVrQXp0RmNYTmp3Vm41ckRiMVEzVTNPVUVYVHhnNU1DazlibFlSTEJDY0wtTjFOQkNSelFSVWExazhvMXkxQVR6ZkhZWkdPN053c1BpWEs5cXZFUTFVRFVadThNQkRlN3B0T0lKazdZWnJJUEFKMV9tRnJBNk1tSTRyU3RKY3JjcVpJSjdDaGdmdEJxWGtHeGRsYjQtTXdB?oc=5",
@@ -142,6 +223,15 @@
       "sentiment_score": 0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.942
+    },
+    {
+      "headline": "CNBC Daily Open: An 'indefinite' war, and a record-breaking rally",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/14/us-iran-war-hormuz-ai-south-korea-openai-anthropic-meta-.html",
+      "published": "2026-08-14T01:38:34Z",
+      "sentiment_score": 0.14,
+      "sentiment_label": "Positive",
+      "confidence": 0.444
     },
     {
       "headline": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
@@ -171,15 +261,6 @@
       "confidence": 0.851
     },
     {
-      "headline": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo",
-      "published": "2026-08-13T22:00:10Z",
-      "sentiment_score": -0.932,
-      "sentiment_label": "Negative",
-      "confidence": 0.952
-    },
-    {
       "headline": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
@@ -187,15 +268,6 @@
       "sentiment_score": 0.015,
       "sentiment_label": "Neutral",
       "confidence": 0.933
-    },
-    {
-      "headline": "OpenAI is losing its second executive this week",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "published": "2026-08-13T19:28:39Z",
-      "sentiment_score": -0.683,
-      "sentiment_label": "Negative",
-      "confidence": 0.698
     },
     {
       "headline": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT 5.6 Sol work at 14x the speed | TechCrunch",
@@ -223,15 +295,6 @@
       "sentiment_score": 0.615,
       "sentiment_label": "Positive",
       "confidence": 0.624
-    },
-    {
-      "headline": "Anthropic set AI agents loose on the same task. They started a turf war. | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "published": "2026-08-13T18:32:17Z",
-      "sentiment_score": 0.053,
-      "sentiment_label": "Neutral",
-      "confidence": 0.78
     },
     {
       "headline": "Meta adds AI screening to detect WhatsApp scams",
@@ -297,15 +360,6 @@
       "confidence": 0.908
     },
     {
-      "headline": "Amazon is using Twitch to train generative AI",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13T07:04:31",
-      "sentiment_score": -0.727,
-      "sentiment_label": "Negative",
-      "confidence": 0.746
-    },
-    {
       "headline": "Why Japanese firms are being so slow to use AI",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
@@ -322,15 +376,6 @@
       "sentiment_score": 0.007,
       "sentiment_label": "Neutral",
       "confidence": 0.94
-    },
-    {
-      "headline": "NEWSLETTER: American AI model makers smell an opportunity",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjdFeGZSYlRfS0Z2ajQwNkNMQm1vUDE2SFJiRkF2NlNMTnVMRjdDaWlSOG9BTDZhWXZ5R3M3MENRbGpBaUFrRVptYmxEbmstQXBhdEVIYmhYQUJSQmRONzcxTG9MVlhmOFRxc0Y5QUdKMF9wRkZvaS10VUc4WFNuWjNPdlE3YVV5cjRoNnUtZ3VvSnJWd3BpVWl6X1BFMUptNzBTNDBYTGNCLXhFLUZ4YkVFMHpRNFE?oc=5",
-      "published": "2026-08-12T19:15:00",
-      "sentiment_score": 0.284,
-      "sentiment_label": "Neutral",
-      "confidence": 0.693
     },
     {
       "headline": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
@@ -358,6 +403,15 @@
       "sentiment_score": -0.881,
       "sentiment_label": "Negative",
       "confidence": 0.895
+    },
+    {
+      "headline": "ChatGPT and Gemini both just passed 1 billion users",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEdzTkFtVkZiVHVUMF9rQ3gzNTJickYzYllkSWNfTkl0TFZvQXNWc2xPRE1BdUZwTWZ5VVpNM3E1OE9QbEZKdVFZQUlwQ2VDcnR3NHByU21JNGRuZDdTdEdmOGRYOVN3bnFTTm1CYU1Oc3dtOG0teWlScjZDSDNKdElPU3Rxbl9kQmtLYW4wMEZieVU?oc=5",
+      "published": "2026-08-11T19:41:42",
+      "sentiment_score": 0.059,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
     },
     {
       "headline": "OpenAI launches ChatGPT desktop app for Linux",
@@ -403,6 +457,15 @@
       "sentiment_score": -0.903,
       "sentiment_label": "Negative",
       "confidence": 0.931
+    },
+    {
+      "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMURSSGNRbFd4OVlvTUFGOWpuTktDVXVLaVQ2dUdnUVBycTF2bUIxV1Ftb0pQUU55S0FjYmFrUlVNeEVicVJKQjh2OHA0a0R3MGZmdnhldmdxbXpZblpBc2hRNE93dVRYeWFQc2drQVYwdHltVmRsRE41elI0YkZvUFdYVVhJWnNEaGdHUlBtVV9MZ20zcGJJ?oc=5",
+      "published": "2026-08-06T07:00:00",
+      "sentiment_score": 0.069,
+      "sentiment_label": "Neutral",
+      "confidence": 0.906
     },
     {
       "headline": "Tech Life",
