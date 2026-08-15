@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-15T06:21:57.176817",
-  "total_articles": 39,
-  "overall_sentiment": -0.015,
-  "overall_label": "Neutral",
+  "last_updated": "2026-08-15T12:19:38.228905",
+  "total_articles": 35,
+  "overall_sentiment": -0.111,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-07-28",
@@ -23,31 +23,22 @@
       "moving_avg": 0.032
     },
     {
-      "date": "2026-08-07",
-      "avg_sentiment": -0.903,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.28
-    },
-    {
       "date": "2026-08-10",
       "avg_sentiment": -0.148,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.247
+      "moving_avg": -0.028
     },
     {
       "date": "2026-08-11",
-      "avg_sentiment": -0.21,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 3,
+      "avg_sentiment": -0.287,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.239
+      "moving_avg": -0.093
     },
     {
       "date": "2026-08-12",
@@ -56,65 +47,65 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.289
+      "moving_avg": -0.181
     },
     {
       "date": "2026-08-13",
-      "avg_sentiment": 0.04,
-      "article_count": 13,
-      "positive_count": 7,
-      "negative_count": 5,
+      "avg_sentiment": -0.108,
+      "article_count": 7,
+      "positive_count": 4,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.242
+      "moving_avg": -0.169
     },
     {
       "date": "2026-08-14",
-      "avg_sentiment": 0.224,
-      "article_count": 12,
-      "positive_count": 8,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.209
+      "avg_sentiment": 0.098,
+      "article_count": 14,
+      "positive_count": 6,
+      "negative_count": 3,
+      "neutral_count": 5,
+      "moving_avg": -0.131
     },
     {
       "date": "2026-08-15",
-      "avg_sentiment": 0.076,
-      "article_count": 1,
+      "avg_sentiment": -0.415,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.208
+      "negative_count": 2,
+      "neutral_count": 1,
+      "moving_avg": -0.19
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.231,
-      "article_count": 10,
+      "avg_sentiment": -0.344,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.105,
-      "article_count": 7,
+      "source": "CNBC",
+      "avg_sentiment": 0.053,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.186,
-      "article_count": 7,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.188,
+      "avg_sentiment": 0.078,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
-      "source": "BBC",
-      "avg_sentiment": -0.344,
+      "source": "The Verge",
+      "avg_sentiment": 0.352,
       "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.798,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -122,12 +113,45 @@
       "avg_sentiment": -0.179,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.48,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Secondhand book sales are booming. Is it because of AI?",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15T11:25:32",
+      "sentiment_score": -0.845,
+      "sentiment_label": "Negative",
+      "confidence": 0.875
+    },
+    {
+      "headline": "Amazon Can Use Your Twitch Content to Train Its AI\u2014Unless You Opt Out",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbkVYLVNYNnU0eko3b2NDQ1FZRmRGcGpNUnNQUE52Z09aTkdLa2k5MW04VVh0NnJyWDVrR3FtZFhKZWo5SVNQaVZMWTVJT1ZQMmlkVHZkSW9rQjlkd3JGNXAwUFhSWXdDeW5keDZsQkVvaExubnRWdUhjUS0zeGE1TVdMUVJuaEdkcF93Wm56TFo4S3oyMkE?oc=5",
+      "published": "2026-08-15T09:00:00",
+      "sentiment_score": 0.03,
+      "sentiment_label": "Neutral",
+      "confidence": 0.937
+    },
+    {
+      "headline": "Secondhand booksellers in UK and Ireland suspect AI firms behind \u2018strange\u2019 bulk orders",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0R0TUMyYkJxVXpBUGUyM2ROVFIwRmNkQnNrblEweHZHekpaODBXNXplNFAwSlZ2ZXVCTWNldnRPYk9tbU9uaHJJdW9zSUt4S2pMNnFSeW1qZUVFVnIyM3BCdVRIeTRFdGFtSjhReGQ3OHFKbnRoT0FiRkY3aDZGWUg3aWhqa0tEVzBDckJDdktFaG9yX201azFBLW9oa1IzQXA3OEV5bXhoZzByREotNnBrbFBTcU1LT3ViV1hUVlo?oc=5",
+      "published": "2026-08-15T08:00:00",
+      "sentiment_score": -0.922,
+      "sentiment_label": "Negative",
+      "confidence": 0.935
+    },
+    {
       "headline": "Amazon is using Twitch to train generative AI",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOG5SQjh3dFdQa2pUSk9wZ0Utb2lGdUZXUUtsSWZhYzlCMnVZOXBuX3FvQ2ZJVjlRbmFma0J3ek1jcXRKVlJiWWYyZllCd1Y2LVlpZlF0UVU2UQ?oc=5",
       "published": "2026-08-15T03:18:48",
       "sentiment_score": 0.076,
@@ -180,13 +204,58 @@
       "confidence": 0.812
     },
     {
+      "headline": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
+      "published": "2026-08-14T12:17:42Z",
+      "sentiment_score": -0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
+      "headline": "Data breach notices have already blown past last year\u2019s total \u2014 and AI is playing a growing role",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+      "published": "2026-08-14T12:15:01Z",
+      "sentiment_score": -0.033,
+      "sentiment_label": "Neutral",
+      "confidence": 0.482
+    },
+    {
+      "headline": "Data centers in space could be a new frontier for insurers \u2014 if they can price the risk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
+      "published": "2026-08-14T11:19:51Z",
+      "sentiment_score": 0.162,
+      "sentiment_label": "Neutral",
+      "confidence": 0.809
+    },
+    {
+      "headline": "Arm co-founder Hermann Hauser\u2019s AI warning: The revolution is real, but so is the bubble risk",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/14/arm-ai-bubble-hermann-hauser-the-tech-download.html",
+      "published": "2026-08-14T11:00:01Z",
+      "sentiment_score": 0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
+    },
+    {
       "headline": "Apple trained its own AI model for China with help from Alibaba",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2dfVHdQNVhGUFpMek5sVXRkajd3cHREWjZVOUMxaEtRVWhqZlpMSEVha2dDaUdBLV9GS2hDR1M1T1p0S2xoRUV4MDJ2WkpzQnlneGNIeURBMi1QaHVYdkpsTEVkeEVvVzNNWkVLRzlNM01wTFNNRTdNd3djNmZkZHIwaVdmeWFmOXp0cTZhZHVlVU9lMUtGT0dZSzRHbmpZYWZWUUwyelJTdGs?oc=5",
-      "published": "2026-08-14T09:21:17",
-      "sentiment_score": 0.201,
-      "sentiment_label": "Neutral",
-      "confidence": 0.78
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "published": "2026-08-14T09:21:17Z",
+      "sentiment_score": 0.869,
+      "sentiment_label": "Positive",
+      "confidence": 0.879
+    },
+    {
+      "headline": "The Real Reason Data Center Gas Power Plants Are So Dirty",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
+      "published": "2026-08-14T09:00:00Z",
+      "sentiment_score": -0.71,
+      "sentiment_label": "Negative",
+      "confidence": 0.73
     },
     {
       "headline": "Datavault AI Appoints IP Industry Pioneer Dean Becker as Chief Licensing Officer",
@@ -207,15 +276,6 @@
       "confidence": 0.943
     },
     {
-      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o",
-      "published": "2026-08-14T03:09:48Z",
-      "sentiment_score": 0.838,
-      "sentiment_label": "Positive",
-      "confidence": 0.858
-    },
-    {
       "headline": "AI & Tech Brief: AI persuasion and marketing",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWFNTnBpQXF6aTBvaTNOUFVrQXp0RmNYTmp3Vm41ckRiMVEzVTNPVUVYVHhnNU1DazlibFlSTEJDY0wtTjFOQkNSelFSVWExazhvMXkxQVR6ZkhZWkdPN053c1BpWEs5cXZFUTFVRFVadThNQkRlN3B0T0lKazdZWnJJUEFKMV9tRnJBNk1tSTRyU3RKY3JjcVpJSjdDaGdmdEJxWGtHeGRsYjQtTXdB?oc=5",
@@ -223,24 +283,6 @@
       "sentiment_score": 0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.942
-    },
-    {
-      "headline": "CNBC Daily Open: An 'indefinite' war, and a record-breaking rally",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/14/us-iran-war-hormuz-ai-south-korea-openai-anthropic-meta-.html",
-      "published": "2026-08-14T01:38:34Z",
-      "sentiment_score": 0.14,
-      "sentiment_label": "Positive",
-      "confidence": 0.444
-    },
-    {
-      "headline": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
-      "published": "2026-08-14T00:09:11Z",
-      "sentiment_score": 0.422,
-      "sentiment_label": "Neutral",
-      "confidence": 0.551
     },
     {
       "headline": "The Safety Reckoning Inside OpenAI",
@@ -270,15 +312,6 @@
       "confidence": 0.933
     },
     {
-      "headline": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT 5.6 Sol work at 14x the speed | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "published": "2026-08-13T19:25:02Z",
-      "sentiment_score": 0.431,
-      "sentiment_label": "Neutral",
-      "confidence": 0.552
-    },
-    {
       "headline": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTRCMWtyLVBLbG1KMnBvRnh6SWtxWWhhVDZTSkc4RGNMZ1c2VkozUGtRRGFtblJQMDVINGIwOVBwczA3SGV5aG8zeGFMWEdHTmNiSHF2Q2EwTmVTam5vTTJSRXNWNUJVaHN3X1N2WFdTMlNUaG5ZUjRNaFdqeDE3VFROM013RUJETUNaTTA2X2tXOWZELVBzNkhJZTZ1SzF6TFRNeXoyUFRqTG83TTlqQ0RDekt2a3F3eHc?oc=5",
@@ -288,15 +321,6 @@
       "confidence": 0.835
     },
     {
-      "headline": "IBM partners with OpenAI to bolster enterprise AI push | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "published": "2026-08-13T19:19:49Z",
-      "sentiment_score": 0.615,
-      "sentiment_label": "Positive",
-      "confidence": 0.624
-    },
-    {
       "headline": "Meta adds AI screening to detect WhatsApp scams",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
@@ -304,42 +328,6 @@
       "sentiment_score": 0.119,
       "sentiment_label": "Neutral",
       "confidence": 0.858
-    },
-    {
-      "headline": "Suno is trying to look more like a real music production tool",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "published": "2026-08-13T15:41:26Z",
-      "sentiment_score": 0.398,
-      "sentiment_label": "Neutral",
-      "confidence": 0.582
-    },
-    {
-      "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "published": "2026-08-13T15:31:47Z",
-      "sentiment_score": -0.055,
-      "sentiment_label": "Neutral",
-      "confidence": 0.869
-    },
-    {
-      "headline": "I looked inside an AI generated movie, and the best parts were all human",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "published": "2026-08-13T15:25:28Z",
-      "sentiment_score": -0.057,
-      "sentiment_label": "Neutral",
-      "confidence": 0.883
-    },
-    {
-      "headline": "Does Google even want to win at AI?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "published": "2026-08-13T14:10:46Z",
-      "sentiment_score": -0.052,
-      "sentiment_label": "Neutral",
-      "confidence": 0.77
     },
     {
       "headline": "Twitch faces backlash over Amazon using content to train AI",
@@ -387,15 +375,6 @@
       "confidence": 0.692
     },
     {
-      "headline": "Artificial intelligence: Why firms are struggling to set prices",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQzBPOW4tVDhjVUJpSmxEQVdJcHVnMlVHODVZRXpnckFpMmdyNXdCNHR3ZW5VWXJlOS1hMVpqQTluTzc5bXo2c2hNMlB5QS03WWRGbm5mOVFJUQ?oc=5",
-      "published": "2026-08-11T23:03:52",
-      "sentiment_score": -0.168,
-      "sentiment_label": "Neutral",
-      "confidence": 0.7
-    },
-    {
       "headline": "Tokenomics: Why making AI pay is tricky",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
@@ -403,15 +382,6 @@
       "sentiment_score": -0.881,
       "sentiment_label": "Negative",
       "confidence": 0.895
-    },
-    {
-      "headline": "ChatGPT and Gemini both just passed 1 billion users",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEdzTkFtVkZiVHVUMF9rQ3gzNTJickYzYllkSWNfTkl0TFZvQXNWc2xPRE1BdUZwTWZ5VVpNM3E1OE9QbEZKdVFZQUlwQ2VDcnR3NHByU21JNGRuZDdTdEdmOGRYOVN3bnFTTm1CYU1Oc3dtOG0teWlScjZDSDNKdElPU3Rxbl9kQmtLYW4wMEZieVU?oc=5",
-      "published": "2026-08-11T19:41:42",
-      "sentiment_score": 0.059,
-      "sentiment_label": "Neutral",
-      "confidence": 0.899
     },
     {
       "headline": "OpenAI launches ChatGPT desktop app for Linux",
@@ -448,15 +418,6 @@
       "sentiment_score": -0.148,
       "sentiment_label": "Neutral",
       "confidence": 0.762
-    },
-    {
-      "headline": "Meta fined $567m in largest child safety ruling against social media giant",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-07T09:22:03",
-      "sentiment_score": -0.903,
-      "sentiment_label": "Negative",
-      "confidence": 0.931
     },
     {
       "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
