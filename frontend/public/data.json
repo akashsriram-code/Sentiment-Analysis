@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-16T12:20:44.440696",
-  "total_articles": 25,
-  "overall_sentiment": -0.152,
-  "overall_label": "Negative",
+  "last_updated": "2026-08-16T18:16:11.914551",
+  "total_articles": 30,
+  "overall_sentiment": -0.028,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-07-28",
@@ -33,85 +33,127 @@
     },
     {
       "date": "2026-08-12",
-      "avg_sentiment": -0.536,
-      "article_count": 3,
+      "avg_sentiment": -0.941,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.19
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.291
     },
     {
       "date": "2026-08-13",
-      "avg_sentiment": -0.35,
-      "article_count": 4,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": 0.114,
+      "article_count": 3,
+      "positive_count": 3,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.222
+      "moving_avg": -0.21
     },
     {
       "date": "2026-08-14",
-      "avg_sentiment": -0.159,
-      "article_count": 4,
-      "positive_count": 1,
+      "avg_sentiment": -0.053,
+      "article_count": 7,
+      "positive_count": 3,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.211
+      "neutral_count": 3,
+      "moving_avg": -0.184
     },
     {
       "date": "2026-08-15",
-      "avg_sentiment": 0.124,
-      "article_count": 7,
+      "avg_sentiment": 0.21,
+      "article_count": 8,
       "positive_count": 5,
       "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.163
+      "neutral_count": 1,
+      "moving_avg": -0.128
     },
     {
       "date": "2026-08-16",
-      "avg_sentiment": 0.071,
-      "article_count": 1,
+      "avg_sentiment": -0.092,
+      "article_count": 5,
       "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.153
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.14
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.281,
-      "article_count": 10,
+      "avg_sentiment": -0.231,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.085,
+      "avg_sentiment": 0.129,
       "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.103,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.073,
+      "avg_sentiment": 0.057,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.024,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.083,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
+      "headline": "How AI Models From OpenAI and Anthropic Went Rogue",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
+      "published": "2026-08-16T16:03:00",
+      "sentiment_score": -0.258,
+      "sentiment_label": "Neutral",
+      "confidence": 0.689
+    },
+    {
+      "headline": "Why I Told My Chatbot to Stop Kissing Up to Me",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcERwU3JoNlhmdU5GYWlKNzBpOWpzVi1idHdJeEgyNVM2OTJDTEJaM0ZXNDdpOHY3Z3FZa0pUY19raTdOU05aREpFbFE3aERsZnBCWmhKc25ONm04bktVU1pZMUpqUENiN3BiZEIxaXI0X1Z1b2ZncGRFMkRPNlo4Qmt6NFlJWWhJODJj?oc=5",
+      "published": "2026-08-16T13:00:00",
+      "sentiment_score": -0.123,
+      "sentiment_label": "Neutral",
+      "confidence": 0.816
+    },
+    {
+      "headline": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazgxdmRpSDgyZkxsR2s2UVVjWm5zMmhwVVRacE9LV19DMVdxdERRZU81dG0zdUx2VE5ZYkktdDgtN29RSmQ1dXFkNzNhelV4Y29IVnNJOG1IWlllWkt3R2VFcnYxQjZXUldQZXpfTUpMVVR4V25TeHA3YXhIR0JKdnIwTGVqVGhGUFN6eWRUUGd1ZVlKQm5URU90Zm1ySmJkQ0t3MmhlRnBidl9tUkhvemIxMGY?oc=5",
+      "published": "2026-08-16T12:30:00",
+      "sentiment_score": -0.147,
+      "sentiment_label": "Neutral",
+      "confidence": 0.728
+    },
+    {
       "headline": "Open-Weight AI Won\u2019t Crimp Demand for Picks and Shovels",
-      "source": "wsj.com",
+      "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0lHME8wRVdUTU1wc3k2NmVneUpYejJYdnVYYlFxSklPQmFUeHBmVU05R0d0ay00Q0ZyZGNmemxMQm1XWk4zR1pxaWFES2VkR2lBaHBTX3VDYmg4YjctajR2WnhBRDFxNjBuWVNRdzdVLWdDSk1QN3E5VDh6b0cwTVIzTXFFQ2tSeTBkV28zcmNQR09MRmc?oc=5",
       "published": "2026-08-16T09:30:00",
       "sentiment_score": 0.071,
       "sentiment_label": "Neutral",
       "confidence": 0.847
+    },
+    {
+      "headline": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Cd1RFdzhVb2VmMzFuU1U5ZjVkdjMwYUJ1MjRDaUV4VzQzX0ZBZmhpYXA4TVFUd2NTb044U0lCd2xQMHVWZHZfUEQ3bUdleExoOWIzOVpnaEJpOTlaeXlySi1pbnhFVTdRcEZVenZkbUVXdw?oc=5",
+      "published": "2026-08-16T09:00:37",
+      "sentiment_score": -0.002,
+      "sentiment_label": "Neutral",
+      "confidence": 0.343
     },
     {
       "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -123,13 +165,22 @@
       "confidence": 0.887
     },
     {
-      "headline": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5",
-      "published": "2026-08-15T22:49:03",
-      "sentiment_score": 0.072,
+      "headline": "How to tell if your AI platforms\u2019 accounts have been hacked | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "published": "2026-08-15T16:11:54Z",
+      "sentiment_score": -0.039,
       "sentiment_label": "Neutral",
-      "confidence": 0.89
+      "confidence": 0.901
+    },
+    {
+      "headline": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "published": "2026-08-15T14:45:31Z",
+      "sentiment_score": 0.929,
+      "sentiment_label": "Positive",
+      "confidence": 0.952
     },
     {
       "headline": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
@@ -186,6 +237,15 @@
       "confidence": 0.904
     },
     {
+      "headline": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China",
+      "source": "reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
+      "published": "2026-08-14T21:09:00",
+      "sentiment_score": 0.061,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
+    },
+    {
       "headline": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
@@ -213,6 +273,24 @@
       "confidence": 0.627
     },
     {
+      "headline": "Apple trained its own AI model for China with help from Alibaba",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2dfVHdQNVhGUFpMek5sVXRkajd3cHREWjZVOUMxaEtRVWhqZlpMSEVha2dDaUdBLV9GS2hDR1M1T1p0S2xoRUV4MDJ2WkpzQnlneGNIeURBMi1QaHVYdkpsTEVkeEVvVzNNWkVLRzlNM01wTFNNRTdNd3djNmZkZHIwaVdmeWFmOXp0cTZhZHVlVU9lMUtGT0dZSzRHbmpZYWZWUUwyelJTdGs?oc=5",
+      "published": "2026-08-14T09:21:17",
+      "sentiment_score": 0.201,
+      "sentiment_label": "Neutral",
+      "confidence": 0.78
+    },
+    {
+      "headline": "AI & Tech Brief: AI persuasion and marketing",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWFNTnBpQXF6aTBvaTNOUFVrQXp0RmNYTmp3Vm41ckRiMVEzVTNPVUVYVHhnNU1DazlibFlSTEJDY0wtTjFOQkNSelFSVWExazhvMXkxQVR6ZkhZWkdPN053c1BpWEs5cXZFUTFVRFVadThNQkRlN3B0T0lKazdZWnJJUEFKMV9tRnJBNk1tSTRyU3RKY3JjcVpJSjdDaGdmdEJxWGtHeGRsYjQtTXdB?oc=5",
+      "published": "2026-08-14T02:19:39",
+      "sentiment_score": 0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.942
+    },
+    {
       "headline": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTRCMWtyLVBLbG1KMnBvRnh6SWtxWWhhVDZTSkc4RGNMZ1c2VkozUGtRRGFtblJQMDVINGIwOVBwczA3SGV5aG8zeGFMWEdHTmNiSHF2Q2EwTmVTam5vTTJSRXNWNUJVaHN3X1N2WFdTMlNUaG5ZUjRNaFdqeDE3VFROM013RUJETUNaTTA2X2tXOWZELVBzNkhJZTZ1SzF6TFRNeXoyUFRqTG83TTlqQ0RDekt2a3F3eHc?oc=5",
@@ -220,15 +298,6 @@
       "sentiment_score": 0.141,
       "sentiment_label": "Neutral",
       "confidence": 0.835
-    },
-    {
-      "headline": "Twitch faces backlash over Amazon using content to train AI",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5",
-      "published": "2026-08-13T10:39:02",
-      "sentiment_score": -0.879,
-      "sentiment_label": "Negative",
-      "confidence": 0.891
     },
     {
       "headline": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
@@ -241,12 +310,12 @@
     },
     {
       "headline": "Amazon is using Twitch to train generative AI",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCeWEyN0s5Ri1MbzZOUXBKWF9LWFBIeUk1WlA2RnhOSEM2S2pEb0g0YVNMV0xMU0hQNmV5OHFoVV9ick1zQnVTVERHYTRuc21DLThMbjRUaw?oc=5",
       "published": "2026-08-13T07:04:31",
-      "sentiment_score": -0.727,
-      "sentiment_label": "Negative",
-      "confidence": 0.746
+      "sentiment_score": 0.134,
+      "sentiment_label": "Neutral",
+      "confidence": 0.845
     },
     {
       "headline": "Why Japanese firms are being so slow to use AI",
@@ -256,24 +325,6 @@
       "sentiment_score": -0.941,
       "sentiment_label": "Negative",
       "confidence": 0.952
-    },
-    {
-      "headline": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlZaUnlsenoza0VnMmxoSloyWTFsejBYVy1EWDNPbnpOem52OEQxNUpLeS10SkREOEpJOUVwR08xOVQtNmdPTmVNUVM1eXAzdG5QQldRX1lHRnRud2R6YXg4emRETkx1MVFWUnBvZ3IyRU9FQ2htbVlUVUtkakNiYzFrWDdqc3NoUlQteE83bTR2aHVFMlVNcF9WVVNkZ2htZlJ6V1lXSG5LNDZmRXZTTQ?oc=5",
-      "published": "2026-08-12T20:10:40",
-      "sentiment_score": 0.007,
-      "sentiment_label": "Neutral",
-      "confidence": 0.94
-    },
-    {
-      "headline": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
-      "source": "theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
-      "published": "2026-08-12T18:57:00",
-      "sentiment_score": -0.675,
-      "sentiment_label": "Negative",
-      "confidence": 0.692
     },
     {
       "headline": "Tokenomics: Why making AI pay is tricky",
