@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-17T00:41:22.898597",
-  "total_articles": 27,
-  "overall_sentiment": -0.047,
-  "overall_label": "Neutral",
+  "last_updated": "2026-08-17T06:35:37.232916",
+  "total_articles": 31,
+  "overall_sentiment": -0.121,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-07-28",
@@ -42,12 +42,12 @@
     },
     {
       "date": "2026-08-12",
-      "avg_sentiment": -0.467,
-      "article_count": 2,
+      "avg_sentiment": -0.941,
+      "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.263
+      "neutral_count": 0,
+      "moving_avg": -0.358
     },
     {
       "date": "2026-08-13",
@@ -56,34 +56,43 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.248
+      "moving_avg": -0.327
     },
     {
       "date": "2026-08-14",
-      "avg_sentiment": -0.087,
+      "avg_sentiment": -0.18,
       "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 1,
+      "positive_count": 1,
+      "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.225
+      "moving_avg": -0.306
     },
     {
       "date": "2026-08-15",
-      "avg_sentiment": 0.238,
+      "avg_sentiment": 0.108,
       "article_count": 10,
-      "positive_count": 6,
-      "negative_count": 3,
+      "positive_count": 5,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.19
+      "moving_avg": -0.29
     },
     {
       "date": "2026-08-16",
-      "avg_sentiment": 0.103,
-      "article_count": 1,
+      "avg_sentiment": -0.296,
+      "article_count": 3,
       "positive_count": 1,
-      "negative_count": 0,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.185
+      "moving_avg": -0.342
+    },
+    {
+      "date": "2026-08-17",
+      "avg_sentiment": 0.099,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.271
     }
   ],
   "source_stats": [
@@ -95,32 +104,83 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.22,
+      "avg_sentiment": 0.127,
       "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.045,
+      "source": "The Verge",
+      "avg_sentiment": -0.17,
       "article_count": 4,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.083,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.057,
       "article_count": 3,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.132,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "Stripe Nears Deal to Buy AI Firm OpenRouter for Over $7 Billion",
+      "headline": "Big investors hunt for tomorrow's AI winners as capex angst fades",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5",
+      "published": "2026-08-17T05:01:00",
+      "sentiment_score": -0.002,
+      "sentiment_label": "Neutral",
+      "confidence": 0.887
+    },
+    {
+      "headline": "Plans for \u00a320m hub in Cambridge to develop new medicines using AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Qblg2RjRXSzVmUHlyX1Y0TXVrc3ZjU3R0eU9XOGgxR1IxdUp0NnNYR0tGM1ZIRFN4ZFVhcDdNLWtxWVNZRVZiTUVBeWs4cVBIOUdhN0JGTjBjZw?oc=5",
+      "published": "2026-08-17T04:57:22",
+      "sentiment_score": 0.226,
+      "sentiment_label": "Neutral",
+      "confidence": 0.755
+    },
+    {
+      "headline": "China Wants to Shape What the World\u2019s A.I. Knows",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHYlo3WmVNbm9LY1dPZnpZMWdGRFF2N29BaDEzM2VCbFcxLVlqVjZoWk1LM3plTDh0YUJTSDBQcnROWThTSjJPSExaSzNmWE9uZHlfLUJNN1hXOEVhNWM1ODFseGZpam5PSURobThLLThZTVc2YWFxSUl1Y1pSdw?oc=5",
+      "published": "2026-08-17T04:01:06",
+      "sentiment_score": 0.072,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
+    },
+    {
+      "headline": "OpenAI reportedly disbanded its preparedness team",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
+      "published": "2026-08-16T21:32:56",
+      "sentiment_score": -0.929,
+      "sentiment_label": "Negative",
+      "confidence": 0.937
+    },
+    {
+      "headline": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5",
       "published": "2026-08-16T20:08:01",
-      "sentiment_score": 0.103,
+      "sentiment_score": 0.376,
       "sentiment_label": "Neutral",
-      "confidence": 0.871
+      "confidence": 0.587
+    },
+    {
+      "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
+      "published": "2026-08-16T09:00:49",
+      "sentiment_score": -0.336,
+      "sentiment_label": "Neutral",
+      "confidence": 0.593
     },
     {
       "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -195,15 +255,6 @@
       "confidence": 0.808
     },
     {
-      "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-      "published": "2026-08-15T10:02:05Z",
-      "sentiment_score": 0.584,
-      "sentiment_label": "Positive",
-      "confidence": 0.594
-    },
-    {
       "headline": "Amazon Can Use Your Twitch Content to Train Its AI\u2014Unless You Opt Out",
       "source": "Wired",
       "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
@@ -211,6 +262,15 @@
       "sentiment_score": -0.099,
       "sentiment_label": "Neutral",
       "confidence": 0.812
+    },
+    {
+      "headline": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
+      "published": "2026-08-15T04:02:14",
+      "sentiment_score": -0.717,
+      "sentiment_label": "Negative",
+      "confidence": 0.752
     },
     {
       "headline": "Why tech bosses keep sharing their manifestos about AI",
@@ -242,11 +302,11 @@
     {
       "headline": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-      "published": "2026-08-14T15:45:15Z",
-      "sentiment_score": 0.298,
-      "sentiment_label": "Positive",
-      "confidence": 0.627
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44OUJZSWt3dkU4Vmh6T1lEbkFhMi1SNnc0aEF2d1RNNzZ2Q0ViLWM2UGFYS0VSLVUzYW1PNjRPYm04ajJlV2JSdXlGS1BnYU1wcDhyT2pxMzNvNHRWQkoyZGY5bmdaZ2ZI0gFuQVVfeXFMT0hVcEpCdG9PRElhcFVtc211cnNmX0twcF9DeVU2aXNRYXdZaExmNFlDdGluaWtmQ0pjXzY0bVNKWVNRMHY1a0FkSlRTelZaLXBkaW9FNm01TFU0MGY0dVVIQXY2M2ZfekYxd3FiNnc?oc=5",
+      "published": "2026-08-14T15:45:15",
+      "sentiment_score": -0.166,
+      "sentiment_label": "Neutral",
+      "confidence": 0.676
     },
     {
       "headline": "Apple trained its own AI model for China with help from Alibaba",
@@ -292,15 +352,6 @@
       "sentiment_score": -0.941,
       "sentiment_label": "Negative",
       "confidence": 0.952
-    },
-    {
-      "headline": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlZaUnlsenoza0VnMmxoSloyWTFsejBYVy1EWDNPbnpOem52OEQxNUpLeS10SkREOEpJOUVwR08xOVQtNmdPTmVNUVM1eXAzdG5QQldRX1lHRnRud2R6YXg4emRETkx1MVFWUnBvZ3IyRU9FQ2htbVlUVUtkakNiYzFrWDdqc3NoUlQteE83bTR2aHVFMlVNcF9WVVNkZ2htZlJ6V1lXSG5LNDZmRXZTTQ?oc=5",
-      "published": "2026-08-12T20:10:40",
-      "sentiment_score": 0.007,
-      "sentiment_label": "Neutral",
-      "confidence": 0.94
     },
     {
       "headline": "Tokenomics: Why making AI pay is tricky",
