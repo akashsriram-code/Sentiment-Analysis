@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T18:25:05.380799",
-  "total_articles": 31,
-  "overall_sentiment": -0.211,
+  "last_updated": "2026-08-18T00:40:49.478887",
+  "total_articles": 32,
+  "overall_sentiment": -0.159,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,22 +14,13 @@
       "moving_avg": -0.005
     },
     {
-      "date": "2026-08-06",
-      "avg_sentiment": 0.069,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.032
-    },
-    {
       "date": "2026-08-10",
       "avg_sentiment": -0.396,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.111
+      "moving_avg": -0.2
     },
     {
       "date": "2026-08-11",
@@ -38,7 +29,7 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.155
+      "moving_avg": -0.229
     },
     {
       "date": "2026-08-12",
@@ -47,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.312
+      "moving_avg": -0.407
     },
     {
       "date": "2026-08-13",
@@ -56,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.315
+      "moving_avg": -0.392
     },
     {
       "date": "2026-08-14",
@@ -65,34 +56,34 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.27
+      "moving_avg": -0.326
     },
     {
       "date": "2026-08-15",
-      "avg_sentiment": -0.035,
-      "article_count": 6,
-      "positive_count": 2,
+      "avg_sentiment": -0.053,
+      "article_count": 5,
+      "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.274
+      "moving_avg": -0.287
     },
     {
       "date": "2026-08-16",
-      "avg_sentiment": -0.598,
-      "article_count": 3,
-      "positive_count": 0,
+      "avg_sentiment": -0.193,
+      "article_count": 5,
+      "positive_count": 1,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.369
+      "neutral_count": 2,
+      "moving_avg": -0.314
     },
     {
       "date": "2026-08-17",
-      "avg_sentiment": -0.164,
-      "article_count": 9,
-      "positive_count": 5,
+      "avg_sentiment": -0.071,
+      "article_count": 10,
+      "positive_count": 7,
       "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.336
+      "neutral_count": 0,
+      "moving_avg": -0.268
     }
   ],
   "source_stats": [
@@ -104,24 +95,48 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.102,
-      "article_count": 6,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.281,
-      "article_count": 3,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.031,
+      "article_count": 7,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.283,
-      "article_count": 3,
+      "avg_sentiment": -0.221,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.023,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.414,
+      "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkT0hmc0J4LU44Q1pSZlM3anNacnkwMnJPVGVOSE54REowb2J1NVdoLUJUbmlxT1N2NHBueUVqaVVjczVYc3pCeDkyUzdSNzFkV0J0VHlMWG9TdkVsa1VBcDFEYnNodU05WGNPMEFyQURYOTJBRE9IcFo2cm9IZw?oc=5",
+      "published": "2026-08-17T20:19:34",
+      "sentiment_score": 0.103,
+      "sentiment_label": "Neutral",
+      "confidence": 0.871
+    },
+    {
+      "headline": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw?oc=5",
+      "published": "2026-08-17T18:55:43",
+      "sentiment_score": 0.667,
+      "sentiment_label": "Positive",
+      "confidence": 0.687
+    },
     {
       "headline": "Trump races to prepare for new strains of deadly viruses after cutting biosecurity experts",
       "source": "The Washington Post",
@@ -130,6 +145,15 @@
       "sentiment_score": 0.054,
       "sentiment_label": "Neutral",
       "confidence": 0.741
+    },
+    {
+      "headline": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUotWW5KS0JOMnJhektFaDU0Zjc5NmpWVUoyR0pYbmh0WEFlUWF6RWY0eWNxTV8zYTZiVVc5ZUJzMDdWTTNpRDVzV19JdEVfU3pxV19TYTg5bkx0THQyQnZkZ3BxYzFyQXZmRk9pWHd6dDhwQVZXcmlmS2VtZ3AxelFkME4zUTFLdzRudXdOM2xHMGdhRXdhTTVLbzBFcVlzZ1ZOSlljRWxLSWRQeS1XZHlrdw?oc=5",
+      "published": "2026-08-17T15:40:06",
+      "sentiment_score": 0.06,
+      "sentiment_label": "Neutral",
+      "confidence": 0.906
     },
     {
       "headline": "Sick of A.I. Slop? So Are Tech Giants.",
@@ -141,22 +165,13 @@
       "confidence": 0.807
     },
     {
-      "headline": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping",
+      "headline": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dVJQbFBWV0JSa1JuWWJFZUt1WF80bW9yWU1SZmxDZFJXLU1rSjlrMG9QNHpxQnF6bUk5Yi0zMUJxWkUxeVQ0c3o3b3kwamdQS1hKTVVGOWNQUnljQWJtQXlCLThadEUxR3JrWTFUdXNrcXpoRzBCamRR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dVJQbFBWV0JSa1JuWWJFZUt1WF80bW9yWU1SZmxDZFJXLU1rSjlrMG9QNHpxQnF6bUk5Yi0zMUJxWkUxeVQ0c3o3b3kwamdQS1hKTVVGOWNQUnljQWJtQXlCLThadEUxR3JrWTFUdXNrcXpoRzBCamRR0gF_QVVfeXFMTmVfWk5SaHZTX1NpM21Gb0l1R2haZ2NnVzJWNlR6dGI4UkN1ejRXYjUtUTdmazNmclIxMEdUVlVvdnJUSDRhSGt5YWxKc2FqRnphZ0lfcml5WnZkV080c2lzLW51WDZ6eFl5akU1LU1wXzlCV3RtOFU5MFV4cGFPWQ?oc=5",
       "published": "2026-08-17T15:03:08",
-      "sentiment_score": 0.06,
+      "sentiment_score": 0.104,
       "sentiment_label": "Neutral",
-      "confidence": 0.906
-    },
-    {
-      "headline": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
-      "published": "2026-08-17T15:01:40",
-      "sentiment_score": 0.087,
-      "sentiment_label": "Neutral",
-      "confidence": 0.865
+      "confidence": 0.87
     },
     {
       "headline": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
@@ -195,22 +210,31 @@
       "confidence": 0.901
     },
     {
-      "headline": "The next China shock will come from open-source AI",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWQ05ZZ1N3RENEQXc4eFAzWlF6R0tTSjB1V0RfWjNrbnNTcVdKM25VdlFQdmVsSUt1S1RyV243WWFpYXpHWTBZcE12R2dOdU1Cd0o0eU9DWGloN2pWbVJSNVNubGhUMHlUX1M5UmpzT1c?oc=5",
-      "published": "2026-08-17T01:01:44",
-      "sentiment_score": 0.015,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+      "published": "2026-08-16T22:21:03Z",
+      "sentiment_score": 0.779,
+      "sentiment_label": "Positive",
+      "confidence": 0.8
     },
     {
       "headline": "OpenAI reportedly disbanded its preparedness team",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
-      "published": "2026-08-16T21:32:56",
-      "sentiment_score": -0.929,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "published": "2026-08-16T21:32:56Z",
+      "sentiment_score": -0.845,
       "sentiment_label": "Negative",
-      "confidence": 0.937
+      "confidence": 0.857
+    },
+    {
+      "headline": "Why people aren't buying Mark Zuckerberg\u2019s AI future | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "published": "2026-08-16T20:33:48Z",
+      "sentiment_score": -0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.903
     },
     {
       "headline": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019 | TechCrunch",
@@ -238,15 +262,6 @@
       "sentiment_score": 0.862,
       "sentiment_label": "Positive",
       "confidence": 0.887
-    },
-    {
-      "headline": "U.S. to tell allies they must pick sides in AI race with China: Reuters",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-      "published": "2026-08-15T22:49:03Z",
-      "sentiment_score": 0.058,
-      "sentiment_label": "Neutral",
-      "confidence": 0.917
     },
     {
       "headline": "How to tell if your AI platforms\u2019 accounts have been hacked | TechCrunch",
@@ -376,21 +391,12 @@
     },
     {
       "headline": "The AI Slop Backlash Is Actually Having an Impact",
-      "source": "WIRED",
+      "source": "wired.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVA5NEphTVNfMmh6WEdxMlBwanZ5Y1hWQzZFUWFudmxoNkRBQ1lzWlJyaWJSeXlyOUxwbm8yQml2d0lzazM2RVJZNE1uRmFBbU4tbTR5TnB4U0huZC1tcDdCUXZ0UWxmdnBWVFFaeEo5Mkx4eHpEb2Rpc2V0VWxqUHc5Z1U?oc=5",
       "published": "2026-08-10T11:30:00",
       "sentiment_score": -0.396,
       "sentiment_label": "Neutral",
       "confidence": 0.494
-    },
-    {
-      "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMURSSGNRbFd4OVlvTUFGOWpuTktDVXVLaVQ2dUdnUVBycTF2bUIxV1Ftb0pQUU55S0FjYmFrUlVNeEVicVJKQjh2OHA0a0R3MGZmdnhldmdxbXpZblpBc2hRNE93dVRYeWFQc2drQVYwdHltVmRsRE41elI0YkZvUFdYVVhJWnNEaGdHUlBtVV9MZ20zcGJJ?oc=5",
-      "published": "2026-08-06T07:00:00",
-      "sentiment_score": 0.069,
-      "sentiment_label": "Neutral",
-      "confidence": 0.906
     },
     {
       "headline": "Tech Life",
