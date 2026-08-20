@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-19T18:21:44.918514",
-  "total_articles": 41,
-  "overall_sentiment": -0.029,
-  "overall_label": "Neutral",
+  "last_updated": "2026-08-20T00:40:34.146800",
+  "total_articles": 39,
+  "overall_sentiment": -0.058,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-08-14",
@@ -24,65 +24,71 @@
     },
     {
       "date": "2026-08-17",
-      "avg_sentiment": -0.169,
+      "avg_sentiment": -0.394,
       "article_count": 2,
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.054
+      "moving_avg": -0.129
     },
     {
       "date": "2026-08-18",
-      "avg_sentiment": 0.079,
-      "article_count": 21,
-      "positive_count": 12,
-      "negative_count": 7,
+      "avg_sentiment": -0.024,
+      "article_count": 20,
+      "positive_count": 10,
+      "negative_count": 8,
       "neutral_count": 2,
-      "moving_avg": -0.02
+      "moving_avg": -0.103
     },
     {
       "date": "2026-08-19",
-      "avg_sentiment": -0.169,
-      "article_count": 15,
-      "positive_count": 5,
-      "negative_count": 8,
-      "neutral_count": 2,
-      "moving_avg": -0.05
+      "avg_sentiment": -0.071,
+      "article_count": 14,
+      "positive_count": 6,
+      "negative_count": 4,
+      "neutral_count": 4,
+      "moving_avg": -0.096
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.041,
-      "article_count": 11,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.086,
+      "article_count": 9,
+      "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.064,
-      "article_count": 7,
+      "avg_sentiment": 0.105,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
-      "source": "wsj.com",
-      "avg_sentiment": -0.53,
+      "source": "Reuters",
+      "avg_sentiment": 0.142,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.399,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.213,
+      "source": "The Verge",
+      "avg_sentiment": 0.086,
       "article_count": 3,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.539,
+      "avg_sentiment": 0.181,
       "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "avg_sentiment": 0.193,
       "article_count": 2,
       "sentiment_label": "Positive"
@@ -94,12 +100,6 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "reuters.com",
-      "avg_sentiment": 0.225,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "CNN",
       "avg_sentiment": 0.079,
       "article_count": 2,
@@ -108,8 +108,26 @@
   ],
   "articles": [
     {
+      "headline": "NEWSLETTER: AI firms can't yet contain what they've built, study finds",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5",
+      "published": "2026-08-19T21:25:00",
+      "sentiment_score": -0.023,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
+    },
+    {
+      "headline": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5",
+      "published": "2026-08-19T20:10:01",
+      "sentiment_score": 0.161,
+      "sentiment_label": "Neutral",
+      "confidence": 0.812
+    },
+    {
       "headline": "OpenAI to Enhance Safety Processes for Paid Tool Customers",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcFh0d0UzeDU0MFgxT2F1NkI3SXkxZnZDN3gwcUNweXVTZjRDc0ZsM3YxZk5kUEtzMmJ4LUtvVmV1Uzd1dWVfUkpPR1dmQ1MwWVMyQ1lhbi1GNVd3NUtYT1N4RkY1alFMVFFwd01GazFFSjFYMU1USGU2cVFEY1NpSkV0bjU1Y3FFY0pUUTZRQ0liWU5McEpKdEVYOTdMQ0x6Y0VlUFlDTWtIaEhhRkE?oc=5",
       "published": "2026-08-19T17:52:30",
       "sentiment_score": 0.343,
@@ -117,26 +135,8 @@
       "confidence": 0.639
     },
     {
-      "headline": "AI Has Plunged the Book Publishing Industry Into Utter Chaos",
-      "source": "wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWFiWDhvRzBmOTIyUW1BSmxsSFc0eDA3UzU2cVVrZ0xST2MzektGTDVaM0laOEVUd3I0OUNDMzlBb2JadFEwS3hQVGRncDVicDNtaG10R2g2b29hYW1VeTZtSGRFNDFoRVlIeXNWTkxSb3QxUlNrMGluem1kS25TeTQ5Zw?oc=5",
-      "published": "2026-08-19T17:40:55",
-      "sentiment_score": -0.892,
-      "sentiment_label": "Negative",
-      "confidence": 0.901
-    },
-    {
-      "headline": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z09XYkpQZUoxejVlZWZFR3JJZGJLTi0weVdoWERmVW5kSVVzNmQyQjZYa1JFQ2pId0QwNV9CU2M2d3BTeWJ2ZXNjb2dYT2ZHYmstTklEaFNHdlYzbHdMNFpuQmZaWUpTcHB2VmFXWUM4eUNmOW9lVg?oc=5",
-      "published": "2026-08-19T17:39:30",
-      "sentiment_score": 0.055,
-      "sentiment_label": "Neutral",
-      "confidence": 0.914
-    },
-    {
       "headline": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2lpcHU2c3ZTV1FBZTNGWWpjY2RKbTFoNGN6SHpDV0YzNlFFSEV3elhwOUc0SGI5cWFfenpqWEFQMFlLM00tNGJlQUlva3FRSm8tMWI4RlR5RHZqY056TFRGN2ZSR3JLbzQ1VC1ncl9CNFNhOXlodjFsQ2c4UzU0S0VscmEwY2RRTHRYWUg0MTNUcmxOdzU3S2N3ZkttSzdSZEZjWWZOSHFKWmNiUlE?oc=5",
       "published": "2026-08-19T17:09:26",
       "sentiment_score": 0.043,
@@ -144,13 +144,13 @@
       "confidence": 0.923
     },
     {
-      "headline": "Inside Big Tech\u2019s Frantic Race to Quell the Growing Backlash to AI",
-      "source": "wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0ZMN28xd2NTdzNCbllaLVFGVkVDaGJlMkZOOU1xMlplVjR6ZnpoRVcxT0ZYMFdDcDJCN3p1SHdYT00waFVkT0loNGxMcXN0NFpyVzZJbzE5R3hsaHhTM2xZWUREOTdyN0R3RmJ3ajNzd2lFRGlUOVlZckVzQTRUYVJzeWFVZEwwSzY1QW84NGJfM3B4OWNMWkpFZHBiS3NI?oc=5",
-      "published": "2026-08-19T16:31:37",
-      "sentiment_score": -0.35,
+      "headline": "OpenAI\u2019s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5",
+      "published": "2026-08-19T17:00:00",
+      "sentiment_score": 0.041,
       "sentiment_label": "Neutral",
-      "confidence": 0.55
+      "confidence": 0.882
     },
     {
       "headline": "Monzo says issue with card payments and transfers now resolved",
@@ -162,26 +162,17 @@
       "confidence": 0.586
     },
     {
-      "headline": "The A.I. in Google\u2019s New Pixel 11 Is Not Very Helpful",
+      "headline": "Google\u2019s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFBhbk11Q0ctTXc4b3ZUYUV5OHRQUHJzNW1ZU0NFYVJ1b3lyRElrVFpGODJQdWtlRkxZa1o3SVAwbW5CN3N6X0NSYXlnWXBKbEIwMmxGc0kwNmFYb25kWjRtMU84Zy1IdUVCUDNibkc5LVdPNjhheWlsS0ZFN3FXWXQtNjlwSENHWVY3RFMwcw?oc=5",
       "published": "2026-08-19T16:00:11",
-      "sentiment_score": -0.253,
+      "sentiment_score": 0.054,
       "sentiment_label": "Neutral",
-      "confidence": 0.681
-    },
-    {
-      "headline": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
-      "published": "2026-08-19T15:08:05",
-      "sentiment_score": 0.268,
-      "sentiment_label": "Neutral",
-      "confidence": 0.685
+      "confidence": 0.916
     },
     {
       "headline": "OpenAI Launches ChatGPT for Teens",
-      "source": "WIRED Middle East",
+      "source": "wired.me",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15ak1CY2ZTSjZfcGhrZ3VTYnBKaXExSnRwWTVtZjF1bVJfWVU3YkdodjgyT3VVdTVsOWFKbnZXaGpGNW1KaTNlSkZJT3ZhYi1fSlNGQXRVeERRQjkwMTlvb1hEeHUzVjUtNWhvWQ?oc=5",
       "published": "2026-08-19T12:48:00",
       "sentiment_score": 0.045,
@@ -207,15 +198,6 @@
       "confidence": 0.925
     },
     {
-      "headline": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLWRpN1M2dDZ0STVjSGVCd3gzcncxVUN2aHNrSVNiWHRTbDJEYWM3dFRSRDFSVjhBOGR5WThQcFdOem9OazNhaUNMMTRrYmc1UmpGeV9OQUphREh6YmdiN1FWYS1rbWhWNkthakhpMmZEeV92Z3o3UXFCTnZ4U3lQeEU5c3ZKOGlSRmNyd2E3bFJjZHZuV01KN2dsRFBXMkHSAaQBQVVfeXFMUFhiSFlRVjF1LXFvYVlRWHVfSFhDRmlGdzBIVHNIbEltVlh5dHFrVkk2NnowMUpKSG9aVmV3VEp2dGFEcjZqd0kxVzg5SkNpNmpHcmJXTlFnWkxDVDdiOWFla0I2OVNCNW95eUt0eDQ5NlBzendmcU9mQ2xGSzNhZnRLb0hqMk9GdnZrSzFuelR6SnJ3NGZRb0NFN3N3Zk9Ud2xfQWo?oc=5",
-      "published": "2026-08-19T11:09:33",
-      "sentiment_score": -0.078,
-      "sentiment_label": "Neutral",
-      "confidence": 0.824
-    },
-    {
       "headline": "The Rise and Fall of the Artificial State by Jill Lepore review \u2013 an ominous warning of tech takeover",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMFVsb1pEZUMtNVV0aVJGMEpVN0QxRlpORVItaXFIVzVzSDVTZ0tpSEpLZ3M4Wml4MU9CNzNpWi0tNXh3TDNZajdsV3djMXBZT2VCajQ0NHNNSkk4U0Z6UndvdV9DcFNtQjhwcXUybTZkaTZfR0txcHUwUG9HX1lzMmd5OTBpTkJuZEF5YmMtOU51X09PeXB3b3NaUUtnVUtzS3prUWEtdUltbS1kZzlLZFdXWmNuZFp2MGc3MUtzbUlOWGJOMnBTSnVQNFMzamZ2NHN1bjRUMDRzSlpTYXc?oc=5",
@@ -226,7 +208,7 @@
     },
     {
       "headline": "China urges respect for digital sovereignty in AI race",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFdOX2tzNWZNVU43emQ3NDVXclE3a2h4UlpvVHNSUkpLd1RRWTlsNU9LRjMtYXl5VjVhVEctUHRsSnZYQm92eW9SSFR5SFVFZFFuNnpXVzFITEZDbjk5MS0tVzJVam9JS1RPazZFdWZrcVlUcXdXT1hBRTRLMExwR0RkdWlMYklnZ0JMbXpleTBaQ3dDMTRxTklkQQ?oc=5",
       "published": "2026-08-19T07:50:15",
       "sentiment_score": 0.13,
@@ -243,10 +225,19 @@
       "confidence": 0.855
     },
     {
+      "headline": "Nvidia\u2019s new financial strategy does not compute",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "published": "2026-08-19T00:24:27Z",
+      "sentiment_score": 0.057,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
       "headline": "Exclusive | OpenAI\u2019s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
-      "source": "wsj.com",
+      "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
-      "published": "2026-08-18T23:47:00",
+      "published": "2026-08-18T23:44:23",
       "sentiment_score": -0.347,
       "sentiment_label": "Negative",
       "confidence": 0.615
@@ -261,6 +252,24 @@
       "confidence": 0.794
     },
     {
+      "headline": "What Chinese liquor maker Moutai's slump says about the country's economy",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+      "published": "2026-08-18T23:18:47Z",
+      "sentiment_score": -0.969,
+      "sentiment_label": "Negative",
+      "confidence": 0.977
+    },
+    {
+      "headline": "Cadence is a chip stock left behind by the AI boom. Why the CEO says that's a mistake",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/18/cadence-is-a-chip-stock-left-behind-by-the-ai-boom-why-the-ceo-says-thats-a-mistake.html",
+      "published": "2026-08-18T22:45:27Z",
+      "sentiment_score": -0.072,
+      "sentiment_label": "Neutral",
+      "confidence": 0.779
+    },
+    {
       "headline": "OpenAI rolling out \"ChatGPT for Teens\" with safeguards",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlNaYUtTRC1rZDdBTGtFOWpHUWk2ZVRUMXBWZkg1ZV9UYmFCc3AxMEtGNlQyMmJ1WVdGVTQ5aFVQeHZiVHozb3RRdHZNME5mSEFHSDVsaXhIT2FTcmlPWmhjWnB6Wll2bm5BYkpNM1E0aTBvZnJuaDNZeUdsNzQtTXg3TFdWd1pFX29VdjR1Qm9Pcy1Cd1BveE1tNkJXdl80b0JzZ0NFcFp0c2ROVFBLbDJHTDk0Z3c?oc=5",
@@ -272,11 +281,20 @@
     {
       "headline": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hT1haZXNjMWYxSjNLTXJ3d3liejhCUWNPOFZIUGdjNWFWcnRMdnd6NjBpNUFHN1lXVjF4X19DMkNsckpKWlNpQWdlY0c0RDB2Yks0ZHA3MXVCMzNMVEE5WVZnX2xoY0hKdE4xRlFGMjZiSGwxRndB0gF8QVVfeXFMTk5VdnN6enlhQi03NF9hWW16OXVMM3hJX1NNa2pkNVE0QURNMUZ4LTlPOVlxcVJDR0ZLUzVfWXNzNlRoWHBmaFpuM0piRnpPSlFqMjZucTdrR3VBZzRkZHBtZFpOMUdxblVVY0Z2NXhUemthU2FDUjc0MGx3dA?oc=5",
-      "published": "2026-08-18T21:11:39",
-      "sentiment_score": 0.359,
-      "sentiment_label": "Neutral",
-      "confidence": 0.62
+      "link": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+      "published": "2026-08-18T21:12:06Z",
+      "sentiment_score": 0.59,
+      "sentiment_label": "Positive",
+      "confidence": 0.599
+    },
+    {
+      "headline": "DOJ's probe into Andreessen Horowitz over board seats baffles VCs | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "published": "2026-08-18T20:37:38Z",
+      "sentiment_score": -0.951,
+      "sentiment_label": "Negative",
+      "confidence": 0.96
     },
     {
       "headline": "Tech Life",
@@ -288,17 +306,35 @@
       "confidence": 0.885
     },
     {
+      "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "published": "2026-08-18T19:28:30Z",
+      "sentiment_score": 0.201,
+      "sentiment_label": "Neutral",
+      "confidence": 0.734
+    },
+    {
       "headline": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5",
-      "published": "2026-08-18T18:33:00",
-      "sentiment_score": -0.701,
+      "source": "Wired",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "published": "2026-08-18T18:33:11Z",
+      "sentiment_score": -0.949,
       "sentiment_label": "Negative",
-      "confidence": 0.733
+      "confidence": 0.961
+    },
+    {
+      "headline": "OpenAI Is Slowing Down Its AI Training",
+      "source": "Time",
+      "link": "https://time.com/article/2026/08/18/openai-slowing-training/",
+      "published": "2026-08-18T18:23:24Z",
+      "sentiment_score": -0.84,
+      "sentiment_label": "Negative",
+      "confidence": 0.855
     },
     {
       "headline": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
       "published": "2026-08-18T18:06:54",
       "sentiment_score": 0.319,
@@ -315,33 +351,6 @@
       "confidence": 0.564
     },
     {
-      "headline": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
-      "published": "2026-08-18T17:35:17Z",
-      "sentiment_score": -0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.848
-    },
-    {
-      "headline": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-      "published": "2026-08-18T16:48:00Z",
-      "sentiment_score": -0.956,
-      "sentiment_label": "Negative",
-      "confidence": 0.968
-    },
-    {
-      "headline": "Global borrowing costs hit fresh highs",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo",
-      "published": "2026-08-18T16:09:45Z",
-      "sentiment_score": 0.863,
-      "sentiment_label": "Positive",
-      "confidence": 0.914
-    },
-    {
       "headline": "OpenAI launches ChatGPT for Teens with stronger safeguards",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGFUaWw2VGNPZXo3dHlOYU1GRDFvbVdGWFFpcFV3TW9PLVFpeUtobk1obzJtUGJJeVlzOU5lYnpjYjFtbEJBQ2c5QlBpWUszVjd6cFoxYjhQZGp0cDBXZXBCLWQ4RnR1WW5PTWRfcHJLSkhEck50QldVSW9XOEtiMA?oc=5",
@@ -349,15 +358,6 @@
       "sentiment_score": 0.285,
       "sentiment_label": "Neutral",
       "confidence": 0.69
-    },
-    {
-      "headline": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "published": "2026-08-18T13:52:00Z",
-      "sentiment_score": 0.124,
-      "sentiment_label": "Neutral",
-      "confidence": 0.841
     },
     {
       "headline": "Perplexity\u2019s free AI offer left it with millions more users in India | TechCrunch",
@@ -376,15 +376,6 @@
       "sentiment_score": -0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.915
-    },
-    {
-      "headline": "ChatGPT to stop responding to teens in human voice",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o",
-      "published": "2026-08-18T11:26:26Z",
-      "sentiment_score": -0.538,
-      "sentiment_label": "Negative",
-      "confidence": 0.56
     },
     {
       "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
@@ -414,15 +405,6 @@
       "confidence": 0.827
     },
     {
-      "headline": "Can AI Help Us Connect With the Real World?",
-      "source": "Time",
-      "link": "https://time.com/article/2026/08/18/can-ai-help-us-connect-with-the-real-world-/",
-      "published": "2026-08-18T10:00:03Z",
-      "sentiment_score": 0.065,
-      "sentiment_label": "Neutral",
-      "confidence": 0.885
-    },
-    {
       "headline": "AI to help planes avoid climate-warming 'sky graffiti'",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
@@ -432,15 +414,6 @@
       "confidence": 0.731
     },
     {
-      "headline": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWjV4Szg4bEFBdlVDNGxjNE5ocy1wMnN1ZkRUMUlkazNTV21NdzhwMGlMT3hsVzBKeXNHOEJoMnB3NERSZ2xYMEFKa25ISF9fRGJvV01hNWc4VExHb19xb0N4WE00YzA1Vnc?oc=5",
-      "published": "2026-08-17T15:36:10",
-      "sentiment_score": -0.441,
-      "sentiment_label": "Neutral",
-      "confidence": 0.501
-    },
-    {
       "headline": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dVJQbFBWV0JSa1JuWWJFZUt1WF80bW9yWU1SZmxDZFJXLU1rSjlrMG9QNHpxQnF6bUk5Yi0zMUJxWkUxeVQ0c3o3b3kwamdQS1hKTVVGOWNQUnljQWJtQXlCLThadEUxR3JrWTFUdXNrcXpoRzBCamRR0gF_QVVfeXFMTmVfWk5SaHZTX1NpM21Gb0l1R2haZ2NnVzJWNlR6dGI4UkN1ejRXYjUtUTdmazNmclIxMEdUVlVvdnJUSDRhSGt5YWxKc2FqRnphZ0lfcml5WnZkV080c2lzLW51WDZ6eFl5akU1LU1wXzlCV3RtOFU5MFV4cGFPWQ?oc=5",
@@ -448,6 +421,15 @@
       "sentiment_score": 0.104,
       "sentiment_label": "Neutral",
       "confidence": 0.87
+    },
+    {
+      "headline": "AI Has Plunged the Book Publishing Industry Into Utter Chaos",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWFiWDhvRzBmOTIyUW1BSmxsSFc0eDA3UzU2cVVrZ0xST2MzektGTDVaM0laOEVUd3I0OUNDMzlBb2JadFEwS3hQVGRncDVicDNtaG10R2g2b29hYW1VeTZtSGRFNDFoRVlIeXNWTkxSb3QxUlNrMGluem1kS25TeTQ5Zw?oc=5",
+      "published": "2026-08-17T09:30:00",
+      "sentiment_score": -0.892,
+      "sentiment_label": "Negative",
+      "confidence": 0.901
     },
     {
       "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
