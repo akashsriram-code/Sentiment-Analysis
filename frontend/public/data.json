@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-21T18:23:32.112383",
-  "total_articles": 36,
-  "overall_sentiment": -0.047,
+  "last_updated": "2026-08-22T00:40:29.153150",
+  "total_articles": 33,
+  "overall_sentiment": -0.002,
   "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-08-15",
-      "avg_sentiment": 0.009,
-      "article_count": 2,
+      "avg_sentiment": 0.862,
+      "article_count": 1,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.009
+      "moving_avg": 0.862
     },
     {
       "date": "2026-08-17",
@@ -20,16 +20,16 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.142
+      "moving_avg": 0.568
     },
     {
       "date": "2026-08-18",
-      "avg_sentiment": 0.11,
+      "avg_sentiment": 0.083,
       "article_count": 11,
-      "positive_count": 8,
+      "positive_count": 7,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": 0.131
+      "neutral_count": 2,
+      "moving_avg": 0.406
     },
     {
       "date": "2026-08-19",
@@ -38,69 +38,63 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": 0.016
+      "moving_avg": 0.223
     },
     {
       "date": "2026-08-20",
-      "avg_sentiment": -0.054,
-      "article_count": 15,
-      "positive_count": 7,
-      "negative_count": 4,
+      "avg_sentiment": 0.017,
+      "article_count": 13,
+      "positive_count": 6,
+      "negative_count": 3,
       "neutral_count": 4,
-      "moving_avg": 0.002
+      "moving_avg": 0.182
     },
     {
       "date": "2026-08-21",
-      "avg_sentiment": -0.365,
+      "avg_sentiment": -0.347,
       "article_count": 3,
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.059
+      "moving_avg": 0.094
     }
   ],
   "source_stats": [
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.032,
+      "source": "BBC News",
+      "avg_sentiment": 0.002,
       "article_count": 8,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "BBC News",
-      "avg_sentiment": -0.096,
-      "article_count": 8,
-      "sentiment_label": "Negative"
+      "source": "CNBC",
+      "avg_sentiment": -0.002,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.188,
+      "avg_sentiment": 0.075,
       "article_count": 4,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.297,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Washington Post",
-      "avg_sentiment": -0.027,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.161,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     },
     {
       "source": "Bloomberg.com",
       "avg_sentiment": -0.345,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.02,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": 0.032,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "CNN",
@@ -110,15 +104,6 @@
     }
   ],
   "articles": [
-    {
-      "headline": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcG9zRGM3TWZybS1TX3lSbEg2TjREc1lPYXk3ckhjcWNIVnpNcEY1Tlk2VnZSSWQxdkhVcjhyT1paRGZIMWJlVUh5Ul9EcXR6bllpY2RMajZwMDR2ZWtZV2VpSmNiVzl5MkNyY3RBNDNRMFlNZDlRdnhiWmM3Ujg5V2k5aDVkZEVZem4zT1luYmtySFNmdUQyQzByMnJnaDhmT1NrVnAtTHJTNFkxOVFDdFpjemdPdFJLUG9nZWtELUxJZDJNNUtfZFNiY2ZVWkE?oc=5",
-      "published": "2026-08-21T18:14:48",
-      "sentiment_score": -0.114,
-      "sentiment_label": "Neutral",
-      "confidence": 0.782
-    },
     {
       "headline": "US corporate AI debt surge tests investor limits as fatigue emerges",
       "source": "Reuters",
@@ -138,22 +123,49 @@
       "confidence": 0.605
     },
     {
-      "headline": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHJDX0FqdzZsbVdTTWJzbzhFdFRpMHBFVjVfODAwODlNRERQSUlXZlNrUTdNdHBKSlBhc3JFMkxKa3VEN1dTLV94UTUzbjhIcEs4T00yQk14VXRxWEdROEhzbW5oZl8wczh1dWswT2YyREdScVFMa183MThOQjDSAYQBQVVfeXFMTWV6WGhRb3VDVWFvSF9sUU9sS25ma0w3YUJtZ1pZVUN4ZGphWlVCWU83TVF4b0psLVhLeV85TWY1aGpiOHZfNmRMcHZuSHVUMUlRcmd2dHhsbXJ5bUgwc2tfRmk5eUlicFBFU2dTSkk3RkNwNWtyMVlOUlJFZThKcy0tblhn?oc=5",
-      "published": "2026-08-20T22:51:36",
-      "sentiment_score": 0.108,
+      "headline": "The Vatican's AI Battle",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/programmes/p0p4yzl0",
+      "published": "2026-08-21T00:30:00Z",
+      "sentiment_score": -0.06,
       "sentiment_label": "Neutral",
-      "confidence": 0.823
+      "confidence": 0.747
     },
     {
-      "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "headline": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html",
+      "published": "2026-08-20T22:51:36Z",
+      "sentiment_score": 0.712,
+      "sentiment_label": "Positive",
+      "confidence": 0.737
+    },
+    {
+      "headline": "OpenAI is gaining on Anthropic with business users, new data indicates | TechCrunch",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xTb2FDbkVPSXdPNDRzZGVIa1pKYXRnNHJqX2ZkemVKUFpHbEtFcWt6bV9hYkVUY29adHdRS2RQLThKa2c3bGc3NzJOWkNfb25FOU1UdlVnRDFCRUhZUUJjZEFUNUw3bllZdXZyVHJjMXVwOFFrcTctX2dtbjFncVVwY09kdXpsWHpyUGp5c3RZRjN6Y0ZTOHRNaXZVS2V3WkE?oc=5",
-      "published": "2026-08-20T22:09:51",
-      "sentiment_score": 0.054,
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published": "2026-08-20T22:38:58Z",
+      "sentiment_score": -0.03,
       "sentiment_label": "Neutral",
-      "confidence": 0.92
+      "confidence": 0.537
+    },
+    {
+      "headline": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/20/jim-cramer-jarring-gulf-stock-prices-reality.html",
+      "published": "2026-08-20T22:28:26Z",
+      "sentiment_score": -0.905,
+      "sentiment_label": "Negative",
+      "confidence": 0.938
+    },
+    {
+      "headline": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "published": "2026-08-20T22:09:51Z",
+      "sentiment_score": 0.185,
+      "sentiment_label": "Neutral",
+      "confidence": 0.797
     },
     {
       "headline": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
@@ -163,6 +175,15 @@
       "sentiment_score": -0.35,
       "sentiment_label": "Neutral",
       "confidence": 0.581
+    },
+    {
+      "headline": "\u2018NBA 2K27\u2019 Preview: Listening To The Community",
+      "source": "Hip-Hop Wired",
+      "link": "https://hiphopwired.com/3063272/nba-2k27-exclusive-preview-community-day/",
+      "published": "2026-08-20T20:10:36Z",
+      "sentiment_score": 0.894,
+      "sentiment_label": "Positive",
+      "confidence": 0.905
     },
     {
       "headline": "A third of webpages published since ChatGPT's launch show signs of AI authorship, study finds | TechCrunch",
@@ -201,24 +222,6 @@
       "confidence": 0.799
     },
     {
-      "headline": "It\u2019s Greg Brockman\u2019s OpenAI now",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "published": "2026-08-20T15:45:55Z",
-      "sentiment_score": -0.851,
-      "sentiment_label": "Negative",
-      "confidence": 0.874
-    },
-    {
-      "headline": "AI data center outrage is showing up everywhere from ads to elections",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-      "published": "2026-08-20T14:04:23Z",
-      "sentiment_score": -0.377,
-      "sentiment_label": "Neutral",
-      "confidence": 0.505
-    },
-    {
       "headline": "Waymo lifts the lid on the \u2018brain\u2019 powering its robotaxis",
       "source": "The Verge",
       "link": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
@@ -237,40 +240,13 @@
       "confidence": 0.88
     },
     {
-      "headline": "For a16z, AI gives foreign founders an advantage | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
-      "published": "2026-08-20T13:06:28Z",
-      "sentiment_score": 0.55,
-      "sentiment_label": "Positive",
-      "confidence": 0.559
-    },
-    {
-      "headline": "The Treasury's debt buyback, Walmart earnings, Boise's AI boom and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/20/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-08-20T12:29:36Z",
-      "sentiment_score": -0.037,
-      "sentiment_label": "Neutral",
-      "confidence": 0.906
-    },
-    {
       "headline": "ChatGPT for Teens makes vital safety strides, says expert. 'The real question is, does any of this work?'",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
-      "published": "2026-08-20T11:15:17Z",
-      "sentiment_score": 0.124,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdUx5bXEtRnRPSGRNSEo1d3VXdF9UYnRhYnNZRi13UzB6cDMzemJ3VzBsY1kxeVNGeDJIVmppS0EzVTBNdmpOVno5dEVRb0NxY2FvdjFVMk5QdjdWNVNBV3k1WTlueFFOaVFkbVh1WUV4NnhlY2xZZ3RDOWFMNTNPWTNxd19pOUtZZzFXVlpsOXJMbHR4RG130gGcAUFVX3lxTE9wNE8xTXl3Wm9Ta09jNmgxSFZFTjZoUlVTQzZZTTBRZEQzY0xsWVlZeEtKZWdMT2JPYUsyQUNOM0dnQUNEc3Q1aXh1T2UxMURCQnlxLUlBMW5uVDdCQmZwSTVqWjNvR2lmMW45eTFNNzdUMzZwMDl6Q1BmcVVpNVItcXFCX3JnLU1WeE9qM1dPWEd5LUZ0V0lUQjhDVQ?oc=5",
+      "published": "2026-08-20T11:15:17",
+      "sentiment_score": 0.077,
       "sentiment_label": "Neutral",
-      "confidence": 0.851
-    },
-    {
-      "headline": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
-      "published": "2026-08-20T08:21:59Z",
-      "sentiment_score": 0.332,
-      "sentiment_label": "Neutral",
-      "confidence": 0.631
+      "confidence": 0.888
     },
     {
       "headline": "OpenAI\u2019s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data",
@@ -340,9 +316,9 @@
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
       "published": "2026-08-18T20:27:00",
-      "sentiment_score": 0.218,
+      "sentiment_score": 0.213,
       "sentiment_label": "Neutral",
-      "confidence": 0.761
+      "confidence": 0.767
     },
     {
       "headline": "Tech Life",
@@ -354,13 +330,13 @@
       "confidence": 0.885
     },
     {
-      "headline": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
-      "published": "2026-08-18T18:06:54",
-      "sentiment_score": 0.319,
+      "headline": "What Parents Need to Know About OpenAI\u2019s New ChatGPT for Teens",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tZjNrZDQwQUQ0U2UzMjVhb0NWaE0wZl85T0RYcmN5b0ZvNTlmY1lRU05ad29XdEplS1paSTFVVUVvWXdVZ1Jac1JHZEdPN21sODctbFY5WXNvT29WQkNxT0loX28yVmVuUFpXRVBXN1V6R0M2S0dqODhoRGc?oc=5",
+      "published": "2026-08-18T16:25:00",
+      "sentiment_score": 0.023,
       "sentiment_label": "Neutral",
-      "confidence": 0.655
+      "confidence": 0.941
     },
     {
       "headline": "OpenAI launches ChatGPT for Teens with stronger safeguards",
@@ -424,15 +400,6 @@
       "sentiment_score": 0.862,
       "sentiment_label": "Positive",
       "confidence": 0.887
-    },
-    {
-      "headline": "Secondhand book sales are booming. Is it because of AI?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-15T11:25:32",
-      "sentiment_score": -0.845,
-      "sentiment_label": "Negative",
-      "confidence": 0.875
     }
   ]
 }
