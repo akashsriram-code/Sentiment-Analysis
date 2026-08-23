@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-23T06:24:29.209270",
-  "total_articles": 32,
-  "overall_sentiment": -0.087,
+  "last_updated": "2026-08-23T12:19:53.877319",
+  "total_articles": 36,
+  "overall_sentiment": -0.146,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,21 +24,21 @@
     },
     {
       "date": "2026-08-18",
-      "avg_sentiment": 0.091,
+      "avg_sentiment": 0.082,
       "article_count": 11,
-      "positive_count": 8,
+      "positive_count": 7,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.205
+      "neutral_count": 2,
+      "moving_avg": -0.208
     },
     {
       "date": "2026-08-19",
-      "avg_sentiment": -0.175,
-      "article_count": 3,
+      "avg_sentiment": -0.327,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.197
+      "moving_avg": -0.238
     },
     {
       "date": "2026-08-20",
@@ -47,33 +47,42 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.2
+      "moving_avg": -0.232
     },
     {
       "date": "2026-08-21",
-      "avg_sentiment": -0.143,
-      "article_count": 10,
-      "positive_count": 5,
+      "avg_sentiment": -0.254,
+      "article_count": 8,
+      "positive_count": 3,
       "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.19
+      "moving_avg": -0.236
     },
     {
       "date": "2026-08-22",
-      "avg_sentiment": 0.032,
-      "article_count": 1,
+      "avg_sentiment": -0.253,
+      "article_count": 3,
       "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.159
+      "negative_count": 1,
+      "neutral_count": 2,
+      "moving_avg": -0.238
+    },
+    {
+      "date": "2026-08-23",
+      "avg_sentiment": -0.068,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.191
     }
   ],
   "source_stats": [
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.175,
+      "source": "CNBC",
+      "avg_sentiment": -0.115,
       "article_count": 6,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "BBC News",
@@ -82,9 +91,27 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.146,
-      "article_count": 5,
+      "source": "WSJ",
+      "avg_sentiment": -0.301,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.143,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.086,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.411,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -94,31 +121,46 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.34,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Bloomberg.com",
       "avg_sentiment": -0.345,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "WSJ",
-      "avg_sentiment": -0.425,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "CNN",
-      "avg_sentiment": 0.081,
+      "avg_sentiment": 0.079,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlDZDZZSUMyTEhvZVdiMjJEMXRVT1FyMEJrN1dQbFNJdW9qV1RqY3had2lUX3RMeUg3aWl5TlMyd3FXeW5QelhvajlSTUplTUMxdzRTYnJPOGtTZXVxV3FYM3JYYUdmZW5BcU96OHNrX1k2eTZlbVVWMHdTcG02WTQ2Z1Y?oc=5",
+      "published": "2026-08-23T09:01:07",
+      "sentiment_score": 0.081,
+      "sentiment_label": "Neutral",
+      "confidence": 0.886
+    },
+    {
+      "headline": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
+      "published": "2026-08-23T06:28:29",
+      "sentiment_score": 0.094,
+      "sentiment_label": "Neutral",
+      "confidence": 0.88
+    },
+    {
+      "headline": "We Went to Wall Street\u2019s Exclusive Wilderness Camp. Everyone Was Spooked by AI.",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2g4X3ZuOXMxNjRtb0tGX1lqM21UT2hCV3ZFUDlyU3JaZXhLdjdsWFZfMTFWcWxkQ3dXUFJRNnQ5OGdSWVdwWXhtVXpWZlNqRHcxUFEwcXZxZDdicnN2QVZNWjVOVUNlTTZKVEZkMTZSY1poMDNvbHVqRDdKMG85SllocFVWS1ZqaTNZNEV6WWV1NUFOc0szLXFQOHhCZEtHQWNXZm5YZzJwaXN0TlZOZ0Fwc05KMXExWkZMUUo2NnE?oc=5",
+      "published": "2026-08-23T01:31:31",
+      "sentiment_score": -0.378,
+      "sentiment_label": "Neutral",
+      "confidence": 0.562
+    },
     {
       "headline": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not",
       "source": "The Guardian",
@@ -127,6 +169,24 @@
       "sentiment_score": 0.032,
       "sentiment_label": "Neutral",
       "confidence": 0.903
+    },
+    {
+      "headline": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+      "published": "2026-08-22T12:12:03Z",
+      "sentiment_score": 0.04,
+      "sentiment_label": "Neutral",
+      "confidence": 0.912
+    },
+    {
+      "headline": "Your Expired Visa Card Could Be \u2018Zombified\u2019 to Make Contactless Payments",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
+      "published": "2026-08-22T10:30:00Z",
+      "sentiment_score": -0.832,
+      "sentiment_label": "Negative",
+      "confidence": 0.852
     },
     {
       "headline": "Nvidia partners with data center developer Cloverleaf | TechCrunch",
@@ -172,24 +232,6 @@
       "sentiment_score": -0.961,
       "sentiment_label": "Negative",
       "confidence": 0.97
-    },
-    {
-      "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "published": "2026-08-21T19:43:39Z",
-      "sentiment_score": 0.365,
-      "sentiment_label": "Neutral",
-      "confidence": 0.605
-    },
-    {
-      "headline": "Artificial intelligence could push up inflation - SNB's Tschudin says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVRYRE4xUW04aThOdXRkTnhMOFNRT3ZGb3BvV2F6eS16WWcwenNxYnJzT3lJQ2t1NTlJYVFKY3RXWUI2MjQtRTVkNHU2cWNmR2QzTmRuVXNsdzlTTEJtdmhEX1JGaFdTVWV0MnFOTF9KYVFCdUpPLXZGN3pBUjRzS2xJdjJlZW9lUjYzckJWcjc1SFF3emd3RVlrcmtBNDMwTjVtRmQ1VGFxbEVhVWdLazBobDRNa0x3UUo0?oc=5",
-      "published": "2026-08-21T15:25:43",
-      "sentiment_score": 0.236,
-      "sentiment_label": "Positive",
-      "confidence": 0.47
     },
     {
       "headline": "Major YouTube creators are facing backlash for accepting AI money",
@@ -273,6 +315,15 @@
       "confidence": 0.586
     },
     {
+      "headline": "OpenAI slows down training of advanced AI after cyber-attack",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3lWUFJhTEpMMW5EVlZIWVl2LVRxREtoMUZyRDJTU2FKbmFveEhfY1NCMmNuNkxPTEpyYk9RbzRNcmV6ak9XaEY3ZE5CU2EzckZSYXV4RnQwdw?oc=5",
+      "published": "2026-08-19T11:19:12",
+      "sentiment_score": -0.783,
+      "sentiment_label": "Negative",
+      "confidence": 0.798
+    },
+    {
       "headline": "OpenAI slows down training after its AI carried out hack",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
@@ -327,6 +378,15 @@
       "confidence": 0.885
     },
     {
+      "headline": "What Parents Need to Know About OpenAI\u2019s New ChatGPT for Teens",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tZjNrZDQwQUQ0U2UzMjVhb0NWaE0wZl85T0RYcmN5b0ZvNTlmY1lRU05ad29XdEplS1paSTFVVUVvWXdVZ1Jac1JHZEdPN21sODctbFY5WXNvT29WQkNxT0loX28yVmVuUFpXRVBXN1V6R0M2S0dqODhoRGc?oc=5",
+      "published": "2026-08-18T16:25:00",
+      "sentiment_score": 0.023,
+      "sentiment_label": "Neutral",
+      "confidence": 0.941
+    },
+    {
       "headline": "OpenAI launches ChatGPT for Teens with stronger safeguards",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGFUaWw2VGNPZXo3dHlOYU1GRDFvbVdGWFFpcFV3TW9PLVFpeUtobk1obzJtUGJJeVlzOU5lYnpjYjFtbEJBQ2c5QlBpWUszVjd6cFoxYjhQZGp0cDBXZXBCLWQ4RnR1WW5PTWRfcHJLSkhEck50QldVSW9XOEtiMA?oc=5",
@@ -334,15 +394,6 @@
       "sentiment_score": 0.285,
       "sentiment_label": "Neutral",
       "confidence": 0.69
-    },
-    {
-      "headline": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3V1VjQzSkxhSmhCMnFiZW0yWXI0TXEyTmtBNEtMWnR0QmhwVlpWMDBOYWtyNEw1WHRMTkUyR3JHSHdNb0pNOTFMcW81Ul9JdVFjSk1kYnUzaUNYYWZaSXFQSHRVTmQyNUQ4WndJUE1qQnhodERuMHYtVE0xTkl2b253X0IxdllNdmpCbGNEN2pfSHQwUlVSMUlBc0NmX01BR2wweGRTY1B4azNXd0EyMA?oc=5",
-      "published": "2026-08-18T13:50:30",
-      "sentiment_score": 0.114,
-      "sentiment_label": "Neutral",
-      "confidence": 0.858
     },
     {
       "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
@@ -354,13 +405,13 @@
       "confidence": 0.589
     },
     {
-      "headline": "OpenAI introduces \u2018ChatGPT for Teens\u2019 experience amid scrutiny over child safety | CNN Business",
+      "headline": "OpenAI introduces \u2018ChatGPT for Teens\u2019 experience amid scrutiny over child safety",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oUGRmRnEwRkQzS1RQSldaRi11S1ZOZDQtMldTMnpLTkFScTlRYkRLN216cFZ6UnBfdTJBUWp0dWxBd3pmOFNqYmxBckhUNU03ZTRQUkFsalNoYXBydTdhYXdMaHlQd1Q2VXNGMg?oc=5",
-      "published": "2026-08-18T11:01:03",
-      "sentiment_score": 0.039,
+      "published": "2026-08-18T11:00:29",
+      "sentiment_score": 0.035,
       "sentiment_label": "Neutral",
-      "confidence": 0.852
+      "confidence": 0.864
     },
     {
       "headline": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow",
