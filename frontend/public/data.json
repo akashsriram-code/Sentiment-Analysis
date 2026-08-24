@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-08-24T06:37:09.596150",
+  "last_updated": "2026-08-24T12:28:19.122543",
   "total_articles": 35,
-  "overall_sentiment": -0.12,
-  "overall_label": "Negative",
+  "overall_sentiment": -0.038,
+  "overall_label": "Neutral",
   "daily_stats": [
-    {
-      "date": "2026-07-20",
-      "avg_sentiment": -0.783,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.783
-    },
     {
       "date": "2026-08-10",
       "avg_sentiment": -0.396,
@@ -20,7 +11,16 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.59
+      "moving_avg": -0.396
+    },
+    {
+      "date": "2026-08-13",
+      "avg_sentiment": -0.879,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.638
     },
     {
       "date": "2026-08-17",
@@ -29,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.302
+      "moving_avg": -0.334
     },
     {
       "date": "2026-08-18",
@@ -38,7 +38,7 @@
       "positive_count": 8,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.205
+      "moving_avg": -0.229
     },
     {
       "date": "2026-08-19",
@@ -47,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.221
+      "moving_avg": -0.24
     },
     {
       "date": "2026-08-20",
@@ -56,46 +56,52 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.196
+      "moving_avg": -0.212
     },
     {
       "date": "2026-08-21",
-      "avg_sentiment": -0.433,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 0,
-      "moving_avg": -0.23
-    },
-    {
-      "date": "2026-08-22",
-      "avg_sentiment": -0.027,
-      "article_count": 6,
-      "positive_count": 3,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.122
-    },
-    {
-      "date": "2026-08-23",
-      "avg_sentiment": -0.195,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.093
-    },
-    {
-      "date": "2026-08-24",
-      "avg_sentiment": -0.421,
+      "avg_sentiment": -0.356,
       "article_count": 3,
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.193
+      "moving_avg": -0.233
+    },
+    {
+      "date": "2026-08-22",
+      "avg_sentiment": 0.12,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.159
+    },
+    {
+      "date": "2026-08-23",
+      "avg_sentiment": 0.397,
+      "article_count": 4,
+      "positive_count": 4,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.023
+    },
+    {
+      "date": "2026-08-24",
+      "avg_sentiment": -0.293,
+      "article_count": 5,
+      "positive_count": 1,
+      "negative_count": 2,
+      "neutral_count": 2,
+      "moving_avg": -0.058
     }
   ],
   "source_stats": [
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.288,
+      "article_count": 6,
+      "sentiment_label": "Positive"
+    },
     {
       "source": "BBC News",
       "avg_sentiment": -0.131,
@@ -109,26 +115,26 @@
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.204,
-      "article_count": 5,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "Reuters",
-      "avg_sentiment": -0.522,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "WSJ",
-      "avg_sentiment": -0.054,
+      "avg_sentiment": -0.524,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "Bloomberg",
-      "avg_sentiment": -0.345,
+      "avg_sentiment": -0.056,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": 0.037,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.726,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -141,13 +147,31 @@
   ],
   "articles": [
     {
-      "headline": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+      "headline": "Some of Russia\u2019s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeXR6ZDdGV2VzZUpUYUJETEU3SzhrVW9Ucm1jeEE4UjRJSkt5R015LWFjS3lnS2dYWktwRTZQVU94cmdoLW5xSWxVTHlnTWd6aHVoYWF6aW93RF96bU1GbFg5NjRLRS1aWml0Z3BLMjNnUk5KS2JQcENZeTBlcDQ5djRjTmdYTnpmTW9RVmk5WXNoa3N3Mm93?oc=5",
+      "published": "2026-08-24T11:19:29",
+      "sentiment_score": -0.016,
+      "sentiment_label": "Neutral",
+      "confidence": 0.934
+    },
+    {
+      "headline": "Customer Industry Solutions Shape the Future of Autonomous Enterprises",
+      "source": "SAP News Center",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmxzRVI4MlZOS05KMGYxSFBqOW94M2xBRnY0MTh2MjBGYlhIcy1LM0o1WkhmS3l5VjZJU2hmTlhwLTJVVVdIbFdRU0dhOVc2V0JkcjAwRWNTTjREV2NQVC1UaW1vZV9qOW1KeWNicGlXOVRjWk5YUzl6WWk3ZHFzX3YyZ19TMUE0VWdxeldhek5raERmcnZtRw?oc=5",
+      "published": "2026-08-24T10:20:53",
+      "sentiment_score": 0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
+    {
+      "headline": "Taiwan issues indictments over alleged illegal export of AI servers to China",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
       "published": "2026-08-24T06:25:00",
-      "sentiment_score": -0.886,
+      "sentiment_score": -0.893,
       "sentiment_label": "Negative",
-      "confidence": 0.9
+      "confidence": 0.906
     },
     {
       "headline": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
@@ -159,31 +183,49 @@
       "confidence": 0.606
     },
     {
-      "headline": "Alibaba to Raise $10.20 Billion for AI Investment With Share Placement",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHcThnOVVNMXl1WXpmVzAycmxKN3pqdFhaa2FtUWlIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c?oc=5",
-      "published": "2026-08-24T03:43:31",
-      "sentiment_score": 0.194,
+      "headline": "AI is coming for your glasses",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUng4LUd2ajJWc0J2dUlIdEgxaFJYek5DTkdacmlUT3lTVjVVSVVWX1F3UHFuU05NSGRHQWRndkVrWlh3a0dPSEdPT0R1aW13RjRPMDh3Y2k4eUNEUjcxM3RGaDBsUHA5S0Zvbk8wYVUyakhOY0otMEdwenJkMFUyZ1A1R1I?oc=5",
+      "published": "2026-08-24T04:00:14",
+      "sentiment_score": -0.033,
       "sentiment_label": "Neutral",
-      "confidence": 0.786
+      "confidence": 0.92
     },
     {
-      "headline": "We Went to Wall Street\u2019s Exclusive Wilderness Camp. Everyone Was Spooked by AI.",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2g4X3ZuOXMxNjRtb0tGX1lqM21UT2hCV3ZFUDlyU3JaZXhLdjdsWFZfMTFWcWxkQ3dXUFJRNnQ5OGdSWVdwWXhtVXpWZlNqRHcxUFEwcXZxZDdicnN2QVZNWjVOVUNlTTZKVEZkMTZSY1poMDNvbHVqRDdKMG85SllocFVWS1ZqaTNZNEV6WWV1NUFOc0szLXFQOHhCZEtHQWNXZm5YZzJwaXN0TlZOZ0Fwc05KMXExWkZMUUo2NnE?oc=5",
-      "published": "2026-08-23T01:00:00",
-      "sentiment_score": -0.378,
+      "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+      "published": "2026-08-23T12:00:01Z",
+      "sentiment_score": 0.073,
       "sentiment_label": "Neutral",
-      "confidence": 0.562
+      "confidence": 0.902
     },
     {
-      "headline": "S&P 500 Futures Prediction: Index at 7,674 as Oil Hits $87.06, Nvidia Earnings, AI Spending and Rising Treasury Yields Shape Monday Outlook",
-      "source": "The Sunday Guardian",
-      "link": "https://sundayguardianlive.com/business/sp-500-futures-us-stock-market-prediction-index-at-7674-as-oil-hits-8706-nvidia-earnings-ai-spending-and-rising-treasury-yields-shape-monday-outlook-check-forecast-key-things-to-watch-267686/",
-      "published": "2026-08-23T00:49:18Z",
-      "sentiment_score": -0.011,
+      "headline": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+      "published": "2026-08-23T12:00:01Z",
+      "sentiment_score": 0.105,
       "sentiment_label": "Neutral",
-      "confidence": 0.93
+      "confidence": 0.872
+    },
+    {
+      "headline": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+      "published": "2026-08-23T11:29:05Z",
+      "sentiment_score": 0.84,
+      "sentiment_label": "Positive",
+      "confidence": 0.854
+    },
+    {
+      "headline": "Alibaba seeks $10 billion from share sale for AI expansion",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "published": "2026-08-23T09:17:12Z",
+      "sentiment_score": 0.572,
+      "sentiment_label": "Positive",
+      "confidence": 0.604
     },
     {
       "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research | TechCrunch",
@@ -193,15 +235,6 @@
       "sentiment_score": 0.251,
       "sentiment_label": "Neutral",
       "confidence": 0.727
-    },
-    {
-      "headline": "Nvidia customers reportedly warned about AI-related price hikes",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-      "published": "2026-08-22T20:26:44Z",
-      "sentiment_score": 0.268,
-      "sentiment_label": "Positive",
-      "confidence": 0.617
     },
     {
       "headline": "OpenAI says California should strengthen its AI safety bill | TechCrunch",
@@ -222,24 +255,6 @@
       "confidence": 0.769
     },
     {
-      "headline": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-      "published": "2026-08-22T12:12:03Z",
-      "sentiment_score": 0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.912
-    },
-    {
-      "headline": "Your Expired Visa Card Could Be \u2018Zombified\u2019 to Make Contactless Payments",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-      "published": "2026-08-22T10:30:00Z",
-      "sentiment_score": -0.832,
-      "sentiment_label": "Negative",
-      "confidence": 0.852
-    },
-    {
       "headline": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
@@ -258,22 +273,13 @@
       "confidence": 0.47
     },
     {
-      "headline": "Major YouTube creators are facing backlash for accepting AI money",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "published": "2026-08-21T13:43:34Z",
-      "sentiment_score": -0.71,
-      "sentiment_label": "Negative",
-      "confidence": 0.741
-    },
-    {
-      "headline": "Artificial Intelligence: Rogue AI Is a Scary But Fixable Problem",
+      "headline": "Rogue AI Is a Scary But Fixable Problem",
       "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXQ1ekh1LXpvYzdWdHJ6RzVJMHhZRmVTSFEtaWg3b3BRNmFaS294QVdsVEpQVE9DUUQyY1dNaDJZUEhvWWdNTmN6Wm9MRDA2WlJJaFJ4cHdfRHFLX0M4LVZXZXotLTB0MVRyRnBNbE1NU01DQkktQWp1RDQ1TkFQZ1p1SHUwQjROQmxqSk4xd2k4WTBXUE0zTENzYWJTdUtoVWtNdlV4TWxJR1lhYUsycnJMNVpKV2th?oc=5",
       "published": "2026-08-21T10:00:00",
-      "sentiment_score": -0.34,
+      "sentiment_score": -0.389,
       "sentiment_label": "Neutral",
-      "confidence": 0.605
+      "confidence": 0.555
     },
     {
       "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
@@ -438,6 +444,15 @@
       "confidence": 0.682
     },
     {
+      "headline": "Twitch faces backlash over Amazon using content to train AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5",
+      "published": "2026-08-13T07:00:00",
+      "sentiment_score": -0.879,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
+    },
+    {
       "headline": "The AI Slop Backlash Is Actually Having an Impact",
       "source": "WIRED",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVA5NEphTVNfMmh6WEdxMlBwanZ5Y1hWQzZFUWFudmxoNkRBQ1lzWlJyaWJSeXlyOUxwbm8yQml2d0lzazM2RVJZNE1uRmFBbU4tbTR5TnB4U0huZC1tcDdCUXZ0UWxmdnBWVFFaeEo5Mkx4eHpEb2Rpc2V0VWxqUHc5Z1U?oc=5",
@@ -445,15 +460,6 @@
       "sentiment_score": -0.396,
       "sentiment_label": "Neutral",
       "confidence": 0.494
-    },
-    {
-      "headline": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-      "source": "Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEJpeEF5ZEZoV0VoZ3ctaVFqWDJjNnFiS1lTRVRjbnJ6ODZIZXNTWUczS2FqSzlCb19HX0g5UmhBVWZtcTRjaDVIbzJMcG9rQUZQZndqbTZxb0N6Zjh3d3ZIQXE4ZlprTEJOVTdEamRjNFhMV1lJQjhwbVZSZC1YNTBZUW9XemlnaXBMTUFEb29SSDQxLVd3SGFvN3RpSVRjYi04RHltUTBFdw?oc=5",
-      "published": "2026-07-20T07:00:00",
-      "sentiment_score": -0.783,
-      "sentiment_label": "Negative",
-      "confidence": 0.798
     }
   ]
 }
