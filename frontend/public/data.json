@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25T06:29:29.912520",
+  "last_updated": "2026-08-25T12:28:44.366932",
   "total_articles": 22,
-  "overall_sentiment": -0.256,
+  "overall_sentiment": -0.331,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-08-18",
-      "avg_sentiment": 0.174,
-      "article_count": 6,
-      "positive_count": 5,
+      "avg_sentiment": 0.137,
+      "article_count": 5,
+      "positive_count": 4,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.111
+      "moving_avg": -0.13
     },
     {
       "date": "2026-08-19",
@@ -29,25 +29,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.169
-    },
-    {
-      "date": "2026-08-20",
-      "avg_sentiment": 0.054,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.113
-    },
-    {
-      "date": "2026-08-21",
-      "avg_sentiment": -0.916,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.274
+      "moving_avg": -0.181
     },
     {
       "date": "2026-08-23",
@@ -56,25 +38,25 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.318
+      "moving_avg": -0.271
     },
     {
       "date": "2026-08-24",
-      "avg_sentiment": -0.407,
-      "article_count": 6,
-      "positive_count": 1,
+      "avg_sentiment": -0.867,
+      "article_count": 3,
+      "positive_count": 0,
       "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.331
+      "neutral_count": 0,
+      "moving_avg": -0.39
     },
     {
       "date": "2026-08-25",
-      "avg_sentiment": -0.468,
-      "article_count": 4,
+      "avg_sentiment": -0.386,
+      "article_count": 10,
       "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 0,
-      "moving_avg": -0.341
+      "negative_count": 6,
+      "neutral_count": 3,
+      "moving_avg": -0.39
     }
   ],
   "source_stats": [
@@ -85,20 +67,20 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.273,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.156,
+      "source": "The New York Times",
+      "avg_sentiment": -0.317,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.895,
+      "source": "The Guardian",
+      "avg_sentiment": 0.127,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.214,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -107,15 +89,72 @@
       "avg_sentiment": -0.669,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.038,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "How accurate are AI writing detectors? Try to trick this one.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWVWRUNIc0FKaXpGVkFYSzY2UThVSkdFMG1PRWxBODc4V3BOWE40aFhzWWJsTTZnUjA0TTh1blhwVEhGdWVQczM5Q0RBUDJkM0VJUk50N0t4eEtPQ1V5LVI2TWJWdXQwTTduX2V4bVFuTDU2SGxtQm5UWHBJSXdUY2lrajYxTFcxcEZuQThuVy14VTEyV0ZfZzdOd0FBa19ORXg0QnY5Z0U4WGdOczZpRXdKOFh4MmtYeEhPWml0MVZuLW9ac2Iw?oc=5",
+      "published": "2026-08-25T12:02:48",
+      "sentiment_score": -0.035,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
+    },
+    {
+      "headline": "No, AI doesn\u2019t mean the end of mathematics \u2013 at least not yet | Bruce Schneier and Kasra Rafi",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEFPUVZnTFJJM29PZTZvaTVfbnpacWN5alM3bkd4YkRzQ0JQVzlqaWFLX2x4TVh4cGM1UXlxYk1ObVZFVWI2eGRPWUNDTjBzQW5qcHpvclhKVDl4ejNydkhQTUlMZno2TVVDSVFYZGZmQTBSVkQwRUU0aUFseTM0VGd3?oc=5",
+      "published": "2026-08-25T12:02:00",
+      "sentiment_score": -0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.9
+    },
+    {
+      "headline": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkRSQ1lnRGxrZWVfODFJTktXUEFjWU4wcDc0NzNxZzJFdHZsRkwwQkpUM2QzQk84TGdaY0trVHZXR2VkNGtmX1NCWjFlUDVSWjhtdUVfTEx3OXdMZHFCWTVNT01qeXhQbWpickJjbFk1c1FUcWhKTmU2aGVxWGxiNnBLaGNGZ1Z4OW1SMGx2alZYMkxwaG9Nbk5kbjVPRjdDMEtxOC1YeXloSnJaNEFMaHNTVE5JLS1zOVRkeXhn?oc=5",
+      "published": "2026-08-25T12:00:00",
+      "sentiment_score": 0.115,
+      "sentiment_label": "Neutral",
+      "confidence": 0.852
+    },
+    {
+      "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
+      "published": "2026-08-25T11:21:09",
+      "sentiment_score": -0.735,
+      "sentiment_label": "Negative",
+      "confidence": 0.75
+    },
+    {
+      "headline": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
+      "published": "2026-08-25T11:09:48",
+      "sentiment_score": -0.423,
+      "sentiment_label": "Neutral",
+      "confidence": 0.529
+    },
+    {
+      "headline": "There\u2019s Only One Way to Make AI Safe For Kids",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxYcFlnT1dqaDZGeWtqR3BOMlNsSk55X05Xa3lSNVBQaVNlMUhvUEF3ZFVnQWwwSDNsVElLakI3R083dXNxc0tzUmpEeWZhVS1vT2k0S0ZLNFFwWW1pZ0t3QXdnc2ozbTlOSEcxQUh4UGhzcUZibVdlam5ncG9hNGxDOFBQeTR3YzBvdVRCX3AzdUZfS3JxVldKOElhUXZYWmdIN3U0V2V0TFF0?oc=5",
+      "published": "2026-08-25T10:30:02",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.917
+    },
+    {
+      "headline": "Australia Bans Generative A.I. From Official Music Charts",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lIMXdTUWVicGpiek1qLUdheVN1d3FNNmwwVDdFdjluY0xpT1F3OG13RmZwTWJPZ25tSDBjUWJ2eVN0VmR0RUVTZml6WjdKWWNySDh4Y1p4blh1X3RyNG01WWdmWUZ1T0pqaFQzQXp1aVFaRnRtY0NuaExXb2ROTUl5Zy1MNXBoZlI2bA?oc=5",
+      "published": "2026-08-25T08:04:49",
+      "sentiment_score": -0.619,
+      "sentiment_label": "Negative",
+      "confidence": 0.636
+    },
     {
       "headline": "The US fiscal hole has an AI problem at its core",
       "source": "Reuters",
@@ -133,15 +172,6 @@
       "sentiment_score": -0.884,
       "sentiment_label": "Negative",
       "confidence": 0.895
-    },
-    {
-      "headline": "Porsche inks $1.5 billion deal for AI deployment with India\u2019s largest IT services firm Tata Consultancy",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWlhoM1hsTlFFU1Y1blFjS25lYnNKemdoWjMzSGM1NGRrdC05bHRHa3hiTnVwOW9fSU4wTUhCNkhlWHc2b014ZkdCVkZoNHhjY2ctMTZJUExiOXR5dnRlNzQ2NVBFYXdJeWVGWTZHMzd5Y2MxWXJjMHliUXMyR2l3OHhxWEjSAYoBQVVfeXFMTkY5eHZ1ZzlZUEl3Skt3SHJnTHBuV045QTR3aUJQWGJDMHQzRGstSklJYnU1Qmk3YXdkU29RcENjcERrSlVPMHhXWXhHVFJhMW43dUE1UW52Vk1pYlN6NVN2RUMzRUVGUnVCMnFiOEkzM2JocGFVNjN0YUdORWtURUVDMHFDRGhza25R?oc=5",
-      "published": "2026-08-25T03:01:00",
-      "sentiment_score": 0.302,
-      "sentiment_label": "Neutral",
-      "confidence": 0.66
     },
     {
       "headline": "Hyundai Motor, Union Reach Wage Deal to End Walkouts",
@@ -162,24 +192,6 @@
       "confidence": 0.946
     },
     {
-      "headline": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUlqNnp0NDlHNU4xMHZra21JUG9yR3F0SnV0Z01qSVVrTGtTU3RWSTdWUXVYZnNNb19Yc1J3SmxGMmtfa3RaeDJySUZXRkdtaHowb1BFZzFWbGxKQm4xa2N2TDlGTjVNZnpENXRVdUZVQ2hfSHlaVGJMbWtsRGotSHRHd2V0MkVEY2JCcW13?oc=5",
-      "published": "2026-08-24T18:07:41",
-      "sentiment_score": -0.015,
-      "sentiment_label": "Neutral",
-      "confidence": 0.824
-    },
-    {
-      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5",
-      "published": "2026-08-24T15:00:00",
-      "sentiment_score": 0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
-    },
-    {
       "headline": "Twitch and Amazon face legal action over using livestreams to train AI",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
@@ -198,15 +210,6 @@
       "confidence": 0.959
     },
     {
-      "headline": "CNBC Daily Open: U.S. takes aim at friends and foes alike",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/24/cnbc-daily-open-us-canada-tariffs-iran-bessent.html",
-      "published": "2026-08-24T01:21:36Z",
-      "sentiment_score": 0.157,
-      "sentiment_label": "Neutral",
-      "confidence": 0.417
-    },
-    {
       "headline": "Is it legal to train AI models on copyrighted books? It\u2019s complicated | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
@@ -214,24 +217,6 @@
       "sentiment_score": -0.542,
       "sentiment_label": "Negative",
       "confidence": 0.561
-    },
-    {
-      "headline": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
-      "published": "2026-08-21T21:30:13",
-      "sentiment_score": -0.916,
-      "sentiment_label": "Negative",
-      "confidence": 0.937
-    },
-    {
-      "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xTb2FDbkVPSXdPNDRzZGVIa1pKYXRnNHJqX2ZkemVKUFpHbEtFcWt6bV9hYkVUY29adHdRS2RQLThKa2c3bGc3NzJOWkNfb25FOU1UdlVnRDFCRUhZUUJjZEFUNUw3bllZdXZyVHJjMXVwOFFrcTctX2dtbjFncVVwY09kdXpsWHpyUGp5c3RZRjN6Y0ZTOHRNaXZVS2V3WkE?oc=5",
-      "published": "2026-08-20T22:09:51",
-      "sentiment_score": 0.054,
-      "sentiment_label": "Neutral",
-      "confidence": 0.92
     },
     {
       "headline": "Monzo says issue with card payments and transfers now resolved",
@@ -259,15 +244,6 @@
       "sentiment_score": 0.156,
       "sentiment_label": "Neutral",
       "confidence": 0.794
-    },
-    {
-      "headline": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hT1haZXNjMWYxSjNLTXJ3d3liejhCUWNPOFZIUGdjNWFWcnRMdnd6NjBpNUFHN1lXVjF4X19DMkNsckpKWlNpQWdlY0c0RDB2Yks0ZHA3MXVCMzNMVEE5WVZnX2xoY0hKdE4xRlFGMjZiSGwxRndB0gF8QVVfeXFMTk5VdnN6enlhQi03NF9hWW16OXVMM3hJX1NNa2pkNVE0QURNMUZ4LTlPOVlxcVJDR0ZLUzVfWXNzNlRoWHBmaFpuM0piRnpPSlFqMjZucTdrR3VBZzRkZHBtZFpOMUdxblVVY0Z2NXhUemthU2FDUjc0MGx3dA?oc=5",
-      "published": "2026-08-18T21:11:39",
-      "sentiment_score": 0.359,
-      "sentiment_label": "Neutral",
-      "confidence": 0.62
     },
     {
       "headline": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
