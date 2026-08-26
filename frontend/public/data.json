@@ -1,51 +1,78 @@
 {
-  "last_updated": "2026-08-25T18:26:08.326550",
-  "total_articles": 13,
-  "overall_sentiment": -0.339,
+  "last_updated": "2026-08-26T00:42:49.849758",
+  "total_articles": 36,
+  "overall_sentiment": -0.168,
   "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-08-18",
-      "avg_sentiment": 0.048,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": 0.088,
+      "article_count": 4,
+      "positive_count": 2,
       "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": 0.048
+      "neutral_count": 1,
+      "moving_avg": 0.088
     },
     {
       "date": "2026-08-19",
-      "avg_sentiment": -0.284,
+      "avg_sentiment": 0.349,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": 0.218
+    },
+    {
+      "date": "2026-08-24",
+      "avg_sentiment": -0.367,
+      "article_count": 14,
+      "positive_count": 5,
+      "negative_count": 7,
+      "neutral_count": 2,
+      "moving_avg": 0.023
+    },
+    {
+      "date": "2026-08-25",
+      "avg_sentiment": -0.102,
+      "article_count": 15,
+      "positive_count": 5,
+      "negative_count": 7,
+      "neutral_count": 3,
+      "moving_avg": -0.008
+    },
+    {
+      "date": "2026-08-26",
+      "avg_sentiment": -0.039,
       "article_count": 2,
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.118
-    },
-    {
-      "date": "2026-08-24",
-      "avg_sentiment": -0.382,
-      "article_count": 8,
-      "positive_count": 3,
-      "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.206
-    },
-    {
-      "date": "2026-08-25",
-      "avg_sentiment": -0.884,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.376
+      "moving_avg": -0.014
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.348,
+      "avg_sentiment": -0.061,
+      "article_count": 7,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.128,
       "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.171,
+      "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.165,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
@@ -55,13 +82,151 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.425,
+      "source": "The Washington Post",
+      "avg_sentiment": -0.144,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": 0.013,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.82,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Musk's SpaceX to build $100bn launch site in Louisiana",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-26T00:39:33",
+      "sentiment_score": 0.299,
+      "sentiment_label": "Neutral",
+      "confidence": 0.686
+    },
+    {
+      "headline": "Wall Street Journal defends billionaire\u2019s use of AI to write op-ed",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZtM25EVGVjLXR1VTZfckZ6X202dDJZQkhLNUd5Z2E1a2N4MnA3dXNiQUVjVjh6bVAwWFRKcVBTcG1CRGNlM3NQR0xyd3pGZ1RiZ1NpQ1BzN1pnX3ZzcmhWWmFMUWFTbDlsa1ZFZUJKeUVzdk8wMVpWTlFyM0pWU0xrMUprLVJ2UmRlOFBpY3U3VFpHMWthcjJ6ZVRPSmZRMVJrSDVLa1YzX0dOMTZzZS12Q0JfaGRueVd1RlBaOA?oc=5",
+      "published": "2026-08-26T00:20:23",
+      "sentiment_score": -0.376,
+      "sentiment_label": "Neutral",
+      "confidence": 0.539
+    },
+    {
+      "headline": "Firms scramble for battery power in Spain and Portugal",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25T23:09:31",
+      "sentiment_score": 0.497,
+      "sentiment_label": "Positive",
+      "confidence": 0.597
+    },
+    {
+      "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FKNHdfM3BRWkVEUHUzX04tSXdiRzF6N3pyNnJwT2ZFZEJLVkNUcllnYXNXZlBINlZNdDN5bTNsVi16ZGZpMUx5VFRhUlZYSkw1Smstb3VVNGRNSTk1b2VVYXBtMXdfYTI1RE5sby1OZkxfYWM3eS1HWGgzTGd5bWZkdTY1YmRFMWRJRjh3ekZtLTVWWFdIMkFaTDJFbkVmRktXMzhXSGs4b3JHUDdDZ0loa0Z6Nm1FMkluQmdKWGJHdw?oc=5",
+      "published": "2026-08-25T19:03:47",
+      "sentiment_score": 0.867,
+      "sentiment_label": "Positive",
+      "confidence": 0.88
+    },
+    {
+      "headline": "Why the threat from the rampaging AI machine went ignored | Letters",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3gydlVRbUt4UjhSX3JKc25hSzdBY3JSd0pTeGdxak81cjZGci1lMk5uekNGLVJNZmNyMURWMEt4S20wMWhlQ00yQ2JBSlZDOUNqQ2RDaE9JTFdHQVdUWWdMVko5SDJLRXN5amFTYkRvYUlUSEJnRlpVYXJYQ3dJZ3dHc2MtYk9mbnlBX1FFSXN5cVNRaExYQzBVeW1kakNJeFFod3FYbWVTQWU2?oc=5",
+      "published": "2026-08-25T16:55:00",
+      "sentiment_score": -0.258,
+      "sentiment_label": "Neutral",
+      "confidence": 0.676
+    },
+    {
+      "headline": "Try to beat this AI writing detector",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWVWRUNIc0FKaXpGVkFYSzY2UThVSkdFMG1PRWxBODc4V3BOWE40aFhzWWJsTTZnUjA0TTh1blhwVEhGdWVQczM5Q0RBUDJkM0VJUk50N0t4eEtPQ1V5LVI2TWJWdXQwTTduX2V4bVFuTDU2SGxtQm5UWHBJSXdUY2lrajYxTFcxcEZuQThuVy14VTEyV0ZfZzdOd0FBa19ORXg0QnY5Z0U4WGdOczZpRXdKOFh4MmtYeEhPWml0MVZuLW9ac2Iw?oc=5",
+      "published": "2026-08-25T16:00:00",
+      "sentiment_score": 0.089,
+      "sentiment_label": "Neutral",
+      "confidence": 0.869
+    },
+    {
+      "headline": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXF0MDNkdDAtYUE1andpWjR6U25iYmFrYVhNcC1TeklKajROa3RkeDhRbE4wazcxSUpPTnlYTktFV2doZFFjZFd6cU94Q1k3Um4yYko3d0NTZF9WcnNLdkdfaS1yQ0QtUnZOcXhXWmNRYUF4cy1kT1RFcWJGWWdfa2MybWNvQThJajF0ZDUyMVlUSTBjbXdaaVVMb3lFbE9DUjV1eXdobGRicGRCdllOamtCd1VwVGoxOS1yVUVlLVR2Z9IBxwFBVV95cUxQbF9pd2UxRDZHSTVyOHJSbEV5NkxCQzBHX2JlQTlqYVZFWGcwdnUwN01nVGdiU3cyUUlZTXJuei10a241eUdwMXlwUjJJNTBaN1RNMlZTSE1SaW1mSDZIa2k0ckdrNWd5MzNhNEJBVnQtR0ViaTZmbEZrbTd2bEhEeVRmcVBlZGExMGFjQXF5aFF1NzlBcXROT0RRajZIUmxRUTJkSnV4eW5HeEtGMHRpN3FJOWQ0TkN2ZWxrUm16aUszSTVnNTJF?oc=5",
+      "published": "2026-08-25T13:00:17",
+      "sentiment_score": -0.055,
+      "sentiment_label": "Neutral",
+      "confidence": 0.858
+    },
+    {
+      "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG9hU01WSFg5ajRrWGFnNnJsODNjV0JFdElYMzVXczZYbzVkOWNsUk12ek4yMkRLeVlrOVVNRUxpUW1OdXdia2RQb3BQbTNzRnc5MDNmQlpmbDF2a050bXVHZlRFOEU5bkw4aG1tWDRWc19MX3FJZEdua2wtbGNUSnZpYWViVjZNUlJGZGwyWEk4X21IWUpabHJDMVJYVThFVjBZVWdjUdIBrAFBVV95cUxNQzN6R3J5dWQwRWVnWnhMSUx4QU5CY2QxSy1ncjlyTW5lUk1sVkZWcUZrMjlJUENpQ1JVSUs1UHVXaWxiTEM1cE0tX0lYcDBHYUlEekVFLWhtNGVKS2dlX1MyeUNVcTNMaW84VlBFblVRSGlnVjFleFJjRFZDQkgwYzBERmd1OHZLTllxR2x2QnJhdnB0UzZob3hLQ1k3T2FUbDNoR1RwNV95SWZw?oc=5",
+      "published": "2026-08-25T13:00:01",
+      "sentiment_score": 0.363,
+      "sentiment_label": "Neutral",
+      "confidence": 0.594
+    },
+    {
+      "headline": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkRSQ1lnRGxrZWVfODFJTktXUEFjWU4wcDc0NzNxZzJFdHZsRkwwQkpUM2QzQk84TGdaY0trVHZXR2VkNGtmX1NCWjFlUDVSWjhtdUVfTEx3OXdMZHFCWTVNT01qeXhQbWpickJjbFk1c1FUcWhKTmU2aGVxWGxiNnBLaGNGZ1Z4OW1SMGx2alZYMkxwaG9Nbk5kbjVPRjdDMEtxOC1YeXloSnJaNEFMaHNTVE5JLS1zOVRkeXhn?oc=5",
+      "published": "2026-08-25T12:00:00",
+      "sentiment_score": 0.115,
+      "sentiment_label": "Neutral",
+      "confidence": 0.852
+    },
+    {
+      "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
+      "published": "2026-08-25T11:21:09",
+      "sentiment_score": -0.735,
+      "sentiment_label": "Negative",
+      "confidence": 0.75
+    },
+    {
+      "headline": "There\u2019s Only One Way to Make AI Safe For Kids",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxYcFlnT1dqaDZGeWtqR3BOMlNsSk55X05Xa3lSNVBQaVNlMUhvUEF3ZFVnQWwwSDNsVElLakI3R083dXNxc0tzUmpEeWZhVS1vT2k0S0ZLNFFwWW1pZ0t3QXdnc2ozbTlOSEcxQUh4UGhzcUZibVdlam5ncG9hNGxDOFBQeTR3YzBvdVRCX3AzdUZfS3JxVldKOElhUXZYWmdIN3U0V2V0TFF0?oc=5",
+      "published": "2026-08-25T10:30:02",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.917
+    },
+    {
+      "headline": "Opinion | We Know the Risks of A.I. We Need to Act.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SX29feENGYTQ2NEJna3V2Q3ZPaDhXamdjR3ZRV3lLeE5ndnlhYUEwQ3l1ZDRWdzVxcDVnUzJaVmIyYXdPUjFaZExrNjJQVjVLMDY2RXE3WWFibS1HTGF0d0NMLW1hSXc?oc=5",
+      "published": "2026-08-25T09:02:33",
+      "sentiment_score": 0.033,
+      "sentiment_label": "Neutral",
+      "confidence": 0.895
+    },
+    {
+      "headline": "Australia Bans Generative A.I. From Official Music Charts",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lIMXdTUWVicGpiek1qLUdheVN1d3FNNmwwVDdFdjluY0xpT1F3OG13RmZwTWJPZ25tSDBjUWJ2eVN0VmR0RUVTZml6WjdKWWNySDh4Y1p4blh1X3RyNG01WWdmWUZ1T0pqaFQzQXp1aVFaRnRtY0NuaExXb2ROTUl5Zy1MNXBoZlI2bA?oc=5",
+      "published": "2026-08-25T08:04:49",
+      "sentiment_score": -0.619,
+      "sentiment_label": "Negative",
+      "confidence": 0.636
+    },
+    {
+      "headline": "The US fiscal hole has an AI problem at its core",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkt1S0JESkM2QzgtS25qN2xrY2FjTXFkc0VpNmxaSWdDbHlwempJSUcxc2pXclVkTWNKVHNySU9vMFZLY1ZvRjBmQ0RETk9PajNnOVpCS0VDNlJfc1VuOGxjcFdoT0hwaEtzakJpZDFyS1RkYTlGTC1uMEhHVWxKXzhOOUdTR0RUYmdNV1ljRDhzeHA5M2xDT2o5TjhsRzNpRFJuMUVMUG8tSVhQb19z?oc=5",
+      "published": "2026-08-25T06:00:00",
+      "sentiment_score": -0.875,
+      "sentiment_label": "Negative",
+      "confidence": 0.892
+    },
     {
       "headline": "Songs created by AI banned from Australia's music charts",
       "source": "BBC News",
@@ -70,6 +235,96 @@
       "sentiment_score": -0.884,
       "sentiment_label": "Negative",
       "confidence": 0.895
+    },
+    {
+      "headline": "Skill Issue?: Dr. Dre Says Only People Who Fear AI \u201cHave Trouble Creating\u201d",
+      "source": "Hip-Hop Wired",
+      "link": "https://hiphopwired.com/3063642/skill-issue-dr-dre-says-only-people-who-fear-ai-have-trouble-creating/",
+      "published": "2026-08-25T00:39:15Z",
+      "sentiment_score": -0.021,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
+    },
+    {
+      "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "published": "2026-08-25T00:23:12Z",
+      "sentiment_score": -0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.813
+    },
+    {
+      "headline": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
+      "published": "2026-08-24T23:00:01Z",
+      "sentiment_score": 0.121,
+      "sentiment_label": "Neutral",
+      "confidence": 0.848
+    },
+    {
+      "headline": "Here's what Jim Cramer says stock investors need to know about the bond market",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
+      "published": "2026-08-24T22:40:01Z",
+      "sentiment_score": 0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
+    {
+      "headline": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/articles/c62m4zn1q6mo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-08-24T22:18:20Z",
+      "sentiment_score": 0.104,
+      "sentiment_label": "Neutral",
+      "confidence": 0.86
+    },
+    {
+      "headline": "WikiHow sues OpenAI for copyright infringement over AI training",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
+      "published": "2026-08-24T22:00:45",
+      "sentiment_score": -0.764,
+      "sentiment_label": "Negative",
+      "confidence": 0.781
+    },
+    {
+      "headline": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "published": "2026-08-24T21:37:38Z",
+      "sentiment_score": -0.727,
+      "sentiment_label": "Negative",
+      "confidence": 0.757
+    },
+    {
+      "headline": "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5",
+      "published": "2026-08-24T20:46:00",
+      "sentiment_score": -0.925,
+      "sentiment_label": "Negative",
+      "confidence": 0.946
+    },
+    {
+      "headline": "Alabama launches investigation into OpenAI's hack of Hugging Face | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "published": "2026-08-24T19:59:10Z",
+      "sentiment_score": -0.808,
+      "sentiment_label": "Negative",
+      "confidence": 0.828
+    },
+    {
+      "headline": "The cat-and-mouse game over 3D-printed guns has begun",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "published": "2026-08-24T19:46:47Z",
+      "sentiment_score": 0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.888
     },
     {
       "headline": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns | TechCrunch",
@@ -108,24 +363,6 @@
       "confidence": 0.944
     },
     {
-      "headline": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-      "published": "2026-08-24T15:00:01Z",
-      "sentiment_score": -0.937,
-      "sentiment_label": "Negative",
-      "confidence": 0.951
-    },
-    {
-      "headline": "How GoFundMe became America\u2019s backup plan",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-      "published": "2026-08-24T13:18:59Z",
-      "sentiment_score": 0.08,
-      "sentiment_label": "Neutral",
-      "confidence": 0.893
-    },
-    {
       "headline": "Twitch and Amazon face legal action over using livestreams to train AI",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo",
@@ -153,24 +390,6 @@
       "confidence": 0.586
     },
     {
-      "headline": "OpenAI slows down training after its AI carried out hack",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-19T11:19:12",
-      "sentiment_score": -0.916,
-      "sentiment_label": "Negative",
-      "confidence": 0.925
-    },
-    {
-      "headline": "The critical tech staying safe by going underground",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-18T23:25:21",
-      "sentiment_score": 0.156,
-      "sentiment_label": "Neutral",
-      "confidence": 0.794
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
@@ -178,6 +397,33 @@
       "sentiment_score": -0.06,
       "sentiment_label": "Neutral",
       "confidence": 0.885
+    },
+    {
+      "headline": "OpenAI launches ChatGPT for Teens with stronger safeguards",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGFUaWw2VGNPZXo3dHlOYU1GRDFvbVdGWFFpcFV3TW9PLVFpeUtobk1obzJtUGJJeVlzOU5lYnpjYjFtbEJBQ2c5QlBpWUszVjd6cFoxYjhQZGp0cDBXZXBCLWQ4RnR1WW5PTWRfcHJLSkhEck50QldVSW9XOEtiMA?oc=5",
+      "published": "2026-08-18T15:28:00",
+      "sentiment_score": 0.285,
+      "sentiment_label": "Neutral",
+      "confidence": 0.69
+    },
+    {
+      "headline": "OpenAI introduces \u2018ChatGPT for Teens\u2019 experience amid scrutiny over child safety",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oUGRmRnEwRkQzS1RQSldaRi11S1ZOZDQtMldTMnpLTkFScTlRYkRLN216cFZ6UnBfdTJBUWp0dWxBd3pmOFNqYmxBckhUNU03ZTRQUkFsalNoYXBydTdhYXdMaHlQd1Q2VXNGMg?oc=5",
+      "published": "2026-08-18T11:00:29",
+      "sentiment_score": 0.035,
+      "sentiment_label": "Neutral",
+      "confidence": 0.864
+    },
+    {
+      "headline": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJ2TnN5Q1VTNkZRdjd2VU0ybFFEcHZQaG00d3NLTDRoaE5aT2xKbHFXX0wzbGxnRUxMRGZORUpHVm90MHJuTjVLN3FqOVUyOFRpV1c1cG1Vbm9udlMwVDN3WFMwUnRBTGl2Tjg0b2VFaDVJUUNQSzV6TGl4MTJVcg?oc=5",
+      "published": "2026-08-18T11:00:06",
+      "sentiment_score": 0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.867
     }
   ]
 }
