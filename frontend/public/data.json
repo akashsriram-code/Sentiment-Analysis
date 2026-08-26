@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-26T06:31:58.164966",
-  "total_articles": 21,
-  "overall_sentiment": -0.07,
+  "last_updated": "2026-08-26T12:31:08.468840",
+  "total_articles": 38,
+  "overall_sentiment": -0.193,
   "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-08-18",
-      "avg_sentiment": 0.048,
-      "article_count": 2,
-      "positive_count": 1,
+      "avg_sentiment": 0.132,
+      "article_count": 4,
+      "positive_count": 3,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.048
+      "moving_avg": 0.132
     },
     {
       "date": "2026-08-19",
@@ -20,68 +20,290 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.118
+      "moving_avg": -0.076
     },
     {
       "date": "2026-08-24",
-      "avg_sentiment": -0.137,
-      "article_count": 7,
-      "positive_count": 4,
+      "avg_sentiment": -0.184,
+      "article_count": 6,
+      "positive_count": 3,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.124
+      "moving_avg": -0.112
     },
     {
       "date": "2026-08-25",
-      "avg_sentiment": -0.004,
-      "article_count": 10,
-      "positive_count": 5,
-      "negative_count": 4,
+      "avg_sentiment": -0.191,
+      "article_count": 17,
+      "positive_count": 6,
+      "negative_count": 9,
+      "neutral_count": 2,
+      "moving_avg": -0.132
+    },
+    {
+      "date": "2026-08-26",
+      "avg_sentiment": -0.33,
+      "article_count": 9,
+      "positive_count": 1,
+      "negative_count": 7,
       "neutral_count": 1,
-      "moving_avg": -0.094
+      "moving_avg": -0.171
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.283,
+      "avg_sentiment": -0.44,
       "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Associated Press",
-      "avg_sentiment": 0.074,
+      "source": "CNBC",
+      "avg_sentiment": -0.123,
+      "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.299,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.266,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.293,
+      "source": "The Guardian",
+      "avg_sentiment": -0.091,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Bloomberg",
-      "avg_sentiment": 0.137,
-      "article_count": 2,
-      "sentiment_label": "Positive"
+      "source": "Reuters",
+      "avg_sentiment": -0.46,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.507,
+      "source": "The Washington Post",
+      "avg_sentiment": -0.362,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": 0.009,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.305,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "Asian shares are mixed as US ups economic pressure on Iran",
-      "source": "Associated Press",
-      "link": "https://apnews.com/article/stocks-markets-futures-nvidia-bonds-oil-f17fc8cfc61f40114eb7246701b4695d",
-      "published": "2026-08-25T05:26:32Z",
-      "sentiment_score": -0.936,
+      "headline": "Wall St. Scrutinizes Nvidia\u2019s Deal Machine",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUZHb2ZGOEp5aWVkUUhscWc3RXpDSkRwLVhNZTdLZEgwQm5FMWs5WXZLX09acExMU0xMaHNTLV9SMFUyVndsaUhZMnJhRzZ0RmpCeVlVblgtblNtZmhzY2h3Yk5wSGVJeXlaYXRuRGF2ZzNrVVhrT2Z3U3BLeXM4ZlUzaFBmRDJlcU9ZdlBSaUl6UQ?oc=5",
+      "published": "2026-08-26T11:48:27",
+      "sentiment_score": -0.189,
+      "sentiment_label": "Neutral",
+      "confidence": 0.765
+    },
+    {
+      "headline": "Bill Gates was an AI optimist. Now he\u2019s scared of what could go wrong.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5",
+      "published": "2026-08-26T11:34:38",
+      "sentiment_score": -0.348,
+      "sentiment_label": "Neutral",
+      "confidence": 0.601
+    },
+    {
+      "headline": "Bill Gates calls for \u2018human reserved\u2019 jobs in face of AI takeover",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGJwME5jMU9SNWI3eUlYMm1qc0tQdFFydEhIN01La05ac1ZWV01iNnFON0Y2cW5QUUd5SkFPLWJrWGdtRkg0WlItSG1DYlExVjEyMU5vc0ExQS1fOFc1SHJOdTVKWHV2MlVxWlM4eDVqbmtuSDI0aUNmOHFxV0ZHNW0tVldxblNSVW9ZUmhEWlIwQnYwaC0tdw?oc=5",
+      "published": "2026-08-26T11:33:00",
+      "sentiment_score": -0.299,
+      "sentiment_label": "Neutral",
+      "confidence": 0.596
+    },
+    {
+      "headline": "Artificial Intelligence Investment Now Competes With Governments for Capital",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2w5dEhGSGdhUkJnVHcwaDgxZXNCZmwxa1VJbEZBM05yVHlfSzNMZVR4Ujl0eGo0S2l2LVdwSjdBUnVDcy0za29henBEN2U0RDEyZmdod3dCbU4yYXRjXzZVN3Z1SjJtSTZqcWI5QUdJbzh2cDVjM1JnQTV2SG1nOXl3NGtUMjJfUXhsM0h0V0JfZFpVWng4QUJ0UTNoYnU2QVFiWkRHM25GRl9ET202cEZMQkgyWTJKbWFMY3RtUG4xbVdKYTF3VzNR?oc=5",
+      "published": "2026-08-26T11:00:01",
+      "sentiment_score": -0.027,
+      "sentiment_label": "Neutral",
+      "confidence": 0.897
+    },
+    {
+      "headline": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2ZKSWhaaE9UOUJROWthQ2stakFYT0RNNkNmUzRWUDcwVktJdXVJMUtlZ0p6NEgzcWk1Uk4xU25TeS0wbFcwY2FQb1JaZXRJLTJDcXppVnBfekRhckpGYU5ZVUZub09TNE4zdE5iajEzWU11NjFER09aeU9DWE1EYklRRDFFQnFYZlhlaWpsWkpoWFo5YWFJa2x3RGktVDRDRWVHZXRoVFAzdDZGbS01ZUIwcFMtXzZtWS1rbw?oc=5",
+      "published": "2026-08-26T10:51:43",
+      "sentiment_score": 0.298,
+      "sentiment_label": "Positive",
+      "confidence": 0.444
+    },
+    {
+      "headline": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
+      "published": "2026-08-26T07:01:07",
+      "sentiment_score": -0.481,
       "sentiment_label": "Negative",
-      "confidence": 0.955
+      "confidence": 0.51
+    },
+    {
+      "headline": "Wall Street Journal defends billionaire\u2019s use of AI to write op-ed",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZtM25EVGVjLXR1VTZfckZ6X202dDJZQkhLNUd5Z2E1a2N4MnA3dXNiQUVjVjh6bVAwWFRKcVBTcG1CRGNlM3NQR0xyd3pGZ1RiZ1NpQ1BzN1pnX3ZzcmhWWmFMUWFTbDlsa1ZFZUJKeUVzdk8wMVpWTlFyM0pWU0xrMUprLVJ2UmRlOFBpY3U3VFpHMWthcjJ6ZVRPSmZRMVJrSDVLa1YzX0dOMTZzZS12Q0JfaGRueVd1RlBaOA?oc=5",
+      "published": "2026-08-26T03:53:28",
+      "sentiment_score": -0.376,
+      "sentiment_label": "Neutral",
+      "confidence": 0.539
+    },
+    {
+      "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
+      "published": "2026-08-26T00:34:00",
+      "sentiment_score": -0.631,
+      "sentiment_label": "Negative",
+      "confidence": 0.645
+    },
+    {
+      "headline": "AI-generated music barred from Australian charts after Madonna cover controversy",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQldadkVfUW1DR1RyTDB2S1d4RG5sdkllOXFTNFB0SzJTR0NMVk5xdVRoTDFXLTdEaFpWYkt3bEsyM0dVYXMzTjYzTWU4WUN5ZUNkMkR6SERUaV9QcDdUTTZ2WWowVVNmM3N0OUlLdWhqalBrdVNHTHdjeG9qMS1jWDdkclRuWktEUUpvWE94aldYdnlfaG11aFJCckRya2U4YTdRS1RWS0YwRU9tTWM1WFcxZ3VDLU5NTFpRV2o2T3RQck4wRlhr?oc=5",
+      "published": "2026-08-26T00:01:00",
+      "sentiment_score": -0.913,
+      "sentiment_label": "Negative",
+      "confidence": 0.923
+    },
+    {
+      "headline": "AI gold rush draws crypto firms away from Bitcoin",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25T23:11:02",
+      "sentiment_score": -0.944,
+      "sentiment_label": "Negative",
+      "confidence": 0.959
+    },
+    {
+      "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FKNHdfM3BRWkVEUHUzX04tSXdiRzF6N3pyNnJwT2ZFZEJLVkNUcllnYXNXZlBINlZNdDN5bTNsVi16ZGZpMUx5VFRhUlZYSkw1Smstb3VVNGRNSTk1b2VVYXBtMXdfYTI1RE5sby1OZkxfYWM3eS1HWGgzTGd5bWZkdTY1YmRFMWRJRjh3ekZtLTVWWFdIMkFaTDJFbkVmRktXMzhXSGs4b3JHUDdDZ0loa0Z6Nm1FMkluQmdKWGJHdw?oc=5",
+      "published": "2026-08-25T19:03:47",
+      "sentiment_score": 0.867,
+      "sentiment_label": "Positive",
+      "confidence": 0.88
+    },
+    {
+      "headline": "Why the threat from the rampaging AI machine went ignored | Letters",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3gydlVRbUt4UjhSX3JKc25hSzdBY3JSd0pTeGdxak81cjZGci1lMk5uekNGLVJNZmNyMURWMEt4S20wMWhlQ00yQ2JBSlZDOUNqQ2RDaE9JTFdHQVdUWWdMVko5SDJLRXN5amFTYkRvYUlUSEJnRlpVYXJYQ3dJZ3dHc2MtYk9mbnlBX1FFSXN5cVNRaExYQzBVeW1kakNJeFFod3FYbWVTQWU2?oc=5",
+      "published": "2026-08-25T16:55:00",
+      "sentiment_score": -0.258,
+      "sentiment_label": "Neutral",
+      "confidence": 0.676
+    },
+    {
+      "headline": "'The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "published": "2026-08-25T12:02:15Z",
+      "sentiment_score": 0.062,
+      "sentiment_label": "Neutral",
+      "confidence": 0.913
+    },
+    {
+      "headline": "Nvidia\u2019s dependence on hyperscalers faces big test in earnings report",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+      "published": "2026-08-25T12:00:01Z",
+      "sentiment_score": 0.932,
+      "sentiment_label": "Positive",
+      "confidence": 0.945
+    },
+    {
+      "headline": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkRSQ1lnRGxrZWVfODFJTktXUEFjWU4wcDc0NzNxZzJFdHZsRkwwQkpUM2QzQk84TGdaY0trVHZXR2VkNGtmX1NCWjFlUDVSWjhtdUVfTEx3OXdMZHFCWTVNT01qeXhQbWpickJjbFk1c1FUcWhKTmU2aGVxWGxiNnBLaGNGZ1Z4OW1SMGx2alZYMkxwaG9Nbk5kbjVPRjdDMEtxOC1YeXloSnJaNEFMaHNTVE5JLS1zOVRkeXhn?oc=5",
+      "published": "2026-08-25T12:00:00",
+      "sentiment_score": 0.115,
+      "sentiment_label": "Neutral",
+      "confidence": 0.852
+    },
+    {
+      "headline": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html",
+      "published": "2026-08-25T11:30:01Z",
+      "sentiment_score": 0.296,
+      "sentiment_label": "Neutral",
+      "confidence": 0.685
+    },
+    {
+      "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+      "published": "2026-08-25T11:21:09Z",
+      "sentiment_score": -0.664,
+      "sentiment_label": "Negative",
+      "confidence": 0.694
+    },
+    {
+      "headline": "There\u2019s Only One Way to Make AI Safe For Kids",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxYcFlnT1dqaDZGeWtqR3BOMlNsSk55X05Xa3lSNVBQaVNlMUhvUEF3ZFVnQWwwSDNsVElLakI3R083dXNxc0tzUmpEeWZhVS1vT2k0S0ZLNFFwWW1pZ0t3QXdnc2ozbTlOSEcxQUh4UGhzcUZibVdlam5ncG9hNGxDOFBQeTR3YzBvdVRCX3AzdUZfS3JxVldKOElhUXZYWmdIN3U0V2V0TFF0?oc=5",
+      "published": "2026-08-25T10:30:02",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.917
+    },
+    {
+      "headline": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+      "published": "2026-08-25T09:35:30Z",
+      "sentiment_score": -0.794,
+      "sentiment_label": "Negative",
+      "confidence": 0.814
+    },
+    {
+      "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "published": "2026-08-25T09:15:03Z",
+      "sentiment_score": -0.817,
+      "sentiment_label": "Negative",
+      "confidence": 0.851
+    },
+    {
+      "headline": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "published": "2026-08-25T09:15:00Z",
+      "sentiment_score": -0.388,
+      "sentiment_label": "Neutral",
+      "confidence": 0.521
+    },
+    {
+      "headline": "Australia Bans Generative A.I. From Official Music Charts",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lIMXdTUWVicGpiek1qLUdheVN1d3FNNmwwVDdFdjluY0xpT1F3OG13RmZwTWJPZ25tSDBjUWJ2eVN0VmR0RUVTZml6WjdKWWNySDh4Y1p4blh1X3RyNG01WWdmWUZ1T0pqaFQzQXp1aVFaRnRtY0NuaExXb2ROTUl5Zy1MNXBoZlI2bA?oc=5",
+      "published": "2026-08-25T08:04:49",
+      "sentiment_score": -0.619,
+      "sentiment_label": "Negative",
+      "confidence": 0.636
     },
     {
       "headline": "Songs created by AI banned from Australia's music charts",
@@ -93,24 +315,6 @@
       "confidence": 0.895
     },
     {
-      "headline": "TGH Brooksville Performs First Cardiothoracic Surgery, Expanding Access to Advanced Heart Care in Hernando County",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/pr-newswire/press-release-95677dd103e778de1a7133525954c9f6",
-      "published": "2026-08-25T04:31:40Z",
-      "sentiment_score": 0.901,
-      "sentiment_label": "Positive",
-      "confidence": 0.909
-    },
-    {
-      "headline": "JPMorgan says bond market can handle issuance stampede",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/jpmorgan-s-berro-says-bond-market-can-handle-high-grade-stampede",
-      "published": "2026-08-25T04:15:36Z",
-      "sentiment_score": 0.145,
-      "sentiment_label": "Neutral",
-      "confidence": 0.821
-    },
-    {
       "headline": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
       "source": "Wired",
       "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
@@ -118,24 +322,6 @@
       "sentiment_score": -0.223,
       "sentiment_label": "Neutral",
       "confidence": 0.544
-    },
-    {
-      "headline": "Apple gears up to launch its first new Mac Mini in two years",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details",
-      "published": "2026-08-25T03:38:53Z",
-      "sentiment_score": 0.128,
-      "sentiment_label": "Neutral",
-      "confidence": 0.838
-    },
-    {
-      "headline": "Porsche inks $1.5 billion deal for AI deployment with India\u2019s largest IT services firm Tata Consultancy",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
-      "published": "2026-08-25T03:01:16Z",
-      "sentiment_score": 0.893,
-      "sentiment_label": "Positive",
-      "confidence": 0.904
     },
     {
       "headline": "Thomson Reuters Launches Its Own Frontier Model",
@@ -156,15 +342,6 @@
       "confidence": 0.907
     },
     {
-      "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "published": "2026-08-25T00:23:12Z",
-      "sentiment_score": -0.091,
-      "sentiment_label": "Neutral",
-      "confidence": 0.813
-    },
-    {
       "headline": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
@@ -183,13 +360,13 @@
       "confidence": 0.86
     },
     {
-      "headline": "Alabama launches investigation into OpenAI's hack of Hugging Face | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "published": "2026-08-24T19:59:10Z",
-      "sentiment_score": -0.808,
+      "headline": "WikiHow sues OpenAI for copyright infringement over AI training",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
+      "published": "2026-08-24T22:00:45",
+      "sentiment_score": -0.764,
       "sentiment_label": "Negative",
-      "confidence": 0.828
+      "confidence": 0.781
     },
     {
       "headline": "Woya Highlights the Impact of AI-Driven Search on Private Healthcare SEO",
@@ -201,28 +378,19 @@
       "confidence": 0.822
     },
     {
-      "headline": "AI Finally Gets Pythian Right: YESPRESS Captures Pythian Where ChatGPT and Other AI Platforms Have Struggled",
-      "source": "Associated Press",
-      "link": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-7c7a86efbf38ad1eaa6f55c5b79d291d",
-      "published": "2026-08-24T15:04:22Z",
-      "sentiment_score": 0.185,
-      "sentiment_label": "Neutral",
-      "confidence": 0.793
-    },
-    {
-      "headline": "OpenAI is building AI agents for everything. Will everyone use them? | TechCrunch",
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "published": "2026-08-24T15:02:12Z",
-      "sentiment_score": 0.021,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5",
+      "published": "2026-08-24T15:00:00",
+      "sentiment_score": 0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.944
+      "confidence": 0.941
     },
     {
       "headline": "Twitch and Amazon face legal action over using livestreams to train AI",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo",
-      "published": "2026-08-24T13:09:44Z",
+      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24T13:09:44",
       "sentiment_score": -0.732,
       "sentiment_label": "Negative",
       "confidence": 0.749
@@ -246,13 +414,13 @@
       "confidence": 0.925
     },
     {
-      "headline": "The critical tech staying safe by going underground",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-18T23:25:21",
-      "sentiment_score": 0.156,
+      "headline": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+      "published": "2026-08-18T20:27:00",
+      "sentiment_score": 0.213,
       "sentiment_label": "Neutral",
-      "confidence": 0.794
+      "confidence": 0.767
     },
     {
       "headline": "Tech Life",
@@ -262,6 +430,24 @@
       "sentiment_score": -0.06,
       "sentiment_label": "Neutral",
       "confidence": 0.885
+    },
+    {
+      "headline": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJ2TnN5Q1VTNkZRdjd2VU0ybFFEcHZQaG00d3NLTDRoaE5aT2xKbHFXX0wzbGxnRUxMRGZORUpHVm90MHJuTjVLN3FqOVUyOFRpV1c1cG1Vbm9udlMwVDN3WFMwUnRBTGl2Tjg0b2VFaDVJUUNQSzV6TGl4MTJVcg?oc=5",
+      "published": "2026-08-18T11:00:06",
+      "sentiment_score": 0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.867
+    },
+    {
+      "headline": "OpenAI launches ChatGPT for Teens with stronger safeguards",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGFUaWw2VGNPZXo3dHlOYU1GRDFvbVdGWFFpcFV3TW9PLVFpeUtobk1obzJtUGJJeVlzOU5lYnpjYjFtbEJBQ2c5QlBpWUszVjd6cFoxYjhQZGp0cDBXZXBCLWQ4RnR1WW5PTWRfcHJLSkhEck50QldVSW9XOEtiMA?oc=5",
+      "published": "2026-08-18T07:00:00",
+      "sentiment_score": 0.285,
+      "sentiment_label": "Neutral",
+      "confidence": 0.69
     }
   ]
 }
