@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-29T16:10:24.838032",
+  "last_updated": "2026-08-29T20:11:34.835561",
   "total_articles": 36,
-  "overall_sentiment": -0.076,
+  "overall_sentiment": -0.123,
   "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-08-18",
-      "avg_sentiment": 0.169,
-      "article_count": 4,
-      "positive_count": 3,
+      "avg_sentiment": 0.178,
+      "article_count": 5,
+      "positive_count": 4,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": 0.169
+      "moving_avg": 0.178
     },
     {
       "date": "2026-08-24",
@@ -20,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.282
+      "moving_avg": -0.277
     },
     {
       "date": "2026-08-25",
@@ -29,43 +29,43 @@
       "positive_count": 0,
       "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.397
+      "moving_avg": -0.394
     },
     {
       "date": "2026-08-26",
-      "avg_sentiment": 0.062,
-      "article_count": 6,
+      "avg_sentiment": 0.108,
+      "article_count": 5,
       "positive_count": 2,
-      "negative_count": 4,
+      "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.282
+      "moving_avg": -0.268
     },
     {
       "date": "2026-08-27",
-      "avg_sentiment": 0.013,
-      "article_count": 5,
-      "positive_count": 2,
+      "avg_sentiment": -0.016,
+      "article_count": 4,
+      "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.223
+      "moving_avg": -0.218
     },
     {
       "date": "2026-08-28",
-      "avg_sentiment": 0.077,
+      "avg_sentiment": -0.052,
       "article_count": 12,
-      "positive_count": 7,
-      "negative_count": 3,
-      "neutral_count": 2,
-      "moving_avg": -0.173
+      "positive_count": 4,
+      "negative_count": 5,
+      "neutral_count": 3,
+      "moving_avg": -0.19
     },
     {
       "date": "2026-08-29",
-      "avg_sentiment": -0.297,
-      "article_count": 3,
+      "avg_sentiment": -0.323,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 2,
+      "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.191
+      "moving_avg": -0.209
     }
   ],
   "source_stats": [
@@ -77,15 +77,15 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.048,
-      "article_count": 7,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.134,
+      "article_count": 5,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": 0.01,
+      "avg_sentiment": -0.23,
       "article_count": 4,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     },
     {
       "source": "WSJ",
@@ -95,7 +95,7 @@
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.208,
+      "avg_sentiment": -0.135,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
@@ -104,17 +104,41 @@
       "avg_sentiment": -0.3,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.23,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Thievery or Innovation? The Music Industry Grapples With A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdNbVd5QVY2V2FOLUViNV8xZUhaZjBBcXVyNWk3T0xVZFNVUzN0bExLU3poRmtsQmxKZmtEOV93MFdhVmNHdExpM05Oa2dPNlNsUGxVM2FjT0dlZTcyMXQ1MVhhdjl0T3FxSmZwSjZ4MmtVV3Fzanotakl5ai1oaWxR?oc=5",
+      "published": "2026-08-29T17:02:38",
+      "sentiment_score": -0.402,
+      "sentiment_label": "Neutral",
+      "confidence": 0.544
+    },
+    {
       "headline": "The Fed confronts a powerful new economic force",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "published": "2026-08-29T15:33:20",
+      "published": "2026-08-29T16:00:00",
       "sentiment_score": 0.066,
       "sentiment_label": "Neutral",
       "confidence": 0.851
+    },
+    {
+      "headline": "Did AI write this? It\u2019s getting harder to tell",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTThpSHE3aHFSc3A1UXVGOUtENzF2ZnFyblFuQVVUTFJTQjdMeHpLZ3JTdjRoNEpiclB4bDVmdlV1dUtkUlgwLVlsTHpaUmJkbDBzcGxyR0Y2eGhwVzV6QXdSV0Rua3lOTWNwOVNoS1h4eUZOVF9KQUQ5aFcyVUU2XzFiXzk?oc=5",
+      "published": "2026-08-29T10:34:10",
+      "sentiment_score": -0.071,
+      "sentiment_label": "Neutral",
+      "confidence": 0.889
     },
     {
       "headline": "Sharp rise in incidents of AI escaping users\u2019 control, research finds",
@@ -126,15 +150,6 @@
       "confidence": 0.915
     },
     {
-      "headline": "Did AI write this? It\u2019s getting harder to tell",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTThpSHE3aHFSc3A1UXVGOUtENzF2ZnFyblFuQVVUTFJTQjdMeHpLZ3JTdjRoNEpiclB4bDVmdlV1dUtkUlgwLVlsTHpaUmJkbDBzcGxyR0Y2eGhwVzV6QXdSV0Rua3lOTWNwOVNoS1h4eUZOVF9KQUQ5aFcyVUU2XzFiXzk?oc=5",
-      "published": "2026-08-29T04:00:13",
-      "sentiment_score": -0.071,
-      "sentiment_label": "Neutral",
-      "confidence": 0.889
-    },
-    {
       "headline": "Opinion | Artificial Criticism of Artificial Intelligence?",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemNic3p4TnEySWlGLU5oazJ3NUtBS1lxOEo4TEY3dkxyS2Z0aldIOGw0TlRsSEdHTmdSMC1xUlJ0NFhoTUxYYWZJV2UwU2hRb1hrSmtjWFBXNFhIRTdFdVBLVDJGNWRmLXB5OWtiVFdhVjFFeU1Xd1VKbXZWZkExeGQyRm9hQ0ttZ2ZYcg?oc=5",
@@ -144,22 +159,31 @@
       "confidence": 0.889
     },
     {
-      "headline": "China Sees Opportunity in America\u2019s Recent A.I. Security Scares",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWFHS0xYa2x6MXU2dWl0SjZzLXNScUNfMlNLZ21GZXhQT25ZNEtwOUVBQXFhM3NZc3FvQ1Y5eE9vQnpiVmlpSms2SmV3a2ZiekQ0M3VHNEVWcnNtaGM5TVpxWExRN1ZMWlZwY3JDc3hNc0NjMDBSSUVwaERkU0JzTkV6RzMyVmxubnc?oc=5",
-      "published": "2026-08-28T16:10:22",
-      "sentiment_score": 0.558,
-      "sentiment_label": "Positive",
-      "confidence": 0.589
+      "headline": "Musicians-turned-detectives are hunting for AI grifters",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "published": "2026-08-28T19:10:32Z",
+      "sentiment_score": -0.101,
+      "sentiment_label": "Neutral",
+      "confidence": 0.833
     },
     {
-      "headline": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
-      "published": "2026-08-28T15:56:37Z",
-      "sentiment_score": 0.203,
+      "headline": "Open-weight AI companies are the Valley's hottest acquisition targets | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "published": "2026-08-28T18:19:40Z",
+      "sentiment_score": 0.049,
       "sentiment_label": "Neutral",
-      "confidence": 0.596
+      "confidence": 0.9
+    },
+    {
+      "headline": "Trump\u2019s EPA wants to let data centers hide their air pollution",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "published": "2026-08-28T16:28:40Z",
+      "sentiment_score": -0.359,
+      "sentiment_label": "Neutral",
+      "confidence": 0.549
     },
     {
       "headline": "The Bigger Bet Behind Nvidia\u2019s $12.9 Billion Hugging Face Deal",
@@ -169,15 +193,6 @@
       "sentiment_score": 0.285,
       "sentiment_label": "Neutral",
       "confidence": 0.686
-    },
-    {
-      "headline": "Dow Jones Today LIVE: Index Gains 0.43% as Apple, Amazon, Microsoft, Nike Lead Tech Sell-Off, Oil Prices Falls Ahead Of Nvidia Earnings, Inflation Data & Fed Rate",
-      "source": "The Sunday Guardian",
-      "link": "https://sundayguardianlive.com/business/dow-jones-today-live-index-gains-043-as-apple-amazon-microsoft-nike-lead-tech-sell-off-oil-prices-falls-ahead-of-nvidia-earnings-inflation-data-fed-rate-heres-what-investors-should-know-272041/",
-      "published": "2026-08-28T15:34:44Z",
-      "sentiment_score": 0.378,
-      "sentiment_label": "Positive",
-      "confidence": 0.592
     },
     {
       "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India | TechCrunch",
@@ -241,15 +256,6 @@
       "sentiment_score": 0.335,
       "sentiment_label": "Neutral",
       "confidence": 0.649
-    },
-    {
-      "headline": "CrowdStrike CEO: AI exposes dangerous cyber gaps that legacy tools can\u2019t handle",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/27/crowdstrike-ceo-ai-exposes-dangerous-cyber-gaps.html",
-      "published": "2026-08-27T22:45:42Z",
-      "sentiment_score": 0.128,
-      "sentiment_label": "Neutral",
-      "confidence": 0.789
     },
     {
       "headline": "Time is running out for cyber security, warn top tech firms",
@@ -322,15 +328,6 @@
       "sentiment_score": -0.12,
       "sentiment_label": "Neutral",
       "confidence": 0.837
-    },
-    {
-      "headline": "How do we explain OpenAI\u2019s executive exodus?",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSnVHRnFsUmo5Tk0tOHJVQnFNaWpqOFFvNTNGMkpjVWVSTURwd092RzMxcXBLNlVPcUh5LUhRT0lTRktQMVRteGcweXBrai16a3U2WDN6VE1KdXozay1LeEFvaU5HWFRNaElzOUZfb21zZE9NSjJjSDFUSTdjei1xZUhTbw?oc=5",
-      "published": "2026-08-26T19:34:04",
-      "sentiment_score": -0.17,
-      "sentiment_label": "Neutral",
-      "confidence": 0.792
     },
     {
       "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
@@ -421,6 +418,15 @@
       "sentiment_score": 0.359,
       "sentiment_label": "Neutral",
       "confidence": 0.62
+    },
+    {
+      "headline": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+      "published": "2026-08-18T07:00:00",
+      "sentiment_score": 0.213,
+      "sentiment_label": "Neutral",
+      "confidence": 0.767
     },
     {
       "headline": "OpenAI launches ChatGPT for Teens with stronger safeguards",
