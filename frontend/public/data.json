@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-30T10:55:55.782258",
-  "total_articles": 34,
-  "overall_sentiment": -0.113,
-  "overall_label": "Negative",
+  "last_updated": "2026-08-30T15:44:16.966753",
+  "total_articles": 39,
+  "overall_sentiment": -0.03,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-07-20",
@@ -42,39 +42,39 @@
     },
     {
       "date": "2026-08-27",
-      "avg_sentiment": -0.016,
-      "article_count": 4,
+      "avg_sentiment": -0.061,
+      "article_count": 5,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.23
+      "moving_avg": -0.239
     },
     {
       "date": "2026-08-28",
-      "avg_sentiment": 0.02,
-      "article_count": 7,
-      "positive_count": 2,
-      "negative_count": 4,
+      "avg_sentiment": 0.104,
+      "article_count": 8,
+      "positive_count": 4,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.188
+      "moving_avg": -0.182
     },
     {
       "date": "2026-08-29",
-      "avg_sentiment": -0.269,
-      "article_count": 6,
-      "positive_count": 3,
+      "avg_sentiment": 0.076,
+      "article_count": 8,
+      "positive_count": 5,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.2
+      "moving_avg": -0.145
     },
     {
       "date": "2026-08-30",
-      "avg_sentiment": 0.196,
-      "article_count": 2,
-      "positive_count": 2,
+      "avg_sentiment": 0.134,
+      "article_count": 3,
+      "positive_count": 3,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.06
+      "moving_avg": -0.014
     }
   ],
   "source_stats": [
@@ -85,22 +85,34 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "CNBC",
+      "avg_sentiment": 0.002,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.422,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "The New York Times",
       "avg_sentiment": -0.073,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Wired",
-      "avg_sentiment": -0.082,
-      "article_count": 4,
+      "source": "The Guardian",
+      "avg_sentiment": -0.181,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.141,
-      "article_count": 4,
-      "sentiment_label": "Negative"
+      "source": "Wired",
+      "avg_sentiment": 0.035,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "WSJ",
@@ -109,33 +121,36 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.3,
-      "article_count": 2,
+      "source": "The Verge",
+      "avg_sentiment": -0.123,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.383,
-      "article_count": 2,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.23,
+      "source": "The Washington Post",
+      "avg_sentiment": -0.086,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "South Korea\u2019s \u2018AI for All\u2019 Push Gives Free Access to Every Citizen",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHM1SDZ6dnB3YkxQZ0U5VVpXVVhhZWNHTlYtcVZMdGVSeXp1UDhGV2drSjVjZ0pTMmRQVEt4SEFlNjFlLUsxdXg4VllJSlF4a3JNYTVHalYyM3VSN2RqdnZ6UmJJWS0xWlZMck5YZGJRV3lSaW1wb3hMVHBMOVUyZU9KTUt0VjBFeHRYaVJUZE5NR21qSmpBX3NGRTBVcjZYcHc?oc=5",
-      "published": "2026-08-30T10:39:40",
-      "sentiment_score": 0.167,
+      "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRWTkg4TGJIWlVpU3R3cTk2V0VPbk96c2hkc1kwVGlGWTJST1hsWEZPU3JSRXFmbW5lNnlJRE9mRXIzbXhsQlctVjBOd2t2QXpVdTdNdnBNeU91TjE4YXJNWHlBOEp0TWJXajVOSzFjN0ZPQk1mSnl4dWNHVE51VEVzbG1ZcGQ2VEdLLXBSOS1TMkJpZXFWd0FLc1hKdGZLekhQdDI0ekhVaUlwS093TUFURzg?oc=5",
+      "published": "2026-08-30T15:00:00",
+      "sentiment_score": 0.12,
       "sentiment_label": "Neutral",
-      "confidence": 0.811
+      "confidence": 0.858
+    },
+    {
+      "headline": "Big business has shown small firms what to do \u2013 and what not to do \u2013 with AI | Gene Marks",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5",
+      "published": "2026-08-30T14:02:00",
+      "sentiment_score": 0.057,
+      "sentiment_label": "Neutral",
+      "confidence": 0.889
     },
     {
       "headline": "Help Wanted: \u2018Forward-Deployed\u2019 Humans for the A.I. Era",
@@ -154,6 +169,33 @@
       "sentiment_score": 0.066,
       "sentiment_label": "Neutral",
       "confidence": 0.851
+    },
+    {
+      "headline": "Warsh\u2019s inflation warning sets up September showdown for the Fed",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-s-inflation-warning-sets-up-september-showdown-for-the-fed",
+      "published": "2026-08-29T14:17:40Z",
+      "sentiment_score": -0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.721
+    },
+    {
+      "headline": "Nvidia\u2019s AI advantage is moving beyond the GPU | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "published": "2026-08-29T13:03:06Z",
+      "sentiment_score": 0.802,
+      "sentiment_label": "Positive",
+      "confidence": 0.811
+    },
+    {
+      "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "published": "2026-08-29T12:16:03Z",
+      "sentiment_score": 0.574,
+      "sentiment_label": "Positive",
+      "confidence": 0.705
     },
     {
       "headline": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
@@ -192,15 +234,6 @@
       "confidence": 0.915
     },
     {
-      "headline": "OpenAI to end partnership with Cursor after SpaceX acquisition",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
-      "published": "2026-08-29T03:58:49Z",
-      "sentiment_score": -0.9,
-      "sentiment_label": "Negative",
-      "confidence": 0.909
-    },
-    {
       "headline": "Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
@@ -217,6 +250,15 @@
       "sentiment_score": -0.067,
       "sentiment_label": "Neutral",
       "confidence": 0.889
+    },
+    {
+      "headline": "Two new small, powerful Macs",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+      "published": "2026-08-28T19:21:40Z",
+      "sentiment_score": 0.091,
+      "sentiment_label": "Neutral",
+      "confidence": 0.88
     },
     {
       "headline": "Musicians-turned-detectives are hunting for AI grifters",
@@ -237,13 +279,13 @@
       "confidence": 0.549
     },
     {
-      "headline": "I Asked 100 Companies for My Data. I Got Deletion Notices Instead",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/",
-      "published": "2026-08-28T10:15:00Z",
-      "sentiment_score": -0.434,
+      "headline": "South Korea\u2019s \u2018AI for All\u2019 Push Gives Free Access to Every Citizen",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHM1SDZ6dnB3YkxQZ0U5VVpXVVhhZWNHTlYtcVZMdGVSeXp1UDhGV2drSjVjZ0pTMmRQVEt4SEFlNjFlLUsxdXg4VllJSlF4a3JNYTVHalYyM3VSN2RqdnZ6UmJJWS0xWlZMck5YZGJRV3lSaW1wb3hMVHBMOVUyZU9KTUt0VjBFeHRYaVJUZE5NR21qSmpBX3NGRTBVcjZYcHc?oc=5",
+      "published": "2026-08-28T09:08:00",
+      "sentiment_score": 0.167,
       "sentiment_label": "Neutral",
-      "confidence": 0.515
+      "confidence": 0.811
     },
     {
       "headline": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
@@ -280,6 +322,15 @@
       "sentiment_score": 0.01,
       "sentiment_label": "Neutral",
       "confidence": 0.906
+    },
+    {
+      "headline": "They confided in ChatGPT. Their secrets ended up in court.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFBCemxVME1rR01hN3AxaEh5MmlVR0lqZTFIYzA2UWtDSXZ4NDJJUHlGUWZvYUQwcTdzeEUzZlpQN0l1WHltNXhHWG9naFY0bmdncmc3QnEyY1NFeUFFSktjRklRRnltNjVVVUR0dGFVYk1lZVZrclVtYmFJOC14OTJybnZnN3NhNk9mdWtiOUNBYnU0ZUdKMnlKc2ZpWnU1ODJFRkRyY2hIMzdMUHN0Sk5KM2RfQQ?oc=5",
+      "published": "2026-08-27T16:00:00",
+      "sentiment_score": -0.239,
+      "sentiment_label": "Neutral",
+      "confidence": 0.704
     },
     {
       "headline": "What the Meta settlement means for the UK, and other questions after the deal",
