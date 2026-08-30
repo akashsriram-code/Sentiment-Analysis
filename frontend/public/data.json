@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-30T15:44:16.966753",
-  "total_articles": 39,
-  "overall_sentiment": -0.03,
-  "overall_label": "Neutral",
+  "last_updated": "2026-08-30T20:18:57.977672",
+  "total_articles": 36,
+  "overall_sentiment": -0.063,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-07-20",
@@ -24,12 +24,12 @@
     },
     {
       "date": "2026-08-25",
-      "avg_sentiment": -0.627,
-      "article_count": 5,
+      "avg_sentiment": -0.795,
+      "article_count": 4,
       "positive_count": 0,
       "negative_count": 4,
-      "neutral_count": 1,
-      "moving_avg": -0.414
+      "neutral_count": 0,
+      "moving_avg": -0.47
     },
     {
       "date": "2026-08-26",
@@ -38,7 +38,7 @@
       "positive_count": 2,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.283
+      "moving_avg": -0.325
     },
     {
       "date": "2026-08-27",
@@ -47,7 +47,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.239
+      "moving_avg": -0.272
     },
     {
       "date": "2026-08-28",
@@ -56,25 +56,25 @@
       "positive_count": 4,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.182
+      "moving_avg": -0.21
     },
     {
       "date": "2026-08-29",
-      "avg_sentiment": 0.076,
+      "avg_sentiment": 0.006,
       "article_count": 8,
-      "positive_count": 5,
+      "positive_count": 4,
       "negative_count": 3,
-      "neutral_count": 0,
-      "moving_avg": -0.145
+      "neutral_count": 1,
+      "moving_avg": -0.179
     },
     {
       "date": "2026-08-30",
-      "avg_sentiment": 0.134,
-      "article_count": 3,
-      "positive_count": 3,
-      "negative_count": 0,
+      "avg_sentiment": -0.08,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.014
+      "moving_avg": -0.078
     }
   ],
   "source_stats": [
@@ -86,33 +86,21 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.002,
-      "article_count": 5,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.106,
+      "article_count": 6,
+      "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.422,
-      "article_count": 4,
+      "avg_sentiment": 0.335,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.073,
+      "source": "The Verge",
+      "avg_sentiment": -0.307,
       "article_count": 4,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.181,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.035,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
     },
     {
       "source": "WSJ",
@@ -121,54 +109,63 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.123,
+      "source": "The New York Times",
+      "avg_sentiment": -0.173,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Washington Post",
-      "avg_sentiment": -0.086,
+      "source": "The Guardian",
+      "avg_sentiment": 0.102,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
-      "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRWTkg4TGJIWlVpU3R3cTk2V0VPbk96c2hkc1kwVGlGWTJST1hsWEZPU3JSRXFmbW5lNnlJRE9mRXIzbXhsQlctVjBOd2t2QXpVdTdNdnBNeU91TjE4YXJNWHlBOEp0TWJXajVOSzFjN0ZPQk1mSnl4dWNHVE51VEVzbG1ZcGQ2VEdLLXBSOS1TMkJpZXFWd0FLc1hKdGZLekhQdDI0ekhVaUlwS093TUFURzg?oc=5",
-      "published": "2026-08-30T15:00:00",
-      "sentiment_score": 0.12,
-      "sentiment_label": "Neutral",
-      "confidence": 0.858
-    },
-    {
-      "headline": "Big business has shown small firms what to do \u2013 and what not to do \u2013 with AI | Gene Marks",
+      "headline": "AI\u2019s worst disasters will arrive unannounced | Letters",
       "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5",
-      "published": "2026-08-30T14:02:00",
-      "sentiment_score": 0.057,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
+      "published": "2026-08-30T16:22:00",
+      "sentiment_score": -0.08,
       "sentiment_label": "Neutral",
-      "confidence": 0.889
+      "confidence": 0.869
     },
     {
-      "headline": "Help Wanted: \u2018Forward-Deployed\u2019 Humans for the A.I. Era",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52ZTZlNFlEcFlidDJ6TzIyd2FiSkdiSEEzVXpuYXhTSEl4Q2htYmx6SmpOMmxmcnFMWlVwRDZwLVhHVGg4Vl9MWEE2ZXhxWEwwNWNGaVl0NTNRS3RPbTVmUVE1X1p0eFBqUzdWcTE0Wi1xV0ZaZ2lJ?oc=5",
-      "published": "2026-08-30T09:00:54",
-      "sentiment_score": 0.225,
-      "sentiment_label": "Neutral",
-      "confidence": 0.746
+      "headline": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "published": "2026-08-29T19:06:22Z",
+      "sentiment_score": -0.648,
+      "sentiment_label": "Negative",
+      "confidence": 0.667
     },
     {
-      "headline": "The Fed confronts a powerful new economic force",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "published": "2026-08-29T16:00:00",
-      "sentiment_score": 0.066,
+      "headline": "Sony Music and Warner Chappell are suing Anthropic",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "published": "2026-08-29T18:19:53Z",
+      "sentiment_score": -0.86,
+      "sentiment_label": "Negative",
+      "confidence": 0.88
+    },
+    {
+      "headline": "At TechBBQ, Europe's AI conversations kept coming back to: Who's actually in control? | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "published": "2026-08-29T17:51:10Z",
+      "sentiment_score": 0.06,
       "sentiment_label": "Neutral",
-      "confidence": 0.851
+      "confidence": 0.89
+    },
+    {
+      "headline": "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "published": "2026-08-29T17:39:39Z",
+      "sentiment_score": 0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
     },
     {
       "headline": "Warsh\u2019s inflation warning sets up September showdown for the Fed",
@@ -198,15 +195,6 @@
       "confidence": 0.705
     },
     {
-      "headline": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "published": "2026-08-29T10:30:00Z",
-      "sentiment_score": -0.088,
-      "sentiment_label": "Neutral",
-      "confidence": 0.837
-    },
-    {
       "headline": "How to Run a Chatbot on Your Own Computer",
       "source": "Wired",
       "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
@@ -214,24 +202,6 @@
       "sentiment_score": 0.123,
       "sentiment_label": "Neutral",
       "confidence": 0.846
-    },
-    {
-      "headline": "Psilocybin Might Make Your Brain Live in the Moment",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
-      "published": "2026-08-29T09:00:00Z",
-      "sentiment_score": 0.07,
-      "sentiment_label": "Neutral",
-      "confidence": 0.878
-    },
-    {
-      "headline": "Sharp rise in incidents of AI escaping users\u2019 control, research finds",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlZjd2VXMXVsVlBhRkw3R0ctSzFZeFFyVl9PdDY1X3dmc3o3bHpRZG9QNVF1alk5a2hlOE9OX1BnaFVVdU9IdE5xUzVYeVFwVFlPNTlrYW50bmYwbGY1NlJSREFaRWFPaFZWaF9MamNqUTdyc2R4cDV1eVdHazUyZFJUTHhidExWZTJiYXJVczIwMEYyemR3eE1OOXV0ZHlaQ192a19yQmZRd1lSa202MHFHejZ1TkhFUXc?oc=5",
-      "published": "2026-08-29T06:01:00",
-      "sentiment_score": -0.885,
-      "sentiment_label": "Negative",
-      "confidence": 0.915
     },
     {
       "headline": "Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine | TechCrunch",
@@ -412,15 +382,6 @@
       "sentiment_score": -0.735,
       "sentiment_label": "Negative",
       "confidence": 0.75
-    },
-    {
-      "headline": "There\u2019s Only One Way to Make AI Safe For Kids",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxYcFlnT1dqaDZGeWtqR3BOMlNsSk55X05Xa3lSNVBQaVNlMUhvUEF3ZFVnQWwwSDNsVElLakI3R083dXNxc0tzUmpEeWZhVS1vT2k0S0ZLNFFwWW1pZ0t3QXdnc2ozbTlOSEcxQUh4UGhzcUZibVdlam5ncG9hNGxDOFBQeTR3YzBvdVRCX3AzdUZfS3JxVldKOElhUXZYWmdIN3U0V2V0TFF0?oc=5",
-      "published": "2026-08-25T10:30:02",
-      "sentiment_score": 0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.917
     },
     {
       "headline": "Australia Bans Generative A.I. From Official Music Charts",
