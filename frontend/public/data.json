@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-06T19:47:35.709699",
-  "total_articles": 44,
-  "overall_sentiment": -0.229,
+  "last_updated": "2026-09-07T01:55:18.278475",
+  "total_articles": 39,
+  "overall_sentiment": -0.284,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,12 +24,12 @@
     },
     {
       "date": "2026-08-31",
-      "avg_sentiment": -0.63,
-      "article_count": 2,
+      "avg_sentiment": -0.945,
+      "article_count": 1,
       "positive_count": 0,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.677
+      "moving_avg": -0.782
     },
     {
       "date": "2026-09-01",
@@ -38,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.497
+      "moving_avg": -0.576
     },
     {
       "date": "2026-09-02",
@@ -47,56 +47,50 @@
       "positive_count": 2,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.44
+      "moving_avg": -0.503
     },
     {
       "date": "2026-09-03",
-      "avg_sentiment": 0.054,
-      "article_count": 8,
-      "positive_count": 5,
+      "avg_sentiment": 0.041,
+      "article_count": 6,
+      "positive_count": 3,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.357
+      "moving_avg": -0.412
     },
     {
       "date": "2026-09-04",
-      "avg_sentiment": -0.286,
-      "article_count": 11,
+      "avg_sentiment": -0.379,
+      "article_count": 9,
       "positive_count": 1,
-      "negative_count": 7,
-      "neutral_count": 3,
-      "moving_avg": -0.347
+      "negative_count": 6,
+      "neutral_count": 2,
+      "moving_avg": -0.407
     },
     {
       "date": "2026-09-05",
-      "avg_sentiment": -0.288,
+      "avg_sentiment": -0.29,
       "article_count": 9,
       "positive_count": 2,
       "negative_count": 5,
       "neutral_count": 2,
-      "moving_avg": -0.276
+      "moving_avg": -0.337
     },
     {
       "date": "2026-09-06",
-      "avg_sentiment": -0.281,
+      "avg_sentiment": -0.446,
       "article_count": 5,
-      "positive_count": 1,
-      "negative_count": 3,
+      "positive_count": 0,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.228
+      "moving_avg": -0.312
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.083,
-      "article_count": 9,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.358,
-      "article_count": 8,
+      "avg_sentiment": -0.156,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
@@ -106,10 +100,16 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.003,
+      "source": "cnbc.com",
+      "avg_sentiment": -0.319,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.708,
       "article_count": 3,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
@@ -118,31 +118,40 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.473,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Financial Times",
-      "avg_sentiment": 0.131,
+      "source": "The Guardian",
+      "avg_sentiment": -0.057,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.291,
+      "avg_sentiment": -0.414,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "wired.com",
+      "source": "CNBC",
+      "avg_sentiment": -0.144,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WIRED",
       "avg_sentiment": -0.086,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "China\u2019s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcW1YT2djWXNUNkMwTTlxbnhMQ2tmbEc2SXE5ZTMxSjZDbUpZMFM5YllWMEVMb3Y0SWMybmJZZGNSOFJjNDFoSmRNZ2I3TGJ6ZzdhTHVFX2k1RzNkVzRVZUlCMG1JZUJpYkxYbzc2dDF1eU5sWHp1dnJLb2dBMVA0UWlVWEZUSGVYWnJJaDJ3?oc=5",
+      "published": "2026-09-06T20:36:11",
+      "sentiment_score": -0.761,
+      "sentiment_label": "Negative",
+      "confidence": 0.787
+    },
     {
       "headline": "These teachers fight AI cheating with classes that force students to show they are learning",
       "source": "The Washington Post",
@@ -154,7 +163,7 @@
     },
     {
       "headline": "AI data centers are transforming rural land markets \u2014 and fueling a backlash",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
       "published": "2026-09-06T12:00:01",
       "sentiment_score": -0.684,
@@ -163,7 +172,7 @@
     },
     {
       "headline": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
       "published": "2026-09-06T12:00:01",
       "sentiment_score": -0.247,
@@ -180,13 +189,13 @@
       "confidence": 0.942
     },
     {
-      "headline": "UBS demands new junior bankers show AI proficiency",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamlCY2RObWRDcFp6dEV2Q2tjc3lHRUE0ZnJTa2NHajl5WnlHT2tFdEFXOXJZa1BxdEFMWHN0Z0hYcm4yaFQ3M0pmNlVoOUVKcS0zNzNzRGNSZ0QxeUpvVmFGb2NDMUd6X1RrdFdUSmYyanhueUxPeVZFeUIxd2ZPbGNBZTU?oc=5",
-      "published": "2026-09-06T04:02:48",
-      "sentiment_score": 0.063,
-      "sentiment_label": "Neutral",
-      "confidence": 0.879
+      "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published": "2026-09-05T22:51:53Z",
+      "sentiment_score": -0.879,
+      "sentiment_label": "Negative",
+      "confidence": 0.891
     },
     {
       "headline": "Trump turns up the heat on Warsh as Fed rate hike looms",
@@ -205,15 +214,6 @@
       "sentiment_score": 0.05,
       "sentiment_label": "Neutral",
       "confidence": 0.905
-    },
-    {
-      "headline": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-      "published": "2026-09-05T15:00:03Z",
-      "sentiment_score": -0.862,
-      "sentiment_label": "Negative",
-      "confidence": 0.886
     },
     {
       "headline": "Meet the CISO: A new front line star in the AI cybersecurity war",
@@ -270,13 +270,13 @@
       "confidence": 0.913
     },
     {
-      "headline": "OpenAI Suggests It's Reached AGI. What Is It Anyway?",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3pWZVVEZUF0cHZ5TGNDb2Nzb2laSmppbEZMSkp1SVFwek9EQWt0SUhJNTZPYnROQ2pHcXU3XzBvVldtS1V6WHowVE93ZUVMNUVTQmFfcXFZOUttbXM1ZFNMSGdaVmlyMWlhalBRNF9jV3pPUFlfcE8tWWZHdmg2Z2FhVG5fWW5tRUktWnB2YVJuNnFWRkFiUE1mcmd3U19tUDNnMVNpRERvTUM3UkZVMTNCdnBFcUktaFdQRw?oc=5",
-      "published": "2026-09-04T18:55:35",
-      "sentiment_score": -0.042,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
+      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "published": "2026-09-04T22:02:17",
+      "sentiment_score": -0.472,
+      "sentiment_label": "Negative",
+      "confidence": 0.496
     },
     {
       "headline": "Roland is getting into generative AI music with Melody Flip",
@@ -307,12 +307,12 @@
     },
     {
       "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WldzcWRnVVJYRkpNMDN5Y3VRLXpaalZqNUpPYzJrNGJIaVd0Q1dKQ2J4RmVyQThUTUp4S2Y3bV9MZm1VUHZiS3B5dWsyVTY3bjM0X1RlVU9sQQ?oc=5",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-04T14:59:13",
-      "sentiment_score": -0.449,
-      "sentiment_label": "Neutral",
-      "confidence": 0.505
+      "sentiment_score": -0.814,
+      "sentiment_label": "Negative",
+      "confidence": 0.83
     },
     {
       "headline": "Robotaxis enter their villain era",
@@ -333,17 +333,8 @@
       "confidence": 0.796
     },
     {
-      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "published": "2026-09-04T10:03:00",
-      "sentiment_score": -0.472,
-      "sentiment_label": "Negative",
-      "confidence": 0.496
-    },
-    {
       "headline": "The sameness problem behind those unappetizing AI-generated menus",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFdGNjV5MFpwZkFPTGdFSVZRV01vQUh0MjdqNFlzUjR4UHh4TUlvOE5lSUtKT196Z2NFRk10NzdWOVNPOXFhaHp2QVZvdWxiU0xqYmFfR0NfWnlLQ0c4UlJncGtyUWs2Zm1EZHdxaUtJQzBUcDA4R3I5RGVibWdKOWlnRDUzSTJpdTdpa2dSdDhDY1F3NWZGb2ZlUjV4R0RnaXc?oc=5",
       "published": "2026-09-04T04:21:03",
       "sentiment_score": -0.632,
@@ -360,17 +351,8 @@
       "confidence": 0.599
     },
     {
-      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
-      "published": "2026-09-04T00:06:04",
-      "sentiment_score": -0.056,
-      "sentiment_label": "Neutral",
-      "confidence": 0.848
-    },
-    {
       "headline": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "source": "wired.com",
+      "source": "WIRED",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQno2Si1NT01wRmxzSHRFYVc4LS1IWW8wZ1lVcXNTN20wbzI1OTlzRHhTTDEzQm5Kb2xtYlB1S25LbjMtdGxEb0dHLUVGbGQ4S1NrVC02MUhCOUZKSkI1X010QW5BbEJOQ2pTNXFHVjZWbHpQbkxLNzRyalZCcmQzS2VIUzZVNmg0bGRJY3c5SGptZw?oc=5",
       "published": "2026-09-03T21:56:00",
       "sentiment_score": -0.359,
@@ -387,17 +369,8 @@
       "confidence": 0.86
     },
     {
-      "headline": "OpenAI hails \u2018new era of artificial general intelligence\u2019 with Astra model release",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
-      "published": "2026-09-03T18:24:00",
-      "sentiment_score": 0.106,
-      "sentiment_label": "Neutral",
-      "confidence": 0.869
-    },
-    {
       "headline": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
-      "source": "wired.com",
+      "source": "WIRED",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUtpZFpnSlRCcU9laG9Ndm1VS0pyU0tFNE1CY3B3Nk9GaV9ISzVrOS01VnhnbTVjNVNFc2RESGFCMEszckdSQVZDZjBEVS1Yb00zdzlER2EtUDRPejREZDVYc1AtMGFRTGFndWtoSU02Mi1BLU9iN19YUmxqUXpNZkU2TEZyRDBtNi1sNXFn?oc=5",
       "published": "2026-09-03T18:06:00",
       "sentiment_score": 0.187,
@@ -405,22 +378,13 @@
       "confidence": 0.787
     },
     {
-      "headline": "OpenAI says it has overtaken Anthropic with its latest AI model",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5",
-      "published": "2026-09-03T18:00:11",
-      "sentiment_score": 0.198,
-      "sentiment_label": "Neutral",
-      "confidence": 0.761
-    },
-    {
       "headline": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5",
       "published": "2026-09-03T18:00:02",
-      "sentiment_score": 0.479,
+      "sentiment_score": 0.599,
       "sentiment_label": "Positive",
-      "confidence": 0.499
+      "confidence": 0.613
     },
     {
       "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
@@ -496,7 +460,7 @@
     },
     {
       "headline": "Agentic AI vs. generative AI: The core differences",
-      "source": "Thomson Reuters",
+      "source": "thomsonreuters.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlqYVlXZFV2UUhxazJNSlBEY0NBbmxLOGRnVHRMaXVVOUFxZlV2d2NLTzNHTjVlWFhwc0UxUko4dUV3M2JSNzJ3RkJTaFhnSkh4TF9qQzJ4VXF4RDVYVG5QTTBEQ2xJcmJFNzctSnpSMjcxZ05SMGZGS25lbmFhSDJZck1Ia0JnNUxpZEZ3YnZwNE5tYjFqeW5lZVIyc3VPYlE?oc=5",
       "published": "2026-09-01T07:00:00",
       "sentiment_score": 0.007,
@@ -505,21 +469,12 @@
     },
     {
       "headline": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFl3RjhRbTM3S3FIWG5Gam5pY1gyc3czWmpEcVpqZEtBak9PV1JBUDliUUlJY2otUEY5RHBCeXc3MXdzYVJwR2NEbHNISlVSbF93SGhUR0xGTWRnWUZCOU1GQWVROVlqbXNLRTdWOFUzMC1LSDRIYUVtcTdyem5Za0k3Nm16eHpvMlZUYjlENFFUQm5kN2hCd3l6aTFvYWg20gGmAUFVX3lxTE9meUduZS1qckpvNkd5VlU0aXotTjA5VUtVYWVGTVktQmpVaHBMU3VsMWZxTWo2dGRUTVJIWFZDYmVBeTladkdtMFp0a19NaWxJMWhFb3l2VGpzQ1RWVW5WdkRORXIxVHlybHQzTUF1aWVJbGdnRFhZVFJ5UWdDdEhfT1RxV3BWLWxuTk1ET1d2VGJCekxFYTBQaTl2OGt3Y3lQOFRxYUE?oc=5",
       "published": "2026-08-31T19:30:10",
       "sentiment_score": -0.945,
       "sentiment_label": "Negative",
       "confidence": 0.952
-    },
-    {
-      "headline": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84TTNSWnpWUm4yMnJ5Wkk5aHg1clFxY1A1OHkxcVRiZ25SY01oWk1rN1QtMlVFQ2NpTWZMejVzS2dfaldqcEFiSEhIVUhESHJUZnNZQXRRaUZzUFBWenZVRlFrcnQzV0JwTE94Mm1KckIyQdIBd0FVX3lxTE5QU1lUNWNXX0FrZFFxSnVycUZMSjFVM1pkbWJQMmloVk5PRVE0bWp5a3BzSm1HaVJ1ZFV3MlNBU3pKaFl4WE9DZUhWLWVBTkZvTUlPVU80SXBEWk4wUHFZQmVUanpXTHpfMU80bWtXdHJUMTVJQVBN?oc=5",
-      "published": "2026-08-31T13:00:01",
-      "sentiment_score": -0.315,
-      "sentiment_label": "Negative",
-      "confidence": 0.623
     },
     {
       "headline": "Australia Bans Generative A.I. From Official Music Charts",
