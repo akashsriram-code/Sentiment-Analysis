@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-08T20:30:47.575071",
-  "total_articles": 26,
-  "overall_sentiment": -0.167,
+  "last_updated": "2026-09-09T02:10:42.687974",
+  "total_articles": 33,
+  "overall_sentiment": -0.184,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,40 +14,22 @@
       "moving_avg": 0.007
     },
     {
-      "date": "2026-09-02",
-      "avg_sentiment": 0.087,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.047
-    },
-    {
       "date": "2026-09-03",
-      "avg_sentiment": -0.021,
-      "article_count": 2,
+      "avg_sentiment": -0.158,
+      "article_count": 3,
       "positive_count": 1,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": 0.024
+      "moving_avg": -0.076
     },
     {
       "date": "2026-09-04",
-      "avg_sentiment": -0.515,
-      "article_count": 3,
+      "avg_sentiment": -0.333,
+      "article_count": 4,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.11
-    },
-    {
-      "date": "2026-09-05",
-      "avg_sentiment": -0.879,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.264
+      "neutral_count": 2,
+      "moving_avg": -0.161
     },
     {
       "date": "2026-09-06",
@@ -56,54 +38,156 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.217
+      "moving_avg": -0.117
     },
     {
       "date": "2026-09-07",
-      "avg_sentiment": -0.025,
-      "article_count": 5,
+      "avg_sentiment": -0.018,
+      "article_count": 6,
       "positive_count": 2,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.19
+      "neutral_count": 2,
+      "moving_avg": -0.097
     },
     {
       "date": "2026-09-08",
-      "avg_sentiment": -0.17,
-      "article_count": 11,
-      "positive_count": 5,
-      "negative_count": 5,
-      "neutral_count": 1,
-      "moving_avg": -0.215
+      "avg_sentiment": -0.266,
+      "article_count": 16,
+      "positive_count": 4,
+      "negative_count": 9,
+      "neutral_count": 3,
+      "moving_avg": -0.125
+    },
+    {
+      "date": "2026-09-09",
+      "avg_sentiment": 0.053,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.1
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.235,
-      "article_count": 12,
+      "avg_sentiment": -0.314,
+      "article_count": 13,
       "sentiment_label": "Negative"
     },
     {
-      "source": "reuters.com",
-      "avg_sentiment": -0.017,
+      "source": "The Washington Post",
+      "avg_sentiment": -0.192,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.22,
       "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.393,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": 0.027,
+      "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.518,
+      "source": "The Verge",
+      "avg_sentiment": 0.005,
       "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.429,
-      "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI claims solution to one of math\u2019s $1 million Millennium Prize problems",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazM0eXV1MnZTSHhlcVpCV3FKQnVYem5MMFJ4SkRyTkw1V0pmeWVxQnpDLXhoNmlJN2hMcmd0VHhUREtCN0hfU3V4TlFERExGY0tMa1NYUTNlbU9yUFhEM2l1NUtIQ0pQTHRGN3c3ZmZsZzJoOFlvUFVKQTJSOF9iMDNIM3l1Y0NiWG94OEN1TmcyTmJmY2NkRVJHNWt5c2Jfcm9nZUVVUWxjZzhHWDZMN0w5dWZxMzluclRz?oc=5",
+      "published": "2026-09-09T01:31:47",
+      "sentiment_score": 0.053,
+      "sentiment_label": "Neutral",
+      "confidence": 0.862
+    },
+    {
+      "headline": "Exclusive | Anthropic Researcher Quits Over \u2018Out-of-Control\u2019 AI Fears",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
+      "published": "2026-09-08T23:46:50",
+      "sentiment_score": -0.892,
+      "sentiment_label": "Negative",
+      "confidence": 0.904
+    },
+    {
+      "headline": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08T23:27:23",
+      "sentiment_score": -0.423,
+      "sentiment_label": "Neutral",
+      "confidence": 0.529
+    },
+    {
+      "headline": "Should promotion depend on how workers use AI?",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08T23:05:23",
+      "sentiment_score": -0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
+    },
+    {
+      "headline": "Cognition AI raises $2 billion at $48 billion valuation",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3hsV1U1MTdYTkgwaHJhanppVTU1cUZVLW94amhlM3liQjE1SUVFdnJtRFlvcExWRkI5RURMMllzd1djSlhUT09VTGotRHhFZm1NTmdDTXpEYmdNaVhITU1STXdTSVE3NlhQVVAySTE1WUVhXzZSZzdSUl9DRVlmVWVpaEl0cXR5ZzBjYUZlaDRzbkVfSFllNVJEOWlHQQ?oc=5",
+      "published": "2026-09-08T21:52:55",
+      "sentiment_score": 0.113,
+      "sentiment_label": "Neutral",
+      "confidence": 0.849
+    },
+    {
+      "headline": "OpenAI claims to have solved maths problem that stumped humans for decades",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRktSM0hpSXlkVHhtQi1saTdsMERvYURwXzhrZk5xQzBTTGdBYVAtR2Q2NnBraDBfcDg5TmJmRnFQbkpTekt6dHNCOXBXQTVySkdBUlN4a0ItdWk2MjU4dkdSM2twLUFEN3BKUXdIVm5WbUJ6RG5oNzNBOFVnRGhnNURQR0ZDWWVTQjhhMjhkQ3RrUUFUV2tVSVFqdUJUNWRCLVB1SU4zeEYxZ1l1aFhRaEhnczhaejZ3M0RQU2pXNA?oc=5",
+      "published": "2026-09-08T21:39:00",
+      "sentiment_score": 0.049,
+      "sentiment_label": "Neutral",
+      "confidence": 0.87
+    },
+    {
+      "headline": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+      "published": "2026-09-08T21:31:44",
+      "sentiment_score": -0.827,
+      "sentiment_label": "Negative",
+      "confidence": 0.841
+    },
+    {
+      "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
+      "published": "2026-09-08T21:02:03",
+      "sentiment_score": -0.292,
+      "sentiment_label": "Negative",
+      "confidence": 0.505
+    },
+    {
+      "headline": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5",
+      "published": "2026-09-08T20:57:09",
+      "sentiment_score": -0.161,
+      "sentiment_label": "Neutral",
+      "confidence": 0.66
+    },
     {
       "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
       "source": "The Verge",
@@ -123,22 +207,13 @@
       "confidence": 0.898
     },
     {
-      "headline": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
-      "published": "2026-09-08T19:35:43",
-      "sentiment_score": -0.827,
-      "sentiment_label": "Negative",
-      "confidence": 0.841
-    },
-    {
-      "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "published": "2026-09-08T19:08:06",
-      "sentiment_score": -0.292,
-      "sentiment_label": "Negative",
-      "confidence": 0.505
+      "headline": "Opinion | Why hiding is getting harder \u2014 even for the most vulnerable",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUtFaC1odERLWlh3MDFPdl85OVcyeHh6MVh6VFJXdDl6RWtmVVBPbUVmVkN5YUFSdDRlaGFxelVoMTh2d0ZCRlVaV2hncXpJNkJTdDdhbTRzTFRBOXk0QU9DT0wxb2o2UklzRVR2eFNJZ2RuazZIQzUyRW16SjYwczRzZzNMSmhDbXp0ZGVlaTA1UldTV3YxQUJza19zaVVqX3d5V3hTNjZ1TmJPM2RXbVF3aw?oc=5",
+      "published": "2026-09-08T18:00:00",
+      "sentiment_score": -0.105,
+      "sentiment_label": "Neutral",
+      "confidence": 0.822
     },
     {
       "headline": "New law to force tech firms to stop children taking or sharing nude images",
@@ -151,7 +226,7 @@
     },
     {
       "headline": "OpenAI, New York Times case tees up key test of AI training under copyright law",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5",
       "published": "2026-09-08T16:05:09",
       "sentiment_score": 0.054,
@@ -162,19 +237,10 @@
       "headline": "Exclusive | Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site With Customers",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlp6U3FkM1JYbjNMN3FBbjJjUGt5eTJCaF9qSklnNzUtOFYtTk1taDJkQk1zUU5XelU2MGU3V2djQ0owbk92Y2YzQ3I4WkpqaWJGOGFRVWxQRldiTWpTYnpkZU9jazFKWnVISVVCc1NNVWIyV3NiR2dmWVVYMjNIOXdSbkFjbTBJcGFpU2pmMmN6b1B3aVZiYUNMbWk2U1k5Z0JVeUxwNGI4ZnRCbUEtbGxRVXhHRVFzTmc?oc=5",
-      "published": "2026-09-08T15:36:00",
+      "published": "2026-09-08T12:01:42",
       "sentiment_score": 0.106,
       "sentiment_label": "Neutral",
       "confidence": 0.875
-    },
-    {
-      "headline": "Breakingviews - COMMENTARY: French AI minnow bags surprisingly high valuation",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejNUQU01WWpaNDNpay1qbUtubTYwYXQtSGFVdEREOHFtRDBnY3N5MkZvOE5kendiQ1JNcTdnQ0FPY1AzdkhUTjBPb3FTZHRpT3p3Z3dYXy1yc2RjRmpoaEhZRVdWbTN3bzVOd3VDSWZldDMtQVo3WVQza2hIVDRTQkEzdG0wY1lTcldJTHh3NDF3elJGMXg0S2JSejZWY2gyNF9qaFlUdW41aEd2cm9j?oc=5",
-      "published": "2026-09-08T13:20:50",
-      "sentiment_score": 0.721,
-      "sentiment_label": "Positive",
-      "confidence": 0.745
     },
     {
       "headline": "Gen AI Tools Are Now Being Used to Push \u2018Slop Jihad\u2019",
@@ -186,15 +252,6 @@
       "confidence": 0.87
     },
     {
-      "headline": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5",
-      "published": "2026-09-08T09:17:48",
-      "sentiment_score": 0.242,
-      "sentiment_label": "Neutral",
-      "confidence": 0.72
-    },
-    {
       "headline": "Scammers demand ransoms from Instagram users over fake copyright claims",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
@@ -202,6 +259,15 @@
       "sentiment_score": -0.946,
       "sentiment_label": "Negative",
       "confidence": 0.954
+    },
+    {
+      "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo",
+      "published": "2026-09-07T23:05:12Z",
+      "sentiment_score": 0.018,
+      "sentiment_label": "Neutral",
+      "confidence": 0.713
     },
     {
       "headline": "Opaque recurrence, and other AI terms that you should probably know | TechCrunch",
@@ -233,8 +299,8 @@
     {
       "headline": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
       "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
-      "published": "2026-09-07T12:22:07Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-07T12:22:07",
       "sentiment_score": 0.53,
       "sentiment_label": "Positive",
       "confidence": 0.602
@@ -267,22 +333,13 @@
       "confidence": 0.9
     },
     {
-      "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "published": "2026-09-05T22:51:53Z",
-      "sentiment_score": -0.879,
-      "sentiment_label": "Negative",
-      "confidence": 0.891
-    },
-    {
-      "headline": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemxEa2EtS0tsRlZBa1dDY21WZ25QTEt4b1dUNjhEVFMtOTAzSnRIUms0eUhIOGJCSU9sOU9SR2hoeXZ5UWhrVnVFcng2U1Y5TEdlSDlpaVBzZjEzOUFydXoydXE2S1ZZcW5zVXF6RWY2azhuWEJMR1BLYy1ZRW1yeFNIcTdBRnplUUREQk1zZjE0ZVB2dWc?oc=5",
-      "published": "2026-09-04T17:19:30",
-      "sentiment_score": -0.745,
-      "sentiment_label": "Negative",
-      "confidence": 0.764
+      "headline": "Roland is getting into generative AI music with Melody Flip",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEhyR2pmVGNEOFpnX05Dd2UzOWR1aEtGV3RFVFd4cUxEWl9ZTVJ1UFVEa21nVEVodDh0ektCOEtnTk0tQk5SU0FFMWo4TnJ1dHRod0RhNEdBRDV6QnpZWXNScnlFVk1VVU9NYmFzNEQ5T3FiNnFUR1pRR2F1aGJKZnZxYnJXcWRKd0dTWF9rcw?oc=5",
+      "published": "2026-09-04T17:51:35",
+      "sentiment_score": 0.045,
+      "sentiment_label": "Neutral",
+      "confidence": 0.912
     },
     {
       "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
@@ -303,6 +360,15 @@
       "confidence": 0.796
     },
     {
+      "headline": "Another big school district bans generative AI, this time for all students",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHpJX3V5bG5QVU5wMFZ6WHBTUWc0b1V6a3VkbXRNb0stbGlveEw2MHlsdHd1dktVSVFpamxWaXA1MUlKa2swTDMweW1IQm03dlh3ZDhxUHRNUUdUejgySklUVVpiSExqZnhBblg3VmhtTGl4LXUtNE5GUWItX3g4T1NGa0RFZktITmRqUmNzRUpKTFBMdmxraVJJNk1OSzUxbC1KdFRzWmxmcGVCclUxRnRWVjFUSlFnVjlTQ0pzYw?oc=5",
+      "published": "2026-09-04T03:09:05",
+      "sentiment_score": -0.579,
+      "sentiment_label": "Negative",
+      "confidence": 0.599
+    },
+    {
       "headline": "AI data centres are booming in Australia - but at what cost?",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
@@ -312,22 +378,22 @@
       "confidence": 0.86
     },
     {
-      "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-03T16:32:05",
-      "sentiment_score": 0.773,
+      "headline": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5",
+      "published": "2026-09-03T18:00:02",
+      "sentiment_score": 0.479,
       "sentiment_label": "Positive",
-      "confidence": 0.782
+      "confidence": 0.499
     },
     {
-      "headline": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02T23:36:49",
-      "sentiment_score": 0.087,
+      "headline": "New York City to ban generative AI until high school",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlNTWXFCSEppQTJ2RDN4dTNRTk13TmhBRWdtRU9MekFtb2tpWlgzSlpMdzFfQ2owcVBJc0FxTHZJWXR2YWIzTXNfX1RxNmEzZTlfb1BzUTBfWGJlZVVaaEtiRVFNb09MOXhwUG1SdXB5ZWdpOVQxSVoxcjNqRGhtTGlET3NNbTUzNWpHRlIyWU9faFU5aHBTRTN3YzNQSmRqVTA0Zw?oc=5",
+      "published": "2026-09-03T02:30:00",
+      "sentiment_score": -0.138,
       "sentiment_label": "Neutral",
-      "confidence": 0.887
+      "confidence": 0.806
     },
     {
       "headline": "Agentic AI vs. generative AI: The core differences",
