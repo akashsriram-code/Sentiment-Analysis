@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-13T02:06:43.705660",
-  "total_articles": 36,
-  "overall_sentiment": -0.234,
+  "last_updated": "2026-09-13T10:49:08.431351",
+  "total_articles": 37,
+  "overall_sentiment": -0.275,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,30 +33,21 @@
     },
     {
       "date": "2026-09-04",
-      "avg_sentiment": -0.213,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.185
-    },
-    {
-      "date": "2026-09-06",
-      "avg_sentiment": 0.005,
+      "avg_sentiment": 0.045,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.147
+      "moving_avg": -0.121
     },
     {
       "date": "2026-09-08",
-      "avg_sentiment": -0.316,
-      "article_count": 4,
+      "avg_sentiment": -0.437,
+      "article_count": 3,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.175
+      "neutral_count": 1,
+      "moving_avg": -0.184
     },
     {
       "date": "2026-09-09",
@@ -65,57 +56,75 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.179
+      "moving_avg": -0.186
     },
     {
       "date": "2026-09-10",
-      "avg_sentiment": 0.073,
-      "article_count": 7,
+      "avg_sentiment": 0.018,
+      "article_count": 8,
       "positive_count": 6,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.112
+      "moving_avg": -0.157
     },
     {
       "date": "2026-09-11",
-      "avg_sentiment": -0.378,
-      "article_count": 11,
+      "avg_sentiment": -0.372,
+      "article_count": 8,
       "positive_count": 2,
-      "negative_count": 7,
-      "neutral_count": 2,
-      "moving_avg": -0.167
+      "negative_count": 5,
+      "neutral_count": 1,
+      "moving_avg": -0.154
     },
     {
       "date": "2026-09-12",
-      "avg_sentiment": -0.358,
-      "article_count": 5,
+      "avg_sentiment": -0.523,
+      "article_count": 8,
       "positive_count": 1,
-      "negative_count": 2,
+      "negative_count": 5,
       "neutral_count": 2,
-      "moving_avg": -0.198
+      "moving_avg": -0.229
     },
     {
       "date": "2026-09-13",
-      "avg_sentiment": -0.37,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
+      "avg_sentiment": -0.244,
+      "article_count": 4,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.22
+      "moving_avg": -0.245
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.405,
-      "article_count": 10,
+      "avg_sentiment": -0.408,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.334,
-      "article_count": 6,
+      "avg_sentiment": 0.284,
+      "article_count": 4,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": 0.007,
+      "article_count": 3,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.534,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.565,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
@@ -124,39 +133,66 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.925,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.124,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Washington Post",
-      "avg_sentiment": -0.086,
+      "source": "theguardian.com",
+      "avg_sentiment": -0.179,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": 0.027,
+      "source": "Bloomberg",
+      "avg_sentiment": -0.957,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.409,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.05,
       "article_count": 2,
       "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
+      "headline": "He was close to a $1 million breakthrough. Then OpenAI swooped in.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEU2c2tLazZ6eDhNZThjN2dLOTc1VUx6RmpiclRac3YyZU5UUXd2MGp5aVdhdmJHcng0MlVnZlhPdXg2NW84VDZ4QWtfYmJ4MWVrZnNXQ2VjN0QycXR1YVY1VUNWTEZtN2d3OUtQalZ0VWE4bHRJRVZUVDNwcEU2OGNBdjRSWHdpRXBLcC04OUxZTG44UmpUalRnSUpXVlAtM1NZUUw1SjJpWmFjS3c?oc=5",
+      "published": "2026-09-13T10:05:39",
+      "sentiment_score": 0.192,
+      "sentiment_label": "Neutral",
+      "confidence": 0.75
+    },
+    {
+      "headline": "Every Word My Employee Writes Reeks of A.I.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSmRSQzZ2dUxZWThMZm9HUzF2YUd1bVdPTm5SVjhOV183QXFTWVhnMnFMMWVmQVZQa3FqZEllYzdKNEtja0hXMEpnZnFUQkpnekRCZnlsckhWY1VmZGFqQnpfUWF5aFhrMVFWT3VKbzBidw?oc=5",
+      "published": "2026-09-13T09:03:20",
+      "sentiment_score": -0.409,
+      "sentiment_label": "Neutral",
+      "confidence": 0.542
+    },
+    {
+      "headline": "\u2018Really helpful\u2019: the AI bootcamps aimed at addressing UK youth unemployment",
+      "source": "theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2J4MjNWdUk4c0w2cEp0YTNfaTh3LVB1elgtaXFGRVVXajJFcmYtdGhqR2VuNzVIdFVydXMtdUY5Um5NSU1DOHRJWkdzVTE1R2pfd3h0d3c3bkp5SUc4cVJLdDI5TWlQZHF0bnVIQzgzWEYxd29GUVhPZFRqTTJaalVMMzEzSGk1MEhOZ1hnWWhJZlRYMV9IQ3BFaWV3cEQ3?oc=5",
+      "published": "2026-09-13T09:00:00",
+      "sentiment_score": 0.179,
+      "sentiment_label": "Neutral",
+      "confidence": 0.778
+    },
+    {
       "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13T01:15:04",
-      "sentiment_score": -0.37,
+      "published": "2026-09-13T07:06:41",
+      "sentiment_score": -0.938,
       "sentiment_label": "Negative",
-      "confidence": 0.479
+      "confidence": 0.946
     },
     {
       "headline": "Opinion | Don\u2019t rely on treaties to stop the murderbots",
@@ -169,30 +205,57 @@
     },
     {
       "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-12T21:16:47",
-      "sentiment_score": -0.952,
-      "sentiment_label": "Negative",
-      "confidence": 0.96
-    },
-    {
-      "headline": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
       "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aczlIdEtpNllGU1NEQUZCaDZCS1VFaEVaUnMzSU1OQ0pjQ19sdExRRVhvOWthX2VUWUgxUElDQjJ2Z3V2VGpObHhmckc4SHJXZXVhbUY1eXlmUQ?oc=5",
-      "published": "2026-09-12T17:28:53",
-      "sentiment_score": -0.923,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRjBnT05YelZFQXM0ejVFa0VZUDdYWENTbHowbzJSVmxwZWFpWEw2NFh4NHpjU01Ubi1jM21FQjhfWl82Z3JsczNTQnFIVFpkOWQyTXhQVzlGZw?oc=5",
+      "published": "2026-09-12T21:16:47",
+      "sentiment_score": -0.875,
       "sentiment_label": "Negative",
-      "confidence": 0.938
+      "confidence": 0.885
     },
     {
-      "headline": "I Wanted to Be a Better Human. So I Turned to AI.",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SajRqSURBOFFld1BLWE9TTFpPaVpvSFJOXzl3WjZTM0tmeXdrUlg5dHN3N1d5MjYxWjdubzdtRTBJN1k2ZF9Lc3UwVkljVnlRaXhLaHNDdWVJMUQxanFSMU9mcWJDZw?oc=5",
-      "published": "2026-09-12T17:00:00",
-      "sentiment_score": 0.04,
+      "headline": "\u2018We must slow the pace\u2019: CEO of Anthropic calls for an AI slowdown",
+      "source": "theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcU1YS0xFaGIxT09LRnlVc3AxVWdtZUJrYmxiY3ctc3FxZmVCbWx6LXdxaXZkUWY1TUl4N0xnZ3A3aDA0SmFNZm5xU2hQM0I4YXQ3RHZUeWozQnJxcHJra3ZwNXJ2WEVvTzltSy1ZdHoyMUVRNm1Ua1ZWdWF0TUw1cFpLRmVyUVI2U0dBZV9welJMczBPR1ZWN0RVYkpMTk5BRDY2Q0k5OE81Y1JPM0tmc08wWXc?oc=5",
+      "published": "2026-09-12T20:25:00",
+      "sentiment_score": -0.537,
+      "sentiment_label": "Negative",
+      "confidence": 0.579
+    },
+    {
+      "headline": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "published": "2026-09-12T10:30:00Z",
+      "sentiment_score": -0.917,
+      "sentiment_label": "Negative",
+      "confidence": 0.928
+    },
+    {
+      "headline": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "published": "2026-09-12T10:00:00Z",
+      "sentiment_score": 0.017,
       "sentiment_label": "Neutral",
-      "confidence": 0.915
+      "confidence": 0.911
+    },
+    {
+      "headline": "Oracle to spend an additional $700 million on more job cuts",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+      "published": "2026-09-12T05:12:43Z",
+      "sentiment_score": -0.953,
+      "sentiment_label": "Negative",
+      "confidence": 0.965
+    },
+    {
+      "headline": "Indian stock markets are losing their sheen as global funds exit. Here\u2019s why",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero",
+      "published": "2026-09-12T05:09:00Z",
+      "sentiment_score": -0.961,
+      "sentiment_label": "Negative",
+      "confidence": 0.969
     },
     {
       "headline": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock",
@@ -213,24 +276,6 @@
       "confidence": 0.672
     },
     {
-      "headline": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing \u2018catastrophic\u2019 risk",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/09/11/politics/mike-johnson-house-recess-ai",
-      "published": "2026-09-11T21:38:45Z",
-      "sentiment_score": -0.911,
-      "sentiment_label": "Negative",
-      "confidence": 0.93
-    },
-    {
-      "headline": "OpenAI's feud with mathematicians is only escalating | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "published": "2026-09-11T20:57:36Z",
-      "sentiment_score": -0.919,
-      "sentiment_label": "Negative",
-      "confidence": 0.93
-    },
-    {
       "headline": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
@@ -240,13 +285,13 @@
       "confidence": 0.943
     },
     {
-      "headline": "Kimi-maker Moonshot AI targets $2 billion in annual revenue | TechCrunch",
+      "headline": "Roblox is making it easier to build games with AI \u2014 and play them outside Roblox",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "published": "2026-09-11T19:40:15Z",
-      "sentiment_score": -0.955,
-      "sentiment_label": "Negative",
-      "confidence": 0.966
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjdtYlcySnVSdXpNbmR4bGpkVXNraDlLdzBTeWt3T2hCMnFFTHY0N2gwaVdjUVdhQzB2RXdxZDM3cHBkOV83bkZ6cm50aE91NmtUazJzLTUyaG0ySVdvVVFUZmx3TFdTNFd0QkJFelZFcDFIX2c5RGxHa0sxaXo5aVFHdnlqNmxhMEdFdXVJc1Yxc0pEOEhPVUZZaHV2RkJpaEhDSHZpeUV3amJuUWRVd3ZtZw?oc=5",
+      "published": "2026-09-11T19:00:00",
+      "sentiment_score": 0.084,
+      "sentiment_label": "Neutral",
+      "confidence": 0.888
     },
     {
       "headline": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
@@ -267,15 +312,6 @@
       "confidence": 0.787
     },
     {
-      "headline": "CPI report, Oracle earnings, Trump\u2019s cash promises and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/11/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-09-11T13:06:11Z",
-      "sentiment_score": -0.023,
-      "sentiment_label": "Neutral",
-      "confidence": 0.912
-    },
-    {
       "headline": "Does this AI comic make you laugh?",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
@@ -285,6 +321,15 @@
       "confidence": 0.897
     },
     {
+      "headline": "Opinion | This Is Really Bad",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
+      "published": "2026-09-11T09:02:30",
+      "sentiment_score": -0.824,
+      "sentiment_label": "Negative",
+      "confidence": 0.838
+    },
+    {
       "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
@@ -292,15 +337,6 @@
       "sentiment_score": -0.397,
       "sentiment_label": "Neutral",
       "confidence": 0.52
-    },
-    {
-      "headline": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
-      "published": "2026-09-11T01:53:08Z",
-      "sentiment_score": 0.891,
-      "sentiment_label": "Positive",
-      "confidence": 0.92
     },
     {
       "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
@@ -331,7 +367,7 @@
     },
     {
       "headline": "OpenAI Debuts Financial Tool Tailored to Investment Bankers",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVVxNng0S0JlUmQtaXphVlVhaHlleUJJQUpIRWQwdmdEbmk5aTdGRmVrbl9feWFXYUZ3OTR3b0ZadlRnTXlicEROMWFkLUUtT3FXeVZiWmxFS1ZLTG15LVFlNDR4cHRyYkZNVkl1SER2ZDU2bEx0eFlGWjl2VXp0M1ViS2RGaHVQc1dJNjRNUnV5UzZoOFRVWmc0UmdxMVdEY1ZLOUlXa1lCMDBNT3JEQ2pCbTZHYW01SmwzeUx3?oc=5",
       "published": "2026-09-10T17:30:00",
       "sentiment_score": 0.109,
@@ -346,6 +382,15 @@
       "sentiment_score": 0.102,
       "sentiment_label": "Neutral",
       "confidence": 0.869
+    },
+    {
+      "headline": "Could Your Chatbot Be Stealing Ideas From You? It\u2019s a Thorny Question.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QdVZEY0ktT2RMaGgtRnU4ajlsNEIzNEJhblZjRkh0TzlBVmRUdExlVEhtcmg5dF9yb0N4YWxDSlprbVBoTE16NmhrUVVqM3A5U0ZtOVVSNnJmMnhiU0EzdzFmQlRxVnQ5d0JEdThoX3l3NzBKcU1IYmlB?oc=5",
+      "published": "2026-09-10T14:05:30",
+      "sentiment_score": -0.369,
+      "sentiment_label": "Neutral",
+      "confidence": 0.586
     },
     {
       "headline": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
@@ -402,15 +447,6 @@
       "confidence": 0.909
     },
     {
-      "headline": "OpenAI claims to have solved maths problem that stumped humans for decades",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRktSM0hpSXlkVHhtQi1saTdsMERvYURwXzhrZk5xQzBTTGdBYVAtR2Q2NnBraDBfcDg5TmJmRnFQbkpTekt6dHNCOXBXQTVySkdBUlN4a0ItdWk2MjU4dkdSM2twLUFEN3BKUXdIVm5WbUJ6RG5oNzNBOFVnRGhnNURQR0ZDWWVTQjhhMjhkQ3RrUUFUV2tVSVFqdUJUNWRCLVB1SU4zeEYxZ1l1aFhRaEhnczhaejZ3M0RQU2pXNA?oc=5",
-      "published": "2026-09-08T21:39:00",
-      "sentiment_score": 0.049,
-      "sentiment_label": "Neutral",
-      "confidence": 0.87
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
@@ -418,24 +454,6 @@
       "sentiment_score": -0.887,
       "sentiment_label": "Negative",
       "confidence": 0.898
-    },
-    {
-      "headline": "I\u2019m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
-      "published": "2026-09-06T11:00:00",
-      "sentiment_score": 0.005,
-      "sentiment_label": "Neutral",
-      "confidence": 0.942
-    },
-    {
-      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "published": "2026-09-04T22:02:17",
-      "sentiment_score": -0.472,
-      "sentiment_label": "Negative",
-      "confidence": 0.496
     },
     {
       "headline": "Roland is getting into generative AI music with Melody Flip",
