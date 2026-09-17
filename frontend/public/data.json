@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-17T02:28:21.641131",
-  "total_articles": 44,
-  "overall_sentiment": -0.098,
+  "last_updated": "2026-09-17T10:41:08.328467",
+  "total_articles": 38,
+  "overall_sentiment": -0.081,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,94 +42,172 @@
     },
     {
       "date": "2026-09-14",
-      "avg_sentiment": 0.132,
-      "article_count": 4,
+      "avg_sentiment": 0.192,
+      "article_count": 3,
       "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 3,
-      "moving_avg": -0.237
+      "neutral_count": 2,
+      "moving_avg": -0.225
     },
     {
       "date": "2026-09-15",
-      "avg_sentiment": -0.128,
-      "article_count": 14,
-      "positive_count": 4,
-      "negative_count": 7,
-      "neutral_count": 3,
-      "moving_avg": -0.219
+      "avg_sentiment": -0.114,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 3,
+      "neutral_count": 2,
+      "moving_avg": -0.206
     },
     {
       "date": "2026-09-16",
-      "avg_sentiment": -0.063,
-      "article_count": 17,
-      "positive_count": 4,
-      "negative_count": 8,
+      "avg_sentiment": -0.017,
+      "article_count": 12,
+      "positive_count": 5,
+      "negative_count": 2,
       "neutral_count": 5,
-      "moving_avg": -0.196
+      "moving_avg": -0.179
     },
     {
       "date": "2026-09-17",
-      "avg_sentiment": 0.069,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": -0.188
+      "avg_sentiment": -0.073,
+      "article_count": 8,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 3,
+      "moving_avg": -0.191
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.322,
-      "article_count": 13,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.079,
-      "article_count": 11,
+      "avg_sentiment": -0.406,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": 0.002,
+      "avg_sentiment": 0.12,
       "article_count": 6,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": 0.047,
+      "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.126,
-      "article_count": 5,
+      "source": "CNBC",
+      "avg_sentiment": 0.27,
+      "article_count": 4,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.091,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": 0.028,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.178,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": -0.179,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUE3YTRDUXE4UEcxSGc4VDdtb241MHBPMkhtWHk5a1Qzcm9vOTZuMmlpcUJqX2ZFTF9QU25FSnh2TW5IUWozX1FMSHZ1ck8xUUxEQzlkeUp2aU13VGZidkgxcEgtZlRteEM1OHZMV0V2bHl6b2J6dFJ4bHRfWkMzbjFhMHJvU2NveTNjU1ZaeU5oREtYcE83aC1pQXllekdjUWpzcnZmaDBqQUF0N282Zm10a3VxdVBS?oc=5",
+      "published": "2026-09-17T10:22:21",
+      "sentiment_score": -0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.838
+    },
+    {
+      "headline": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-17T09:18:57",
+      "sentiment_score": -0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.851
+    },
+    {
+      "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-17T08:22:12",
+      "sentiment_score": -0.482,
+      "sentiment_label": "Negative",
+      "confidence": 0.568
+    },
+    {
       "headline": "The dominance of AI is not inevitable. We can choose to change things for the better | Nick Evershed",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdVJBWmptSHdmVklTbEFMdHVicTV2WkxXU1I2cHlzNE04ZVNHbTcxcjZsNkhNTklxTjRnbkFlWVppcUN6WG41UFRZd0tSRUJQLWlveHo4UFprY0VsXzhtYXJYY3lpaXZaNTRwZzBxc1pra3l6WFVwbC03b3ZJclFRS2ktWHNMalBudXRqYjktczV6M3lzYkZxZDR4cUp3TFpLZ3JIVERySTBQcWtTbHBPdG5VVnlsQXlf?oc=5",
-      "published": "2026-09-17T01:27:56",
+      "published": "2026-09-17T06:46:00",
       "sentiment_score": 0.069,
       "sentiment_label": "Neutral",
       "confidence": 0.895
     },
     {
-      "headline": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-16T23:41:57",
-      "sentiment_score": 0.723,
+      "headline": "AI machine 'helps save 25 million Lego bricks from landfill'",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcXlrNHR0RHhqQjdFNmRrOUFRMFUzYzBfcnNHeG1tcHRpVXIzWVZfVXRYb0ttTURqc1l6bGFBYmVoLXNfaTV6VUFzX0ZrVEpZSURJWWF1TlY2N1k?oc=5",
+      "published": "2026-09-17T05:34:21",
+      "sentiment_score": 0.192,
+      "sentiment_label": "Neutral",
+      "confidence": 0.777
+    },
+    {
+      "headline": "OpenAI sets plan to disclose safety incidents and reveals more issues",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04a0xFemRKV1NUR2NlU0VSeU1zdFJMX2MwdV9LMUpMcmdyd0x2LTdYMmVFU0prbWFGSlJlRjd2UDBJdkdmUXRSeDB5T0JMMU9YdHNRVzdtSEN2ZTQ?oc=5",
+      "published": "2026-09-17T03:09:21",
+      "sentiment_score": -0.022,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
+    {
+      "headline": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
+      "published": "2026-09-17T02:40:00",
+      "sentiment_score": 0.149,
       "sentiment_label": "Positive",
-      "confidence": 0.732
+      "confidence": 0.385
+    },
+    {
+      "headline": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
+      "published": "2026-09-17T00:12:24",
+      "sentiment_score": -0.409,
+      "sentiment_label": "Neutral",
+      "confidence": 0.511
     },
     {
       "headline": "Would you buy branded clothing from your favourite tech firm?",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-16T23:18:47",
-      "sentiment_score": 0.05,
+      "sentiment_score": 0.051,
       "sentiment_label": "Neutral",
-      "confidence": 0.924
+      "confidence": 0.923
     },
     {
       "headline": "Apple\u2019s Cook, OpenAI CEO to Attend Trump Dinner With Xi",
@@ -139,33 +217,6 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.911
-    },
-    {
-      "headline": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnJFRzVYYTQtWnJIX3RZV2tpa0VLM0g3SmVMbXdFSDQzODhNcmdidk50c1FyeTdBbkJKcVhxbS1qaVRMQXdBWk1lOFR5VF9TU0FRN2JrUTVJQ3FtNzR0TE1Jb3F5Q0pDYUI1WXhoNGtYdVVKYnRrZWJTS3BlLXFsQmNvUGRPM2ZEX183b19Cd0R4dnh6MzRubHRvdkQtV25HQlHSAacBQVVfeXFMUHMwbmllN0J6dk9zMVRZblEzOFRMS2YwTWY0Y2hUSllVSXU0eWkxcUoyQzFzMmswQ01xNzhET1Y4cDZhZkpHY1hPY1Z3Y00xUVpHb0FESXA4ckNSNmwyZmZJcnBQaXBjQXpEWmlUOEwyN2ZnOTc5OUJKVFpSVWp0cml6eTQyUWJFV3Vyb1gzY1QxU2hQT1lQb2FWTktrdElMbEhHcGljcW8?oc=5",
-      "published": "2026-09-16T22:45:16",
-      "sentiment_score": -0.526,
-      "sentiment_label": "Negative",
-      "confidence": 0.561
-    },
-    {
-      "headline": "Do AI companies have to disclose dangerous incidents?",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjhWYTgzbzRiRUJ1WVlndUlucW91Rk53ZnpIZ1RmOUVaanp0U3ZEN2FXa08ta25xWlJKd0ptWUt1RTEzZXZaSXRRbUlLLXI2Q2JjVlR0dmdQTTFQNmtoTXV2T2hhOVBUeFktNjZCZmM1M0I5RHE1Qk1kT3N3Rzd6Z0dzOWNzOGRWLXpPaW02R19xTFFCWmJ3VjBta25pVnhMSVRzdA?oc=5",
-      "published": "2026-09-16T20:24:54",
-      "sentiment_score": -0.133,
-      "sentiment_label": "Neutral",
-      "confidence": 0.828
-    },
-    {
-      "headline": "Trump adviser Sacks says AI fears driven by 'fear-mongering playbook'",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemEtc1lCaUxzdHhLbzkyQ3JDeUR2ZzJza2ZIX1pQWEJWN2I4b2hvRXpmcmNSZTZucGhVN2Vlek1GRXU0dV93YUJHQmo3WmMzOUVZSWhvbU1zN2EzWVlkSEVwcGlfV2tFYlBfTVZUSW5BUGdiNWQyTVB1b1VjTVYxM2o2cUZfOEFicDJRVGxfT3N6WnpYcUo0cEluYTNac2NqRTk2Q0xPTVNQQ2g2czQxeDN0Zm5xeHY0ektFZQ?oc=5",
-      "published": "2026-09-16T18:52:20",
-      "sentiment_score": -0.456,
-      "sentiment_label": "Negative",
-      "confidence": 0.488
     },
     {
       "headline": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
@@ -186,6 +237,15 @@
       "confidence": 0.852
     },
     {
+      "headline": "How a fringe AI movement convinced Washington the end is near",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHlzQkZTYTR2VnNCaU9wYU5OUURIWWpyWEFuQ2VqRUdMbkdVQkNlSy1IUmhkcURKS3ZiOTBPcVV2V2R0S0pnaEJjek1zQ0ZGeXdQczZWTjhtbHFhNHUySUJEUldOZ2d0TFdJMUVZNHhoMVpSODAxaW5UN1BWTWlFV3lJRmJVVE11S3ZXWld6eHlXOXdQQVVlaE9zOUF1enNiTlZBYWZZRDRvOF83aWlMXzBKNWs4VHpObGc?oc=5",
+      "published": "2026-09-16T16:00:00",
+      "sentiment_score": -0.015,
+      "sentiment_label": "Neutral",
+      "confidence": 0.829
+    },
+    {
       "headline": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdzBSSTlvNXJRRXplQlhuWUlTV2NDS3pKOHdpV3Q5YnRRZ21XT3RrT0ExVkhmbFlkaWZMM3R1LUJybTVvMm1GOEluTS16ODZRVUl6VVlkbE5OaXFQY3Y5NWw1RVh3cGZ0VVdveDVIVFhNWVhsNDZ0aXVhQzEyeWlpOVVyLVpCMTNiSkhQVVp2R2ExWXlJUVhRamtEV3ZtVkJTR2lvM0R3RW0tVW5vQmhuTm9uMUtyYWlEdWdwNUNQaTIxdkxZeTZB?oc=5",
@@ -195,31 +255,40 @@
       "confidence": 0.546
     },
     {
-      "headline": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-16T14:16:14",
-      "sentiment_score": -0.634,
-      "sentiment_label": "Negative",
-      "confidence": 0.669
-    },
-    {
-      "headline": "A.I. CEO Ankit Jain weighs in on Artificial Intelligence regulation and safety concerns",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDlRVmxaTXRNNjlhZVJNSDhxOENQTGI2NzJOZldTZnA3Q0tmTTVhc01yaXVjY1JfMk1Ja1l6Nm9SNzVaUnhTajBDZFdpazFZZUtPVENhRTQ2ZnRVN3dFWnpnbTREdDZ1MUhPVko3d3AzUGttbDBTbWpORmV1aThqX292ekJNNWRsRmxwdmUwNHEwRHl3RkYyTWg1WEdPa0p6M0U5d3RFUHc2aWhYOWs2R1NvbEhyWkxidXRtb0J2cFd1TkRH?oc=5",
-      "published": "2026-09-16T14:09:10",
-      "sentiment_score": -0.432,
-      "sentiment_label": "Negative",
-      "confidence": 0.48
-    },
-    {
       "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
       "published": "2026-09-16T10:02:05",
-      "sentiment_score": -0.447,
+      "sentiment_score": 0.069,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
+      "headline": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+      "published": "2026-09-16T04:01:59Z",
+      "sentiment_score": -0.554,
       "sentiment_label": "Negative",
-      "confidence": 0.511
+      "confidence": 0.575
+    },
+    {
+      "headline": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV9IX3ktTl80WGZGR2w5enR5QmZUS0tYLU5qM0VkLTZ0MUtBNC1tWktUXzFOTl9hQVVtaVk5SE15VFVIdnc4ZlhVTTU4bGtiUGVLMlVyU0NSTFZ0a3YtM1NLRGJ6QUhfVXhaUmNub200SGs1VFpvOFo0Y2lNS2c?oc=5",
+      "published": "2026-09-16T04:01:30",
+      "sentiment_score": 0.053,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
+      "headline": "Stocks, bonds hold ground before Fed; oil slips: Markets wrap",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
+      "published": "2026-09-16T03:52:48Z",
+      "sentiment_score": -0.898,
+      "sentiment_label": "Negative",
+      "confidence": 0.943
     },
     {
       "headline": "OpenAI weighing funding round at over $1.2 trillion valuation",
@@ -231,24 +300,6 @@
       "confidence": 0.55
     },
     {
-      "headline": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
-      "published": "2026-09-16T01:56:47Z",
-      "sentiment_score": -0.121,
-      "sentiment_label": "Neutral",
-      "confidence": 0.801
-    },
-    {
-      "headline": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/16/cnbc-daily-open-is-ai-safe-industry-leaders-and-trump-disagree.html",
-      "published": "2026-09-16T01:42:51Z",
-      "sentiment_score": -0.731,
-      "sentiment_label": "Negative",
-      "confidence": 0.766
-    },
-    {
       "headline": "We don't need AI regulation \u2014 leave safety to us, Nvidia's Jensen Huang says | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -256,15 +307,6 @@
       "sentiment_score": 0.004,
       "sentiment_label": "Neutral",
       "confidence": 0.938
-    },
-    {
-      "headline": "House to vote on bill to rein in AI data center utility costs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-      "published": "2026-09-16T00:14:21Z",
-      "sentiment_score": 0.54,
-      "sentiment_label": "Positive",
-      "confidence": 0.568
     },
     {
       "headline": "AI app ads promoting 'objectification of women' banned by watchdog",
@@ -276,40 +318,13 @@
       "confidence": 0.509
     },
     {
-      "headline": "Salesforce CEO Marc Benioff joins growing chorus of tech leaders warning about AI risks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/15/salesforce-marc-benioff-ai-risks.html",
-      "published": "2026-09-15T22:31:45Z",
-      "sentiment_score": 0.497,
-      "sentiment_label": "Positive",
-      "confidence": 0.539
-    },
-    {
-      "headline": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html",
-      "published": "2026-09-15T22:13:52Z",
-      "sentiment_score": -0.916,
-      "sentiment_label": "Negative",
-      "confidence": 0.933
-    },
-    {
-      "headline": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o",
-      "published": "2026-09-15T22:13:10Z",
-      "sentiment_score": -0.256,
+      "headline": "AI models chatting in \u2018surreal\u2019 dialect mixing poetic language and tech bro jargon",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNekxRWVI4d3pDbGhDMnUtVlNRYXVzWHVzcEJ2dlBBNlBmZ2JGQWFkTFM2TWlYQW1GOXBuZWRWbndSR0doZFpXTTJjczIxd0hqUVhfVlZzakhfWnZFOFQxMGZCMkNEcnhWUDlhTGlkQ1hXaEpyN1Nta1A3YW81R3g1OUYtZEFaeHZVbG1JV2JTR0FlOVNKX0FyRHhmMjMtYTlvelNHVk11RXAyS2pEVE5TQVB3?oc=5",
+      "published": "2026-09-15T23:00:00",
+      "sentiment_score": -0.014,
       "sentiment_label": "Neutral",
-      "confidence": 0.579
-    },
-    {
-      "headline": "Inside OpenAI\u2019s Ad Rush",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBeU5YQ2gyVVBIaUh1cWc4bFo2M3FXNVRxeFg2bkdUa0Fwd0dwYjluR1dvc1RGZHdtRXZ1ZHNZc2I2V1A5U1I1WFlhUjYwQlM0TzBZMEotZW9tdkF2UmVLb0lwY3JFREpIbmo2bmlPWC1fdWpv?oc=5",
-      "published": "2026-09-15T22:00:00",
-      "sentiment_score": 0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.921
+      "confidence": 0.913
     },
     {
       "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup | TechCrunch",
@@ -319,24 +334,6 @@
       "sentiment_score": 0.055,
       "sentiment_label": "Neutral",
       "confidence": 0.921
-    },
-    {
-      "headline": "Two camps have emerged in the debate over AI safety and regulation",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
-      "published": "2026-09-15T20:12:00Z",
-      "sentiment_score": -0.349,
-      "sentiment_label": "Negative",
-      "confidence": 0.451
-    },
-    {
-      "headline": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-      "published": "2026-09-15T20:00:16Z",
-      "sentiment_score": -0.893,
-      "sentiment_label": "Negative",
-      "confidence": 0.904
     },
     {
       "headline": "Tech Life",
@@ -375,24 +372,6 @@
       "confidence": 0.64
     },
     {
-      "headline": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "published": "2026-09-15T15:37:09Z",
-      "sentiment_score": 0.87,
-      "sentiment_label": "Positive",
-      "confidence": 0.881
-    },
-    {
-      "headline": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "published": "2026-09-15T14:42:37Z",
-      "sentiment_score": 0.033,
-      "sentiment_label": "Neutral",
-      "confidence": 0.928
-    },
-    {
       "headline": "Generative AI will create huge value to enterprises and people, says Broadcom CEO Hock Tan",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQm9PUG5UaGtCUTBhcDQxUG1PYkJwWXlZdmF4OGVwbXJyU2VzNVpaSHJLUjNrX3RPMDY5aHlqMDRieEM5QUVqbEtMdFZ3SFBDR3JVT0V4cGRDUFA1R2gxLU1NMDU3M19qS1RNTXhfTVFpTFprNHdzWmVONUZadEJqZndMeEY1WGxBcW1LZmdLRzJaSld4ZDVCbzhCVGlHREc1Uk95R0t6b2FHYWdEME9VT1htVENEUHJERm12UlMxbHV2VnJidy1fS0lJVFQ?oc=5",
@@ -418,15 +397,6 @@
       "sentiment_score": -0.015,
       "sentiment_label": "Neutral",
       "confidence": 0.844
-    },
-    {
-      "headline": "Why are there concerns AI could threaten humanity, and how real are they?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-14T12:00:08",
-      "sentiment_score": -0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.851
     },
     {
       "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -493,7 +463,7 @@
     },
     {
       "headline": "Agentic AI vs. generative AI: The core differences",
-      "source": "thomsonreuters.com",
+      "source": "Thomson Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlqYVlXZFV2UUhxazJNSlBEY0NBbmxLOGRnVHRMaXVVOUFxZlV2d2NLTzNHTjVlWFhwc0UxUko4dUV3M2JSNzJ3RkJTaFhnSkh4TF9qQzJ4VXF4RDVYVG5QTTBEQ2xJcmJFNzctSnpSMjcxZ05SMGZGS25lbmFhSDJZck1Ia0JnNUxpZEZ3YnZwNE5tYjFqeW5lZVIyc3VPYlE?oc=5",
       "published": "2026-09-01T07:00:00",
       "sentiment_score": 0.007,
