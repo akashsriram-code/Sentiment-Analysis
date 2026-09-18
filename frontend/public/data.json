@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-17T20:46:51.654434",
-  "total_articles": 34,
-  "overall_sentiment": -0.071,
-  "overall_label": "Negative",
+  "last_updated": "2026-09-18T02:13:22.564308",
+  "total_articles": 44,
+  "overall_sentiment": -0.008,
+  "overall_label": "Neutral",
   "daily_stats": [
     {
       "date": "2026-09-10",
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-09-13",
-      "avg_sentiment": -0.726,
-      "article_count": 3,
+      "avg_sentiment": -0.619,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 3,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.115
+      "moving_avg": -0.062
     },
     {
       "date": "2026-09-14",
@@ -29,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": -0.088
+      "moving_avg": -0.052
     },
     {
       "date": "2026-09-15",
@@ -38,55 +38,64 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.12
+      "moving_avg": -0.094
     },
     {
       "date": "2026-09-16",
-      "avg_sentiment": 0.176,
-      "article_count": 12,
-      "positive_count": 6,
-      "negative_count": 2,
-      "neutral_count": 4,
-      "moving_avg": -0.061
+      "avg_sentiment": 0.192,
+      "article_count": 20,
+      "positive_count": 10,
+      "negative_count": 5,
+      "neutral_count": 5,
+      "moving_avg": -0.037
     },
     {
       "date": "2026-09-17",
       "avg_sentiment": -0.218,
-      "article_count": 13,
-      "positive_count": 2,
+      "article_count": 15,
+      "positive_count": 3,
       "negative_count": 8,
-      "neutral_count": 3,
-      "moving_avg": -0.087
+      "neutral_count": 4,
+      "moving_avg": -0.067
+    },
+    {
+      "date": "2026-09-18",
+      "avg_sentiment": -0.162,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.08
     }
   ],
   "source_stats": [
     {
-      "source": "BBC News",
-      "avg_sentiment": -0.347,
+      "source": "CNBC",
+      "avg_sentiment": 0.344,
       "article_count": 12,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "BBC News",
+      "avg_sentiment": -0.288,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.231,
+      "avg_sentiment": 0.217,
       "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.436,
-      "article_count": 4,
-      "sentiment_label": "Positive"
+      "source": "CNN",
+      "avg_sentiment": -0.211,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.045,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.261,
+      "avg_sentiment": -0.142,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -97,21 +106,45 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "BBC",
-      "avg_sentiment": -0.038,
+      "source": "The New York Times",
+      "avg_sentiment": -0.178,
       "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": -0.426,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "OpenAI staff knew the \u2018existential threat\u2019 AI posed to publishers, New York Times claims",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEtpTlVSUFdPenM4ZXNSeDBtMjJkeTBqZTZ1Uy14ZXZQSkg3bHhMWG5Pd2VJWmYxZGpjWG15R0NWcWM2MU1JcE9pSktlYXBNV1hRWGFCbC1zclRoX2U0a0JYXzVaVnVxNFlXSENaZThIN2RQZ3E2WFRqeldXX0RxSFdRZ2M?oc=5",
-      "published": "2026-09-17T18:09:19",
-      "sentiment_score": -0.314,
+      "headline": "Exclusive | Hackers Used Anthropic\u2019s Claude to Break Into OpenAI",
+      "source": "wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
+      "published": "2026-09-18T01:00:00",
+      "sentiment_score": -0.162,
       "sentiment_label": "Neutral",
-      "confidence": 0.619
+      "confidence": 0.767
+    },
+    {
+      "headline": "The virtual worlds where robots are trained",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-17T23:00:47",
+      "sentiment_score": 0.09,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
+      "headline": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "source": "Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeC1pTVBJVFk2cDRKdUdJZWlHVnkzX2lXX2FxUzJmdlhHT0dvai1XT3BwaThsRHdrMVQySlRCMzhhU25aeXRibFMtMzhmNnJFeno2VkV4dWg2TF9rRE5oMHkzSEV4eHZ6M3FNNG1WYXBkVml4TGlFXzhDQXRKTHpvS1FjZi1wSnV5X0V5R1VsRXV5aWx5alhCbFhMSms4RXlyNUJEY21lMnI2VXFmUThBWW5n?oc=5",
+      "published": "2026-09-17T22:12:58",
+      "sentiment_score": 0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
     },
     {
       "headline": "King Charles warns tech leaders of 'existential dangers' from AI",
@@ -121,15 +154,6 @@
       "sentiment_score": -0.82,
       "sentiment_label": "Negative",
       "confidence": 0.838
-    },
-    {
-      "headline": "Bots Behaving Badly? New York Wants to Hear From A.I. Whistle-Blowers.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnZhM1RZaW94TDlBV0NYdzJPQzZZNDNjTjRmTDVuYUpKNkpxUWJCUkplUjY5b0hvcHZfOXhkMEphcjlsMTlzNWxKZ2plWFVJVXcwSnhNQ2VNVXU2VTNESXNMR0M5VnJWNDduYVV3aFFLTVRscTRNQUF2aTRtTHlCTm8tdE9EenFyZi13ZUVCZkNGRDgzMldaajlmYnc?oc=5",
-      "published": "2026-09-17T15:50:04",
-      "sentiment_score": -0.113,
-      "sentiment_label": "Neutral",
-      "confidence": 0.797
     },
     {
       "headline": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl",
@@ -195,22 +219,40 @@
       "confidence": 0.799
     },
     {
-      "headline": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04a0xFemRKV1NUR2NlU0VSeU1zdFJMX2MwdV9LMUpMcmdyd0x2LTdYMmVFU0prbWFGSlJlRjd2UDBJdkdmUXRSeDB5T0JMMU9YdHNRVzdtSEN2ZTQ?oc=5",
-      "published": "2026-09-17T03:09:21",
-      "sentiment_score": -0.026,
+      "headline": "OpenAI says it found more instances of AI models acting deceptively | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/09/16/tech/ai-models-acting-deceptively-openai",
+      "published": "2026-09-17T01:33:04Z",
+      "sentiment_score": 0.036,
       "sentiment_label": "Neutral",
-      "confidence": 0.891
+      "confidence": 0.901
     },
     {
-      "headline": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
-      "published": "2026-09-17T02:40:00",
-      "sentiment_score": 0.149,
-      "sentiment_label": "Positive",
-      "confidence": 0.385
+      "headline": "CNBC Daily Open: The Fed rate hikes might not be one-and-done",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/17/cnbc-daily-open-fed-rate-hike-oil-eu-canada.html",
+      "published": "2026-09-17T01:21:04Z",
+      "sentiment_score": 0.123,
+      "sentiment_label": "Neutral",
+      "confidence": 0.796
+    },
+    {
+      "headline": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "published": "2026-09-17T00:55:35Z",
+      "sentiment_score": -0.426,
+      "sentiment_label": "Negative",
+      "confidence": 0.536
+    },
+    {
+      "headline": "Trump says Canada becoming 'associate member' of EU could be a 'hostile act'",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/09/15/americas/canada-mark-carney-eu-trump-hnk",
+      "published": "2026-09-17T00:53:13Z",
+      "sentiment_score": -0.57,
+      "sentiment_label": "Negative",
+      "confidence": 0.641
     },
     {
       "headline": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
@@ -222,58 +264,130 @@
       "confidence": 0.511
     },
     {
+      "headline": "I wore Snap\u2019s $2,200 smart glasses",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "published": "2026-09-16T23:49:27Z",
+      "sentiment_score": -0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.921
+    },
+    {
+      "headline": "Al Gore has a surprisingly calm take on the AI data center backlash | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "published": "2026-09-16T23:43:09Z",
+      "sentiment_score": -0.242,
+      "sentiment_label": "Neutral",
+      "confidence": 0.64
+    },
+    {
+      "headline": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
+      "published": "2026-09-16T23:40:05Z",
+      "sentiment_score": 0.57,
+      "sentiment_label": "Positive",
+      "confidence": 0.578
+    },
+    {
       "headline": "Would you buy branded clothing from your favourite tech firm?",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-16T23:18:47",
-      "sentiment_score": 0.051,
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo",
+      "published": "2026-09-16T23:18:47Z",
+      "sentiment_score": 0.05,
       "sentiment_label": "Neutral",
-      "confidence": 0.923
+      "confidence": 0.924
     },
     {
-      "headline": "I Trained a Fly\u2019s Brain to Generate WIRED Story Ideas",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-      "published": "2026-09-16T19:00:00Z",
-      "sentiment_score": 0.034,
-      "sentiment_label": "Neutral",
-      "confidence": 0.905
-    },
-    {
-      "headline": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
+      "headline": "Cramer bets AI spending will 'continue apace,' says he's not giving up on data center trade",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
-      "published": "2026-09-16T18:35:21Z",
-      "sentiment_score": 0.052,
-      "sentiment_label": "Neutral",
-      "confidence": 0.908
+      "link": "https://www.cnbc.com/2026/09/16/cramer-ai-slowdown-stocks-dip.html",
+      "published": "2026-09-16T23:00:33Z",
+      "sentiment_score": -0.012,
+      "sentiment_label": "Negative",
+      "confidence": 0.42
     },
     {
-      "headline": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "published": "2026-09-16T18:28:51Z",
-      "sentiment_score": -0.052,
-      "sentiment_label": "Neutral",
-      "confidence": 0.909
-    },
-    {
-      "headline": "US dictionary adds 1,400 words, including neckbeard, trash panda and cuffing season",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cj1dlkydv7ezo",
-      "published": "2026-09-16T18:14:25Z",
-      "sentiment_score": 0.027,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
-    },
-    {
-      "headline": "Fed approves interest rate hike, signals one more to come this year",
+      "headline": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-      "published": "2026-09-16T18:06:48Z",
-      "sentiment_score": 0.7,
+      "link": "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html",
+      "published": "2026-09-16T22:52:20Z",
+      "sentiment_score": 0.93,
       "sentiment_label": "Positive",
-      "confidence": 0.753
+      "confidence": 0.948
+    },
+    {
+      "headline": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
+      "published": "2026-09-16T22:49:25Z",
+      "sentiment_score": 0.23,
+      "sentiment_label": "Neutral",
+      "confidence": 0.697
+    },
+    {
+      "headline": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+      "published": "2026-09-16T22:46:28Z",
+      "sentiment_score": -0.07,
+      "sentiment_label": "Neutral",
+      "confidence": 0.747
+    },
+    {
+      "headline": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "published": "2026-09-16T22:07:24Z",
+      "sentiment_score": -0.237,
+      "sentiment_label": "Neutral",
+      "confidence": 0.66
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
+      "published": "2026-09-16T22:02:26Z",
+      "sentiment_score": 0.88,
+      "sentiment_label": "Positive",
+      "confidence": 0.903
+    },
+    {
+      "headline": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html",
+      "published": "2026-09-16T21:35:10Z",
+      "sentiment_score": -0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.854
+    },
+    {
+      "headline": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+      "published": "2026-09-16T21:18:45Z",
+      "sentiment_score": 0.926,
+      "sentiment_label": "Positive",
+      "confidence": 0.939
+    },
+    {
+      "headline": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent? | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "published": "2026-09-16T21:07:24Z",
+      "sentiment_score": 0.124,
+      "sentiment_label": "Neutral",
+      "confidence": 0.848
+    },
+    {
+      "headline": "Washington Won't Be Regulating AI Anytime Soon",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "published": "2026-09-16T21:00:00Z",
+      "sentiment_score": -0.616,
+      "sentiment_label": "Negative",
+      "confidence": 0.655
     },
     {
       "headline": "Your AI agents can now control your Google Home devices | TechCrunch",
@@ -283,15 +397,6 @@
       "sentiment_score": 0.317,
       "sentiment_label": "Neutral",
       "confidence": 0.664
-    },
-    {
-      "headline": "Anthropic merges Claude chat and Cowork in one interface | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "published": "2026-09-16T16:32:03Z",
-      "sentiment_score": 0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.938
     },
     {
       "headline": "Nvidia\u2019s Les Karpas joins the agenda lineup at\u00a0Disrupt 2026 | TechCrunch",
@@ -328,6 +433,15 @@
       "sentiment_score": -0.447,
       "sentiment_label": "Negative",
       "confidence": 0.511
+    },
+    {
+      "headline": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV9IX3ktTl80WGZGR2w5enR5QmZUS0tYLU5qM0VkLTZ0MUtBNC1tWktUXzFOTl9hQVVtaVk5SE15VFVIdnc4ZlhVTTU4bGtiUGVLMlVyU0NSTFZ0a3YtM1NLRGJ6QUhfVXhaUmNub200SGs1VFpvOFo0Y2lNS2c?oc=5",
+      "published": "2026-09-16T04:01:30",
+      "sentiment_score": 0.053,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
     },
     {
       "headline": "AI app ads promoting 'objectification of women' banned by watchdog",
@@ -382,15 +496,6 @@
       "sentiment_score": -0.382,
       "sentiment_label": "Neutral",
       "confidence": 0.507
-    },
-    {
-      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13T14:53:40",
-      "sentiment_score": -0.938,
-      "sentiment_label": "Negative",
-      "confidence": 0.946
     },
     {
       "headline": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
