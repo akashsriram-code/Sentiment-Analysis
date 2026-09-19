@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-19T09:58:51.339731",
-  "total_articles": 40,
-  "overall_sentiment": -0.119,
+  "last_updated": "2026-09-19T15:03:49.695671",
+  "total_articles": 52,
+  "overall_sentiment": -0.17,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,66 +51,90 @@
     },
     {
       "date": "2026-09-17",
-      "avg_sentiment": -0.182,
-      "article_count": 9,
+      "avg_sentiment": -0.312,
+      "article_count": 12,
       "positive_count": 3,
-      "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.004
-    },
-    {
-      "date": "2026-09-18",
-      "avg_sentiment": -0.159,
-      "article_count": 17,
-      "positive_count": 4,
-      "negative_count": 10,
+      "negative_count": 6,
       "neutral_count": 3,
       "moving_avg": -0.026
     },
     {
+      "date": "2026-09-18",
+      "avg_sentiment": -0.176,
+      "article_count": 21,
+      "positive_count": 5,
+      "negative_count": 11,
+      "neutral_count": 5,
+      "moving_avg": -0.047
+    },
+    {
       "date": "2026-09-19",
-      "avg_sentiment": -0.383,
-      "article_count": 3,
-      "positive_count": 0,
-      "negative_count": 2,
+      "avg_sentiment": -0.265,
+      "article_count": 8,
+      "positive_count": 1,
+      "negative_count": 6,
       "neutral_count": 1,
-      "moving_avg": -0.082
+      "moving_avg": -0.086
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.235,
-      "article_count": 10,
+      "avg_sentiment": -0.214,
+      "article_count": 9,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.088,
+      "article_count": 8,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.084,
+      "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.101,
-      "article_count": 5,
+      "avg_sentiment": -0.209,
+      "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.071,
+      "source": "Wired",
+      "avg_sentiment": -0.206,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "bbc.com",
-      "avg_sentiment": 0.034,
+      "source": "BBC",
+      "avg_sentiment": -0.217,
       "article_count": 3,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.089,
+      "source": "The New York Times",
+      "avg_sentiment": -0.437,
       "article_count": 3,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     },
     {
       "source": "WSJ",
       "avg_sentiment": -0.226,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": -0.609,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.058,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
@@ -121,31 +145,67 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.123,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "CNN",
       "avg_sentiment": -0.311,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.197,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "cnbc.com",
-      "avg_sentiment": 0.496,
-      "article_count": 2,
-      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "Exclusive | Hackers Used Anthropic\u2019s Claude to Break Into OpenAI",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
+      "published": "2026-09-19T14:58:13",
+      "sentiment_score": -0.162,
+      "sentiment_label": "Neutral",
+      "confidence": 0.767
+    },
+    {
+      "headline": "Opinion | This well-meaning ideology fueling AI panic has a dark side",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlo2d29UWE02bEh0UV9CQXp0eFZUd00yTzkxbE53cEQ2cnpjVEJCUE55aHJlQkZ5bmw3cFhadzV1M18wZFJpM3AzZ1p6cDVCOUM0TTV0RFZyZWQtc3NzLUhnb2VXWTRIYXBFSE84MkJVcVdFa3pJZVVzTXNyR2ZpQ2tWbU9sdm5hZHhUcEZPTXN5ZTQ3b3ZR?oc=5",
+      "published": "2026-09-19T14:32:32",
+      "sentiment_score": -0.535,
+      "sentiment_label": "Negative",
+      "confidence": 0.562
+    },
+    {
+      "headline": "Google's Gemini AI hacked three companies in security test",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ25WNU1mQW41eU9JajRkSzl3M3NNSVJ3dVM4TmRzZTByWm84clhCYWpXZzJuTGE0LWpBUERxWXNuQVhiSHhabGlBOGFrWVZNaVA0U21nbExmOW8?oc=5",
+      "published": "2026-09-19T13:39:32",
+      "sentiment_score": -0.794,
+      "sentiment_label": "Negative",
+      "confidence": 0.81
+    },
+    {
+      "headline": "IMF tells EU ministers AI could boost growth but increase economic strains",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2lXSXpMMndMb252WEs4QzA5enZuMFJQWm03MnV5TlgxM0Z6dm1ZZGYzdEk1OUplWjFuYTdUMGxLUlpfSkZ2SWNuUWJEaVpPWmpSV3ZPUW94NHNrZzdsYVN6ZzJaTVdhZVFiUnpiVnFVbnh1ME5EVGVPSkt5VmRVdEVrd0pfM1NRRm9YYjA4R0RhSW1SSTlXYjlCajMyZXZFX08wZ2ZmY2tnQUtEM2pYRTFQNmRydw?oc=5",
+      "published": "2026-09-19T12:23:08",
+      "sentiment_score": 0.561,
+      "sentiment_label": "Positive",
+      "confidence": 0.64
+    },
+    {
+      "headline": "Ten days that changed the course of AI",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
+      "published": "2026-09-19T11:31:21",
+      "sentiment_score": -0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.862
+    },
+    {
+      "headline": "China bogeyman looms large over American firms\u2019 AI doomsday scenario",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUVZck1LUUJ3RzdzUXp6VWVNMHozc2czS28tejlGNEctdFhvM1JjbDFMQ1BpRm9tQlZUYW5wYzRyRjQxWWUybVFLOGY3Q1FpUHdvdVpzLU1YMnlYWVh0MWQ1aXpmcldFREMzWnFlcGlWTkxVN1BWZWltc3lfdUFmTThpS1M4NWFRRzA2RWdpazlibzZsNHpxc1BBYUFWT0dqSEpGNw?oc=5",
+      "published": "2026-09-19T10:01:00",
+      "sentiment_score": -0.042,
+      "sentiment_label": "Neutral",
+      "confidence": 0.843
+    },
     {
       "headline": "Opinion | Politics has poisoned the AI debate. Don\u2019t lose your head.",
       "source": "The Washington Post",
@@ -156,28 +216,19 @@
       "confidence": 0.712
     },
     {
-      "headline": "Google's Gemini AI hacked three companies in security test",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-19T04:27:11",
-      "sentiment_score": -0.427,
+      "headline": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5",
+      "published": "2026-09-19T00:04:48",
+      "sentiment_score": -0.41,
       "sentiment_label": "Neutral",
-      "confidence": 0.515
-    },
-    {
-      "headline": "Could AI wipe out humans and how might it do it?",
-      "source": "bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JaDFHS1VMYk5NWV95UkhWN0RFYmxEaktTeEx1eFVvR19tdWZhOTU4VnJCUWJPRjAwQTJpTFN4UkE2azV2Q2g4UDBFZmNKdVM1MTZ1ZFhSazk?oc=5",
-      "published": "2026-09-19T00:48:29",
-      "sentiment_score": -0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.914
+      "confidence": 0.532
     },
     {
       "headline": "Gemini hacked three companies in first known breakout by Google's AI",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
-      "published": "2026-09-18T23:56:23",
+      "published": "2026-09-18T22:25:00",
       "sentiment_score": -0.383,
       "sentiment_label": "Neutral",
       "confidence": 0.558
@@ -186,7 +237,7 @@
       "headline": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5",
-      "published": "2026-09-18T22:13:20",
+      "published": "2026-09-18T22:10:00",
       "sentiment_score": -0.29,
       "sentiment_label": "Neutral",
       "confidence": 0.647
@@ -219,15 +270,6 @@
       "confidence": 0.552
     },
     {
-      "headline": "Could AI pose a serious threat to our existence? | Letters",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUVzaDBWS09WZWNFRkNlS3RObzI4S2RhaDJweFZVWFpGaFVUU2REUlN1SDVFWWFVWUMxV3JNZTVTLTZVYTVFa3dXSGczalFiQVQ1R0cyOU9LQks0Qm5XczV0aDBUNVFBZ2Z5MlBDc2pDRy1ZeGxVemxSdGdPTFBUWkF2ZFVJRkFFcm40RG9vYTJEVGJranlBREVoTHRGV0U?oc=5",
-      "published": "2026-09-18T16:58:00",
-      "sentiment_score": -0.171,
-      "sentiment_label": "Neutral",
-      "confidence": 0.777
-    },
-    {
       "headline": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
@@ -235,6 +277,33 @@
       "sentiment_score": -0.607,
       "sentiment_label": "Negative",
       "confidence": 0.636
+    },
+    {
+      "headline": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+      "published": "2026-09-18T15:02:50Z",
+      "sentiment_score": 0.58,
+      "sentiment_label": "Positive",
+      "confidence": 0.624
+    },
+    {
+      "headline": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+      "published": "2026-09-18T15:00:08Z",
+      "sentiment_score": -0.488,
+      "sentiment_label": "Negative",
+      "confidence": 0.528
+    },
+    {
+      "headline": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "published": "2026-09-18T15:00:00Z",
+      "sentiment_score": -0.435,
+      "sentiment_label": "Negative",
+      "confidence": 0.48
     },
     {
       "headline": "OpenAI \u2018ethically hacked\u2019 with help of Anthropic\u2019s Claude chatbot",
@@ -246,6 +315,24 @@
       "confidence": 0.769
     },
     {
+      "headline": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+      "published": "2026-09-18T14:20:46Z",
+      "sentiment_score": -0.003,
+      "sentiment_label": "Neutral",
+      "confidence": 0.869
+    },
+    {
+      "headline": "Researchers used Anthropic's Claude to hack into OpenAI | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "published": "2026-09-18T14:01:37Z",
+      "sentiment_score": -0.352,
+      "sentiment_label": "Neutral",
+      "confidence": 0.57
+    },
+    {
       "headline": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0tYS0VHd1I0cEFmd0JuMHh0SEg0NGxoMUprUDFPWVRlWWZvWE9LN0ZWMWd6Z2Utc2dlYWY2elB3Nk1xTGtRZm5aSzFDZlhfR0JRSms0NkJmVDlDY3JJYkxzU0M4ZWFLak1RSnNGNTlzWTJRZmxkbGZfUWppNUVDc3hxQUlVd01Ha1Z1U1ZYUzJReUU?oc=5",
@@ -255,31 +342,49 @@
       "confidence": 0.927
     },
     {
-      "headline": "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
+      "headline": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
-      "published": "2026-09-18T09:44:48Z",
-      "sentiment_score": 0.511,
-      "sentiment_label": "Positive",
-      "confidence": 0.736
-    },
-    {
-      "headline": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-      "published": "2026-09-18T09:38:17Z",
-      "sentiment_score": 0.583,
-      "sentiment_label": "Positive",
-      "confidence": 0.605
-    },
-    {
-      "headline": "An intense boardroom battle is brewing at India's giant Tata Group",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
-      "published": "2026-09-18T09:29:41Z",
-      "sentiment_score": -0.826,
+      "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "published": "2026-09-18T13:23:58Z",
+      "sentiment_score": -0.886,
       "sentiment_label": "Negative",
-      "confidence": 0.841
+      "confidence": 0.901
+    },
+    {
+      "headline": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+      "published": "2026-09-18T13:00:01Z",
+      "sentiment_score": 0.609,
+      "sentiment_label": "Positive",
+      "confidence": 0.622
+    },
+    {
+      "headline": "The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html",
+      "published": "2026-09-18T13:00:01Z",
+      "sentiment_score": -0.712,
+      "sentiment_label": "Negative",
+      "confidence": 0.735
+    },
+    {
+      "headline": "Anthropic quietly sets up biology lab as it ramps AI drug program: Report",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/18/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report.html",
+      "published": "2026-09-18T12:35:49Z",
+      "sentiment_score": 0.126,
+      "sentiment_label": "Neutral",
+      "confidence": 0.854
+    },
+    {
+      "headline": "Submit Your Questions: Why Is Silicon Valley Still a Boy's Club?",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/livestream-women-in-tech/",
+      "published": "2026-09-18T11:00:00Z",
+      "sentiment_score": 0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
     },
     {
       "headline": "Napster Is Back, and It Wants to Digitally Clone Teachers",
@@ -291,15 +396,6 @@
       "confidence": 0.889
     },
     {
-      "headline": "Why AI Isn\u2019t Likely to Wipe Out Humanity With Bioweapons",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "published": "2026-09-18T09:00:00Z",
-      "sentiment_score": -0.476,
-      "sentiment_label": "Negative",
-      "confidence": 0.534
-    },
-    {
       "headline": "OpenAI breached by researchers using Anthropic models",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5",
@@ -307,15 +403,6 @@
       "sentiment_score": 0.027,
       "sentiment_label": "Neutral",
       "confidence": 0.911
-    },
-    {
-      "headline": "Exclusive | Hackers Used Anthropic\u2019s Claude to Break Into OpenAI",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
-      "published": "2026-09-18T01:00:00",
-      "sentiment_score": -0.162,
-      "sentiment_label": "Neutral",
-      "confidence": 0.767
     },
     {
       "headline": "Will AI Really Kill Everyone? How, Exactly?",
@@ -327,6 +414,15 @@
       "confidence": 0.892
     },
     {
+      "headline": "Microsoft and OpenAI Workers Worry About \u2018Largest Theft of Labor\u2019 in History",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5",
+      "published": "2026-09-17T23:16:44",
+      "sentiment_score": -0.933,
+      "sentiment_label": "Negative",
+      "confidence": 0.945
+    },
+    {
       "headline": "The virtual worlds where robots are trained",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
@@ -336,6 +432,15 @@
       "confidence": 0.873
     },
     {
+      "headline": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHczYjIxX2dqTUpmMjBubHYzSTZCTVhBdmhHZDdOY1Zia05tQzhzY3hFc0pWR0czakY2c2ROUnlOZm1TbGNyTFk4UGc5REVTYzJmekFoRnFNS2lPeEhKVDctVkJXaHhldkZJanpqenFwZWtVT3JnQ0JYTmVja2ZKcS1EMTMwS0NpNzdVczhhRUVWLXF5aF9qRXBPVFJXSFljQWdwT0FWUjVBbDQ4YkVOdUNBS1ZtR0YzaXM2YnlYQ3VpQmt2YnVqNEEzejM3bjM0cDZj?oc=5",
+      "published": "2026-09-17T21:48:26",
+      "sentiment_score": -0.811,
+      "sentiment_label": "Negative",
+      "confidence": 0.827
+    },
+    {
       "headline": "Flash floods can strike without warning \u2014 this new technology could change that",
       "source": "The Verge",
       "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
@@ -343,6 +448,15 @@
       "sentiment_score": -0.038,
       "sentiment_label": "Neutral",
       "confidence": 0.883
+    },
+    {
+      "headline": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekFPOXhiUFNXem5jSFV2VU54TTZpM3JYRThaNDhFTldnMEJTTWdnalFMSzVEaFV2WVBDS2xPMFQzd3lCbk1hbFEzQXAyUDRXTEwxUGhhTW51aWVsRHkyeVpDMGVzaXpxR1EtTmpKc2ZodzFsa0V4N0JNaUZtclpXakRPV1hyY3RycWRPREFDaE1uLXp1NGNrMFppTGxwaFlPS2pYaXRxWF9vWl9V?oc=5",
+      "published": "2026-09-17T20:34:24",
+      "sentiment_score": -0.385,
+      "sentiment_label": "Neutral",
+      "confidence": 0.539
     },
     {
       "headline": "UN turns to Google to make its global data ready for AI agents | TechCrunch",
@@ -363,15 +477,6 @@
       "confidence": 0.922
     },
     {
-      "headline": "I tried Tovala's smart oven for two weeks \u2014 here's whether it beats takeout | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-      "published": "2026-09-17T15:00:00Z",
-      "sentiment_score": 0.014,
-      "sentiment_label": "Neutral",
-      "confidence": 0.941
-    },
-    {
       "headline": "King Charles warns of 'existential danger' of AI falling into wrong hands",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
@@ -390,6 +495,15 @@
       "confidence": 0.851
     },
     {
+      "headline": "The Awesome and Alarming A.I. Visions of Anthropic\u2019s C.E.O.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5",
+      "published": "2026-09-17T09:00:09",
+      "sentiment_score": 0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.729
+    },
+    {
       "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
@@ -400,7 +514,7 @@
     },
     {
       "headline": "AI machine 'helps save 25 million Lego bricks from landfill'",
-      "source": "bbc.com",
+      "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcXlrNHR0RHhqQjdFNmRrOUFRMFUzYzBfcnNHeG1tcHRpVXIzWVZfVXRYb0ttTURqc1l6bGFBYmVoLXNfaTV6VUFzX0ZrVEpZSURJWWF1TlY2N1k?oc=5",
       "published": "2026-09-17T05:34:21",
       "sentiment_score": 0.192,
@@ -454,7 +568,7 @@
     },
     {
       "headline": "What is AI, how do apps like ChatGPT work and why are there concerns?",
-      "source": "bbc.com",
+      "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiVlVDbllHd2t2NVB2YjJQYkQwOEF6ZzhqRVhyNmNQRGlzSTkzbkVrYUtLV20wMzFrWDktM0VFQXUzZEtseC0ybTRYX0xjUjI0QkZNX0M2Z3oyZw?oc=5",
       "published": "2026-09-14T16:09:56",
       "sentiment_score": -0.05,
@@ -472,21 +586,12 @@
     },
     {
       "headline": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenlVSmQ5YXJ0dlNSbFV6WFBOaEZYQ3FBWXNHVDVBYWVJVmdxVTRWdGl4QmZxV251M3FTcU9MY2Zvek84LTIwSWtOMG84b0xPZkJmRU9wTzh1NXNyaUJHSDFISXNYNnlneXgyd09mVTg3a3FVVTlaVE1RVklXNXByYUUzanRHQWgyOGVJSTlTRkE3di1hdmRhZmhWQVEzS3ZBaEtld2NiWlPSAa4BQVVfeXFMT3VudlFUb3NTNUktbThjdnQ4Y2lMN2k1NVg3VmNwdlltazV4TXRpRUduLVZya012SExlYjJxSnJGV2tFUE05SlNJcTN0TU5MekV1RjdvNXBKWDJMVTFCZWljYzBhNFhPekNVWEVLX0tsZ29hS0lER3dsYWs3dUtIM01tRjctdlhoUGk2emhmaUpSSjVuMmtBWTlKWEJrUmwyMWQ0R3NRSU5tcFpyZ01n?oc=5",
       "published": "2026-09-10T07:00:00",
       "sentiment_score": 0.102,
       "sentiment_label": "Neutral",
       "confidence": 0.869
-    },
-    {
-      "headline": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-      "source": "cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd1c0Ym54ZVdQTmRKSHZjbnVuOFRvVjh4aUxJVTJqRHpRRjZWemlDYnVuZUZhQUVMZW9heHkyUjhZQ282ZVpuczQyM1M1ZElJaUNpdjg5TGd4Vm9TNlQwNlNKbHB4RXdEWDBkR3JEWdIBdEFVX3lxTE9BbFlMMEtIYWsxakliVUgtbWFHb1ZkaHdPYTZqSE9ucFc0SzhVSTV4SjJsQzRzdTdrTTBUR005RzJLeFpFcExIaW9OU2NDVnk0NXNNRENGNEtnSndybGdmVlF0R0NwY2Y1TU9HLS1SQkVQQmVk?oc=5",
-      "published": "2026-09-10T07:00:00",
-      "sentiment_score": 0.891,
-      "sentiment_label": "Positive",
-      "confidence": 0.902
     },
     {
       "headline": "OpenAI launches ChatGPT for financial services industry",
@@ -496,6 +601,15 @@
       "sentiment_score": 0.072,
       "sentiment_label": "Neutral",
       "confidence": 0.901
+    },
+    {
+      "headline": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd1c0Ym54ZVdQTmRKSHZjbnVuOFRvVjh4aUxJVTJqRHpRRjZWemlDYnVuZUZhQUVMZW9heHkyUjhZQ282ZVpuczQyM1M1ZElJaUNpdjg5TGd4Vm9TNlQwNlNKbHB4RXdEWDBkR3JEWdIBdEFVX3lxTE9BbFlMMEtIYWsxakliVUgtbWFHb1ZkaHdPYTZqSE9ucFc0SzhVSTV4SjJsQzRzdTdrTTBUR005RzJLeFpFcExIaW9OU2NDVnk0NXNNRENGNEtnSndybGdmVlF0R0NwY2Y1TU9HLS1SQkVQQmVk?oc=5",
+      "published": "2026-09-10T07:00:00",
+      "sentiment_score": 0.891,
+      "sentiment_label": "Positive",
+      "confidence": 0.902
     },
     {
       "headline": "Agentic AI vs. generative AI: The core differences",
