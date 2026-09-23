@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-23T15:48:30.857208",
-  "total_articles": 37,
-  "overall_sentiment": -0.039,
-  "overall_label": "Neutral",
+  "last_updated": "2026-09-23T20:52:49.512130",
+  "total_articles": 48,
+  "overall_sentiment": -0.166,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-08-10",
@@ -14,22 +14,22 @@
       "moving_avg": -0.396
     },
     {
+      "date": "2026-08-17",
+      "avg_sentiment": -0.892,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.644
+    },
+    {
       "date": "2026-09-01",
       "avg_sentiment": 0.007,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.194
-    },
-    {
-      "date": "2026-09-10",
-      "avg_sentiment": 0.891,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.167
+      "moving_avg": -0.427
     },
     {
       "date": "2026-09-17",
@@ -38,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": 0.076
+      "moving_avg": -0.37
     },
     {
       "date": "2026-09-19",
@@ -47,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.072
+      "moving_avg": -0.429
     },
     {
       "date": "2026-09-20",
@@ -56,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.209
+      "moving_avg": -0.507
     },
     {
       "date": "2026-09-21",
@@ -65,33 +65,39 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.295
+      "moving_avg": -0.549
     },
     {
       "date": "2026-09-22",
-      "avg_sentiment": 0.06,
-      "article_count": 22,
-      "positive_count": 13,
-      "negative_count": 3,
+      "avg_sentiment": -0.075,
+      "article_count": 28,
+      "positive_count": 15,
+      "negative_count": 7,
       "neutral_count": 6,
-      "moving_avg": -0.23
+      "moving_avg": -0.504
     },
     {
       "date": "2026-09-23",
-      "avg_sentiment": 0.071,
-      "article_count": 5,
+      "avg_sentiment": -0.098,
+      "article_count": 10,
       "positive_count": 2,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.22
+      "negative_count": 4,
+      "neutral_count": 4,
+      "moving_avg": -0.39
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.063,
-      "article_count": 9,
+      "avg_sentiment": -0.124,
+      "article_count": 11,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.162,
+      "article_count": 6,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Time",
@@ -101,9 +107,21 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.18,
+      "avg_sentiment": -0.312,
       "article_count": 4,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.32,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.553,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Washington Post",
@@ -112,39 +130,78 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.371,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.168,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "WSJ",
-      "avg_sentiment": -0.46,
+      "source": "The Guardian",
+      "avg_sentiment": -0.507,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.507,
+      "source": "Wired",
+      "avg_sentiment": 0.257,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.85,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "AI Has Cracked the Most Diabolical Problems in Math. Why Can\u2019t It Solve Chess?",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDNGhTUWRXZWkxeFRleXVBUVk5RnJtUDZWX0RyOUxEQlNBWG5HdmF6NmVzMW9WN0I2T08tM0ZSMW1GQ2xSMXFSMHp4U01BMlpuQzRpWHc2RjdjX3AyY1pYcngwaFNTd1g4LXhTMjh5dHhObHpkRWtuMg?oc=5",
-      "published": "2026-09-23T15:00:00",
-      "sentiment_score": -0.112,
+      "headline": "AI leaders warn UN of security risks as systems grow more powerful",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
+      "published": "2026-09-23T20:11:10",
+      "sentiment_score": -0.054,
       "sentiment_label": "Neutral",
-      "confidence": 0.815
+      "confidence": 0.827
+    },
+    {
+      "headline": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China\u2018s AI boom",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5",
+      "published": "2026-09-23T20:11:03",
+      "sentiment_score": -0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
+    },
+    {
+      "headline": "You can now command ChatGPT Voice to do more things from your phone.",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbW1MMnBTQUY2cUFsNzQ1ZGpfSDItSFlFZ2EwY1VSdDNNcU82OERtSWdtX3lnSnZ1OVdXUXpVblFHYzJ2MjJ3ZFFCVGtEWWh6d0hXNTdKT1Awazl5M1Y3b24yM2hZY0RZdTNKb01RYjhpeFcyTlhyRXZoUjA3Y0VaeDFPakY0cHZ4TEpZNThvUkpzcVpuUUlvdTJYektHU2dnekpsRm1XQ1VfM0U?oc=5",
+      "published": "2026-09-23T18:35:54",
+      "sentiment_score": 0.044,
+      "sentiment_label": "Neutral",
+      "confidence": 0.929
+    },
+    {
+      "headline": "ChatGPT mobile app gets voice-based agentic features",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlBtX3g3djVGVFllRFhGVGw1bDV6bnVvd0l0Uzk5NGRmbW1McDVWQVhZMV8zRUl4N0tseUlBSmpqUjhrSzB1aEtMU1pvT0NCNkRUeHZsWC1vOG00WGxvS3lpQTR3aHVBazgtU2NRd3hJWDY4Rl9uWlM0WWpqWTZPQTRVel9WOUlQbkF3enliQUM?oc=5",
+      "published": "2026-09-23T17:00:00",
+      "sentiment_score": 0.369,
+      "sentiment_label": "Neutral",
+      "confidence": 0.607
+    },
+    {
+      "headline": "OpenAI says SEC disclosures undermine xAI\u2019s antitrust lawsuit",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQck5iQkduQjJvTW1teXFGOGNDQUFtTzliaGJhbTM2d0tnb0RUZUx0SGFLRVdwMDI4V2JSSDAwUFlDY1NjN0NPNEhpN3N4VkhSb1ZDTXdma210NzhVRl9PRF8wMkpXWHhneDhDZ3ZOZjlpMVBIVXNUWkVWLUI2Q1FWRWNJQnA3bExLVWZRS2laLTd5amxwSmV0TUxfWE9qT3ZZeldTdEdkY1hCRExLN1lQLVNZOA?oc=5",
+      "published": "2026-09-23T16:46:39",
+      "sentiment_score": -0.902,
+      "sentiment_label": "Negative",
+      "confidence": 0.918
+    },
+    {
+      "headline": "Th\u00e9lyson Or\u00e9lien: French uproar over author accused of using AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11c0ZBMmhoakltalJQckhralBvYmp2NEZZTmJZcHRxOXhNRS1oUFlJcEFUUGJTTWV3d3d3dFJ3Z01Sb2xwdjJTN0FWQ1BzbTRuYjlMdllVcWl2cDA?oc=5",
+      "published": "2026-09-23T15:28:05",
+      "sentiment_score": -0.885,
+      "sentiment_label": "Negative",
+      "confidence": 0.905
     },
     {
       "headline": "My (complicated) relationship with AI: often seductive, occasionally frustrating and always demanding vigilance",
@@ -178,9 +235,9 @@
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZUZJX1V6VHhqMi13UWVncGxhZEhQMW1IMHBPVk1fWEdObG1rcHF1cXlWTjNJVk54NVZjaGVrd2wxV3BBX1FvVWJNTEFkUnZQTHdPNlI3ZzYwNkE?oc=5",
       "published": "2026-09-23T03:20:30",
-      "sentiment_score": 0.063,
+      "sentiment_score": 0.049,
       "sentiment_label": "Neutral",
-      "confidence": 0.907
+      "confidence": 0.918
     },
     {
       "headline": "Trump says he\u2019s renaming AI to \u2018super intelligence\u2019",
@@ -201,15 +258,6 @@
       "confidence": 0.929
     },
     {
-      "headline": "Trump says US Justice Department could rein in AI companies if needed",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
-      "published": "2026-09-22T22:32:04",
-      "sentiment_score": -0.006,
-      "sentiment_label": "Neutral",
-      "confidence": 0.908
-    },
-    {
       "headline": "Huge data centres rise at 'China speed' to power its AI ambitions",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
@@ -226,6 +274,24 @@
       "sentiment_score": 0.054,
       "sentiment_label": "Neutral",
       "confidence": 0.917
+    },
+    {
+      "headline": "Is it \u2018killer robots\u2019 or \u2018super intelligence\u2019? At the UN, leaders see both",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHI2cW1aa2pYRkxYZUpqaFlYd0xZY0Y0U0dBdnE3dHdEYVhiN3ZqcnJueUNLUTFaNF9TVnUxS0x5U2ZCV2JPU3p6c19EUmtzYlNWUWMxWlBFa2VTb2FkUDFqWUt4dkVKVWpXYzNqVWxoS0xucE4yOTRMV21rdzJ1NjNNcE9pY0hBaFdWdlJsN2VQVlNSRkVsVlJ1S3F6VWMtMHpV?oc=5",
+      "published": "2026-09-22T21:58:00",
+      "sentiment_score": -0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.932
+    },
+    {
+      "headline": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
+      "published": "2026-09-22T20:30:17Z",
+      "sentiment_score": -0.602,
+      "sentiment_label": "Negative",
+      "confidence": 0.793
     },
     {
       "headline": "Tech Life",
@@ -246,13 +312,85 @@
       "confidence": 0.663
     },
     {
-      "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "headline": "Apple could take on Whoop with a new fitness tracker, report says",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbkJzRWtNeU8tQkl1WUZlc19BYWctaC1iak9JWFozN1Q4Y1dPOFVHS3R0MDlLUi1vUmNTVk50Q2gxYmYtbWxxQUZ3Y0FEUDFPTXoyV0l5MHo0a2RLems0QXRabHgwNnNYc2h2LWRyT0RCa2p3MzYyNg?oc=5",
-      "published": "2026-09-22T18:00:00",
-      "sentiment_score": 0.617,
-      "sentiment_label": "Positive",
-      "confidence": 0.629
+      "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "published": "2026-09-22T19:27:57Z",
+      "sentiment_score": 0.213,
+      "sentiment_label": "Neutral",
+      "confidence": 0.769
+    },
+    {
+      "headline": "Fact check: Trump\u2019s false claims to the United Nations | CNN Politics",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/09/22/politics/fact-check-trump-united-nations",
+      "published": "2026-09-22T19:23:47Z",
+      "sentiment_score": -0.213,
+      "sentiment_label": "Neutral",
+      "confidence": 0.715
+    },
+    {
+      "headline": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
+      "published": "2026-09-22T19:21:11Z",
+      "sentiment_score": -0.957,
+      "sentiment_label": "Negative",
+      "confidence": 0.97
+    },
+    {
+      "headline": "Meta admits Muse's likeness to OpenClaw isn't a coincidence | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "published": "2026-09-22T19:10:07Z",
+      "sentiment_score": 0.026,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
+    {
+      "headline": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o",
+      "published": "2026-09-22T18:48:23Z",
+      "sentiment_score": -0.876,
+      "sentiment_label": "Negative",
+      "confidence": 0.888
+    },
+    {
+      "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "published": "2026-09-22T18:28:28Z",
+      "sentiment_score": 0.333,
+      "sentiment_label": "Neutral",
+      "confidence": 0.646
+    },
+    {
+      "headline": "A16z is challenging Silicon Valley's love for drop-outs by launching a school | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "published": "2026-09-22T18:25:39Z",
+      "sentiment_score": 0.063,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
+    },
+    {
+      "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "published": "2026-09-22T18:02:53Z",
+      "sentiment_score": 0.255,
+      "sentiment_label": "Neutral",
+      "confidence": 0.673
+    },
+    {
+      "headline": "The Wales captains looking to conquer England",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cq99dk095epgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-09-22T17:02:23Z",
+      "sentiment_score": 0.073,
+      "sentiment_label": "Neutral",
+      "confidence": 0.862
     },
     {
       "headline": "Five AI safety sessions every founder should have on their Disrupt 2026 agenda | TechCrunch",
@@ -262,15 +400,6 @@
       "sentiment_score": 0.048,
       "sentiment_label": "Neutral",
       "confidence": 0.921
-    },
-    {
-      "headline": "Santoli: The S&P 500 is within striking distance of record as bull relies on familiar leadership",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/22/santoli-the-sp-500-is-within-striking-distance-of-record-as-bull-relies-on-familiar-leadership.html",
-      "published": "2026-09-22T13:21:55Z",
-      "sentiment_score": 0.105,
-      "sentiment_label": "Neutral",
-      "confidence": 0.856
     },
     {
       "headline": "Introducing TIME Executives of the Year: Tech and Data",
@@ -345,33 +474,6 @@
       "confidence": 0.495
     },
     {
-      "headline": "Nasdaq's new record, Paramount settles lawsuit, press pool suspends coverage and more in Morning Squawk",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/22/5-things-to-know-before-the-stock-market-opens.html",
-      "published": "2026-09-22T12:25:55Z",
-      "sentiment_score": -0.254,
-      "sentiment_label": "Neutral",
-      "confidence": 0.697
-    },
-    {
-      "headline": "Nscale\u2019s IPO will test Wall Street's appetite for concentrated AI bets once again | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "published": "2026-09-22T12:24:33Z",
-      "sentiment_score": 0.448,
-      "sentiment_label": "Neutral",
-      "confidence": 0.519
-    },
-    {
-      "headline": "How to Use AI With Your Privacy Intact",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-      "published": "2026-09-22T09:00:00Z",
-      "sentiment_score": -0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.916
-    },
-    {
       "headline": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1IyVFdzRmVYZmxSNnY0cHdYam5EdEh0bmhfOGNoVTNuRWRQa0c3YzBLYUZYNG5GTGlNOFlzT0lwNjEwZXE5aV9nMmlJbl9WYlVaUW9faHd2Q3BWMGQtYnVvaHdwUWdkazc4cjNmYzFidE5DcnNIQ1NpbDlDaXVtRk1qNVo4SEh0MnRMU3ZQUElIbEg2RTBaTHhDV09ieUtMT3d6clJIMURGZkVzaUdqNkJvdEl6dWFzVEs2bg?oc=5",
@@ -381,10 +483,19 @@
       "confidence": 0.721
     },
     {
+      "headline": "Canadian province sues OpenAI over Tumbler Ridge mass shooting",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YkxBQUlycXNQTldIVi1ybTFLVU9TS0Y5RTNTZHdRaENhQVVRcS1iT2IyOGFtRnVMV2JheEVvaVdrS2NGc2NYNVVRT2VGRDFMaUxJU205WFlnMlk?oc=5",
+      "published": "2026-09-22T01:44:17",
+      "sentiment_score": -0.823,
+      "sentiment_label": "Negative",
+      "confidence": 0.841
+    },
+    {
       "headline": "British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXJwMGtYR1RqS2g1eHhWenZLaXhsNlBtZTNmNE5oTzhfbzFPNXRobmQ3bnFScVg5dS1MZjdqOVF0bGowSjZ0VjQyR2lZT0lsVHhETVJYckhnbGZ6N01iaklvMllUU3BYcG13ZWN5SXZwWEdaZE5IWHY4NFF1Ulh4QXdPRE9USTEzUERDYUNaTktUU0kyc0Naczg0dkVJSkdpSFlhQkh1YTNuLVI3LVE?oc=5",
-      "published": "2026-09-21T21:26:00",
+      "published": "2026-09-21T20:43:14",
       "sentiment_score": -0.807,
       "sentiment_label": "Negative",
       "confidence": 0.828
@@ -444,21 +555,21 @@
       "confidence": 0.851
     },
     {
-      "headline": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd1c0Ym54ZVdQTmRKSHZjbnVuOFRvVjh4aUxJVTJqRHpRRjZWemlDYnVuZUZhQUVMZW9heHkyUjhZQ282ZVpuczQyM1M1ZElJaUNpdjg5TGd4Vm9TNlQwNlNKbHB4RXdEWDBkR3JEWdIBdEFVX3lxTE9BbFlMMEtIYWsxakliVUgtbWFHb1ZkaHdPYTZqSE9ucFc0SzhVSTV4SjJsQzRzdTdrTTBUR005RzJLeFpFcExIaW9OU2NDVnk0NXNNRENGNEtnSndybGdmVlF0R0NwY2Y1TU9HLS1SQkVQQmVk?oc=5",
-      "published": "2026-09-10T07:00:00",
-      "sentiment_score": 0.891,
-      "sentiment_label": "Positive",
-      "confidence": 0.902
-    },
-    {
       "headline": "Agentic AI vs. generative AI: The core differences",
       "source": "Thomson Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlqYVlXZFV2UUhxazJNSlBEY0NBbmxLOGRnVHRMaXVVOUFxZlV2d2NLTzNHTjVlWFhwc0UxUko4dUV3M2JSNzJ3RkJTaFhnSkh4TF9qQzJ4VXF4RDVYVG5QTTBEQ2xJcmJFNzctSnpSMjcxZ05SMGZGS25lbmFhSDJZck1Ia0JnNUxpZEZ3YnZwNE5tYjFqeW5lZVIyc3VPYlE?oc=5",
       "published": "2026-09-01T07:00:00",
       "sentiment_score": 0.007,
       "sentiment_label": "Neutral",
+      "confidence": 0.901
+    },
+    {
+      "headline": "AI Has Plunged the Book Publishing Industry Into Utter Chaos",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWFiWDhvRzBmOTIyUW1BSmxsSFc0eDA3UzU2cVVrZ0xST2MzektGTDVaM0laOEVUd3I0OUNDMzlBb2JadFEwS3hQVGRncDVicDNtaG10R2g2b29hYW1VeTZtSGRFNDFoRVlIeXNWTkxSb3QxUlNrMGluem1kS25TeTQ5Zw?oc=5",
+      "published": "2026-08-17T07:00:00",
+      "sentiment_score": -0.892,
+      "sentiment_label": "Negative",
       "confidence": 0.901
     },
     {
