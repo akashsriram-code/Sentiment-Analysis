@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-09-26T02:35:16.005800",
-  "total_articles": 39,
-  "overall_sentiment": -0.186,
+  "last_updated": "2026-09-26T10:32:21.141372",
+  "total_articles": 35,
+  "overall_sentiment": -0.208,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-08-10",
+      "avg_sentiment": -0.396,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.396
+    },
     {
       "date": "2026-08-17",
       "avg_sentiment": -0.892,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.892
+      "moving_avg": -0.644
     },
     {
       "date": "2026-09-01",
@@ -20,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.442
+      "moving_avg": -0.427
     },
     {
       "date": "2026-09-22",
@@ -29,176 +38,137 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.137
+      "moving_avg": -0.202
     },
     {
       "date": "2026-09-23",
-      "avg_sentiment": -0.083,
-      "article_count": 4,
+      "avg_sentiment": -0.073,
+      "article_count": 5,
       "positive_count": 2,
       "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.123
+      "neutral_count": 1,
+      "moving_avg": -0.176
     },
     {
       "date": "2026-09-24",
-      "avg_sentiment": -0.181,
-      "article_count": 14,
+      "avg_sentiment": -0.264,
+      "article_count": 12,
       "positive_count": 3,
       "negative_count": 6,
-      "neutral_count": 5,
-      "moving_avg": -0.135
+      "neutral_count": 3,
+      "moving_avg": -0.19
     },
     {
       "date": "2026-09-25",
-      "avg_sentiment": -0.122,
-      "article_count": 13,
-      "positive_count": 4,
+      "avg_sentiment": -0.197,
+      "article_count": 12,
+      "positive_count": 3,
       "negative_count": 7,
       "neutral_count": 2,
-      "moving_avg": -0.133
+      "moving_avg": -0.191
     },
     {
       "date": "2026-09-26",
-      "avg_sentiment": -0.482,
-      "article_count": 5,
+      "avg_sentiment": -0.295,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 5,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.183
+      "moving_avg": -0.177
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.373,
+      "avg_sentiment": -0.32,
       "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.427,
-      "article_count": 6,
-      "sentiment_label": "Positive"
+      "source": "The New York Times",
+      "avg_sentiment": -0.224,
+      "article_count": 5,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": -0.636,
+      "avg_sentiment": -0.529,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Washington Post",
-      "avg_sentiment": -0.389,
+      "source": "CNBC",
+      "avg_sentiment": 0.501,
       "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "reuters.com",
-      "avg_sentiment": -0.067,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.011,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.034,
-      "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
       "avg_sentiment": 0.207,
       "article_count": 2,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "AP News",
+      "avg_sentiment": 0.002,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
+      "headline": "OpenAI bots meddled with US government agencies, including SEC and Census",
+      "source": "bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
+      "published": "2026-09-26T02:50:56",
+      "sentiment_score": -0.44,
+      "sentiment_label": "Neutral",
+      "confidence": 0.511
+    },
+    {
       "headline": "OpenAI bots meddled with multiple US government agency sites",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T02:33:09",
-      "sentiment_score": -0.084,
+      "published": "2026-09-26T02:50:56",
+      "sentiment_score": -0.151,
       "sentiment_label": "Neutral",
-      "confidence": 0.864
+      "confidence": 0.781
     },
     {
-      "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3g5REFXVVI4ZEFzU2p3NDNtckJDemE4Y3VFOVlpc1N2aTE1NzhQMUU0WjhYb0dKRHNkTWhsQkRGZkxWVmh2RlV6eEgxNzhvdTdwOV9FcUFEc05vZzQxRk5PbWFvMTEzSTZKWFpmQXZCa0hyS1ZZLXVzQktGSDI0TlpXdUVqeGRjZVU1WmozZm94SzZDdVdLWlFyNDNndndF?oc=5",
-      "published": "2026-09-26T01:30:00",
-      "sentiment_score": -0.584,
+      "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
+      "published": "2026-09-25T23:16:40",
+      "sentiment_score": -0.631,
       "sentiment_label": "Negative",
-      "confidence": 0.613
-    },
-    {
-      "headline": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
-      "published": "2026-09-26T01:25:30",
-      "sentiment_score": -0.666,
-      "sentiment_label": "Negative",
-      "confidence": 0.686
-    },
-    {
-      "headline": "ChatGPT-maker\u2019s AI probed federal government websites",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
-      "published": "2026-09-26T01:20:41",
-      "sentiment_score": -0.611,
-      "sentiment_label": "Negative",
-      "confidence": 0.64
-    },
-    {
-      "headline": "Federal appeals court rules Pentagon can blacklist Anthropic",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmdHUE93UnBHZGZyaDI3RlBvYURwVV9BejN0QW1BTHNNd0VaMFdMY0NrSGJsTS1vQmo1VWFtejh6dE5lY29NMGhVZDlEMHNGTmFCTEkwR2JRT0RmU0VJRVBXck5JWG9RZk1jcFJwU2VQdjhEY3ptTnRMRXNrWW00cjlxa3VudEgtaHdLbzBnWU1CVTcxTTBSMnAycF91NXRBa2VnVmNsck1BandhMjVVVUVTNmI?oc=5",
-      "published": "2026-09-26T00:58:51",
-      "sentiment_score": -0.465,
-      "sentiment_label": "Neutral",
-      "confidence": 0.498
+      "confidence": 0.651
     },
     {
       "headline": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
       "published": "2026-09-25T22:55:00",
-      "sentiment_score": -0.778,
+      "sentiment_score": -0.8,
       "sentiment_label": "Negative",
-      "confidence": 0.793
+      "confidence": 0.815
     },
     {
-      "headline": "Fed's Schmid: Need to understand if AI \"ecosystem\" getting too big to fail",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpWaDBIbTVNdXdEbkZOanBGSHNtdXM5WmdtcjNiNVNLVnFlM1VHWlJSM0duSmJhbVVldGZZWlB3RUhYUS1iOFliNWxwU0t5Vkt3T2tnVjJjUlZscWdtZkhWVGE0bkhYcEprMmhlYmxNLVl6RUc4eHlDT2FDX1lyakE0TXZDMEhFUElUSFA1ODhCYjBfYXdQTWdVVG1ITFpkS0ZWT1ZwaXNQUE1DSHAyRUZ4NEJLQzlM?oc=5",
-      "published": "2026-09-25T20:54:35",
-      "sentiment_score": -0.134,
+      "headline": "Trump and Chinese president Xi end summit without major agreement on AI",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nT3o2LXNzMGpwdWxoTUtxUlZScHFGLXhiUy1maHJOOTNXSXpfRzNXb1FWVUxFM2gxN3M3T0pvVHVrQ0RVZTN2Y09XcWhVRHYtcVl0alJlUFdmVXlwR09ONFg0OVo4Sm4zZy1BRjhZRTZaYlhPNE9FMEQ0dmM?oc=5",
+      "published": "2026-09-25T22:13:00",
+      "sentiment_score": -0.135,
       "sentiment_label": "Neutral",
-      "confidence": 0.758
+      "confidence": 0.798
     },
     {
-      "headline": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-      "published": "2026-09-25T20:37:00",
-      "sentiment_score": 0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.935
-    },
-    {
-      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
+      "headline": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
-      "published": "2026-09-25T20:26:49",
-      "sentiment_score": -0.201,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJJdFJDajF5bUx0UmVPQXdyQ2c4aEIxYU9ldjBpN01zbC1mWXhITUlzcm0wSmZJQnhsTF9wZW0wMmhFb0VZZ0wyNjZwUXZkbkNHMVNHWFlsTko4dWUwTTRmMHJ1SzJVYmRDblZwQkVhaDV2WHZjcF9JeDBVSnNXTTNjQXhick5uckVSR1pMTnRzamFZNFV3?oc=5",
+      "published": "2026-09-25T18:26:59",
+      "sentiment_score": -0.049,
       "sentiment_label": "Neutral",
-      "confidence": 0.742
+      "confidence": 0.754
     },
     {
       "headline": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
@@ -228,6 +198,15 @@
       "confidence": 0.554
     },
     {
+      "headline": "Royals 'not starstruck' by PSG visit for AI summit",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/sport/football/articles/cv62k9k2nwx2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-09-25T10:26:02Z",
+      "sentiment_score": 0.767,
+      "sentiment_label": "Positive",
+      "confidence": 0.781
+    },
+    {
       "headline": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
@@ -235,6 +214,24 @@
       "sentiment_score": -0.88,
       "sentiment_label": "Negative",
       "confidence": 0.91
+    },
+    {
+      "headline": "CNBC Daily Open: The return of panda diplomacy",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/25/cnbc-daily-open-trump-xi-summit-pandas.html",
+      "published": "2026-09-25T06:42:52Z",
+      "sentiment_score": 0.233,
+      "sentiment_label": "Neutral",
+      "confidence": 0.71
+    },
+    {
+      "headline": "AI anxiety is real. Here\u2019s how to deal with it, according to therapists",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/wellness/2026/09/19/ai-anxiety-is-real-heres-how-deal-with-it-according-therapists/",
+      "published": "2026-09-25T06:00:00Z",
+      "sentiment_score": 0.013,
+      "sentiment_label": "Neutral",
+      "confidence": 0.863
     },
     {
       "headline": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
@@ -246,60 +243,6 @@
       "confidence": 0.943
     },
     {
-      "headline": "China's Xi urges U.S. to cooperate on AI",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-      "published": "2026-09-25T01:22:17Z",
-      "sentiment_score": 0.259,
-      "sentiment_label": "Neutral",
-      "confidence": 0.653
-    },
-    {
-      "headline": "CNBC Daily Open: Stability is on the menu as Trump and Xi start dinner",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/25/cnbc-daily-open-stability-is-on-the-menu-as-trump-and-xi-start-dinner.html",
-      "published": "2026-09-25T01:19:33Z",
-      "sentiment_score": 0.46,
-      "sentiment_label": "Positive",
-      "confidence": 0.51
-    },
-    {
-      "headline": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
-      "published": "2026-09-25T01:12:19Z",
-      "sentiment_score": 0.56,
-      "sentiment_label": "Positive",
-      "confidence": 0.586
-    },
-    {
-      "headline": "Here's who is attending the Trump-Xi state dinner",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-      "published": "2026-09-25T00:22:31Z",
-      "sentiment_score": 0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.939
-    },
-    {
-      "headline": "Hundreds of thousands expected in Paris for Pope's visit",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po",
-      "published": "2026-09-24T23:17:00Z",
-      "sentiment_score": 0.063,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
-    },
-    {
-      "headline": "Microsoft puts Brad Smith in charge of communications",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-      "published": "2026-09-24T22:08:22Z",
-      "sentiment_score": 0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.94
-    },
-    {
       "headline": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
@@ -307,15 +250,6 @@
       "sentiment_score": 0.361,
       "sentiment_label": "Neutral",
       "confidence": 0.62
-    },
-    {
-      "headline": "Trump and Xi Meet Ahead of State Dinner With Top A.I. Leaders",
-      "source": "Time",
-      "link": "https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/",
-      "published": "2026-09-24T20:51:12Z",
-      "sentiment_score": -0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
     },
     {
       "headline": "Meet Feather, the startup building the 'Android of robotics' for developers | TechCrunch",
@@ -381,6 +315,15 @@
       "confidence": 0.865
     },
     {
+      "headline": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkc2S1Zlc0pCdDl6NjZnTl9zNXZQZnZaNTF1d3lkazNqZkJCSFhLaHNXT1ZZcTNQeFdNdzJ1S1FNeVNuSDNPcmFfQUxMbzdHLWhBQVpTd1BiYXp6d1VoRUVwX2xqVWlQWHdDU0tHRDZyQTdVZzJXUUs4a2czZ1BlM0J0aFRLcm9nUDNDTW5rZndjQQ?oc=5",
+      "published": "2026-09-24T10:00:17",
+      "sentiment_score": -0.869,
+      "sentiment_label": "Negative",
+      "confidence": 0.916
+    },
+    {
       "headline": "What you need to know about the OpenAI Australian government hack",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
@@ -390,15 +333,6 @@
       "confidence": 0.922
     },
     {
-      "headline": "Australian PM says ChatGPT-maker\u2019s AI hacked public health care site",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1NQlJicTZwYVRmWXVHa2E0Y1RRakZwanBnRDhTZ2F1dzhzYnJRclljbWVoVFJoaGNnN1VPUU1uQzY4MGVvQjJiemZwTFA4enVtQXBIX0w4aDl3SjVJVFRuOG9YYWpSSGtkQy1tOTdnTDBhVDdhUUlmcEtRdlV6SWhvZmJFVFRHc0lXdl9ac0xzUFAySmQ2djVKeUNIQl9RMFVrQm5adnR4MHJmMWVSZjZJbF9uZHFJYThaSmozek8?oc=5",
-      "published": "2026-09-24T05:13:23",
-      "sentiment_score": -0.092,
-      "sentiment_label": "Neutral",
-      "confidence": 0.808
-    },
-    {
       "headline": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created",
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
@@ -406,6 +340,24 @@
       "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
       "confidence": 0.914
+    },
+    {
+      "headline": "OpenAI\u2019s A.I. Tried to Breach 4 Other Targets, Without Prompting",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
+      "published": "2026-09-24T02:28:53",
+      "sentiment_score": 0.207,
+      "sentiment_label": "Neutral",
+      "confidence": 0.704
+    },
+    {
+      "headline": "US diplomats told to say \u2018super intelligence\u2019 \u2014 not \u2018artificial intelligence\u2019 \u2014 after Trump\u2019s call",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
+      "published": "2026-09-23T23:45:00",
+      "sentiment_score": -0.031,
+      "sentiment_label": "Neutral",
+      "confidence": 0.885
     },
     {
       "headline": "US rejects pleas from OpenAI, Anthropic for global AI standards",
@@ -469,6 +421,15 @@
       "sentiment_score": -0.892,
       "sentiment_label": "Negative",
       "confidence": 0.901
+    },
+    {
+      "headline": "The AI Slop Backlash Is Actually Having an Impact",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVA5NEphTVNfMmh6WEdxMlBwanZ5Y1hWQzZFUWFudmxoNkRBQ1lzWlJyaWJSeXlyOUxwbm8yQml2d0lzazM2RVJZNE1uRmFBbU4tbTR5TnB4U0huZC1tcDdCUXZ0UWxmdnBWVFFaeEo5Mkx4eHpEb2Rpc2V0VWxqUHc5Z1U?oc=5",
+      "published": "2026-08-10T07:00:00",
+      "sentiment_score": -0.396,
+      "sentiment_label": "Neutral",
+      "confidence": 0.494
     }
   ]
 }
