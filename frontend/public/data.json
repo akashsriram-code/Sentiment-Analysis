@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-26T15:23:48.624543",
-  "total_articles": 39,
-  "overall_sentiment": -0.21,
+  "last_updated": "2026-09-26T20:23:36.831605",
+  "total_articles": 47,
+  "overall_sentiment": -0.18,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,30 +42,30 @@
     },
     {
       "date": "2026-09-23",
-      "avg_sentiment": -0.073,
-      "article_count": 5,
-      "positive_count": 2,
+      "avg_sentiment": -0.183,
+      "article_count": 4,
+      "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.176
+      "moving_avg": -0.198
     },
     {
       "date": "2026-09-24",
-      "avg_sentiment": -0.345,
+      "avg_sentiment": -0.393,
       "article_count": 10,
-      "positive_count": 1,
-      "negative_count": 6,
+      "positive_count": 0,
+      "negative_count": 7,
       "neutral_count": 3,
-      "moving_avg": -0.204
+      "moving_avg": -0.23
     },
     {
       "date": "2026-09-25",
-      "avg_sentiment": -0.133,
-      "article_count": 15,
-      "positive_count": 5,
-      "negative_count": 6,
-      "neutral_count": 4,
-      "moving_avg": -0.194
+      "avg_sentiment": -0.057,
+      "article_count": 24,
+      "positive_count": 9,
+      "negative_count": 9,
+      "neutral_count": 6,
+      "moving_avg": -0.206
     },
     {
       "date": "2026-09-26",
@@ -74,27 +74,27 @@
       "positive_count": 1,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.183
+      "moving_avg": -0.195
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.373,
-      "article_count": 12,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.305,
-      "article_count": 5,
+      "avg_sentiment": -0.419,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.393,
-      "article_count": 5,
+      "avg_sentiment": 0.159,
+      "article_count": 6,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.011,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Washington Post",
@@ -103,13 +103,31 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.232,
-      "article_count": 2,
+      "source": "The New York Times",
+      "avg_sentiment": -0.425,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Thomson Reuters",
+      "source": "The Verge",
+      "avg_sentiment": -0.247,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.029,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Bloomberg",
+      "avg_sentiment": 0.477,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "thomsonreuters.com",
       "avg_sentiment": 0.015,
       "article_count": 2,
       "sentiment_label": "Neutral"
@@ -126,7 +144,7 @@
       "headline": "U.S., Russia stripped human oversight from global AI weapons pact",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNLMmd2Y0t3cS1KN01EbFRNdzc0cHpWT193NnJHNXN1SndBTjdISVdYVGlIbnN0NHRROWJYdDlaeU1VelUwc2hwZ1c5d3dZcjhBQnVNMVF3UVFRd0hDOGkwTTVMSkFBTHM3VG9sU2NJakQ3SGNuMmFUanAzV0tGbXhNOFl6elFaOXZxNEwweUpmSXF5cDlfbmQ2Y0xjMWUxRkNHSW5iUEJNTnR6MFE?oc=5",
-      "published": "2026-09-26T15:02:45",
+      "published": "2026-09-26T16:00:00",
       "sentiment_score": -0.207,
       "sentiment_label": "Neutral",
       "confidence": 0.713
@@ -186,22 +204,148 @@
       "confidence": 0.935
     },
     {
-      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
-      "published": "2026-09-25T20:01:21",
-      "sentiment_score": -0.201,
-      "sentiment_label": "Neutral",
-      "confidence": 0.742
+      "headline": "How recent grads and college students should be thinking about AI, the CV, and the job market",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
+      "published": "2026-09-25T19:16:16Z",
+      "sentiment_score": -0.685,
+      "sentiment_label": "Negative",
+      "confidence": 0.705
     },
     {
-      "headline": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJJdFJDajF5bUx0UmVPQXdyQ2c4aEIxYU9ldjBpN01zbC1mWXhITUlzcm0wSmZJQnhsTF9wZW0wMmhFb0VZZ0wyNjZwUXZkbkNHMVNHWFlsTko4dWUwTTRmMHJ1SzJVYmRDblZwQkVhaDV2WHZjcF9JeDBVSnNXTTNjQXhick5uckVSR1pMTnRzamFZNFV3?oc=5",
-      "published": "2026-09-25T18:26:59",
-      "sentiment_score": -0.049,
+      "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "published": "2026-09-25T19:15:13Z",
+      "sentiment_score": 0.233,
       "sentiment_label": "Neutral",
-      "confidence": 0.754
+      "confidence": 0.748
+    },
+    {
+      "headline": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+      "published": "2026-09-25T18:52:40Z",
+      "sentiment_score": 0.071,
+      "sentiment_label": "Neutral",
+      "confidence": 0.89
+    },
+    {
+      "headline": "Trump says he will meet Xi again in November in China",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/trump-hosts-xi-for-tea-with-final-day-of-summit-underway",
+      "published": "2026-09-25T18:35:16Z",
+      "sentiment_score": 0.914,
+      "sentiment_label": "Positive",
+      "confidence": 0.94
+    },
+    {
+      "headline": "Will Meta\u2019s AI Tamagotchi bet is\u2026working? | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "published": "2026-09-25T18:29:36Z",
+      "sentiment_score": -0.021,
+      "sentiment_label": "Neutral",
+      "confidence": 0.869
+    },
+    {
+      "headline": "Federal appeals court lets Pentagon keep Anthropic's label as supply chain risk",
+      "source": "ActionNewsJax.com",
+      "link": "https://www.actionnewsjax.com/news/business/federal-court-says/57OBJDB6IQ7ARGHSBT6DQBERM4/",
+      "published": "2026-09-25T18:26:20Z",
+      "sentiment_score": 0.067,
+      "sentiment_label": "Neutral",
+      "confidence": 0.679
+    },
+    {
+      "headline": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "published": "2026-09-25T18:26:18Z",
+      "sentiment_score": -0.719,
+      "sentiment_label": "Negative",
+      "confidence": 0.787
+    },
+    {
+      "headline": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
+      "published": "2026-09-25T17:57:14Z",
+      "sentiment_score": 0.856,
+      "sentiment_label": "Positive",
+      "confidence": 0.864
+    },
+    {
+      "headline": "Astra and Opus just passed Turing's other test | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "published": "2026-09-25T17:24:36Z",
+      "sentiment_score": 0.092,
+      "sentiment_label": "Neutral",
+      "confidence": 0.876
+    },
+    {
+      "headline": "Trump says Scott Bessent won't be AI czar",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+      "published": "2026-09-25T17:13:37Z",
+      "sentiment_score": -0.174,
+      "sentiment_label": "Neutral",
+      "confidence": 0.772
+    },
+    {
+      "headline": "Regarding the Provenance of Charm Within Meta",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting",
+      "published": "2026-09-25T17:07:33Z",
+      "sentiment_score": 0.039,
+      "sentiment_label": "Neutral",
+      "confidence": 0.934
+    },
+    {
+      "headline": "Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "published": "2026-09-25T16:58:20Z",
+      "sentiment_score": -0.565,
+      "sentiment_label": "Negative",
+      "confidence": 0.709
+    },
+    {
+      "headline": "Meta makes the Muse filesystem even more accessible",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "published": "2026-09-25T16:49:53Z",
+      "sentiment_score": 0.017,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
+      "headline": "Meta is putting its muscle behind Muse as the AI app takes off | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "published": "2026-09-25T16:18:45Z",
+      "sentiment_score": 0.716,
+      "sentiment_label": "Positive",
+      "confidence": 0.728
+    },
+    {
+      "headline": "For months, OpenAI's agent swarms have been attacking online databases to find obscure facts | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "published": "2026-09-25T15:50:37Z",
+      "sentiment_score": -0.234,
+      "sentiment_label": "Neutral",
+      "confidence": 0.711
+    },
+    {
+      "headline": "One company is at the center of a wave of rogue AI attacks",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "published": "2026-09-25T15:39:51Z",
+      "sentiment_score": -0.848,
+      "sentiment_label": "Negative",
+      "confidence": 0.868
     },
     {
       "headline": "Special agents' blood and urine test results stolen in FBI hack",
@@ -213,15 +357,6 @@
       "confidence": 0.629
     },
     {
-      "headline": "The Fight to Rein In AI Is Dividing Washington",
-      "source": "Time",
-      "link": "https://time.com/article/2026/09/25/ai-congress-regulation-safety-democrats-republicans/",
-      "published": "2026-09-25T13:41:18Z",
-      "sentiment_score": -0.937,
-      "sentiment_label": "Negative",
-      "confidence": 0.945
-    },
-    {
       "headline": "Yields keep rising, Novo's tough week, why cat product sales are surging and more in Morning Squawk",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/09/25/5-things-to-know-before-the-stock-market-opens.html",
@@ -229,42 +364,6 @@
       "sentiment_score": -0.026,
       "sentiment_label": "Neutral",
       "confidence": 0.903
-    },
-    {
-      "headline": "Trump and Xi toast 'peace' but Taiwan, trade and AI divides remain",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cxq63dqp93n1o",
-      "published": "2026-09-25T12:15:02Z",
-      "sentiment_score": 0.128,
-      "sentiment_label": "Neutral",
-      "confidence": 0.772
-    },
-    {
-      "headline": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
-      "published": "2026-09-25T12:00:02Z",
-      "sentiment_score": 0.611,
-      "sentiment_label": "Positive",
-      "confidence": 0.621
-    },
-    {
-      "headline": "The comedians turning AI anxiety into punchlines: \u2018It\u2019s so good, it\u2019ll completely alter our grasp on reality\u2019",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QOG0tZVJEVUpYSGJCbk56a3ZaNkR5ZUxkX0Qxa21BajRWUWt4dktGTk9BcWU5SHBhS1JFOXJ4MTE3dGRULWFhRmQ5MVVOdFlQRkwxS2ZXdWV3eUpURFFmMEtzcXVjR1hmWGtQRzRxdHlzZS1VZk13?oc=5",
-      "published": "2026-09-25T12:00:00",
-      "sentiment_score": -0.526,
-      "sentiment_label": "Negative",
-      "confidence": 0.554
-    },
-    {
-      "headline": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-      "published": "2026-09-25T11:10:43Z",
-      "sentiment_score": 0.111,
-      "sentiment_label": "Neutral",
-      "confidence": 0.799
     },
     {
       "headline": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
@@ -301,15 +400,6 @@
       "sentiment_score": 0.909,
       "sentiment_label": "Positive",
       "confidence": 0.943
-    },
-    {
-      "headline": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
-      "published": "2026-09-24T21:17:08Z",
-      "sentiment_score": 0.361,
-      "sentiment_label": "Neutral",
-      "confidence": 0.62
     },
     {
       "headline": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -367,7 +457,7 @@
     },
     {
       "headline": "Benefits of AI",
-      "source": "Thomson Reuters",
+      "source": "thomsonreuters.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcS1tbTZtSC1qRGc2SThKWnRZOHRFODYyR19zWm1USExvMGo0VmQtQnZrOTFrYU1SYXNkLU55djJMWklxYnR1Nk53TG1KbXZKWWhSV1laN1I2dW4xT2U4MFZGX2ZzVWNWM0poNHJKOWNzU2NVdEhtUlh0ZV9KbFhEM2VQNjdkbUlaaUJIcjFLMzM0S1k5?oc=5",
       "published": "2026-09-24T07:00:00",
       "sentiment_score": 0.024,
@@ -391,6 +481,15 @@
       "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
       "confidence": 0.914
+    },
+    {
+      "headline": "\u2018That\u2019s so AI!\u2019 What gen Alpha\u2019s biggest insult tells us",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBXRTVRZDBGWlg1Qk44d3hzSXd0ZmppUk80TWVvWjRQTFRrVkVyeEZzd3J3eHJiUXRnYVBqdVplalk3TjdRb0w4UW5VSDRjS0FTdGliWWxfdUZsa2ZNd3lMemZyRng2dnJnejBoYnV3cHhtMjIwTmxob1FzTWp1aHBxVXA1QXZrbU1MU1pWbGRWX0NrdUZVQUpFZDR2ZC1Q?oc=5",
+      "published": "2026-09-24T04:00:00",
+      "sentiment_score": -0.12,
+      "sentiment_label": "Neutral",
+      "confidence": 0.808
     },
     {
       "headline": "US diplomats told to say \u2018super intelligence\u2019 \u2014 not \u2018artificial intelligence\u2019 \u2014 after Trump\u2019s call",
@@ -429,15 +528,6 @@
       "confidence": 0.752
     },
     {
-      "headline": "ChatGPT mobile app gets voice-based agentic features",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlBtX3g3djVGVFllRFhGVGw1bDV6bnVvd0l0Uzk5NGRmbW1McDVWQVhZMV8zRUl4N0tseUlBSmpqUjhrSzB1aEtMU1pvT0NCNkRUeHZsWC1vOG00WGxvS3lpQTR3aHVBazgtU2NRd3hJWDY4Rl9uWlM0WWpqWTZPQTRVel9WOUlQbkF3enliQUM?oc=5",
-      "published": "2026-09-23T17:00:00",
-      "sentiment_score": 0.369,
-      "sentiment_label": "Neutral",
-      "confidence": 0.607
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
@@ -448,7 +538,7 @@
     },
     {
       "headline": "Agentic AI vs. generative AI: The core differences",
-      "source": "Thomson Reuters",
+      "source": "thomsonreuters.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlqYVlXZFV2UUhxazJNSlBEY0NBbmxLOGRnVHRMaXVVOUFxZlV2d2NLTzNHTjVlWFhwc0UxUko4dUV3M2JSNzJ3RkJTaFhnSkh4TF9qQzJ4VXF4RDVYVG5QTTBEQ2xJcmJFNzctSnpSMjcxZ05SMGZGS25lbmFhSDJZck1Ia0JnNUxpZEZ3YnZwNE5tYjFqeW5lZVIyc3VPYlE?oc=5",
       "published": "2026-09-01T07:00:00",
       "sentiment_score": 0.007,
