@@ -1,18 +1,9 @@
 {
-  "last_updated": "2026-09-27T02:33:19.849883",
-  "total_articles": 38,
-  "overall_sentiment": -0.232,
+  "last_updated": "2026-09-27T11:03:33.263563",
+  "total_articles": 39,
+  "overall_sentiment": -0.238,
   "overall_label": "Negative",
   "daily_stats": [
-    {
-      "date": "2026-08-10",
-      "avg_sentiment": -0.396,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.396
-    },
     {
       "date": "2026-08-17",
       "avg_sentiment": -0.892,
@@ -20,7 +11,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.644
+      "moving_avg": -0.892
     },
     {
       "date": "2026-09-01",
@@ -29,16 +20,25 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.427
+      "moving_avg": -0.442
     },
     {
       "date": "2026-09-10",
-      "avg_sentiment": 0.891,
-      "article_count": 1,
-      "positive_count": 1,
+      "avg_sentiment": 0.496,
+      "article_count": 2,
+      "positive_count": 2,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.098
+      "moving_avg": -0.13
+    },
+    {
+      "date": "2026-09-14",
+      "avg_sentiment": -0.05,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.11
     },
     {
       "date": "2026-09-22",
@@ -47,69 +47,90 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.017
+      "moving_avg": 0.007
     },
     {
       "date": "2026-09-23",
-      "avg_sentiment": -0.147,
-      "article_count": 4,
-      "positive_count": 1,
+      "avg_sentiment": -0.319,
+      "article_count": 3,
+      "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.01
-    },
-    {
-      "date": "2026-09-24",
-      "avg_sentiment": -0.36,
-      "article_count": 11,
-      "positive_count": 0,
-      "negative_count": 7,
-      "neutral_count": 4,
-      "moving_avg": -0.06
-    },
-    {
-      "date": "2026-09-25",
-      "avg_sentiment": -0.301,
-      "article_count": 14,
-      "positive_count": 1,
-      "negative_count": 9,
-      "neutral_count": 4,
       "moving_avg": -0.047
     },
     {
+      "date": "2026-09-24",
+      "avg_sentiment": -0.423,
+      "article_count": 9,
+      "positive_count": 0,
+      "negative_count": 6,
+      "neutral_count": 3,
+      "moving_avg": -0.101
+    },
+    {
+      "date": "2026-09-25",
+      "avg_sentiment": -0.279,
+      "article_count": 10,
+      "positive_count": 1,
+      "negative_count": 5,
+      "neutral_count": 4,
+      "moving_avg": -0.013
+    },
+    {
       "date": "2026-09-26",
-      "avg_sentiment": -0.033,
+      "avg_sentiment": -0.045,
+      "article_count": 7,
+      "positive_count": 3,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.021
+    },
+    {
+      "date": "2026-09-27",
+      "avg_sentiment": -0.482,
       "article_count": 4,
-      "positive_count": 2,
-      "negative_count": 2,
+      "positive_count": 0,
+      "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": 0.076
+      "moving_avg": -0.16
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.42,
-      "article_count": 13,
+      "avg_sentiment": -0.431,
+      "article_count": 12,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Guardian",
+      "avg_sentiment": -0.509,
+      "article_count": 5,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.473,
+      "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.549,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.245,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.151,
-      "article_count": 5,
+      "avg_sentiment": 0.44,
+      "article_count": 2,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.379,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.51,
-      "article_count": 3,
-      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
@@ -132,13 +153,40 @@
   ],
   "articles": [
     {
-      "headline": "U.S., Russia stripped human oversight from global AI weapons pact",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNLMmd2Y0t3cS1KN01EbFRNdzc0cHpWT193NnJHNXN1SndBTjdISVdYVGlIbnN0NHRROWJYdDlaeU1VelUwc2hwZ1c5d3dZcjhBQnVNMVF3UVFRd0hDOGkwTTVMSkFBTHM3VG9sU2NJakQ3SGNuMmFUanAzV0tGbXhNOFl6elFaOXZxNEwweUpmSXF5cDlfbmQ2Y0xjMWUxRkNHSW5iUEJNTnR6MFE?oc=5",
-      "published": "2026-09-26T16:00:00",
-      "sentiment_score": -0.207,
+      "headline": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
+      "published": "2026-09-27T10:01:00",
+      "sentiment_score": -0.914,
+      "sentiment_label": "Negative",
+      "confidence": 0.922
+    },
+    {
+      "headline": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5",
+      "published": "2026-09-27T09:01:20",
+      "sentiment_score": -0.58,
+      "sentiment_label": "Negative",
+      "confidence": 0.598
+    },
+    {
+      "headline": "Job Titles Are Out. Now We\u2019re All \u2018Members of the Technical Staff.\u2019",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdvYmJBbXp1a0ZFVzdHTXBUUE81UG1ROXJXODVFdUZITk1EVG1WTnBnZEFXZUhFbkRxbzYySVE0UE02a25ZUGU2OWpVNzYxT1JHOFNmclFLQ0c4aUlaeXR4OC1zbzljZ2RDYWx5UWhCRjBXbE9SZzZiMHUyZm9VWkJ4R2hFV3kyNk44QkxQaWctVFdITWJkdVZ0Q1FPTS1X?oc=5",
+      "published": "2026-09-27T09:01:00",
+      "sentiment_score": -0.199,
       "sentiment_label": "Neutral",
-      "confidence": 0.713
+      "confidence": 0.754
+    },
+    {
+      "headline": "Bill Gates says unchecked AI could \u2018cause a billion deaths\u2019 in call for regulation",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3U0dW9FbGNsVVd0bGt4MlRzRTBZMkE2NWZOYUZlUkxOd3puUEwxdkR1YXNIaHdFNUtaYzJ3cGlOTHM2ckdBbHhLZmYtbUlnalJ2QmZYVS00RFROaksyY01xUnRCSXFzcEppNElYd1NOV21KNWJXVEVPVHBVZUppSEZPRVQzVmhtdlA4ZWp4emlaQmwxblpxVjRVWGM0dw?oc=5",
+      "published": "2026-09-27T09:00:00",
+      "sentiment_score": -0.236,
+      "sentiment_label": "Neutral",
+      "confidence": 0.691
     },
     {
       "headline": "Oxford lets OpenAI train its AI models on Bodleian Library",
@@ -148,6 +196,42 @@
       "sentiment_score": 0.062,
       "sentiment_label": "Neutral",
       "confidence": 0.904
+    },
+    {
+      "headline": "Meta\u2019s Muse Is Adults-Only. Why Does It Look Like a Kids\u2019 Toy?",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+      "published": "2026-09-26T10:30:00Z",
+      "sentiment_score": -0.008,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
+    {
+      "headline": "ChatGPT maker\u2019s AI inappropriately probed federal government websites",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
+      "published": "2026-09-26T05:40:00",
+      "sentiment_score": -0.863,
+      "sentiment_label": "Negative",
+      "confidence": 0.879
+    },
+    {
+      "headline": "Chinese AI models surge in global popularity \u2014 and Washington is worried",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+      "published": "2026-09-26T05:00:01Z",
+      "sentiment_score": 0.923,
+      "sentiment_label": "Positive",
+      "confidence": 0.939
+    },
+    {
+      "headline": "OpenAI bots meddled with US government agencies, including SEC and Census",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
+      "published": "2026-09-26T02:50:56",
+      "sentiment_score": -0.44,
+      "sentiment_label": "Neutral",
+      "confidence": 0.511
     },
     {
       "headline": "OpenAI bots meddled with multiple US government agency sites",
@@ -168,24 +252,6 @@
       "confidence": 0.818
     },
     {
-      "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
-      "published": "2026-09-25T23:16:40",
-      "sentiment_score": -0.631,
-      "sentiment_label": "Negative",
-      "confidence": 0.651
-    },
-    {
-      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "published": "2026-09-25T23:14:11Z",
-      "sentiment_score": -0.388,
-      "sentiment_label": "Neutral",
-      "confidence": 0.54
-    },
-    {
       "headline": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
@@ -202,24 +268,6 @@
       "sentiment_score": -0.567,
       "sentiment_label": "Negative",
       "confidence": 0.593
-    },
-    {
-      "headline": "OpenAI bots meddled with US government agencies, including SEC and Census",
-      "source": "BBC News",
-      "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "published": "2026-09-25T22:43:54Z",
-      "sentiment_score": -0.29,
-      "sentiment_label": "Neutral",
-      "confidence": 0.66
-    },
-    {
-      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "published": "2026-09-25T22:21:32Z",
-      "sentiment_score": -0.107,
-      "sentiment_label": "Neutral",
-      "confidence": 0.852
     },
     {
       "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
@@ -303,15 +351,6 @@
       "confidence": 0.656
     },
     {
-      "headline": "What Students Are Saying About Writing in the Age of A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFVTZE5iTDhsUy10SDBXdFhKVVVkNGhIRGJDa2FfVmhKb3B0bWlOLVRyeUppV2tkWkdZRWlTcW1ESUxFNVR3RmxXTl9WN0c2MmlWVXJOb1Fjb3JISkJYb1ZaN2NIb1ljcGRobktOazMtRFpHU0NVOVl0OFpXRzdvcmg4Z3lLajVORGQwVWF6ZFBaM0JUUnhzWUN1QUN1SUdQYXdDRHM5MA?oc=5",
-      "published": "2026-09-24T18:04:19",
-      "sentiment_score": -0.029,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
-    },
-    {
       "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
@@ -384,15 +423,6 @@
       "confidence": 0.914
     },
     {
-      "headline": "\u2018That\u2019s so AI!\u2019 What gen Alpha\u2019s biggest insult tells us",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBXRTVRZDBGWlg1Qk44d3hzSXd0ZmppUk80TWVvWjRQTFRrVkVyeEZzd3J3eHJiUXRnYVBqdVplalk3TjdRb0w4UW5VSDRjS0FTdGliWWxfdUZsa2ZNd3lMemZyRng2dnJnejBoYnV3cHhtMjIwTmxob1FzTWp1aHBxVXA1QXZrbU1MU1pWbGRWX0NrdUZVQUpFZDR2ZC1Q?oc=5",
-      "published": "2026-09-24T04:00:00",
-      "sentiment_score": -0.12,
-      "sentiment_label": "Neutral",
-      "confidence": 0.808
-    },
-    {
       "headline": "US diplomats told to say \u2018super intelligence\u2019 \u2014 not \u2018artificial intelligence\u2019 \u2014 after Trump\u2019s call",
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
@@ -420,15 +450,6 @@
       "confidence": 0.716
     },
     {
-      "headline": "ChatGPT mobile app gets voice-based agentic features",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlBtX3g3djVGVFllRFhGVGw1bDV6bnVvd0l0Uzk5NGRmbW1McDVWQVhZMV8zRUl4N0tseUlBSmpqUjhrSzB1aEtMU1pvT0NCNkRUeHZsWC1vOG00WGxvS3lpQTR3aHVBazgtU2NRd3hJWDY4Rl9uWlM0WWpqWTZPQTRVel9WOUlQbkF3enliQUM?oc=5",
-      "published": "2026-09-23T17:00:00",
-      "sentiment_score": 0.369,
-      "sentiment_label": "Neutral",
-      "confidence": 0.607
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
@@ -438,13 +459,31 @@
       "confidence": 0.506
     },
     {
+      "headline": "What is AI, how do apps like ChatGPT work and why are there concerns?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiVlVDbllHd2t2NVB2YjJQYkQwOEF6ZzhqRVhyNmNQRGlzSTkzbkVrYUtLV20wMzFrWDktM0VFQXUzZEtseC0ybTRYX0xjUjI0QkZNX0M2Z3oyZw?oc=5",
+      "published": "2026-09-14T07:00:00",
+      "sentiment_score": -0.05,
+      "sentiment_label": "Neutral",
+      "confidence": 0.909
+    },
+    {
       "headline": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd1c0Ym54ZVdQTmRKSHZjbnVuOFRvVjh4aUxJVTJqRHpRRjZWemlDYnVuZUZhQUVMZW9heHkyUjhZQ282ZVpuczQyM1M1ZElJaUNpdjg5TGd4Vm9TNlQwNlNKbHB4RXdEWDBkR3JEWdIBdEFVX3lxTE9BbFlMMEtIYWsxakliVUgtbWFHb1ZkaHdPYTZqSE9ucFc0SzhVSTV4SjJsQzRzdTdrTTBUR005RzJLeFpFcExIaW9OU2NDVnk0NXNNRENGNEtnSndybGdmVlF0R0NwY2Y1TU9HLS1SQkVQQmVk?oc=5",
       "published": "2026-09-10T07:00:00",
       "sentiment_score": 0.891,
       "sentiment_label": "Positive",
       "confidence": 0.902
+    },
+    {
+      "headline": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenlVSmQ5YXJ0dlNSbFV6WFBOaEZYQ3FBWXNHVDVBYWVJVmdxVTRWdGl4QmZxV251M3FTcU9MY2Zvek84LTIwSWtOMG84b0xPZkJmRU9wTzh1NXNyaUJHSDFISXNYNnlneXgyd09mVTg3a3FVVTlaVE1RVklXNXByYUUzanRHQWgyOGVJSTlTRkE3di1hdmRhZmhWQVEzS3ZBaEtld2NiWlPSAa4BQVVfeXFMT3VudlFUb3NTNUktbThjdnQ4Y2lMN2k1NVg3VmNwdlltazV4TXRpRUduLVZya012SExlYjJxSnJGV2tFUE05SlNJcTN0TU5MekV1RjdvNXBKWDJMVTFCZWljYzBhNFhPekNVWEVLX0tsZ29hS0lER3dsYWs3dUtIM01tRjctdlhoUGk2emhmaUpSSjVuMmtBWTlKWEJrUmwyMWQ0R3NRSU5tcFpyZ01n?oc=5",
+      "published": "2026-09-10T07:00:00",
+      "sentiment_score": 0.102,
+      "sentiment_label": "Neutral",
+      "confidence": 0.869
     },
     {
       "headline": "Agentic AI vs. generative AI: The core differences",
@@ -463,15 +502,6 @@
       "sentiment_score": -0.892,
       "sentiment_label": "Negative",
       "confidence": 0.901
-    },
-    {
-      "headline": "The AI Slop Backlash Is Actually Having an Impact",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVA5NEphTVNfMmh6WEdxMlBwanZ5Y1hWQzZFUWFudmxoNkRBQ1lzWlJyaWJSeXlyOUxwbm8yQml2d0lzazM2RVJZNE1uRmFBbU4tbTR5TnB4U0huZC1tcDdCUXZ0UWxmdnBWVFFaeEo5Mkx4eHpEb2Rpc2V0VWxqUHc5Z1U?oc=5",
-      "published": "2026-08-10T07:00:00",
-      "sentiment_score": -0.396,
-      "sentiment_label": "Neutral",
-      "confidence": 0.494
     }
   ]
 }
