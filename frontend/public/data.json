@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-03T02:56:51.246394",
-  "total_articles": 47,
-  "overall_sentiment": -0.064,
+  "last_updated": "2026-10-03T10:50:22.932357",
+  "total_articles": 38,
+  "overall_sentiment": -0.132,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,21 +15,21 @@
     },
     {
       "date": "2026-09-28",
-      "avg_sentiment": -0.817,
+      "avg_sentiment": -0.693,
       "article_count": 2,
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.854
+      "moving_avg": -0.792
     },
     {
       "date": "2026-09-29",
-      "avg_sentiment": 0.211,
+      "avg_sentiment": 0.206,
       "article_count": 7,
       "positive_count": 5,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.499
+      "moving_avg": -0.46
     },
     {
       "date": "2026-09-30",
@@ -38,72 +38,72 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.374
+      "moving_avg": -0.344
     },
     {
       "date": "2026-10-01",
-      "avg_sentiment": 0.086,
-      "article_count": 20,
-      "positive_count": 9,
-      "negative_count": 3,
-      "neutral_count": 8,
-      "moving_avg": -0.282
+      "avg_sentiment": -0.022,
+      "article_count": 9,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 4,
+      "moving_avg": -0.28
     },
     {
       "date": "2026-10-02",
-      "avg_sentiment": -0.336,
-      "article_count": 11,
-      "positive_count": 2,
-      "negative_count": 5,
-      "neutral_count": 4,
-      "moving_avg": -0.291
+      "avg_sentiment": -0.335,
+      "article_count": 12,
+      "positive_count": 3,
+      "negative_count": 6,
+      "neutral_count": 3,
+      "moving_avg": -0.289
     },
     {
       "date": "2026-10-03",
-      "avg_sentiment": 0.008,
-      "article_count": 1,
+      "avg_sentiment": 0.027,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 1,
-      "moving_avg": -0.248
+      "neutral_count": 2,
+      "moving_avg": -0.244
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.184,
-      "article_count": 12,
+      "avg_sentiment": -0.219,
+      "article_count": 13,
       "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.151,
-      "article_count": 10,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.165,
+      "avg_sentiment": 0.149,
       "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.018,
-      "article_count": 5,
-      "sentiment_label": "Neutral"
+      "source": "Reuters",
+      "avg_sentiment": -0.307,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.102,
+      "avg_sentiment": 0.092,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.425,
-      "article_count": 3,
-      "sentiment_label": "Negative"
+      "source": "The New York Times",
+      "avg_sentiment": 0.127,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": 0.273,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     },
     {
       "source": "WSJ",
@@ -113,6 +113,15 @@
     }
   ],
   "articles": [
+    {
+      "headline": "AI's race to transform the world before the money runs out",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+      "published": "2026-10-03T05:06:00",
+      "sentiment_score": 0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
     {
       "headline": "Tech Now",
       "source": "BBC News",
@@ -150,31 +159,40 @@
       "confidence": 0.761
     },
     {
-      "headline": "Trump to Name Jay Clayton to Serve as A.I. Czar",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjZqNkowM3k3WElwUVRaWjcxWGxPR2hBaTh0dzVtQ092LUM4NHFHWDU1X21zUEZYX3NobkhFSXJmS1FZWHBEOEFCNjZMaHgxUURwWXdwd0NOZF9LQnloaUFUaXh5VzhZOW5HSkpBMzUydEktbXFqZXNQSk83aWNlcDhWVQ?oc=5",
-      "published": "2026-10-02T15:57:04",
-      "sentiment_score": 0.016,
+      "headline": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjFaRDdLNlhKLWVUZDRmQU5GeW5WdUpLWFVVMm5oREFlaXBEcEQyUHBqRTlBSXdiWk1hUWlPaDB5bWpZbWRSdy1Pd3NkRkxkRzM0V1VoaE1IbkdPZWZtU1RqS1B4TVRwVGhrTnczSmhtVmhKcURGc1BadS1wT1h6ZThsZlRKTmdrbjV1RDBQd0hiSHZwNkkyN2lR?oc=5",
+      "published": "2026-10-02T18:00:00",
+      "sentiment_score": 0.012,
       "sentiment_label": "Neutral",
-      "confidence": 0.936
+      "confidence": 0.942
     },
     {
-      "headline": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaV9kbTZQYlFweDY0QWV2aFloV1JCUlA2WGtRR0E5OW9OaXJvbDdYSE1tVjR6ejU0WkJTbk9pNlFDUERLNUVBZ0J6Q2xyN2x6YjhUSmJ2RlJreXhmejJTdHl2ekNXNHM1T1h3Q0lCQWFXN0xmRzQxTExNbWlVYzFYRA?oc=5",
-      "published": "2026-10-02T09:35:00",
-      "sentiment_score": -0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.928
+      "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "published": "2026-10-02T10:00:01Z",
+      "sentiment_score": 0.914,
+      "sentiment_label": "Positive",
+      "confidence": 0.931
     },
     {
-      "headline": "Who\u2019s to Blame When A.I. Goes Rogue?",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
-      "published": "2026-10-02T09:21:00",
-      "sentiment_score": -0.398,
+      "headline": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "published": "2026-10-02T09:45:00Z",
+      "sentiment_score": -0.847,
+      "sentiment_label": "Negative",
+      "confidence": 0.867
+    },
+    {
+      "headline": "AI music maker Suno now generates spoken words",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "published": "2026-10-02T09:42:19Z",
+      "sentiment_score": 0.101,
       "sentiment_label": "Neutral",
-      "confidence": 0.56
+      "confidence": 0.881
     },
     {
       "headline": "OpenAI fires workers for 'mishandling sensitive information'",
@@ -186,6 +204,15 @@
       "confidence": 0.936
     },
     {
+      "headline": "The Unpromotables: Germany's league champions who can't go up",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/sport/football/articles/cmj4jr2vgx0ko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "published": "2026-10-02T06:37:55Z",
+      "sentiment_score": -0.637,
+      "sentiment_label": "Negative",
+      "confidence": 0.686
+    },
+    {
       "headline": "OpenAI fires workers for mishandling 'sensitive information'",
       "source": "BBC News",
       "link": "https://www.bbc.com/news/articles/c6y9z9r4ejzwo",
@@ -193,15 +220,6 @@
       "sentiment_score": -0.942,
       "sentiment_label": "Negative",
       "confidence": 0.951
-    },
-    {
-      "headline": "CNBC Daily Open: Three\u2019s a crowd: U.S. carrier buildup in Middle East sends oil spiking",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/cnbc-daily-open-us-third-carrier-iran.html",
-      "published": "2026-10-02T01:38:38Z",
-      "sentiment_score": 0.247,
-      "sentiment_label": "Positive",
-      "confidence": 0.601
     },
     {
       "headline": "OpenAI fires three workers over mishandling 'sensitive information'",
@@ -222,24 +240,6 @@
       "confidence": 0.933
     },
     {
-      "headline": "INTERPOL says AI is increasing the speed and scale of cyber threats. Here\u2019s what companies should watch",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
-      "published": "2026-10-01T23:53:51Z",
-      "sentiment_score": -0.036,
-      "sentiment_label": "Neutral",
-      "confidence": 0.632
-    },
-    {
-      "headline": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html",
-      "published": "2026-10-01T23:04:13Z",
-      "sentiment_score": 0.892,
-      "sentiment_label": "Positive",
-      "confidence": 0.904
-    },
-    {
       "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
@@ -247,42 +247,6 @@
       "sentiment_score": -0.397,
       "sentiment_label": "Neutral",
       "confidence": 0.559
-    },
-    {
-      "headline": "Software roared back last quarter. Cramer says these stocks can keep climbing",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
-      "published": "2026-10-01T22:18:01Z",
-      "sentiment_score": 0.878,
-      "sentiment_label": "Positive",
-      "confidence": 0.927
-    },
-    {
-      "headline": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "published": "2026-10-01T21:08:11Z",
-      "sentiment_score": 0.225,
-      "sentiment_label": "Neutral",
-      "confidence": 0.731
-    },
-    {
-      "headline": "Trump\u2019s \u2018Morally Binding\u2019 AI \u2018Accord,\u2019 the Rise of AI Agents, and Extremists on the Ballot",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "published": "2026-10-01T19:58:31Z",
-      "sentiment_score": 0.04,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
-    },
-    {
-      "headline": "ChatGPT can now virtually try on clothes for you | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "published": "2026-10-01T19:21:53Z",
-      "sentiment_score": 0.26,
-      "sentiment_label": "Neutral",
-      "confidence": 0.717
     },
     {
       "headline": "ChatGPT can now virtually try on clothes for you",
@@ -301,24 +265,6 @@
       "sentiment_score": -0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.943
-    },
-    {
-      "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-      "published": "2026-10-01T18:29:49Z",
-      "sentiment_score": -0.621,
-      "sentiment_label": "Negative",
-      "confidence": 0.744
-    },
-    {
-      "headline": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells) | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "published": "2026-10-01T17:51:02Z",
-      "sentiment_score": -0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.93
     },
     {
       "headline": "Sony brings AI graphics upscaling to the regular PS5",
@@ -348,24 +294,6 @@
       "confidence": 0.918
     },
     {
-      "headline": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "published": "2026-10-01T14:38:29Z",
-      "sentiment_score": 0.122,
-      "sentiment_label": "Neutral",
-      "confidence": 0.657
-    },
-    {
-      "headline": "Inside Microsoft\u2019s big Copilot rethink",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "published": "2026-10-01T13:58:11Z",
-      "sentiment_score": 0.031,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
-    },
-    {
       "headline": "What even is a \u2018microdrama\u2019?",
       "source": "The Verge",
       "link": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
@@ -373,15 +301,6 @@
       "sentiment_score": -0.001,
       "sentiment_label": "Neutral",
       "confidence": 0.948
-    },
-    {
-      "headline": "Audible's new features let you explore book worlds \u2014 and use AI to talk to characters | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-      "published": "2026-10-01T13:00:50Z",
-      "sentiment_score": 0.134,
-      "sentiment_label": "Neutral",
-      "confidence": 0.843
     },
     {
       "headline": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -496,9 +415,9 @@
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiM2JxUFlyQlA5czluSW5Ea2VhVVA0bW1NTnZkcEExX2RZM3QtRkpzLTNVM2Y2azNJYUpyRkY0a05mRVdtWEVUcFBrN29XSWNhaElMbzFTNUl3WjNCbWtsTW50dUItV0JFTElNRjdkME91bFF5MUpka3hUZnA?oc=5",
       "published": "2026-09-29T17:15:07",
-      "sentiment_score": 0.157,
+      "sentiment_score": 0.116,
       "sentiment_label": "Neutral",
-      "confidence": 0.824
+      "confidence": 0.864
     },
     {
       "headline": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
@@ -510,13 +429,13 @@
       "confidence": 0.694
     },
     {
-      "headline": "\u2018Didn\u2019t quite meet the bar\u2019: OpenAI won\u2019t release new AI model due to safety concerns | CNN Business",
+      "headline": "\u2018Didn\u2019t quite meet the bar\u2019: OpenAI won\u2019t release new AI model due to safety concerns",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOU5iM2Q0b0hnNUZvYk1NM3hzaWJVTjNNUjlyd2N3VVduYUhwMkI3NWstbXM2YjR3OUo3aTlyMzlMZkFCcmoxTEJyOVVHRWxLdDRPc2U1NGRTLURTaWVIUGJoTDl4anVzSnNGTjFpcGtLRVNsb0N2eXh3?oc=5",
-      "published": "2026-09-28T23:45:35",
-      "sentiment_score": -0.772,
+      "published": "2026-09-28T23:44:53",
+      "sentiment_score": -0.524,
       "sentiment_label": "Negative",
-      "confidence": 0.794
+      "confidence": 0.561
     },
     {
       "headline": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns",
