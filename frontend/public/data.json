@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-04T03:26:36.839466",
-  "total_articles": 39,
-  "overall_sentiment": -0.172,
+  "last_updated": "2026-10-04T11:32:53.856935",
+  "total_articles": 35,
+  "overall_sentiment": -0.16,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,12 +24,12 @@
     },
     {
       "date": "2026-09-28",
-      "avg_sentiment": -0.861,
-      "article_count": 1,
+      "avg_sentiment": -0.817,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.582
+      "moving_avg": -0.567
     },
     {
       "date": "2026-09-29",
@@ -38,7 +38,7 @@
       "positive_count": 3,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.373
+      "moving_avg": -0.362
     },
     {
       "date": "2026-09-30",
@@ -47,7 +47,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.298
+      "moving_avg": -0.289
     },
     {
       "date": "2026-10-01",
@@ -56,34 +56,34 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 2,
-      "moving_avg": -0.256
+      "moving_avg": -0.248
     },
     {
       "date": "2026-10-02",
-      "avg_sentiment": -0.276,
-      "article_count": 14,
-      "positive_count": 3,
-      "negative_count": 9,
+      "avg_sentiment": -0.315,
+      "article_count": 10,
+      "positive_count": 2,
+      "negative_count": 6,
       "neutral_count": 2,
-      "moving_avg": -0.259
+      "moving_avg": -0.258
     },
     {
       "date": "2026-10-03",
-      "avg_sentiment": -0.358,
-      "article_count": 6,
-      "positive_count": 0,
-      "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.182
+      "avg_sentiment": 0.036,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "moving_avg": -0.125
     },
     {
       "date": "2026-10-04",
-      "avg_sentiment": 0.019,
-      "article_count": 1,
+      "avg_sentiment": -0.37,
+      "article_count": 3,
       "positive_count": 0,
-      "negative_count": 0,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.181
+      "moving_avg": -0.179
     }
   ],
   "source_stats": [
@@ -95,24 +95,12 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.076,
-      "article_count": 6,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.551,
+      "avg_sentiment": 0.002,
       "article_count": 4,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Neutral"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.259,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "avg_sentiment": 0.201,
       "article_count": 4,
       "sentiment_label": "Positive"
@@ -124,30 +112,48 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Guardian",
-      "avg_sentiment": -0.392,
-      "article_count": 2,
+      "source": "Reuters",
+      "avg_sentiment": -0.468,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.183,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.208,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Washington Post",
-      "avg_sentiment": -0.318,
+      "avg_sentiment": -0.142,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5",
+      "published": "2026-10-04T11:00:08",
+      "sentiment_score": -0.706,
+      "sentiment_label": "Negative",
+      "confidence": 0.726
+    },
+    {
+      "headline": "A.I. Is Going Rogue. Who Should Be Held Responsible?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
+      "published": "2026-10-04T10:42:08",
+      "sentiment_score": -0.422,
+      "sentiment_label": "Neutral",
+      "confidence": 0.532
+    },
+    {
       "headline": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
-      "published": "2026-10-04T02:14:00",
+      "published": "2026-10-04T06:10:46",
       "sentiment_score": 0.019,
       "sentiment_label": "Neutral",
       "confidence": 0.917
@@ -162,40 +168,13 @@
       "confidence": 0.897
     },
     {
-      "headline": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5",
-      "published": "2026-10-03T20:09:00",
-      "sentiment_score": -0.914,
-      "sentiment_label": "Negative",
-      "confidence": 0.927
-    },
-    {
-      "headline": "OpenAI safety employee quits, says 'time for trial and error is over'",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
-      "published": "2026-10-03T19:27:17",
-      "sentiment_score": -0.799,
-      "sentiment_label": "Negative",
-      "confidence": 0.815
-    },
-    {
-      "headline": "A.I. Is Going Rogue. Who Should Be Held Responsible?",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
-      "published": "2026-10-03T14:51:00",
-      "sentiment_score": -0.422,
+      "headline": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "published": "2026-10-03T11:00:01Z",
+      "sentiment_score": 0.128,
       "sentiment_label": "Neutral",
-      "confidence": 0.532
-    },
-    {
-      "headline": "An A.I. Songwriting Experiment: Humans Against the Machine",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGFiQXo4MjJXb09GcEt6RlBQbXZWVWRUQ2cxNkdPT2lLUG9feWNrZWtlU2t4cVNPOWNfa0xNNFZldFEtcEFDR2hlVHRBWFlrTkdGTi1RbmxYUUcxd0pDQl9uRkN6ZWFVUWVoR053aVp6YU94bHVPNTFYRjVDZGQ3TEZBcUIxeHRRTmcw?oc=5",
-      "published": "2026-10-03T09:00:41",
-      "sentiment_score": 0.005,
-      "sentiment_label": "Neutral",
-      "confidence": 0.924
+      "confidence": 0.844
     },
     {
       "headline": "Tech Now",
@@ -216,15 +195,6 @@
       "confidence": 0.927
     },
     {
-      "headline": "Cramer's warning to investors: Making money in this stock market is a lot harder than before",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/cramers-warning-to-investors-making-money-in-this-stock-market-is-a-lot-harder-than-before.html",
-      "published": "2026-10-02T22:12:51Z",
-      "sentiment_score": -0.869,
-      "sentiment_label": "Negative",
-      "confidence": 0.893
-    },
-    {
       "headline": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
@@ -243,15 +213,6 @@
       "confidence": 0.941
     },
     {
-      "headline": "Anthropic to invest $100 million to train AI engineer talent",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-      "published": "2026-10-02T21:03:06Z",
-      "sentiment_score": 0.532,
-      "sentiment_label": "Positive",
-      "confidence": 0.54
-    },
-    {
       "headline": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
@@ -259,15 +220,6 @@
       "sentiment_score": 0.023,
       "sentiment_label": "Neutral",
       "confidence": 0.927
-    },
-    {
-      "headline": "Breaking up (with Elon Musk) is hard to do",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "published": "2026-10-02T17:37:36Z",
-      "sentiment_score": -0.485,
-      "sentiment_label": "Negative",
-      "confidence": 0.508
     },
     {
       "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -297,22 +249,22 @@
       "confidence": 0.886
     },
     {
-      "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "published": "2026-10-02T10:00:01Z",
-      "sentiment_score": 0.914,
-      "sentiment_label": "Positive",
-      "confidence": 0.931
+      "headline": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXF6b0Q4TTRYdTFnWVFQcHlZU0Z2T3cxOW9sdWlub0EzVnVFRVlXUmJMYm1aR05vb3I4cmdlYlJQQVdyMng2VnltNGRWMGJRSTlMZWNLSi1JYlpmZ0wwalVBWTZ5d3RQTDhvYVNIQklhQWNDVGxFUU14eTd2a2Zkek1Xd3pycHRnb1hzMDZnMkI4LU5DT0ZPX0xaWU5sd1k?oc=5",
+      "published": "2026-10-02T09:45:00",
+      "sentiment_score": -0.781,
+      "sentiment_label": "Negative",
+      "confidence": 0.798
     },
     {
-      "headline": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "published": "2026-10-02T09:45:00Z",
-      "sentiment_score": -0.847,
-      "sentiment_label": "Negative",
-      "confidence": 0.867
+      "headline": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5",
+      "published": "2026-10-02T09:03:43",
+      "sentiment_score": 0.138,
+      "sentiment_label": "Neutral",
+      "confidence": 0.761
     },
     {
       "headline": "OpenAI fires workers for 'mishandling sensitive information'",
@@ -322,15 +274,6 @@
       "sentiment_score": -0.905,
       "sentiment_label": "Negative",
       "confidence": 0.917
-    },
-    {
-      "headline": "OpenAI says rogue agents may have affected more than 100 organizations",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWR3QVJLeUtCbFN2LXkwdkFyYTI2S2dsUUlnOUp4bkhITlpacWZNM2FnQUxOUlZ6Z0l0ek5lc0xqQzNjanNCQ1dOUDViYXZnMDA2dk5hV3FlaUV4RkhudG9NXzY5Q1J0US02LTJFTWV0cXVWX0NyQ2R3SGw4MW5VSVRKLTJPVTB4TVdxc2lCeDJpV1dFd1h1dXAxYk9SdWRoNnpzSy1KLWZZUlJXeFpxRGoxd0ZWdXh0SldlNmVhXzlWdw?oc=5",
-      "published": "2026-10-02T03:57:43",
-      "sentiment_score": -0.605,
-      "sentiment_label": "Negative",
-      "confidence": 0.623
     },
     {
       "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity",
@@ -352,7 +295,7 @@
     },
     {
       "headline": "ChatGPT can now virtually try on clothes for you",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWFoWGZaei1UNC1PVVU2NFl0bmRBQV91RDNZVWlXbHdNOGFmVGl0cEtzX2lVNVF3R3FTNlJ3MnRvLUZOWW5LUHh0Q01hUFV2dVJMakxGMG44UHQzLVdzd2xkSkJNTERXQzdjT0pMalZOdTRlUjdnTVpKSzdUY0hwbTQzR21HQzVIX0Q0?oc=5",
       "published": "2026-10-01T19:21:53",
       "sentiment_score": 0.024,
@@ -433,7 +376,7 @@
     },
     {
       "headline": "OpenAI\u2019s latest features take direct aim at the app store model",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXVCRFpYRW5WRFdrZkFuTXUzbklEY1kzRFBhT2U5Skc0U1M2ZG9NdlBTaXd2Q0tfVnB2VC1wQjlSZVltVHNsam83eGd5SGhVMlNGUlpxR1lFS3k1T3JRYVkyOUtnXzFhUzNlZUJfSGFRZWhHeXoxdnFpU0lWTU54YW1KTGxiNXpsdXQweGJhUzJaTHF3ZTctN0h4bEM4UQ?oc=5",
       "published": "2026-09-29T20:15:47",
       "sentiment_score": -0.011,
@@ -443,7 +386,7 @@
     {
       "headline": "Tech Life",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T19:30:00",
       "sentiment_score": -0.106,
       "sentiment_label": "Neutral",
@@ -451,7 +394,7 @@
     },
     {
       "headline": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5",
       "published": "2026-09-29T17:45:51",
       "sentiment_score": 0.107,
@@ -460,7 +403,7 @@
     },
     {
       "headline": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQV80SktFakxmVkxUVHRyd2hBZUxuLUVRbEIxeFJpZVNadWQ3NC03QzhqcmZwQ2MwMDJ4S1B4Z0VfcjlEX2hSUmNrcVY4eW5tMDJDUU5pTHF1ZjZ4ZVZIM0RQRE1Zb0hDdm1sVl9UVXJ2QTdXTk1xWnVYempKd0ZxOGZUdEtIVW9ick51S3I4cVBZY2puSmFRMmR0Z0FsYTQybmhaNml1Q2NqSDg?oc=5",
       "published": "2026-09-29T17:15:00",
       "sentiment_score": 0.685,
@@ -468,10 +411,19 @@
       "confidence": 0.694
     },
     {
+      "headline": "\u2018Didn\u2019t quite meet the bar\u2019: OpenAI won\u2019t release new AI model due to safety concerns | CNN Business",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOU5iM2Q0b0hnNUZvYk1NM3hzaWJVTjNNUjlyd2N3VVduYUhwMkI3NWstbXM2YjR3OUo3aTlyMzlMZkFCcmoxTEJyOVVHRWxLdDRPc2U1NGRTLURTaWVIUGJoTDl4anVzSnNGTjFpcGtLRVNsb0N2eXh3?oc=5",
+      "published": "2026-09-28T23:45:35",
+      "sentiment_score": -0.772,
+      "sentiment_label": "Negative",
+      "confidence": 0.794
+    },
+    {
       "headline": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5",
-      "published": "2026-09-28T23:29:36",
+      "published": "2026-09-28T23:07:00",
       "sentiment_score": -0.861,
       "sentiment_label": "Negative",
       "confidence": 0.876
