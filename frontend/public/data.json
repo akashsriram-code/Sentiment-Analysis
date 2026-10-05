@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-04T20:40:41.271801",
-  "total_articles": 39,
-  "overall_sentiment": -0.19,
+  "last_updated": "2026-10-05T03:04:06.768422",
+  "total_articles": 45,
+  "overall_sentiment": -0.211,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -14,22 +14,31 @@
       "moving_avg": -0.892
     },
     {
+      "date": "2026-08-25",
+      "avg_sentiment": -0.677,
+      "article_count": 2,
+      "positive_count": 0,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.784
+    },
+    {
       "date": "2026-09-01",
       "avg_sentiment": 0.007,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.442
+      "moving_avg": -0.521
     },
     {
       "date": "2026-09-28",
-      "avg_sentiment": -0.817,
+      "avg_sentiment": -0.693,
       "article_count": 2,
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.567
+      "moving_avg": -0.564
     },
     {
       "date": "2026-09-29",
@@ -38,7 +47,7 @@
       "positive_count": 3,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.362
+      "moving_avg": -0.4
     },
     {
       "date": "2026-09-30",
@@ -47,7 +56,7 @@
       "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.289
+      "moving_avg": -0.333
     },
     {
       "date": "2026-10-01",
@@ -56,42 +65,57 @@
       "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.247
+      "moving_avg": -0.291
     },
     {
       "date": "2026-10-02",
-      "avg_sentiment": -0.638,
-      "article_count": 5,
+      "avg_sentiment": -0.53,
+      "article_count": 6,
       "positive_count": 0,
       "negative_count": 5,
-      "neutral_count": 0,
-      "moving_avg": -0.303
+      "neutral_count": 1,
+      "moving_avg": -0.239
     },
     {
       "date": "2026-10-03",
-      "avg_sentiment": -0.279,
-      "article_count": 10,
-      "positive_count": 2,
-      "negative_count": 5,
+      "avg_sentiment": -0.257,
+      "article_count": 8,
+      "positive_count": 1,
+      "negative_count": 4,
       "neutral_count": 3,
-      "moving_avg": -0.215
+      "moving_avg": -0.179
     },
     {
       "date": "2026-10-04",
-      "avg_sentiment": -0.009,
-      "article_count": 6,
+      "avg_sentiment": -0.181,
+      "article_count": 10,
       "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 3,
-      "moving_avg": -0.218
+      "negative_count": 4,
+      "neutral_count": 5,
+      "moving_avg": -0.206
+    },
+    {
+      "date": "2026-10-05",
+      "avg_sentiment": 0.014,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.105
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": 0.067,
-      "article_count": 9,
+      "avg_sentiment": 0.061,
+      "article_count": 10,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.213,
+      "article_count": 6,
+      "sentiment_label": "Negative"
     },
     {
       "source": "TechCrunch",
@@ -100,34 +124,34 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.329,
+      "source": "WSJ",
+      "avg_sentiment": -0.443,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "WSJ",
-      "avg_sentiment": -0.597,
+      "source": "CNBC",
+      "avg_sentiment": -0.192,
       "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.187,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNN",
+      "avg_sentiment": -0.255,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": -0.001,
-      "article_count": 3,
+      "avg_sentiment": 0.0,
+      "article_count": 2,
       "sentiment_label": "Neutral"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.084,
-      "article_count": 3,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.471,
-      "article_count": 3,
-      "sentiment_label": "Negative"
     },
     {
       "source": "Wired",
@@ -138,13 +162,49 @@
   ],
   "articles": [
     {
+      "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T02:32:21",
+      "sentiment_score": 0.014,
+      "sentiment_label": "Neutral",
+      "confidence": 0.894
+    },
+    {
+      "headline": "OpenAI's Altman says AI benefits warrant accepting some risks",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGhDUmJ2UzEwZ0hlenFISFFXdkZyVHd1TGNIZEhLTERLaDRWaXh4dlpVM1RfU0p4Vlh2cjVybWZtOWZkVVp0ZEVndGQ3T2pZd0tyelVvV3JnQ09FQlNOYWtVeUhCMjZud2NpYUVEZllhbHhIeVFvOXpEY0lLTklTNnNpNnhDTUdVS1dYSzl6S3VwbzgydXlKZVFRTkE4Y0dsYlJtQldVWkY?oc=5",
+      "published": "2026-10-04T22:35:00",
+      "sentiment_score": 0.085,
+      "sentiment_label": "Neutral",
+      "confidence": 0.848
+    },
+    {
       "headline": "Trump launches \u2018Super Intelligence Force\u2019 after calls for AI slowdown",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa19adU9sV0V4bFFRV1BZYlJySTRjbURpekNybjFtZWIzQ3h6LWJrdXRoVG5nSGlMaTh0QlJRZkYwYWczR1JNejNIZ0wwYkFETDhPMVp2c1RrRlhqNFVyMDR1OHJIajljMkgzSEVwOUtEMXY3S2N5UE5KWFpZNExLelNIN0hUSjZhRWRaS0dMd0U0WndnMXpZWjk4UDhGR0daLS1ZV2xUMDBPREJTT3d3VFZKU1FyUQ?oc=5",
-      "published": "2026-10-04T20:28:29",
+      "published": "2026-10-04T21:26:20",
       "sentiment_score": -0.129,
       "sentiment_label": "Neutral",
       "confidence": 0.775
+    },
+    {
+      "headline": "Fareed Zakaria on his takeaways from top tech meeting and what's difficult about regulating AI",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFh6ZlBDdnExNFJwWUI3Wkk5SHZFVHpVeE1mamFzRUg4Z2JGaHpfZHk4VlE3Nmd1TzFMWlRzRWh5ek1RdTlqV2tSMzEyU0MyRldwQ0EzY19PeTJYb25kdFlGUXQ0cDNxWVdHd3Q2SGNuMEd3U0FqYXFWemFKRzFnYl9uNXBzeE1kbTZoekR6bVlnQnotb1Z0bS1aVDdEX0xUZ3RwaTNkQ1dJSy1UaTZGR2wwdw?oc=5",
+      "published": "2026-10-04T21:05:57",
+      "sentiment_score": 0.015,
+      "sentiment_label": "Neutral",
+      "confidence": 0.883
+    },
+    {
+      "headline": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnR5cUVLZE91ckU2X0sxOGNzbjA4SjU4MFhiUXNvb0E4M1FLTldoT3d0b3BDUmU3NFVxOUk1eURXMmhEVExrQTNKT3d2LXY2emNNSUo0Nzd0Vkp0WmxiTDh0MVhhM2h1NnRIZnVnZmRNcmJNNmlCajkxN1U2ZGJBZHlLNEVYanF6c2lBc0pVOHh2a1h4QWs0Yngxc0RYX3pOS2NDUGZRRjRKQmtLbnpxZk5QNjljNjJVSkNQRVNn?oc=5",
+      "published": "2026-10-04T20:47:43",
+      "sentiment_score": -0.047,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
     },
     {
       "headline": "Musk says he will rename SpaceXAI to SpaceXSI",
@@ -165,15 +225,6 @@
       "confidence": 0.909
     },
     {
-      "headline": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFFueFRZT3l3bzJFYWFUVmJ0Nk5CQ1NMam01eXBwemFWejgzcWxyclNvTFlOX3hRTk4zUDkwRnlubWtudHdwZG5JZzFJbjNlbFFsU0dITUJtdml4bGtSMjlQeVRpS2N6dTdVcXE3LUZWTzBKTGd1a0ZyeGFlUXhPaElFZzBPcEE3ellKZmVn?oc=5",
-      "published": "2026-10-04T13:44:00",
-      "sentiment_score": -0.004,
-      "sentiment_label": "Neutral",
-      "confidence": 0.932
-    },
-    {
       "headline": "The AI industry is booming. Women are getting left behind",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5",
@@ -183,31 +234,49 @@
       "confidence": 0.808
     },
     {
-      "headline": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+      "headline": "Wall Street\u2019s AI Party Is on Edge as Soaring Yields Raise Risks",
       "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDlyc283Wk8zZ3RubnFCdWI5UTdiRFFiamxqYUVlcXNLeG9PcGJEX1pXMmVvVkFsZk5FZ1RYcjdjZ1RxNkw5aFFVTGtqYXhNT3V2YmgxZ3p6WEZCRG1vV0d4MU5WOEN0M1JUQTdHTVlwX3Nhc0FFZkZPNnl6VV95WGY0dzdQVnBzS21YOGdkM0l4bnVDMlEyZ1o0TS1ZbTFDRzI3ck40WEFJZldRQjEyXw?oc=5",
-      "published": "2026-10-04T04:17:00",
-      "sentiment_score": 0.219,
-      "sentiment_label": "Neutral",
-      "confidence": 0.541
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzQxSFhvb0lYekZDUDA4UlhCc2lJdDZNWFNUV0pVMTVXSW5QX2NQSXc4M01wc25mRlY0dDNuU21Kb1ZaVVJoWDRPUUJsbjk0NnAwd2duc2ZTZ1Y2cU5udUlHMEtGSkZ6QjdRZkRHWmNWTGNXa2VvdXhROFhVb1QtQmhKMUwzMXdsLTRwWXhDdHdYUm4xOUlvelJtWTA5blQwdS1JdEh3aHI2ZmdtWG9WWE1lSHY?oc=5",
+      "published": "2026-10-04T13:00:00",
+      "sentiment_score": -0.903,
+      "sentiment_label": "Negative",
+      "confidence": 0.924
     },
     {
-      "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w?oc=5",
-      "published": "2026-10-03T23:37:23",
-      "sentiment_score": -0.027,
+      "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5",
+      "published": "2026-10-04T11:00:08",
+      "sentiment_score": -0.706,
+      "sentiment_label": "Negative",
+      "confidence": 0.726
+    },
+    {
+      "headline": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "published": "2026-10-04T02:14:00",
+      "sentiment_score": 0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.899
+      "confidence": 0.917
+    },
+    {
+      "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "published": "2026-10-03T23:37:23Z",
+      "sentiment_score": 0.031,
+      "sentiment_label": "Neutral",
+      "confidence": 0.935
     },
     {
       "headline": "Trump names intelligence chief Clayton as AI czar, to head task force",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5",
       "published": "2026-10-03T22:46:00",
-      "sentiment_score": -0.015,
+      "sentiment_score": -0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.93
+      "confidence": 0.931
     },
     {
       "headline": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
@@ -235,24 +304,6 @@
       "sentiment_score": -0.849,
       "sentiment_label": "Negative",
       "confidence": 0.892
-    },
-    {
-      "headline": "An OpenAI safety employee has quit and is sounding the alarm",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "published": "2026-10-03T14:31:56Z",
-      "sentiment_score": -0.84,
-      "sentiment_label": "Negative",
-      "confidence": 0.851
-    },
-    {
-      "headline": "Meta's Muse can shop and check out for you. Here's how it works",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/03/meta-muse-shopping-ai-agent.html",
-      "published": "2026-10-03T12:00:01Z",
-      "sentiment_score": 0.152,
-      "sentiment_label": "Neutral",
-      "confidence": 0.831
     },
     {
       "headline": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -289,6 +340,15 @@
       "sentiment_score": -0.931,
       "sentiment_label": "Negative",
       "confidence": 0.941
+    },
+    {
+      "headline": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjFaRDdLNlhKLWVUZDRmQU5GeW5WdUpLWFVVMm5oREFlaXBEcEQyUHBqRTlBSXdiWk1hUWlPaDB5bWpZbWRSdy1Pd3NkRkxkRzM0V1VoaE1IbkdPZWZtU1RqS1B4TVRwVGhrTnczSmhtVmhKcURGc1BadS1wT1h6ZThsZlRKTmdrbjV1RDBQd0hiSHZwNkkyN2lR?oc=5",
+      "published": "2026-10-02T18:00:00",
+      "sentiment_score": 0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.942
     },
     {
       "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -453,31 +513,49 @@
       "confidence": 0.694
     },
     {
-      "headline": "\u2018Didn\u2019t quite meet the bar\u2019: OpenAI won\u2019t release new AI model due to safety concerns | CNN Business",
+      "headline": "\u2018Didn\u2019t quite meet the bar\u2019: OpenAI won\u2019t release new AI model due to safety concerns",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOU5iM2Q0b0hnNUZvYk1NM3hzaWJVTjNNUjlyd2N3VVduYUhwMkI3NWstbXM2YjR3OUo3aTlyMzlMZkFCcmoxTEJyOVVHRWxLdDRPc2U1NGRTLURTaWVIUGJoTDl4anVzSnNGTjFpcGtLRVNsb0N2eXh3?oc=5",
-      "published": "2026-09-28T23:45:35",
-      "sentiment_score": -0.772,
+      "published": "2026-09-28T23:44:53",
+      "sentiment_score": -0.524,
       "sentiment_label": "Negative",
-      "confidence": 0.794
+      "confidence": 0.561
     },
     {
       "headline": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5",
-      "published": "2026-09-28T23:07:00",
+      "published": "2026-09-28T23:29:36",
       "sentiment_score": -0.861,
       "sentiment_label": "Negative",
       "confidence": 0.876
     },
     {
       "headline": "Agentic AI vs. generative AI: The core differences",
-      "source": "thomsonreuters.com",
+      "source": "Thomson Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlqYVlXZFV2UUhxazJNSlBEY0NBbmxLOGRnVHRMaXVVOUFxZlV2d2NLTzNHTjVlWFhwc0UxUko4dUV3M2JSNzJ3RkJTaFhnSkh4TF9qQzJ4VXF4RDVYVG5QTTBEQ2xJcmJFNzctSnpSMjcxZ05SMGZGS25lbmFhSDJZck1Ia0JnNUxpZEZ3YnZwNE5tYjFqeW5lZVIyc3VPYlE?oc=5",
       "published": "2026-09-01T07:00:00",
       "sentiment_score": 0.007,
       "sentiment_label": "Neutral",
       "confidence": 0.901
+    },
+    {
+      "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
+      "published": "2026-08-25T07:00:00",
+      "sentiment_score": -0.735,
+      "sentiment_label": "Negative",
+      "confidence": 0.75
+    },
+    {
+      "headline": "Australia Bans Generative A.I. From Official Music Charts",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2lIMXdTUWVicGpiek1qLUdheVN1d3FNNmwwVDdFdjluY0xpT1F3OG13RmZwTWJPZ25tSDBjUWJ2eVN0VmR0RUVTZml6WjdKWWNySDh4Y1p4blh1X3RyNG01WWdmWUZ1T0pqaFQzQXp1aVFaRnRtY0NuaExXb2ROTUl5Zy1MNXBoZlI2bA?oc=5",
+      "published": "2026-08-25T07:00:00",
+      "sentiment_score": -0.619,
+      "sentiment_label": "Negative",
+      "confidence": 0.636
     },
     {
       "headline": "AI Has Plunged the Book Publishing Industry Into Utter Chaos",
