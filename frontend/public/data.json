@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-08T22:40:46.105009",
-  "total_articles": 42,
-  "overall_sentiment": -0.123,
+  "last_updated": "2026-10-09T03:41:43.710991",
+  "total_articles": 40,
+  "overall_sentiment": -0.069,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-10-05",
-      "avg_sentiment": -0.21,
-      "article_count": 5,
+      "avg_sentiment": 0.038,
+      "article_count": 3,
       "positive_count": 2,
-      "negative_count": 2,
+      "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.101
+      "moving_avg": 0.023
     },
     {
       "date": "2026-10-06",
@@ -29,72 +29,90 @@
       "positive_count": 1,
       "negative_count": 4,
       "neutral_count": 3,
-      "moving_avg": -0.139
+      "moving_avg": -0.057
     },
     {
       "date": "2026-10-07",
-      "avg_sentiment": -0.105,
-      "article_count": 23,
-      "positive_count": 10,
+      "avg_sentiment": -0.054,
+      "article_count": 21,
+      "positive_count": 8,
       "negative_count": 8,
       "neutral_count": 5,
-      "moving_avg": -0.131
+      "moving_avg": -0.056
     },
     {
       "date": "2026-10-08",
-      "avg_sentiment": 0.004,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": -0.006,
+      "article_count": 7,
+      "positive_count": 3,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.104
+      "moving_avg": -0.046
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.273,
-      "article_count": 13,
+      "avg_sentiment": -0.216,
+      "article_count": 12,
       "sentiment_label": "Negative"
     },
     {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.169,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
       "source": "The Verge",
-      "avg_sentiment": 0.043,
-      "article_count": 6,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": 0.094,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.099,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.124,
+      "avg_sentiment": -0.114,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.197,
-      "article_count": 4,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.195,
-      "article_count": 4,
+      "avg_sentiment": 0.305,
+      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": 0.036,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
-    },
-    {
       "source": "Wired",
-      "avg_sentiment": -0.147,
-      "article_count": 3,
+      "avg_sentiment": -0.26,
+      "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "\u2018Breathtaking,\u2019 \u2018Devastating\u2019: Mathematics Reels After New OpenAI Release",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODBqdjFtSkFGUTZYd2w1WlRnaWFfX3NiWDJ4OXgzdGozcV94WFV1T2JWY0lrekg2ZGR6Sk1wMGtNMzNDeXFmdnc2Zl9zTk0zMDhCLXMyYUFVSjRVNk1CTkF2Y2h2VF9HRVZvV2xfRkpiUTJsQUlNV0ZnaFBTWGxJUW5mbkVEdjVuQ25HMHV3?oc=5",
+      "published": "2026-10-08T21:53:08",
+      "sentiment_score": -0.106,
+      "sentiment_label": "Neutral",
+      "confidence": 0.676
+    },
+    {
+      "headline": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1pUdXp3bm9pWnk5cWtxTVRVb2tSRzB6VUxVWXk1RkNoNS0zejJaT0FHeTRpeXZEV2k1Q2RUV05RTElxcHdsUWpZTExqVEYwVFNnbUc1QThYeHhUemFJRVVjWXFtbUJkNWpYS2s5YjlsRV9vRGpkb3dXSnh0QU5HTEpDS21DdUI4MkZvc3YtS1JwWE94dmlmZjgydS0?oc=5",
+      "published": "2026-10-08T18:10:55",
+      "sentiment_score": 0.065,
+      "sentiment_label": "Neutral",
+      "confidence": 0.858
+    },
     {
       "headline": "Asos hackers took more personal details than first revealed, BBC finds",
       "source": "BBC News",
@@ -114,31 +132,40 @@
       "confidence": 0.911
     },
     {
-      "headline": "Manus raises more than $500 million after Meta exit",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
-      "published": "2026-10-08T13:55:34",
-      "sentiment_score": 0.071,
-      "sentiment_label": "Neutral",
-      "confidence": 0.89
-    },
-    {
       "headline": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
-      "published": "2026-10-08T10:56:55",
+      "published": "2026-10-08T10:23:00",
       "sentiment_score": -0.082,
       "sentiment_label": "Neutral",
       "confidence": 0.853
     },
     {
+      "headline": "AI use lifts participation in WorldQuant contest",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaU9BU3JlallQY1BwajVXbXR0cVNPNEJsNW1wZDNTTmo5R2JjQ0hrTTBlZWFPWFJSd3dWVTYwaldVRWxneTNCUHZESWMwVWxkQS1YbXNackdiWUNIZlpxOXNGQjJ2Q3VQVmNNa3NtWnUtWVU3LTI5bEZpQ2JzdHFrcjB3NVE1LWVtMkF5ZmRmWXhNRTVI?oc=5",
+      "published": "2026-10-08T08:22:34",
+      "sentiment_score": 0.052,
+      "sentiment_label": "Neutral",
+      "confidence": 0.914
+    },
+    {
       "headline": "AI chip boom pushes Samsung profits to record $80bn",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T01:59:54",
+      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o",
+      "published": "2026-10-08T01:31:56Z",
       "sentiment_score": 0.924,
       "sentiment_label": "Positive",
       "confidence": 0.94
+    },
+    {
+      "headline": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "published": "2026-10-07T22:58:05Z",
+      "sentiment_score": 0.902,
+      "sentiment_label": "Positive",
+      "confidence": 0.928
     },
     {
       "headline": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
@@ -150,15 +177,6 @@
       "confidence": 0.829
     },
     {
-      "headline": "Cramer says higher rates are splitting the market in two \u2014 and AI stocks have a big advantage",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
-      "published": "2026-10-07T22:22:32Z",
-      "sentiment_score": -0.902,
-      "sentiment_label": "Negative",
-      "confidence": 0.929
-    },
-    {
       "headline": "Cupertino might be made for your mom, but it\u2019s a good take on tech",
       "source": "The Verge",
       "link": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
@@ -166,15 +184,6 @@
       "sentiment_score": 0.189,
       "sentiment_label": "Neutral",
       "confidence": 0.769
-    },
-    {
-      "headline": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-      "published": "2026-10-07T21:32:55Z",
-      "sentiment_score": 0.1,
-      "sentiment_label": "Neutral",
-      "confidence": 0.853
     },
     {
       "headline": "Elon Musk\u2019s America PAC Is Quietly Funding November\u2019s Most Consequential Elections",
@@ -211,15 +220,6 @@
       "sentiment_score": 0.02,
       "sentiment_label": "Neutral",
       "confidence": 0.942
-    },
-    {
-      "headline": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-      "published": "2026-10-07T18:45:00Z",
-      "sentiment_score": 0.079,
-      "sentiment_label": "Neutral",
-      "confidence": 0.878
     },
     {
       "headline": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
@@ -289,9 +289,9 @@
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXZyRzY3SU54cjlKMi1jWWVvY21vYWU0UlBMb2FwUEp5Wjl6bERWWHRvY3NjSVNTRWlDM3M0aFlPNXpaX0hTS1pCd3pBZWJhVDl5LXFzV3ZEb3U1QV91RjgyVVNzVDVQLV9UY3FmRnFwMm1MdTNMMk9SZjhHNWk2WFp0Mm9UTDRPbjZMdXpGS2lxZWkxZmNYNG5QYnpEc2RJbXNwaEgyWUJUcnlFY1BLVDZfbFBBdURQNlVkN01VcEFBdnNBUjhMUWZyVk5XZw?oc=5",
       "published": "2026-10-07T16:03:12",
-      "sentiment_score": -0.265,
+      "sentiment_score": -0.205,
       "sentiment_label": "Neutral",
-      "confidence": 0.659
+      "confidence": 0.744
     },
     {
       "headline": "The full lineup of interactive roundtables at Disrupt 2026 | TechCrunch",
@@ -312,13 +312,13 @@
       "confidence": 0.929
     },
     {
-      "headline": "The Start-Up That Wants to Build \u2018Microrobots\u2019 With A.I.",
+      "headline": "Why My Conversations with OpenAI\u2019s \u2018ChatGPT for Teens\u2019 Made Me Very Worried",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemlXWGk4UEt3WmltdE1PQU1sWjNzT242NHlfSDk4WEEtaGJFZWRaY1BpUE9YZmVuVWZDdHllMWF1MGFCZVN5OHBia1JVTWxOeWtneks5Sm5ibHlhWHBRVC1iT2hOSElpXzdRb0ZwZWVlM202bWtDNmxPdUptN1dnM1FuTkk4Zw?oc=5",
-      "published": "2026-10-07T09:06:16",
-      "sentiment_score": 0.113,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWtwVUZ2WTRoazkxYTdQVmhIM2ZfM2RRVDhJQXI5NkhDbmxxUGdHSjA2T21kcThhTzQyemp5QUVSYVd6ak5nNzFVRFFTNGZWR2gtX3lpSGZYbG8wQ1R5VTNpeXk5blNzU0NrTTJJRTJiNHRhNzJLQVB3bEVzTC1xSDByT0w3X0s3Vk9vTA?oc=5",
+      "published": "2026-10-07T09:07:18",
+      "sentiment_score": -0.286,
       "sentiment_label": "Neutral",
-      "confidence": 0.864
+      "confidence": 0.608
     },
     {
       "headline": "Can Artificial Intelligence Learn the Art of Surgery?",
@@ -342,7 +342,7 @@
       "headline": "How AI tempts the lazy mind",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHZ1ZWVjbG9XNWVUSGRDeHVZODJ4R0IyN19hZ205UmY5SVBJM2d2U0x3NGZiTV9zQkg3SFphSjV4QjlIdjVIRUFsbS1MdUhWamI0ZnhJZ0JHMnROOUdhakt6NFhOZTFIcmRwdXhXcWZGSGVDcmdLZEJaTGZRODhBdnVQeUY?oc=5",
-      "published": "2026-10-07T04:00:13",
+      "published": "2026-10-07T04:01:51",
       "sentiment_score": -0.35,
       "sentiment_label": "Neutral",
       "confidence": 0.6
@@ -436,24 +436,6 @@
       "sentiment_score": 0.066,
       "sentiment_label": "Neutral",
       "confidence": 0.905
-    },
-    {
-      "headline": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user\u2019s suicide",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUQ4QmxRcjVLeGVYdV84X0pBQndRMUl2MEp1UlJ6TzJ2Vk9GdHFHeENZSDVsSEtaRS1YMTM5dV9CbFpfc1otNDZmS0pNc2h3VXpyenRDMVdjTTFORjNhVDlpbU44NUhMbUdybGRkRDdvRTJORW5hZzktSVJPeTJtV2haeUpmeGxuZUJ2MTBNUU82eWllVGIycUZzLU52UGR2SlZlVg?oc=5",
-      "published": "2026-10-05T16:55:42",
-      "sentiment_score": -0.212,
-      "sentiment_label": "Neutral",
-      "confidence": 0.72
-    },
-    {
-      "headline": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T16:13:21",
-      "sentiment_score": -0.953,
-      "sentiment_label": "Negative",
-      "confidence": 0.962
     },
     {
       "headline": "OpenAI is sticking more ads in ChatGPT",
