@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-10-11T11:49:47.524797",
-  "total_articles": 43,
-  "overall_sentiment": -0.326,
+  "last_updated": "2026-10-11T17:02:04.636204",
+  "total_articles": 42,
+  "overall_sentiment": -0.258,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-09-01",
+      "avg_sentiment": 0.007,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.007
+    },
     {
       "date": "2026-10-06",
       "avg_sentiment": 0.038,
@@ -11,7 +20,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.038
+      "moving_avg": 0.022
     },
     {
       "date": "2026-10-07",
@@ -20,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 3,
-      "moving_avg": -0.006
+      "moving_avg": -0.002
     },
     {
       "date": "2026-10-08",
@@ -29,58 +38,52 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.009
+      "moving_avg": -0.005
     },
     {
       "date": "2026-10-09",
-      "avg_sentiment": -0.478,
-      "article_count": 19,
+      "avg_sentiment": -0.492,
+      "article_count": 17,
       "positive_count": 3,
-      "negative_count": 14,
-      "neutral_count": 2,
-      "moving_avg": -0.126
+      "negative_count": 13,
+      "neutral_count": 1,
+      "moving_avg": -0.102
     },
     {
       "date": "2026-10-10",
-      "avg_sentiment": -0.378,
-      "article_count": 10,
-      "positive_count": 2,
-      "negative_count": 7,
+      "avg_sentiment": -0.145,
+      "article_count": 9,
+      "positive_count": 3,
+      "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.176
+      "moving_avg": -0.109
     },
     {
       "date": "2026-10-11",
-      "avg_sentiment": -0.3,
-      "article_count": 3,
+      "avg_sentiment": -0.224,
+      "article_count": 4,
       "positive_count": 1,
       "negative_count": 2,
-      "neutral_count": 0,
-      "moving_avg": -0.197
+      "neutral_count": 1,
+      "moving_avg": -0.126
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.408,
-      "article_count": 11,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.505,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.074,
-      "article_count": 5,
+      "avg_sentiment": -0.365,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.202,
+      "avg_sentiment": -0.031,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.447,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
@@ -97,16 +100,16 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "BBC",
-      "avg_sentiment": -0.874,
-      "article_count": 2,
+      "source": "AP News",
+      "avg_sentiment": -0.496,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
-      "source": "AP News",
-      "avg_sentiment": -0.404,
-      "article_count": 2,
-      "sentiment_label": "Negative"
+      "source": "TechCrunch",
+      "avg_sentiment": 0.113,
+      "article_count": 3,
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
@@ -116,6 +119,15 @@
     }
   ],
   "articles": [
+    {
+      "headline": "Trump really wants to make \u2018super intelligence\u2019 happen. Is it going to happen?",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HOFdTWHoxdldqUHkzUVdGWXdhRXRjU1NZemxqWlU5YkY1bmdmQjExc2hWU2Q4a2RCNkRsMEppT2FPQTNzQmdybUVwWVlDb2NFNW9qcXFIaWdHYzJCNEhFNVFxdThDLUczdUdxeXlSMjhCcTNQbFE?oc=5",
+      "published": "2026-10-11T16:00:44",
+      "sentiment_score": 0.006,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
+    },
     {
       "headline": "AI\u2019s quiet safety gatekeepers are stepping into the spotlight",
       "source": "CNBC",
@@ -144,6 +156,24 @@
       "confidence": 0.74
     },
     {
+      "headline": "Anthropic\u2019s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5",
+      "published": "2026-10-10T16:11:44",
+      "sentiment_score": -0.679,
+      "sentiment_label": "Negative",
+      "confidence": 0.702
+    },
+    {
+      "headline": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+      "published": "2026-10-10T15:00:01Z",
+      "sentiment_score": 0.199,
+      "sentiment_label": "Neutral",
+      "confidence": 0.776
+    },
+    {
       "headline": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2UzSkk1YUFJR0dkcktxMWlmdVh3LUhRV3htQlJUYUlWbmowV2NPZEp4SnBWQllPc09JSTRsSVlFRERXdXRaZ0VDSHJfVHk4SGZzTWhiT2ZrSk1uQVl0TGJBUGtTNnprZFJsdDM3ejNNaW9od1A2X2dLbDZQY05KYkhCT3c0cldYNndYMQ?oc=5",
@@ -151,6 +181,15 @@
       "sentiment_score": -0.818,
       "sentiment_label": "Negative",
       "confidence": 0.835
+    },
+    {
+      "headline": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
+      "published": "2026-10-10T12:00:01Z",
+      "sentiment_score": -0.171,
+      "sentiment_label": "Neutral",
+      "confidence": 0.486
     },
     {
       "headline": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions",
@@ -189,33 +228,6 @@
       "confidence": 0.707
     },
     {
-      "headline": "Volunteer police chief fired after Palantir probe",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo",
-      "published": "2026-10-10T09:19:53Z",
-      "sentiment_score": -0.84,
-      "sentiment_label": "Negative",
-      "confidence": 0.855
-    },
-    {
-      "headline": "Palantir AI probe leads to Met Police volunteer chief's dismissal",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTbkdlVTRaeGYtaFQxZGNYUjcwLU9ESUFjNWtSODNMYnlGQkhBMk5qMlVjNGlMYlZjWnRoTHhKdHhiQjc1SFMyRWVlVkxldHpaQ1dxM2JUa2ZPRmc?oc=5",
-      "published": "2026-10-10T09:19:53",
-      "sentiment_score": -0.912,
-      "sentiment_label": "Negative",
-      "confidence": 0.922
-    },
-    {
-      "headline": "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-      "published": "2026-10-10T05:00:01Z",
-      "sentiment_score": -0.628,
-      "sentiment_label": "Negative",
-      "confidence": 0.645
-    },
-    {
       "headline": "Tech Now",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
@@ -223,33 +235,6 @@
       "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
       "confidence": 0.914
-    },
-    {
-      "headline": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "published": "2026-10-10T00:19:29Z",
-      "sentiment_score": -0.748,
-      "sentiment_label": "Negative",
-      "confidence": 0.765
-    },
-    {
-      "headline": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-      "published": "2026-10-09T23:15:12",
-      "sentiment_score": -0.738,
-      "sentiment_label": "Negative",
-      "confidence": 0.756
-    },
-    {
-      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "published": "2026-10-09T21:41:54Z",
-      "sentiment_score": 0.036,
-      "sentiment_label": "Neutral",
-      "confidence": 0.922
     },
     {
       "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
@@ -497,11 +482,20 @@
     {
       "headline": "Tech Life",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T19:30:00",
       "sentiment_score": 0.012,
       "sentiment_label": "Neutral",
       "confidence": 0.941
+    },
+    {
+      "headline": "Agentic AI vs. generative AI: The core differences",
+      "source": "Thomson Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlqYVlXZFV2UUhxazJNSlBEY0NBbmxLOGRnVHRMaXVVOUFxZlV2d2NLTzNHTjVlWFhwc0UxUko4dUV3M2JSNzJ3RkJTaFhnSkh4TF9qQzJ4VXF4RDVYVG5QTTBEQ2xJcmJFNzctSnpSMjcxZ05SMGZGS25lbmFhSDJZck1Ia0JnNUxpZEZ3YnZwNE5tYjFqeW5lZVIyc3VPYlE?oc=5",
+      "published": "2026-09-01T07:00:00",
+      "sentiment_score": 0.007,
+      "sentiment_label": "Neutral",
+      "confidence": 0.901
     }
   ]
 }
