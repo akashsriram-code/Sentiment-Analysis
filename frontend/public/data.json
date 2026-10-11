@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-10T20:53:45.485347",
-  "total_articles": 43,
-  "overall_sentiment": -0.295,
+  "last_updated": "2026-10-11T02:56:23.060983",
+  "total_articles": 46,
+  "overall_sentiment": -0.291,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,12 +24,12 @@
     },
     {
       "date": "2026-10-07",
-      "avg_sentiment": -0.141,
+      "avg_sentiment": -0.044,
       "article_count": 7,
       "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 3,
-      "moving_avg": -0.033
+      "negative_count": 2,
+      "neutral_count": 4,
+      "moving_avg": -0.001
     },
     {
       "date": "2026-10-08",
@@ -38,25 +38,34 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.028
+      "moving_avg": -0.004
     },
     {
       "date": "2026-10-09",
-      "avg_sentiment": -0.444,
-      "article_count": 22,
-      "positive_count": 3,
+      "avg_sentiment": -0.382,
+      "article_count": 24,
+      "positive_count": 5,
       "negative_count": 16,
       "neutral_count": 3,
-      "moving_avg": -0.111
+      "moving_avg": -0.08
     },
     {
       "date": "2026-10-10",
-      "avg_sentiment": -0.247,
+      "avg_sentiment": -0.402,
       "article_count": 8,
       "positive_count": 1,
       "negative_count": 6,
       "neutral_count": 1,
-      "moving_avg": -0.134
+      "moving_avg": -0.133
+    },
+    {
+      "date": "2026-10-11",
+      "avg_sentiment": -0.715,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.216
     }
   ],
   "source_stats": [
@@ -68,25 +77,25 @@
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.107,
+      "avg_sentiment": -0.165,
       "article_count": 8,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.394,
-      "article_count": 4,
+      "source": "TechCrunch",
+      "avg_sentiment": -0.154,
+      "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.418,
-      "article_count": 4,
+      "avg_sentiment": -0.505,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.053,
+      "source": "CNBC",
+      "avg_sentiment": -0.141,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
@@ -94,12 +103,6 @@
       "source": "BBC",
       "avg_sentiment": -0.767,
       "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Washington Post",
-      "avg_sentiment": -0.206,
-      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -123,13 +126,31 @@
   ],
   "articles": [
     {
-      "headline": "In Silicon Valley, AI founders cheer Trump\u2019s calls for the industry to police itself on safety",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1ROMFduVkhXTjVQR0RDMmFxcDh6Zldjd2ZOWTB5QjJwTHNSV202NFZOXzNCR2NmT2NabWUwTlR5V2dQaXU3WWMtWUdjNndQQ0RLXzBReTQtSW9hY1NjdXdORnZmYTY2NlRVSDEtTUxmXzltY09tdEl6cExDdWQzajJJYjhLSXFZUEh2RUNxMGJMN01DV081bjNFeDg1M1d4UWhsYzJ0UmlITzc4U01ZZzN4a0dqX0dqU0dHZlRiSXVwR00?oc=5",
-      "published": "2026-10-10T14:43:30",
-      "sentiment_score": -0.103,
-      "sentiment_label": "Neutral",
-      "confidence": 0.712
+      "headline": "OpenAI\u2019s ChatGPT for Teens Poses \u2018Unacceptable Risk,\u2019 Nonprofit Says",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW9OTGdpUjUzbldpeFl1aVpQUW8wbFFRYVZ0QU5GOXpmbEpLeDZTQTVQOTYySTd6RHZqekZvTXZod2VIRU5leU52S3Y0Yk9qdlRxSnZzY2ZYQnZoemZNSlNVS1pSUHk3NThPVHBEeVdLZWQ3YkVNVk5WR1lwQ2t3X043ZzEyY2sweUcwejVHTW5UR08xNTBMR0J3TzBsQkxEM1JB?oc=5",
+      "published": "2026-10-11T02:22:09",
+      "sentiment_score": -0.715,
+      "sentiment_label": "Negative",
+      "confidence": 0.74
+    },
+    {
+      "headline": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+      "published": "2026-10-10T18:01:00",
+      "sentiment_score": -0.738,
+      "sentiment_label": "Negative",
+      "confidence": 0.756
+    },
+    {
+      "headline": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2UzSkk1YUFJR0dkcktxMWlmdVh3LUhRV3htQlJUYUlWbmowV2NPZEp4SnBWQllPc09JSTRsSVlFRERXdXRaZ0VDSHJfVHk4SGZzTWhiT2ZrSk1uQVl0TGJBUGtTNnprZFJsdDM3ejNNaW9od1A2X2dLbDZQY05KYkhCT3c0cldYNndYMQ?oc=5",
+      "published": "2026-10-10T14:28:57",
+      "sentiment_score": -0.818,
+      "sentiment_label": "Negative",
+      "confidence": 0.835
     },
     {
       "headline": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions",
@@ -168,24 +189,6 @@
       "confidence": 0.922
     },
     {
-      "headline": "AI is changing how lawyers work \u2014 and putting the billable hour under pressure",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2hidGI0TGJ6T2V2a0tHemdJa0hDLVdPM2pwUzlBQ0dURmZVaXhhRHRlZXA4ZTFCdUxSa0ZqVUlMYzlDVGwzTVFqaWIwS245bERiLTdTRnEwTUx2NGdfQ0RDbDdBdENMUTZrOVUySXVvZS12WmFFcVg2ZEJxd25YNg?oc=5",
-      "published": "2026-10-10T05:00:01",
-      "sentiment_score": -0.227,
-      "sentiment_label": "Neutral",
-      "confidence": 0.708
-    },
-    {
-      "headline": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-      "published": "2026-10-10T02:17:47",
-      "sentiment_score": -0.738,
-      "sentiment_label": "Negative",
-      "confidence": 0.756
-    },
-    {
       "headline": "Tech Now",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
@@ -193,6 +196,51 @@
       "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
       "confidence": 0.914
+    },
+    {
+      "headline": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "published": "2026-10-10T00:19:29Z",
+      "sentiment_score": -0.748,
+      "sentiment_label": "Negative",
+      "confidence": 0.765
+    },
+    {
+      "headline": "Cramer\u2019s week ahead: Earnings kick off as banks and chipmakers face big tests",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+      "published": "2026-10-09T22:22:35Z",
+      "sentiment_score": 0.781,
+      "sentiment_label": "Positive",
+      "confidence": 0.797
+    },
+    {
+      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "published": "2026-10-09T21:41:54Z",
+      "sentiment_score": 0.036,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
+    {
+      "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "published": "2026-10-09T21:26:33Z",
+      "sentiment_score": 0.171,
+      "sentiment_label": "Neutral",
+      "confidence": 0.809
+    },
+    {
+      "headline": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "published": "2026-10-09T21:15:38Z",
+      "sentiment_score": -0.575,
+      "sentiment_label": "Negative",
+      "confidence": 0.597
     },
     {
       "headline": "Will Warner Bros. kill Skydance \u2014 or will David Ellison kill Warner Bros?",
@@ -247,33 +295,6 @@
       "sentiment_score": -0.916,
       "sentiment_label": "Negative",
       "confidence": 0.927
-    },
-    {
-      "headline": "They Grow Up So Fast: Druski Hilariously Spoofs Former Child Stars In Wild New Skit [Video]",
-      "source": "Hip-Hop Wired",
-      "link": "https://hiphopwired.com/3067321/druski-child-stars-disney-skit/",
-      "published": "2026-10-09T18:00:03Z",
-      "sentiment_score": -0.182,
-      "sentiment_label": "Neutral",
-      "confidence": 0.766
-    },
-    {
-      "headline": "The techlash has gone Hollywood",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-      "published": "2026-10-09T16:53:54Z",
-      "sentiment_score": 0.093,
-      "sentiment_label": "Neutral",
-      "confidence": 0.872
-    },
-    {
-      "headline": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
-      "published": "2026-10-09T16:50:40Z",
-      "sentiment_score": -0.03,
-      "sentiment_label": "Neutral",
-      "confidence": 0.838
     },
     {
       "headline": "We can't help treating AI like it's human. But should we? | TechCrunch",
@@ -357,6 +378,15 @@
       "confidence": 0.751
     },
     {
+      "headline": "China Leads AI by Weaving It Into Every Digital Thing",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzQtSVZzUHdNZlRBZ2VrQ0RKUmxuMHc4ZnkyUGlsQmlQaVpQSFpuOV8zMFhIX3dkQnI0WnJyS1dUYmJ3aG9rZ2ROTFB5bjRIaWVvNl9aX0dzRGJUMjlER3lhck4zZ2NHWVBMdXN2ZXNydUVPcjFfSmVPWmRyWVo0cGp2RHhzS3ZVN3ZIdHFXRXJNTUVRbkwzSXkxUVdiYmxqM2pLeEhqVmtpS2hCR1ExWl9OZDN4ZVVu?oc=5",
+      "published": "2026-10-09T10:30:01",
+      "sentiment_score": 0.068,
+      "sentiment_label": "Neutral",
+      "confidence": 0.896
+    },
+    {
       "headline": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByakdvWUs5bXZUSl8yNG5pN2hHN0VTVFo2am5Kd21OWWJYMW5BekFPQ0ZRTS1FWEFDbDB6d2RVMnhuNGxLZTl6V29UVHM5YlBLVlN5WHItVFhQVTQ?oc=5",
@@ -405,7 +435,7 @@
       "headline": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
-      "published": "2026-10-08T10:56:55",
+      "published": "2026-10-08T10:23:00",
       "sentiment_score": -0.082,
       "sentiment_label": "Neutral",
       "confidence": 0.853
@@ -433,18 +463,18 @@
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEFVMy1BRFZyWXM2UFZVeVFyUy1TdTluV0tYRkkwdnlDVFNyZW9jZVhMQVN3Qng5UXk5bmtCSXRaOGcySFNveWtudG11eXZfNGhJSFZmallXN3I2d052WXZrT0xuRF9yR0lvYjBycmV0NVRka2FtMG84SXp5QWo0WlFsN0QyTlN4bHFpRWZGSVJreWJsTmtfV3lQTkNTVTFpZDJ6WlRRN01jUQ?oc=5",
       "published": "2026-10-07T18:00:19",
-      "sentiment_score": 0.21,
+      "sentiment_score": 0.213,
       "sentiment_label": "Neutral",
-      "confidence": 0.768
+      "confidence": 0.767
     },
     {
-      "headline": "OpenAI\u2019s ChatGPT for Teens Poses \u2018Unacceptable Risk,\u2019 Nonprofit Says",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW9OTGdpUjUzbldpeFl1aVpQUW8wbFFRYVZ0QU5GOXpmbEpLeDZTQTVQOTYySTd6RHZqekZvTXZod2VIRU5leU52S3Y0Yk9qdlRxSnZzY2ZYQnZoemZNSlNVS1pSUHk3NThPVHBEeVdLZWQ3YkVNVk5WR1lwQ2t3X043ZzEyY2sweUcwejVHTW5UR08xNTBMR0J3TzBsQkxEM1JB?oc=5",
-      "published": "2026-10-07T17:44:00",
-      "sentiment_score": -0.715,
-      "sentiment_label": "Negative",
-      "confidence": 0.74
+      "headline": "The New ChatGPT Is More Show Than Tell",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmlaekNCVGMyMmRybXVPUl9Wd25sTVd1RTNwaGlPdy1rcnhUMGt5MkM5UmoydG1JOWFGa2pnbUQxUU0zZEl6eHM3Q2s0YVdCRS1mVk1lZEhXZHRJOENwQ3A3MWNyWTBpeGJGeHp4QmYxVXptcXVBWUdXVUJnb2dWOGNTcmptbXox?oc=5",
+      "published": "2026-10-07T18:00:00",
+      "sentiment_score": -0.004,
+      "sentiment_label": "Neutral",
+      "confidence": 0.937
     },
     {
       "headline": "COMMENTARY: A framework for governing employees' existing use of generative AI",
@@ -469,9 +499,9 @@
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWtwVUZ2WTRoazkxYTdQVmhIM2ZfM2RRVDhJQXI5NkhDbmxxUGdHSjA2T21kcThhTzQyemp5QUVSYVd6ak5nNzFVRFFTNGZWR2gtX3lpSGZYbG8wQ1R5VTNpeXk5blNzU0NrTTJJRTJiNHRhNzJLQVB3bEVzTC1xSDByT0w3X0s3Vk9vTA?oc=5",
       "published": "2026-10-07T09:07:18",
-      "sentiment_score": -0.286,
+      "sentiment_score": -0.32,
       "sentiment_label": "Neutral",
-      "confidence": 0.608
+      "confidence": 0.593
     },
     {
       "headline": "Can Artificial Intelligence Learn the Art of Surgery?",
