@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-11T17:02:04.636204",
-  "total_articles": 42,
-  "overall_sentiment": -0.258,
+  "last_updated": "2026-10-11T21:14:56.512035",
+  "total_articles": 44,
+  "overall_sentiment": -0.225,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,30 +42,30 @@
     },
     {
       "date": "2026-10-09",
-      "avg_sentiment": -0.492,
+      "avg_sentiment": -0.485,
       "article_count": 17,
       "positive_count": 3,
       "negative_count": 13,
       "neutral_count": 1,
-      "moving_avg": -0.102
+      "moving_avg": -0.101
     },
     {
       "date": "2026-10-10",
-      "avg_sentiment": -0.145,
+      "avg_sentiment": 0.046,
       "article_count": 9,
-      "positive_count": 3,
-      "negative_count": 5,
-      "neutral_count": 1,
-      "moving_avg": -0.109
+      "positive_count": 4,
+      "negative_count": 3,
+      "neutral_count": 2,
+      "moving_avg": -0.076
     },
     {
       "date": "2026-10-11",
-      "avg_sentiment": -0.224,
-      "article_count": 4,
+      "avg_sentiment": -0.302,
+      "article_count": 6,
       "positive_count": 1,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.126
+      "negative_count": 3,
+      "neutral_count": 2,
+      "moving_avg": -0.109
     }
   ],
   "source_stats": [
@@ -76,20 +76,20 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.031,
+      "source": "The Verge",
+      "avg_sentiment": -0.354,
       "article_count": 5,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.447,
-      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.202,
+      "source": "CNBC",
+      "avg_sentiment": 0.196,
+      "article_count": 5,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.427,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
@@ -100,16 +100,22 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "AP News",
-      "avg_sentiment": -0.496,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "TechCrunch",
       "avg_sentiment": 0.113,
       "article_count": 3,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "Bloomberg.com",
+      "avg_sentiment": 0.055,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "AP News",
+      "avg_sentiment": -0.404,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
@@ -119,6 +125,24 @@
     }
   ],
   "articles": [
+    {
+      "headline": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5",
+      "published": "2026-10-11T20:46:52",
+      "sentiment_score": 0.041,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
+    },
+    {
+      "headline": "Silicon Valley is falling in line with Trump\u2019s attempt to rename AI",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aTdXbnUyZ19zc2RLZ1ZZZi1pcVhYRlJSR0tXZU9RaUZSYVRxM0JnY0E1YU5hYXFYS1NLRTRpNmRITFE3N1IzZVZSeFRJbHpxWkU5Tng1TDR6ZjVudm5MMGpQa1ZVbzJobUFhUXRwaENJVmpyR21PYjc3Tl9tc2llWlA4OENESTdHOU52c1lQOEJSMG5GLWFnZGc3TFRFR21iWDRqbHV6YjcxcVBFbi1xWEFVRThxRExTSmY1RUdUX1c5?oc=5",
+      "published": "2026-10-11T18:33:56",
+      "sentiment_score": -0.961,
+      "sentiment_label": "Negative",
+      "confidence": 0.969
+    },
     {
       "headline": "Trump really wants to make \u2018super intelligence\u2019 happen. Is it going to happen?",
       "source": "CNN",
@@ -156,13 +180,22 @@
       "confidence": 0.74
     },
     {
-      "headline": "Anthropic\u2019s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5",
-      "published": "2026-10-10T16:11:44",
-      "sentiment_score": -0.679,
-      "sentiment_label": "Negative",
-      "confidence": 0.702
+      "headline": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "published": "2026-10-10T20:59:28Z",
+      "sentiment_score": 0.269,
+      "sentiment_label": "Neutral",
+      "confidence": 0.701
+    },
+    {
+      "headline": "Nasdaq Futures Prediction: Will Nasdaq Futures Open Higher or Lower on Monday, October 12? Check US Stock Market Outlook, Treasury Yields, Inflation Data, Bank Earnings & What Investors Should Know",
+      "source": "The Sunday Guardian",
+      "link": "https://sundayguardianlive.com/business/nasdaq-futures-prediction-will-nasdaq-futures-open-higher-or-lower-on-monday-october-12-check-us-stock-market-outlook-treasury-yields-inflation-data-bank-earnings-what-investors-should-know-302954/",
+      "published": "2026-10-10T19:53:15Z",
+      "sentiment_score": -0.046,
+      "sentiment_label": "Neutral",
+      "confidence": 0.824
     },
     {
       "headline": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
@@ -172,15 +205,6 @@
       "sentiment_score": 0.199,
       "sentiment_label": "Neutral",
       "confidence": 0.776
-    },
-    {
-      "headline": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2UzSkk1YUFJR0dkcktxMWlmdVh3LUhRV3htQlJUYUlWbmowV2NPZEp4SnBWQllPc09JSTRsSVlFRERXdXRaZ0VDSHJfVHk4SGZzTWhiT2ZrSk1uQVl0TGJBUGtTNnprZFJsdDM3ejNNaW9od1A2X2dLbDZQY05KYkhCT3c0cldYNndYMQ?oc=5",
-      "published": "2026-10-10T12:00:03",
-      "sentiment_score": -0.818,
-      "sentiment_label": "Negative",
-      "confidence": 0.835
     },
     {
       "headline": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
@@ -212,8 +236,8 @@
     {
       "headline": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-      "published": "2026-10-10T10:06:23Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T10:06:23",
       "sentiment_score": -0.921,
       "sentiment_label": "Negative",
       "confidence": 0.935
@@ -235,6 +259,15 @@
       "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
       "confidence": 0.914
+    },
+    {
+      "headline": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+      "published": "2026-10-09T23:15:12",
+      "sentiment_score": -0.738,
+      "sentiment_label": "Negative",
+      "confidence": 0.756
     },
     {
       "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
@@ -318,13 +351,13 @@
       "confidence": 0.724
     },
     {
-      "headline": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
-      "published": "2026-10-09T15:07:53Z",
-      "sentiment_score": -0.865,
+      "headline": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXd0ajg4X1FXUWl6RlZveHMwZFE1dHhJLWt6QThySlhMOWo5Ri1tbm52WV82MXpwODB1LWhnZ0hKYlp2dEduTmJRdVg4YWV1Z2pPMjJKT2JZUGpaSW5IaG1mVDhHNG4zZmplNlRjY3dma1hUajFUUVlrUkhuU3VncEpESno2NTQ5U2FuSW5UUng3SVpuS2NxVUtKWHV4UTVzLVF6V2RUWlBJcm0z?oc=5",
+      "published": "2026-10-09T13:17:34",
+      "sentiment_score": -0.726,
       "sentiment_label": "Negative",
-      "confidence": 0.894
+      "confidence": 0.751
     },
     {
       "headline": "Anthropic bans users from being 'cruel' to its AI systems",
@@ -334,15 +367,6 @@
       "sentiment_score": -0.704,
       "sentiment_label": "Negative",
       "confidence": 0.722
-    },
-    {
-      "headline": "OpenAI fires 3 safety researchers in dispute over AI risks",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXd0ajg4X1FXUWl6RlZveHMwZFE1dHhJLWt6QThySlhMOWo5Ri1tbm52WV82MXpwODB1LWhnZ0hKYlp2dEduTmJRdVg4YWV1Z2pPMjJKT2JZUGpaSW5IaG1mVDhHNG4zZmplNlRjY3dma1hUajFUUVlrUkhuU3VncEpESno2NTQ5U2FuSW5UUng3SVpuS2NxVUtKWHV4UTVzLVF6V2RUWlBJcm0z?oc=5",
-      "published": "2026-10-09T11:06:00",
-      "sentiment_score": -0.726,
-      "sentiment_label": "Negative",
-      "confidence": 0.751
     },
     {
       "headline": "China Leads AI by Weaving It Into Every Digital Thing",
