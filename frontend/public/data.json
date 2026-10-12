@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-12T13:54:54.034125",
-  "total_articles": 43,
-  "overall_sentiment": -0.22,
+  "last_updated": "2026-10-12T23:58:21.385353",
+  "total_articles": 35,
+  "overall_sentiment": -0.333,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "date": "2026-10-07",
-      "avg_sentiment": -0.064,
-      "article_count": 3,
+      "avg_sentiment": -0.1,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.013
+      "neutral_count": 1,
+      "moving_avg": -0.031
     },
     {
       "date": "2026-10-08",
@@ -29,43 +29,43 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.302
+      "moving_avg": -0.314
     },
     {
       "date": "2026-10-09",
-      "avg_sentiment": -0.586,
-      "article_count": 12,
-      "positive_count": 2,
-      "negative_count": 10,
+      "avg_sentiment": -0.634,
+      "article_count": 10,
+      "positive_count": 1,
+      "negative_count": 9,
       "neutral_count": 0,
-      "moving_avg": -0.373
+      "moving_avg": -0.394
     },
     {
       "date": "2026-10-10",
-      "avg_sentiment": -0.074,
-      "article_count": 7,
-      "positive_count": 3,
-      "negative_count": 3,
+      "avg_sentiment": 0.033,
+      "article_count": 5,
+      "positive_count": 2,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.313
+      "moving_avg": -0.309
     },
     {
       "date": "2026-10-11",
-      "avg_sentiment": -0.186,
-      "article_count": 4,
-      "positive_count": 2,
-      "negative_count": 2,
+      "avg_sentiment": -0.332,
+      "article_count": 8,
+      "positive_count": 3,
+      "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.292
+      "moving_avg": -0.313
     },
     {
       "date": "2026-10-12",
-      "avg_sentiment": -0.012,
-      "article_count": 14,
-      "positive_count": 6,
-      "negative_count": 5,
-      "neutral_count": 3,
-      "moving_avg": -0.252
+      "avg_sentiment": -0.261,
+      "article_count": 7,
+      "positive_count": 2,
+      "negative_count": 4,
+      "neutral_count": 1,
+      "moving_avg": -0.305
     }
   ],
   "source_stats": [
@@ -76,111 +76,72 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": 0.093,
-      "article_count": 7,
-      "sentiment_label": "Positive"
-    },
-    {
       "source": "Reuters",
-      "avg_sentiment": -0.018,
-      "article_count": 5,
+      "avg_sentiment": -0.227,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.007,
+      "article_count": 4,
       "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The Guardian",
-      "avg_sentiment": -0.345,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.389,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.366,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "BBC",
-      "avg_sentiment": -0.067,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     },
     {
       "source": "WSJ",
-      "avg_sentiment": 0.021,
+      "avg_sentiment": 0.125,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.614,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.903,
       "article_count": 2,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
+      "headline": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5",
+      "published": "2026-10-12T20:10:00",
+      "sentiment_score": 0.332,
+      "sentiment_label": "Neutral",
+      "confidence": 0.648
+    },
+    {
+      "headline": "US AI testing agency officials to move to White House, The Information reports",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3NjZGpMYnpWV3ZoWUNuOEFsWnROQzNvT3Y0dnRzdWhMLWZKS2NqY09USExBZWZlRFZmWndkM0sxRDlFOTBZQW1yNk5ZSk9jVURtbldzUFU2SFoydGRLaUp5cEZodnFBZHYyRmxsOTJoRnBHUnNQekdEQ1JmRUFlUk9HTy1QTmVWYkZ0ZlF5R2VYYTZhUU1VaEM0cGgxM1p1R3JTd255NDZEQ3Y1b29IQ1RfTW5RU0U?oc=5",
+      "published": "2026-10-12T20:09:55",
+      "sentiment_score": -0.022,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
+    },
+    {
       "headline": "AI minister warns 'likely' UK's cyber defences will be breached",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T13:06:18",
+      "published": "2026-10-12T15:03:42",
       "sentiment_score": 0.222,
       "sentiment_label": "Neutral",
       "confidence": 0.442
     },
     {
-      "headline": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXdvdGREcjRPNHptRzBRc0U2a3ZSZXQ5cHdDRG5HVkpyYnZCTmJKcVdJVnpGUnhua09PbmR4bXdXM0diYVptTWNmcHFaY3FTRmlJV2N6d2Vma183QnA3UnFjUTVNRjhEWWRFZDJNQTdGNkkzbFNNSzFvLTloQ25kQmlYRXFfcmRCSzVvdU9VdXhSUEx5d1ZqU3VB0gGfAUFVX3lxTFBYNlVqUHRKWk9zYWtJU1hCWEpKM2tRUDgxdDltRlV1aU52dmlieFIyWTNwOEt2VndRT01ERnVmVG1xaEt6YnptRDhJNW42bFgwQWM4QXJMTTE5SllPZFc5dUtoclhJamluZENjdXdzeGdDNDFzejZlSHRwbjBVX0VTbHh0ZDRPVlNfQVgyelJVUl9KZi1LQllkR29uRlg4NA?oc=5",
-      "published": "2026-10-12T13:00:01",
-      "sentiment_score": 0.557,
-      "sentiment_label": "Positive",
-      "confidence": 0.572
-    },
-    {
-      "headline": "As US medical debt grows, AI will be used more to collect it",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zRlJJZG52aE9WN2JVLVVmcWxIcmtwZnFKNXl4NjNrdnlOVFRybk83dlFpeHI3eFRQYk9VeUtCbFlqMHlMdHlnWTNuRVdVSW5HWnQzY1EwT01pY21YYUs2UDNmVWtqWVB0TEJERnJsRy1KQW9aYnhmSUExUQ?oc=5",
-      "published": "2026-10-12T12:03:00",
-      "sentiment_score": 0.061,
-      "sentiment_label": "Neutral",
-      "confidence": 0.903
-    },
-    {
-      "headline": "What Should AI Guardrails Look Like? A Guide to the Proposals",
-      "source": "Bloomberg Law News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejF3OG9ZVGUxSkZ1SkpuTmUzZmx5UEV3cXFxd2x6UEd1RVltYjA2RndKcVF2TGJiaVVXVUdKMVNPcmZlcTJmSDVsbXo4Q0pfaENCZ0V2czZmS0R3X1VqeTB5dS1PTG5Mc2tUWEdEN2trOWxTMENaQzZ4dTdkanBSTkpEYVhzWVBNV1dIY2dHazFGYkM1Slo0UzRqMUFBa3ktY3NYNHdDNzRrQXN6SnRxZnE3X0k?oc=5",
-      "published": "2026-10-12T11:41:00",
-      "sentiment_score": 0.021,
-      "sentiment_label": "Neutral",
-      "confidence": 0.937
-    },
-    {
-      "headline": "Productivity gains from AI could help offset Asia's ageing population problem, IMF says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVU5qaE01dGdTdm8yQi1OWnlCcWJZMGZsekFCYW85NXpQNFBaczdLRm5idXdpMUdiSkFzZGZ0RGo4SGU5dFFjbEZhekstOFgtMGszd3ZZSFpyQmpWT0pJVEQtcU9FWU10TU9pTjRhU0o4aHFRWmhwVmhkWUR0WFJhbUJmY3dPbnlYT3ZWMjdabnd2Z1gzSnF1QVVYbWZnLTg4dGlicld6NENPNzlhZng2QVFFQTVGZlZ6VW51SGpyNGRqRGd1Z0N5TGZVR3N5ZTUy?oc=5",
-      "published": "2026-10-12T10:18:22",
-      "sentiment_score": 0.818,
-      "sentiment_label": "Positive",
-      "confidence": 0.843
-    },
-    {
-      "headline": "AI FOMO driving some family offices into tech investments, survey suggests",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejlCWWdUT0lMTDN0ZEpMRVY3RXFNXzhsVlRuYzJleE90dngySXUtRWNPY05LWVNmb0R4Y3V4ZDBfdTlodFN5b1owUUgxRGdsRnNkLWJFSUhzTkgyS3Q1MVhka1M2Z19DNWlHQ0pmbGRwVmRRSS1PMlYyU21Vbkc0OGExXzhxTlRkaHNRbFg4YWh0VUY3bmtrcTB4YmFXb0NPN2dKY21wa3p4QdIBrwFBVV95cUxOekM5b2E4Qm1QVDhGUERrWEVVUHFIYkdLQl9pVWNrZnNEVnpPOW9fSm1fbW9iU1VjU1FsNGVaNFlvcTJMMVR1cll2UTBmWDFFU2oxQUxQaERBT0FXay1hWmR3a1Bvalh3LXBfSXgxZWVhUFVoX3lqRnBKc2duZDV5cjJWUmxna0FWN21aSFFSZnhJTTRDT0Eycm9mMktEWkotNlFIT3JJcGMxbjFWYWJ3?oc=5",
-      "published": "2026-10-12T10:00:01",
-      "sentiment_score": -0.039,
-      "sentiment_label": "Neutral",
-      "confidence": 0.835
-    },
-    {
-      "headline": "Microsoft president says milk faces more regulation than AI",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1NfWGg4YTk5aTliMnhVVHdsS2ZoUVJwT1hsNW9HZ2Y0VXdsRWFSb2VRT3RmQ1B1ZnZKRVZUd1ZQWElzM3dPZ08yRldXRXdwdm9Lc3hEOWZxQVNrYjBtMExTYkhnTnM5b1NNdmI5aUZGS29vRXVCLUpXY2JsbTRodVpMNkZBU1JnUEZWdUJvcUtwbnVXSWFaT3lMbzlqdVRybm9YTVJ4anVpbkZmN0lOYUFR?oc=5",
-      "published": "2026-10-12T09:24:01",
-      "sentiment_score": -0.025,
-      "sentiment_label": "Neutral",
-      "confidence": 0.902
+      "headline": "Nikon revokes first prize in Small World in Motion video competition over AI use",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXRvM2dXNHJWd0otdHlLWl9sUXc1R3FXVmkxUHppcGphNnNvSXZzWGFkQ0RLbVptdzZFVmZUdDN3VlFlbkpVeDhERFR5eFhYenlOZUo2MHh4VkhkSVBpQ0s2YlU0LUhCT3FwRXlfM1hvYlZVeXU4SS02REcxOUZsQVpSUzNGNnc?oc=5",
+      "published": "2026-10-12T11:21:43",
+      "sentiment_score": -0.443,
+      "sentiment_label": "Negative",
+      "confidence": 0.502
     },
     {
       "headline": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
@@ -190,42 +151,6 @@
       "sentiment_score": -0.878,
       "sentiment_label": "Negative",
       "confidence": 0.891
-    },
-    {
-      "headline": "AI less regulated than milk, Microsoft president says in warning over safety",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakhDNFlaMk9mSGQwbi0zcWlFSW1hQVRUckFFekhNbWF0MUVHSFVFNUhDYXRicUpQV1dTcEFka2RsNXk2a2tYV21NcUJOWWFJU09NTjNMVlBjOHBHa0tfRW1UTUJpRFl3bE96LUZTZzhFUm8waHR0dTdHZmlmd2E4dTQ4bWRKY3dlWUR2RkpUOW42clIwUUxYa0ZsTHNZT0JyRW9NNWY3c0c0Rk5QSTFJcm9McnFfMThhdnoydEE5WQ?oc=5",
-      "published": "2026-10-12T08:11:00",
-      "sentiment_score": -0.233,
-      "sentiment_label": "Neutral",
-      "confidence": 0.628
-    },
-    {
-      "headline": "AI cameras spot nearly 19,000 road offences in West Midlands",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OFIwUjFzXzJNVkxiUHR3VDV0d3BKTXJpQmJacjRTaFEzYTQ0YWRPQmJHaTlra0NQUWZwRUVOQU5WRmVZM2JMSVVYRFI2eG9EUnpSVlRjaTJIMkE?oc=5",
-      "published": "2026-10-12T08:02:08",
-      "sentiment_score": -0.268,
-      "sentiment_label": "Neutral",
-      "confidence": 0.657
-    },
-    {
-      "headline": "AI is less regulated than milk, says Microsoft president",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T07:47:37",
-      "sentiment_score": 0.47,
-      "sentiment_label": "Neutral",
-      "confidence": 0.505
-    },
-    {
-      "headline": "TikTok CEO sees major scientific breakthroughs from AI within three years",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW12Y2w2X2Y4TjV2SVZENTdwXzhtVFctYkhvUU1WOWdjMzVnSUNsMnYzMDFQYkZEeG9PVVh6M3BwZjQwTkVLZXdIUDhMNnNhNlJWWG1uSGFvaHc4Nk5pa0RnMDVxMVd3MEtBSHNlNjZFT2lCdXpNMDlRTjJHVHZIVHJJNmlrd085VFZSUlZB0gGTAUFVX3lxTFBzSXAzMTA5TGVZdHNtMWsyZ3FfeE95UmRfaGYzTFFCQ1pRN3pZM1B1MUNDTlV1MXNpampFYUwzbG5KWkFyWk1heFlwU1FiQ3BlXzFobTZXS001ZDJUT05QVTBESWQza0ZlOGt3Ym42WWp4QzhqbVlwVGR6OFBlX1VTM1FpZ2tXMEVBVC1PdVI1N29JYw?oc=5",
-      "published": "2026-10-12T04:24:33",
-      "sentiment_score": 0.158,
-      "sentiment_label": "Neutral",
-      "confidence": 0.818
     },
     {
       "headline": "IMF says AI investment keeps global growth around 3% but brings massive disruption",
@@ -244,6 +169,42 @@
       "sentiment_score": -0.356,
       "sentiment_label": "Neutral",
       "confidence": 0.562
+    },
+    {
+      "headline": "AI is less regulated than milk, says Microsoft president",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo",
+      "published": "2026-10-11T23:07:35Z",
+      "sentiment_score": 0.47,
+      "sentiment_label": "Neutral",
+      "confidence": 0.505
+    },
+    {
+      "headline": "Aaron Sorkin\u2019s \u2018Social Reckoning\u2019 is off to a weak start | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "published": "2026-10-11T20:51:47Z",
+      "sentiment_score": -0.916,
+      "sentiment_label": "Negative",
+      "confidence": 0.927
+    },
+    {
+      "headline": "Silicon Valley is falling in line with Trump\u2019s attempt to rename AI",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "published": "2026-10-11T18:33:56Z",
+      "sentiment_score": -0.572,
+      "sentiment_label": "Negative",
+      "confidence": 0.614
+    },
+    {
+      "headline": "These execs think voice AI hasn't reached its ChatGPT moment yet | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "published": "2026-10-11T14:00:00Z",
+      "sentiment_score": -0.891,
+      "sentiment_label": "Negative",
+      "confidence": 0.902
     },
     {
       "headline": "AI is automating coding. So why are software developer job postings on the rise?",
@@ -280,24 +241,6 @@
       "sentiment_score": -0.715,
       "sentiment_label": "Negative",
       "confidence": 0.74
-    },
-    {
-      "headline": "AI is creating a 'human premium' for art made by people. But will it hold?",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82U3g1TEhGeGhWTHJYYnlYeGR2SHJiWHVieWYwei0teDJRSDdodVVmN2lnNnNEel92a1RXei1mMy11Nm5LX1ZkRHNGZzczbzNXd29RM3FGY3IyeUU?oc=5",
-      "published": "2026-10-10T23:18:16",
-      "sentiment_score": 0.135,
-      "sentiment_label": "Neutral",
-      "confidence": 0.836
-    },
-    {
-      "headline": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2UzSkk1YUFJR0dkcktxMWlmdVh3LUhRV3htQlJUYUlWbmowV2NPZEp4SnBWQllPc09JSTRsSVlFRERXdXRaZ0VDSHJfVHk4SGZzTWhiT2ZrSk1uQVl0TGJBUGtTNnprZFJsdDM3ejNNaW9od1A2X2dLbDZQY05KYkhCT3c0cldYNndYMQ?oc=5",
-      "published": "2026-10-10T12:00:03",
-      "sentiment_score": -0.818,
-      "sentiment_label": "Negative",
-      "confidence": 0.835
     },
     {
       "headline": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions",
@@ -345,15 +288,6 @@
       "confidence": 0.914
     },
     {
-      "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "published": "2026-10-09T21:26:33Z",
-      "sentiment_score": 0.171,
-      "sentiment_label": "Neutral",
-      "confidence": 0.809
-    },
-    {
       "headline": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
       "source": "Wired",
       "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
@@ -383,11 +317,20 @@
     {
       "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo",
-      "published": "2026-10-09T15:32:30Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T15:32:30",
       "sentiment_score": -0.178,
       "sentiment_label": "Neutral",
       "confidence": 0.724
+    },
+    {
+      "headline": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXd0ajg4X1FXUWl6RlZveHMwZFE1dHhJLWt6QThySlhMOWo5Ri1tbm52WV82MXpwODB1LWhnZ0hKYlp2dEduTmJRdVg4YWV1Z2pPMjJKT2JZUGpaSW5IaG1mVDhHNG4zZmplNlRjY3dma1hUajFUUVlrUkhuU3VncEpESno2NTQ5U2FuSW5UUng3SVpuS2NxVUtKWHV4UTVzLVF6V2RUWlBJcm0z?oc=5",
+      "published": "2026-10-09T13:17:34",
+      "sentiment_score": -0.726,
+      "sentiment_label": "Negative",
+      "confidence": 0.751
     },
     {
       "headline": "Anthropic bans users from being 'cruel' to its AI systems",
@@ -397,15 +340,6 @@
       "sentiment_score": -0.704,
       "sentiment_label": "Negative",
       "confidence": 0.722
-    },
-    {
-      "headline": "OpenAI fires 3 safety researchers in dispute over AI risks",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXd0ajg4X1FXUWl6RlZveHMwZFE1dHhJLWt6QThySlhMOWo5Ri1tbm52WV82MXpwODB1LWhnZ0hKYlp2dEduTmJRdVg4YWV1Z2pPMjJKT2JZUGpaSW5IaG1mVDhHNG4zZmplNlRjY3dma1hUajFUUVlrUkhuU3VncEpESno2NTQ5U2FuSW5UUng3SVpuS2NxVUtKWHV4UTVzLVF6V2RUWlBJcm0z?oc=5",
-      "published": "2026-10-09T11:06:00",
-      "sentiment_score": -0.726,
-      "sentiment_label": "Negative",
-      "confidence": 0.751
     },
     {
       "headline": "China Leads AI by Weaving It Into Every Digital Thing",
@@ -424,15 +358,6 @@
       "sentiment_score": -0.95,
       "sentiment_label": "Negative",
       "confidence": 0.959
-    },
-    {
-      "headline": "OpenAI projected to bring in $20bn less in revenue than expected",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb29nSEpYRFJFcjZHb19PT2ZXRWhDWGgtbC1sdW1rWDBVclk3VlY4NWs1bDFpaHdGdHZscnB2djZUUUl0ZU10ZW1uTHBnTldDdWlCS3NyM1YwTElMMVRVQmZhRUluU25tRTVoWWV2UXR3X083LUJWZ0V2MjFEeGR5WFFTaEI?oc=5",
-      "published": "2026-10-09T08:04:00",
-      "sentiment_score": -0.864,
-      "sentiment_label": "Negative",
-      "confidence": 0.886
     },
     {
       "headline": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
@@ -478,15 +403,6 @@
       "sentiment_score": -0.205,
       "sentiment_label": "Neutral",
       "confidence": 0.744
-    },
-    {
-      "headline": "Can Artificial Intelligence Learn the Art of Surgery?",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5",
-      "published": "2026-10-07T09:00:09",
-      "sentiment_score": 0.008,
-      "sentiment_label": "Neutral",
-      "confidence": 0.939
     },
     {
       "headline": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
