@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-13T22:06:20.396849",
-  "total_articles": 43,
-  "overall_sentiment": -0.215,
+  "last_updated": "2026-10-14T02:44:04.195641",
+  "total_articles": 46,
+  "overall_sentiment": -0.227,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,21 +33,21 @@
     },
     {
       "date": "2026-10-07",
-      "avg_sentiment": -0.305,
-      "article_count": 3,
+      "avg_sentiment": -0.46,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.255
+      "neutral_count": 0,
+      "moving_avg": -0.294
     },
     {
       "date": "2026-10-09",
-      "avg_sentiment": -0.732,
-      "article_count": 6,
+      "avg_sentiment": -0.728,
+      "article_count": 5,
       "positive_count": 0,
-      "negative_count": 6,
+      "negative_count": 5,
       "neutral_count": 0,
-      "moving_avg": -0.351
+      "moving_avg": -0.381
     },
     {
       "date": "2026-10-10",
@@ -56,7 +56,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": -0.307
+      "moving_avg": -0.332
     },
     {
       "date": "2026-10-11",
@@ -65,55 +65,49 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.314
+      "moving_avg": -0.336
     },
     {
       "date": "2026-10-12",
-      "avg_sentiment": 0.152,
-      "article_count": 14,
-      "positive_count": 10,
+      "avg_sentiment": 0.112,
+      "article_count": 11,
+      "positive_count": 7,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.17
+      "moving_avg": -0.197
     },
     {
       "date": "2026-10-13",
-      "avg_sentiment": -0.423,
-      "article_count": 11,
-      "positive_count": 1,
-      "negative_count": 8,
-      "neutral_count": 2,
-      "moving_avg": -0.245
+      "avg_sentiment": -0.301,
+      "article_count": 19,
+      "positive_count": 3,
+      "negative_count": 11,
+      "neutral_count": 5,
+      "moving_avg": -0.255
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.408,
-      "article_count": 12,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.204,
-      "article_count": 5,
+      "avg_sentiment": -0.368,
+      "article_count": 13,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.296,
-      "article_count": 4,
+      "avg_sentiment": 0.173,
+      "article_count": 8,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.256,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
       "avg_sentiment": -0.363,
-      "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.115,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
@@ -130,19 +124,52 @@
       "sentiment_label": "Negative"
     },
     {
+      "source": "The New York Times",
+      "avg_sentiment": -0.379,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
       "source": "The Guardian",
       "avg_sentiment": -0.557,
       "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.402,
+      "source": "Wired",
+      "avg_sentiment": -0.368,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "How long will humans be needed for translation?",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:05:29",
+      "sentiment_score": 0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.931
+    },
+    {
+      "headline": "Is it OK for jobseekers or employers to use AI?",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:04:39",
+      "sentiment_score": -0.667,
+      "sentiment_label": "Negative",
+      "confidence": 0.687
+    },
+    {
+      "headline": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHBoYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr?oc=5",
+      "published": "2026-10-13T21:22:06",
+      "sentiment_score": -0.402,
+      "sentiment_label": "Neutral",
+      "confidence": 0.504
+    },
     {
       "headline": "AI in your oven? Anthropic warns models \u2018months away\u2019 from self-replication on smart devices",
       "source": "The Guardian",
@@ -207,15 +234,6 @@
       "confidence": 0.66
     },
     {
-      "headline": "El-Sayed, Releasing His Platform on A.I., Calls It an \u2018Existential Crisis\u2019",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uN2FOcklvdHcwT3psbldJQnNJYnV3dHY3enlLWEd0dmhtcU1TSVlweklkUzJYMF9LX09PZGFDRUpuRG5UTTNLMzNZVjZIUTRzdmFRVnlPS01xa05hNWxhMlRJZk9ma0p3M1RUaA?oc=5",
-      "published": "2026-10-13T10:01:04",
-      "sentiment_score": -0.448,
-      "sentiment_label": "Negative",
-      "confidence": 0.485
-    },
-    {
       "headline": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
@@ -237,19 +255,64 @@
       "headline": "Will Accenture survive or thrive in the age of AI?",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXEzS2hHZ1BhekxSU1ZEdFF5NHl5R3dZUmg0akp6d2dRNjdWWTQxZmk3Wlo4dFRXQmxSV1pFVF9ERm9fU0RWQ3A1akw1ZF9ucWFzSUpxbHVtY0NSdDl0T0g1dll3TUJKOGUtWF9uV1AxZkxUVXo0S3cxWGpOMlBPX1A3NDM?oc=5",
-      "published": "2026-10-13T04:01:17",
+      "published": "2026-10-13T04:00:10",
       "sentiment_score": 0.184,
       "sentiment_label": "Neutral",
       "confidence": 0.788
     },
     {
-      "headline": "US Stock Market Today LIVE: Dow Jones Rises 0.18%, S&P 500 Gains 0.05% While Nasdaq Slips 0.05% At Open as Oil Prices Top $106, Bank Earnings & US Inflation Data in Focus; Check What Investors Should",
-      "source": "The Sunday Guardian",
-      "link": "https://sundayguardianlive.com/business/us-stock-market-today-live-dow-jones-rises-018-sp-500-gains-005-while-nasdaq-slips-005-at-open-as-oil-prices-top-106-bank-earnings-us-inflation-data-in-focus-check-what-investors-should-304237/",
-      "published": "2026-10-12T20:33:09Z",
-      "sentiment_score": -0.261,
+      "headline": "Former Air NZ boss Greg Foran slashes jobs at US grocer Kroger in new head role",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-12/kroger-plans-to-slash-37-of-corporate-jobs-in-next-three-years",
+      "published": "2026-10-13T02:42:05Z",
+      "sentiment_score": -0.942,
+      "sentiment_label": "Negative",
+      "confidence": 0.949
+    },
+    {
+      "headline": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+      "published": "2026-10-13T02:37:08Z",
+      "sentiment_score": 0.05,
       "sentiment_label": "Neutral",
-      "confidence": 0.482
+      "confidence": 0.919
+    },
+    {
+      "headline": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "published": "2026-10-13T02:11:41Z",
+      "sentiment_score": -0.958,
+      "sentiment_label": "Negative",
+      "confidence": 0.968
+    },
+    {
+      "headline": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "published": "2026-10-13T02:01:01Z",
+      "sentiment_score": 0.902,
+      "sentiment_label": "Positive",
+      "confidence": 0.939
+    },
+    {
+      "headline": "CNBC Daily Open: Trump defends diesel deal",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/13/cnbc-daily-open-trumps-russia-deal-ukraine-fed-microsoft-ai.html",
+      "published": "2026-10-13T01:45:03Z",
+      "sentiment_score": -0.05,
+      "sentiment_label": "Negative",
+      "confidence": 0.469
+    },
+    {
+      "headline": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "published": "2026-10-13T01:26:41Z",
+      "sentiment_score": 0.518,
+      "sentiment_label": "Positive",
+      "confidence": 0.556
     },
     {
       "headline": "I Got My Muse AI Agent to Sext Me\u2014and Meta Says That\u2019s Totally Fine",
@@ -297,33 +360,6 @@
       "confidence": 0.615
     },
     {
-      "headline": "Big Draco For President?! Soulja Boy Teases 2028 White House Run",
-      "source": "Hip-Hop Wired",
-      "link": "https://hiphopwired.com/3067527/soulja-boy-teases-2028-president-run/",
-      "published": "2026-10-12T17:34:25Z",
-      "sentiment_score": 0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.889
-    },
-    {
-      "headline": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-      "published": "2026-10-12T17:05:02Z",
-      "sentiment_score": 0.26,
-      "sentiment_label": "Neutral",
-      "confidence": 0.722
-    },
-    {
-      "headline": "Muse Wonder Puts Meta Back at the AI Frontier",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-      "published": "2026-10-12T17:00:27Z",
-      "sentiment_score": 0.391,
-      "sentiment_label": "Neutral",
-      "confidence": 0.58
-    },
-    {
       "headline": "This AI startup says it can generate permit-ready blueprints in minutes | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
@@ -358,6 +394,15 @@
       "sentiment_score": 0.08,
       "sentiment_label": "Neutral",
       "confidence": 0.896
+    },
+    {
+      "headline": "Nikon revokes first prize in Small World in Motion video competition over AI use",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXRvM2dXNHJWd0otdHlLWl9sUXc1R3FXVmkxUHppcGphNnNvSXZzWGFkQ0RLbVptdzZFVmZUdDN3VlFlbkpVeDhERFR5eFhYenlOZUo2MHh4VkhkSVBpQ0s2YlU0LUhCT3FwRXlfM1hvYlZVeXU4SS02REcxOUZsQVpSUzNGNnc?oc=5",
+      "published": "2026-10-12T11:21:43",
+      "sentiment_score": -0.443,
+      "sentiment_label": "Negative",
+      "confidence": 0.502
     },
     {
       "headline": "AI is less regulated than milk, says Microsoft president",
@@ -459,15 +504,6 @@
       "confidence": 0.956
     },
     {
-      "headline": "'Careless use of AI is the real threat - not the ghost stories'",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T07:05:01",
-      "sentiment_score": -0.752,
-      "sentiment_label": "Negative",
-      "confidence": 0.771
-    },
-    {
       "headline": "OpenAI\u2019s ChatGPT for Teens Poses \u2018Unacceptable Risk,\u2019 Nonprofit Says",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW9OTGdpUjUzbldpeFl1aVpQUW8wbFFRYVZ0QU5GOXpmbEpLeDZTQTVQOTYySTd6RHZqekZvTXZod2VIRU5leU52S3Y0Yk9qdlRxSnZzY2ZYQnZoemZNSlNVS1pSUHk3NThPVHBEeVdLZWQ3YkVNVk5WR1lwQ2t3X043ZzEyY2sweUcwejVHTW5UR08xNTBMR0J3TzBsQkxEM1JB?oc=5",
@@ -475,15 +511,6 @@
       "sentiment_score": -0.715,
       "sentiment_label": "Negative",
       "confidence": 0.74
-    },
-    {
-      "headline": "COMMENTARY: A framework for governing employees' existing use of generative AI",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGt3REM5N1k4VFVWa3g4OUF3OVV4b2FhUm84ME5PNHQxUFZhTTQwYTBIY1Z2cWZXZDdsYWNqT0Frai1oYjB6dS1sV0xncFVYdzB1bTRULWM4NktGam0xNHV0bzRBV3BCdGVQMFV5c2gtMFpnM1RDRUFPYzg4SnN4cVFFZm84cXVxcUt2MFloRGRYWkt4Zm1QaW5NYzBNLWFrMWhXdWtGUGVKbWdQdVV5REJWanE4V0FNb010Mg?oc=5",
-      "published": "2026-10-07T16:49:41",
-      "sentiment_score": 0.004,
-      "sentiment_label": "Neutral",
-      "confidence": 0.936
     },
     {
       "headline": "OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks grow",
