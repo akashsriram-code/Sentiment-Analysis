@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-10-19T21:58:30.939474",
-  "total_articles": 31,
-  "overall_sentiment": -0.202,
+  "last_updated": "2026-10-20T02:38:59.552001",
+  "total_articles": 33,
+  "overall_sentiment": -0.205,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-08-31",
+      "avg_sentiment": -0.315,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.315
+    },
     {
       "date": "2026-10-06",
       "avg_sentiment": 0.012,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.012
+      "moving_avg": -0.152
     },
     {
       "date": "2026-10-07",
@@ -20,7 +29,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.096
+      "moving_avg": -0.169
     },
     {
       "date": "2026-10-10",
@@ -29,7 +38,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.053
+      "moving_avg": -0.118
     },
     {
       "date": "2026-10-11",
@@ -38,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.129
+      "moving_avg": -0.166
     },
     {
       "date": "2026-10-14",
@@ -47,7 +56,7 @@
       "positive_count": 1,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.215
+      "moving_avg": -0.231
     },
     {
       "date": "2026-10-15",
@@ -56,7 +65,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.172
+      "moving_avg": -0.193
     },
     {
       "date": "2026-10-16",
@@ -78,39 +87,48 @@
     },
     {
       "date": "2026-10-18",
-      "avg_sentiment": -0.301,
-      "article_count": 5,
-      "positive_count": 1,
+      "avg_sentiment": -0.558,
+      "article_count": 4,
+      "positive_count": 0,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.269
+      "moving_avg": -0.306
     },
     {
       "date": "2026-10-19",
-      "avg_sentiment": -0.16,
-      "article_count": 9,
-      "positive_count": 3,
+      "avg_sentiment": -0.13,
+      "article_count": 10,
+      "positive_count": 5,
       "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.297
+      "neutral_count": 1,
+      "moving_avg": -0.329
+    },
+    {
+      "date": "2026-10-20",
+      "avg_sentiment": 0.378,
+      "article_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "moving_avg": -0.225
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.197,
+      "avg_sentiment": -0.164,
       "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": -0.232,
-      "article_count": 4,
+      "source": "CNBC",
+      "avg_sentiment": -0.193,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "CNBC",
-      "avg_sentiment": -0.075,
+      "source": "Reuters",
+      "avg_sentiment": -0.101,
       "article_count": 4,
       "sentiment_label": "Negative"
     },
@@ -135,6 +153,33 @@
   ],
   "articles": [
     {
+      "headline": "\u2018Open your doors for AI\u2019: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWY2TFFHY3ZtRy1oc2w2YkZyQ0FxSnhSRzZCTmxBVVJNNFdtUXZEQ29UZ1FXYm5yMXFXZ1NZSHVKMjBuWm9ydVc1bVp4cXBwZnFqcmFZOFl5MnZvM2psWlM5aTNuNlUwbDhjejBBMTZQT1JBSkk4bDFYWkV0SEQ2WGp4SUVkaUFnY3lZa19R0gGTAUFVX3lxTE5RaEk5ZVNWazYwOHFKT1ZxaGpBUVY3em5JX1hxS3Y3Q0NTZE96QnhKWVd1dHVpb25YS09Ielc1RjNCN0ktUERHMllFSV9fMllzNDZRbTQyTGEwZ2YyTHRmSlFjMXlBcjBtcHpjNGhOZTQ3MEpGTURzZzR4bEctbldqRkgzNC1sd21CY24zTk1MYllyOA?oc=5",
+      "published": "2026-10-20T02:16:00",
+      "sentiment_score": 0.378,
+      "sentiment_label": "Neutral",
+      "confidence": 0.584
+    },
+    {
+      "headline": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
+      "published": "2026-10-19T23:18:00",
+      "sentiment_score": 0.448,
+      "sentiment_label": "Neutral",
+      "confidence": 0.523
+    },
+    {
+      "headline": "Elon Musk says he\u2019ll give a SpaceX share to every American child",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRklGSGE2QUJjNDV5WTllLXpaREpPTXFEU2lmQld4ZlJ4eDJ4N2J4b2F5eUg0VXpSdjkwOTJGU0RUSk9fMkVkZWFGYWxHQnI1QkE0X1VmOTFIVnBiek1STENoYVV3WnFLdmh0WVV0aENHQUFUUE1QOVZHa3Foel9hcC1DNmhocEJiZkwyQXZ3aHVtNDRnRnMxX1JFTTl4Nm9Obko4UFRmZk16QXF5cDJQRUdB?oc=5",
+      "published": "2026-10-19T22:06:06",
+      "sentiment_score": 0.064,
+      "sentiment_label": "Neutral",
+      "confidence": 0.908
+    },
+    {
       "headline": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
@@ -153,22 +198,13 @@
       "confidence": 0.506
     },
     {
-      "headline": "Breakingviews - COMMENTARY: Oxford summit rings the alarm on corporate AI",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkRrNV8yV3ZZWGZNVHlFNnBaSkotODhadDNNRi1FVmFQajVrOHNVWGJEUUNfbTZzWTF2djNyMkdoVEwzdEJYQUJabktlRTJLY2RtOWlvZ1dNR25mNEhSWkN4c242RjNYTTVjTHNITjdiU2xlTzlQWEhIZWFZOG1NdC16NFhoVjNmNF93UzI0MkZKT3c5Zy1pQ1hxbGhDamRp?oc=5",
-      "published": "2026-10-19T19:42:22",
-      "sentiment_score": -0.076,
-      "sentiment_label": "Neutral",
-      "confidence": 0.85
-    },
-    {
       "headline": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
       "published": "2026-10-19T18:21:54",
-      "sentiment_score": -0.015,
-      "sentiment_label": "Neutral",
-      "confidence": 0.779
+      "sentiment_score": -0.671,
+      "sentiment_label": "Negative",
+      "confidence": 0.703
     },
     {
       "headline": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns",
@@ -198,15 +234,6 @@
       "confidence": 0.841
     },
     {
-      "headline": "The Italian gelato maker using AI to invent new flavours",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMSjRUZF9aeXJLVlVjLWkwV2NsLVpxbm1fdl9aVS1qcW1Ebjd3OHl1WWpiZjc0YnhIWHBYeTZRYlFZLU96aHh0OXVSWVhKaVV1bUQtcE1qN2Y?oc=5",
-      "published": "2026-10-19T09:12:32",
-      "sentiment_score": 0.132,
-      "sentiment_label": "Neutral",
-      "confidence": 0.843
-    },
-    {
       "headline": "China's growth accelerates as AI boom helps boost exports",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
@@ -214,6 +241,15 @@
       "sentiment_score": 0.417,
       "sentiment_label": "Positive",
       "confidence": 0.698
+    },
+    {
+      "headline": "China's economic growth picks up as AI boom boosts exports",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
+      "published": "2026-10-19T02:03:04Z",
+      "sentiment_score": 0.346,
+      "sentiment_label": "Positive",
+      "confidence": 0.661
     },
     {
       "headline": "Don't fall for this - how to protect yourself from AI scams",
@@ -225,22 +261,13 @@
       "confidence": 0.65
     },
     {
-      "headline": "The bloated workweek is coming for Sundays\u2014as some embrace flexibility, others worry about job security",
+      "headline": "India\u2019s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
-      "published": "2026-10-18T14:00:01Z",
-      "sentiment_score": -0.95,
+      "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "published": "2026-10-18T23:00:01Z",
+      "sentiment_score": -0.955,
       "sentiment_label": "Negative",
-      "confidence": 0.961
-    },
-    {
-      "headline": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-      "published": "2026-10-18T12:34:51Z",
-      "sentiment_score": 0.721,
-      "sentiment_label": "Positive",
-      "confidence": 0.738
+      "confidence": 0.964
     },
     {
       "headline": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
@@ -412,6 +439,15 @@
       "sentiment_score": 0.012,
       "sentiment_label": "Neutral",
       "confidence": 0.941
+    },
+    {
+      "headline": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84TTNSWnpWUm4yMnJ5Wkk5aHg1clFxY1A1OHkxcVRiZ25SY01oWk1rN1QtMlVFQ2NpTWZMejVzS2dfaldqcEFiSEhIVUhESHJUZnNZQXRRaUZzUFBWenZVRlFrcnQzV0JwTE94Mm1KckIyQdIBd0FVX3lxTE5QU1lUNWNXX0FrZFFxSnVycUZMSjFVM1pkbWJQMmloVk5PRVE0bWp5a3BzSm1HaVJ1ZFV3MlNBU3pKaFl4WE9DZUhWLWVBTkZvTUlPVU80SXBEWk4wUHFZQmVUanpXTHpfMU80bWtXdHJUMTVJQVBN?oc=5",
+      "published": "2026-08-31T07:00:00",
+      "sentiment_score": -0.315,
+      "sentiment_label": "Negative",
+      "confidence": 0.623
     }
   ]
 }
