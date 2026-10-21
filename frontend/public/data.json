@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21T16:19:55.616103",
-  "total_articles": 30,
-  "overall_sentiment": -0.063,
+  "last_updated": "2026-10-21T21:02:54.199556",
+  "total_articles": 34,
+  "overall_sentiment": -0.116,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,21 +24,12 @@
     },
     {
       "date": "2026-10-14",
-      "avg_sentiment": -0.383,
-      "article_count": 2,
-      "positive_count": 1,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.112
-    },
-    {
-      "date": "2026-10-18",
-      "avg_sentiment": -0.301,
+      "avg_sentiment": 0.128,
       "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
+      "positive_count": 1,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.16
+      "moving_avg": 0.058
     },
     {
       "date": "2026-10-19",
@@ -47,80 +38,122 @@
       "positive_count": 3,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.165
+      "moving_avg": -0.004
     },
     {
       "date": "2026-10-20",
-      "avg_sentiment": 0.138,
-      "article_count": 8,
+      "avg_sentiment": -0.07,
+      "article_count": 10,
       "positive_count": 4,
-      "negative_count": 1,
+      "negative_count": 3,
       "neutral_count": 3,
-      "moving_avg": -0.115
+      "moving_avg": -0.017
     },
     {
       "date": "2026-10-21",
-      "avg_sentiment": -0.077,
-      "article_count": 11,
-      "positive_count": 4,
-      "negative_count": 5,
+      "avg_sentiment": -0.154,
+      "article_count": 15,
+      "positive_count": 6,
+      "negative_count": 7,
       "neutral_count": 2,
-      "moving_avg": -0.109
+      "moving_avg": -0.04
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.257,
-      "article_count": 13,
+      "avg_sentiment": -0.323,
+      "article_count": 12,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.167,
+      "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.314,
-      "article_count": 7,
-      "sentiment_label": "Positive"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": 0.291,
-      "article_count": 4,
+      "avg_sentiment": 0.147,
+      "article_count": 6,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.081,
+      "avg_sentiment": -0.077,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.474,
       "article_count": 2,
       "sentiment_label": "Positive"
     }
   ],
   "articles": [
     {
+      "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+      "published": "2026-10-21T20:46:47",
+      "sentiment_score": -0.887,
+      "sentiment_label": "Negative",
+      "confidence": 0.898
+    },
+    {
+      "headline": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFJLUEhfVDJRWmZsVlVqRnB3WHlMUFZOeXJoNUF3WjhsNVJ6SUI2ajNxck5SUHBLTTI5dzhvV1JkaF9OS2R6SjQ0bnFpV011blVVQ1hKVkpMRkx6OHpqR1JJM1BGY2hYVExYQ1hUb01JV0tMc0FTNFIyY3dpTjFQNVVtNXozb1VjSkMwU1h6UWJ6TEFWRVE1cjJYVjQ5QTNPX2hpUDJabEhWbldxNjZqdFJEb1pjQjJjbm1TVDViWFNvQQ?oc=5",
+      "published": "2026-10-21T20:34:18",
+      "sentiment_score": -0.626,
+      "sentiment_label": "Negative",
+      "confidence": 0.651
+    },
+    {
       "headline": "Websites taken down worldwide as critical cyber-security update issued",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T16:07:19",
+      "published": "2026-10-21T19:54:57",
       "sentiment_score": -0.929,
       "sentiment_label": "Negative",
       "confidence": 0.939
     },
     {
-      "headline": "Most Americans want to halt all data center construction",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3J3MVVaTHZsMmxRYVpfTEZOcWZaV0dDUmwwdUVzX0pZeERJOVNPUGtmdW5BTlY2NE4wY1lVVENZemVFdWJ1MFdWcTZrSF9tWll3aUtvOEhFUW5EcUg2S0g3VzRWZmQxblhsSl9pSTdKMUlydmVDdm52cjAtcGZqM3VvY1hiQmpkUkRBdkZrS0VuRzE1Y0p5d0ZVTzh5Tkc0Z3BBYnhyVnBPYUl0Y2wtLW1n?oc=5",
-      "published": "2026-10-21T16:03:01",
-      "sentiment_score": -0.564,
-      "sentiment_label": "Negative",
-      "confidence": 0.582
+      "headline": "GM Aims to Bring \u2018Eyes-Off\u2019 Driving to AI-Powered Cars Within 2 Years",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0dSaWM2WjN6VXI1R2FsSlZjalFkaVZ5dVBmTmJiXzFlMDdYZndDbFV1ZGxrbVdORmJtZkRubGlQbGRYVkFWMDhXUGhwZS1rTmtzX2NwNEVVZG52RFR0NFRRYTNVY2lxVHVUWHNTLXpCOWgyaFVaZG5XZnZxb0pFcmxpTjY?oc=5",
+      "published": "2026-10-21T18:23:52",
+      "sentiment_score": 0.117,
+      "sentiment_label": "Neutral",
+      "confidence": 0.857
     },
     {
-      "headline": "Meta earnings live updates: AI spending, ad revenue and stock reaction",
+      "headline": "GM aims to develop vehicles in as little as two years with AI, software push",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HVnM1M1JBSWFqUlBzWnZDYlNqcksySUpHN2xrOU0zM1BpZjE2TDdCY2UyMk52VjEwVU1CLUpnM3psWkZ0QTlFTllWcGRZWEQ5WXBjdjQzcnBfOXRoWThaM3ZaMXlHa0NqSjRQcWtVME9nQmhhVV9pNzRTWQ?oc=5",
-      "published": "2026-10-21T16:00:00",
-      "sentiment_score": -0.022,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zZHBsWGlxdmVTbHJRV2VPTktvTnlJNm1hRmZXbDBScmRENVV2UVhjcFZLWVRhZm1Bb3BWa0ZoWTNqeC1MVU9YTmpKbTRkOHJjX01vOUJTdHI2R2JUSkszMld1UVJ1Y19TNE4xWW5CVUk5ZG5IRjdvSkVsUdIBgAFBVV95cUxOVnZYd0dsUTk5azZ0Y1dDdzRsai0wT0dPdXpSNEVVdU5OZnBwQUt0cnYxZjRRaWoyOFlCeG1UeHlVSlFuSjhkSEpaYVFNSU5kSG00dmo1NGw5LUtRN0tYRURLTkZyb1FYRWV4RFVmX0dtWS1Fb0RvUEc5Y0NfN2NOWg?oc=5",
+      "published": "2026-10-21T18:00:01",
+      "sentiment_score": 0.067,
       "sentiment_label": "Neutral",
-      "confidence": 0.923
+      "confidence": 0.907
+    },
+    {
+      "headline": "Florida lawyer referred for possible discipline over filing that judges called 'AI slop'",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlk2SDVXYUp4YlFmSkl1UTBXQjhCSDJyMWNQbTZuUFZHNWYzNnRITDJYVXg5ZDVrbXB1VlY0Q1h0dV8zd3hmMlJDdk1WdS03elVrOTkxS19pMzlrQXNSYkNnTTY4ZTFoWkh3YmszSEZicEM4WWpPdmxPQW1oLVY0Q016U1dVVGtqSWNnd0JOLWVHVlk0bjJVOWpQWFc3REdIVnA5RmJIVmRVdF9weG9RNnI2V0FxZWFxa295ZzFqX0cwNVlXWmt5cnV3?oc=5",
+      "published": "2026-10-21T17:42:19",
+      "sentiment_score": -0.821,
+      "sentiment_label": "Negative",
+      "confidence": 0.837
+    },
+    {
+      "headline": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T17:04:13",
+      "sentiment_score": -0.837,
+      "sentiment_label": "Negative",
+      "confidence": 0.851
     },
     {
       "headline": "Anthropic, music publishers to make key arguments in AI training case",
@@ -130,15 +163,6 @@
       "sentiment_score": -0.037,
       "sentiment_label": "Neutral",
       "confidence": 0.856
-    },
-    {
-      "headline": "China\u2019s Free A.I. Models Are Thrown Into Uncertainty",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?oc=5",
-      "published": "2026-10-21T14:43:43",
-      "sentiment_score": -0.898,
-      "sentiment_label": "Negative",
-      "confidence": 0.911
     },
     {
       "headline": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
@@ -186,6 +210,15 @@
       "confidence": 0.646
     },
     {
+      "headline": "Why AI\u2019s Deepest Mind Believes the World Is About to Change Radically",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
+      "published": "2026-10-21T09:30:00",
+      "sentiment_score": 0.045,
+      "sentiment_label": "Neutral",
+      "confidence": 0.861
+    },
+    {
       "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
@@ -204,10 +237,19 @@
       "confidence": 0.772
     },
     {
+      "headline": "SpaceX's AI business is beating expectations | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "published": "2026-10-20T20:41:43Z",
+      "sentiment_score": 0.931,
+      "sentiment_label": "Positive",
+      "confidence": 0.95
+    },
+    {
       "headline": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T19:42:32",
+      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o",
+      "published": "2026-10-20T19:42:32Z",
       "sentiment_score": -0.908,
       "sentiment_label": "Negative",
       "confidence": 0.929
@@ -222,22 +264,40 @@
       "confidence": 0.939
     },
     {
-      "headline": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-      "published": "2026-10-20T14:12:38Z",
-      "sentiment_score": 0.695,
-      "sentiment_label": "Positive",
-      "confidence": 0.708
+      "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "published": "2026-10-20T18:07:34Z",
+      "sentiment_score": -0.393,
+      "sentiment_label": "Neutral",
+      "confidence": 0.564
     },
     {
-      "headline": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+      "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-      "published": "2026-10-20T13:34:57Z",
-      "sentiment_score": 0.887,
-      "sentiment_label": "Positive",
-      "confidence": 0.905
+      "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "published": "2026-10-20T18:03:57Z",
+      "sentiment_score": -0.954,
+      "sentiment_label": "Negative",
+      "confidence": 0.968
+    },
+    {
+      "headline": "The Godfather Too: How Roc Marciano Created The Blueprint For Modern Underground Rap",
+      "source": "Hip-Hop Wired",
+      "link": "https://hiphopwired.com/3064754/roc-marciano-godfather-underground-rap/",
+      "published": "2026-10-20T18:00:00Z",
+      "sentiment_score": -0.045,
+      "sentiment_label": "Neutral",
+      "confidence": 0.899
+    },
+    {
+      "headline": "To AI-proof your career, learn to 'build and sell,' says $100 billion cybersecurity firm founder",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/20/ai-jobs-coding-cybersecurity.html",
+      "published": "2026-10-20T16:44:41Z",
+      "sentiment_score": 0.244,
+      "sentiment_label": "Neutral",
+      "confidence": 0.727
     },
     {
       "headline": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
@@ -258,19 +318,10 @@
       "confidence": 0.759
     },
     {
-      "headline": "Can a simple photo of your face reveal how ill you are?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo",
-      "published": "2026-10-20T07:29:01Z",
-      "sentiment_score": 0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.914
-    },
-    {
       "headline": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
-      "published": "2026-10-19T23:18:00",
+      "published": "2026-10-19T23:23:06",
       "sentiment_score": 0.448,
       "sentiment_label": "Neutral",
       "confidence": 0.523
@@ -319,24 +370,6 @@
       "sentiment_score": 0.417,
       "sentiment_label": "Positive",
       "confidence": 0.698
-    },
-    {
-      "headline": "Don't fall for this - how to protect yourself from AI scams",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T23:24:59",
-      "sentiment_score": -0.301,
-      "sentiment_label": "Neutral",
-      "confidence": 0.65
-    },
-    {
-      "headline": "OpenAI sued by 8 states over ChatGPT safety concerns",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5",
-      "published": "2026-10-14T21:09:20",
-      "sentiment_score": -0.893,
-      "sentiment_label": "Negative",
-      "confidence": 0.908
     },
     {
       "headline": "Microsoft has a new machine learning tool to improve weather forecasts",
