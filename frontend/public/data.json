@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-24T10:00:20.314120",
-  "total_articles": 30,
-  "overall_sentiment": -0.05,
+  "last_updated": "2026-10-24T15:05:07.238989",
+  "total_articles": 28,
+  "overall_sentiment": -0.115,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,30 +60,30 @@
     },
     {
       "date": "2026-10-22",
-      "avg_sentiment": -0.155,
-      "article_count": 11,
-      "positive_count": 1,
+      "avg_sentiment": -0.241,
+      "article_count": 8,
+      "positive_count": 0,
       "negative_count": 5,
-      "neutral_count": 5,
-      "moving_avg": -0.104
+      "neutral_count": 3,
+      "moving_avg": -0.117
     },
     {
       "date": "2026-10-23",
-      "avg_sentiment": -0.002,
+      "avg_sentiment": -0.256,
       "article_count": 6,
-      "positive_count": 2,
-      "negative_count": 2,
-      "neutral_count": 2,
-      "moving_avg": -0.106
+      "positive_count": 0,
+      "negative_count": 3,
+      "neutral_count": 3,
+      "moving_avg": -0.155
     },
     {
       "date": "2026-10-24",
-      "avg_sentiment": 0.652,
-      "article_count": 1,
-      "positive_count": 1,
+      "avg_sentiment": 0.352,
+      "article_count": 2,
+      "positive_count": 2,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.018
+      "moving_avg": -0.11
     }
   ],
   "source_stats": [
@@ -95,21 +95,27 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.256,
+      "avg_sentiment": 0.029,
       "article_count": 6,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.067,
-      "article_count": 4,
-      "sentiment_label": "Positive"
+      "source": "The New York Times",
+      "avg_sentiment": -0.152,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
       "avg_sentiment": -0.004,
       "article_count": 2,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.089,
+      "article_count": 2,
+      "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
@@ -119,6 +125,15 @@
     }
   ],
   "articles": [
+    {
+      "headline": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWdVcmp6Vm8xaTlHbXhmRUp2bnU1Q2hlMUY1eG05ekVJSWFPRjRZWGcyODNDeUV4dW5IUndhM2NtWlJDSE1QSmhlekNNVUotb2NHRjBwRTc4dkR0Y3RNeUIwWlZNUk1hOTc2dEJYTEVUUlVhSXFmeUx1RlZWNjJ0ZmhINTRHcXZac0NtOUd2RE9oTUU1Rk9TLWJmSlpFTWxfaVlSdUhkZ2p3ZVB3LXhWSVZSS004ZkNzRlFWUzVjVQ?oc=5",
+      "published": "2026-10-24T12:00:03",
+      "sentiment_score": 0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.721
+    },
     {
       "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
       "source": "BBC News",
@@ -138,6 +153,15 @@
       "confidence": 0.925
     },
     {
+      "headline": "Why Trump\u2019s Rebrand of Artificial Intelligence to Super Intelligent Matters",
+      "source": "Time",
+      "link": "https://time.com/article/2026/10/23/why-trump-s-rebrand-of-artificial-intelligence-to-super-intelligent-matters/",
+      "published": "2026-10-23T13:46:47Z",
+      "sentiment_score": -0.154,
+      "sentiment_label": "Neutral",
+      "confidence": 0.714
+    },
+    {
       "headline": "What is PHP and why did it spark a global cyber-security scramble?",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
@@ -147,37 +171,28 @@
       "confidence": 0.495
     },
     {
-      "headline": "To Shape AI, Use AI",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm9wUFFJVmxycDdjam5sRnlUaEw1Rkk5cmgzXzBQUEgzalB1S2c2YXNiXzJua1FxbmxLUVVGVTFQeGVTcVdNTk1mNWdTMlFHV1dxUFp4U2w2NTUwLXNkQ0QtTlhVOC1oNnBjQkZnVlNwMWVtbjVuR0ItZU1iTkpZRk1qUXdIZ2wxSWQxMjNITi1UaWo4WlRCODZlUVUzTW9mdFpHc1IxYzJraHRoV21QNC01V2RRTGt0RFBfczFXYw?oc=5",
-      "published": "2026-10-23T12:00:08",
-      "sentiment_score": 0.013,
+      "headline": "Safe haven search is on Friday as investors keep rotating",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/23/safe-haven-search-is-on-friday-as-investors-keep-rotating.html",
+      "published": "2026-10-23T11:05:13Z",
+      "sentiment_score": -0.02,
       "sentiment_label": "Neutral",
-      "confidence": 0.946
+      "confidence": 0.916
     },
     {
-      "headline": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+      "headline": "On the ground at Nvidia GTC Berlin: Jensen Huang, robot ducks and neocloud distress",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
-      "published": "2026-10-23T10:00:01Z",
-      "sentiment_score": 0.726,
-      "sentiment_label": "Positive",
-      "confidence": 0.82
-    },
-    {
-      "headline": "Nvidia's Huang heads to Kazakhstan for the first time \u2014 and he's not the only one with big plans",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-      "published": "2026-10-23T08:16:52Z",
-      "sentiment_score": 0.603,
-      "sentiment_label": "Positive",
-      "confidence": 0.613
+      "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "published": "2026-10-23T11:02:16Z",
+      "sentiment_score": -0.012,
+      "sentiment_label": "Neutral",
+      "confidence": 0.936
     },
     {
       "headline": "The Indian workers filming their work to train AI",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o",
-      "published": "2026-10-23T08:04:17Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:04:17",
       "sentiment_score": -0.008,
       "sentiment_label": "Neutral",
       "confidence": 0.933
@@ -190,15 +205,6 @@
       "sentiment_score": -0.208,
       "sentiment_label": "Neutral",
       "confidence": 0.725
-    },
-    {
-      "headline": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlJ6SFpHeHRub3NJR1l1dFg0YzFULWdWX1MtU1A4b1luZTFMMkktcHU0YWdNMi1RMy1Sc3FkVF9WTnhvc0txaV9HX1k1d1cxQVgyOWdWcUU2UVVRXzlNMDdydVc2cmxEQ1FqX0dPeEFqZ3pzZnVGRnZYUzEwR0xfanQycnZPUEp6SkM1ZEo4OV9KOHZrWk9sbElfRmcxVDVmYUhfSmNqODhra1JvYko4MWRLNA?oc=5",
-      "published": "2026-10-22T23:31:57",
-      "sentiment_score": 0.134,
-      "sentiment_label": "Neutral",
-      "confidence": 0.779
     },
     {
       "headline": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
@@ -253,24 +259,6 @@
       "sentiment_score": -0.263,
       "sentiment_label": "Neutral",
       "confidence": 0.691
-    },
-    {
-      "headline": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "published": "2026-10-22T13:20:55Z",
-      "sentiment_score": 0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.898
-    },
-    {
-      "headline": "Just because Tesla\u2019s Optimus is in production doesn\u2019t mean it\u2019s actually ready",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings",
-      "published": "2026-10-22T12:55:53Z",
-      "sentiment_score": 0.043,
-      "sentiment_label": "Neutral",
-      "confidence": 0.918
     },
     {
       "headline": "'500 new vulnerabilities' found in government, says AI minister",
