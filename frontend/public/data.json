@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-25T02:20:14.190494",
-  "total_articles": 26,
-  "overall_sentiment": -0.101,
+  "last_updated": "2026-10-25T10:25:05.333097",
+  "total_articles": 31,
+  "overall_sentiment": -0.119,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -60,30 +60,39 @@
     },
     {
       "date": "2026-10-22",
-      "avg_sentiment": -0.452,
-      "article_count": 4,
-      "positive_count": 0,
+      "avg_sentiment": -0.342,
+      "article_count": 5,
+      "positive_count": 1,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.12
+      "moving_avg": -0.104
     },
     {
       "date": "2026-10-23",
-      "avg_sentiment": -0.256,
-      "article_count": 7,
+      "avg_sentiment": -0.131,
+      "article_count": 5,
       "positive_count": 1,
-      "negative_count": 5,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.158
+      "moving_avg": -0.125
     },
     {
       "date": "2026-10-24",
-      "avg_sentiment": 0.144,
-      "article_count": 4,
+      "avg_sentiment": -0.244,
+      "article_count": 7,
       "positive_count": 2,
+      "negative_count": 5,
+      "neutral_count": 0,
+      "moving_avg": -0.164
+    },
+    {
+      "date": "2026-10-25",
+      "avg_sentiment": -0.002,
+      "article_count": 3,
+      "positive_count": 1,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.143
+      "moving_avg": -0.114
     }
   ],
   "source_stats": [
@@ -95,9 +104,15 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.055,
-      "article_count": 5,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.021,
+      "article_count": 6,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.069,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
@@ -106,8 +121,8 @@
       "sentiment_label": "Neutral"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.156,
+      "source": "The New York Times",
+      "avg_sentiment": -0.139,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
@@ -120,13 +135,40 @@
   ],
   "articles": [
     {
-      "headline": "\u2018Synthetic twin\u2019: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOODF5SmRSOVBTbEx4ZFhMcjFmQmdxNEFMa2wtT2tOZmVIQUtUaFVBR04xZk1HV0lyQk1oVFVxQUhMX2JHMzZvY2otSXp3TXF0WlUyNzRCTUZEZlgwbXg0Z0hKYjYxdTcyUmlmbzVGOWZiZk1vYnZOeVJmV044Y1FzM0RPME0wZTFvbjAySWtSTjNRV1NSMnYwdm41Wl80RDNobVY3V1Z1ZTN4OWYyWGEyOHVjaTZjbFphbEJwaUNWX2UwLXR0OVhVNWxEMXp3ekVsWWlxZEVKWWdyclZO?oc=5",
-      "published": "2026-10-24T19:01:00",
-      "sentiment_score": 0.01,
+      "headline": "Opinion | The best defense against bad AI is more good AI",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHItOWZIUmZBOFlnQTg4enY1MzdmQkQyV1V5Q3d5dFE2bWFFVGhOa0QwbVdsZ1Btcy1RYU41UEZyZWxNVVVsbGNlUkJBYlB0SXRXbW9pWml4Q3o2TXo0YzAzanU3clRIc0Ezc2tobm1uYUozQVZGMFVsdXBuRmZmVGE5Y3ZqY1JIYzBEdTFRTGQ5bUVuSDNZakl4SlFuWUI5?oc=5",
+      "published": "2026-10-25T09:53:40",
+      "sentiment_score": 0.053,
       "sentiment_label": "Neutral",
-      "confidence": 0.931
+      "confidence": 0.897
+    },
+    {
+      "headline": "Put Your A.I. Agents to Work With These 5 Killer Tasks",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEJEeDdVWlV4QVNFelhJZjU0Q244SzdNbUZsQjNGaTc1dTNxLWNwZHVkS2dXdG8yazhvTFk4MGNNM255OXZrejA5MHpIWmVqMUxiRE5wS0JveWUzdjVOc1VjZGEtU3FFRlNGOHNadGJPaUJHVFUyUGZiamxubS1LZUZvMFZBQXlfclp6dGFoT3VDS2otVTc2YU5sMFVMd3FWOXc?oc=5",
+      "published": "2026-10-25T09:01:00",
+      "sentiment_score": 0.024,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
+    },
+    {
+      "headline": "Can Marissa Mayer, Yahoo\u2019s Former CEO, Help Fix A.I.\u2019s Gender Problem?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5KSFZOcEVLQzZ6OTNXOWJENzBVZEpaWFdtcnd0NXZlRS10VEdmcnRMODJ0Y3ZWX2ZfME1PdU41M2RrM2pwb25ZT2FpWTlvTFpQbVRHSXFFM0hsNlNlS1REQk5hdjlOSG5aeGNtSnlBQWt3MThtUFhNakt5TzRKU0E3MkZ5Zw?oc=5",
+      "published": "2026-10-25T09:00:32",
+      "sentiment_score": -0.084,
+      "sentiment_label": "Neutral",
+      "confidence": 0.804
+    },
+    {
+      "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmMyVGFaQTZkQWdEM2x5SjJTSXRLaVQ5VjNBcGhhU2w3WU9nb3FkZExxLXJ6d2JhY1drM0kwRkRRcHlFcEE5T1YwMkpWSjRzdjN0Znl5M203S2kzTHd4LS1yM2JCVEhpc1FBSm0zMmtYOFhyOFFpZkp6YnoxdjREZnhsRGthM21PeVAtS1Y3TWFfbHFhZnR1ZUVlMVBWSkkwOWF6emE1VDA5QmNXd2dr?oc=5",
+      "published": "2026-10-24T19:00:00",
+      "sentiment_score": -0.127,
+      "sentiment_label": "Neutral",
+      "confidence": 0.822
     },
     {
       "headline": "Pennsylvania will require labels on AI-generated ads",
@@ -136,6 +178,33 @@
       "sentiment_score": -0.203,
       "sentiment_label": "Neutral",
       "confidence": 0.745
+    },
+    {
+      "headline": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+      "published": "2026-10-24T10:00:01Z",
+      "sentiment_score": -0.798,
+      "sentiment_label": "Negative",
+      "confidence": 0.855
+    },
+    {
+      "headline": "What a day in customer service looks like \u2014 as AI changes everything",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+      "published": "2026-10-24T05:00:01Z",
+      "sentiment_score": -0.519,
+      "sentiment_label": "Negative",
+      "confidence": 0.548
+    },
+    {
+      "headline": "Why is US Stock Market Down Today? Dow Jones Slips 500 Points, S&P 500 Falls 0.24%, Nasdaq Climbs 0.13% as SpaceX Rally, AI Demand & Fed Rate Hike Ahead of Big Tech Earnings \u2014 Check Latest Updates",
+      "source": "The Sunday Guardian",
+      "link": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-slips-500-points-sp-500-falls-024-nasdaq-climbs-013-as-spacex-rally-ai-demand-fed-rate-hike-ahead-of-big-tech-earnings-check-latest-updates-310872/",
+      "published": "2026-10-24T04:02:15Z",
+      "sentiment_score": -0.829,
+      "sentiment_label": "Negative",
+      "confidence": 0.855
     },
     {
       "headline": "It\u2019s time to find a new browser",
@@ -154,24 +223,6 @@
       "sentiment_score": 0.652,
       "sentiment_label": "Positive",
       "confidence": 0.665
-    },
-    {
-      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5",
-      "published": "2026-10-23T23:05:49",
-      "sentiment_score": -0.222,
-      "sentiment_label": "Neutral",
-      "confidence": 0.735
-    },
-    {
-      "headline": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-      "published": "2026-10-23T21:49:08Z",
-      "sentiment_score": -0.917,
-      "sentiment_label": "Negative",
-      "confidence": 0.946
     },
     {
       "headline": "OpenAI now trains its frontier AI models with no internet access",
@@ -217,6 +268,15 @@
       "sentiment_score": -0.008,
       "sentiment_label": "Neutral",
       "confidence": 0.933
+    },
+    {
+      "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDl0aHEyRXI3SGQ4X09saUVHd1VrZFVBbkNXQXlQS0hHV3FwdC0xaEs2T0xyRVNXTlo3cWZKbHZ1MEhsd2pyQUJydWJpRjBTYWlkQUZxZDFySndOdEpUT2YxRm9xR0pIREh0S3NvZjRobERRaHA0ZFhjdTI0NHJfdHo2U1RhRUlodHFrbWtqN0FTMXNXRU1FM1g5aWt5aFRqUXpTelNjdW5wWEQxcHRGV3JrR3NVNXYyX2cyWE16cw?oc=5",
+      "published": "2026-10-22T19:00:00",
+      "sentiment_score": 0.099,
+      "sentiment_label": "Neutral",
+      "confidence": 0.878
     },
     {
       "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
