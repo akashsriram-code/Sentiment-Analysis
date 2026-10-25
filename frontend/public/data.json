@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-24T19:59:31.072812",
-  "total_articles": 27,
-  "overall_sentiment": -0.125,
+  "last_updated": "2026-10-25T02:20:14.190494",
+  "total_articles": 26,
+  "overall_sentiment": -0.101,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,65 +51,65 @@
     },
     {
       "date": "2026-10-21",
-      "avg_sentiment": 0.101,
-      "article_count": 6,
+      "avg_sentiment": 0.289,
+      "article_count": 5,
       "positive_count": 4,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.096
+      "moving_avg": -0.065
     },
     {
       "date": "2026-10-22",
-      "avg_sentiment": -0.342,
-      "article_count": 5,
-      "positive_count": 1,
+      "avg_sentiment": -0.452,
+      "article_count": 4,
+      "positive_count": 0,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.131
+      "moving_avg": -0.12
     },
     {
       "date": "2026-10-23",
-      "avg_sentiment": -0.24,
+      "avg_sentiment": -0.256,
       "article_count": 7,
-      "positive_count": 2,
-      "negative_count": 4,
+      "positive_count": 1,
+      "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.167
+      "moving_avg": -0.158
     },
     {
       "date": "2026-10-24",
-      "avg_sentiment": 0.153,
-      "article_count": 3,
-      "positive_count": 1,
+      "avg_sentiment": 0.144,
+      "article_count": 4,
+      "positive_count": 2,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.15
+      "moving_avg": -0.143
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.263,
-      "article_count": 11,
+      "avg_sentiment": -0.205,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.145,
-      "article_count": 6,
+      "avg_sentiment": 0.055,
+      "article_count": 5,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.286,
-      "article_count": 3,
-      "sentiment_label": "Negative"
+      "avg_sentiment": -0.009,
+      "article_count": 4,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.049,
+      "avg_sentiment": -0.156,
       "article_count": 3,
-      "sentiment_label": "Neutral"
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
@@ -138,13 +138,49 @@
       "confidence": 0.745
     },
     {
+      "headline": "It\u2019s time to find a new browser",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "published": "2026-10-24T01:16:47Z",
+      "sentiment_score": 0.117,
+      "sentiment_label": "Neutral",
+      "confidence": 0.852
+    },
+    {
       "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T00:05:45",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+      "published": "2026-10-24T00:05:45Z",
       "sentiment_score": 0.652,
       "sentiment_label": "Positive",
       "confidence": 0.665
+    },
+    {
+      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5",
+      "published": "2026-10-23T23:05:49",
+      "sentiment_score": -0.222,
+      "sentiment_label": "Neutral",
+      "confidence": 0.735
+    },
+    {
+      "headline": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "published": "2026-10-23T21:49:08Z",
+      "sentiment_score": -0.917,
+      "sentiment_label": "Negative",
+      "confidence": 0.946
+    },
+    {
+      "headline": "OpenAI now trains its frontier AI models with no internet access",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "published": "2026-10-23T21:11:07Z",
+      "sentiment_score": -0.078,
+      "sentiment_label": "Neutral",
+      "confidence": 0.744
     },
     {
       "headline": "AI 'hallucinations' in court filings show signs of slowdown, but judges still sound alarms",
@@ -156,24 +192,6 @@
       "confidence": 0.925
     },
     {
-      "headline": "Investors are starting to find opportunities in the battered bond market",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-      "published": "2026-10-23T17:40:31Z",
-      "sentiment_score": 0.609,
-      "sentiment_label": "Positive",
-      "confidence": 0.759
-    },
-    {
-      "headline": "Elon Musk\u2019s dangerous grip on outer space",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "published": "2026-10-23T17:35:15Z",
-      "sentiment_score": -0.783,
-      "sentiment_label": "Negative",
-      "confidence": 0.799
-    },
-    {
       "headline": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
@@ -181,15 +199,6 @@
       "sentiment_score": 0.777,
       "sentiment_label": "Positive",
       "confidence": 0.785
-    },
-    {
-      "headline": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-      "published": "2026-10-23T15:18:06Z",
-      "sentiment_score": -0.928,
-      "sentiment_label": "Negative",
-      "confidence": 0.939
     },
     {
       "headline": "What is PHP and why did it spark a global cyber-security scramble?",
@@ -208,15 +217,6 @@
       "sentiment_score": -0.008,
       "sentiment_label": "Neutral",
       "confidence": 0.933
-    },
-    {
-      "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDl0aHEyRXI3SGQ4X09saUVHd1VrZFVBbkNXQXlQS0hHV3FwdC0xaEs2T0xyRVNXTlo3cWZKbHZ1MEhsd2pyQUJydWJpRjBTYWlkQUZxZDFySndOdEpUT2YxRm9xR0pIREh0S3NvZjRobERRaHA0ZFhjdTI0NHJfdHo2U1RhRUlodHFrbWtqN0FTMXNXRU1FM1g5aWt5aFRqUXpTelNjdW5wWEQxcHRGV3JrR3NVNXYyX2cyWE16cw?oc=5",
-      "published": "2026-10-22T19:00:00",
-      "sentiment_score": 0.099,
-      "sentiment_label": "Neutral",
-      "confidence": 0.878
     },
     {
       "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
@@ -271,15 +271,6 @@
       "sentiment_score": -0.929,
       "sentiment_label": "Negative",
       "confidence": 0.939
-    },
-    {
-      "headline": "Just Eat apologises for AI food mistakes after social media ridicule",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T17:04:13",
-      "sentiment_score": -0.837,
-      "sentiment_label": "Negative",
-      "confidence": 0.851
     },
     {
       "headline": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
