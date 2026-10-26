@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-25T20:09:47.995241",
-  "total_articles": 33,
-  "overall_sentiment": -0.085,
+  "last_updated": "2026-10-26T02:20:02.477765",
+  "total_articles": 29,
+  "overall_sentiment": -0.088,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,12 +42,12 @@
     },
     {
       "date": "2026-10-21",
-      "avg_sentiment": 0.289,
-      "article_count": 5,
-      "positive_count": 4,
-      "negative_count": 1,
+      "avg_sentiment": 0.612,
+      "article_count": 3,
+      "positive_count": 3,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.268
+      "moving_avg": -0.203
     },
     {
       "date": "2026-10-22",
@@ -56,7 +56,7 @@
       "positive_count": 1,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.28
+      "moving_avg": -0.226
     },
     {
       "date": "2026-10-23",
@@ -65,50 +65,53 @@
       "positive_count": 1,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.263
+      "moving_avg": -0.217
     },
     {
       "date": "2026-10-24",
-      "avg_sentiment": 0.065,
-      "article_count": 8,
+      "avg_sentiment": 0.092,
+      "article_count": 7,
       "positive_count": 3,
-      "negative_count": 4,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.255
+      "moving_avg": -0.205
     },
     {
       "date": "2026-10-25",
-      "avg_sentiment": -0.046,
-      "article_count": 5,
-      "positive_count": 1,
+      "avg_sentiment": -0.156,
+      "article_count": 3,
+      "positive_count": 0,
       "negative_count": 1,
-      "neutral_count": 3,
-      "moving_avg": -0.206
+      "neutral_count": 2,
+      "moving_avg": -0.172
+    },
+    {
+      "date": "2026-10-26",
+      "avg_sentiment": -0.049,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": -0.128
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.205,
-      "article_count": 10,
+      "avg_sentiment": -0.125,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.219,
+      "avg_sentiment": 0.135,
       "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": -0.105,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.383,
-      "article_count": 3,
+      "avg_sentiment": -0.1,
+      "article_count": 4,
       "sentiment_label": "Negative"
     },
     {
@@ -122,9 +125,24 @@
       "avg_sentiment": -0.004,
       "article_count": 2,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.587,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
+      "published": "2026-10-26T00:37:00",
+      "sentiment_score": -0.049,
+      "sentiment_label": "Neutral",
+      "confidence": 0.857
+    },
     {
       "headline": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
       "source": "The Guardian",
@@ -151,33 +169,6 @@
       "sentiment_score": -0.004,
       "sentiment_label": "Neutral",
       "confidence": 0.919
-    },
-    {
-      "headline": "Apollo\u2019s Slok Says AI Has Delivered Zero Payoff Outside of Tech",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1FnYXFIOUpyU1VUdzNDazE4cFE2VDFyNU5DS3h0R0VSR2xHa0k0V2dHZ0hKbTZ6dFo3X1hUSW96S2dRRE5GODJUSUlCQ0dHUTVpSUJ0ZExNM1FBMVFld0JmSTBDMkpfSG5IOXVlS0hPX1h6OHpRT0xhbzNweEVxVDBLZGRreHVCc0VPZjVEQjN5dEIxQ2x4TGhfN2o3UHA3dVZrTXhRNVhsV216MGxNSnZWUGdNU1JiQjMxbQ?oc=5",
-      "published": "2026-10-25T09:28:36",
-      "sentiment_score": 0.214,
-      "sentiment_label": "Neutral",
-      "confidence": 0.627
-    },
-    {
-      "headline": "Put Your A.I. Agents to Work With These 5 Killer Tasks",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVM3eS0zbjY1QVZYMl92Ym80ZHZ2MTJ2ZTVycG8xY2FrWjAzSHlOODNKUmhWTkhuN1RqSm9TeXJPLXBzM0s3YUhKY2ttZVpENjlVQmRpbGIxazBISmNnYkExbFR1RnMtSGRaTVlYaFdxYzlHOTJvT1JjMDBzVnE0UnRieGJabm0tZ1lWYXJEcnlYeTBobWRMNjY0QWxVeG8?oc=5",
-      "published": "2026-10-25T09:01:00",
-      "sentiment_score": 0.024,
-      "sentiment_label": "Neutral",
-      "confidence": 0.925
-    },
-    {
-      "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmMyVGFaQTZkQWdEM2x5SjJTSXRLaVQ5VjNBcGhhU2w3WU9nb3FkZExxLXJ6d2JhY1drM0kwRkRRcHlFcEE5T1YwMkpWSjRzdjN0Znl5M203S2kzTHd4LS1yM2JCVEhpc1FBSm0zMmtYOFhyOFFpZkp6YnoxdjREZnhsRGthM21PeVAtS1Y3TWFfbHFhZnR1ZUVlMVBWSkkwOWF6emE1VDA5QmNXd2dr?oc=5",
-      "published": "2026-10-24T19:00:00",
-      "sentiment_score": -0.127,
-      "sentiment_label": "Neutral",
-      "confidence": 0.822
     },
     {
       "headline": "Pennsylvania will require labels on AI-generated ads",
@@ -342,15 +333,6 @@
       "confidence": 0.812
     },
     {
-      "headline": "Websites taken down worldwide as critical cyber-security update issued",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:54:57",
-      "sentiment_score": -0.929,
-      "sentiment_label": "Negative",
-      "confidence": 0.939
-    },
-    {
       "headline": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFERURfRDhCWENqMGowemlERzBvaU00S3pBbmRwNDFpcGNpWjZ6cFJIak1WTnVMN3NOemFlUE1nNVkweGk3V3NnNFlHa29UYUFjRVYzRGhGUjlWSEh4b09UWnEyN1V4bzJ6UmVBUkVRWkhHQVh1S1Z2MWdzTHlpUHJGWTlnNVd0dHNJekZfQk9PUWxCa1IwUFI0LTdnQUVhZGJ0eFpkUnlDclN3b3hFUWpzajF3MHFjZnREdVln?oc=5",
@@ -367,15 +349,6 @@
       "sentiment_score": 0.768,
       "sentiment_label": "Positive",
       "confidence": 0.777
-    },
-    {
-      "headline": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
-      "published": "2026-10-21T12:00:02",
-      "sentiment_score": 0.54,
-      "sentiment_label": "Positive",
-      "confidence": 0.55
     },
     {
       "headline": "OpenAI sued by 8 states over ChatGPT safety concerns",
