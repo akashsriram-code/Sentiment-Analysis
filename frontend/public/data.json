@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-26T22:06:59.224997",
-  "total_articles": 20,
-  "overall_sentiment": -0.012,
-  "overall_label": "Neutral",
+  "last_updated": "2026-10-27T02:56:18.511180",
+  "total_articles": 31,
+  "overall_sentiment": -0.107,
+  "overall_label": "Negative",
   "daily_stats": [
     {
       "date": "2026-10-06",
@@ -32,13 +32,22 @@
       "moving_avg": -0.103
     },
     {
+      "date": "2026-10-14",
+      "avg_sentiment": -0.893,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.301
+    },
+    {
       "date": "2026-10-21",
       "avg_sentiment": 0.768,
       "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.114
+      "moving_avg": -0.087
     },
     {
       "date": "2026-10-22",
@@ -47,7 +56,7 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 0,
-      "moving_avg": -0.011
+      "moving_avg": -0.158
     },
     {
       "date": "2026-10-23",
@@ -56,7 +65,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.046
+      "moving_avg": -0.167
     },
     {
       "date": "2026-10-24",
@@ -65,48 +74,105 @@
       "positive_count": 3,
       "negative_count": 0,
       "neutral_count": 2,
-      "moving_avg": 0.007
+      "moving_avg": -0.122
     },
     {
       "date": "2026-10-25",
-      "avg_sentiment": 0.054,
-      "article_count": 1,
+      "avg_sentiment": 0.04,
+      "article_count": 2,
       "positive_count": 1,
       "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.013
+      "neutral_count": 1,
+      "moving_avg": -0.121
     },
     {
       "date": "2026-10-26",
-      "avg_sentiment": -0.082,
-      "article_count": 5,
-      "positive_count": 2,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "moving_avg": -0.003
+      "avg_sentiment": -0.153,
+      "article_count": 11,
+      "positive_count": 3,
+      "negative_count": 4,
+      "neutral_count": 4,
+      "moving_avg": -0.092
+    },
+    {
+      "date": "2026-10-27",
+      "avg_sentiment": -0.308,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.009
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.109,
-      "article_count": 10,
+      "avg_sentiment": -0.096,
+      "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.543,
-      "article_count": 3,
-      "sentiment_label": "Positive"
+      "avg_sentiment": 0.003,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.623,
-      "article_count": 2,
+      "avg_sentiment": -0.175,
+      "article_count": 3,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.076,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": 0.018,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEtWZHk3MHVmT1VtM1ZlaUUwZnRxSHhLd25MMUdINTc4RnV4eVVGdUt1bHhRMGpXYU1Uc0J1Tjd4c2lwd0xERFdkSnllb2Zqa1ZxMVJFX05KcnRDTlBUa3lnNWxZeUhWc3Ixa1ZNQnpUQWkySnp6bXFHOHBwWjFVWEh3b0JOZW0ya0lmdjIxbGFFQ0hfY1FRZElXR0E3cXRRNThDVHpZd1FGQl9YMzZOMW9qZG4?oc=5",
+      "published": "2026-10-27T01:17:00",
+      "sentiment_score": 0.211,
+      "sentiment_label": "Neutral",
+      "confidence": 0.672
+    },
+    {
+      "headline": "See How the Way We Train A.I. Leads to Rogue Behaviors",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0JGYUlTQkhXOXlaYUNGV1dqTHVWeDJHWE9FdFJ5M2d2TGJ4TnlCQllSVTIzb0hvZldpN1d6UU9PSW9EUE5lOEp2VXhGMlJfMFptM1Qtd2JvQ09vNHJ5WXNQU01xMF9CeUR5ZGMweVBVZUJEbFdLQk9mTzdyYTZYLWYxWjY1RzFadE9Ub1lfaw?oc=5",
+      "published": "2026-10-27T01:04:14",
+      "sentiment_score": -0.188,
+      "sentiment_label": "Neutral",
+      "confidence": 0.76
+    },
+    {
+      "headline": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2JSZ2N4T2xMRzVqSzc3M1Q1cnNFbFdIamtBUmVZUlNiZUlER0dLSVJkMmRPSVlFeHVkQUFueUtoWTVoU3MxUlRuSE1OMW0yZUxZdWRpTmVCQld1c0dLTGlWUTBkMzQ4cHhjZ3hQRXEwQ0w1VkdtdFdfcDJFbllOZ1NEWVE4TEV1RDNxWDEzZ1NpSjhRWkNRQ3c4NThwd0ZJMElWeG44cHFRdjBhRVBDSGIxd3JhaENwMC1tekUyd3RfNVZrYlhiS2pfdTZWM3JSbXJIMWdPc3pWaFNpVTNDMGdrM2o5WUhUeHFnUQ?oc=5",
+      "published": "2026-10-27T00:52:00",
+      "sentiment_score": -0.946,
+      "sentiment_label": "Negative",
+      "confidence": 0.956
+    },
+    {
+      "headline": "Anthropic is burning gas to feed the AI boom",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHJjRElTTVd1TFppMk1PZnBuZjdYaFNuLVZUU0ZDTUdlYmszVkM2RUNQNmk4elRxclp2VDE3RE9XSVY4YjVrUGlGZDRzUFg2THg5R1Q3cnNkMF9WTXBJTVRvU01pUlVOZlU4QUVNZE1MN3lpNHFOMWYxVl9nQURNU0RaT2lBLW5hYnc3NENDX2R2V0xEMjBEQlFpYzZJVzg0Qi1tSmNhR3J1YzhO?oc=5",
+      "published": "2026-10-26T21:45:31",
+      "sentiment_score": 0.035,
+      "sentiment_label": "Neutral",
+      "confidence": 0.918
+    },
     {
       "headline": "Anthropic's blockbuster share listing - 5 surprising things we now know",
       "source": "BBC News",
@@ -124,6 +190,15 @@
       "sentiment_score": 0.014,
       "sentiment_label": "Neutral",
       "confidence": 0.917
+    },
+    {
+      "headline": "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRThpZzljUDVhR2FLUnEzald0ZTRNU09RTDIyazJvSDVmazJ4NGtleVFjY0dXRFNBX0gzQkZzTFNBQ1N5cEdxbG1jeU1DMXpYRGNTUS1kSHhiNHM?oc=5",
+      "published": "2026-10-26T16:27:17",
+      "sentiment_score": -0.777,
+      "sentiment_label": "Negative",
+      "confidence": 0.804
     },
     {
       "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -144,13 +219,58 @@
       "confidence": 0.71
     },
     {
-      "headline": "DraftKings Faces Growing Pressure Over How It Targets Customers",
+      "headline": "Meet Anthropic\u2019s Seven Founders as the A.I. Firm Prepares for an IPO",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOckUtQnVRLWNOVXRSNjR5OWFBV0Y4VURIaUhTQUs3UW8xUWNxYUdZVXNQbDg2SG5HaTMtNTJXenoybFExam10d3BwcWNiNGJsR1RfYVZxWDhtQTQ2S3JieWNJeEh1bmpSZUFfNFdUMlhISlZEN2hDbHVPUzZSTnhZS3g1bVJhRVEtT245MGtBWDk0WEE?oc=5",
-      "published": "2026-10-26T15:53:16",
-      "sentiment_score": -0.889,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
+      "published": "2026-10-26T15:24:56",
+      "sentiment_score": 0.019,
+      "sentiment_label": "Neutral",
+      "confidence": 0.936
+    },
+    {
+      "headline": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWVJZlJtQjJkZTMyWV9zMXNqV3RxZERPOE1CZlliQTVqR3VaTFk5anp5bHViM0pVTlVlc3lmMTU2YzVkb01hRXVsYU9yWUVFWjJxVHlrbW5TRVZoMWw3SzM1VUZ3UmpZN1NRODBhZmpHQXI4OXFCZDI5dWpMOGlTcGlWblREUUhmWHRCLWtZeW9zcnNUMVlRa2JTN0pwZ2dkSXBKQS14emotVmM1LWMtb2RxMEF5Y3RqNHBFZndn?oc=5",
+      "published": "2026-10-26T13:49:00",
+      "sentiment_score": 0.351,
+      "sentiment_label": "Neutral",
+      "confidence": 0.626
+    },
+    {
+      "headline": "In China, the AI bubble has already burst",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+      "published": "2026-10-26T12:02:00",
+      "sentiment_score": -0.23,
+      "sentiment_label": "Neutral",
+      "confidence": 0.696
+    },
+    {
+      "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "published": "2026-10-26T00:37:51Z",
+      "sentiment_score": -0.721,
       "sentiment_label": "Negative",
-      "confidence": 0.902
+      "confidence": 0.76
+    },
+    {
+      "headline": "Brazil Re-Elects Lula for Historic Fourth Term, Bolsonaro Refuses to Concede",
+      "source": "Time",
+      "link": "https://time.com/article/2026/10/26/brazil-lula-bolsonaro-presidential-election-trump/",
+      "published": "2026-10-26T00:00:00Z",
+      "sentiment_score": -0.842,
+      "sentiment_label": "Negative",
+      "confidence": 0.866
+    },
+    {
+      "headline": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+      "published": "2026-10-25T23:44:34Z",
+      "sentiment_score": 0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.894
     },
     {
       "headline": "What the US Movement Against Data Centers Can Learn From Abroad",
@@ -259,6 +379,15 @@
       "sentiment_score": 0.768,
       "sentiment_label": "Positive",
       "confidence": 0.777
+    },
+    {
+      "headline": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5",
+      "published": "2026-10-14T07:00:00",
+      "sentiment_score": -0.893,
+      "sentiment_label": "Negative",
+      "confidence": 0.908
     },
     {
       "headline": "Why My Conversations With \u2018ChatGPT for Teens\u2019 Made Me Very Worried",
