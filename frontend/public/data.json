@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-27T21:36:45.683485",
-  "total_articles": 36,
-  "overall_sentiment": -0.067,
+  "last_updated": "2026-10-28T03:04:35.174544",
+  "total_articles": 34,
+  "overall_sentiment": -0.15,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,31 +23,22 @@
       "moving_avg": 0.023
     },
     {
-      "date": "2026-10-21",
-      "avg_sentiment": 0.768,
-      "article_count": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "moving_avg": 0.271
-    },
-    {
       "date": "2026-10-22",
-      "avg_sentiment": -0.515,
-      "article_count": 3,
+      "avg_sentiment": -0.509,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 3,
+      "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": 0.075
+      "moving_avg": -0.154
     },
     {
       "date": "2026-10-23",
-      "avg_sentiment": -0.22,
-      "article_count": 2,
+      "avg_sentiment": -0.459,
+      "article_count": 3,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": 0.016
+      "moving_avg": -0.23
     },
     {
       "date": "2026-10-24",
@@ -56,60 +47,102 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.122
+      "moving_avg": -0.054
     },
     {
       "date": "2026-10-26",
-      "avg_sentiment": -0.01,
-      "article_count": 15,
-      "positive_count": 7,
+      "avg_sentiment": -0.019,
+      "article_count": 13,
+      "positive_count": 6,
       "negative_count": 4,
-      "neutral_count": 4,
-      "moving_avg": 0.103
+      "neutral_count": 3,
+      "moving_avg": -0.048
     },
     {
       "date": "2026-10-27",
-      "avg_sentiment": -0.146,
+      "avg_sentiment": -0.192,
       "article_count": 12,
       "positive_count": 4,
       "negative_count": 6,
       "neutral_count": 2,
-      "moving_avg": 0.08
+      "moving_avg": -0.069
+    },
+    {
+      "date": "2026-10-28",
+      "avg_sentiment": -0.859,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.193
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.109,
-      "article_count": 10,
+      "avg_sentiment": -0.062,
+      "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.283,
+      "avg_sentiment": 0.032,
+      "article_count": 7,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.06,
       "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.034,
-      "article_count": 5,
-      "sentiment_label": "Neutral"
-    },
-    {
       "source": "Reuters",
-      "avg_sentiment": -0.211,
-      "article_count": 4,
+      "avg_sentiment": -0.431,
+      "article_count": 3,
       "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": 0.014,
-      "article_count": 2,
+      "avg_sentiment": 0.034,
+      "article_count": 3,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.818,
+      "article_count": 2,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHM2xuV0Uwd1VhLWFMQXRmSHpzSGh4cC1kRzJZQWdCWjcyeHNOenZ1cWVzUDhCR0h1alJxSkpzWUxNcTBqdW54UTVXVW52NWZrbFNVcjlMWmw0Z0U?oc=5",
+      "published": "2026-10-28T01:01:02",
+      "sentiment_score": -0.859,
+      "sentiment_label": "Negative",
+      "confidence": 0.879
+    },
+    {
+      "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3JtRzlfcnp1ZXJ4ZFFyZ2dSSUROTkNzY3FnY3l0SEJpRngzcDJNQzc3LUZpblVFc0dPWXF6eVNEbENSVU1ycjI0ZjJrbWEtcjhaR1B4XzlEWnVBRFQyaGZhc2ZocU9wTHJLcVgwOUc1djNNb2VWRVBUdjNVTGo2YXVpRlJTOEFnMmtPUkwxNUlEbVd6M3JyWUMwVlhyM1dLZmRYMXYtTmVoR0s0VmN0QXM0RnJUQQ?oc=5",
+      "published": "2026-10-27T23:34:27",
+      "sentiment_score": -0.855,
+      "sentiment_label": "Negative",
+      "confidence": 0.882
+    },
+    {
+      "headline": "Fashion's AI era: face swaps and digital clones",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWtnLUwtNEgzYnkxbDdsWlA3TXZDUGFtYWpub0p0YXdfaHliNldnVzB4WjQ0a0pxeElLRFBWdXZrTFQzcHJSa1IwVEkwWVBsNFJzYVFIbTNjYXQ0ZWpOUjdBNkNwRzlCQVQ1dERobkJnOEVfdVV3djNqbWtjSEFhVHR0LThlVl8zZWp6dGZjNi1VUWJOTmN6dHFR?oc=5",
+      "published": "2026-10-27T21:46:21",
+      "sentiment_score": -0.032,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
     {
       "headline": "Privacy group files complaints against Scale AI over alleged worker surveillance",
       "source": "Reuters",
@@ -120,13 +153,13 @@
       "confidence": 0.894
     },
     {
-      "headline": "AI financing driving private credit growth as refinancing risks rise, Moody\u2019s says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5",
-      "published": "2026-10-27T18:32:02",
-      "sentiment_score": 0.124,
+      "headline": "Who Stands to Gain From an Anthropic I.P.O.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTJqNWFTVDd0dGZUZEZKRDdFMm9ZTzhhODBZMXQzbGUwRHVjMkJjNlJ1ejcxMjlOMUNDcFNJNDVJYWZMOTVZNXR0M1UyS0V5U0cyOUNfUjFNZ0VTUFprd3BuSXZCM1ZYMnMyMTQ5T21iVkplaFBaMUZkWTJLWHktcEFGRnlFWWh5MTg2UXNZRVNiQlk?oc=5",
+      "published": "2026-10-27T19:17:28",
+      "sentiment_score": 0.078,
       "sentiment_label": "Neutral",
-      "confidence": 0.738
+      "confidence": 0.856
     },
     {
       "headline": "OpenAI Sued Alleging ChatGPT Gave Fatal Epilepsy Medical Advice",
@@ -156,6 +189,15 @@
       "confidence": 0.706
     },
     {
+      "headline": "Trump says he will ban term artificial intelligence",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5",
+      "published": "2026-10-27T16:26:16",
+      "sentiment_score": -0.379,
+      "sentiment_label": "Neutral",
+      "confidence": 0.571
+    },
+    {
       "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXNOakpZUWg2elFlZ2k0VXcxVHlybzUtYTJxWmZIUEw1QmM4a0xiRmdrdjZFZGloUU5HZG1DTFp0Ry1FcC1PMFVrY2gxYmlrb0E2dUFaaHF6Z2NGSV9mRW5wVkh2TTI4Yy1ZeU42X003YjdrZjhaem1XOEh4eXk5MTVn0gGHAUFVX3lxTE1aMnIwbG5ZZUoxd1NqT0hCeS1hdFdCbnVzWVdBUkUyb1lzZzVQRXU5WHNJTEhUOXd1eG11RGVZajFHazZnaWZ1MS03eHNCVUlPaTl1dXN0WW50Q0w4ZERuR3hOd25TRmV0VEYtckN3TmlIZ2dFdkhueFN6dy1lWVlDd2FQTmMxRQ?oc=5",
@@ -163,15 +205,6 @@
       "sentiment_score": 0.507,
       "sentiment_label": "Positive",
       "confidence": 0.517
-    },
-    {
-      "headline": "There\u2019s not enough money in the world to pay for the AI boom",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDBNTFlUd2ROQU5TWXRELUZnczlQX2pnX0UyMXhOY2J1eXdlUUV5TG5QS2hDZGprTk44U3JyMEhmU0RrY2RrbDZSMzF6UWF2aU45R1h2SzVuNTRncDRMZE54S1BZSHFuVExzUE9vVWtxWWhsSVM2cmV1c1VsaGp6cExLYmtVeWtIRWQydmQyUGlpXzVqVDA1U2w4TkRpNVRQWWRjVE83OGFySXlndVZwTEt3Znc?oc=5",
-      "published": "2026-10-27T16:00:00",
-      "sentiment_score": -0.068,
-      "sentiment_label": "Neutral",
-      "confidence": 0.87
     },
     {
       "headline": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
@@ -183,24 +216,6 @@
       "confidence": 0.859
     },
     {
-      "headline": "Fashion's AI era: face swaps and digital clones",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWtnLUwtNEgzYnkxbDdsWlA3TXZDUGFtYWpub0p0YXdfaHliNldnVzB4WjQ0a0pxeElLRFBWdXZrTFQzcHJSa1IwVEkwWVBsNFJzYVFIbTNjYXQ0ZWpOUjdBNkNwRzlCQVQ1dERobkJnOEVfdVV3djNqbWtjSEFhVHR0LThlVl8zZWp6dGZjNi1VUWJOTmN6dHFR?oc=5",
-      "published": "2026-10-27T11:23:58",
-      "sentiment_score": -0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.922
-    },
-    {
-      "headline": "COMMENTARY: AI tremor exposes market's volatility fault lines",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmR2T3EtUl9KU2hocWJmbVpmU09FaFZJVWNENkpjcGhuRUQ3NHpuX0d4MlR5aV9MYWJRZlU5dG1TamZvOUN1MjVXYnBaTURWN2dQSng1ZV9zUmxoY0dTTWdSOGhoeDBveWh2TjVQNVc5SFBSbE1BT25fbG5qNHpPV3JLY3A1NlJXR254M0JDLVQ0bUN1QUpjRUh3THVHS0t2OGxxSGVVY2NMaWRqNFBfRHB0N3I3UUdK?oc=5",
-      "published": "2026-10-27T11:00:42",
-      "sentiment_score": -0.054,
-      "sentiment_label": "Neutral",
-      "confidence": 0.804
-    },
-    {
       "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
@@ -210,58 +225,67 @@
       "confidence": 0.914
     },
     {
-      "headline": "Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEtWZHk3MHVmT1VtM1ZlaUUwZnRxSHhLd25MMUdINTc4RnV4eVVGdUt1bHhRMGpXYU1Uc0J1Tjd4c2lwd0xERFdkSnllb2Zqa1ZxMVJFX05KcnRDTlBUa3lnNWxZeUhWc3Ixa1ZNQnpUQWkySnp6bXFHOHBwWjFVWEh3b0JOZW0ya0lmdjIxbGFFQ0hfY1FRZElXR0E3cXRRNThDVHpZd1FGQl9YMzZOMW9qZG4?oc=5",
-      "published": "2026-10-27T01:17:00",
-      "sentiment_score": 0.211,
-      "sentiment_label": "Neutral",
-      "confidence": 0.672
-    },
-    {
-      "headline": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "published": "2026-10-26T21:27:15Z",
-      "sentiment_score": -0.376,
-      "sentiment_label": "Neutral",
-      "confidence": 0.572
-    },
-    {
-      "headline": "Nasdaq Today LIVE: Nasdaq Composite Jumps 1.25% as AI Stocks Rally After Anthropic IPO Filing, Oil Prices Ease; Check Big Tech Earnings & Fed Rate Decision",
-      "source": "The Sunday Guardian",
-      "link": "https://sundayguardianlive.com/business/nasdaq-today-live-nasdaq-composite-jumps-125-as-ai-stocks-rally-after-anthropic-ipo-filing-oil-prices-ease-check-big-tech-earnings-fed-rate-decision-312429/",
-      "published": "2026-10-26T21:23:06Z",
-      "sentiment_score": 0.829,
-      "sentiment_label": "Positive",
-      "confidence": 0.879
-    },
-    {
-      "headline": "Health Research Agency Director Goes on Administrative Leave (1)",
-      "source": "Bloomberglaw.com",
-      "link": "https://news.bloomberglaw.com/health-law-and-business/health-research-agency-head-on-administrative-leave-hhs-says",
-      "published": "2026-10-26T20:45:16Z",
-      "sentiment_score": -0.896,
-      "sentiment_label": "Negative",
-      "confidence": 0.905
-    },
-    {
-      "headline": "Ukraine\u2019s Satellite Disruption Exposes a Central Risk of Modern Warfare",
-      "source": "Time",
-      "link": "https://time.com/article/2026/10/26/ukraine-s-satellite-disruption-exposes-a-central-risk-of-modern-warfare/",
-      "published": "2026-10-26T20:28:45Z",
-      "sentiment_score": -0.848,
-      "sentiment_label": "Negative",
-      "confidence": 0.864
-    },
-    {
-      "headline": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
+      "headline": "China industrial profits post strongest growth in three months, rising 14.4%",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
-      "published": "2026-10-26T20:07:54Z",
-      "sentiment_score": 0.009,
+      "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+      "published": "2026-10-27T01:45:58Z",
+      "sentiment_score": 0.819,
+      "sentiment_label": "Positive",
+      "confidence": 0.901
+    },
+    {
+      "headline": "Data center backlash is uniting America",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "published": "2026-10-26T23:58:16Z",
+      "sentiment_score": 0.132,
       "sentiment_label": "Neutral",
-      "confidence": 0.944
+      "confidence": 0.827
+    },
+    {
+      "headline": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published": "2026-10-26T23:47:59Z",
+      "sentiment_score": 0.342,
+      "sentiment_label": "Neutral",
+      "confidence": 0.626
+    },
+    {
+      "headline": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "published": "2026-10-26T22:50:07Z",
+      "sentiment_score": -0.168,
+      "sentiment_label": "Neutral",
+      "confidence": 0.583
+    },
+    {
+      "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
+      "published": "2026-10-26T22:34:19Z",
+      "sentiment_score": 0.729,
+      "sentiment_label": "Positive",
+      "confidence": 0.739
+    },
+    {
+      "headline": "Jim Cramer warns this overlooked danger could threaten the market rally",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
+      "published": "2026-10-26T22:09:35Z",
+      "sentiment_score": -0.931,
+      "sentiment_label": "Negative",
+      "confidence": 0.942
+    },
+    {
+      "headline": "Anthropic is burning gas to feed the AI boom",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "published": "2026-10-26T21:45:31Z",
+      "sentiment_score": -0.121,
+      "sentiment_label": "Neutral",
+      "confidence": 0.435
     },
     {
       "headline": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
@@ -291,13 +315,13 @@
       "confidence": 0.798
     },
     {
-      "headline": "Five weird details from Anthropic\u2019s IPO filing",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "published": "2026-10-26T17:10:23Z",
-      "sentiment_score": 0.101,
-      "sentiment_label": "Neutral",
-      "confidence": 0.871
+      "headline": "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRThpZzljUDVhR2FLUnEzald0ZTRNU09RTDIyazJvSDVmazJ4NGtleVFjY0dXRFNBX0gzQkZzTFNBQ1N5cEdxbG1jeU1DMXpYRGNTUS1kSHhiNHM?oc=5",
+      "published": "2026-10-26T16:27:17",
+      "sentiment_score": -0.777,
+      "sentiment_label": "Negative",
+      "confidence": 0.804
     },
     {
       "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -307,15 +331,6 @@
       "sentiment_score": 0.195,
       "sentiment_label": "Neutral",
       "confidence": 0.785
-    },
-    {
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "published": "2026-10-26T16:05:23Z",
-      "sentiment_score": 0.739,
-      "sentiment_label": "Positive",
-      "confidence": 0.751
     },
     {
       "headline": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
@@ -331,27 +346,9 @@
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
       "published": "2026-10-26T13:34:56",
-      "sentiment_score": 0.021,
+      "sentiment_score": 0.019,
       "sentiment_label": "Neutral",
-      "confidence": 0.93
-    },
-    {
-      "headline": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
-      "published": "2026-10-26T13:02:37Z",
-      "sentiment_score": 0.471,
-      "sentiment_label": "Neutral",
-      "confidence": 0.51
-    },
-    {
-      "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-      "published": "2026-10-26T00:37:51Z",
-      "sentiment_score": -0.721,
-      "sentiment_label": "Negative",
-      "confidence": 0.76
+      "confidence": 0.936
     },
     {
       "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
@@ -370,6 +367,15 @@
       "sentiment_score": -0.431,
       "sentiment_label": "Negative",
       "confidence": 0.495
+    },
+    {
+      "headline": "Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
+      "published": "2026-10-23T10:33:28",
+      "sentiment_score": -0.938,
+      "sentiment_label": "Negative",
+      "confidence": 0.95
     },
     {
       "headline": "The Indian workers filming their work to train AI",
@@ -397,24 +403,6 @@
       "sentiment_score": -0.94,
       "sentiment_label": "Negative",
       "confidence": 0.949
-    },
-    {
-      "headline": "'500 new vulnerabilities' found in government, says AI minister",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T10:08:44",
-      "sentiment_score": -0.526,
-      "sentiment_label": "Negative",
-      "confidence": 0.586
-    },
-    {
-      "headline": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zT2hqbHpJQWlRY2M5SElrcVpHc3BHM3dWdks0R0hhbWM4NFlmQkItUFhPUW9zSXhyaG1NWjNjV3U1eERDOGE2WVI0eF8zX0JjeURXR0NBTGlLbm1YZERsVkhsLWUtRm4xSl8tcHQ4NkFGWDZxN1hV0gF8QVVfeXFMTndoM0pabVhEX0Z2Xzc0aWI2QVZINmpJdEs3RjdqemVxUlNfVFJLczRhN0d1RTJZd19zTUN3dEc0R25OZXZvZmVnWDB5dkxtRHZhUVpyNEpfUVpNUUp5S0NCcGQ0MU9FQW1fTzJWYkdFZ3Z5VENGMXZtOVJfbQ?oc=5",
-      "published": "2026-10-21T13:00:01",
-      "sentiment_score": 0.768,
-      "sentiment_label": "Positive",
-      "confidence": 0.777
     },
     {
       "headline": "Tech Now",
