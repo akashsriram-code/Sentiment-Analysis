@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-28T03:04:35.174544",
-  "total_articles": 34,
-  "overall_sentiment": -0.15,
+  "last_updated": "2026-10-28T11:51:12.059717",
+  "total_articles": 33,
+  "overall_sentiment": -0.101,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,12 +33,12 @@
     },
     {
       "date": "2026-10-23",
-      "avg_sentiment": -0.459,
-      "article_count": 3,
+      "avg_sentiment": -0.22,
+      "article_count": 2,
       "positive_count": 0,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.23
+      "moving_avg": -0.171
     },
     {
       "date": "2026-10-24",
@@ -47,34 +47,34 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.054
+      "moving_avg": -0.006
     },
     {
       "date": "2026-10-26",
-      "avg_sentiment": -0.019,
-      "article_count": 13,
-      "positive_count": 6,
-      "negative_count": 4,
-      "neutral_count": 3,
-      "moving_avg": -0.048
+      "avg_sentiment": 0.192,
+      "article_count": 5,
+      "positive_count": 3,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "moving_avg": 0.027
     },
     {
       "date": "2026-10-27",
-      "avg_sentiment": -0.192,
-      "article_count": 12,
-      "positive_count": 4,
-      "negative_count": 6,
+      "avg_sentiment": -0.126,
+      "article_count": 16,
+      "positive_count": 7,
+      "negative_count": 7,
       "neutral_count": 2,
-      "moving_avg": -0.069
+      "moving_avg": 0.005
     },
     {
       "date": "2026-10-28",
-      "avg_sentiment": -0.859,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.193
+      "avg_sentiment": -0.305,
+      "article_count": 5,
+      "positive_count": 1,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "moving_avg": -0.04
     }
   ],
   "source_stats": [
@@ -86,36 +86,84 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.032,
-      "article_count": 7,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": 0.06,
+      "avg_sentiment": 0.133,
       "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.431,
-      "article_count": 3,
+      "avg_sentiment": -0.15,
+      "article_count": 5,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": 0.034,
-      "article_count": 3,
-      "sentiment_label": "Neutral"
     },
     {
       "source": "BBC",
-      "avg_sentiment": -0.818,
+      "avg_sentiment": -0.515,
       "article_count": 2,
       "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": 0.028,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "The New York Times",
+      "avg_sentiment": -0.423,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Wired",
+      "avg_sentiment": 0.17,
+      "article_count": 2,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.017,
+      "article_count": 2,
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
+    {
+      "headline": "This painting went missing 20 years ago. Police tracked it down with the help of AI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUZOclRJdGo4MDhCUElRYWwtNFhoWnBmNmprSHV6dGp0LVR1Wk1lcDNLOHVGYjJsT0lqbUdObWVVN0hJanhDc0VqWDlRSXVxcERsRlE2RHBOcTBQUnBwMnVab1lsY3l1a3ZTYlIzNGlfSWtnZm42Z2hud3k1UUwwQ29FTG9jckcwZHExcFZmbFhESHJmVFRzYWhlVlZxZDEwSWVZN0s1VU94SjhxSXU2ODZNcG94SFVsSUdEdmZtakd2MFBs?oc=5",
+      "published": "2026-10-28T10:00:00",
+      "sentiment_score": -0.171,
+      "sentiment_label": "Neutral",
+      "confidence": 0.779
+    },
+    {
+      "headline": "European sovereign AI, cloud not yet ready for major banks, Temenos CEO says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWw1UFVIWTdPSExHTUt6TmNtM3lSY3diRE11SGR6WGtWZjNRa18yWW5zNGhrcFgyQUMzTmN0cUpwRGpURHplZ0ZjZmk2czBWTlBKTEVEN0dfVEhxRzZMcXVNWGtYV2hpR3JiZXEySjlDaWkwa2czd19laEpOelBvMGVVY1FaeUgwWGVtcUxoaXhMeDZCUVNKUUlIUEpnMmFVeC1jSU5TNVprUnRDU1RMb05yNGJtdndLMFdrQWY4Ujk?oc=5",
+      "published": "2026-10-28T08:55:52",
+      "sentiment_score": -0.025,
+      "sentiment_label": "Neutral",
+      "confidence": 0.865
+    },
+    {
+      "headline": "China's new export curbs draw a line around its AI crown jewels",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
+      "published": "2026-10-28T08:50:39",
+      "sentiment_score": -0.641,
+      "sentiment_label": "Negative",
+      "confidence": 0.708
+    },
+    {
+      "headline": "Breakingviews - COMMENTARY: Anthropic offers glimmer of hope for China AI labs",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlYtVEVtWEVQbkRhMmk2RWluNUdpTHl3Wnp1MlhNV2ctQzVSTEdJbHJrQjNnRnBmc0czRWR4RjNLelhuOVhvcUpuRVNmcVd0Q2hFSkJNZnpKdEtDTzVvdzIwT0h6V3NvYzM1Vl90dVd0cHd0T2paZEpxOGpnNmx4WDEwVm8zS3FkX3ZYZWJCUGNMWWhrVlRvTVNoV0VvUjFtZXgwNkpqbw?oc=5",
+      "published": "2026-10-28T03:28:00",
+      "sentiment_score": 0.171,
+      "sentiment_label": "Neutral",
+      "confidence": 0.799
+    },
     {
       "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
       "source": "BBC",
@@ -135,31 +183,13 @@
       "confidence": 0.882
     },
     {
-      "headline": "Fashion's AI era: face swaps and digital clones",
+      "headline": "AI financing driving private credit growth as refinancing risks rise, Moody\u2019s says",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWtnLUwtNEgzYnkxbDdsWlA3TXZDUGFtYWpub0p0YXdfaHliNldnVzB4WjQ0a0pxeElLRFBWdXZrTFQzcHJSa1IwVEkwWVBsNFJzYVFIbTNjYXQ0ZWpOUjdBNkNwRzlCQVQ1dERobkJnOEVfdVV3djNqbWtjSEFhVHR0LThlVl8zZWp6dGZjNi1VUWJOTmN6dHFR?oc=5",
-      "published": "2026-10-27T21:46:21",
-      "sentiment_score": -0.032,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5",
+      "published": "2026-10-27T18:32:02",
+      "sentiment_score": 0.124,
       "sentiment_label": "Neutral",
-      "confidence": 0.922
-    },
-    {
-      "headline": "Privacy group files complaints against Scale AI over alleged worker surveillance",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0QzdElNcDhKWkJYRldiRUp4RmE4Z2t6aXdxZjNPM3Q1VEpMb1djS2QyVUdBRWozV0R3QXg1bUdkcDJkeXJsbV9oTmFaaHQtaHMwYzVLNFZaY0Rld3EtckUtSkxyYlZldVV4Unh0VzVkbzF5cHFPUy04aThFbEt2LXJtb1NmSUZZN1A2eHBXYXkyb1hWajliWVdPTTJWNnRaRV9DaHU1MXJpNFNXMjFfVG9SdmhwUFNyaFJqTEVzR0dwaG8?oc=5",
-      "published": "2026-10-27T20:34:28",
-      "sentiment_score": -0.882,
-      "sentiment_label": "Negative",
-      "confidence": 0.894
-    },
-    {
-      "headline": "Who Stands to Gain From an Anthropic I.P.O.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTJqNWFTVDd0dGZUZEZKRDdFMm9ZTzhhODBZMXQzbGUwRHVjMkJjNlJ1ejcxMjlOMUNDcFNJNDVJYWZMOTVZNXR0M1UyS0V5U0cyOUNfUjFNZ0VTUFprd3BuSXZCM1ZYMnMyMTQ5T21iVkplaFBaMUZkWTJLWHktcEFGRnlFWWh5MTg2UXNZRVNiQlk?oc=5",
-      "published": "2026-10-27T19:17:28",
-      "sentiment_score": 0.078,
-      "sentiment_label": "Neutral",
-      "confidence": 0.856
+      "confidence": 0.738
     },
     {
       "headline": "OpenAI Sued Alleging ChatGPT Gave Fatal Epilepsy Medical Advice",
@@ -171,24 +201,6 @@
       "confidence": 0.708
     },
     {
-      "headline": "Oracle announces new agreement to embed ChatGPT in more of its products",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMV9BdUFjd3dmcW11cU1hZWR0TkUtcFlXMldabE5WV1NVc3VaRFY0WGdjWmw4QVZQWWcwNDBJRm5xYU1BTW5qdXVUcHdneG5lQXZEaGhjVGw4a1o0V2w4dmJDeDgySXNBWlplRW1KZDRoQktNUE1vVVFRMWdTXzFxUFlLUXNLVUVsbmhZZzB1c3podDhMSnlheElkZUlic2VwQ3Y5R3lJYU9oaFRJUW1iYWR5SVE?oc=5",
-      "published": "2026-10-27T17:55:41",
-      "sentiment_score": 0.207,
-      "sentiment_label": "Neutral",
-      "confidence": 0.771
-    },
-    {
-      "headline": "VisionQuest is what happens when AI really goes rogue",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTktWVU0bDhDRmw1M1VYemhCN1d1b2xwQXN1SWVhUUlkYV9CendHd2ptYmpkTmY2Tl9OUVk3SkgxUnRXNV9lX19MYUVqNmkwa0hHM1U3aFI4MEZzakVkRktIaE03WnIxcW5ldnFEa214RDR4aWlaU3F2TXl1WWUzTm96NEVLWUFBZ0J3X2ZNbzI?oc=5",
-      "published": "2026-10-27T17:30:00",
-      "sentiment_score": -0.257,
-      "sentiment_label": "Neutral",
-      "confidence": 0.706
-    },
-    {
       "headline": "Trump says he will ban term artificial intelligence",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5",
@@ -196,6 +208,15 @@
       "sentiment_score": -0.379,
       "sentiment_label": "Neutral",
       "confidence": 0.571
+    },
+    {
+      "headline": "ChatGPT\u2019s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0NqMW1MSnJGeVB2WHVWdWR4V0wySkRhVUpXTG1hQk1iZU1CY3pNeGRwUkVIcU83V01mckM5Z01qTmw0T2tRUVZmM1luNE55bDluMEQzUzB5THBzZWJYZ1ZTRFA3a0otUVZDRWRVdDdmTm9WY2VoazJUR19nNGlGNU9WNHVxWGZV?oc=5",
+      "published": "2026-10-27T16:00:12",
+      "sentiment_score": -0.853,
+      "sentiment_label": "Negative",
+      "confidence": 0.873
     },
     {
       "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
@@ -216,6 +237,69 @@
       "confidence": 0.859
     },
     {
+      "headline": "Fed rate hikes are coming, but not this week: CNBC survey",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+      "published": "2026-10-27T11:10:01Z",
+      "sentiment_score": -0.491,
+      "sentiment_label": "Negative",
+      "confidence": 0.521
+    },
+    {
+      "headline": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "published": "2026-10-27T11:02:37Z",
+      "sentiment_score": 0.911,
+      "sentiment_label": "Positive",
+      "confidence": 0.923
+    },
+    {
+      "headline": "Anthropic's IPO is risky business",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+      "published": "2026-10-27T11:00:01Z",
+      "sentiment_score": 0.084,
+      "sentiment_label": "Neutral",
+      "confidence": 0.878
+    },
+    {
+      "headline": "AI Agents Are Media\u2019s New Favorite Audience",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "published": "2026-10-27T11:00:00Z",
+      "sentiment_score": 0.205,
+      "sentiment_label": "Neutral",
+      "confidence": 0.768
+    },
+    {
+      "headline": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
+      "published": "2026-10-27T10:35:23Z",
+      "sentiment_score": 0.037,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
+    },
+    {
+      "headline": "Silicon Valley AI political groups turn on each other in the 2026 election",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
+      "published": "2026-10-27T10:00:01Z",
+      "sentiment_score": -0.712,
+      "sentiment_label": "Negative",
+      "confidence": 0.735
+    },
+    {
+      "headline": "I Tested Every Major AI Agent for a Day. Here\u2019s the Best One",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "published": "2026-10-27T09:30:00Z",
+      "sentiment_score": 0.135,
+      "sentiment_label": "Neutral",
+      "confidence": 0.829
+    },
+    {
       "headline": "In the A.I. \u2018Robogym,\u2019 Machines Train to Be More Like Humans",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBOaUFWYzdPdWticUxKMVBOUS1rdDI2bFVEQ3NvRHBUVnhUWkVDYU1TMjQ5Xy1QUE9kR2VtRWp6QUpfQWMxcFY0Nmg1V09YNFp5SVplaUN5azRWdzREdURHb1JER2d0LUF3dzgzSWRFVmVNYmJycnAwa3lUd0pJM3poem5QM1U?oc=5",
@@ -225,40 +309,13 @@
       "confidence": 0.914
     },
     {
-      "headline": "China industrial profits post strongest growth in three months, rising 14.4%",
+      "headline": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-      "published": "2026-10-27T01:45:58Z",
-      "sentiment_score": 0.819,
+      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "published": "2026-10-27T08:40:53Z",
+      "sentiment_score": 0.775,
       "sentiment_label": "Positive",
-      "confidence": 0.901
-    },
-    {
-      "headline": "Data center backlash is uniting America",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "published": "2026-10-26T23:58:16Z",
-      "sentiment_score": 0.132,
-      "sentiment_label": "Neutral",
-      "confidence": 0.827
-    },
-    {
-      "headline": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "published": "2026-10-26T23:47:59Z",
-      "sentiment_score": 0.342,
-      "sentiment_label": "Neutral",
-      "confidence": 0.626
-    },
-    {
-      "headline": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-      "published": "2026-10-26T22:50:07Z",
-      "sentiment_score": -0.168,
-      "sentiment_label": "Neutral",
-      "confidence": 0.583
+      "confidence": 0.783
     },
     {
       "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
@@ -268,15 +325,6 @@
       "sentiment_score": 0.729,
       "sentiment_label": "Positive",
       "confidence": 0.739
-    },
-    {
-      "headline": "Jim Cramer warns this overlooked danger could threaten the market rally",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
-      "published": "2026-10-26T22:09:35Z",
-      "sentiment_score": -0.931,
-      "sentiment_label": "Negative",
-      "confidence": 0.942
     },
     {
       "headline": "Anthropic is burning gas to feed the AI boom",
@@ -306,24 +354,6 @@
       "confidence": 0.944
     },
     {
-      "headline": "Nothing\u2019s eye-catching Ear 3A earbuds are matching their best price to date",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "published": "2026-10-26T17:25:34Z",
-      "sentiment_score": 0.176,
-      "sentiment_label": "Neutral",
-      "confidence": 0.798
-    },
-    {
-      "headline": "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRThpZzljUDVhR2FLUnEzald0ZTRNU09RTDIyazJvSDVmazJ4NGtleVFjY0dXRFNBX0gzQkZzTFNBQ1N5cEdxbG1jeU1DMXpYRGNTUS1kSHhiNHM?oc=5",
-      "published": "2026-10-26T16:27:17",
-      "sentiment_score": -0.777,
-      "sentiment_label": "Negative",
-      "confidence": 0.804
-    },
-    {
       "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
@@ -331,24 +361,6 @@
       "sentiment_score": 0.195,
       "sentiment_label": "Neutral",
       "confidence": 0.785
-    },
-    {
-      "headline": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "published": "2026-10-26T13:37:13Z",
-      "sentiment_score": -0.007,
-      "sentiment_label": "Neutral",
-      "confidence": 0.919
-    },
-    {
-      "headline": "Meet Anthropic\u2019s Seven Founders as the A.I. Firm Prepares for an IPO",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
-      "published": "2026-10-26T13:34:56",
-      "sentiment_score": 0.019,
-      "sentiment_label": "Neutral",
-      "confidence": 0.936
     },
     {
       "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
@@ -367,15 +379,6 @@
       "sentiment_score": -0.431,
       "sentiment_label": "Negative",
       "confidence": 0.495
-    },
-    {
-      "headline": "Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWZMZ2Q4QkpJSThNQ2c1Q18xeTRFZThMTC1VLWFrRFduLU1CblkydnRpaFUzSTRNaFl6VGRDS1J3TlBKWVo0Q1kwMnhVYmdNejg4Zk1pT3lUUVNCdmtmT0pJa3pJR1FrckFHTHRSTDVVaVFsMnlWZXVWMjFmb2l4eUlhRdIBiAFBVV95cUxNYzZaOTF1NUlmTXdqSEVYTXRNd2Yybm8wcTlKUDhMWEJmbXVhcDM0UW0zbDNqbzRyMUdBMGFFMjFIcUFpS0ZwYWpLTE5tQ1hxamg0NGdLWmdncW9yeUJyTWk1dFhjSkpfMHd3bm1DcXJ0RGdfcGItWm5RNHBGS0hjUmtRMGFwVzhN?oc=5",
-      "published": "2026-10-23T10:33:28",
-      "sentiment_score": -0.938,
-      "sentiment_label": "Negative",
-      "confidence": 0.95
     },
     {
       "headline": "The Indian workers filming their work to train AI",
