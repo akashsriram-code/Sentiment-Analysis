@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-29T22:32:38.005385",
-  "total_articles": 38,
-  "overall_sentiment": -0.2,
+  "last_updated": "2026-10-30T03:34:18.594951",
+  "total_articles": 35,
+  "overall_sentiment": -0.126,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -23,22 +23,13 @@
       "moving_avg": 0.023
     },
     {
-      "date": "2026-10-23",
-      "avg_sentiment": -0.431,
-      "article_count": 1,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "moving_avg": -0.128
-    },
-    {
       "date": "2026-10-24",
       "avg_sentiment": 0.652,
       "article_count": 1,
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.067
+      "moving_avg": 0.233
     },
     {
       "date": "2026-10-26",
@@ -47,83 +38,101 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": 0.073
+      "moving_avg": 0.2
     },
     {
       "date": "2026-10-27",
-      "avg_sentiment": -0.431,
+      "avg_sentiment": -0.293,
       "article_count": 5,
       "positive_count": 1,
       "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.011
+      "moving_avg": 0.101
     },
     {
       "date": "2026-10-28",
-      "avg_sentiment": -0.083,
-      "article_count": 14,
-      "positive_count": 6,
-      "negative_count": 7,
+      "avg_sentiment": -0.019,
+      "article_count": 10,
+      "positive_count": 4,
+      "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.021
+      "moving_avg": 0.081
     },
     {
       "date": "2026-10-29",
-      "avg_sentiment": -0.364,
-      "article_count": 13,
-      "positive_count": 2,
+      "avg_sentiment": -0.21,
+      "article_count": 14,
+      "positive_count": 4,
       "negative_count": 9,
-      "neutral_count": 2,
-      "moving_avg": -0.075
+      "neutral_count": 1,
+      "moving_avg": 0.039
+    },
+    {
+      "date": "2026-10-30",
+      "avg_sentiment": -0.715,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.064
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.067,
-      "article_count": 10,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.028,
+      "article_count": 11,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.181,
-      "article_count": 9,
+      "avg_sentiment": -0.095,
+      "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.024,
+      "avg_sentiment": 0.029,
       "article_count": 4,
       "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.087,
-      "article_count": 4,
+      "avg_sentiment": 0.203,
+      "article_count": 3,
       "sentiment_label": "Positive"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.699,
-      "article_count": 3,
+      "source": "Bloomberg",
+      "avg_sentiment": -0.433,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Bloomberg.com",
-      "avg_sentiment": -0.433,
+      "source": "The New York Times",
+      "avg_sentiment": -0.224,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "headline": "Binance says crypto worth $6.3bn impacted in suspected hack",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T22:17:52",
-      "sentiment_score": -0.96,
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T03:12:53",
+      "sentiment_score": -0.715,
       "sentiment_label": "Negative",
-      "confidence": 0.969
+      "confidence": 0.74
+    },
+    {
+      "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
+      "published": "2026-10-29T22:17:52",
+      "sentiment_score": -0.948,
+      "sentiment_label": "Negative",
+      "confidence": 0.957
     },
     {
       "headline": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment",
@@ -135,40 +144,22 @@
       "confidence": 0.864
     },
     {
-      "headline": "Value of Google parent Alphabet plunges by $500bn as AI fears rattle Wall Street",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
-      "published": "2026-10-29T21:52:13",
-      "sentiment_score": -0.953,
+      "headline": "Dartmouth provost resigns following accusations he used artificial intelligence for writing",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVh1bVBld3pTNEtQekdfSzJpc2RzTUNhelViZUNLYmU1RzlTMG1zeHllRk80NjNHcGIyeXJNa1dqQjFrYk1rSmFWSTNGWEM2cy12LWlYRFBQaVpSQU5XRzJfa3BmTTU3ZC1sSlA3V2JUdW9ZQl80dFAxa3FSR1pHNURUcm95Mjg?oc=5",
+      "published": "2026-10-29T20:18:00",
+      "sentiment_score": -0.886,
       "sentiment_label": "Negative",
-      "confidence": 0.962
-    },
-    {
-      "headline": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3JHd09CYUlpY2ZZbFRmUGtEcXdmZWIzRUppSExxdGhkamFzWDBWTUR2RDJGNEhEOU90dXY0YnEyZDdyVDVKMmNLZm9NRlRNR2VyUUR2dTJtVEItbkxZMkwtZTN5Q3B1cEZQTDN1TnlCQjQ?oc=5",
-      "published": "2026-10-29T21:17:40",
-      "sentiment_score": -0.959,
-      "sentiment_label": "Negative",
-      "confidence": 0.967
+      "confidence": 0.897
     },
     {
       "headline": "Gaming\u2019s Business Model Is Broken. AI Can Fix It",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWZLNW9wbHRXVlBhUV9uMk0tSWxjOV96VnF1NW1OeTdOY3hZcURSaFNNSEtHRWRQSG9zVGlkc0ItR1Mya3E5TEtrZk9xaHN4ZmNkT25ackdKVk1PUkM0Z2xQa0JURGR5U1FNTVFJb0JlTDQ4YUpIMHZQSENGQ1FyZkRra2tZdzJUQXMtQnZ3?oc=5",
       "published": "2026-10-29T19:00:00",
       "sentiment_score": -0.679,
       "sentiment_label": "Negative",
       "confidence": 0.703
-    },
-    {
-      "headline": "He called for an AI slowdown, then told investors he\u2019d race ahead",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdU9FVmtYcElxdzl0RTloc1AxVy0ycXNKWC1UTVhrV1p0S0dDS2VLSWxBQUZ3NjF4LURVUWVJTWhueGhZTWZwMFRaTDhtUlpCUXljcHlUelRybU4xWFVLUWJ0TDIwb3lBVHQ3SEQ1V0FOUzJ4S0VBWm93YlplT1pFcEtOaFNtYXpCSkowUzlJWk5SQTZmUTFka2dUbGl0RnhXQW1ITGp1SF9pQnRkQU10WG96MXE?oc=5",
-      "published": "2026-10-29T16:00:00",
-      "sentiment_score": -0.002,
-      "sentiment_label": "Neutral",
-      "confidence": 0.818
     },
     {
       "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
@@ -199,7 +190,7 @@
     },
     {
       "headline": "You\u2019ll Only Realize You Miss Those Cold Emails After AI Kills Them Off",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ096bk1NQVdjR2xlR1MzbnRPWXdMd0NLWllod3p5RW9RVHVvX3AxRzZiNzdGYXEwWDZSU2ExUFVxb0ZlMzM0WjZaeUtmcS1PSzFCQmZuTy05Y1hxVXdBMkphbnktUkhZb0NlbW93MTRRaDJFQVpEYXZuWTIzbEV1Yk9rWG9ocWVGUUJKY2NtMGRwaHBpaEEtMw?oc=5",
       "published": "2026-10-29T11:00:17",
       "sentiment_score": -0.188,
@@ -207,13 +198,22 @@
       "confidence": 0.769
     },
     {
-      "headline": "Cash is king as investors draw new battle lines in AI spending boom",
+      "headline": "Cash is king, as investors draw new battle lines in AI spending boom",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
       "published": "2026-10-29T02:31:00",
-      "sentiment_score": 0.191,
-      "sentiment_label": "Neutral",
-      "confidence": 0.531
+      "sentiment_score": 0.402,
+      "sentiment_label": "Positive",
+      "confidence": 0.536
+    },
+    {
+      "headline": "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "published": "2026-10-29T02:14:14Z",
+      "sentiment_score": -0.938,
+      "sentiment_label": "Negative",
+      "confidence": 0.949
     },
     {
       "headline": "Details of thousands of US immigration agents leaked in major hack",
@@ -234,6 +234,51 @@
       "confidence": 0.852
     },
     {
+      "headline": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "published": "2026-10-29T01:02:10Z",
+      "sentiment_score": 0.814,
+      "sentiment_label": "Positive",
+      "confidence": 0.893
+    },
+    {
+      "headline": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no",
+      "published": "2026-10-29T00:36:12Z",
+      "sentiment_score": 0.674,
+      "sentiment_label": "Positive",
+      "confidence": 0.765
+    },
+    {
+      "headline": "As Waymo expands overseas, it remains a niche cash-burning business",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+      "published": "2026-10-28T23:53:58Z",
+      "sentiment_score": 0.04,
+      "sentiment_label": "Neutral",
+      "confidence": 0.922
+    },
+    {
+      "headline": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o",
+      "published": "2026-10-28T23:02:56Z",
+      "sentiment_score": -0.374,
+      "sentiment_label": "Neutral",
+      "confidence": 0.551
+    },
+    {
+      "headline": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "published": "2026-10-28T23:00:27Z",
+      "sentiment_score": -0.321,
+      "sentiment_label": "Negative",
+      "confidence": 0.634
+    },
+    {
       "headline": "Jim Cramer says these tech giants can weather market turbulence",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/10/28/jim-cramer-tech-giants-nation-states.html",
@@ -241,24 +286,6 @@
       "sentiment_score": 0.175,
       "sentiment_label": "Neutral",
       "confidence": 0.789
-    },
-    {
-      "headline": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-      "published": "2026-10-28T21:31:46Z",
-      "sentiment_score": -0.01,
-      "sentiment_label": "Neutral",
-      "confidence": 0.75
-    },
-    {
-      "headline": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
-      "published": "2026-10-28T21:14:08Z",
-      "sentiment_score": -0.966,
-      "sentiment_label": "Negative",
-      "confidence": 0.973
     },
     {
       "headline": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
@@ -288,42 +315,6 @@
       "confidence": 0.779
     },
     {
-      "headline": "Oracle stock pops 10% on forecast for 35% average revenue growth through 2030",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-      "published": "2026-10-28T18:52:11Z",
-      "sentiment_score": -0.262,
-      "sentiment_label": "Negative",
-      "confidence": 0.552
-    },
-    {
-      "headline": "Apple \u2018Pro and Tell\u2019 event: everything announced this week",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-      "published": "2026-10-28T17:28:50Z",
-      "sentiment_score": -0.261,
-      "sentiment_label": "Negative",
-      "confidence": 0.489
-    },
-    {
-      "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "published": "2026-10-28T17:15:23Z",
-      "sentiment_score": 0.258,
-      "sentiment_label": "Neutral",
-      "confidence": 0.703
-    },
-    {
-      "headline": "Alphabet set to report third-quarter earnings after the bell",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "published": "2026-10-28T16:00:01Z",
-      "sentiment_score": -0.729,
-      "sentiment_label": "Negative",
-      "confidence": 0.766
-    },
-    {
       "headline": "Inside Amazon\u2019s Echo hardware event",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
@@ -331,15 +322,6 @@
       "sentiment_score": 0.128,
       "sentiment_label": "Neutral",
       "confidence": 0.848
-    },
-    {
-      "headline": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-      "published": "2026-10-28T11:00:01Z",
-      "sentiment_score": 0.342,
-      "sentiment_label": "Neutral",
-      "confidence": 0.635
     },
     {
       "headline": "Please Let the Internet Die",
@@ -387,13 +369,13 @@
       "confidence": 0.666
     },
     {
-      "headline": "ChatGPT\u2019s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+      "headline": "She Trusted ChatGPT With Her Medication Decisions. It Cost Her Everything.",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0NqMW1MSnJGeVB2WHVWdWR4V0wySkRhVUpXTG1hQk1iZU1CY3pNeGRwUkVIcU83V01mckM5Z01qTmw0T2tRUVZmM1luNE55bDluMEQzUzB5THBzZWJYZ1ZTRFA3a0otUVZDRWRVdDdmTm9WY2VoazJUR19nNGlGNU9WNHVxWGZV?oc=5",
       "published": "2026-10-27T16:00:12",
-      "sentiment_score": -0.853,
-      "sentiment_label": "Negative",
-      "confidence": 0.873
+      "sentiment_score": -0.163,
+      "sentiment_label": "Neutral",
+      "confidence": 0.759
     },
     {
       "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
@@ -430,15 +412,6 @@
       "sentiment_score": 0.652,
       "sentiment_label": "Positive",
       "confidence": 0.665
-    },
-    {
-      "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T12:24:17",
-      "sentiment_score": -0.431,
-      "sentiment_label": "Negative",
-      "confidence": 0.495
     },
     {
       "headline": "Tech Now",
