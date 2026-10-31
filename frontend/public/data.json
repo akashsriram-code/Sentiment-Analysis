@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-31T16:32:47.385461",
-  "total_articles": 29,
-  "overall_sentiment": -0.245,
+  "last_updated": "2026-10-31T20:48:58.520115",
+  "total_articles": 23,
+  "overall_sentiment": -0.217,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -42,44 +42,29 @@
     },
     {
       "date": "2026-10-29",
-      "avg_sentiment": -0.302,
-      "article_count": 5,
+      "avg_sentiment": -0.201,
+      "article_count": 4,
       "positive_count": 1,
-      "negative_count": 3,
+      "negative_count": 2,
       "neutral_count": 1,
-      "moving_avg": 0.063
+      "moving_avg": 0.083
     },
     {
       "date": "2026-10-30",
-      "avg_sentiment": -0.325,
-      "article_count": 15,
+      "avg_sentiment": -0.35,
+      "article_count": 12,
       "positive_count": 3,
-      "negative_count": 9,
-      "neutral_count": 3,
-      "moving_avg": -0.002
-    },
-    {
-      "date": "2026-10-31",
-      "avg_sentiment": -0.378,
-      "article_count": 2,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.056
+      "negative_count": 7,
+      "neutral_count": 2,
+      "moving_avg": 0.011
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.459,
-      "article_count": 10,
+      "avg_sentiment": -0.403,
+      "article_count": 9,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": 0.123,
-      "article_count": 7,
-      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
@@ -88,30 +73,27 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": -0.359,
+      "source": "CNBC",
+      "avg_sentiment": 0.098,
       "article_count": 4,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.185,
+      "article_count": 3,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "New hacking threat has election officials scrambling weeks before the midterms",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmFuOFFWakYtSkotbHp0bDBTQTdOY1FVWktwcGVpcjZzblJKenZPZmRxTWdVTS05UnNES1h1VXVUVFVGcjNIQ3hRWlBwMG0zQ2JFUmw1dllOX0hEMm1nZUc4YktkVUpWdkpxaGVsTHdHazBpRjZRazd1Nk9PaG42d2VnVWJsTTNKemlqR2VyOHdFQTdZX0NNMlZxOWEtSWZSUkxqRWFBUDVySHB2MS1GY0xzc2FxQXc?oc=5",
-      "published": "2026-10-31T16:00:00",
-      "sentiment_score": -0.75,
+      "headline": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "published": "2026-10-30T20:48:43Z",
+      "sentiment_score": -0.739,
       "sentiment_label": "Negative",
-      "confidence": 0.769
-    },
-    {
-      "headline": "Anthropic's path to the Nasdaq just got a lot bumpier",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
-      "published": "2026-10-31T11:00:01",
-      "sentiment_score": -0.005,
-      "sentiment_label": "Neutral",
-      "confidence": 0.862
+      "confidence": 0.756
     },
     {
       "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -123,6 +105,15 @@
       "confidence": 0.973
     },
     {
+      "headline": "The biggest names in AI are backing a new way to opt out of scraping",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10Z",
+      "sentiment_score": 0.064,
+      "sentiment_label": "Neutral",
+      "confidence": 0.887
+    },
+    {
       "headline": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXotdk1SQjNVV0I0cTY5SF8wakFYNk9Za3pJM3JlOFF3YjBOR25PUnB6SnBFUmlzR2dSQXl4c3E2RjFzbVFGNXJSR2dyYUJwZnI3OU10MXY1SENMN2Uwd0h3QzJZaFkwVnZ4SGlGbWQtNlpXcEVUUUYtMDRiVXNILU91OVBpZmszZVZnUXUwanlxNFNod2Nfa3Z3eEYyRjdVTG9EVnZVSW1BUlM4Y3dfYVR1NkdJRVduZklvUmhkVXFVcVAwTnJST0pR?oc=5",
@@ -132,40 +123,22 @@
       "confidence": 0.863
     },
     {
-      "headline": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
+      "headline": "Starbucks wants to use AI to show you a \u2018personalized digital menu\u2019 at the drive-thru",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "published": "2026-10-30T14:58:06Z",
-      "sentiment_score": 0.014,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "published": "2026-10-30T17:38:04Z",
+      "sentiment_score": 0.119,
       "sentiment_label": "Neutral",
-      "confidence": 0.878
+      "confidence": 0.861
     },
     {
-      "headline": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+      "headline": "The AI investing story had a rough week. It may be time to take profits while you still can",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-      "published": "2026-10-30T14:53:12Z",
-      "sentiment_score": 0.092,
-      "sentiment_label": "Neutral",
-      "confidence": 0.876
-    },
-    {
-      "headline": "US tech stocks see sharp falls over AI cost concerns",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "published": "2026-10-30T14:50:37Z",
-      "sentiment_score": -0.968,
+      "link": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
+      "published": "2026-10-30T17:22:30Z",
+      "sentiment_score": -0.923,
       "sentiment_label": "Negative",
-      "confidence": 0.975
-    },
-    {
-      "headline": "Sam Altman sympathizes with mathematicians, but says OpenAI\u2019s math onslaught won\u2019t stop",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "published": "2026-10-30T13:01:14Z",
-      "sentiment_score": -0.328,
-      "sentiment_label": "Neutral",
-      "confidence": 0.61
+      "confidence": 0.94
     },
     {
       "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
@@ -177,15 +150,6 @@
       "confidence": 0.971
     },
     {
-      "headline": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-      "published": "2026-10-30T11:44:53Z",
-      "sentiment_score": -0.418,
-      "sentiment_label": "Neutral",
-      "confidence": 0.524
-    },
-    {
       "headline": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw?oc=5",
@@ -193,15 +157,6 @@
       "sentiment_score": -0.101,
       "sentiment_label": "Neutral",
       "confidence": 0.842
-    },
-    {
-      "headline": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
-      "published": "2026-10-30T11:00:01Z",
-      "sentiment_score": -0.946,
-      "sentiment_label": "Negative",
-      "confidence": 0.955
     },
     {
       "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
@@ -222,15 +177,6 @@
       "confidence": 0.918
     },
     {
-      "headline": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92RFVzbUMzWGNqc1U0TkNGNWJkdDhlNjJQZW1MV1hjSzJnU3R5YjB6T092TzVNSXJZNHhUR09uMjZuMGttdUNCWVVjZlBveV9HLVA4NE55RnpJc0NhVTJqY205N0dtaU1DcFRvVEt5UWlneTBQT21N0gF8QVVfeXFMTWI4eXFCREZRU1hNVFk2TDZta3RlUEhTV1hMY0xxbDI5eDVrVzJOWlFTR1VZdVY5ck13SUtEcGp2X0VPMHRaUnFVSlRVZUg3c0J0M2tBY0xjMTJIaV8taEFXWTdpVjJ1VWc4RmhnRm82dEtQcDAwNi12ckZ4RA?oc=5",
-      "published": "2026-10-30T08:19:14",
-      "sentiment_score": 0.404,
-      "sentiment_label": "Neutral",
-      "confidence": 0.57
-    },
-    {
       "headline": "Foxconn hopes to own 50% of the global AI server market within a couple years",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
@@ -247,15 +193,6 @@
       "sentiment_score": -0.642,
       "sentiment_label": "Negative",
       "confidence": 0.661
-    },
-    {
-      "headline": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "published": "2026-10-29T22:43:40Z",
-      "sentiment_score": -0.703,
-      "sentiment_label": "Negative",
-      "confidence": 0.737
     },
     {
       "headline": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment",
