@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-04T13:30:03.395938",
-  "total_articles": 29,
-  "overall_sentiment": -0.294,
+  "last_updated": "2026-11-04T23:01:19.235595",
+  "total_articles": 37,
+  "overall_sentiment": -0.197,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,12 +24,12 @@
     },
     {
       "date": "2026-10-30",
-      "avg_sentiment": -0.654,
-      "article_count": 3,
+      "avg_sentiment": -0.964,
+      "article_count": 2,
       "positive_count": 0,
       "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.192
+      "neutral_count": 0,
+      "moving_avg": -0.295
     },
     {
       "date": "2026-11-01",
@@ -38,60 +38,60 @@
       "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.238
+      "moving_avg": -0.315
     },
     {
       "date": "2026-11-02",
-      "avg_sentiment": -0.018,
-      "article_count": 6,
-      "positive_count": 5,
-      "negative_count": 1,
+      "avg_sentiment": 0.159,
+      "article_count": 3,
+      "positive_count": 3,
+      "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": -0.194
+      "moving_avg": -0.22
     },
     {
       "date": "2026-11-03",
-      "avg_sentiment": -0.326,
-      "article_count": 12,
-      "positive_count": 3,
-      "negative_count": 7,
-      "neutral_count": 2,
-      "moving_avg": -0.216
+      "avg_sentiment": -0.128,
+      "article_count": 18,
+      "positive_count": 5,
+      "negative_count": 9,
+      "neutral_count": 4,
+      "moving_avg": -0.205
     },
     {
       "date": "2026-11-04",
-      "avg_sentiment": -0.466,
-      "article_count": 4,
-      "positive_count": 1,
-      "negative_count": 3,
-      "neutral_count": 0,
-      "moving_avg": -0.251
+      "avg_sentiment": -0.286,
+      "article_count": 10,
+      "positive_count": 3,
+      "negative_count": 5,
+      "neutral_count": 2,
+      "moving_avg": -0.216
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.468,
-      "article_count": 7,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Reuters",
-      "avg_sentiment": -0.059,
-      "article_count": 5,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.688,
-      "article_count": 5,
+      "avg_sentiment": -0.575,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.032,
-      "article_count": 3,
+      "avg_sentiment": 0.047,
+      "article_count": 6,
       "sentiment_label": "Neutral"
+    },
+    {
+      "source": "CNBC",
+      "avg_sentiment": -0.046,
+      "article_count": 5,
+      "sentiment_label": "Neutral"
+    },
+    {
+      "source": "Reuters",
+      "avg_sentiment": -0.199,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
@@ -100,13 +100,67 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "The New York Times",
-      "avg_sentiment": -0.209,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.496,
       "article_count": 2,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     }
   ],
   "articles": [
+    {
+      "headline": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T21:41:15",
+      "sentiment_score": -0.63,
+      "sentiment_label": "Negative",
+      "confidence": 0.736
+    },
+    {
+      "headline": "Arm Holdings Sales Climb 27% on AI Demand",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+      "published": "2026-11-04T21:23:01",
+      "sentiment_score": 0.443,
+      "sentiment_label": "Positive",
+      "confidence": 0.676
+    },
+    {
+      "headline": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5",
+      "published": "2026-11-04T19:45:00",
+      "sentiment_score": -0.932,
+      "sentiment_label": "Negative",
+      "confidence": 0.945
+    },
+    {
+      "headline": "EU rules on Artificial Intelligence devices will apply in NI",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XLVFyNmp2WG1CSG1aU2NodnRlRUt0QjBsaHYtb0pFTEpkQlFUUWcwZ2dQWmFzaU5IajJ6VlMxZDNiTVFST1ZhQTduXzFCR1liLVNNTkQ2Um5jY28?oc=5",
+      "published": "2026-11-04T18:47:32",
+      "sentiment_score": 0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.926
+    },
+    {
+      "headline": "ChatGPT will now make you animated GIFs",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHVmMkJJSDdzTHJxRFRtUjNoSzJSQTl2Mk1kQmRLbmFaTEE4bDRxZ3FHUzh4Rzd0akdvMUtra2k0U2dPTWdEcm80YnJfRFhXN2lUYjRuSktPdG00VjVFclNqWGxUOERWQ3RKeFpHdkR5aUcxNmVxOHFwMVJJbGJHYTlWRkFFQWljX2VOUUFrUWNiRk13b190NXN4STNqdXNq?oc=5",
+      "published": "2026-11-04T18:00:00",
+      "sentiment_score": 0.026,
+      "sentiment_label": "Neutral",
+      "confidence": 0.936
+    },
+    {
+      "headline": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:26:15",
+      "sentiment_score": -0.952,
+      "sentiment_label": "Negative",
+      "confidence": 0.96
+    },
     {
       "headline": "India's payments authority NPCI forms unit to push into AI, blockchain tech",
       "source": "Reuters",
@@ -117,22 +171,22 @@
       "confidence": 0.84
     },
     {
-      "headline": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tOGxPQzZHWG4xcWROVjJPZTMyc2s0bEpfQU1naUozdGI3LUFrNlFRTGFYZmp6QURRbXhvTGozVTNlcDRHZVljR2JkOXZLUjFiaEh2bE83cmdFdElDU3lBZjh5TTFPYmNKRVNxenRVVFlyVGhSV0ZyangzT3ROTTDSAYQBQVVfeXFMT0FNVUkwanplZ2ZRa1M0V3ZsSDUxOGt0dVdGMElPZUpaV3FycXlVcmZyWXY2TksyOWlRejlZTjVnRzVnV19jdzN4WVM2dXJWY0ZaTWR4dVVsZ3UwWFZuZnhJYnItZ09ZSkstZzRUMVY1dXBpQWIyaU9ORWt5NS11cU5lZWlI?oc=5",
-      "published": "2026-11-04T05:16:01",
-      "sentiment_score": -0.952,
-      "sentiment_label": "Negative",
-      "confidence": 0.963
-    },
-    {
       "headline": "Accenture accused of publishing AI paper littered with AI hallucinations",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0J0OGZVby1iQlFEZGRlVWZIcGZMekRQTklMbTZ2RkdESUZUTEJMVVVqcXVCb0cycHl4TzBJaXFpWkxjNzRTMEFWRUVSaDRrQnRROWZZR0hOZWxyOWV2cy1taUlWMWs5RzgzZmFXZ2JQZkEzVWtFTFYxck5CTjlxdEg1bGE?oc=5",
-      "published": "2026-11-04T05:01:45",
+      "published": "2026-11-04T05:00:09",
       "sentiment_score": -0.81,
       "sentiment_label": "Negative",
       "confidence": 0.826
+    },
+    {
+      "headline": "How generative AI is reshaping Nigeria\u2019s creative economy and digital design",
+      "source": "The Guardian Nigeria News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnZGTV9pTjhGS2FjMDRIUnlFd3ZKTlBCbGNqRDBUc3pRVHkyYmcwOWZRYlVfR0NLZWUwTnNHY3lVcVNlVFREYzRyclk3TjZVc3ZoOFFsYTdFam1BT05sUmZVaTdWZFcwMTRNc081TElaRFhfTFJWd0d0ekUxeVRDYkhTeTY5QTZ5VHllYi11YVI4QkZqd1UyT2hJSTBDWnZ1ZzFYRG9yb2ZEQ3M?oc=5",
+      "published": "2026-11-04T01:15:19",
+      "sentiment_score": 0.077,
+      "sentiment_label": "Neutral",
+      "confidence": 0.862
     },
     {
       "headline": "Graduates are managing AI - but are they learning much else?",
@@ -144,6 +198,15 @@
       "confidence": 0.687
     },
     {
+      "headline": "Google hasn\u2019t figured out how to make AI pay like its search engine",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "published": "2026-11-03T22:41:23Z",
+      "sentiment_score": -0.914,
+      "sentiment_label": "Negative",
+      "confidence": 0.948
+    },
+    {
       "headline": "Google says there\u2019s no way to use Search without using artificial intelligence",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5",
@@ -153,13 +216,67 @@
       "confidence": 0.873
     },
     {
+      "headline": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "published": "2026-11-03T21:20:14Z",
+      "sentiment_score": 0.921,
+      "sentiment_label": "Positive",
+      "confidence": 0.95
+    },
+    {
+      "headline": "Don\u2019t be fooled by the fake hair on these famous baldies",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "published": "2026-11-03T21:01:07Z",
+      "sentiment_score": 0.017,
+      "sentiment_label": "Neutral",
+      "confidence": 0.897
+    },
+    {
       "headline": "Tech Life",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T20:30:00",
       "sentiment_score": -0.033,
       "sentiment_label": "Neutral",
       "confidence": 0.918
+    },
+    {
+      "headline": "Death threats for Briton Burrage on WTA Tour return",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cq62y9yzgzgeo",
+      "published": "2026-11-03T20:26:12Z",
+      "sentiment_score": -0.891,
+      "sentiment_label": "Negative",
+      "confidence": 0.908
+    },
+    {
+      "headline": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+      "published": "2026-11-03T20:10:41Z",
+      "sentiment_score": -0.86,
+      "sentiment_label": "Negative",
+      "confidence": 0.873
+    },
+    {
+      "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "published": "2026-11-03T19:41:37Z",
+      "sentiment_score": 0.909,
+      "sentiment_label": "Positive",
+      "confidence": 0.939
+    },
+    {
+      "headline": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+      "published": "2026-11-03T19:35:24Z",
+      "sentiment_score": -0.103,
+      "sentiment_label": "Neutral",
+      "confidence": 0.703
     },
     {
       "headline": "OpenAI employees warned about operational security lapses for years, sources say",
@@ -173,11 +290,11 @@
     {
       "headline": "OpenAI says ChatGPT is catching up to Google in search",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXNJQ0NxOENuN0dfdUhVS0p5NUN3YTc5TkpTQi1LMDJac2hGUWlGOF85RWFHaFU1cE05cmU4YmFUdVRaWlNVT05xVV9ia2JYMFJMUnB2Ti03UlpFNFlpUnM3U05zVGtCMjM0Ti1ZQ3lLdjdfb2VtN0xkX2xRR0hRS05yYUhtdzlFVGxWYTdyRlFiVnE2UjluZjlnTkgyRW42bkh5S25YRU9JZTBZNzVoall6NnU?oc=5",
-      "published": "2026-11-03T18:30:42",
-      "sentiment_score": 0.647,
-      "sentiment_label": "Positive",
-      "confidence": 0.659
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "published": "2026-11-03T18:30:42Z",
+      "sentiment_score": 0.192,
+      "sentiment_label": "Neutral",
+      "confidence": 0.778
     },
     {
       "headline": "OpenAI and Anthropic Set Up \u2018War Rooms\u2019 to Fight Disinfo About Midterm Elections",
@@ -191,29 +308,38 @@
     {
       "headline": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZWVzYlljdkJNX0d5VngtTTRGZ1lfbjNiNnQ3SHlRX0JXZTloWjJJMnNTS0lkV1RhYWxHMl8tNDJnamE3cGJDcC1SdEVyQUlUX182cXgxTVpvSGFibWp4OUJiSHItZEo1YWdGQUROUU8tbEFTVGY5c2RublBLcjJQU3dZcU1QaHp4dmxXSG5iWjNuZE9YVUMwMm1zVXFuMnF2amdz0gGoAUFVX3lxTE81MWctSnNFOUxZbDBPejNCT3E3T2t6SHdhcXpONHFkb1pGMkJUVFFET1hiTDhHUzF4N2dtSTBQM2t5NGhybWswTUZKRkg2d0dLM3hLRXlXczVWQml5dlVxZDc0bTdrcGJwRlc4VnVTa0ZPbHJJRHRRQVlFSUlMWEMydVFldS1JWUJoUG5GdjN1Rm5JVnA5Smo3MlZSZUcxeFZmWjJDNUY4dA?oc=5",
-      "published": "2026-11-03T17:37:31",
-      "sentiment_score": -0.864,
+      "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "published": "2026-11-03T17:37:31Z",
+      "sentiment_score": -0.296,
       "sentiment_label": "Negative",
-      "confidence": 0.88
+      "confidence": 0.435
     },
     {
-      "headline": "Google Will Turn Off Search for Schools That Reject A.I.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
-      "published": "2026-11-03T14:00:07",
-      "sentiment_score": -0.422,
+      "headline": "Midterm elections 2026: all the news",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "published": "2026-11-03T15:58:39Z",
+      "sentiment_score": 0.034,
       "sentiment_label": "Neutral",
-      "confidence": 0.543
+      "confidence": 0.93
     },
     {
-      "headline": "Schwarz Digits and Bull partner up to build European AI computing services",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWQ2WUFhNnhncGQtQnItaF9xaUl3QU1qSXY0YVRlYWxFN3JpZ0U4M2V1V3Q2LWhOencyZTVaY3hnaUNVR1FUbkZLS2ZvREpZS1oxT0Y2Ym91cE9FRElVRDZsbDRYMzhlMGtXMVMxcm9TblN4cmlPNW9fb1psM1E1ZUN2VE9iRVhHODMwSlBYZlp1RzJvNGRoTEZIVDhlTXJJSmJJZXVzbWV6ZjVQNGZHRjRwWl9XV3Q4UmtjZ2YzeE1tS3VFZHZr?oc=5",
-      "published": "2026-11-03T13:08:09",
-      "sentiment_score": 0.337,
+      "headline": "Apple is all in on AI \u2014 its own and everyone else\u2019s",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "published": "2026-11-03T15:27:58Z",
+      "sentiment_score": 0.924,
+      "sentiment_label": "Positive",
+      "confidence": 0.945
+    },
+    {
+      "headline": "Here's Why You Shouldn't Use AI to Vote",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "published": "2026-11-03T14:45:08Z",
+      "sentiment_score": -0.36,
       "sentiment_label": "Neutral",
-      "confidence": 0.641
+      "confidence": 0.586
     },
     {
       "headline": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
@@ -225,24 +351,6 @@
       "confidence": 0.847
     },
     {
-      "headline": "Apple's John Ternus faces early test as global memory crisis hurts profits",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-      "published": "2026-11-03T12:10:31Z",
-      "sentiment_score": -0.957,
-      "sentiment_label": "Negative",
-      "confidence": 0.974
-    },
-    {
-      "headline": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "published": "2026-11-03T11:37:27Z",
-      "sentiment_score": -0.775,
-      "sentiment_label": "Negative",
-      "confidence": 0.789
-    },
-    {
       "headline": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
@@ -252,24 +360,6 @@
       "confidence": 0.962
     },
     {
-      "headline": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
-      "published": "2026-11-02T19:38:06Z",
-      "sentiment_score": 0.158,
-      "sentiment_label": "Neutral",
-      "confidence": 0.818
-    },
-    {
-      "headline": "The New York Times and other publications sue Brave web browser for AI scraping and bypassing paywalls",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "published": "2026-11-02T17:51:19Z",
-      "sentiment_score": -0.891,
-      "sentiment_label": "Negative",
-      "confidence": 0.906
-    },
-    {
       "headline": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
       "source": "CNN",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wNnd5X2dtS0lfRXltNllHeEVVaGV6a3JkVW1YMUozczhqY0xIMHBCOVlTcGlvbjdQT05ZdVdxMW0tS3k3eVUweFlBa1JUdlBuaUdNTXBaTUFhR3FYX21kUjVraWlLVGJRN0lDQXMxcmdnbmJvNHVTbGNpRTA?oc=5",
@@ -277,15 +367,6 @@
       "sentiment_score": 0.2,
       "sentiment_label": "Neutral",
       "confidence": 0.771
-    },
-    {
-      "headline": "Affinity\u2019s creative studio is now available on iPad for free",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
-      "published": "2026-11-02T14:10:55Z",
-      "sentiment_score": 0.147,
-      "sentiment_label": "Neutral",
-      "confidence": 0.835
     },
     {
       "headline": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
@@ -331,15 +412,6 @@
       "sentiment_score": -0.966,
       "sentiment_label": "Negative",
       "confidence": 0.973
-    },
-    {
-      "headline": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXotdk1SQjNVV0I0cTY5SF8wakFYNk9Za3pJM3JlOFF3YjBOR25PUnB6SnBFUmlzR2dSQXl4c3E2RjFzbVFGNXJSR2dyYUJwZnI3OU10MXY1SENMN2Uwd0h3QzJZaFkwVnZ4SGlGbWQtNlpXcEVUUUYtMDRiVXNILU91OVBpZmszZVZnUXUwanlxNFNod2Nfa3Z3eEYyRjdVTG9EVnZVSW1BUlM4Y3dfYVR1NkdJRVduZklvUmhkVXFVcVAwTnJST0pR?oc=5",
-      "published": "2026-10-30T17:45:19",
-      "sentiment_score": -0.034,
-      "sentiment_label": "Neutral",
-      "confidence": 0.863
     },
     {
       "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
