@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-04T23:01:19.235595",
-  "total_articles": 37,
-  "overall_sentiment": -0.197,
+  "last_updated": "2026-11-05T04:16:24.835020",
+  "total_articles": 39,
+  "overall_sentiment": -0.226,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,27 +51,36 @@
     },
     {
       "date": "2026-11-03",
-      "avg_sentiment": -0.128,
+      "avg_sentiment": -0.091,
       "article_count": 18,
       "positive_count": 5,
       "negative_count": 9,
       "neutral_count": 4,
-      "moving_avg": -0.205
+      "moving_avg": -0.199
     },
     {
       "date": "2026-11-04",
-      "avg_sentiment": -0.286,
-      "article_count": 10,
-      "positive_count": 3,
-      "negative_count": 5,
+      "avg_sentiment": -0.393,
+      "article_count": 11,
+      "positive_count": 2,
+      "negative_count": 7,
       "neutral_count": 2,
-      "moving_avg": -0.216
+      "moving_avg": -0.226
+    },
+    {
+      "date": "2026-11-05",
+      "avg_sentiment": -0.746,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": -0.338
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.575,
+      "avg_sentiment": -0.581,
       "article_count": 10,
       "sentiment_label": "Negative"
     },
@@ -83,14 +92,26 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.046,
-      "article_count": 5,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.059,
+      "article_count": 6,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Bloomberg.com",
+      "avg_sentiment": -0.522,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.199,
+      "avg_sentiment": -0.215,
       "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": -0.217,
+      "article_count": 2,
       "sentiment_label": "Negative"
     },
     {
@@ -108,6 +129,24 @@
   ],
   "articles": [
     {
+      "headline": "Claude Lowers ChatGPT\u2019s Lead in $1.4 Billion UK Consumer AI Market",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZXTER1MVhYX1A5SkVQMlphb21aS3JJbTgxNGpxTWJSS0M5WGxHMWJmRUZER3Q5TFVBM3ZKLU85MHl0ZzJ4ZmhadkloZmE1VEdTdnM4eHAwWTZSZnY1QTU1dlM2ejdoSTYwMlpqQlhyZXo0Q2RqS3JYaHk2ZEtVc2VESzY5MUZiS04tdDF5Q2dzXzdRUWdoR1htVENFR1pJQVNsQjBWelFOZnVtM0FaSFhhdVI?oc=5",
+      "published": "2026-11-05T00:01:00",
+      "sentiment_score": -0.746,
+      "sentiment_label": "Negative",
+      "confidence": 0.842
+    },
+    {
+      "headline": "NEWSLETTER: In midterm ballot measures, voters send a message to AI builders",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNallWOEU2by0wRExyWXN4NUl2MEtUTEFnN2wyRTZyQlc1cnJncGFQb0xWYm5xNnBoSU1maEsyalhsYUdqck5Ca2Qta0dlZHBha0p3R3BuaEtubHoxT1ZhT0hKc3lZRDRsVXN4dDlZR2R3aFhKcEVNMnRreVJSWXhiM1ptRTQyWm9hempneFVZZEVIT0NCeG9uUFJUTmdPdjdlZElzRm9QcHFBa3BUckVPczNGYWhtclpZOHVEUFh1cmgxdmxM?oc=5",
+      "published": "2026-11-04T22:56:46",
+      "sentiment_score": 0.092,
+      "sentiment_label": "Neutral",
+      "confidence": 0.873
+    },
+    {
       "headline": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
@@ -120,7 +159,7 @@
       "headline": "Arm Holdings Sales Climb 27% on AI Demand",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
-      "published": "2026-11-04T21:23:01",
+      "published": "2026-11-04T21:20:00",
       "sentiment_score": 0.443,
       "sentiment_label": "Positive",
       "confidence": 0.676
@@ -162,31 +201,31 @@
       "confidence": 0.96
     },
     {
-      "headline": "India's payments authority NPCI forms unit to push into AI, blockchain tech",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDRZcUtSdWx0QUhRSDVjbF9JTUFTOGhNeTItalh4WWVnMS1HWFdDT2hseS1CSWdxX1RDRkxpR1VSVnNJZGtrV2NjLUx3eWxYajFQY1lFaXdhR3Rtak9iZ0hpYkhXTmVOSDFyQ25jMmdLY2dXR2F3QklLdDBDQm9wa2dfcDVBX3h0T2xmRlZaS0lqY0NPX1FUSVBvZUZWT2hya0JPSjR5MU1oTUxmeVRwekV5OEZzY3ltMmc?oc=5",
-      "published": "2026-11-04T11:02:38",
-      "sentiment_score": 0.138,
+      "headline": "AI Data Center Boom Set for Upheaval After US Election Rout",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUxLRDFBU2J3Si1KLW50RDFPTE9oMjJNX2JGd2xCRXJDbW9nOXdqblFZM0lIM2ZaR3M3dWQtTDJsWW9aOU5iR1NteTdVX1hLN1J1WUpfNHNVQ3hjN2ZaRWRydEZROUNwclhqNWNZYkdlMlBmS0NnR0RXVlRMVU9jalI3Q193UzVWRFp1WjZXMG00Z3FXbWFXdjFwUjNpNVRPQ3YtdFhRWmVIN2cxNDV2Q1Q2cw?oc=5",
+      "published": "2026-11-04T14:43:50",
+      "sentiment_score": -0.42,
       "sentiment_label": "Neutral",
-      "confidence": 0.84
+      "confidence": 0.495
     },
     {
-      "headline": "Accenture accused of publishing AI paper littered with AI hallucinations",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0J0OGZVby1iQlFEZGRlVWZIcGZMekRQTklMbTZ2RkdESUZUTEJMVVVqcXVCb0cycHl4TzBJaXFpWkxjNzRTMEFWRUVSaDRrQnRROWZZR0hOZWxyOWV2cy1taUlWMWs5RzgzZmFXZ2JQZkEzVWtFTFYxck5CTjlxdEg1bGE?oc=5",
-      "published": "2026-11-04T05:00:09",
-      "sentiment_score": -0.81,
+      "headline": "Google responds to political backlash over removing search from schools that ban AI",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "published": "2026-11-04T00:10:07Z",
+      "sentiment_score": -0.776,
       "sentiment_label": "Negative",
-      "confidence": 0.826
+      "confidence": 0.797
     },
     {
-      "headline": "How generative AI is reshaping Nigeria\u2019s creative economy and digital design",
-      "source": "The Guardian Nigeria News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnZGTV9pTjhGS2FjMDRIUnlFd3ZKTlBCbGNqRDBUc3pRVHkyYmcwOWZRYlVfR0NLZWUwTnNHY3lVcVNlVFREYzRyclk3TjZVc3ZoOFFsYTdFam1BT05sUmZVaTdWZFcwMTRNc081TElaRFhfTFJWd0d0ekUxeVRDYkhTeTY5QTZ5VHllYi11YVI4QkZqd1UyT2hJSTBDWnZ1ZzFYRG9yb2ZEQ3M?oc=5",
-      "published": "2026-11-04T01:15:19",
-      "sentiment_score": 0.077,
-      "sentiment_label": "Neutral",
-      "confidence": 0.862
+      "headline": "Canva announces major job cuts after 'our hardest year yet'",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo",
+      "published": "2026-11-04T00:09:35Z",
+      "sentiment_score": -0.957,
+      "sentiment_label": "Negative",
+      "confidence": 0.964
     },
     {
       "headline": "Graduates are managing AI - but are they learning much else?",
@@ -196,6 +235,15 @@
       "sentiment_score": -0.24,
       "sentiment_label": "Neutral",
       "confidence": 0.687
+    },
+    {
+      "headline": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+      "published": "2026-11-03T23:37:07Z",
+      "sentiment_score": 0.761,
+      "sentiment_label": "Positive",
+      "confidence": 0.772
     },
     {
       "headline": "Google hasn\u2019t figured out how to make AI pay like its search engine",
@@ -243,15 +291,6 @@
       "confidence": 0.918
     },
     {
-      "headline": "Death threats for Briton Burrage on WTA Tour return",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cq62y9yzgzgeo",
-      "published": "2026-11-03T20:26:12Z",
-      "sentiment_score": -0.891,
-      "sentiment_label": "Negative",
-      "confidence": 0.908
-    },
-    {
       "headline": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
       "source": "CNBC",
       "link": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
@@ -288,6 +327,15 @@
       "confidence": 0.94
     },
     {
+      "headline": "Google Curbs AI in School Accounts After Pushback",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5",
+      "published": "2026-11-03T18:40:14",
+      "sentiment_score": -0.877,
+      "sentiment_label": "Negative",
+      "confidence": 0.897
+    },
+    {
       "headline": "OpenAI says ChatGPT is catching up to Google in search",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
@@ -295,15 +343,6 @@
       "sentiment_score": 0.192,
       "sentiment_label": "Neutral",
       "confidence": 0.778
-    },
-    {
-      "headline": "OpenAI and Anthropic Set Up \u2018War Rooms\u2019 to Fight Disinfo About Midterm Elections",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
-      "published": "2026-11-03T18:00:07",
-      "sentiment_score": 0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.901
     },
     {
       "headline": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
@@ -342,15 +381,6 @@
       "confidence": 0.586
     },
     {
-      "headline": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
-      "published": "2026-11-03T13:01:23Z",
-      "sentiment_score": 0.109,
-      "sentiment_label": "Neutral",
-      "confidence": 0.847
-    },
-    {
       "headline": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
@@ -358,6 +388,15 @@
       "sentiment_score": -0.947,
       "sentiment_label": "Negative",
       "confidence": 0.962
+    },
+    {
+      "headline": "Watch Runway on Generative AI Worlds",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUJaX2VuXy1DdkJKTEtzOVdONGNlTTVhM3F2M3RqV3I1c0FOSHJ0YW1WVWI5dTQ4WHhzMWVvSVE2dmNFRjNOWXdNbjZYLV9vLXR6ZEFfN3lEMHo0WlpyRUhTU0xDeXNPLVhfdUg1aHdjbk1PSmIzODJLRnhQbHlqRlpLWkZhd2lpc3Vubk5R?oc=5",
+      "published": "2026-11-03T00:00:00",
+      "sentiment_score": 0.008,
+      "sentiment_label": "Neutral",
+      "confidence": 0.935
     },
     {
       "headline": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
