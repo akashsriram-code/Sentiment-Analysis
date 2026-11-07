@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-06T22:33:00.650701",
-  "total_articles": 50,
-  "overall_sentiment": -0.092,
+  "last_updated": "2026-11-07T03:45:58.263612",
+  "total_articles": 42,
+  "overall_sentiment": -0.199,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -51,53 +51,47 @@
     },
     {
       "date": "2026-11-05",
-      "avg_sentiment": 0.067,
-      "article_count": 25,
-      "positive_count": 14,
-      "negative_count": 6,
-      "neutral_count": 5,
-      "moving_avg": -0.156
+      "avg_sentiment": -0.042,
+      "article_count": 16,
+      "positive_count": 9,
+      "negative_count": 5,
+      "neutral_count": 2,
+      "moving_avg": -0.174
     },
     {
       "date": "2026-11-06",
-      "avg_sentiment": -0.279,
-      "article_count": 13,
+      "avg_sentiment": -0.357,
+      "article_count": 14,
       "positive_count": 3,
-      "negative_count": 7,
-      "neutral_count": 3,
-      "moving_avg": -0.173
+      "negative_count": 9,
+      "neutral_count": 2,
+      "moving_avg": -0.2
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.57,
+      "avg_sentiment": -0.533,
       "article_count": 11,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.171,
-      "article_count": 8,
+      "avg_sentiment": 0.252,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
       "source": "TechCrunch",
-      "avg_sentiment": 0.283,
-      "article_count": 8,
+      "avg_sentiment": 0.221,
+      "article_count": 7,
       "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.04,
-      "article_count": 6,
-      "sentiment_label": "Neutral"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": 0.068,
-      "article_count": 6,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.821,
+      "article_count": 4,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The Guardian",
@@ -106,10 +100,10 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "Bloomberg.com",
-      "avg_sentiment": -0.091,
+      "source": "Wired",
+      "avg_sentiment": 0.071,
       "article_count": 3,
-      "sentiment_label": "Negative"
+      "sentiment_label": "Positive"
     },
     {
       "source": "Reuters",
@@ -119,12 +113,27 @@
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": -0.364,
+      "avg_sentiment": -0.636,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "Bloomberg.com",
+      "avg_sentiment": -0.143,
       "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Democrats planning flood of AI bills when they take control of Congress",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
+      "published": "2026-11-06T21:56:42",
+      "sentiment_score": -0.123,
+      "sentiment_label": "Neutral",
+      "confidence": 0.794
+    },
     {
       "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
       "source": "BBC News",
@@ -133,15 +142,6 @@
       "sentiment_score": 0.118,
       "sentiment_label": "Neutral",
       "confidence": 0.845
-    },
-    {
-      "headline": "Democrats planning flood of AI bills when they take control of Congress",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
-      "published": "2026-11-06T21:36:10",
-      "sentiment_score": -0.123,
-      "sentiment_label": "Neutral",
-      "confidence": 0.794
     },
     {
       "headline": "AI stocks bounce back after trillions wiped from market values",
@@ -189,15 +189,6 @@
       "confidence": 0.935
     },
     {
-      "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq0gF6QVVfeXFMUEZaU3cwQVBvMmNCQmROc3lERDZDVHNUNXZHYVlxREdrRlZHYWwtVVV3NW5USzNoaXJXdldxejRWSUI5RklJMVlwRlBXZlRjdGg0cnlhUld3ZzVycGdOZ1o0Uk1Ja3ROV3JwMGxsQzhGa2FUbzFYa1p4aXc?oc=5",
-      "published": "2026-11-06T16:22:49",
-      "sentiment_score": 0.083,
-      "sentiment_label": "Neutral",
-      "confidence": 0.872
-    },
-    {
       "headline": "Fearing AI disruption, white-collar workers are quitting their jobs",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnFTWWhzamcxS0dYX1JlNHRkaDhzdlhEbkhZRGNWdlV1REhMdkFPNmlGRmJtTHJnbjNzQ053aUtoQy1jYWlkcFNIaGNRS2ZNY1JmQlJDcEZ4V0Nodm10N05WcDFNcHBiczdtVUNZRmNFQ2RMNHAzQ01kS2RWRW5GS211QQ?oc=5",
@@ -225,22 +216,67 @@
       "confidence": 0.71
     },
     {
-      "headline": "Not Even Tech\u2019s Safest Jobs Look So Safe Anymore",
+      "headline": "Microsoft\u2019s Buyout Offer Sets Its Workforce on Edge",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YdFVnMzBvemo5MjY1TnFGUkhTZjVxY05CakNJQjRHQjBlZExJUFprcmUzbVdyaXJQWEo3cE1DRmoyRjBWYnp4RVdwYUZIX1RkWGY0QWUzWF9kV0h1V1ptWHZRVHZWSkRlWUtzbVd4YjIwSHZSbktz?oc=5",
-      "published": "2026-11-06T10:02:29",
-      "sentiment_score": -0.051,
-      "sentiment_label": "Neutral",
-      "confidence": 0.87
+      "published": "2026-11-06T12:23:09",
+      "sentiment_score": -0.596,
+      "sentiment_label": "Negative",
+      "confidence": 0.742
     },
     {
-      "headline": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWllSzJhdDJkQzRJSGRqb3hTaDJ5SnlFMGhYMDByS3dQRV9BdjR6eXRXSU9Cd2g2UDhlR1A5N2VWNnVkSmtBVzViVGRTdlU1bk90cVNDa3BfVld1aEtyNG5WWUdLYmRMWHhDSklHOUFhZllVcVRCN0NZdnp2NUpyOVF5WnA1Mkd1ZnZlMDFwb3otMldnZV9kdVUteHRBbUlPeHRmWl9DU3NoQUxjQkhwRnR5eDU5dw?oc=5",
-      "published": "2026-11-06T00:55:00",
-      "sentiment_score": 0.012,
+      "headline": "The Papers: 'Justice' and 'Predatory' Brand faces jail",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly00v3qwpdo",
+      "published": "2026-11-06T01:10:12Z",
+      "sentiment_score": -0.559,
+      "sentiment_label": "Negative",
+      "confidence": 0.58
+    },
+    {
+      "headline": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank tumble",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "published": "2026-11-06T00:59:14Z",
+      "sentiment_score": -0.961,
+      "sentiment_label": "Negative",
+      "confidence": 0.97
+    },
+    {
+      "headline": "OpenAI is stepping back from NDAs for data center projects",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "published": "2026-11-06T00:37:56Z",
+      "sentiment_score": 0.789,
+      "sentiment_label": "Positive",
+      "confidence": 0.803
+    },
+    {
+      "headline": "Jim Cramer explains why no AI stock seems safe from the market carnage",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-data-center-uncertainty.html",
+      "published": "2026-11-05T23:25:04Z",
+      "sentiment_score": -0.757,
+      "sentiment_label": "Negative",
+      "confidence": 0.776
+    },
+    {
+      "headline": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+      "published": "2026-11-05T23:17:51Z",
+      "sentiment_score": -0.915,
+      "sentiment_label": "Negative",
+      "confidence": 0.927
+    },
+    {
+      "headline": "Airbnb says it's launching an AI travel agent in the first half of 2027 | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "published": "2026-11-05T22:41:25Z",
+      "sentiment_score": 0.283,
       "sentiment_label": "Neutral",
-      "confidence": 0.921
+      "confidence": 0.699
     },
     {
       "headline": "Perplexity launches its own take on AI agents for work",
@@ -252,24 +288,6 @@
       "confidence": 0.922
     },
     {
-      "headline": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
-      "published": "2026-11-05T22:22:12Z",
-      "sentiment_score": -0.105,
-      "sentiment_label": "Neutral",
-      "confidence": 0.818
-    },
-    {
-      "headline": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "published": "2026-11-05T21:57:33Z",
-      "sentiment_score": -0.104,
-      "sentiment_label": "Neutral",
-      "confidence": 0.822
-    },
-    {
       "headline": "Ads in Chatbots Have Arrived. Here\u2019s What\u2019s Working\u2014and What\u2019s Not",
       "source": "Wired",
       "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
@@ -277,15 +295,6 @@
       "sentiment_score": 0.085,
       "sentiment_label": "Neutral",
       "confidence": 0.865
-    },
-    {
-      "headline": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
-      "published": "2026-11-05T21:09:56Z",
-      "sentiment_score": -0.026,
-      "sentiment_label": "Neutral",
-      "confidence": 0.879
     },
     {
       "headline": "Man Claims in Suit ChatGPT Encouraged His Wife to Poison Him",
@@ -299,20 +308,11 @@
     {
       "headline": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "published": "2026-11-05T20:17:16Z",
-      "sentiment_score": -0.117,
-      "sentiment_label": "Neutral",
-      "confidence": 0.551
-    },
-    {
-      "headline": "\u2018They Offered a Month\u2019s Rent\u2019: OpenAI Wanted to Collaborate With Husk",
-      "source": "Wired",
-      "link": "https://www.wired.com/video/watch/they-offered-a-months-rent-openai-wanted-to-collaborate-with-husk",
-      "published": "2026-11-05T19:22:12Z",
-      "sentiment_score": 0.081,
-      "sentiment_label": "Neutral",
-      "confidence": 0.896
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
+      "published": "2026-11-05T20:16:52",
+      "sentiment_score": -0.651,
+      "sentiment_label": "Negative",
+      "confidence": 0.684
     },
     {
       "headline": "OpenAI released a new cybersecurity model. Is that enough? | TechCrunch",
@@ -324,24 +324,6 @@
       "confidence": 0.794
     },
     {
-      "headline": "CNBC's experts on whether the AI trade is ending and what investors should do next",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html",
-      "published": "2026-11-05T18:58:48Z",
-      "sentiment_score": 0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.894
-    },
-    {
-      "headline": "OpenAI president Greg Brockman says company could be IPO ready in 2027 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "published": "2026-11-05T18:03:27Z",
-      "sentiment_score": 0.926,
-      "sentiment_label": "Positive",
-      "confidence": 0.94
-    },
-    {
       "headline": "Claude can now analyze your spending with its new Personal Finance tool | TechCrunch",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
@@ -351,24 +333,6 @@
       "confidence": 0.907
     },
     {
-      "headline": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "published": "2026-11-05T18:02:13Z",
-      "sentiment_score": 0.077,
-      "sentiment_label": "Neutral",
-      "confidence": 0.9
-    },
-    {
-      "headline": "\u2018Total repudiation\u2019: The blue wave is about to hit AI",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "published": "2026-11-05T17:51:52Z",
-      "sentiment_score": 0.105,
-      "sentiment_label": "Neutral",
-      "confidence": 0.816
-    },
-    {
       "headline": "Claude AI can plug directly into your bank account",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
@@ -376,24 +340,6 @@
       "sentiment_score": 0.091,
       "sentiment_label": "Neutral",
       "confidence": 0.885
-    },
-    {
-      "headline": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "published": "2026-11-05T16:59:29Z",
-      "sentiment_score": 0.293,
-      "sentiment_label": "Neutral",
-      "confidence": 0.687
-    },
-    {
-      "headline": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-      "published": "2026-11-05T16:44:38Z",
-      "sentiment_score": -0.964,
-      "sentiment_label": "Negative",
-      "confidence": 0.972
     },
     {
       "headline": "Reddit Founder Says Building Social Media Apps Is \u2018Not Cool Anymore\u2019",
@@ -448,24 +394,6 @@
       "sentiment_score": 0.021,
       "sentiment_label": "Neutral",
       "confidence": 0.945
-    },
-    {
-      "headline": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "published": "2026-11-05T11:45:00Z",
-      "sentiment_score": 0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.914
-    },
-    {
-      "headline": "Particle Physicists Are Getting a First Glimpse Into the \u2018Zeptoverse\u2019",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
-      "published": "2026-11-05T10:30:00Z",
-      "sentiment_score": 0.102,
-      "sentiment_label": "Neutral",
-      "confidence": 0.872
     },
     {
       "headline": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
