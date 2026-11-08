@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-08T12:28:17.553101",
-  "total_articles": 29,
-  "overall_sentiment": -0.169,
+  "last_updated": "2026-11-08T21:29:55.452713",
+  "total_articles": 31,
+  "overall_sentiment": -0.24,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -24,12 +24,12 @@
     },
     {
       "date": "2026-11-03",
-      "avg_sentiment": -0.103,
-      "article_count": 4,
+      "avg_sentiment": -0.111,
+      "article_count": 3,
       "positive_count": 1,
-      "negative_count": 2,
+      "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.219
+      "moving_avg": -0.222
     },
     {
       "date": "2026-11-04",
@@ -38,78 +38,90 @@
       "positive_count": 0,
       "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.276
+      "moving_avg": -0.278
     },
     {
       "date": "2026-11-05",
-      "avg_sentiment": -0.037,
-      "article_count": 3,
-      "positive_count": 1,
+      "avg_sentiment": -0.198,
+      "article_count": 2,
+      "positive_count": 0,
       "negative_count": 2,
       "neutral_count": 0,
-      "moving_avg": -0.229
+      "moving_avg": -0.262
     },
     {
       "date": "2026-11-06",
-      "avg_sentiment": 0.027,
-      "article_count": 8,
-      "positive_count": 5,
-      "negative_count": 3,
+      "avg_sentiment": -0.436,
+      "article_count": 6,
+      "positive_count": 2,
+      "negative_count": 4,
       "neutral_count": 0,
-      "moving_avg": -0.186
+      "moving_avg": -0.291
     },
     {
       "date": "2026-11-07",
-      "avg_sentiment": -0.264,
-      "article_count": 6,
-      "positive_count": 1,
-      "negative_count": 3,
+      "avg_sentiment": -0.015,
+      "article_count": 10,
+      "positive_count": 4,
+      "negative_count": 4,
       "neutral_count": 2,
-      "moving_avg": -0.197
+      "moving_avg": -0.252
     },
     {
       "date": "2026-11-08",
-      "avg_sentiment": -0.337,
-      "article_count": 2,
+      "avg_sentiment": -0.403,
+      "article_count": 4,
       "positive_count": 0,
-      "negative_count": 1,
+      "negative_count": 3,
       "neutral_count": 1,
-      "moving_avg": -0.25
+      "moving_avg": -0.314
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.485,
-      "article_count": 9,
+      "avg_sentiment": -0.531,
+      "article_count": 10,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": 0.222,
-      "article_count": 5,
-      "sentiment_label": "Positive"
+      "source": "CNBC",
+      "avg_sentiment": -0.035,
+      "article_count": 8,
+      "sentiment_label": "Neutral"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": 0.364,
+      "avg_sentiment": 0.183,
       "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
       "source": "The Guardian",
-      "avg_sentiment": -0.229,
+      "avg_sentiment": -0.498,
       "article_count": 3,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.899,
-      "article_count": 2,
       "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "Weakening AI copyright law will spell \u2018disaster for creativity\u2019, global music body warns Albanese",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5",
+      "published": "2026-11-08T20:52:00",
+      "sentiment_score": -0.886,
+      "sentiment_label": "Negative",
+      "confidence": 0.903
+    },
+    {
+      "headline": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5",
+      "published": "2026-11-08T14:14:11",
+      "sentiment_score": -0.051,
+      "sentiment_label": "Neutral",
+      "confidence": 0.866
+    },
     {
       "headline": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing \u2013 cartoon",
       "source": "The Guardian",
@@ -129,13 +141,76 @@
       "confidence": 0.679
     },
     {
+      "headline": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "published": "2026-11-07T17:51:16Z",
+      "sentiment_score": -0.431,
+      "sentiment_label": "Neutral",
+      "confidence": 0.53
+    },
+    {
+      "headline": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "published": "2026-11-07T15:47:15Z",
+      "sentiment_score": -0.152,
+      "sentiment_label": "Neutral",
+      "confidence": 0.702
+    },
+    {
+      "headline": "America's newest small business owners with no employees are off to a hot start in AI era",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+      "published": "2026-11-07T14:45:01Z",
+      "sentiment_score": 0.656,
+      "sentiment_label": "Positive",
+      "confidence": 0.672
+    },
+    {
+      "headline": "Zelda is back and better than ever",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+      "published": "2026-11-07T13:49:01Z",
+      "sentiment_score": 0.212,
+      "sentiment_label": "Neutral",
+      "confidence": 0.75
+    },
+    {
+      "headline": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+      "published": "2026-11-07T13:30:01Z",
+      "sentiment_score": 0.261,
+      "sentiment_label": "Neutral",
+      "confidence": 0.673
+    },
+    {
+      "headline": "America doesn't like socialism. So why are socialists winning?",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+      "published": "2026-11-07T13:01:01Z",
+      "sentiment_score": -0.473,
+      "sentiment_label": "Negative",
+      "confidence": 0.539
+    },
+    {
+      "headline": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "published": "2026-11-07T13:00:01Z",
+      "sentiment_score": 0.729,
+      "sentiment_label": "Positive",
+      "confidence": 0.759
+    },
+    {
       "headline": "Berkshire shares surge as Wall Street swoons amid AI fears",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXgyQmpJT1lzSWhTZ01uZWJoRngzWm44N2hQT2lRcUNLWVZONlZQa3lHOTN0VE1zNEZvSjNzUEk4aThrNk1DbTZpazdtTm43TmJUYWNwYWlnTDJocHM3T3BybUpWSlM1ZElKTExkRTBoQy1NVy1zZDRCWHNPZDJFcXJReDR2OF81MkxPS282anN1UzRlUzNBb0tWTQ?oc=5",
-      "published": "2026-11-07T12:49:19",
-      "sentiment_score": -0.853,
+      "link": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+      "published": "2026-11-07T12:49:19Z",
+      "sentiment_score": -0.027,
       "sentiment_label": "Negative",
-      "confidence": 0.88
+      "confidence": 0.501
     },
     {
       "headline": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
@@ -156,42 +231,6 @@
       "confidence": 0.852
     },
     {
-      "headline": "AI broke the cybersecurity world. What\u2019s next?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "published": "2026-11-07T05:43:11Z",
-      "sentiment_score": -0.054,
-      "sentiment_label": "Neutral",
-      "confidence": 0.885
-    },
-    {
-      "headline": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "published": "2026-11-07T04:19:30Z",
-      "sentiment_score": 0.232,
-      "sentiment_label": "Neutral",
-      "confidence": 0.729
-    },
-    {
-      "headline": "Crusoe sells troubled Wyoming data center project to Google | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "published": "2026-11-07T01:40:28Z",
-      "sentiment_score": 0.017,
-      "sentiment_label": "Neutral",
-      "confidence": 0.936
-    },
-    {
-      "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "published": "2026-11-06T23:46:18Z",
-      "sentiment_score": 0.836,
-      "sentiment_label": "Positive",
-      "confidence": 0.844
-    },
-    {
       "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
@@ -201,22 +240,13 @@
       "confidence": 0.845
     },
     {
-      "headline": "The Duo apps are coming, says Apple",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "published": "2026-11-06T21:38:05Z",
-      "sentiment_score": 0.184,
-      "sentiment_label": "Neutral",
-      "confidence": 0.79
-    },
-    {
       "headline": "AI stocks climb after trillions wiped from market values",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T21:06:25",
-      "sentiment_score": 0.456,
-      "sentiment_label": "Positive",
-      "confidence": 0.689
+      "sentiment_score": -0.943,
+      "sentiment_label": "Negative",
+      "confidence": 0.96
     },
     {
       "headline": "Why the US midterms sparked an AI stock selloff",
@@ -226,6 +256,15 @@
       "sentiment_score": -0.769,
       "sentiment_label": "Negative",
       "confidence": 0.822
+    },
+    {
+      "headline": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16aktERzEwaEpNUFIzUHpEZEJyc0RmYnh5MmFLX3VDdGdBRlF5Y1g4RGltQzRWS25vSko5dlFENnlXYmtYLWxET285NEF4bW40ZjJWVEJoUkZxYWhDYzhSRDVjMmpEVmxrVjVoS0FqcHZ1eEJlUG8tV1RRLWc?oc=5",
+      "published": "2026-11-06T16:02:34",
+      "sentiment_score": -0.467,
+      "sentiment_label": "Negative",
+      "confidence": 0.512
     },
     {
       "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
@@ -244,24 +283,6 @@
       "sentiment_score": 0.393,
       "sentiment_label": "Neutral",
       "confidence": 0.581
-    },
-    {
-      "headline": "Not Even Tech\u2019s Safest Jobs Look So Safe Anymore",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YdFVnMzBvemo5MjY1TnFGUkhTZjVxY05CakNJQjRHQjBlZExJUFprcmUzbVdyaXJQWEo3cE1DRmoyRjBWYnp4RVdwYUZIX1RkWGY0QWUzWF9kV0h1V1ptWHZRVHZWSkRlWUtzbVd4YjIwSHZSbktz?oc=5",
-      "published": "2026-11-06T10:02:29",
-      "sentiment_score": -0.051,
-      "sentiment_label": "Neutral",
-      "confidence": 0.87
-    },
-    {
-      "headline": "Airbnb says it's launching an AI travel agent in the first half of 2027 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "published": "2026-11-05T22:41:25Z",
-      "sentiment_score": 0.283,
-      "sentiment_label": "Neutral",
-      "confidence": 0.699
     },
     {
       "headline": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
@@ -318,18 +339,9 @@
       "confidence": 0.687
     },
     {
-      "headline": "Google says there\u2019s no way to use Search without using artificial intelligence",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5",
-      "published": "2026-11-03T21:47:00",
-      "sentiment_score": -0.079,
-      "sentiment_label": "Neutral",
-      "confidence": 0.873
-    },
-    {
       "headline": "Tech Life",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T20:30:00",
       "sentiment_score": -0.033,
       "sentiment_label": "Neutral",
