@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-13T04:07:26.347880",
-  "total_articles": 42,
-  "overall_sentiment": -0.286,
+  "last_updated": "2026-11-13T13:39:45.986502",
+  "total_articles": 35,
+  "overall_sentiment": -0.315,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -32,96 +32,147 @@
       "moving_avg": 0.015
     },
     {
-      "date": "2026-11-09",
-      "avg_sentiment": 0.135,
-      "article_count": 1,
-      "positive_count": 1,
+      "date": "2026-11-10",
+      "avg_sentiment": 0.104,
+      "article_count": 3,
+      "positive_count": 3,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.045
-    },
-    {
-      "date": "2026-11-10",
-      "avg_sentiment": -0.269,
-      "article_count": 7,
-      "positive_count": 3,
-      "negative_count": 3,
-      "neutral_count": 1,
-      "moving_avg": -0.018
+      "moving_avg": 0.037
     },
     {
       "date": "2026-11-11",
-      "avg_sentiment": -0.233,
-      "article_count": 15,
-      "positive_count": 4,
-      "negative_count": 9,
-      "neutral_count": 2,
-      "moving_avg": -0.054
+      "avg_sentiment": 0.04,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": 0.038
     },
     {
       "date": "2026-11-12",
-      "avg_sentiment": -0.38,
-      "article_count": 13,
-      "positive_count": 2,
+      "avg_sentiment": -0.32,
+      "article_count": 15,
+      "positive_count": 1,
       "negative_count": 8,
-      "neutral_count": 3,
-      "moving_avg": -0.1
+      "neutral_count": 6,
+      "moving_avg": -0.022
     },
     {
       "date": "2026-11-13",
-      "avg_sentiment": -0.628,
-      "article_count": 3,
-      "positive_count": 0,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": -0.195
+      "avg_sentiment": -0.609,
+      "article_count": 11,
+      "positive_count": 1,
+      "negative_count": 8,
+      "neutral_count": 2,
+      "moving_avg": -0.106
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.525,
-      "article_count": 11,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "CNBC",
-      "avg_sentiment": -0.269,
-      "article_count": 8,
+      "avg_sentiment": -0.686,
+      "article_count": 13,
       "sentiment_label": "Negative"
     },
     {
       "source": "Reuters",
-      "avg_sentiment": -0.364,
+      "avg_sentiment": -0.279,
       "article_count": 7,
       "sentiment_label": "Negative"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.024,
-      "article_count": 5,
+      "avg_sentiment": 0.046,
+      "article_count": 3,
       "sentiment_label": "Neutral"
     },
     {
+      "source": "CNBC",
+      "avg_sentiment": -0.253,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
       "source": "TechCrunch",
-      "avg_sentiment": 0.269,
-      "article_count": 4,
+      "avg_sentiment": 0.331,
+      "article_count": 3,
       "sentiment_label": "Positive"
-    },
-    {
-      "source": "Bloomberg.com",
-      "avg_sentiment": -0.657,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.204,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "What we know about the global Microsoft outage",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T13:34:53",
+      "sentiment_score": -0.902,
+      "sentiment_label": "Negative",
+      "confidence": 0.92
+    },
+    {
+      "headline": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T12:43:27",
+      "sentiment_score": -0.938,
+      "sentiment_label": "Negative",
+      "confidence": 0.949
+    },
+    {
+      "headline": "What we know so far about the Microsoft outage",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T11:43:27",
+      "sentiment_score": -0.921,
+      "sentiment_label": "Negative",
+      "confidence": 0.931
+    },
+    {
+      "headline": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "published": "2026-11-13T11:39:41",
+      "sentiment_score": -0.428,
+      "sentiment_label": "Neutral",
+      "confidence": 0.514
+    },
+    {
+      "headline": "Could AI help decide medals at LA28 Olympics?",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CNjlRdVBKeHBMcDhjdi0yZnNEZ2V4M0R0WVB1MkNISnJxVmFYY0JVQlJZMzV6cXBRb0FPTDVNRGJ2Y2JZZ01mNUxBWm5UcUdCZ1B2aGQ1ZlgzNDBJOGQ5OXVUMEZVMjFZ?oc=5",
+      "published": "2026-11-13T08:46:14",
+      "sentiment_score": 0.041,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
+    },
+    {
+      "headline": "What happened overnight with the Microsoft global outage?",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T07:18:17",
+      "sentiment_score": -0.961,
+      "sentiment_label": "Negative",
+      "confidence": 0.969
+    },
+    {
+      "headline": "EU leaders seek to tackle challenges at first ever AI summit",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ?oc=5",
+      "published": "2026-11-13T06:06:00",
+      "sentiment_score": 0.156,
+      "sentiment_label": "Neutral",
+      "confidence": 0.801
+    },
+    {
+      "headline": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T03:57:01",
+      "sentiment_score": -0.865,
+      "sentiment_label": "Negative",
+      "confidence": 0.877
+    },
     {
       "headline": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks",
       "source": "Reuters",
@@ -132,13 +183,13 @@
       "confidence": 0.898
     },
     {
-      "headline": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "headline": "Global Microsoft outage affecting tens of thousands of users",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T02:38:02",
-      "sentiment_score": -0.962,
+      "sentiment_score": -0.958,
       "sentiment_label": "Negative",
-      "confidence": 0.97
+      "confidence": 0.966
     },
     {
       "headline": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
@@ -148,15 +199,6 @@
       "sentiment_score": -0.882,
       "sentiment_label": "Negative",
       "confidence": 0.894
-    },
-    {
-      "headline": "Wall Street Whistles Past Nvidia Risk to Bet on Wobbly AI Trade",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1NTVmFaaGxYUlRucGtIRzJRYlJrMGN6Y3E0TVF0bmhuOFRKTE0wSGc3alFkUnpCQkZDaUhPVFR2NnJ0T0tUVHdTazlYRHVfVFhHU0xxaFJwYV94X003QjZaQmNwdFRadmJEeDNrdmpwZ3gwWWRMdGNiOFFJR0gxOXVIMUVPQmljOWpJRlFfSGM1cnFRLTFwSjNfRkxYeDJqYllKOTl5Qzg0MGFFUzlvMU50RVE?oc=5",
-      "published": "2026-11-12T21:37:51",
-      "sentiment_score": -0.551,
-      "sentiment_label": "Negative",
-      "confidence": 0.594
     },
     {
       "headline": "Bill Simmons Canceled ChatGPT Partnership After Fan Backlash",
@@ -177,15 +219,6 @@
       "confidence": 0.936
     },
     {
-      "headline": "United Airlines blocks AI agents from booking flights",
-      "source": "The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5",
-      "published": "2026-11-12T20:30:00",
-      "sentiment_score": -0.83,
-      "sentiment_label": "Negative",
-      "confidence": 0.841
-    },
-    {
       "headline": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
@@ -193,6 +226,15 @@
       "sentiment_score": -0.767,
       "sentiment_label": "Negative",
       "confidence": 0.788
+    },
+    {
+      "headline": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym5PVmtVcmozcmwzTDBvSVZuSUVuanV6R3FNY0lrQm5GZ3pYZk1TQThWd2xERm9xUWs0NEdpTnpmSEFsOG9NT1hxdHVOb2xUSVNjeWhCckR3eGxoLTlSN2VyTV9EQXJ5VDJsM3Vxalp2NF9oTFE?oc=5",
+      "published": "2026-11-12T19:29:19",
+      "sentiment_score": 0.045,
+      "sentiment_label": "Neutral",
+      "confidence": 0.927
     },
     {
       "headline": "IMF monitoring AI developments, too early to say if AI reassessment underway",
@@ -231,22 +273,58 @@
       "confidence": 0.91
     },
     {
-      "headline": "AI to stay dominant force behind US business investment in 2027, Goldman says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazJqbUNYeFVEdEVPRmFkUEE3eVpESE8xb05HYUduM3A2N29kak93SEJLWHpUdng5NkdGQjBVdmhIUUZCNVF6eEs4MmZxNGU2NWxaOXh1cW0zNGlieDRVbExia3F5TnV4MGRJdTJIRWR3X19Dc3hNclcyMmxsQVhIZ2VtcGhPSWU5dkNETjJtWmVBSndERGVnZEZhcjRnWFJkdExWLTVTc0dnVTBkS3FZUW1qaWhEZw?oc=5",
-      "published": "2026-11-12T09:13:43",
-      "sentiment_score": 0.091,
+      "headline": "How AI Can Help You Appeal Health Insurance Denials",
+      "source": "Time",
+      "link": "https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/",
+      "published": "2026-11-12T13:00:04Z",
+      "sentiment_score": 0.061,
       "sentiment_label": "Neutral",
-      "confidence": 0.877
+      "confidence": 0.86
     },
     {
-      "headline": "The world's super-rich are piling into alternative investments. Here's why",
+      "headline": "Stocks moving the most today: Live updates",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "published": "2026-11-12T03:36:44Z",
-      "sentiment_score": 0.61,
-      "sentiment_label": "Positive",
-      "confidence": 0.623
+      "link": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html",
+      "published": "2026-11-12T12:50:09Z",
+      "sentiment_score": 0.028,
+      "sentiment_label": "Neutral",
+      "confidence": 0.924
+    },
+    {
+      "headline": "Nebius handily beats Q3 revenue expectations but shares fall",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+      "published": "2026-11-12T12:30:14Z",
+      "sentiment_score": -0.666,
+      "sentiment_label": "Negative",
+      "confidence": 0.825
+    },
+    {
+      "headline": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o",
+      "published": "2026-11-12T12:00:17Z",
+      "sentiment_score": -0.745,
+      "sentiment_label": "Negative",
+      "confidence": 0.775
+    },
+    {
+      "headline": "Alex Karp Said He\u2019s a \u2018Progressive.\u2019 OK! Here\u2019s Some Other Stuff He\u2019s Said Recently",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "published": "2026-11-12T10:30:00Z",
+      "sentiment_score": 0.05,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
+    },
+    {
+      "headline": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
+      "published": "2026-11-12T10:00:01Z",
+      "sentiment_score": -0.122,
+      "sentiment_label": "Neutral",
+      "confidence": 0.715
     },
     {
       "headline": "Who could replace Jensen Huang? A highly unscientific list of possible successors | TechCrunch",
@@ -258,78 +336,6 @@
       "confidence": 0.931
     },
     {
-      "headline": "What we know so far about Nvidia partner Megaspeed\u2019s Asia footprint",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-      "published": "2026-11-12T03:02:03Z",
-      "sentiment_score": -0.812,
-      "sentiment_label": "Negative",
-      "confidence": 0.827
-    },
-    {
-      "headline": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
-      "published": "2026-11-11T23:57:38Z",
-      "sentiment_score": -0.201,
-      "sentiment_label": "Negative",
-      "confidence": 0.583
-    },
-    {
-      "headline": "Beyond ARTEX: 45 AI Pentesting Tools and How to Find Them",
-      "source": "Gitguardian.com",
-      "link": "https://blog.gitguardian.com/ai-pentesting-tools-beyond-artex/",
-      "published": "2026-11-11T23:39:34Z",
-      "sentiment_score": 0.012,
-      "sentiment_label": "Neutral",
-      "confidence": 0.942
-    },
-    {
-      "headline": "Stock market today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-      "published": "2026-11-11T23:11:58Z",
-      "sentiment_score": 0.91,
-      "sentiment_label": "Positive",
-      "confidence": 0.942
-    },
-    {
-      "headline": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-      "published": "2026-11-11T22:14:02Z",
-      "sentiment_score": -0.906,
-      "sentiment_label": "Negative",
-      "confidence": 0.922
-    },
-    {
-      "headline": "Nvidia stock slides after NYT report alleges Jensen Huang had a second affair \u2014 with an employee",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-      "published": "2026-11-11T22:08:41Z",
-      "sentiment_score": -0.911,
-      "sentiment_label": "Negative",
-      "confidence": 0.926
-    },
-    {
-      "headline": "United won\u2019t let your AI agent book your flight",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "published": "2026-11-11T21:54:21Z",
-      "sentiment_score": -0.393,
-      "sentiment_label": "Neutral",
-      "confidence": 0.561
-    },
-    {
-      "headline": "United Airlines moves to block AI agents from its platform over security concerns",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html",
-      "published": "2026-11-11T20:11:33Z",
-      "sentiment_score": -0.762,
-      "sentiment_label": "Negative",
-      "confidence": 0.793
-    },
-    {
       "headline": "African writing award probe finds 'no evidence' winning story was AI generated",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
@@ -337,15 +343,6 @@
       "sentiment_score": -0.787,
       "sentiment_label": "Negative",
       "confidence": 0.811
-    },
-    {
-      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "published": "2026-11-11T19:55:54Z",
-      "sentiment_score": 0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
     },
     {
       "headline": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips | TechCrunch",
@@ -357,24 +354,6 @@
       "confidence": 0.846
     },
     {
-      "headline": "Tired of spending time fixing other people's AI slop at work? How to talk to them about it",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/make-it/2026/11/11/push-back-coworker-boss-extra-work-ai.html",
-      "published": "2026-11-11T16:05:01Z",
-      "sentiment_score": -0.083,
-      "sentiment_label": "Neutral",
-      "confidence": 0.82
-    },
-    {
-      "headline": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "published": "2026-11-11T14:00:00Z",
-      "sentiment_score": 0.085,
-      "sentiment_label": "Neutral",
-      "confidence": 0.885
-    },
-    {
       "headline": "Adobe\u2019s AI experiments let you walk around in photos and interview your characters",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
@@ -382,42 +361,6 @@
       "sentiment_score": 0.072,
       "sentiment_label": "Neutral",
       "confidence": 0.901
-    },
-    {
-      "headline": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T11:33:24",
-      "sentiment_score": -0.954,
-      "sentiment_label": "Negative",
-      "confidence": 0.962
-    },
-    {
-      "headline": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn\u2019t Get Flagged for Weeks",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-      "published": "2026-11-11T11:00:00Z",
-      "sentiment_score": -0.44,
-      "sentiment_label": "Neutral",
-      "confidence": 0.509
-    },
-    {
-      "headline": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw?oc=5",
-      "published": "2026-11-10T23:54:00",
-      "sentiment_score": -0.957,
-      "sentiment_label": "Negative",
-      "confidence": 0.969
-    },
-    {
-      "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T22:52:15",
-      "sentiment_score": -0.362,
-      "sentiment_label": "Neutral",
-      "confidence": 0.492
     },
     {
       "headline": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
@@ -445,33 +388,6 @@
       "sentiment_score": 0.054,
       "sentiment_label": "Neutral",
       "confidence": 0.907
-    },
-    {
-      "headline": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T17:56:12",
-      "sentiment_score": -0.904,
-      "sentiment_label": "Negative",
-      "confidence": 0.921
-    },
-    {
-      "headline": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T09:23:55",
-      "sentiment_score": 0.032,
-      "sentiment_label": "Neutral",
-      "confidence": 0.881
-    },
-    {
-      "headline": "Disney and Adobe are building generative AI tools together",
-      "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTkzQTR2UkhaRGRzajhCUTQtRTJ1NzhYZ3VjUVFRd296MDFXRVNPYklmUEN5cC1val90MlBTN1otVTFVam5na3RnQjNFdnZ3SnFYU3FKRHJ5eUZvZnByUFUyTlZZM2MyT0xTdGJBQzdvQnVBNmk2MEg4aEdUWWRPS25n?oc=5",
-      "published": "2026-11-09T15:38:56",
-      "sentiment_score": 0.135,
-      "sentiment_label": "Neutral",
-      "confidence": 0.845
     },
     {
       "headline": "Tech Life",
