@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-11-17T01:19:03.093591",
-  "total_articles": 23,
-  "overall_sentiment": -0.298,
+  "last_updated": "2026-11-17T15:11:19.737751",
+  "total_articles": 33,
+  "overall_sentiment": -0.262,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-10-29",
+      "avg_sentiment": 0.044,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.044
+    },
     {
       "date": "2026-11-03",
       "avg_sentiment": -0.033,
@@ -11,72 +20,150 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.033
+      "moving_avg": 0.005
     },
     {
       "date": "2026-11-13",
-      "avg_sentiment": -0.95,
+      "avg_sentiment": 0.084,
+      "article_count": 4,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.032
+    },
+    {
+      "date": "2026-11-14",
+      "avg_sentiment": 0.022,
+      "article_count": 3,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.029
+    },
+    {
+      "date": "2026-11-15",
+      "avg_sentiment": -0.699,
       "article_count": 1,
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 0,
-      "moving_avg": -0.492
-    },
-    {
-      "date": "2026-11-14",
-      "avg_sentiment": -0.069,
-      "article_count": 4,
-      "positive_count": 2,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": -0.351
-    },
-    {
-      "date": "2026-11-15",
-      "avg_sentiment": -0.35,
-      "article_count": 8,
-      "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 2,
-      "moving_avg": -0.35
+      "moving_avg": -0.116
     },
     {
       "date": "2026-11-16",
-      "avg_sentiment": -0.311,
-      "article_count": 9,
-      "positive_count": 3,
+      "avg_sentiment": -0.349,
+      "article_count": 16,
+      "positive_count": 6,
+      "negative_count": 9,
+      "neutral_count": 1,
+      "moving_avg": -0.155
+    },
+    {
+      "date": "2026-11-17",
+      "avg_sentiment": -0.396,
+      "article_count": 7,
+      "positive_count": 1,
       "negative_count": 5,
       "neutral_count": 1,
-      "moving_avg": -0.343
+      "moving_avg": -0.19
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.528,
+      "avg_sentiment": -0.514,
       "article_count": 9,
       "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.18,
+      "avg_sentiment": -0.313,
       "article_count": 6,
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.321,
-      "article_count": 3,
+      "source": "Reuters",
+      "avg_sentiment": -0.277,
+      "article_count": 5,
       "sentiment_label": "Negative"
     },
     {
-      "source": "Reuters",
-      "avg_sentiment": 0.304,
-      "article_count": 2,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.08,
+      "article_count": 3,
       "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.293,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "US government confirms investigation into tech firm Megaspeed",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T11:17:32",
+      "sentiment_score": -0.882,
+      "sentiment_label": "Negative",
+      "confidence": 0.9
+    },
+    {
+      "headline": "AI advances coincide with sharp rise in cyber incidents, Marsh data shows",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlhXMW5RQ1U5RWx0Z1lhbjg2OTFKamZTY0NHLXd3b24zZU13bFo3RUZTcTNwcTZ0Yk9CMlY1Q2ZPZTVvY2hrVFk3Nzl2V2VDeG5Nd1lzWXhmdDBvRTFEZFNBNTBtUkhfWVZ4eWNaYlh3WkdGdnNmcDFyWFdwR05NMUhlZllWTUJyRXVLdVdnN3lES2xkRWFBS3FsaHZRajdYUnFRZ0hxcVVMZE83M01GeHQyai1QNEFSbFZVUV9Ydw?oc=5",
+      "published": "2026-11-17T10:26:38",
+      "sentiment_score": -0.857,
+      "sentiment_label": "Negative",
+      "confidence": 0.879
+    },
+    {
+      "headline": "Can A.I. Take the Edge Off One of Hollywood\u2019s Worst Jobs?",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVZwUzdpUGhvNTBydW5hQ3oxenNYYk96Z1ktdHIzMUNQUklTVHV4Mk5LeTFkWUpLazdsZG00X2dDTjRqaHowWWEzb0k4YmRyWkNFQmd5TDZiN0kxNVZVczBfMzY1WWdNVWNtc3RwRnVaNHNRUGdhZHYySFJ2MEdKbWRldUl1ejJrU3A4Tk5pYUZlY1VPSFFadjRjaw?oc=5",
+      "published": "2026-11-17T10:00:32",
+      "sentiment_score": -0.275,
+      "sentiment_label": "Neutral",
+      "confidence": 0.615
+    },
+    {
+      "headline": "PODCAST: Where the artificial intelligence boom goes next",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEZIcEhfemdqeHAyVmpEVnRwenVHTDBPRFEtNXlCWDBOZ1YxcGtwZ25USkFKSnk0bFRIZkUwQmozLVctZ2pwQmQ2OG9iNng4eUpSblJPUEtwUllCei1nTk5QZ3dDRE1xOUtvMjY2MUFEeE5rV3hzYUdrMGNQUGdVcHdMMHN0OGNySThPaWp4cmM2WURmU0FNVzBkeWZuUy1uSWVCaA?oc=5",
+      "published": "2026-11-17T04:49:00",
+      "sentiment_score": -0.001,
+      "sentiment_label": "Neutral",
+      "confidence": 0.94
+    },
+    {
+      "headline": "Lawyers for man accused of bugging OpenAI say there\u2019s no evidence he\u2019s a spy",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUEpkbU52c3YxYlF0Y3djRGtLSHFkUzN3M0Fnd2wxRFExY3h4MmhpQkxxeDRwNmFubUh2cnpSYlE2dFJjTXhEN1p1RVI1NGxfQmwxcVhaWmkwamp1NDN3Q1ZYN2Fwc0ZnSEVzRFJzbjY2b0JkX0hJTlNfNW1aVjRNSHJieGRGT1JqMlFOTVNRSmltVG9naXVNdVJoU3NnWGhxSmNSdm5JdGhIRUVYTWNaUXNPM2hLSE0?oc=5",
+      "published": "2026-11-17T03:43:00",
+      "sentiment_score": -0.294,
+      "sentiment_label": "Neutral",
+      "confidence": 0.651
+    },
+    {
+      "headline": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemJ2WmtQZV96U0x6Z1FzanV3YlQwT2k5ZXk3Wnc3RzI2cVFsNDdjaHk5TTJJU0FiNnVPYllVYnRVcjZkTEMwYVZ6bU01SE54THNuRl9NdUVrekhxdXlwaVBubmhJTEt6Z1V4R2kwTGpjdmVkdkxxVl9vVkZXYWFuR1lEdjRWUnVPVG4tQVRLdVp4bXJvaVhSM1pXN25keDRrNXA4S0dvWWZoX3FfSE93?oc=5",
+      "published": "2026-11-17T03:42:00",
+      "sentiment_score": 0.116,
+      "sentiment_label": "Neutral",
+      "confidence": 0.815
+    },
+    {
+      "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T02:37:53",
+      "sentiment_score": -0.577,
+      "sentiment_label": "Negative",
+      "confidence": 0.668
+    },
     {
       "headline": "The AI start-ups fixing India's broken roads and messy land records",
       "source": "BBC News",
@@ -87,49 +174,22 @@
       "confidence": 0.837
     },
     {
-      "headline": "California sues OpenAI over Hugging Face attack",
+      "headline": "OpenAI sued by California over Hugging Face attack",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T23:12:24",
-      "sentiment_score": -0.854,
+      "sentiment_score": -0.851,
       "sentiment_label": "Negative",
-      "confidence": 0.87
+      "confidence": 0.868
     },
     {
-      "headline": "China is hosting the world's leaders in Schenzhen's AI wonderland. Here's what they won't see",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRFEzRDhlVEVZYzFmQmNzaFl6YUN6Rnd2dGhTMm13LTkxOUFiV0dFUHFsZlBQQlp3S2Y4WTZ2cHFqQk1FRnpuX2VaY0lEajlwUG9MYk8zV2xzNmc?oc=5",
-      "published": "2026-11-16T23:07:20",
-      "sentiment_score": 0.012,
-      "sentiment_label": "Neutral",
-      "confidence": 0.915
-    },
-    {
-      "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T22:21:27",
-      "sentiment_score": -0.63,
+      "headline": "California sues OpenAI over AI models\u2019 cyberattacks on Hugging Face, other companies",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5",
+      "published": "2026-11-16T20:47:43",
+      "sentiment_score": -0.722,
       "sentiment_label": "Negative",
-      "confidence": 0.705
-    },
-    {
-      "headline": "US, allies team up to protect AI tech and infrastructure amid China rivalry",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5",
-      "published": "2026-11-16T20:51:44",
-      "sentiment_score": 0.226,
-      "sentiment_label": "Neutral",
-      "confidence": 0.709
-    },
-    {
-      "headline": "Law firm HSF Kramer taps legal engineering team to fuel AI capabilities",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnBhNVZjM19VYjFrY2E4NDZYU0FpcWNEeUd6aWxUd3l0ZVVQSTRpNU1MZW5VeTNPZGJ2aFFJM3Y3ejYyR3VuTUF6QTNTYUtkeS1KQWp2SXV6b3RlZGhQaENJejBkMVEtRWduRGlJeC1oN3BtTlA1NkJmMHh4bm9DR0lTeTF3TExLakFzLUVXcmNyQnA2Y1lmNVZkazRIY1YzVmtuU3d4MkhRMWk2TTNvTVdaZFBjVUl0cmMzXzNQNGJlQQ?oc=5",
-      "published": "2026-11-16T20:17:20",
-      "sentiment_score": 0.382,
-      "sentiment_label": "Neutral",
-      "confidence": 0.589
+      "confidence": 0.742
     },
     {
       "headline": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
@@ -139,6 +199,87 @@
       "sentiment_score": -0.294,
       "sentiment_label": "Neutral",
       "confidence": 0.583
+    },
+    {
+      "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjJ4OWhkMHlCSTdyUTFheTBjV1A0N2xQNVczbkFjRzJhUmJmR2lXX3QwZ0lZeVpWeWJWTXA4cmNnM1gwWTgyNEhjU0V6a2RzQ05HYlk3aHAxVDNycUdGOUIyX0VCWFpreW1qa21VZkhBY055WnJHbVNKeWd3UFJ2bHdaczAwMDFIT1ZDSTljc05neERDbXhyWUdRd3NaanZ5d1A1dGo0TndKWVNjU1E?oc=5",
+      "published": "2026-11-16T17:00:00",
+      "sentiment_score": 0.093,
+      "sentiment_label": "Neutral",
+      "confidence": 0.867
+    },
+    {
+      "headline": "Anthropic IPO guide: Everything you need to know",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+      "published": "2026-11-16T14:55:17Z",
+      "sentiment_score": 0.02,
+      "sentiment_label": "Neutral",
+      "confidence": 0.95
+    },
+    {
+      "headline": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
+      "published": "2026-11-16T14:29:19Z",
+      "sentiment_score": -0.956,
+      "sentiment_label": "Negative",
+      "confidence": 0.973
+    },
+    {
+      "headline": "How to Build an Artificial Intelligence Revolution for All",
+      "source": "Time",
+      "link": "https://time.com/article/2026/11/16/how-to-build-an-artificial-intelligence-revolution-for-all/",
+      "published": "2026-11-16T13:30:06Z",
+      "sentiment_score": 0.6,
+      "sentiment_label": "Positive",
+      "confidence": 0.615
+    },
+    {
+      "headline": "Apple launches an AI health tool as part of a research study",
+      "source": "News/Talk 94.9 WSJM",
+      "link": "https://www.wsjm.com/2026/11/15/apple-launches-an-ai-health-tool-as-part-of-a-research-study/",
+      "published": "2026-11-16T12:15:12Z",
+      "sentiment_score": 0.083,
+      "sentiment_label": "Neutral",
+      "confidence": 0.889
+    },
+    {
+      "headline": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang\u2019s exit",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
+      "published": "2026-11-16T12:00:01Z",
+      "sentiment_score": -0.858,
+      "sentiment_label": "Negative",
+      "confidence": 0.881
+    },
+    {
+      "headline": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "published": "2026-11-16T11:00:00Z",
+      "sentiment_score": 0.609,
+      "sentiment_label": "Positive",
+      "confidence": 0.647
+    },
+    {
+      "headline": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "published": "2026-11-16T10:52:52Z",
+      "sentiment_score": -0.884,
+      "sentiment_label": "Negative",
+      "confidence": 0.899
+    },
+    {
+      "headline": "Lies, spies and sex are just one part of the Nvidia story. The real stakes are much bigger",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/11/16/tech/nvidia-sex-spies-serious-problems",
+      "published": "2026-11-16T09:30:04Z",
+      "sentiment_score": -0.875,
+      "sentiment_label": "Negative",
+      "confidence": 0.885
     },
     {
       "headline": "Intel sued by investors after PC sales slump hits share price",
@@ -159,40 +300,13 @@
       "confidence": 0.825
     },
     {
-      "headline": "Is bad news for Jensen Huang also bad news for the AI industry? | TechCrunch",
+      "headline": "Apple launches new app to study how people use AI for health",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "published": "2026-11-15T21:56:35Z",
-      "sentiment_score": -0.821,
-      "sentiment_label": "Negative",
-      "confidence": 0.834
-    },
-    {
-      "headline": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-      "published": "2026-11-15T16:49:11Z",
-      "sentiment_score": -0.93,
-      "sentiment_label": "Negative",
-      "confidence": 0.942
-    },
-    {
-      "headline": "The tech products we enthusiastically recommend this holiday season | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-      "published": "2026-11-15T16:03:26Z",
-      "sentiment_score": 0.202,
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "published": "2026-11-16T01:30:00Z",
+      "sentiment_score": 0.094,
       "sentiment_label": "Neutral",
-      "confidence": 0.773
-    },
-    {
-      "headline": "Entrepreneur may be the best 'everyday job' of the AI future, says VC investor Alexa von Tobel",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/15/entrepreneur-may-be-best-job-of-ai-era-serial-founder-alexa-von-tobel.html",
-      "published": "2026-11-15T15:31:01Z",
-      "sentiment_score": 0.049,
-      "sentiment_label": "Neutral",
-      "confidence": 0.91
+      "confidence": 0.877
     },
     {
       "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -204,33 +318,6 @@
       "confidence": 0.733
     },
     {
-      "headline": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
-      "published": "2026-11-15T12:49:07Z",
-      "sentiment_score": 0.058,
-      "sentiment_label": "Neutral",
-      "confidence": 0.83
-    },
-    {
-      "headline": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "published": "2026-11-15T12:00:01Z",
-      "sentiment_score": -0.014,
-      "sentiment_label": "Negative",
-      "confidence": 0.454
-    },
-    {
-      "headline": "Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still showering him in support | CNN Business",
-      "source": "CNN",
-      "link": "https://www.cnn.com/2026/11/15/business/jensen-huang-resigned-nvidia-support",
-      "published": "2026-11-15T11:45:05Z",
-      "sentiment_score": -0.649,
-      "sentiment_label": "Negative",
-      "confidence": 0.669
-    },
-    {
       "headline": "Rachelle Hampton won\u2019t admit how long she spent charting the use of \u2018murmur\u2019 in Twilight",
       "source": "The Verge",
       "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
@@ -238,15 +325,6 @@
       "sentiment_score": -0.04,
       "sentiment_label": "Neutral",
       "confidence": 0.913
-    },
-    {
-      "headline": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published": "2026-11-14T17:32:52Z",
-      "sentiment_score": -0.344,
-      "sentiment_label": "Neutral",
-      "confidence": 0.61
     },
     {
       "headline": "Meet the seven co-founders of Anthropic",
@@ -267,13 +345,40 @@
       "confidence": 0.915
     },
     {
-      "headline": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T21:15:41",
-      "sentiment_score": -0.95,
-      "sentiment_label": "Negative",
-      "confidence": 0.959
+      "headline": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazB2cTNEbl9qWDE2Z3BCOVh4Q1U1eDRka1Uxc18wQWhQNXRRTGRQV3VSOHRrUFlhZ0FKamNQb21zYkM5WWVfc0tJcGUwWktRbUFWTkkwc0Nya1RFbTVjNTBKa01XMzNhOTFyNzNWTG9NQXVHcGVTM2xwZ2xyUjNEVkxmSU9rY3Nq?oc=5",
+      "published": "2026-11-13T20:45:10",
+      "sentiment_score": 0.044,
+      "sentiment_label": "Neutral",
+      "confidence": 0.925
+    },
+    {
+      "headline": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2VqV2RZM3g2SEMzeEdNNmNjSmtZNzY1dTVjZ0F2WWdLdW9iaENMajhQdEpiX2t5VnFxaFdJR1ZPcVBGVmstX3ZZNXdUbFprOE5oTFFfa1Q5UkhXaXJQRER4Vkp4YWQxeEtJNmVvM3FjTWhXc1c5TnFGVzVsUVVRV002dlpSQlh3alhwMDFiZ2VvZlVuQjZ4dUJTcUM?oc=5",
+      "published": "2026-11-13T16:00:12",
+      "sentiment_score": 0.054,
+      "sentiment_label": "Neutral",
+      "confidence": 0.92
+    },
+    {
+      "headline": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
+      "published": "2026-11-13T15:45:24",
+      "sentiment_score": 0.078,
+      "sentiment_label": "Neutral",
+      "confidence": 0.894
+    },
+    {
+      "headline": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+      "published": "2026-11-13T15:00:01",
+      "sentiment_score": 0.159,
+      "sentiment_label": "Neutral",
+      "confidence": 0.822
     },
     {
       "headline": "Tech Life",
@@ -283,6 +388,15 @@
       "sentiment_score": -0.033,
       "sentiment_label": "Neutral",
       "confidence": 0.918
+    },
+    {
+      "headline": "Generative AI and News Report 2026: From standalone tools to information infrastructure",
+      "source": "reutersinstitute.politics.ox.ac.uk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzZyaGxxZHMteEdPS2tOX3pscXc4blNSbWRTNDMtM0c0UUdfUFhydnY4VFBHakNTUUpsRjkyRWhURkpaa3V5cnE0VGlIeVF4eXd5MWVqeFJtQ2VfbXU4SXJROEhOcTR2VkptdkprNy1qN3JTZTdsMFdQOXYwWXBmMU44QU1uTkdBejItdE9EZkoxR2U4a1A1cGxpRHJiaC1sbjA3WndLTUQ3WXI3SkFYUHRyRjlzQThPS0F3UWRB?oc=5",
+      "published": "2026-10-29T07:00:00",
+      "sentiment_score": 0.044,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
     }
   ]
 }
