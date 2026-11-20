@@ -1,9 +1,18 @@
 {
-  "last_updated": "2026-11-20T14:36:52.430916",
-  "total_articles": 34,
-  "overall_sentiment": 0.102,
-  "overall_label": "Positive",
+  "last_updated": "2026-11-20T23:30:30.122509",
+  "total_articles": 38,
+  "overall_sentiment": -0.076,
+  "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-10-29",
+      "avg_sentiment": 0.044,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.044
+    },
     {
       "date": "2026-11-03",
       "avg_sentiment": -0.033,
@@ -11,7 +20,7 @@
       "positive_count": 0,
       "negative_count": 0,
       "neutral_count": 1,
-      "moving_avg": -0.033
+      "moving_avg": 0.005
     },
     {
       "date": "2026-11-13",
@@ -20,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.063
+      "moving_avg": 0.057
     },
     {
       "date": "2026-11-14",
@@ -29,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.06
+      "moving_avg": 0.056
     },
     {
       "date": "2026-11-16",
@@ -38,86 +47,182 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.068
+      "moving_avg": 0.064
     },
     {
       "date": "2026-11-18",
-      "avg_sentiment": 0.091,
-      "article_count": 8,
-      "positive_count": 5,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "moving_avg": 0.073
+      "avg_sentiment": 0.001,
+      "article_count": 2,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "moving_avg": 0.053
     },
     {
       "date": "2026-11-19",
-      "avg_sentiment": 0.132,
-      "article_count": 15,
+      "avg_sentiment": -0.066,
+      "article_count": 18,
       "positive_count": 8,
-      "negative_count": 3,
+      "negative_count": 6,
       "neutral_count": 4,
-      "moving_avg": 0.083
+      "moving_avg": 0.036
     },
     {
       "date": "2026-11-20",
-      "avg_sentiment": 0.069,
-      "article_count": 7,
-      "positive_count": 5,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "moving_avg": 0.081
+      "avg_sentiment": -0.155,
+      "article_count": 13,
+      "positive_count": 6,
+      "negative_count": 5,
+      "neutral_count": 2,
+      "moving_avg": 0.008
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": 0.107,
-      "article_count": 14,
+      "avg_sentiment": 0.066,
+      "article_count": 11,
       "sentiment_label": "Positive"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.2,
-      "article_count": 6,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.431,
+      "article_count": 5,
+      "sentiment_label": "Negative"
     },
     {
-      "source": "The Verge",
-      "avg_sentiment": 0.237,
-      "article_count": 5,
+      "source": "TechCrunch",
+      "avg_sentiment": 0.282,
+      "article_count": 4,
       "sentiment_label": "Positive"
     },
     {
       "source": "The New York Times",
-      "avg_sentiment": 0.021,
+      "avg_sentiment": -0.301,
+      "article_count": 3,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": 0.08,
+      "article_count": 3,
+      "sentiment_label": "Positive"
+    },
+    {
+      "source": "The Washington Post",
+      "avg_sentiment": -0.398,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "BBC",
+      "avg_sentiment": -0.294,
+      "article_count": 2,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "WSJ",
+      "avg_sentiment": 0.046,
       "article_count": 2,
       "sentiment_label": "Neutral"
     },
     {
       "source": "Wired",
-      "avg_sentiment": 0.082,
+      "avg_sentiment": -0.39,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Negative"
     }
   ],
   "articles": [
     {
-      "headline": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T13:08:30",
-      "sentiment_score": 0.91,
-      "sentiment_label": "Positive",
-      "confidence": 0.933
-    },
-    {
-      "headline": "Can Anthropic Revive the A.I. Trade?",
+      "headline": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
       "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWt6aDNNRUd4TDBObHJrUnVUbTJxXzIzRU9UWGVtd2xSaVdPOVdYOGllQU5JelhTRXQ2V2M5MmptU3JyaVphZEpkUjBuMlZBUmc4bzF1YTM2b2R5ZzFCRkp4bVhvWnhCODFVS1JFVm5ldHlmUE9aWExwRFFlcnVTUlpwWERFYnM?oc=5",
-      "published": "2026-11-20T13:01:11",
-      "sentiment_score": 0.099,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+      "published": "2026-11-20T23:23:12",
+      "sentiment_score": 0.109,
       "sentiment_label": "Neutral",
       "confidence": 0.859
+    },
+    {
+      "headline": "Using AI, mathematician claims to have solved one of math\u2019s great mysteries",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
+      "published": "2026-11-20T23:18:21",
+      "sentiment_score": 0.041,
+      "sentiment_label": "Neutral",
+      "confidence": 0.911
+    },
+    {
+      "headline": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cjczNDdOUWdoOUlOSUFsbUc2dXF2UGFJaGZPelVGeEw0YnN6T0UzaVRRbXVCUXZCMzBPNnNfTEtueXVxay1BM0dmcEVJX0dBbXE3azNIQ1lXV00?oc=5",
+      "published": "2026-11-20T23:08:57",
+      "sentiment_score": 0.097,
+      "sentiment_label": "Neutral",
+      "confidence": 0.691
+    },
+    {
+      "headline": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T22:53:24",
+      "sentiment_score": 0.868,
+      "sentiment_label": "Positive",
+      "confidence": 0.882
+    },
+    {
+      "headline": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaXVJaktzUll1dHcwbTVtdnJjTjBDZjNVcFNic1hUbEFreS1fZ2lSLTlta2VVdEpwRFViVVhuUEVFcDBaTnNKbG0zeVBvaTc0dWNtTm1kRTNzcGMzemhWdmdWZ0FseWpLUUY3REFSLU1BWjF2cDNyVEFwMElpMmZobjFGcFgtY0pwaEFTdC1KcnpUWHBMR045SmFjeldEZWxHMEF4NUNwWGltcDc3SS1WMUJLekVjVFBZZ1FPZHVWZzQ0NnVqeG5UeEJNWXd4ZDRUYy1DLUlUa1A?oc=5",
+      "published": "2026-11-20T22:44:27",
+      "sentiment_score": -0.838,
+      "sentiment_label": "Negative",
+      "confidence": 0.859
+    },
+    {
+      "headline": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T22:42:47",
+      "sentiment_score": -0.942,
+      "sentiment_label": "Negative",
+      "confidence": 0.954
+    },
+    {
+      "headline": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYVdGdzl2am5CT1o3QlFFV2duR2dJZzNpbjlrYWg2cU4tVHJwZ0I4WWhaVmd3ZHQ0cTVyRklGcHprTlk0UFEzenE2T2ZNZ1pvNXdKbDBySkFDXzA5cktobkRxaTcxdkZzWGtfXzVzLXZqeEhnSDk5VEROWGRsNzQ?oc=5",
+      "published": "2026-11-20T22:26:16",
+      "sentiment_score": -0.955,
+      "sentiment_label": "Negative",
+      "confidence": 0.963
+    },
+    {
+      "headline": "Trump threatens ban on US firms building AI data centres overseas",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
+      "published": "2026-11-20T19:51:52",
+      "sentiment_score": -0.684,
+      "sentiment_label": "Negative",
+      "confidence": 0.708
+    },
+    {
+      "headline": "Forget rogue robots, it\u2019s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNk1CSjZrOUdhaGxJZXNqcDI5SDBxZzFHVG5SN1R5aGtWSHJBUEJpOU5DX1oxcktCS1lvdkN1aVZtN3h5Ty1NLU1aNW9JVzJQem5YSG1GbWIzZVhYY1dzamRoRkpkZ0lDREVjaFIwOVZJVlpGMU0wbXEyTzBvdkZoZkZlRWNYT041SWdsODg4VFhRSzRSYVhZUVNDVEdfMnJjTExySkFhU3JOMVoy?oc=5",
+      "published": "2026-11-20T19:00:00",
+      "sentiment_score": -0.072,
+      "sentiment_label": "Neutral",
+      "confidence": 0.866
+    },
+    {
+      "headline": "Exclusive | Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
+      "published": "2026-11-20T17:35:41",
+      "sentiment_score": 0.063,
+      "sentiment_label": "Neutral",
+      "confidence": 0.91
     },
     {
       "headline": "Watch GTA VI Is Likely the Final Masterpiece of the Pre-Generative AI Era. Enjoy It",
@@ -129,15 +234,6 @@
       "confidence": 0.924
     },
     {
-      "headline": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5",
-      "published": "2026-11-20T11:51:04",
-      "sentiment_score": -0.942,
-      "sentiment_label": "Negative",
-      "confidence": 0.952
-    },
-    {
       "headline": "Should AI be judging our credit worthiness?",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
@@ -145,15 +241,6 @@
       "sentiment_score": 0.098,
       "sentiment_label": "Neutral",
       "confidence": 0.875
-    },
-    {
-      "headline": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
-      "published": "2026-11-20T07:10:00",
-      "sentiment_score": 0.118,
-      "sentiment_label": "Neutral",
-      "confidence": 0.854
     },
     {
       "headline": "OpenAI is testing a new design for mobile ChatGPT.",
@@ -174,6 +261,87 @@
       "confidence": 0.58
     },
     {
+      "headline": "Cramer says Nvidia\u2019s woes are trumping Anthropic excitement for the rest of the AI trade",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html",
+      "published": "2026-11-19T23:22:53Z",
+      "sentiment_score": -0.934,
+      "sentiment_label": "Negative",
+      "confidence": 0.947
+    },
+    {
+      "headline": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "published": "2026-11-19T23:15:58Z",
+      "sentiment_score": -0.897,
+      "sentiment_label": "Negative",
+      "confidence": 0.915
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "published": "2026-11-19T23:10:27Z",
+      "sentiment_score": -0.962,
+      "sentiment_label": "Negative",
+      "confidence": 0.969
+    },
+    {
+      "headline": "Want to see your live AI usage on your Mac's icons? This clever new app lets you. | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "published": "2026-11-19T22:34:35Z",
+      "sentiment_score": 0.098,
+      "sentiment_label": "Neutral",
+      "confidence": 0.875
+    },
+    {
+      "headline": "Apple is hiring engineers to build its own AI agent",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "published": "2026-11-19T22:31:41Z",
+      "sentiment_score": 0.027,
+      "sentiment_label": "Neutral",
+      "confidence": 0.93
+    },
+    {
+      "headline": "Van Hollen Puts AI at Center of His Challenge to Schumer",
+      "source": "Time",
+      "link": "https://time.com/article/2026/11/19/chris-van-hollen-ai-schumer-challenge-senate-democratic-leader/",
+      "published": "2026-11-19T22:25:16Z",
+      "sentiment_score": 0.164,
+      "sentiment_label": "Neutral",
+      "confidence": 0.801
+    },
+    {
+      "headline": "What\u2019s With All These Outages?",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "published": "2026-11-19T21:57:01Z",
+      "sentiment_score": -0.027,
+      "sentiment_label": "Neutral",
+      "confidence": 0.904
+    },
+    {
+      "headline": "Congress passes bill to protect older investors from financial fraud",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+      "published": "2026-11-19T20:36:48Z",
+      "sentiment_score": 0.478,
+      "sentiment_label": "Positive",
+      "confidence": 0.51
+    },
+    {
+      "headline": "Google gives Gemini the ability to use your Mac for you | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "published": "2026-11-19T18:09:11Z",
+      "sentiment_score": 0.159,
+      "sentiment_label": "Neutral",
+      "confidence": 0.818
+    },
+    {
       "headline": "Dutch watchdog tells people not to buy AI smart glasses",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
@@ -192,67 +360,22 @@
       "confidence": 0.818
     },
     {
-      "headline": "Anthropic IPO: AI firm about to make US stock market debut with valuation of $1.5tn",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/live/c933xxm82mr8t",
-      "published": "2026-11-19T14:28:16Z",
-      "sentiment_score": 0.095,
-      "sentiment_label": "Neutral",
-      "confidence": 0.882
-    },
-    {
-      "headline": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+      "headline": "ChatGPT can transcribe as you speak now with Live Dictation",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "published": "2026-11-19T14:26:20Z",
-      "sentiment_score": 0.879,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "published": "2026-11-19T15:16:45Z",
+      "sentiment_score": 0.024,
+      "sentiment_label": "Neutral",
+      "confidence": 0.939
+    },
+    {
+      "headline": "Anthropic's IPO puts AI's circular financing boom to the test | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "published": "2026-11-19T14:54:39Z",
+      "sentiment_score": 0.78,
       "sentiment_label": "Positive",
-      "confidence": 0.89
-    },
-    {
-      "headline": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
-      "published": "2026-11-19T14:00:01Z",
-      "sentiment_score": 0.223,
-      "sentiment_label": "Neutral",
-      "confidence": 0.755
-    },
-    {
-      "headline": "How Silicon Valley lost the public, with Crooked Media\u2019s Jon Favreau",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
-      "published": "2026-11-19T13:55:56Z",
-      "sentiment_score": -0.001,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
-    },
-    {
-      "headline": "The Best Colleges for Future Leaders 2027",
-      "source": "Time",
-      "link": "https://time.com/article/2026/11/19/best-colleges-for-future-leaders-2027/",
-      "published": "2026-11-19T13:47:00Z",
-      "sentiment_score": 0.089,
-      "sentiment_label": "Neutral",
-      "confidence": 0.887
-    },
-    {
-      "headline": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
-      "published": "2026-11-19T12:31:10Z",
-      "sentiment_score": 0.728,
-      "sentiment_label": "Positive",
-      "confidence": 0.745
-    },
-    {
-      "headline": "Anthropic IPO could create thousands of multimillionaire employees",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
-      "published": "2026-11-19T12:30:01Z",
-      "sentiment_score": 0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.913
+      "confidence": 0.826
     },
     {
       "headline": "UK joins in GTA 6 frenzy as game becomes available worldwide",
@@ -273,24 +396,6 @@
       "confidence": 0.822
     },
     {
-      "headline": "Stocks moving the most today: Live updates",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
-      "published": "2026-11-19T11:44:10Z",
-      "sentiment_score": 0.016,
-      "sentiment_label": "Neutral",
-      "confidence": 0.933
-    },
-    {
-      "headline": "Anthropic IPO live updates: ANT stock price and Nasdaq debut",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "published": "2026-11-19T11:00:02Z",
-      "sentiment_score": 0.026,
-      "sentiment_label": "Neutral",
-      "confidence": 0.942
-    },
-    {
       "headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
@@ -298,6 +403,15 @@
       "sentiment_score": -0.605,
       "sentiment_label": "Negative",
       "confidence": 0.64
+    },
+    {
+      "headline": "Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGJTSlFJc1lrMF9oV1dFVF9BclVIZkVzaS1QaFRQSURWTFM2TDhCM3NBeVppcDBIRnc0cllqVERQTFI2RktjdXNIdkFtUFZGS2JSd3NRRUhDaFFhdFV4THlSeW9ZcnFEeHVWLUxxTkUwWU1pc3c5bmdXTGFVbXIyNmtxN2hXdVRYV1ZNM3N2M01zRWRNY3dGQTVqalVfTmEz?oc=5",
+      "published": "2026-11-19T02:00:00",
+      "sentiment_score": 0.029,
+      "sentiment_label": "Neutral",
+      "confidence": 0.907
     },
     {
       "headline": "The seven Anthropic founders who are about to become multi-billionaires",
@@ -309,33 +423,6 @@
       "confidence": 0.914
     },
     {
-      "headline": "Claude-maker Anthropic poised for $1.4tn stock market debut",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-      "published": "2026-11-18T23:36:04Z",
-      "sentiment_score": 0.185,
-      "sentiment_label": "Neutral",
-      "confidence": 0.794
-    },
-    {
-      "headline": "Canva adds an AI \u2018off\u2019 button",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "published": "2026-11-18T23:08:58Z",
-      "sentiment_score": 0.013,
-      "sentiment_label": "Neutral",
-      "confidence": 0.916
-    },
-    {
-      "headline": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T21:28:08",
-      "sentiment_score": 0.273,
-      "sentiment_label": "Neutral",
-      "confidence": 0.67
-    },
-    {
       "headline": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5",
@@ -343,33 +430,6 @@
       "sentiment_score": -0.057,
       "sentiment_label": "Neutral",
       "confidence": 0.894
-    },
-    {
-      "headline": "Trump\u2019s latest land grab is an AI hub in the Philippines",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "published": "2026-11-18T19:40:36Z",
-      "sentiment_score": 0.105,
-      "sentiment_label": "Neutral",
-      "confidence": 0.844
-    },
-    {
-      "headline": "Inside Nvidia\u2019s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "published": "2026-11-18T17:33:07Z",
-      "sentiment_score": 0.917,
-      "sentiment_label": "Positive",
-      "confidence": 0.939
-    },
-    {
-      "headline": "Hacks, AI or just overdue updates - why have there been so many outages?",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T13:16:53",
-      "sentiment_score": -0.768,
-      "sentiment_label": "Negative",
-      "confidence": 0.787
     },
     {
       "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
@@ -406,6 +466,15 @@
       "sentiment_score": -0.033,
       "sentiment_label": "Neutral",
       "confidence": 0.918
+    },
+    {
+      "headline": "Generative AI and News Report 2026: From standalone tools to information infrastructure",
+      "source": "reutersinstitute.politics.ox.ac.uk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzZyaGxxZHMteEdPS2tOX3pscXc4blNSbWRTNDMtM0c0UUdfUFhydnY4VFBHakNTUUpsRjkyRWhURkpaa3V5cnE0VGlIeVF4eXd5MWVqeFJtQ2VfbXU4SXJROEhOcTR2VkptdkprNy1qN3JTZTdsMFdQOXYwWXBmMU44QU1uTkdBejItdE9EZkoxR2U4a1A1cGxpRHJiaC1sbjA3WndLTUQ3WXI3SkFYUHRyRjlzQThPS0F3UWRB?oc=5",
+      "published": "2026-10-29T07:00:00",
+      "sentiment_score": 0.044,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
     }
   ]
 }
