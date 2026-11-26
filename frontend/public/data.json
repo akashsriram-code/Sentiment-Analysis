@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-25T16:28:56.516850",
-  "total_articles": 26,
-  "overall_sentiment": -0.19,
+  "last_updated": "2026-11-26T01:20:12.366729",
+  "total_articles": 31,
+  "overall_sentiment": -0.224,
   "overall_label": "Negative",
   "daily_stats": [
     {
@@ -33,21 +33,21 @@
     },
     {
       "date": "2026-11-24",
-      "avg_sentiment": -0.217,
-      "article_count": 11,
-      "positive_count": 2,
-      "negative_count": 4,
-      "neutral_count": 5,
-      "moving_avg": -0.038
+      "avg_sentiment": -0.23,
+      "article_count": 13,
+      "positive_count": 3,
+      "negative_count": 6,
+      "neutral_count": 4,
+      "moving_avg": -0.042
     },
     {
       "date": "2026-11-25",
-      "avg_sentiment": -0.247,
-      "article_count": 6,
-      "positive_count": 0,
-      "negative_count": 4,
+      "avg_sentiment": -0.322,
+      "article_count": 9,
+      "positive_count": 1,
+      "negative_count": 6,
       "neutral_count": 2,
-      "moving_avg": -0.08
+      "moving_avg": -0.098
     }
   ],
   "source_stats": [
@@ -59,30 +59,48 @@
     },
     {
       "source": "CNBC",
-      "avg_sentiment": 0.212,
-      "article_count": 5,
-      "sentiment_label": "Positive"
+      "avg_sentiment": -0.139,
+      "article_count": 9,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "TechCrunch",
+      "avg_sentiment": -0.172,
+      "article_count": 4,
+      "sentiment_label": "Negative"
+    },
+    {
+      "source": "The Verge",
+      "avg_sentiment": -0.388,
+      "article_count": 3,
+      "sentiment_label": "Negative"
     },
     {
       "source": "The New York Times",
       "avg_sentiment": -0.15,
       "article_count": 2,
       "sentiment_label": "Negative"
-    },
-    {
-      "source": "The Verge",
-      "avg_sentiment": -0.389,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "Wired",
-      "avg_sentiment": -0.47,
-      "article_count": 2,
-      "sentiment_label": "Negative"
     }
   ],
   "articles": [
+    {
+      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZET3dOcDNPZ1c3bnhSaGh6SkdXeGItdEl0dUNmbzVVZlhhSV8wZ1p0OTN5RDlfUXRZV3NMSXNnV2FxYXdVRWY5UnJZZ2FxbkVXNlFkWFFabHNfRTl2ZXJ5ZFVRd0prUkE0OFRYYktyVGNBemZkSGJZbXUzOVljaEtBdEhIT2Vydkhab2h1cFc0NDJyNVZMb29BQ3U2bUh3N2NETVpyenBmVVpRclBCWnpscjUwUQ?oc=5",
+      "published": "2026-11-25T20:03:27",
+      "sentiment_score": -0.138,
+      "sentiment_label": "Neutral",
+      "confidence": 0.766
+    },
+    {
+      "headline": "AI Becomes an Annoying Friend Who Won\u2019t Go Away",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOXFpOHJUTUlPdENsc2d1TU5UQjZrZm54Z0UzU0R4Z2xkOV9tYnZWOTR3emU2Q09MeEcwNnZEU3NUNHJZdHoxbW56bGJtQUJEX29QU29xbFBLRXFKdUdnT2JUY3RySWFUaVVaaTFvUDNCUV9lcGlQQVNmSDh5UXQ4RkZHcFBFaU1DdlY5Vk5GMVN6dWRROEJNSWRlZXdIWFJ1NFFZN1hURHBBcXpVaDRIUkxWTTFtQkNJ?oc=5",
+      "published": "2026-11-25T17:49:05",
+      "sentiment_score": -0.544,
+      "sentiment_label": "Negative",
+      "confidence": 0.564
+    },
     {
       "headline": "Why the Nvidia Rally Fizzled",
       "source": "The New York Times",
@@ -91,15 +109,6 @@
       "sentiment_score": -0.302,
       "sentiment_label": "Neutral",
       "confidence": 0.606
-    },
-    {
-      "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "source": "WIRED",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2ZEeWlGRU54UFdmYW53MGM2elF4bmN6cjIxTG4wUjVNdU12WkhMa1pfd3RLQ1RiTWt6Mm1sV1A4N05YbkFXTGlFZnM1Tzc2QzdtSWxETm5rYmhHd3lTdkMwQkFCSl8yaXJIdzhCZjZKclFqand0QUdOT0dUSHhudUdEZ242OF9UbUVBX3Zsc24?oc=5",
-      "published": "2026-11-25T11:30:00",
-      "sentiment_score": -0.096,
-      "sentiment_label": "Neutral",
-      "confidence": 0.859
     },
     {
       "headline": "EA adds AI-generated John Motson to FC 27 video game",
@@ -114,7 +123,7 @@
       "headline": "How to Talk With Your Family About A.I. Doom at Thanksgiving",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVB5UW1nMDFoeWRNR2lPS0gwRVl4NkJlNEd3UmY0MFMyWUc4VzhtZTd0VERQV0sydHJVMjdEN3BMbjdMN3BkeGQzOVNNRFJLUFZNVFYtVTJUaDhuYzk2ZWVkTlg0MlotazhpTHpiRkdpNE5oQm5POHg1ZGFKVUtnY0NnMlc?oc=5",
-      "published": "2026-11-25T10:04:13",
+      "published": "2026-11-25T10:04:20",
       "sentiment_score": 0.002,
       "sentiment_label": "Neutral",
       "confidence": 0.918
@@ -129,13 +138,76 @@
       "confidence": 0.697
     },
     {
-      "headline": "\u2018It\u2019s been really a mess\u2019: Meta insiders concerned over push to AI content moderation",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2R1YjJLbjBjWVNaaGdKVUlXLW1xLXRNczUzanM4US1aNU9RT0dHbkNpMXBsaV9nZWVieHlfeWc4TnZGUmlDRHBfNXFLbDc5eENVUVgzZnk4N3psdERKbmFUT0NUYUxHUjZITEZobDVJc1JjYkxLZzJlelRVb3Npd3h1VGZ1b2hkQmd1TDZwdkotMFdic25VZll1ZkdfVlB5ZFlSV0lCMA?oc=5",
-      "published": "2026-11-25T09:53:00",
-      "sentiment_score": -0.875,
+      "headline": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "published": "2026-11-25T00:57:45Z",
+      "sentiment_score": 0.14,
+      "sentiment_label": "Neutral",
+      "confidence": 0.834
+    },
+    {
+      "headline": "SoftBank drops over 11% as AI sell-off ripples across Asian tech names",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "published": "2026-11-25T00:54:11Z",
+      "sentiment_score": -0.948,
       "sentiment_label": "Negative",
-      "confidence": 0.888
+      "confidence": 0.968
+    },
+    {
+      "headline": "Yale's Sonnenfeld: Nvidia is a 'detriment' to U.S. industrial might \u2014 not a champion | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "published": "2026-11-25T00:12:02Z",
+      "sentiment_score": -0.897,
+      "sentiment_label": "Negative",
+      "confidence": 0.912
+    },
+    {
+      "headline": "Stock market today: Live updates",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "published": "2026-11-24T23:03:31Z",
+      "sentiment_score": -0.9,
+      "sentiment_label": "Negative",
+      "confidence": 0.937
+    },
+    {
+      "headline": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "published": "2026-11-24T21:50:29Z",
+      "sentiment_score": -0.764,
+      "sentiment_label": "Negative",
+      "confidence": 0.782
+    },
+    {
+      "headline": "Even the best AI agents struggle with everyday life | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "published": "2026-11-24T21:39:28Z",
+      "sentiment_score": 0.185,
+      "sentiment_label": "Neutral",
+      "confidence": 0.76
+    },
+    {
+      "headline": "AI debt markets shudder as Nvidia's top \"banker\" returns",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+      "published": "2026-11-24T21:39:24Z",
+      "sentiment_score": -0.588,
+      "sentiment_label": "Negative",
+      "confidence": 0.778
+    },
+    {
+      "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself | TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "published": "2026-11-24T21:19:52Z",
+      "sentiment_score": 0.164,
+      "sentiment_label": "Neutral",
+      "confidence": 0.81
     },
     {
       "headline": "Tech Life",
@@ -145,6 +217,24 @@
       "sentiment_score": 0.025,
       "sentiment_label": "Neutral",
       "confidence": 0.939
+    },
+    {
+      "headline": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+      "published": "2026-11-24T20:37:40Z",
+      "sentiment_score": 0.821,
+      "sentiment_label": "Positive",
+      "confidence": 0.829
+    },
+    {
+      "headline": "The clock is running out for America\u2019s most contentious spying law",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "published": "2026-11-24T19:57:13Z",
+      "sentiment_score": -0.249,
+      "sentiment_label": "Neutral",
+      "confidence": 0.61
     },
     {
       "headline": "Faisal Islam: Fears over the AI boom haven't gone away",
@@ -158,11 +248,20 @@
     {
       "headline": "David Fincher is being dragged for suspected use of AI in his latest film",
       "source": "The Verge",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM21nTjV1RFlsenY0Q2w2VDFOZWNWUzllSDJHVlFxOWM0UG5OMlM3TGtvaUhrdHRtdTc5bzNwSDVUMEg4MDRaTWhmaDBOY01MQlNmZ3lnRWlmUjEyamx0RUlrQ1ByWmxNc0p1QTdHQ2RlZTJGdFR6VWVaeU9tZnBZVUE5S2F2c1BzalNNNTlKamVKUHd1TmhFazM4OVBGQQ?oc=5",
-      "published": "2026-11-24T18:15:00",
-      "sentiment_score": -0.754,
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "published": "2026-11-24T18:12:33Z",
+      "sentiment_score": -0.891,
       "sentiment_label": "Negative",
-      "confidence": 0.77
+      "confidence": 0.917
+    },
+    {
+      "headline": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "published": "2026-11-24T17:59:12Z",
+      "sentiment_score": 0.018,
+      "sentiment_label": "Neutral",
+      "confidence": 0.923
     },
     {
       "headline": "Jensen Huang deepfakes are the hot new AI slop",
@@ -172,60 +271,6 @@
       "sentiment_score": -0.024,
       "sentiment_label": "Neutral",
       "confidence": 0.916
-    },
-    {
-      "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-      "published": "2026-11-24T16:00:00Z",
-      "sentiment_score": 0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
-    },
-    {
-      "headline": "Jensen Huang and the Cult of the Male Tech Founder",
-      "source": "Time",
-      "link": "https://time.com/article/2026/11/24/jensen-huang-ceo-male-tech-founder/",
-      "published": "2026-11-24T15:47:36Z",
-      "sentiment_score": 0.003,
-      "sentiment_label": "Neutral",
-      "confidence": 0.904
-    },
-    {
-      "headline": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "published": "2026-11-24T15:47:17Z",
-      "sentiment_score": 0.133,
-      "sentiment_label": "Neutral",
-      "confidence": 0.808
-    },
-    {
-      "headline": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/24/oaknorth-us-bank-charter.html",
-      "published": "2026-11-24T15:34:10Z",
-      "sentiment_score": 0.923,
-      "sentiment_label": "Positive",
-      "confidence": 0.932
-    },
-    {
-      "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "published": "2026-11-24T14:52:20Z",
-      "sentiment_score": -0.964,
-      "sentiment_label": "Negative",
-      "confidence": 0.974
-    },
-    {
-      "headline": "Don\u2019t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-      "published": "2026-11-24T10:45:00Z",
-      "sentiment_score": -0.943,
-      "sentiment_label": "Negative",
-      "confidence": 0.952
     },
     {
       "headline": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
