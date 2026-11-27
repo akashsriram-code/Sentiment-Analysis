@@ -1,9 +1,27 @@
 {
-  "last_updated": "2026-11-27T01:18:21.517063",
-  "total_articles": 32,
-  "overall_sentiment": -0.178,
+  "last_updated": "2026-11-27T15:51:20.234167",
+  "total_articles": 27,
+  "overall_sentiment": -0.161,
   "overall_label": "Negative",
   "daily_stats": [
+    {
+      "date": "2026-10-29",
+      "avg_sentiment": 0.044,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.044
+    },
+    {
+      "date": "2026-11-12",
+      "avg_sentiment": 0.011,
+      "article_count": 1,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "moving_avg": 0.027
+    },
     {
       "date": "2026-11-13",
       "avg_sentiment": 0.159,
@@ -11,7 +29,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.159
+      "moving_avg": 0.071
     },
     {
       "date": "2026-11-21",
@@ -20,7 +38,7 @@
       "positive_count": 1,
       "negative_count": 0,
       "neutral_count": 0,
-      "moving_avg": 0.126
+      "moving_avg": 0.077
     },
     {
       "date": "2026-11-23",
@@ -29,7 +47,7 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 1,
-      "moving_avg": -0.061
+      "moving_avg": -0.025
     },
     {
       "date": "2026-11-24",
@@ -38,49 +56,52 @@
       "positive_count": 0,
       "negative_count": 1,
       "neutral_count": 2,
-      "moving_avg": -0.109
+      "moving_avg": -0.063
     },
     {
       "date": "2026-11-25",
-      "avg_sentiment": -0.284,
-      "article_count": 15,
-      "positive_count": 2,
-      "negative_count": 8,
-      "neutral_count": 5,
-      "moving_avg": -0.144
+      "avg_sentiment": -0.234,
+      "article_count": 7,
+      "positive_count": 0,
+      "negative_count": 4,
+      "neutral_count": 3,
+      "moving_avg": -0.088
     },
     {
       "date": "2026-11-26",
-      "avg_sentiment": -0.006,
-      "article_count": 10,
+      "avg_sentiment": 0.031,
+      "article_count": 8,
       "positive_count": 3,
-      "negative_count": 6,
+      "negative_count": 4,
       "neutral_count": 1,
-      "moving_avg": -0.121
+      "moving_avg": -0.09
+    },
+    {
+      "date": "2026-11-27",
+      "avg_sentiment": -0.545,
+      "article_count": 3,
+      "positive_count": 1,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "moving_avg": -0.169
     }
   ],
   "source_stats": [
     {
       "source": "BBC News",
-      "avg_sentiment": -0.047,
-      "article_count": 11,
-      "sentiment_label": "Neutral"
+      "avg_sentiment": -0.134,
+      "article_count": 10,
+      "sentiment_label": "Negative"
     },
     {
       "source": "CNBC",
-      "avg_sentiment": -0.24,
-      "article_count": 6,
-      "sentiment_label": "Negative"
-    },
-    {
-      "source": "The New York Times",
-      "avg_sentiment": -0.067,
-      "article_count": 3,
-      "sentiment_label": "Negative"
+      "avg_sentiment": 0.058,
+      "article_count": 4,
+      "sentiment_label": "Positive"
     },
     {
       "source": "The Verge",
-      "avg_sentiment": -0.66,
+      "avg_sentiment": -0.44,
       "article_count": 3,
       "sentiment_label": "Negative"
     },
@@ -91,36 +112,39 @@
       "sentiment_label": "Negative"
     },
     {
-      "source": "TechCrunch",
-      "avg_sentiment": -0.425,
-      "article_count": 2,
-      "sentiment_label": "Negative"
-    },
-    {
       "source": "Wired",
-      "avg_sentiment": 0.187,
+      "avg_sentiment": 0.025,
       "article_count": 2,
-      "sentiment_label": "Positive"
+      "sentiment_label": "Neutral"
     }
   ],
   "articles": [
     {
-      "headline": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
-      "published": "2026-11-26T23:19:08",
-      "sentiment_score": -0.237,
-      "sentiment_label": "Neutral",
-      "confidence": 0.652
+      "headline": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
+      "published": "2026-11-27T09:51:51",
+      "sentiment_score": -0.943,
+      "sentiment_label": "Negative",
+      "confidence": 0.954
     },
     {
-      "headline": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
-      "published": "2026-11-26T23:08:12",
-      "sentiment_score": -0.054,
-      "sentiment_label": "Neutral",
+      "headline": "As Google threatens to cut schools\u2019 search access, Los Angeles blocks AI features",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
+      "published": "2026-11-27T05:01:00",
+      "sentiment_score": -0.867,
+      "sentiment_label": "Negative",
       "confidence": 0.879
+    },
+    {
+      "headline": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1RWUDNfdFhiM242MUZmNTlSajdYeEllVVU0YzFkdmptd1phTjVzYWNBeXduX05iSUNjSVgwUkJwajFETlYteDMtamYxb1liMTJQWFlSbFkxLW9SQXFZWFRNZHhWQlRUNkxEblY2dVF1ZHlnTmhtRHhzOF8wTVJJbV94VVFXZzZ4ZmthNGJPU2pNdFQ2V1JlVjVhNWpYNVlUSnNYM1BvMkhLZTdtdXo5bDBSNzJwTkxEQzNJ?oc=5",
+      "published": "2026-11-27T00:40:00",
+      "sentiment_score": 0.176,
+      "sentiment_label": "Neutral",
+      "confidence": 0.759
     },
     {
       "headline": "Asia made a big AI bet on Nvidia. What happens now?",
@@ -132,31 +156,22 @@
       "confidence": 0.499
     },
     {
-      "headline": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1RWUDNfdFhiM242MUZmNTlSajdYeEllVVU0YzFkdmptd1phTjVzYWNBeXduX05iSUNjSVgwUkJwajFETlYteDMtamYxb1liMTJQWFlSbFkxLW9SQXFZWFRNZHhWQlRUNkxEblY2dVF1ZHlnTmhtRHhzOF8wTVJJbV94VVFXZzZ4ZmthNGJPU2pNdFQ2V1JlVjVhNWpYNVlUSnNYM1BvMkhLZTdtdXo5bDBSNzJwTkxEQzNJ?oc=5",
-      "published": "2026-11-26T22:00:04",
-      "sentiment_score": 0.176,
+      "headline": "Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "published": "2026-11-26T15:34:08Z",
+      "sentiment_score": -0.228,
       "sentiment_label": "Neutral",
-      "confidence": 0.759
+      "confidence": 0.437
     },
     {
-      "headline": "In Praise of My Typewriter",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjFMbEhydTJuRWRxazZaVnFzeW5nSFZ5TUd5SjRWd29DV3Iwb2NZZ21IUnUxemhVdUdvaHNMM3JzWEk5eTlYcDVBMDI5MnpjdlZpLXJuU2xPdjRSOEtKUk1RV01falc3TnJ4bW1pcXBiLWRTMW9xNVp1TTFNMGxVaE9FWERRb3M?oc=5",
-      "published": "2026-11-26T20:43:17",
-      "sentiment_score": 0.033,
+      "headline": "The 40 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+      "published": "2026-11-26T15:00:27Z",
+      "sentiment_score": 0.025,
       "sentiment_label": "Neutral",
-      "confidence": 0.925
-    },
-    {
-      "headline": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
-      "published": "2026-11-26T16:15:48",
-      "sentiment_score": -0.943,
-      "sentiment_label": "Negative",
-      "confidence": 0.954
+      "confidence": 0.932
     },
     {
       "headline": "I\u2019m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
@@ -168,6 +183,33 @@
       "confidence": 0.725
     },
     {
+      "headline": "Semiconductor chips are the new oil. Here's why",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "published": "2026-11-26T13:19:25Z",
+      "sentiment_score": 0.286,
+      "sentiment_label": "Neutral",
+      "confidence": 0.671
+    },
+    {
+      "headline": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space | CNN Business",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl",
+      "published": "2026-11-26T12:20:55Z",
+      "sentiment_score": 0.182,
+      "sentiment_label": "Neutral",
+      "confidence": 0.759
+    },
+    {
+      "headline": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
+      "published": "2026-11-26T10:03:47",
+      "sentiment_score": -0.237,
+      "sentiment_label": "Neutral",
+      "confidence": 0.652
+    },
+    {
       "headline": "Musk's plan to send a million SpaceX data satellites into space approved",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
@@ -175,42 +217,6 @@
       "sentiment_score": 0.821,
       "sentiment_label": "Positive",
       "confidence": 0.828
-    },
-    {
-      "headline": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXlXQVE4enJyRWstWjJvUGdBczBMWHdfZHRmYTNSN3I0eFpqeXBfVU5tN3NRSERpcjBPeE1rV1kwWTBwWnY3U2s1TnlpY2EtakM5TmItUW1UdnVFZXJWTWVRQk1paVhJeTBpSlB0eHJyWERRdnZ1bVctUmctdGJZOXpZMnFMdkxYVlZ3UHI4OE1wZEhocHBGNW0wU1Z3S2VxQ0x6a1pablJOUzlTOXlMSkxUYjRFcWtIc2tB?oc=5",
-      "published": "2026-11-26T06:16:00",
-      "sentiment_score": -0.075,
-      "sentiment_label": "Neutral",
-      "confidence": 0.885
-    },
-    {
-      "headline": "US regulators approve SpaceX plan to send a million data satellites to space",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-      "published": "2026-11-26T00:07:51Z",
-      "sentiment_score": 0.816,
-      "sentiment_label": "Positive",
-      "confidence": 0.822
-    },
-    {
-      "headline": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "published": "2026-11-25T23:48:51Z",
-      "sentiment_score": 0.386,
-      "sentiment_label": "Positive",
-      "confidence": 0.666
-    },
-    {
-      "headline": "Liesman: Why Greenspan could bet on productivity \u2014 and Warsh needs to hike",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-      "published": "2026-11-25T21:56:43Z",
-      "sentiment_score": 0.046,
-      "sentiment_label": "Neutral",
-      "confidence": 0.822
     },
     {
       "headline": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
@@ -222,58 +228,22 @@
       "confidence": 0.927
     },
     {
-      "headline": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "published": "2026-11-25T20:28:42Z",
-      "sentiment_score": -0.564,
-      "sentiment_label": "Negative",
-      "confidence": 0.596
-    },
-    {
-      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work | TechCrunch",
+      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "published": "2026-11-25T20:03:27Z",
-      "sentiment_score": 0.018,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZET3dOcDNPZ1c3bnhSaGh6SkdXeGItdEl0dUNmbzVVZlhhSV8wZ1p0OTN5RDlfUXRZV3NMSXNnV2FxYXdVRWY5UnJZZ2FxbkVXNlFkWFFabHNfRTl2ZXJ5ZFVRd0prUkE0OFRYYktyVGNBemZkSGJZbXUzOVljaEtBdEhIT2Vydkhab2h1cFc0NDJyNVZMb29BQ3U2bUh3N2NETVpyenBmVVpRclBCWnpscjUwUQ?oc=5",
+      "published": "2026-11-25T20:03:27",
+      "sentiment_score": -0.138,
       "sentiment_label": "Neutral",
-      "confidence": 0.837
-    },
-    {
-      "headline": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019 | TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "published": "2026-11-25T19:45:13Z",
-      "sentiment_score": -0.868,
-      "sentiment_label": "Negative",
-      "confidence": 0.893
-    },
-    {
-      "headline": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-      "published": "2026-11-25T18:23:12Z",
-      "sentiment_score": -0.527,
-      "sentiment_label": "Negative",
-      "confidence": 0.561
+      "confidence": 0.766
     },
     {
       "headline": "Prediction markets push OpenAI IPO expectations later into 2027",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-      "published": "2026-11-25T17:08:03Z",
-      "sentiment_score": -0.937,
-      "sentiment_label": "Negative",
-      "confidence": 0.957
-    },
-    {
-      "headline": "Impunity: maybe not good for business?",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1042243/impunity-maybe-not-good-for-business",
-      "published": "2026-11-25T17:03:34Z",
-      "sentiment_score": -0.647,
-      "sentiment_label": "Negative",
-      "confidence": 0.721
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1QtdE95dUdaZ2Y1R1hLV3FidmtBRmdPWnlUdEU0MVRDSFNjU0xZa20wczZMVU16eVBqOEhjbG1pMHJaN0ZvMUJ3WV9EQXJMYU1aaFZPYlZ2T21SemMzNm9XRl9RVElEVTNKNmRJXzktRUs2ZTNaN2lNcU5OcERrelhR0gGHAUFVX3lxTE9tbWZXOWQ5Z2ttSGpUcWx0Nm5mNlY3R3NPczRRVEpEYk1WMjBOM2MtNzV2SE54a3VHbUtlaHNkVzJ3eURRT20yOHRmdmVkRC1vekhqSFJMZkRuSlE5aExRQzEtYzRDSU0xTEtPWmlPMHV5Y2xMRlRQcGxpUXBVdm1RNE80WVZBWQ?oc=5",
+      "published": "2026-11-25T17:08:03",
+      "sentiment_score": 0.017,
+      "sentiment_label": "Neutral",
+      "confidence": 0.897
     },
     {
       "headline": "Waymo conquered city streets \u2014 why does it keep stumbling on freeways?",
@@ -294,31 +264,13 @@
       "confidence": 0.932
     },
     {
-      "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-      "published": "2026-11-25T11:30:00Z",
-      "sentiment_score": 0.35,
-      "sentiment_label": "Neutral",
-      "confidence": 0.62
-    },
-    {
       "headline": "EA adds AI-generated John Motson to FC 27 video game",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
-      "published": "2026-11-25T10:11:34Z",
+      "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:11:34",
       "sentiment_score": 0.036,
       "sentiment_label": "Neutral",
       "confidence": 0.934
-    },
-    {
-      "headline": "How to Talk With Your Family About A.I. Doom at Thanksgiving",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVB5UW1nMDFoeWRNR2lPS0gwRVl4NkJlNEd3UmY0MFMyWUc4VzhtZTd0VERQV0sydHJVMjdEN3BMbjdMN3BkeGQzOVNNRFJLUFZNVFYtVTJUaDhuYzk2ZWVkTlg0MlotazhpTHpiRkdpNE5oQm5POHg1ZGFKVUtnY0NnMlc?oc=5",
-      "published": "2026-11-25T10:04:20",
-      "sentiment_score": 0.002,
-      "sentiment_label": "Neutral",
-      "confidence": 0.918
     },
     {
       "headline": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
@@ -391,6 +343,24 @@
       "sentiment_score": 0.159,
       "sentiment_label": "Neutral",
       "confidence": 0.822
+    },
+    {
+      "headline": "More game developers are starting to use generative AI",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUZfa0JfcllfZ2Voem5BS0c0aUNINHlwaWRmTWg4WGl6QnplOTYzTjA1TldGS2N1OXBLcFZUZ1p2THhNSER1RlNka0NGVGhFdG55OXBWbi1VdjlmenNMaXdJLXU4ckE5M25Ka1pKdHpDcmtwX2VzUW5OQkpkUGdqanNKdW5DMTRtYlF6SXZtRQ?oc=5",
+      "published": "2026-11-12T08:00:00",
+      "sentiment_score": 0.011,
+      "sentiment_label": "Neutral",
+      "confidence": 0.933
+    },
+    {
+      "headline": "Generative AI and News Report 2026: From standalone tools to information infrastructure",
+      "source": "reutersinstitute.politics.ox.ac.uk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzZyaGxxZHMteEdPS2tOX3pscXc4blNSbWRTNDMtM0c0UUdfUFhydnY4VFBHakNTUUpsRjkyRWhURkpaa3V5cnE0VGlIeVF4eXd5MWVqeFJtQ2VfbXU4SXJROEhOcTR2VkptdkprNy1qN3JTZTdsMFdQOXYwWXBmMU44QU1uTkdBejItdE9EZkoxR2U4a1A1cGxpRHJiaC1sbjA3WndLTUQ3WXI3SkFYUHRyRjlzQThPS0F3UWRB?oc=5",
+      "published": "2026-10-29T07:00:00",
+      "sentiment_score": 0.044,
+      "sentiment_label": "Neutral",
+      "confidence": 0.928
     }
   ]
 }
